@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-25T22:43:20.500384Z",
+  "generated_at": "2026-08-25T23:35:48.784926Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -48,15 +48,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8551,
-      "importance": 0.8551,
-      "importance_score": 0.8551,
+      "score": 0.8528,
+      "importance": 0.8528,
+      "importance_score": 0.8528,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.94,
-        "recency": 0.9837,
+        "recency": 0.9714,
         "story_heat": 0.0
       },
       "category": "official",
@@ -83,7 +83,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-25T23:23:12.553341Z"
+        "scored_at": "2026-08-26T00:15:08.295515Z"
       }
     },
     {
@@ -131,15 +131,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8496,
-      "importance": 0.8496,
-      "importance_score": 0.8496,
+      "score": 0.8475,
+      "importance": 0.8475,
+      "importance_score": 0.8475,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.99,
-        "recency": 0.8975,
+        "recency": 0.8863,
         "story_heat": 0.0
       },
       "category": "official",
@@ -166,7 +166,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-25T23:23:12.553341Z"
+        "scored_at": "2026-08-26T00:15:08.295515Z"
       }
     },
     {
@@ -214,15 +214,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8453,
-      "importance": 0.8453,
-      "importance_score": 0.8453,
+      "score": 0.8431,
+      "importance": 0.8431,
+      "importance_score": 0.8431,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.9627,
+        "recency": 0.9506,
         "story_heat": 0.0
       },
       "category": "official",
@@ -249,7 +249,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-25T23:23:12.553341Z"
+        "scored_at": "2026-08-26T00:15:08.295515Z"
       }
     },
     {
@@ -326,15 +326,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.8404,
-      "importance": 0.8404,
-      "importance_score": 0.8404,
+      "score": 0.8386,
+      "importance": 0.8386,
+      "importance_score": 0.8386,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.7969,
+        "recency": 0.7869,
         "story_heat": 0.25
       },
       "category": "official",
@@ -362,7 +362,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-25T23:23:12.553341Z"
+        "scored_at": "2026-08-26T00:15:08.295515Z"
       }
     },
     {
@@ -410,15 +410,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8273,
-      "importance": 0.8273,
-      "importance_score": 0.8273,
+      "score": 0.8253,
+      "importance": 0.8253,
+      "importance_score": 0.8253,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.9075,
+        "recency": 0.8961,
         "story_heat": 0.0
       },
       "category": "official",
@@ -445,7 +445,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-25T23:23:12.553341Z"
+        "scored_at": "2026-08-26T00:15:08.295515Z"
       }
     },
     {
@@ -493,15 +493,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8196,
-      "importance": 0.8196,
-      "importance_score": 0.8196,
+      "score": 0.818,
+      "importance": 0.818,
+      "importance_score": 0.818,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 1.0,
-        "recency": 0.7203,
+        "recency": 0.7112,
         "story_heat": 0.0
       },
       "category": "official",
@@ -528,7 +528,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-25T23:23:12.553341Z"
+        "scored_at": "2026-08-26T00:15:08.295515Z"
       }
     },
     {
@@ -576,15 +576,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8337,
-      "importance": 0.8337,
-      "importance_score": 0.8337,
+      "score": 0.8316,
+      "importance": 0.8316,
+      "importance_score": 0.8316,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.9429,
+        "recency": 0.931,
         "story_heat": 0.0
       },
       "category": "official",
@@ -611,7 +611,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-25T23:23:12.553341Z"
+        "scored_at": "2026-08-26T00:15:08.295515Z"
       }
     },
     {
@@ -659,15 +659,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8334,
-      "importance": 0.8334,
-      "importance_score": 0.8334,
+      "score": 0.8315,
+      "importance": 0.8315,
+      "importance_score": 0.8315,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.8523,
+        "recency": 0.8416,
         "story_heat": 0.0
       },
       "category": "official",
@@ -694,7 +694,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-25T23:23:12.553341Z"
+        "scored_at": "2026-08-26T00:15:08.295515Z"
       }
     },
     {
@@ -742,15 +742,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8176,
-      "importance": 0.8176,
-      "importance_score": 0.8176,
+      "score": 0.816,
+      "importance": 0.816,
+      "importance_score": 0.816,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.99,
-        "recency": 0.7203,
+        "recency": 0.7112,
         "story_heat": 0.0
       },
       "category": "official",
@@ -777,7 +777,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-25T23:23:12.553341Z"
+        "scored_at": "2026-08-26T00:15:08.295515Z"
       }
     },
     {
@@ -825,15 +825,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8156,
-      "importance": 0.8156,
-      "importance_score": 0.8156,
+      "score": 0.814,
+      "importance": 0.814,
+      "importance_score": 0.814,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.98,
-        "recency": 0.7203,
+        "recency": 0.7112,
         "story_heat": 0.0
       },
       "category": "official",
@@ -860,7 +860,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-25T23:23:12.553341Z"
+        "scored_at": "2026-08-26T00:15:08.295515Z"
       }
     },
     {
@@ -908,15 +908,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8313,
-      "importance": 0.8313,
-      "importance_score": 0.8313,
+      "score": 0.8292,
+      "importance": 0.8292,
+      "importance_score": 0.8292,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.9297,
+        "recency": 0.918,
         "story_heat": 0.0
       },
       "category": "official",
@@ -943,7 +943,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-25T23:23:12.553341Z"
+        "scored_at": "2026-08-26T00:15:08.295515Z"
       }
     },
     {
@@ -991,15 +991,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8156,
-      "importance": 0.8156,
-      "importance_score": 0.8156,
+      "score": 0.8138,
+      "importance": 0.8138,
+      "importance_score": 0.8138,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.7978,
+        "recency": 0.7878,
         "story_heat": 0.0
       },
       "category": "official",
@@ -1026,7 +1026,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-25T23:23:12.553341Z"
+        "scored_at": "2026-08-26T00:15:08.295515Z"
       }
     },
     {
@@ -1074,15 +1074,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7531,
-      "importance": 0.7531,
-      "importance_score": 0.7531,
+      "score": 0.751,
+      "importance": 0.751,
+      "importance_score": 0.751,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.73,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9025,
+        "recency": 0.8912,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1108,7 +1108,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-25T23:23:12.553341Z"
+        "scored_at": "2026-08-26T00:15:08.295515Z"
       }
     },
     {
@@ -1156,15 +1156,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8096,
-      "importance": 0.8096,
-      "importance_score": 0.8096,
+      "score": 0.808,
+      "importance": 0.808,
+      "importance_score": 0.808,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.7203,
+        "recency": 0.7112,
         "story_heat": 0.0
       },
       "category": "official",
@@ -1191,7 +1191,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-25T23:23:12.553341Z"
+        "scored_at": "2026-08-26T00:15:08.295515Z"
       }
     },
     {
@@ -1239,15 +1239,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7414,
-      "importance": 0.7414,
-      "importance_score": 0.7414,
+      "score": 0.7393,
+      "importance": 0.7393,
+      "importance_score": 0.7393,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.67,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9377,
+        "recency": 0.9259,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1272,7 +1272,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-25T23:23:12.553341Z"
+        "scored_at": "2026-08-26T00:15:08.295515Z"
       }
     },
     {
@@ -1320,15 +1320,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7408,
-      "importance": 0.7408,
-      "importance_score": 0.7408,
+      "score": 0.7387,
+      "importance": 0.7387,
+      "importance_score": 0.7387,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.67,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9345,
+        "recency": 0.9228,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1353,7 +1353,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-25T23:23:12.553341Z"
+        "scored_at": "2026-08-26T00:15:08.295515Z"
       }
     },
     {
@@ -1401,15 +1401,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7352,
-      "importance": 0.7352,
-      "importance_score": 0.7352,
+      "score": 0.7333,
+      "importance": 0.7333,
+      "importance_score": 0.7333,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8199,
+        "recency": 0.8096,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1434,7 +1434,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-25T23:23:12.553341Z"
+        "scored_at": "2026-08-26T00:15:08.295515Z"
       }
     },
     {
@@ -1482,15 +1482,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7307,
-      "importance": 0.7307,
-      "importance_score": 0.7307,
+      "score": 0.7285,
+      "importance": 0.7285,
+      "importance_score": 0.7285,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.61,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9785,
+        "recency": 0.9662,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1515,7 +1515,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-25T23:23:12.553341Z"
+        "scored_at": "2026-08-26T00:15:08.295515Z"
       }
     },
     {
@@ -1563,15 +1563,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7259,
-      "importance": 0.7259,
-      "importance_score": 0.7259,
+      "score": 0.7239,
+      "importance": 0.7239,
+      "importance_score": 0.7239,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.64,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9016,
+        "recency": 0.8903,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1596,88 +1596,90 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-25T23:23:12.553341Z"
+        "scored_at": "2026-08-26T00:15:08.295515Z"
       }
     },
     {
-      "story_id": "story_e78ba6d6ecd7",
-      "title": "Apple 推出搭载 M5 Max 与 M5 Ultra 的全新 Mac Studio / Apple introduces new Mac Studio with M5 Max and M5 Ultra",
-      "url": "https://www.apple.com/newsroom/2026/08/apple-introduces-new-mac-studio-with-m5-max-and-m5-ultra",
-      "primary_url": "https://www.apple.com/newsroom/2026/08/apple-introduces-new-mac-studio-with-m5-max-and-m5-ultra",
-      "source": "Apple：Newsroom（RSS）",
-      "source_name": "AI HOT",
+      "story_id": "story_4c08adc024bd",
+      "title": "Disrupting a new covert influence campaign from Russia",
+      "url": "https://openai.com/index/disrupting-malicious-uses-of-ai-influence-campaign-russia",
+      "primary_url": "https://openai.com/index/disrupting-malicious-uses-of-ai-influence-campaign-russia",
+      "source": "OpenAI News",
+      "source_name": "Official AI Updates",
       "sources": [
         {
-          "id": "900130058d1341061578b56b4d1701a3676a34d7",
-          "title": "Apple 推出搭载 M5 Max 与 M5 Ultra 的全新 Mac Studio / Apple introduces new Mac Studio with M5 Max and M5 Ultra",
-          "title_zh": "Apple 推出搭载 M5 Max 与 M5 Ultra 的全新 Mac Studio",
-          "title_en": "Apple introduces new Mac Studio with M5 Max and M5 Ultra",
-          "title_original": "Apple introduces new Mac Studio with M5 Max and M5 Ultra",
-          "summary": "Apple 发布搭载 M5 Max 与全新 M5 Ultra 的 Mac Studio，AI 性能最高提升 4.3 倍，图形性能提升 1.8 倍，存储速度提升 2 倍。M5 Ultra 版本支持最高 512GB 统一内存与 1.2TB/s 内存带宽，可完全在设备端运行大型 LLM；四台集群可带来最高 3 倍分布式 AI 推理速度提升。新品今日起接受预购，9 月 22 日开售。",
+          "id": "6bd2adbc583117c8e7211725eab9f4bfe5fd0ba9",
+          "title": "Disrupting a new covert influence campaign from Russia",
+          "title_zh": null,
+          "title_en": "Disrupting a new covert influence campaign from Russia",
+          "title_original": "Disrupting a new covert influence campaign from Russia",
+          "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.apple.com/newsroom/2026/08/apple-introduces-new-mac-studio-with-m5-max-and-m5-ultra",
-          "source": "Apple：Newsroom（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-25T13:00:23.969000Z"
+          "url": "https://openai.com/index/disrupting-malicious-uses-of-ai-influence-campaign-russia",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-08-25T00:00:00Z"
         }
       ],
       "source_count": 1,
       "source_names": [
-        "Apple：Newsroom（RSS）"
+        "OpenAI News"
       ],
       "items": [
         {
-          "id": "900130058d1341061578b56b4d1701a3676a34d7",
-          "title": "Apple 推出搭载 M5 Max 与 M5 Ultra 的全新 Mac Studio / Apple introduces new Mac Studio with M5 Max and M5 Ultra",
-          "title_zh": "Apple 推出搭载 M5 Max 与 M5 Ultra 的全新 Mac Studio",
-          "title_en": "Apple introduces new Mac Studio with M5 Max and M5 Ultra",
-          "title_original": "Apple introduces new Mac Studio with M5 Max and M5 Ultra",
-          "summary": "Apple 发布搭载 M5 Max 与全新 M5 Ultra 的 Mac Studio，AI 性能最高提升 4.3 倍，图形性能提升 1.8 倍，存储速度提升 2 倍。M5 Ultra 版本支持最高 512GB 统一内存与 1.2TB/s 内存带宽，可完全在设备端运行大型 LLM；四台集群可带来最高 3 倍分布式 AI 推理速度提升。新品今日起接受预购，9 月 22 日开售。",
+          "id": "6bd2adbc583117c8e7211725eab9f4bfe5fd0ba9",
+          "title": "Disrupting a new covert influence campaign from Russia",
+          "title_zh": null,
+          "title_en": "Disrupting a new covert influence campaign from Russia",
+          "title_original": "Disrupting a new covert influence campaign from Russia",
+          "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.apple.com/newsroom/2026/08/apple-introduces-new-mac-studio-with-m5-max-and-m5-ultra",
-          "source": "Apple：Newsroom（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-25T13:00:23.969000Z"
+          "url": "https://openai.com/index/disrupting-malicious-uses-of-ai-influence-campaign-russia",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-08-25T00:00:00Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.72,
-      "importance": 0.72,
-      "importance_score": 0.72,
-      "importance_label": "行业动态",
+      "score": 0.8,
+      "importance": 0.8,
+      "importance_score": 0.8,
+      "importance_label": "官方更新",
       "importance_breakdown": {
-        "editorial": 0.64,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.8691,
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.91,
+        "recency": 0.7112,
         "story_heat": 0.0
       },
-      "category": "industry",
+      "category": "official",
       "reasons": [
-        "high_ai_relevance"
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
       ],
-      "earliest_at": "2026-08-25T13:00:23.969000Z",
-      "latest_at": "2026-08-25T13:00:23.969000Z",
+      "earliest_at": "2026-08-25T00:00:00Z",
+      "latest_at": "2026-08-25T00:00:00Z",
       "primary_item": {
-        "id": "900130058d1341061578b56b4d1701a3676a34d7",
-        "title": "Apple 推出搭载 M5 Max 与 M5 Ultra 的全新 Mac Studio / Apple introduces new Mac Studio with M5 Max and M5 Ultra",
-        "title_zh": "Apple 推出搭载 M5 Max 与 M5 Ultra 的全新 Mac Studio",
-        "title_en": "Apple introduces new Mac Studio with M5 Max and M5 Ultra",
-        "title_original": "Apple introduces new Mac Studio with M5 Max and M5 Ultra",
-        "summary": "Apple 发布搭载 M5 Max 与全新 M5 Ultra 的 Mac Studio，AI 性能最高提升 4.3 倍，图形性能提升 1.8 倍，存储速度提升 2 倍。M5 Ultra 版本支持最高 512GB 统一内存与 1.2TB/s 内存带宽，可完全在设备端运行大型 LLM；四台集群可带来最高 3 倍分布式 AI 推理速度提升。新品今日起接受预购，9 月 22 日开售。",
+        "id": "6bd2adbc583117c8e7211725eab9f4bfe5fd0ba9",
+        "title": "Disrupting a new covert influence campaign from Russia",
+        "title_zh": null,
+        "title_en": "Disrupting a new covert influence campaign from Russia",
+        "title_original": "Disrupting a new covert influence campaign from Russia",
+        "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://www.apple.com/newsroom/2026/08/apple-introduces-new-mac-studio-with-m5-max-and-m5-ultra",
-        "source": "Apple：Newsroom（RSS）",
-        "source_name": "AI HOT"
+        "url": "https://openai.com/index/disrupting-malicious-uses-of-ai-influence-campaign-russia",
+        "source": "OpenAI News",
+        "source_name": "Official AI Updates"
       },
       "persona_id": "pragmatic",
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-25T23:23:12.553341Z"
+        "scored_at": "2026-08-26T00:15:08.295515Z"
       }
     }
   ]
