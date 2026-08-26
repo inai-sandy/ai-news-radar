@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-25T23:35:48.784926Z",
+  "generated_at": "2026-08-26T01:57:08.064069Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -48,15 +48,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8528,
-      "importance": 0.8528,
-      "importance_score": 0.8528,
+      "score": 0.847,
+      "importance": 0.847,
+      "importance_score": 0.847,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.94,
-        "recency": 0.9714,
+        "recency": 0.9389,
         "story_heat": 0.0
       },
       "category": "official",
@@ -83,7 +83,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-26T00:15:08.295515Z"
+        "scored_at": "2026-08-26T02:34:01.056877Z"
       }
     },
     {
@@ -131,15 +131,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8475,
-      "importance": 0.8475,
-      "importance_score": 0.8475,
+      "score": 0.8422,
+      "importance": 0.8422,
+      "importance_score": 0.8422,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.99,
-        "recency": 0.8863,
+        "recency": 0.8566,
         "story_heat": 0.0
       },
       "category": "official",
@@ -166,7 +166,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-26T00:15:08.295515Z"
+        "scored_at": "2026-08-26T02:34:01.056877Z"
       }
     },
     {
@@ -214,15 +214,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8431,
-      "importance": 0.8431,
-      "importance_score": 0.8431,
+      "score": 0.8374,
+      "importance": 0.8374,
+      "importance_score": 0.8374,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.9506,
+        "recency": 0.9188,
         "story_heat": 0.0
       },
       "category": "official",
@@ -249,7 +249,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-26T00:15:08.295515Z"
+        "scored_at": "2026-08-26T02:34:01.056877Z"
       }
     },
     {
@@ -326,15 +326,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.8386,
-      "importance": 0.8386,
-      "importance_score": 0.8386,
+      "score": 0.8339,
+      "importance": 0.8339,
+      "importance_score": 0.8339,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.7869,
+        "recency": 0.7606,
         "story_heat": 0.25
       },
       "category": "official",
@@ -362,7 +362,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-26T00:15:08.295515Z"
+        "scored_at": "2026-08-26T02:34:01.056877Z"
       }
     },
     {
@@ -410,15 +410,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8253,
-      "importance": 0.8253,
-      "importance_score": 0.8253,
+      "score": 0.8199,
+      "importance": 0.8199,
+      "importance_score": 0.8199,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.8961,
+        "recency": 0.8661,
         "story_heat": 0.0
       },
       "category": "official",
@@ -445,113 +445,30 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-26T00:15:08.295515Z"
+        "scored_at": "2026-08-26T02:34:01.056877Z"
       }
     },
     {
-      "story_id": "story_9ae1e7fe3cbc",
-      "title": "Browser extensions, site tools, and cloud sign-in",
-      "url": "https://developers.openai.com/codex/changelog",
-      "primary_url": "https://developers.openai.com/codex/changelog",
-      "source": "OpenAI Codex Changelog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "51ed931c2017f8886cbfbea38e595e938427d78b",
-          "title": "Browser extensions, site tools, and cloud sign-in",
-          "title_zh": null,
-          "title_en": "Browser extensions, site tools, and cloud sign-in",
-          "title_original": "Browser extensions, site tools, and cloud sign-in",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://developers.openai.com/codex/changelog",
-          "source": "OpenAI Codex Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-08-25T00:00:00Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "OpenAI Codex Changelog"
-      ],
-      "items": [
-        {
-          "id": "51ed931c2017f8886cbfbea38e595e938427d78b",
-          "title": "Browser extensions, site tools, and cloud sign-in",
-          "title_zh": null,
-          "title_en": "Browser extensions, site tools, and cloud sign-in",
-          "title_original": "Browser extensions, site tools, and cloud sign-in",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://developers.openai.com/codex/changelog",
-          "source": "OpenAI Codex Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-08-25T00:00:00Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.818,
-      "importance": 0.818,
-      "importance_score": 0.818,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 1.0,
-        "recency": 0.7112,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-08-25T00:00:00Z",
-      "latest_at": "2026-08-25T00:00:00Z",
-      "primary_item": {
-        "id": "51ed931c2017f8886cbfbea38e595e938427d78b",
-        "title": "Browser extensions, site tools, and cloud sign-in",
-        "title_zh": null,
-        "title_en": "Browser extensions, site tools, and cloud sign-in",
-        "title_original": "Browser extensions, site tools, and cloud sign-in",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://developers.openai.com/codex/changelog",
-        "source": "OpenAI Codex Changelog",
-        "source_name": "Official AI Updates"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-08-26T00:15:08.295515Z"
-      }
-    },
-    {
-      "story_id": "story_0536ff6c73c5",
-      "title": "Block users directly from security advisories",
-      "url": "https://github.blog/changelog/2026-08-25-block-users-directly-from-security-advisories",
-      "primary_url": "https://github.blog/changelog/2026-08-25-block-users-directly-from-security-advisories",
+      "story_id": "story_95764e895938",
+      "title": "Rule insights dashboard generally available",
+      "url": "https://github.blog/changelog/2026-08-25-rule-insights-dashboard-generally-available",
+      "primary_url": "https://github.blog/changelog/2026-08-25-rule-insights-dashboard-generally-available",
       "source": "GitHub Changelog",
       "source_name": "Official AI Updates",
       "sources": [
         {
-          "id": "ddf97cc4234c61cbe446eb6957d1046445f13b83",
-          "title": "Block users directly from security advisories",
+          "id": "ec43b42734b117b10beb78d90f9227d90f41ef16",
+          "title": "Rule insights dashboard generally available",
           "title_zh": null,
-          "title_en": "Block users directly from security advisories",
-          "title_original": "Block users directly from security advisories",
+          "title_en": "Rule insights dashboard generally available",
+          "title_original": "Rule insights dashboard generally available",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-08-25-block-users-directly-from-security-advisories",
+          "url": "https://github.blog/changelog/2026-08-25-rule-insights-dashboard-generally-available",
           "source": "GitHub Changelog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-08-25T18:38:57Z"
+          "published_at": "2026-08-25T20:05:35Z"
         }
       ],
       "source_count": 1,
@@ -560,31 +477,31 @@
       ],
       "items": [
         {
-          "id": "ddf97cc4234c61cbe446eb6957d1046445f13b83",
-          "title": "Block users directly from security advisories",
+          "id": "ec43b42734b117b10beb78d90f9227d90f41ef16",
+          "title": "Rule insights dashboard generally available",
           "title_zh": null,
-          "title_en": "Block users directly from security advisories",
-          "title_original": "Block users directly from security advisories",
+          "title_en": "Rule insights dashboard generally available",
+          "title_original": "Rule insights dashboard generally available",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-08-25-block-users-directly-from-security-advisories",
+          "url": "https://github.blog/changelog/2026-08-25-rule-insights-dashboard-generally-available",
           "source": "GitHub Changelog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-08-25T18:38:57Z"
+          "published_at": "2026-08-25T20:05:35Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8316,
-      "importance": 0.8316,
-      "importance_score": 0.8316,
+      "score": 0.8294,
+      "importance": 0.8294,
+      "importance_score": 0.8294,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.931,
+        "recency": 0.9189,
         "story_heat": 0.0
       },
       "category": "official",
@@ -593,17 +510,17 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-08-25T18:38:57Z",
-      "latest_at": "2026-08-25T18:38:57Z",
+      "earliest_at": "2026-08-25T20:05:35Z",
+      "latest_at": "2026-08-25T20:05:35Z",
       "primary_item": {
-        "id": "ddf97cc4234c61cbe446eb6957d1046445f13b83",
-        "title": "Block users directly from security advisories",
+        "id": "ec43b42734b117b10beb78d90f9227d90f41ef16",
+        "title": "Rule insights dashboard generally available",
         "title_zh": null,
-        "title_en": "Block users directly from security advisories",
-        "title_original": "Block users directly from security advisories",
+        "title_en": "Rule insights dashboard generally available",
+        "title_original": "Rule insights dashboard generally available",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://github.blog/changelog/2026-08-25-block-users-directly-from-security-advisories",
+        "url": "https://github.blog/changelog/2026-08-25-rule-insights-dashboard-generally-available",
         "source": "GitHub Changelog",
         "source_name": "Official AI Updates"
       },
@@ -611,7 +528,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-26T00:15:08.295515Z"
+        "scored_at": "2026-08-26T02:34:01.056877Z"
       }
     },
     {
@@ -659,15 +576,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8315,
-      "importance": 0.8315,
-      "importance_score": 0.8315,
+      "score": 0.8264,
+      "importance": 0.8264,
+      "importance_score": 0.8264,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.8416,
+        "recency": 0.8135,
         "story_heat": 0.0
       },
       "category": "official",
@@ -694,256 +611,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-26T00:15:08.295515Z"
-      }
-    },
-    {
-      "story_id": "story_4af25ba10386",
-      "title": "Introducing the Admin plugin for ChatGPT Work and Codex",
-      "url": "https://openai.com/index/introducing-admin-plugin",
-      "primary_url": "https://openai.com/index/introducing-admin-plugin",
-      "source": "OpenAI News",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "3da80bc21f6165601e41a06fda6af147905e774b",
-          "title": "Introducing the Admin plugin for ChatGPT Work and Codex",
-          "title_zh": null,
-          "title_en": "Introducing the Admin plugin for ChatGPT Work and Codex",
-          "title_original": "Introducing the Admin plugin for ChatGPT Work and Codex",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://openai.com/index/introducing-admin-plugin",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-08-25T00:00:00Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "OpenAI News"
-      ],
-      "items": [
-        {
-          "id": "3da80bc21f6165601e41a06fda6af147905e774b",
-          "title": "Introducing the Admin plugin for ChatGPT Work and Codex",
-          "title_zh": null,
-          "title_en": "Introducing the Admin plugin for ChatGPT Work and Codex",
-          "title_original": "Introducing the Admin plugin for ChatGPT Work and Codex",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://openai.com/index/introducing-admin-plugin",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-08-25T00:00:00Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.816,
-      "importance": 0.816,
-      "importance_score": 0.816,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.99,
-        "recency": 0.7112,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-08-25T00:00:00Z",
-      "latest_at": "2026-08-25T00:00:00Z",
-      "primary_item": {
-        "id": "3da80bc21f6165601e41a06fda6af147905e774b",
-        "title": "Introducing the Admin plugin for ChatGPT Work and Codex",
-        "title_zh": null,
-        "title_en": "Introducing the Admin plugin for ChatGPT Work and Codex",
-        "title_original": "Introducing the Admin plugin for ChatGPT Work and Codex",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://openai.com/index/introducing-admin-plugin",
-        "source": "OpenAI News",
-        "source_name": "Official AI Updates"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-08-26T00:15:08.295515Z"
-      }
-    },
-    {
-      "story_id": "story_55a2613433ab",
-      "title": "Trigger scheduled tasks from Gmail, Slack, and GitHub events",
-      "url": "https://developers.openai.com/codex/changelog",
-      "primary_url": "https://developers.openai.com/codex/changelog",
-      "source": "OpenAI Codex Changelog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "ab6c6215adcbb368a6762b0ceeb9f3cc14e167d5",
-          "title": "Trigger scheduled tasks from Gmail, Slack, and GitHub events",
-          "title_zh": null,
-          "title_en": "Trigger scheduled tasks from Gmail, Slack, and GitHub events",
-          "title_original": "Trigger scheduled tasks from Gmail, Slack, and GitHub events",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://developers.openai.com/codex/changelog",
-          "source": "OpenAI Codex Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-08-25T00:00:00Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "OpenAI Codex Changelog"
-      ],
-      "items": [
-        {
-          "id": "ab6c6215adcbb368a6762b0ceeb9f3cc14e167d5",
-          "title": "Trigger scheduled tasks from Gmail, Slack, and GitHub events",
-          "title_zh": null,
-          "title_en": "Trigger scheduled tasks from Gmail, Slack, and GitHub events",
-          "title_original": "Trigger scheduled tasks from Gmail, Slack, and GitHub events",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://developers.openai.com/codex/changelog",
-          "source": "OpenAI Codex Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-08-25T00:00:00Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.814,
-      "importance": 0.814,
-      "importance_score": 0.814,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.98,
-        "recency": 0.7112,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-08-25T00:00:00Z",
-      "latest_at": "2026-08-25T00:00:00Z",
-      "primary_item": {
-        "id": "ab6c6215adcbb368a6762b0ceeb9f3cc14e167d5",
-        "title": "Trigger scheduled tasks from Gmail, Slack, and GitHub events",
-        "title_zh": null,
-        "title_en": "Trigger scheduled tasks from Gmail, Slack, and GitHub events",
-        "title_original": "Trigger scheduled tasks from Gmail, Slack, and GitHub events",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://developers.openai.com/codex/changelog",
-        "source": "OpenAI Codex Changelog",
-        "source_name": "Official AI Updates"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-08-26T00:15:08.295515Z"
-      }
-    },
-    {
-      "story_id": "story_2ae3bbe5c601",
-      "title": "Push rules in rulesets now support path exceptions",
-      "url": "https://github.blog/changelog/2026-08-25-push-rules-in-rulesets-now-support-path-exceptions",
-      "primary_url": "https://github.blog/changelog/2026-08-25-push-rules-in-rulesets-now-support-path-exceptions",
-      "source": "GitHub Changelog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "e1c4eac73d8d8b63b5ddd2c669c78b7c2842a6c9",
-          "title": "Push rules in rulesets now support path exceptions",
-          "title_zh": null,
-          "title_en": "Push rules in rulesets now support path exceptions",
-          "title_original": "Push rules in rulesets now support path exceptions",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-08-25-push-rules-in-rulesets-now-support-path-exceptions",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-08-25T17:40:15Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "GitHub Changelog"
-      ],
-      "items": [
-        {
-          "id": "e1c4eac73d8d8b63b5ddd2c669c78b7c2842a6c9",
-          "title": "Push rules in rulesets now support path exceptions",
-          "title_zh": null,
-          "title_en": "Push rules in rulesets now support path exceptions",
-          "title_original": "Push rules in rulesets now support path exceptions",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-08-25-push-rules-in-rulesets-now-support-path-exceptions",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-08-25T17:40:15Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8292,
-      "importance": 0.8292,
-      "importance_score": 0.8292,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.87,
-        "recency": 0.918,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-08-25T17:40:15Z",
-      "latest_at": "2026-08-25T17:40:15Z",
-      "primary_item": {
-        "id": "e1c4eac73d8d8b63b5ddd2c669c78b7c2842a6c9",
-        "title": "Push rules in rulesets now support path exceptions",
-        "title_zh": null,
-        "title_en": "Push rules in rulesets now support path exceptions",
-        "title_original": "Push rules in rulesets now support path exceptions",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://github.blog/changelog/2026-08-25-push-rules-in-rulesets-now-support-path-exceptions",
-        "source": "GitHub Changelog",
-        "source_name": "Official AI Updates"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-08-26T00:15:08.295515Z"
+        "scored_at": "2026-08-26T02:34:01.056877Z"
       }
     },
     {
@@ -991,15 +659,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8138,
-      "importance": 0.8138,
-      "importance_score": 0.8138,
+      "score": 0.8091,
+      "importance": 0.8091,
+      "importance_score": 0.8091,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.7878,
+        "recency": 0.7615,
         "story_heat": 0.0
       },
       "category": "official",
@@ -1026,7 +694,172 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-26T00:15:08.295515Z"
+        "scored_at": "2026-08-26T02:34:01.056877Z"
+      }
+    },
+    {
+      "story_id": "story_ddb1a121f62b",
+      "title": "Anthropic 冲击全球最大 IPO：画 30 万亿美元市场蓝图，估值锚定 2 万亿",
+      "url": "https://www.aibase.com/news/30610",
+      "primary_url": "https://www.aibase.com/news/30610",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "c36d75ce522bea77bb66afccc0ad9e7dd20c7d84",
+          "title": "Anthropic 冲击全球最大 IPO：画 30 万亿美元市场蓝图，估值锚定 2 万亿",
+          "title_zh": "Anthropic 冲击全球最大 IPO：画 30 万亿美元市场蓝图，估值锚定 2 万亿",
+          "title_en": null,
+          "title_original": "Anthropic 冲击全球最大 IPO：画 30 万亿美元市场蓝图，估值锚定 2 万亿",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/30610",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-26T01:57:08.064069Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "c36d75ce522bea77bb66afccc0ad9e7dd20c7d84",
+          "title": "Anthropic 冲击全球最大 IPO：画 30 万亿美元市场蓝图，估值锚定 2 万亿",
+          "title_zh": "Anthropic 冲击全球最大 IPO：画 30 万亿美元市场蓝图，估值锚定 2 万亿",
+          "title_en": null,
+          "title_original": "Anthropic 冲击全球最大 IPO：画 30 万亿美元市场蓝图，估值锚定 2 万亿",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/30610",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-26T01:57:08.064069Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7676,
+      "importance": 0.7676,
+      "importance_score": 0.7676,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-26T01:57:08.064069Z",
+      "latest_at": "2026-08-26T01:57:08.064069Z",
+      "primary_item": {
+        "id": "c36d75ce522bea77bb66afccc0ad9e7dd20c7d84",
+        "title": "Anthropic 冲击全球最大 IPO：画 30 万亿美元市场蓝图，估值锚定 2 万亿",
+        "title_zh": "Anthropic 冲击全球最大 IPO：画 30 万亿美元市场蓝图，估值锚定 2 万亿",
+        "title_en": null,
+        "title_original": "Anthropic 冲击全球最大 IPO：画 30 万亿美元市场蓝图，估值锚定 2 万亿",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://www.aibase.com/news/30610",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-08-26T02:34:01.056877Z"
+      }
+    },
+    {
+      "story_id": "story_0536ff6c73c5",
+      "title": "Block users directly from security advisories",
+      "url": "https://github.blog/changelog/2026-08-25-block-users-directly-from-security-advisories",
+      "primary_url": "https://github.blog/changelog/2026-08-25-block-users-directly-from-security-advisories",
+      "source": "GitHub Changelog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "ddf97cc4234c61cbe446eb6957d1046445f13b83",
+          "title": "Block users directly from security advisories",
+          "title_zh": null,
+          "title_en": "Block users directly from security advisories",
+          "title_original": "Block users directly from security advisories",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://github.blog/changelog/2026-08-25-block-users-directly-from-security-advisories",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-08-25T18:38:57Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "GitHub Changelog"
+      ],
+      "items": [
+        {
+          "id": "ddf97cc4234c61cbe446eb6957d1046445f13b83",
+          "title": "Block users directly from security advisories",
+          "title_zh": null,
+          "title_en": "Block users directly from security advisories",
+          "title_original": "Block users directly from security advisories",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://github.blog/changelog/2026-08-25-block-users-directly-from-security-advisories",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-08-25T18:38:57Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.826,
+      "importance": 0.826,
+      "importance_score": 0.826,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.87,
+        "recency": 0.8999,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-25T18:38:57Z",
+      "latest_at": "2026-08-25T18:38:57Z",
+      "primary_item": {
+        "id": "ddf97cc4234c61cbe446eb6957d1046445f13b83",
+        "title": "Block users directly from security advisories",
+        "title_zh": null,
+        "title_en": "Block users directly from security advisories",
+        "title_original": "Block users directly from security advisories",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://github.blog/changelog/2026-08-25-block-users-directly-from-security-advisories",
+        "source": "GitHub Changelog",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-08-26T02:34:01.056877Z"
       }
     },
     {
@@ -1074,21 +907,20 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.751,
-      "importance": 0.751,
-      "importance_score": 0.751,
+      "score": 0.7457,
+      "importance": 0.7457,
+      "importance_score": 0.7457,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.73,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8912,
+        "recency": 0.8614,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-08-25T15:37:15Z",
       "latest_at": "2026-08-25T15:37:15Z",
@@ -1108,63 +940,145 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-26T00:15:08.295515Z"
+        "scored_at": "2026-08-26T02:34:01.056877Z"
       }
     },
     {
-      "story_id": "story_bc5800b304fc",
-      "title": "Wire It, Run It, Deploy It: AI Workflows in Gradio",
-      "url": "https://huggingface.co/blog/gradio-workflow-guide",
-      "primary_url": "https://huggingface.co/blog/gradio-workflow-guide",
-      "source": "Hugging Face Blog",
-      "source_name": "Official AI Updates",
+      "story_id": "story_75763b44f1d0",
+      "title": "Anthropic打通Claude与Cowork记忆系统 消除跨工作流重复交互痛点",
+      "url": "https://www.aibase.com/news/30616",
+      "primary_url": "https://www.aibase.com/news/30616",
+      "source": "AIbase",
+      "source_name": "AIbase",
       "sources": [
         {
-          "id": "430ba5ce0508f4735c075b6eda70a94f1bd40348",
-          "title": "Wire It, Run It, Deploy It: AI Workflows in Gradio",
-          "title_zh": null,
-          "title_en": "Wire It, Run It, Deploy It: AI Workflows in Gradio",
-          "title_original": "Wire It, Run It, Deploy It: AI Workflows in Gradio",
+          "id": "9368440e611a9fce578f5bd421db31c12ebe2eec",
+          "title": "Anthropic打通Claude与Cowork记忆系统 消除跨工作流重复交互痛点",
+          "title_zh": "Anthropic打通Claude与Cowork记忆系统 消除跨工作流重复交互痛点",
+          "title_en": null,
+          "title_original": "Anthropic打通Claude与Cowork记忆系统 消除跨工作流重复交互痛点",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://huggingface.co/blog/gradio-workflow-guide",
-          "source": "Hugging Face Blog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-08-25T00:00:00Z"
+          "url": "https://www.aibase.com/news/30616",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-26T01:57:08.064069Z"
         }
       ],
       "source_count": 1,
       "source_names": [
-        "Hugging Face Blog"
+        "AIbase"
       ],
       "items": [
         {
-          "id": "430ba5ce0508f4735c075b6eda70a94f1bd40348",
-          "title": "Wire It, Run It, Deploy It: AI Workflows in Gradio",
-          "title_zh": null,
-          "title_en": "Wire It, Run It, Deploy It: AI Workflows in Gradio",
-          "title_original": "Wire It, Run It, Deploy It: AI Workflows in Gradio",
+          "id": "9368440e611a9fce578f5bd421db31c12ebe2eec",
+          "title": "Anthropic打通Claude与Cowork记忆系统 消除跨工作流重复交互痛点",
+          "title_zh": "Anthropic打通Claude与Cowork记忆系统 消除跨工作流重复交互痛点",
+          "title_en": null,
+          "title_original": "Anthropic打通Claude与Cowork记忆系统 消除跨工作流重复交互痛点",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://huggingface.co/blog/gradio-workflow-guide",
-          "source": "Hugging Face Blog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-08-25T00:00:00Z"
+          "url": "https://www.aibase.com/news/30616",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-26T01:57:08.064069Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.808,
-      "importance": 0.808,
-      "importance_score": 0.808,
+      "score": 0.7676,
+      "importance": 0.7676,
+      "importance_score": 0.7676,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-26T01:57:08.064069Z",
+      "latest_at": "2026-08-26T01:57:08.064069Z",
+      "primary_item": {
+        "id": "9368440e611a9fce578f5bd421db31c12ebe2eec",
+        "title": "Anthropic打通Claude与Cowork记忆系统 消除跨工作流重复交互痛点",
+        "title_zh": "Anthropic打通Claude与Cowork记忆系统 消除跨工作流重复交互痛点",
+        "title_en": null,
+        "title_original": "Anthropic打通Claude与Cowork记忆系统 消除跨工作流重复交互痛点",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://www.aibase.com/news/30616",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-08-26T02:34:01.056877Z"
+      }
+    },
+    {
+      "story_id": "story_2ae3bbe5c601",
+      "title": "Push rules in rulesets now support path exceptions",
+      "url": "https://github.blog/changelog/2026-08-25-push-rules-in-rulesets-now-support-path-exceptions",
+      "primary_url": "https://github.blog/changelog/2026-08-25-push-rules-in-rulesets-now-support-path-exceptions",
+      "source": "GitHub Changelog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "e1c4eac73d8d8b63b5ddd2c669c78b7c2842a6c9",
+          "title": "Push rules in rulesets now support path exceptions",
+          "title_zh": null,
+          "title_en": "Push rules in rulesets now support path exceptions",
+          "title_original": "Push rules in rulesets now support path exceptions",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://github.blog/changelog/2026-08-25-push-rules-in-rulesets-now-support-path-exceptions",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-08-25T17:40:15Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "GitHub Changelog"
+      ],
+      "items": [
+        {
+          "id": "e1c4eac73d8d8b63b5ddd2c669c78b7c2842a6c9",
+          "title": "Push rules in rulesets now support path exceptions",
+          "title_zh": null,
+          "title_en": "Push rules in rulesets now support path exceptions",
+          "title_original": "Push rules in rulesets now support path exceptions",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://github.blog/changelog/2026-08-25-push-rules-in-rulesets-now-support-path-exceptions",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-08-25T17:40:15Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8237,
+      "importance": 0.8237,
+      "importance_score": 0.8237,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
-        "ai_relevance": 0.95,
-        "recency": 0.7112,
+        "ai_relevance": 0.87,
+        "recency": 0.8873,
         "story_heat": 0.0
       },
       "category": "official",
@@ -1173,25 +1087,25 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-08-25T00:00:00Z",
-      "latest_at": "2026-08-25T00:00:00Z",
+      "earliest_at": "2026-08-25T17:40:15Z",
+      "latest_at": "2026-08-25T17:40:15Z",
       "primary_item": {
-        "id": "430ba5ce0508f4735c075b6eda70a94f1bd40348",
-        "title": "Wire It, Run It, Deploy It: AI Workflows in Gradio",
+        "id": "e1c4eac73d8d8b63b5ddd2c669c78b7c2842a6c9",
+        "title": "Push rules in rulesets now support path exceptions",
         "title_zh": null,
-        "title_en": "Wire It, Run It, Deploy It: AI Workflows in Gradio",
-        "title_original": "Wire It, Run It, Deploy It: AI Workflows in Gradio",
+        "title_en": "Push rules in rulesets now support path exceptions",
+        "title_original": "Push rules in rulesets now support path exceptions",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://huggingface.co/blog/gradio-workflow-guide",
-        "source": "Hugging Face Blog",
+        "url": "https://github.blog/changelog/2026-08-25-push-rules-in-rulesets-now-support-path-exceptions",
+        "source": "GitHub Changelog",
         "source_name": "Official AI Updates"
       },
       "persona_id": "pragmatic",
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-26T00:15:08.295515Z"
+        "scored_at": "2026-08-26T02:34:01.056877Z"
       }
     },
     {
@@ -1239,15 +1153,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7393,
-      "importance": 0.7393,
-      "importance_score": 0.7393,
+      "score": 0.7337,
+      "importance": 0.7337,
+      "importance_score": 0.7337,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.67,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9259,
+        "recency": 0.895,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1272,7 +1186,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-26T00:15:08.295515Z"
+        "scored_at": "2026-08-26T02:34:01.056877Z"
       }
     },
     {
@@ -1320,15 +1234,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7387,
-      "importance": 0.7387,
-      "importance_score": 0.7387,
+      "score": 0.7332,
+      "importance": 0.7332,
+      "importance_score": 0.7332,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.67,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9228,
+        "recency": 0.892,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1353,88 +1267,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-26T00:15:08.295515Z"
-      }
-    },
-    {
-      "story_id": "story_79b9ec90a382",
-      "title": "ARIA 重拳封杀纯 AI 歌曲：人类创作主唱才能上榜，AI 辅助仍可准入",
-      "url": "https://www.aibase.com/news/30604",
-      "primary_url": "https://www.aibase.com/news/30604",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "32bf9da3f8cd8b23a50f42dddb4d2c71448b97e0",
-          "title": "ARIA 重拳封杀纯 AI 歌曲：人类创作主唱才能上榜，AI 辅助仍可准入",
-          "title_zh": "ARIA 重拳封杀纯 AI 歌曲：人类创作主唱才能上榜，AI 辅助仍可准入",
-          "title_en": null,
-          "title_original": "ARIA 重拳封杀纯 AI 歌曲：人类创作主唱才能上榜，AI 辅助仍可准入",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/30604",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-25T08:58:15.291357Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "32bf9da3f8cd8b23a50f42dddb4d2c71448b97e0",
-          "title": "ARIA 重拳封杀纯 AI 歌曲：人类创作主唱才能上榜，AI 辅助仍可准入",
-          "title_zh": "ARIA 重拳封杀纯 AI 歌曲：人类创作主唱才能上榜，AI 辅助仍可准入",
-          "title_en": null,
-          "title_original": "ARIA 重拳封杀纯 AI 歌曲：人类创作主唱才能上榜，AI 辅助仍可准入",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/30604",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-25T08:58:15.291357Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7333,
-      "importance": 0.7333,
-      "importance_score": 0.7333,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.8096,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-08-25T08:58:15.291357Z",
-      "latest_at": "2026-08-25T08:58:15.291357Z",
-      "primary_item": {
-        "id": "32bf9da3f8cd8b23a50f42dddb4d2c71448b97e0",
-        "title": "ARIA 重拳封杀纯 AI 歌曲：人类创作主唱才能上榜，AI 辅助仍可准入",
-        "title_zh": "ARIA 重拳封杀纯 AI 歌曲：人类创作主唱才能上榜，AI 辅助仍可准入",
-        "title_en": null,
-        "title_original": "ARIA 重拳封杀纯 AI 歌曲：人类创作主唱才能上榜，AI 辅助仍可准入",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/30604",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-08-26T00:15:08.295515Z"
+        "scored_at": "2026-08-26T02:34:01.056877Z"
       }
     },
     {
@@ -1482,15 +1315,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7285,
-      "importance": 0.7285,
-      "importance_score": 0.7285,
+      "score": 0.7227,
+      "importance": 0.7227,
+      "importance_score": 0.7227,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.61,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9662,
+        "recency": 0.9339,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1515,171 +1348,335 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-26T00:15:08.295515Z"
+        "scored_at": "2026-08-26T02:34:01.056877Z"
       }
     },
     {
-      "story_id": "story_33fb169ced44",
-      "title": "Dylan Patel：Anthropic 与 OpenAI 到 2028 年将控制全球大部分算力 / Dylan Patel - Anthropic & OpenAI will have most of the world's compute by 2028",
-      "url": "https://www.dwarkesh.com/p/dylan-patel-3",
-      "primary_url": "https://www.dwarkesh.com/p/dylan-patel-3",
-      "source": "Dwarkesh Patel：Podcast & Blog（RSS）",
-      "source_name": "AI HOT",
+      "story_id": "story_2d94419379a3",
+      "title": "Claude 记忆打通 Cowork 与聊天：背景一次说明，两端共享",
+      "url": "https://www.aibase.com/news/30620",
+      "primary_url": "https://www.aibase.com/news/30620",
+      "source": "AIbase",
+      "source_name": "AIbase",
       "sources": [
         {
-          "id": "5d63273982e062f7d8bb53aeac2027ff9a8ded8f",
-          "title": "Dylan Patel：Anthropic 与 OpenAI 到 2028 年将控制全球大部分算力 / Dylan Patel - Anthropic & OpenAI will have most of the world's compute by 2028",
-          "title_zh": "Dylan Patel：Anthropic 与 OpenAI 到 2028 年将控制全球大部分算力",
-          "title_en": "Dylan Patel - Anthropic & OpenAI will have most of the world's compute by 2028",
-          "title_original": "Dylan Patel - Anthropic & OpenAI will have most of the world's compute by 2028",
-          "summary": "在最新一期播客中，SemiAnalysis 创始人 Dylan Patel 与 Dwarkesh Patel 讨论实验室经济学，预计 Anthropic 和 OpenAI 到 2028 年将控制全球大部分可用 FLOPs，因其能更好变现算力并出价高于其他方。",
+          "id": "af0fc95266c31572566e3e423e81ae7fef73a31e",
+          "title": "Claude 记忆打通 Cowork 与聊天：背景一次说明，两端共享",
+          "title_zh": "Claude 记忆打通 Cowork 与聊天：背景一次说明，两端共享",
+          "title_en": null,
+          "title_original": "Claude 记忆打通 Cowork 与聊天：背景一次说明，两端共享",
+          "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.dwarkesh.com/p/dylan-patel-3",
-          "source": "Dwarkesh Patel：Podcast & Blog（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-25T15:32:57Z"
+          "url": "https://www.aibase.com/news/30620",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-26T01:57:08.064069Z"
         }
       ],
       "source_count": 1,
       "source_names": [
-        "Dwarkesh Patel：Podcast & Blog（RSS）"
+        "AIbase"
       ],
       "items": [
         {
-          "id": "5d63273982e062f7d8bb53aeac2027ff9a8ded8f",
-          "title": "Dylan Patel：Anthropic 与 OpenAI 到 2028 年将控制全球大部分算力 / Dylan Patel - Anthropic & OpenAI will have most of the world's compute by 2028",
-          "title_zh": "Dylan Patel：Anthropic 与 OpenAI 到 2028 年将控制全球大部分算力",
-          "title_en": "Dylan Patel - Anthropic & OpenAI will have most of the world's compute by 2028",
-          "title_original": "Dylan Patel - Anthropic & OpenAI will have most of the world's compute by 2028",
-          "summary": "在最新一期播客中，SemiAnalysis 创始人 Dylan Patel 与 Dwarkesh Patel 讨论实验室经济学，预计 Anthropic 和 OpenAI 到 2028 年将控制全球大部分可用 FLOPs，因其能更好变现算力并出价高于其他方。",
+          "id": "af0fc95266c31572566e3e423e81ae7fef73a31e",
+          "title": "Claude 记忆打通 Cowork 与聊天：背景一次说明，两端共享",
+          "title_zh": "Claude 记忆打通 Cowork 与聊天：背景一次说明，两端共享",
+          "title_en": null,
+          "title_original": "Claude 记忆打通 Cowork 与聊天：背景一次说明，两端共享",
+          "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.dwarkesh.com/p/dylan-patel-3",
-          "source": "Dwarkesh Patel：Podcast & Blog（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-25T15:32:57Z"
+          "url": "https://www.aibase.com/news/30620",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-26T01:57:08.064069Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7239,
-      "importance": 0.7239,
-      "importance_score": 0.7239,
+      "score": 0.7676,
+      "importance": 0.7676,
+      "importance_score": 0.7676,
       "importance_label": "行业动态",
       "importance_breakdown": {
-        "editorial": 0.64,
+        "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8903,
+        "recency": 1.0,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance"
+        "high_ai_relevance",
+        "high_importance"
       ],
-      "earliest_at": "2026-08-25T15:32:57Z",
-      "latest_at": "2026-08-25T15:32:57Z",
+      "earliest_at": "2026-08-26T01:57:08.064069Z",
+      "latest_at": "2026-08-26T01:57:08.064069Z",
       "primary_item": {
-        "id": "5d63273982e062f7d8bb53aeac2027ff9a8ded8f",
-        "title": "Dylan Patel：Anthropic 与 OpenAI 到 2028 年将控制全球大部分算力 / Dylan Patel - Anthropic & OpenAI will have most of the world's compute by 2028",
-        "title_zh": "Dylan Patel：Anthropic 与 OpenAI 到 2028 年将控制全球大部分算力",
-        "title_en": "Dylan Patel - Anthropic & OpenAI will have most of the world's compute by 2028",
-        "title_original": "Dylan Patel - Anthropic & OpenAI will have most of the world's compute by 2028",
-        "summary": "在最新一期播客中，SemiAnalysis 创始人 Dylan Patel 与 Dwarkesh Patel 讨论实验室经济学，预计 Anthropic 和 OpenAI 到 2028 年将控制全球大部分可用 FLOPs，因其能更好变现算力并出价高于其他方。",
+        "id": "af0fc95266c31572566e3e423e81ae7fef73a31e",
+        "title": "Claude 记忆打通 Cowork 与聊天：背景一次说明，两端共享",
+        "title_zh": "Claude 记忆打通 Cowork 与聊天：背景一次说明，两端共享",
+        "title_en": null,
+        "title_original": "Claude 记忆打通 Cowork 与聊天：背景一次说明，两端共享",
+        "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://www.dwarkesh.com/p/dylan-patel-3",
-        "source": "Dwarkesh Patel：Podcast & Blog（RSS）",
-        "source_name": "AI HOT"
+        "url": "https://www.aibase.com/news/30620",
+        "source": "AIbase",
+        "source_name": "AIbase"
       },
       "persona_id": "pragmatic",
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-26T00:15:08.295515Z"
+        "scored_at": "2026-08-26T02:34:01.056877Z"
       }
     },
     {
-      "story_id": "story_4c08adc024bd",
-      "title": "Disrupting a new covert influence campaign from Russia",
-      "url": "https://openai.com/index/disrupting-malicious-uses-of-ai-influence-campaign-russia",
-      "primary_url": "https://openai.com/index/disrupting-malicious-uses-of-ai-influence-campaign-russia",
-      "source": "OpenAI News",
-      "source_name": "Official AI Updates",
+      "story_id": "story_93a0e7b8cdf0",
+      "title": "Claude重磅升级：Cowork与日常聊天实现数据互通",
+      "url": "https://www.aibase.com/news/30617",
+      "primary_url": "https://www.aibase.com/news/30617",
+      "source": "AIbase",
+      "source_name": "AIbase",
       "sources": [
         {
-          "id": "6bd2adbc583117c8e7211725eab9f4bfe5fd0ba9",
-          "title": "Disrupting a new covert influence campaign from Russia",
-          "title_zh": null,
-          "title_en": "Disrupting a new covert influence campaign from Russia",
-          "title_original": "Disrupting a new covert influence campaign from Russia",
+          "id": "51da4e7bd2352cfab563bf96885a614ff4951f40",
+          "title": "Claude重磅升级：Cowork与日常聊天实现数据互通",
+          "title_zh": "Claude重磅升级：Cowork与日常聊天实现数据互通",
+          "title_en": null,
+          "title_original": "Claude重磅升级：Cowork与日常聊天实现数据互通",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://openai.com/index/disrupting-malicious-uses-of-ai-influence-campaign-russia",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-08-25T00:00:00Z"
+          "url": "https://www.aibase.com/news/30617",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-26T01:57:08.064069Z"
         }
       ],
       "source_count": 1,
       "source_names": [
-        "OpenAI News"
+        "AIbase"
       ],
       "items": [
         {
-          "id": "6bd2adbc583117c8e7211725eab9f4bfe5fd0ba9",
-          "title": "Disrupting a new covert influence campaign from Russia",
-          "title_zh": null,
-          "title_en": "Disrupting a new covert influence campaign from Russia",
-          "title_original": "Disrupting a new covert influence campaign from Russia",
+          "id": "51da4e7bd2352cfab563bf96885a614ff4951f40",
+          "title": "Claude重磅升级：Cowork与日常聊天实现数据互通",
+          "title_zh": "Claude重磅升级：Cowork与日常聊天实现数据互通",
+          "title_en": null,
+          "title_original": "Claude重磅升级：Cowork与日常聊天实现数据互通",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://openai.com/index/disrupting-malicious-uses-of-ai-influence-campaign-russia",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-08-25T00:00:00Z"
+          "url": "https://www.aibase.com/news/30617",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-26T01:57:08.064069Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8,
-      "importance": 0.8,
-      "importance_score": 0.8,
-      "importance_label": "官方更新",
+      "score": 0.7676,
+      "importance": 0.7676,
+      "importance_score": 0.7676,
+      "importance_label": "行业动态",
       "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.91,
-        "recency": 0.7112,
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
         "story_heat": 0.0
       },
-      "category": "official",
+      "category": "industry",
       "reasons": [
-        "official_source",
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-08-25T00:00:00Z",
-      "latest_at": "2026-08-25T00:00:00Z",
+      "earliest_at": "2026-08-26T01:57:08.064069Z",
+      "latest_at": "2026-08-26T01:57:08.064069Z",
       "primary_item": {
-        "id": "6bd2adbc583117c8e7211725eab9f4bfe5fd0ba9",
-        "title": "Disrupting a new covert influence campaign from Russia",
-        "title_zh": null,
-        "title_en": "Disrupting a new covert influence campaign from Russia",
-        "title_original": "Disrupting a new covert influence campaign from Russia",
+        "id": "51da4e7bd2352cfab563bf96885a614ff4951f40",
+        "title": "Claude重磅升级：Cowork与日常聊天实现数据互通",
+        "title_zh": "Claude重磅升级：Cowork与日常聊天实现数据互通",
+        "title_en": null,
+        "title_original": "Claude重磅升级：Cowork与日常聊天实现数据互通",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://openai.com/index/disrupting-malicious-uses-of-ai-influence-campaign-russia",
-        "source": "OpenAI News",
-        "source_name": "Official AI Updates"
+        "url": "https://www.aibase.com/news/30617",
+        "source": "AIbase",
+        "source_name": "AIbase"
       },
       "persona_id": "pragmatic",
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-08-26T00:15:08.295515Z"
+        "scored_at": "2026-08-26T02:34:01.056877Z"
+      }
+    },
+    {
+      "story_id": "story_c8633ab3e5f7",
+      "title": "OpenAI自研Jalapeno芯片曝光：性能测试全面反超GB300",
+      "url": "https://www.aibase.com/news/30612",
+      "primary_url": "https://www.aibase.com/news/30612",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "3f49dc0298aba80744e4fd094e68222f01aa18c9",
+          "title": "OpenAI自研Jalapeno芯片曝光：性能测试全面反超GB300",
+          "title_zh": "OpenAI自研Jalapeno芯片曝光：性能测试全面反超GB300",
+          "title_en": null,
+          "title_original": "OpenAI自研Jalapeno芯片曝光：性能测试全面反超GB300",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/30612",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-26T01:57:08.064069Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "3f49dc0298aba80744e4fd094e68222f01aa18c9",
+          "title": "OpenAI自研Jalapeno芯片曝光：性能测试全面反超GB300",
+          "title_zh": "OpenAI自研Jalapeno芯片曝光：性能测试全面反超GB300",
+          "title_en": null,
+          "title_original": "OpenAI自研Jalapeno芯片曝光：性能测试全面反超GB300",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/30612",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-26T01:57:08.064069Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7676,
+      "importance": 0.7676,
+      "importance_score": 0.7676,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-26T01:57:08.064069Z",
+      "latest_at": "2026-08-26T01:57:08.064069Z",
+      "primary_item": {
+        "id": "3f49dc0298aba80744e4fd094e68222f01aa18c9",
+        "title": "OpenAI自研Jalapeno芯片曝光：性能测试全面反超GB300",
+        "title_zh": "OpenAI自研Jalapeno芯片曝光：性能测试全面反超GB300",
+        "title_en": null,
+        "title_original": "OpenAI自研Jalapeno芯片曝光：性能测试全面反超GB300",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://www.aibase.com/news/30612",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-08-26T02:34:01.056877Z"
+      }
+    },
+    {
+      "story_id": "story_c85babc6606f",
+      "title": "Stability AI完成7600万美元B轮融资 索尼与环球音乐等巨头参投",
+      "url": "https://www.aibase.com/news/30613",
+      "primary_url": "https://www.aibase.com/news/30613",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "4fd13cbb353295cfa777659619655a6ea3373553",
+          "title": "Stability AI完成7600万美元B轮融资 索尼与环球音乐等巨头参投",
+          "title_zh": "Stability AI完成7600万美元B轮融资 索尼与环球音乐等巨头参投",
+          "title_en": null,
+          "title_original": "Stability AI完成7600万美元B轮融资 索尼与环球音乐等巨头参投",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/30613",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-26T01:57:08.064069Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "4fd13cbb353295cfa777659619655a6ea3373553",
+          "title": "Stability AI完成7600万美元B轮融资 索尼与环球音乐等巨头参投",
+          "title_zh": "Stability AI完成7600万美元B轮融资 索尼与环球音乐等巨头参投",
+          "title_en": null,
+          "title_original": "Stability AI完成7600万美元B轮融资 索尼与环球音乐等巨头参投",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/30613",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-26T01:57:08.064069Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7676,
+      "importance": 0.7676,
+      "importance_score": 0.7676,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-26T01:57:08.064069Z",
+      "latest_at": "2026-08-26T01:57:08.064069Z",
+      "primary_item": {
+        "id": "4fd13cbb353295cfa777659619655a6ea3373553",
+        "title": "Stability AI完成7600万美元B轮融资 索尼与环球音乐等巨头参投",
+        "title_zh": "Stability AI完成7600万美元B轮融资 索尼与环球音乐等巨头参投",
+        "title_en": null,
+        "title_original": "Stability AI完成7600万美元B轮融资 索尼与环球音乐等巨头参投",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://www.aibase.com/news/30613",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-08-26T02:34:01.056877Z"
       }
     }
   ]
