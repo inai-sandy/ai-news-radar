@@ -12,6 +12,7 @@ import math
 import os
 import random
 import re
+import socket
 import time
 import xml.etree.ElementTree as ET
 from dataclasses import dataclass
@@ -21,6 +22,13 @@ from pathlib import Path
 from typing import Any
 from urllib.parse import parse_qsl, urlencode, urljoin, urlparse, urlunparse
 from zoneinfo import ZoneInfo
+
+# No socket in this process may block for ever. The hourly job has a hard 40-minute budget in
+# GitHub Actions, and a single source that accepts a connection and then stalls can spend all of
+# it — the run is cancelled before it commits, so nothing is published at all. Every deliberate
+# fetch below still passes its own (shorter) timeout; this is only the floor under the ones that
+# do not, including libraries that open sockets themselves.
+socket.setdefaulttimeout(20)
 
 import requests
 from bs4 import BeautifulSoup
@@ -1236,7 +1244,12 @@ def fetch_iris(session: requests.Session, now: datetime) -> list[RawItem]:
             break
         try:
             if feedparser is not None:
-                parsed = feedparser.parse(feed_url)
+                # Fetch it OURSELVES with a timeout and hand feedparser the bytes. Handing it a URL
+                # makes it do its own socket fetch with no timeout, so one stalled feed here could
+                # consume the entire job budget. Same shape as the main RSS path further down.
+                feed_resp = session.get(feed_url, timeout=12)
+                feed_resp.raise_for_status()
+                parsed = feedparser.parse(feed_resp.content)
                 source_name = str(feed_name or getattr(parsed, "feed", {}).get("title") or "Iris Feed")
                 for entry in parsed.entries:
                     if len(out) >= DISCUSSION_FETCH_CAP:

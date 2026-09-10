@@ -20,7 +20,12 @@ permissions:
 
 jobs:
   update:
-    timeout-minutes: 40
+    # 40 was not enough: this job is network-bound and its runtime swings between ~1 and ~40
+    # minutes depending on how fast the sources answer. It grazed the cap from 4 Sep and then
+    # exceeded it on every run from 9 Sep, so it was cancelled before "Commit and push changes"
+    # and nothing was published for a day. Raised together with the socket timeouts in
+    # update_news.py, which is what stops the bad case being unbounded.
+    timeout-minutes: 55
     runs-on: ubuntu-latest
     steps:
       - name: Checkout
@@ -55,6 +60,9 @@ jobs:
 
       - name: Update data
         env:
+          # Stream the script's output instead of holding it in a buffer until the end. A cancelled
+          # run loses that buffer entirely, so a timeout used to leave no trace of where it got to.
+          PYTHONUNBUFFERED: "1"
           EMAIL_DIGEST_ENABLED: ${{ secrets.EMAIL_DIGEST_ENABLED || vars.EMAIL_DIGEST_ENABLED }}
           AGENTMAIL_API_KEY: ${{ secrets.AGENTMAIL_API_KEY }}
           AGENTMAIL_INBOX_ID: ${{ secrets.AGENTMAIL_INBOX_ID }}
