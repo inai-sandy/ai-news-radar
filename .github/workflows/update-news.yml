@@ -48,6 +48,41 @@ jobs:
           python -m pip install --upgrade pip
           pip install -r requirements.txt
 
+      # The collector's state between runs. It used to be carried in git, which is what made the
+      # repo 8.8 GB; it belongs here instead. The key is unique per run so each run saves a fresh
+      # copy, and restore-keys picks up the most recent one.
+      - name: Restore the collector's state
+        uses: actions/cache@v4
+        with:
+          path: |
+            data/archive.json
+            data/title-zh-cache.json
+          key: radar-state-${{ github.run_id }}
+          restore-keys: |
+            radar-state-
+
+      # First run after the switch has no cache yet, and the files are no longer in the checkout.
+      # Seed them from a PINNED commit that still contains them — raw.githubusercontent serves any
+      # historical blob, so this keeps working no matter what the branch looks like now. (The
+      # published Pages copy disappears the moment this change deploys, so it is no use here.)
+      # Once the cache is warm this step does nothing; if it ever fails the collector rebuilds.
+      - name: Seed the state if the cache was empty
+        env:
+          SEED_REF: d3fcee37919809efa7693d496d42971ee878fcd2
+        run: |
+          raw="https://raw.githubusercontent.com/${{ github.repository }}/$SEED_REF/data"
+          for f in archive.json title-zh-cache.json; do
+            if [ ! -s "data/$f" ]; then
+              mkdir -p data
+              if curl -fsSL --max-time 180 "$raw/$f" -o "data/$f"; then
+                echo "seeded data/$f from $SEED_REF ($(wc -c < "data/$f") bytes)"
+              else
+                echo "could not seed $f — the collector will rebuild it"
+                rm -f "data/$f"
+              fi
+            fi
+          done
+
       - name: Prepare OPML
         env:
           FOLLOW_OPML_B64: ${{ secrets.FOLLOW_OPML_B64 }}

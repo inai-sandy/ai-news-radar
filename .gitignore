@@ -25,6 +25,12 @@ feeds/private*.opml
 
 # Optional private/generated digests
 data/email-digest.json
+# The collector's own working state, not published output. Nothing fetches these — not the site,
+# not My Brain — but they were committed on every run, a fresh 9.3 MB + 6.7 MB object each time.
+# That is ~85% of why this repo reached 8.8 GB across 2,739 commits. They live in the Actions
+# cache instead now; see "Restore the collector's state" in .github/workflows/update-news.yml.
+data/archive.json
+data/title-zh-cache.json
 
 # Local OS/editor noise
 .DS_Store
