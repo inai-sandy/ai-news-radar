@@ -13,7 +13,12 @@ on:
 
 concurrency:
   group: update-ai-news-${{ github.ref }}
-  cancel-in-progress: true
+  # NEVER cancel a run that is already going. This job takes 20-40 minutes and only does anything
+  # useful in its LAST step ("Commit and push changes"), so killing it at 95% publishes nothing at
+  # all — the run is pure waste and the site goes stale. With cancel-in-progress it was shot by its
+  # own successor: the run started 2026-09-10 18:08:51 died at 18:25:24, the moment the next one
+  # began. Queue the newcomer instead and let the one holding the data finish.
+  cancel-in-progress: false
 
 permissions:
   contents: write
