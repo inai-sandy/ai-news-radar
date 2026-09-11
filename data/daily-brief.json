@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-11T20:47:20.927392Z",
+  "generated_at": "2026-09-11T21:41:47.655816Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -77,15 +77,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.863,
-      "importance": 0.863,
-      "importance_score": 0.863,
+      "score": 0.8607,
+      "importance": 0.8607,
+      "importance_score": 0.8607,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.9666,
+        "recency": 0.954,
         "story_heat": 0.25
       },
       "category": "official",
@@ -113,7 +113,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-11T21:11:55.828679Z"
+        "scored_at": "2026-09-11T22:07:25.769113Z"
       }
     },
     {
@@ -161,15 +161,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.85,
-      "importance": 0.85,
-      "importance_score": 0.85,
+      "score": 0.8476,
+      "importance": 0.8476,
+      "importance_score": 0.8476,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.9887,
+        "recency": 0.9758,
         "story_heat": 0.0
       },
       "category": "official",
@@ -196,7 +196,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-11T21:11:55.828679Z"
+        "scored_at": "2026-09-11T22:07:25.769113Z"
       }
     },
     {
@@ -244,15 +244,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.834,
-      "importance": 0.834,
-      "importance_score": 0.834,
+      "score": 0.832,
+      "importance": 0.832,
+      "importance_score": 0.832,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.8557,
+        "recency": 0.8446,
         "story_heat": 0.0
       },
       "category": "official",
@@ -279,7 +279,90 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-11T21:11:55.828679Z"
+        "scored_at": "2026-09-11T22:07:25.769113Z"
+      }
+    },
+    {
+      "story_id": "story_443601b34cf8",
+      "title": "Quick chats with Pets and Appshots on Windows 26.908",
+      "url": "https://developers.openai.com/codex/changelog",
+      "primary_url": "https://developers.openai.com/codex/changelog",
+      "source": "OpenAI Codex Changelog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "7117458f518f885fe141d11b2560556284fc84d8",
+          "title": "Quick chats with Pets and Appshots on Windows 26.908",
+          "title_zh": null,
+          "title_en": "Quick chats with Pets and Appshots on Windows 26.908",
+          "title_original": "Quick chats with Pets and Appshots on Windows 26.908",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://developers.openai.com/codex/changelog",
+          "source": "OpenAI Codex Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-09-11T00:00:00Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "OpenAI Codex Changelog"
+      ],
+      "items": [
+        {
+          "id": "7117458f518f885fe141d11b2560556284fc84d8",
+          "title": "Quick chats with Pets and Appshots on Windows 26.908",
+          "title_zh": null,
+          "title_en": "Quick chats with Pets and Appshots on Windows 26.908",
+          "title_original": "Quick chats with Pets and Appshots on Windows 26.908",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://developers.openai.com/codex/changelog",
+          "source": "OpenAI Codex Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-09-11T00:00:00Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8176,
+      "importance": 0.8176,
+      "importance_score": 0.8176,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.98,
+        "recency": 0.731,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-11T00:00:00Z",
+      "latest_at": "2026-09-11T00:00:00Z",
+      "primary_item": {
+        "id": "7117458f518f885fe141d11b2560556284fc84d8",
+        "title": "Quick chats with Pets and Appshots on Windows 26.908",
+        "title_zh": null,
+        "title_en": "Quick chats with Pets and Appshots on Windows 26.908",
+        "title_original": "Quick chats with Pets and Appshots on Windows 26.908",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://developers.openai.com/codex/changelog",
+        "source": "OpenAI Codex Changelog",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-09-11T22:07:25.769113Z"
       }
     },
     {
@@ -356,15 +439,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.8084,
-      "importance": 0.8084,
-      "importance_score": 0.8084,
+      "score": 0.8063,
+      "importance": 0.8063,
+      "importance_score": 0.8063,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.83,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9045,
+        "recency": 0.8928,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -391,7 +474,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-11T21:11:55.828679Z"
+        "scored_at": "2026-09-11T22:07:25.769113Z"
       }
     },
     {
@@ -439,15 +522,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8033,
-      "importance": 0.8033,
-      "importance_score": 0.8033,
+      "score": 0.8015,
+      "importance": 0.8015,
+      "importance_score": 0.8015,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.7292,
+        "recency": 0.7197,
         "story_heat": 0.0
       },
       "category": "official",
@@ -474,202 +557,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-11T21:11:55.828679Z"
-      }
-    },
-    {
-      "story_id": "story_01060d22a981",
-      "title": "适合初学者的 GitHub Copilot 应用程序：使用 diff、终端和浏览器 / GitHub Copilot app for Beginners: Using the diff, terminal, and browser",
-      "url": "https://github.blog/ai-and-ml/github-copilot/github-copilot-app-for-beginners-using-the-diff-terminal-and-browser",
-      "primary_url": "https://github.blog/ai-and-ml/github-copilot/github-copilot-app-for-beginners-using-the-diff-terminal-and-browser",
-      "source": "GitHub AI & ML",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "40bc0a2f1839400b24b9b45378777be768b1b293",
-          "title": "适合初学者的 GitHub Copilot 应用程序：使用 diff、终端和浏览器 / GitHub Copilot app for Beginners: Using the diff, terminal, and browser",
-          "title_zh": "适合初学者的 GitHub Copilot 应用程序：使用 diff、终端和浏览器",
-          "title_en": "GitHub Copilot app for Beginners: Using the diff, terminal, and browser",
-          "title_original": "GitHub Copilot app for Beginners: Using the diff, terminal, and browser",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://github.blog/ai-and-ml/github-copilot/github-copilot-app-for-beginners-using-the-diff-terminal-and-browser",
-          "source": "GitHub AI & ML",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-09-10T21:31:19Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "GitHub AI & ML"
-      ],
-      "items": [
-        {
-          "id": "40bc0a2f1839400b24b9b45378777be768b1b293",
-          "title": "适合初学者的 GitHub Copilot 应用程序：使用 diff、终端和浏览器 / GitHub Copilot app for Beginners: Using the diff, terminal, and browser",
-          "title_zh": "适合初学者的 GitHub Copilot 应用程序：使用 diff、终端和浏览器",
-          "title_en": "GitHub Copilot app for Beginners: Using the diff, terminal, and browser",
-          "title_original": "GitHub Copilot app for Beginners: Using the diff, terminal, and browser",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://github.blog/ai-and-ml/github-copilot/github-copilot-app-for-beginners-using-the-diff-terminal-and-browser",
-          "source": "GitHub AI & ML",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-09-10T21:31:19Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8006,
-      "importance": 0.8006,
-      "importance_score": 0.8006,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.91,
-        "recency": 0.7146,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-10T21:31:19Z",
-      "latest_at": "2026-09-10T21:31:19Z",
-      "primary_item": {
-        "id": "40bc0a2f1839400b24b9b45378777be768b1b293",
-        "title": "适合初学者的 GitHub Copilot 应用程序：使用 diff、终端和浏览器 / GitHub Copilot app for Beginners: Using the diff, terminal, and browser",
-        "title_zh": "适合初学者的 GitHub Copilot 应用程序：使用 diff、终端和浏览器",
-        "title_en": "GitHub Copilot app for Beginners: Using the diff, terminal, and browser",
-        "title_original": "GitHub Copilot app for Beginners: Using the diff, terminal, and browser",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://github.blog/ai-and-ml/github-copilot/github-copilot-app-for-beginners-using-the-diff-terminal-and-browser",
-        "source": "GitHub AI & ML",
-        "source_name": "Official AI Updates"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-09-11T21:11:55.828679Z"
-      }
-    },
-    {
-      "story_id": "story_f77d111a864e",
-      "title": "Anthropic 报告指控阿里、月之暗面与 DeepSeek 对 Claude 发起蒸馏攻击 / Anthropic details distillation campaigns from Alibaba， Moonshot AI， and DeepSeek",
-      "url": "https://techcrunch.com/2026/09/10/anthropic-details-distillation-campaigns-from-alibaba-moonshot-ai-and-deepseek",
-      "primary_url": "https://techcrunch.com/2026/09/10/anthropic-details-distillation-campaigns-from-alibaba-moonshot-ai-and-deepseek",
-      "source": "TechCrunch：AI（RSS）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "8a0baefcc3fe89c97bb6a98c6d29067650885567",
-          "title": "Anthropic 报告指控阿里、月之暗面与 DeepSeek 对 Claude 发起蒸馏攻击 / Anthropic details distillation campaigns from Alibaba， Moonshot AI， and DeepSeek",
-          "title_zh": "Anthropic 报告指控阿里、月之暗面与 DeepSeek 对 Claude 发起蒸馏攻击",
-          "title_en": "Anthropic details distillation campaigns from Alibaba， Moonshot AI， and DeepSeek",
-          "title_original": "Anthropic details distillation campaigns from Alibaba， Moonshot AI， and DeepSeek",
-          "summary": "Anthropic 发布报告，指控多家中国 AI 公司对 Claude 持续发起蒸馏攻击，累计发现近 2 亿次相关交互，涉及五个活动。",
-          "recommend_reason_zh": null,
-          "url": "https://techcrunch.com/2026/09/10/anthropic-details-distillation-campaigns-from-alibaba-moonshot-ai-and-deepseek",
-          "source": "TechCrunch：AI（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-10T20:57:30Z"
-        },
-        {
-          "id": "7ea776bd166fb7b867ed2c6fc9c453bc2ff3f5c8",
-          "title": "Anthropic 报告指控阿里、月之暗面与 DeepSeek 对 Claude 发起蒸馏攻击 / Anthropic details distillation campaigns from Alibaba, Moonshot AI, and DeepSeek",
-          "title_zh": "Anthropic 报告指控阿里、月之暗面与 DeepSeek 对 Claude 发起蒸馏攻击",
-          "title_en": "Anthropic details distillation campaigns from Alibaba, Moonshot AI, and DeepSeek",
-          "title_original": "Anthropic details distillation campaigns from Alibaba, Moonshot AI, and DeepSeek",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://techcrunch.com/2026/09/10/anthropic-details-distillation-campaigns-from-alibaba-moonshot-ai-and-deepseek",
-          "source": "TechCrunch AI",
-          "source_name": "Curated Media",
-          "site_id": "curated_media",
-          "published_at": "2026-09-10T20:57:30Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "TechCrunch AI",
-        "TechCrunch：AI（RSS）"
-      ],
-      "items": [
-        {
-          "id": "8a0baefcc3fe89c97bb6a98c6d29067650885567",
-          "title": "Anthropic 报告指控阿里、月之暗面与 DeepSeek 对 Claude 发起蒸馏攻击 / Anthropic details distillation campaigns from Alibaba， Moonshot AI， and DeepSeek",
-          "title_zh": "Anthropic 报告指控阿里、月之暗面与 DeepSeek 对 Claude 发起蒸馏攻击",
-          "title_en": "Anthropic details distillation campaigns from Alibaba， Moonshot AI， and DeepSeek",
-          "title_original": "Anthropic details distillation campaigns from Alibaba， Moonshot AI， and DeepSeek",
-          "summary": "Anthropic 发布报告，指控多家中国 AI 公司对 Claude 持续发起蒸馏攻击，累计发现近 2 亿次相关交互，涉及五个活动。",
-          "recommend_reason_zh": null,
-          "url": "https://techcrunch.com/2026/09/10/anthropic-details-distillation-campaigns-from-alibaba-moonshot-ai-and-deepseek",
-          "source": "TechCrunch：AI（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-10T20:57:30Z"
-        },
-        {
-          "id": "7ea776bd166fb7b867ed2c6fc9c453bc2ff3f5c8",
-          "title": "Anthropic 报告指控阿里、月之暗面与 DeepSeek 对 Claude 发起蒸馏攻击 / Anthropic details distillation campaigns from Alibaba, Moonshot AI, and DeepSeek",
-          "title_zh": "Anthropic 报告指控阿里、月之暗面与 DeepSeek 对 Claude 发起蒸馏攻击",
-          "title_en": "Anthropic details distillation campaigns from Alibaba, Moonshot AI, and DeepSeek",
-          "title_original": "Anthropic details distillation campaigns from Alibaba, Moonshot AI, and DeepSeek",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://techcrunch.com/2026/09/10/anthropic-details-distillation-campaigns-from-alibaba-moonshot-ai-and-deepseek",
-          "source": "TechCrunch AI",
-          "source_name": "Curated Media",
-          "site_id": "curated_media",
-          "published_at": "2026-09-10T20:57:30Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.7642,
-      "importance": 0.7642,
-      "importance_score": 0.7642,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.8,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7088,
-        "story_heat": 0.25
-      },
-      "category": "industry",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-10T20:57:30Z",
-      "latest_at": "2026-09-10T20:57:30Z",
-      "primary_item": {
-        "id": "8a0baefcc3fe89c97bb6a98c6d29067650885567",
-        "title": "Anthropic 报告指控阿里、月之暗面与 DeepSeek 对 Claude 发起蒸馏攻击 / Anthropic details distillation campaigns from Alibaba， Moonshot AI， and DeepSeek",
-        "title_zh": "Anthropic 报告指控阿里、月之暗面与 DeepSeek 对 Claude 发起蒸馏攻击",
-        "title_en": "Anthropic details distillation campaigns from Alibaba， Moonshot AI， and DeepSeek",
-        "title_original": "Anthropic details distillation campaigns from Alibaba， Moonshot AI， and DeepSeek",
-        "summary": "Anthropic 发布报告，指控多家中国 AI 公司对 Claude 持续发起蒸馏攻击，累计发现近 2 亿次相关交互，涉及五个活动。",
-        "recommend_reason_zh": null,
-        "url": "https://techcrunch.com/2026/09/10/anthropic-details-distillation-campaigns-from-alibaba-moonshot-ai-and-deepseek",
-        "source": "TechCrunch：AI（RSS）",
-        "source_name": "AI HOT"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-09-11T21:11:55.828679Z"
+        "scored_at": "2026-09-11T22:07:25.769113Z"
       }
     },
     {
@@ -717,15 +605,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7551,
-      "importance": 0.7551,
-      "importance_score": 0.7551,
+      "score": 0.7529,
+      "importance": 0.7529,
+      "importance_score": 0.7529,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9303,
+        "recency": 0.9182,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -751,7 +639,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-11T21:11:55.828679Z"
+        "scored_at": "2026-09-11T22:07:25.769113Z"
       }
     },
     {
@@ -799,15 +687,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7417,
-      "importance": 0.7417,
-      "importance_score": 0.7417,
+      "score": 0.7398,
+      "importance": 0.7398,
+      "importance_score": 0.7398,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.76,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7893,
+        "recency": 0.7791,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -832,7 +720,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-11T21:11:55.828679Z"
+        "scored_at": "2026-09-11T22:07:25.769113Z"
       }
     },
     {
@@ -880,15 +768,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7387,
-      "importance": 0.7387,
-      "importance_score": 0.7387,
+      "score": 0.7365,
+      "importance": 0.7365,
+      "importance_score": 0.7365,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.66,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9395,
+        "recency": 0.9273,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -913,90 +801,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-11T21:11:55.828679Z"
-      }
-    },
-    {
-      "story_id": "story_b2b031fb6942",
-      "title": "公开预览中刷新的代码仓库拉取请求页面 / Refreshed repository pull requests page in public preview",
-      "url": "https://github.blog/changelog/2026-09-10-refreshed-repository-pull-requests-page-in-public-preview",
-      "primary_url": "https://github.blog/changelog/2026-09-10-refreshed-repository-pull-requests-page-in-public-preview",
-      "source": "GitHub Changelog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "e33beeeed54ceddbff6e9ea63a005eaf927c7cc2",
-          "title": "公开预览中刷新的代码仓库拉取请求页面 / Refreshed repository pull requests page in public preview",
-          "title_zh": "公开预览中刷新的代码仓库拉取请求页面",
-          "title_en": "Refreshed repository pull requests page in public preview",
-          "title_original": "Refreshed repository pull requests page in public preview",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-09-10-refreshed-repository-pull-requests-page-in-public-preview",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-09-10T21:27:17Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "GitHub Changelog"
-      ],
-      "items": [
-        {
-          "id": "e33beeeed54ceddbff6e9ea63a005eaf927c7cc2",
-          "title": "公开预览中刷新的代码仓库拉取请求页面 / Refreshed repository pull requests page in public preview",
-          "title_zh": "公开预览中刷新的代码仓库拉取请求页面",
-          "title_en": "Refreshed repository pull requests page in public preview",
-          "title_original": "Refreshed repository pull requests page in public preview",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-09-10-refreshed-repository-pull-requests-page-in-public-preview",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-09-10T21:27:17Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7925,
-      "importance": 0.7925,
-      "importance_score": 0.7925,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.87,
-        "recency": 0.7139,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-10T21:27:17Z",
-      "latest_at": "2026-09-10T21:27:17Z",
-      "primary_item": {
-        "id": "e33beeeed54ceddbff6e9ea63a005eaf927c7cc2",
-        "title": "公开预览中刷新的代码仓库拉取请求页面 / Refreshed repository pull requests page in public preview",
-        "title_zh": "公开预览中刷新的代码仓库拉取请求页面",
-        "title_en": "Refreshed repository pull requests page in public preview",
-        "title_original": "Refreshed repository pull requests page in public preview",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://github.blog/changelog/2026-09-10-refreshed-repository-pull-requests-page-in-public-preview",
-        "source": "GitHub Changelog",
-        "source_name": "Official AI Updates"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-09-11T21:11:55.828679Z"
+        "scored_at": "2026-09-11T22:07:25.769113Z"
       }
     },
     {
@@ -1072,15 +877,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7531,
-      "importance": 0.7531,
-      "importance_score": 0.7531,
+      "score": 0.7513,
+      "importance": 0.7513,
+      "importance_score": 0.7513,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7805,
+        "recency": 0.7703,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -1107,7 +912,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-11T21:11:55.828679Z"
+        "scored_at": "2026-09-11T22:07:25.769113Z"
       }
     },
     {
@@ -1155,21 +960,20 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7517,
-      "importance": 0.7517,
-      "importance_score": 0.7517,
+      "score": 0.7496,
+      "importance": 0.7496,
+      "importance_score": 0.7496,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9119,
+        "recency": 0.9,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-09-11T14:24:02.790946Z",
       "latest_at": "2026-09-11T14:24:02.790946Z",
@@ -1189,7 +993,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-11T21:11:55.828679Z"
+        "scored_at": "2026-09-11T22:07:25.769113Z"
       }
     },
     {
@@ -1237,15 +1041,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7434,
-      "importance": 0.7434,
-      "importance_score": 0.7434,
+      "score": 0.7414,
+      "importance": 0.7414,
+      "importance_score": 0.7414,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8655,
+        "recency": 0.8543,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1270,7 +1074,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-11T21:11:55.828679Z"
+        "scored_at": "2026-09-11T22:07:25.769113Z"
       }
     },
     {
@@ -1318,15 +1122,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7408,
-      "importance": 0.7408,
-      "importance_score": 0.7408,
+      "score": 0.7388,
+      "importance": 0.7388,
+      "importance_score": 0.7388,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8513,
+        "recency": 0.8402,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1351,7 +1155,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-11T21:11:55.828679Z"
+        "scored_at": "2026-09-11T22:07:25.769113Z"
       }
     },
     {
@@ -1427,15 +1231,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5997,
-      "importance": 0.5997,
-      "importance_score": 0.5997,
+      "score": 0.5975,
+      "importance": 0.5975,
+      "importance_score": 0.5975,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.4896,
         "source_tier": 0.58,
         "ai_relevance": 0.68,
-        "recency": 0.9122,
+        "recency": 0.9003,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1460,7 +1264,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-11T21:11:55.828679Z"
+        "scored_at": "2026-09-11T22:07:25.769113Z"
       }
     },
     {
@@ -1508,15 +1312,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7408,
-      "importance": 0.7408,
-      "importance_score": 0.7408,
+      "score": 0.7388,
+      "importance": 0.7388,
+      "importance_score": 0.7388,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8513,
+        "recency": 0.8402,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1541,7 +1345,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-11T21:11:55.828679Z"
+        "scored_at": "2026-09-11T22:07:25.769113Z"
       }
     },
     {
@@ -1647,15 +1451,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5613,
-      "importance": 0.5613,
-      "importance_score": 0.5613,
+      "score": 0.559,
+      "importance": 0.559,
+      "importance_score": 0.559,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.947,
+        "recency": 0.9347,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1680,7 +1484,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-11T21:11:55.828679Z"
+        "scored_at": "2026-09-11T22:07:25.769113Z"
       }
     },
     {
@@ -1728,15 +1532,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7368,
-      "importance": 0.7368,
-      "importance_score": 0.7368,
+      "score": 0.7349,
+      "importance": 0.7349,
+      "importance_score": 0.7349,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8289,
+        "recency": 0.8181,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1761,7 +1565,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-11T21:11:55.828679Z"
+        "scored_at": "2026-09-11T22:07:25.769113Z"
       }
     },
     {
@@ -1867,15 +1671,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5499,
-      "importance": 0.5499,
-      "importance_score": 0.5499,
+      "score": 0.5478,
+      "importance": 0.5478,
+      "importance_score": 0.5478,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8838,
+        "recency": 0.8723,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1900,7 +1704,227 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-11T21:11:55.828679Z"
+        "scored_at": "2026-09-11T22:07:25.769113Z"
+      }
+    },
+    {
+      "story_id": "story_e4952151ab1e",
+      "title": "数学领域中人工智能的偏差",
+      "url": "https://terrytao.wordpress.com/2026/09/11/a-severe-misalignment-of-ai-in-mathematics",
+      "primary_url": "https://terrytao.wordpress.com/2026/09/11/a-severe-misalignment-of-ai-in-mathematics",
+      "source": "terrytao.wordpress.com",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "c5f7b4eb0085aacc80dfd3c0d8dd0b4e48e7d2d6",
+          "title": "数学领域中人工智能的偏差",
+          "title_zh": "数学领域中人工智能的偏差",
+          "title_en": null,
+          "title_original": "数学领域中人工智能的偏差",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://terrytao.wordpress.com/2026/09/11/a-severe-misalignment-of-ai-in-mathematics",
+          "source": "terrytao.wordpress.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-09-11T19:07:02.862000Z"
+        },
+        {
+          "id": "90a9f01a51043897a1ae39cab395ed7f6b3b807e",
+          "title": "数学领域中人工智能的偏差 / A Misalignment of AI in Mathematics",
+          "title_zh": "数学领域中人工智能的偏差",
+          "title_en": "A Misalignment of AI in Mathematics",
+          "title_original": "A Misalignment of AI in Mathematics",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://terrytao.wordpress.com/2026/09/11/a-severe-misalignment-of-ai-in-mathematics",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-09-11T17:30:26Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News",
+        "terrytao.wordpress.com"
+      ],
+      "items": [
+        {
+          "id": "c5f7b4eb0085aacc80dfd3c0d8dd0b4e48e7d2d6",
+          "title": "数学领域中人工智能的偏差",
+          "title_zh": "数学领域中人工智能的偏差",
+          "title_en": null,
+          "title_original": "数学领域中人工智能的偏差",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://terrytao.wordpress.com/2026/09/11/a-severe-misalignment-of-ai-in-mathematics",
+          "source": "terrytao.wordpress.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-09-11T19:07:02.862000Z"
+        },
+        {
+          "id": "90a9f01a51043897a1ae39cab395ed7f6b3b807e",
+          "title": "数学领域中人工智能的偏差 / A Misalignment of AI in Mathematics",
+          "title_zh": "数学领域中人工智能的偏差",
+          "title_en": "A Misalignment of AI in Mathematics",
+          "title_original": "A Misalignment of AI in Mathematics",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://terrytao.wordpress.com/2026/09/11/a-severe-misalignment-of-ai-in-mathematics",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-09-11T17:30:26Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5392,
+      "importance": 0.5392,
+      "importance_score": 0.5392,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9634,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-09-11T17:30:26Z",
+      "latest_at": "2026-09-11T19:07:02.862000Z",
+      "primary_item": {
+        "id": "c5f7b4eb0085aacc80dfd3c0d8dd0b4e48e7d2d6",
+        "title": "数学领域中人工智能的偏差",
+        "title_zh": "数学领域中人工智能的偏差",
+        "title_en": null,
+        "title_original": "数学领域中人工智能的偏差",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://terrytao.wordpress.com/2026/09/11/a-severe-misalignment-of-ai-in-mathematics",
+        "source": "terrytao.wordpress.com",
+        "source_name": "Buzzing"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-09-11T22:07:25.769113Z"
+      }
+    },
+    {
+      "story_id": "story_94d7dab25647",
+      "title": "顶尖数学家对OpenAI的做法感到愤怒 / Top mathematicians are outraged by OpenAI's methods",
+      "url": "https://www.economist.com/science-and-technology/2026/09/11/top-mathematicians-are-outraged-by-openais-methods",
+      "primary_url": "https://www.economist.com/science-and-technology/2026/09/11/top-mathematicians-are-outraged-by-openais-methods",
+      "source": "Hacker News · 24h最热",
+      "source_name": "Zeli",
+      "sources": [
+        {
+          "id": "64deac33ae994d49321b1c98363acef3a68aa645",
+          "title": "顶尖数学家对OpenAI的做法感到愤怒 / Top mathematicians are outraged by OpenAI's methods",
+          "title_zh": "顶尖数学家对OpenAI的做法感到愤怒",
+          "title_en": "Top mathematicians are outraged by OpenAI's methods",
+          "title_original": "Top mathematicians are outraged by OpenAI's methods",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.economist.com/science-and-technology/2026/09/11/top-mathematicians-are-outraged-by-openais-methods",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-09-11T18:07:08Z"
+        },
+        {
+          "id": "2b57a3f26bdddf0f584a3e20a3d75dee965e6825",
+          "title": "顶尖数学家对OpenAI的做法感到愤怒",
+          "title_zh": "顶尖数学家对OpenAI的做法感到愤怒",
+          "title_en": null,
+          "title_original": "顶尖数学家对OpenAI的做法感到愤怒",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.economist.com/science-and-technology/2026/09/11/top-mathematicians-are-outraged-by-openais-methods",
+          "source": "www.economist.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-09-11T17:48:05.859000Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News · 24h最热",
+        "www.economist.com"
+      ],
+      "items": [
+        {
+          "id": "64deac33ae994d49321b1c98363acef3a68aa645",
+          "title": "顶尖数学家对OpenAI的做法感到愤怒 / Top mathematicians are outraged by OpenAI's methods",
+          "title_zh": "顶尖数学家对OpenAI的做法感到愤怒",
+          "title_en": "Top mathematicians are outraged by OpenAI's methods",
+          "title_original": "Top mathematicians are outraged by OpenAI's methods",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.economist.com/science-and-technology/2026/09/11/top-mathematicians-are-outraged-by-openais-methods",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-09-11T18:07:08Z"
+        },
+        {
+          "id": "2b57a3f26bdddf0f584a3e20a3d75dee965e6825",
+          "title": "顶尖数学家对OpenAI的做法感到愤怒",
+          "title_zh": "顶尖数学家对OpenAI的做法感到愤怒",
+          "title_en": null,
+          "title_original": "顶尖数学家对OpenAI的做法感到愤怒",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.economist.com/science-and-technology/2026/09/11/top-mathematicians-are-outraged-by-openais-methods",
+          "source": "www.economist.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-09-11T17:48:05.859000Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5367,
+      "importance": 0.5367,
+      "importance_score": 0.5367,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9496,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-09-11T17:48:05.859000Z",
+      "latest_at": "2026-09-11T18:07:08Z",
+      "primary_item": {
+        "id": "64deac33ae994d49321b1c98363acef3a68aa645",
+        "title": "顶尖数学家对OpenAI的做法感到愤怒 / Top mathematicians are outraged by OpenAI's methods",
+        "title_zh": "顶尖数学家对OpenAI的做法感到愤怒",
+        "title_en": "Top mathematicians are outraged by OpenAI's methods",
+        "title_original": "Top mathematicians are outraged by OpenAI's methods",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://www.economist.com/science-and-technology/2026/09/11/top-mathematicians-are-outraged-by-openais-methods",
+        "source": "Hacker News · 24h最热",
+        "source_name": "Zeli"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-09-11T22:07:25.769113Z"
       }
     }
   ]
