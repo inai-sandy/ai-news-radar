@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-11T10:47:23.713331Z",
+  "generated_at": "2026-09-11T11:47:16.224944Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -48,15 +48,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8252,
-      "importance": 0.8252,
-      "importance_score": 0.8252,
+      "score": 0.8233,
+      "importance": 0.8233,
+      "importance_score": 0.8233,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.99,
-        "recency": 0.7624,
+        "recency": 0.7515,
         "story_heat": 0.0
       },
       "category": "official",
@@ -83,7 +83,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-11T10:48:14.491681Z"
+        "scored_at": "2026-09-11T12:02:38.658793Z"
       }
     },
     {
@@ -131,15 +131,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8206,
-      "importance": 0.8206,
-      "importance_score": 0.8206,
+      "score": 0.8185,
+      "importance": 0.8185,
+      "importance_score": 0.8185,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.8256,
+        "recency": 0.8138,
         "story_heat": 0.0
       },
       "category": "official",
@@ -166,7 +166,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-11T10:48:14.491681Z"
+        "scored_at": "2026-09-11T12:02:38.658793Z"
       }
     },
     {
@@ -214,15 +214,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8125,
-      "importance": 0.8125,
-      "importance_score": 0.8125,
+      "score": 0.8103,
+      "importance": 0.8103,
+      "importance_score": 0.8103,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.8248,
+        "recency": 0.813,
         "story_heat": 0.0
       },
       "category": "official",
@@ -249,7 +249,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-11T10:48:14.491681Z"
+        "scored_at": "2026-09-11T12:02:38.658793Z"
       }
     },
     {
@@ -297,15 +297,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8012,
-      "importance": 0.8012,
-      "importance_score": 0.8012,
+      "score": 0.7993,
+      "importance": 0.7993,
+      "importance_score": 0.7993,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.7624,
+        "recency": 0.7515,
         "story_heat": 0.0
       },
       "category": "official",
@@ -332,7 +332,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-11T10:48:14.491681Z"
+        "scored_at": "2026-09-11T12:02:38.658793Z"
       }
     },
     {
@@ -409,15 +409,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.784,
-      "importance": 0.784,
-      "importance_score": 0.784,
+      "score": 0.7819,
+      "importance": 0.7819,
+      "importance_score": 0.7819,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.8,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8189,
+        "recency": 0.8072,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -444,7 +444,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-11T10:48:14.491681Z"
+        "scored_at": "2026-09-11T12:02:38.658793Z"
       }
     },
     {
@@ -492,15 +492,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8101,
-      "importance": 0.8101,
-      "importance_score": 0.8101,
+      "score": 0.808,
+      "importance": 0.808,
+      "importance_score": 0.808,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.8118,
+        "recency": 0.8002,
         "story_heat": 0.0
       },
       "category": "official",
@@ -527,7 +527,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-11T10:48:14.491681Z"
+        "scored_at": "2026-09-11T12:02:38.658793Z"
       }
     },
     {
@@ -575,15 +575,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8073,
-      "importance": 0.8073,
-      "importance_score": 0.8073,
+      "score": 0.8053,
+      "importance": 0.8053,
+      "importance_score": 0.8053,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.7514,
+        "recency": 0.7407,
         "story_heat": 0.0
       },
       "category": "official",
@@ -610,118 +610,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-11T10:48:14.491681Z"
-      }
-    },
-    {
-      "story_id": "story_ea7ced4827f0",
-      "title": "OpenAI 暂停 ChatGPT Pro 200 美元档新用户注册与升级",
-      "url": "https://www.aibase.com/news/30980",
-      "primary_url": "https://www.aibase.com/news/30980",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "45f86a527ccd9ac0b28a1adacc5a704038205112",
-          "title": "OpenAI 暂停 ChatGPT Pro 200 美元档新用户注册与升级",
-          "title_zh": "OpenAI 暂停 ChatGPT Pro 200 美元档新用户注册与升级",
-          "title_en": null,
-          "title_original": "OpenAI 暂停 ChatGPT Pro 200 美元档新用户注册与升级",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/30980",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-09-11T03:37:25.893217Z"
-        },
-        {
-          "id": "470422fef94d4eac1cd1ce5ab8f2d9a51a2fcb1a",
-          "title": "算力需求超载！OpenAI暂停ChatGPT Pro 200美元档新用户注册与升级",
-          "title_zh": "算力需求超载！OpenAI暂停ChatGPT Pro 200美元档新用户注册与升级",
-          "title_en": null,
-          "title_original": "算力需求超载！OpenAI暂停ChatGPT Pro 200美元档新用户注册与升级",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/30974",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-09-11T03:37:25.893217Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "45f86a527ccd9ac0b28a1adacc5a704038205112",
-          "title": "OpenAI 暂停 ChatGPT Pro 200 美元档新用户注册与升级",
-          "title_zh": "OpenAI 暂停 ChatGPT Pro 200 美元档新用户注册与升级",
-          "title_en": null,
-          "title_original": "OpenAI 暂停 ChatGPT Pro 200 美元档新用户注册与升级",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/30980",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-09-11T03:37:25.893217Z"
-        },
-        {
-          "id": "470422fef94d4eac1cd1ce5ab8f2d9a51a2fcb1a",
-          "title": "算力需求超载！OpenAI暂停ChatGPT Pro 200美元档新用户注册与升级",
-          "title_zh": "算力需求超载！OpenAI暂停ChatGPT Pro 200美元档新用户注册与升级",
-          "title_en": null,
-          "title_original": "算力需求超载！OpenAI暂停ChatGPT Pro 200美元档新用户注册与升级",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/30974",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-09-11T03:37:25.893217Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.7749,
-      "importance": 0.7749,
-      "importance_score": 0.7749,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.9017,
-        "story_heat": 0.25
-      },
-      "category": "industry",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-11T03:37:25.893217Z",
-      "latest_at": "2026-09-11T03:37:25.893217Z",
-      "primary_item": {
-        "id": "45f86a527ccd9ac0b28a1adacc5a704038205112",
-        "title": "OpenAI 暂停 ChatGPT Pro 200 美元档新用户注册与升级",
-        "title_zh": "OpenAI 暂停 ChatGPT Pro 200 美元档新用户注册与升级",
-        "title_en": null,
-        "title_original": "OpenAI 暂停 ChatGPT Pro 200 美元档新用户注册与升级",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/30980",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-09-11T10:48:14.491681Z"
+        "scored_at": "2026-09-11T12:02:38.658793Z"
       }
     },
     {
@@ -798,15 +687,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7749,
-      "importance": 0.7749,
-      "importance_score": 0.7749,
+      "score": 0.773,
+      "importance": 0.773,
+      "importance_score": 0.773,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.8,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7686,
+        "recency": 0.7576,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -833,7 +722,118 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-11T10:48:14.491681Z"
+        "scored_at": "2026-09-11T12:02:38.658793Z"
+      }
+    },
+    {
+      "story_id": "story_ea7ced4827f0",
+      "title": "OpenAI 暂停 ChatGPT Pro 200 美元档新用户注册与升级",
+      "url": "https://www.aibase.com/news/30980",
+      "primary_url": "https://www.aibase.com/news/30980",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "45f86a527ccd9ac0b28a1adacc5a704038205112",
+          "title": "OpenAI 暂停 ChatGPT Pro 200 美元档新用户注册与升级",
+          "title_zh": "OpenAI 暂停 ChatGPT Pro 200 美元档新用户注册与升级",
+          "title_en": null,
+          "title_original": "OpenAI 暂停 ChatGPT Pro 200 美元档新用户注册与升级",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/30980",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-09-11T03:37:25.893217Z"
+        },
+        {
+          "id": "470422fef94d4eac1cd1ce5ab8f2d9a51a2fcb1a",
+          "title": "算力需求超载！OpenAI暂停ChatGPT Pro 200美元档新用户注册与升级",
+          "title_zh": "算力需求超载！OpenAI暂停ChatGPT Pro 200美元档新用户注册与升级",
+          "title_en": null,
+          "title_original": "算力需求超载！OpenAI暂停ChatGPT Pro 200美元档新用户注册与升级",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/30974",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-09-11T03:37:25.893217Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "45f86a527ccd9ac0b28a1adacc5a704038205112",
+          "title": "OpenAI 暂停 ChatGPT Pro 200 美元档新用户注册与升级",
+          "title_zh": "OpenAI 暂停 ChatGPT Pro 200 美元档新用户注册与升级",
+          "title_en": null,
+          "title_original": "OpenAI 暂停 ChatGPT Pro 200 美元档新用户注册与升级",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/30980",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-09-11T03:37:25.893217Z"
+        },
+        {
+          "id": "470422fef94d4eac1cd1ce5ab8f2d9a51a2fcb1a",
+          "title": "算力需求超载！OpenAI暂停ChatGPT Pro 200美元档新用户注册与升级",
+          "title_zh": "算力需求超载！OpenAI暂停ChatGPT Pro 200美元档新用户注册与升级",
+          "title_en": null,
+          "title_original": "算力需求超载！OpenAI暂停ChatGPT Pro 200美元档新用户注册与升级",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/30974",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-09-11T03:37:25.893217Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.7726,
+      "importance": 0.7726,
+      "importance_score": 0.7726,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.8888,
+        "story_heat": 0.25
+      },
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-11T03:37:25.893217Z",
+      "latest_at": "2026-09-11T03:37:25.893217Z",
+      "primary_item": {
+        "id": "45f86a527ccd9ac0b28a1adacc5a704038205112",
+        "title": "OpenAI 暂停 ChatGPT Pro 200 美元档新用户注册与升级",
+        "title_zh": "OpenAI 暂停 ChatGPT Pro 200 美元档新用户注册与升级",
+        "title_en": null,
+        "title_original": "OpenAI 暂停 ChatGPT Pro 200 美元档新用户注册与升级",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://www.aibase.com/news/30980",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-09-11T12:02:38.658793Z"
       }
     },
     {
@@ -881,15 +881,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7638,
-      "importance": 0.7638,
-      "importance_score": 0.7638,
+      "score": 0.7614,
+      "importance": 0.7614,
+      "importance_score": 0.7614,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.76,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.912,
+        "recency": 0.8989,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -915,7 +915,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-11T10:48:14.491681Z"
+        "scored_at": "2026-09-11T12:02:38.658793Z"
       }
     },
     {
@@ -963,21 +963,20 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.75,
-      "importance": 0.75,
-      "importance_score": 0.75,
+      "score": 0.7481,
+      "importance": 0.7481,
+      "importance_score": 0.7481,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.81,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7523,
+        "recency": 0.7415,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-09-10T15:04:41.487000Z",
       "latest_at": "2026-09-10T15:04:41.487000Z",
@@ -997,7 +996,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-11T10:48:14.491681Z"
+        "scored_at": "2026-09-11T12:02:38.658793Z"
       }
     },
     {
@@ -1045,15 +1044,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8041,
-      "importance": 0.8041,
-      "importance_score": 0.8041,
+      "score": 0.8021,
+      "importance": 0.8021,
+      "importance_score": 0.8021,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.7785,
+        "recency": 0.7673,
         "story_heat": 0.0
       },
       "category": "official",
@@ -1080,7 +1079,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-11T10:48:14.491681Z"
+        "scored_at": "2026-09-11T12:02:38.658793Z"
       }
     },
     {
@@ -1128,15 +1127,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7428,
-      "importance": 0.7428,
-      "importance_score": 0.7428,
+      "score": 0.7408,
+      "importance": 0.7408,
+      "importance_score": 0.7408,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.77,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7788,
+        "recency": 0.7677,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1161,7 +1160,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-11T10:48:14.491681Z"
+        "scored_at": "2026-09-11T12:02:38.658793Z"
       }
     },
     {
@@ -1209,15 +1208,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7676,
-      "importance": 0.7676,
-      "importance_score": 0.7676,
+      "score": 0.765,
+      "importance": 0.765,
+      "importance_score": 0.765,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.9857,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1243,7 +1242,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-11T10:48:14.491681Z"
+        "scored_at": "2026-09-11T12:02:38.658793Z"
       }
     },
     {
@@ -1291,15 +1290,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7321,
-      "importance": 0.7321,
-      "importance_score": 0.7321,
+      "score": 0.7303,
+      "importance": 0.7303,
+      "importance_score": 0.7303,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.77,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7196,
+        "recency": 0.7093,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1324,7 +1323,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-11T10:48:14.491681Z"
+        "scored_at": "2026-09-11T12:02:38.658793Z"
       }
     },
     {
@@ -1372,15 +1371,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7262,
-      "importance": 0.7262,
-      "importance_score": 0.7262,
+      "score": 0.724,
+      "importance": 0.724,
+      "importance_score": 0.724,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.66,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8701,
+        "recency": 0.8576,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1405,7 +1404,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-11T10:48:14.491681Z"
+        "scored_at": "2026-09-11T12:02:38.658793Z"
       }
     },
     {
@@ -1453,15 +1452,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.803,
-      "importance": 0.803,
-      "importance_score": 0.803,
+      "score": 0.801,
+      "importance": 0.801,
+      "importance_score": 0.801,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.7723,
+        "recency": 0.7613,
         "story_heat": 0.0
       },
       "category": "official",
@@ -1488,7 +1487,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-11T10:48:14.491681Z"
+        "scored_at": "2026-09-11T12:02:38.658793Z"
       }
     },
     {
@@ -1536,15 +1535,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7394,
-      "importance": 0.7394,
-      "importance_score": 0.7394,
+      "score": 0.7375,
+      "importance": 0.7375,
+      "importance_score": 0.7375,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.79,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7267,
+        "recency": 0.7163,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1569,7 +1568,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-11T10:48:14.491681Z"
+        "scored_at": "2026-09-11T12:02:38.658793Z"
       }
     },
     {
@@ -1617,15 +1616,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7646,
-      "importance": 0.7646,
-      "importance_score": 0.7646,
+      "score": 0.7621,
+      "importance": 0.7621,
+      "importance_score": 0.7621,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9835,
+        "recency": 0.9694,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1651,88 +1650,90 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-11T10:48:14.491681Z"
+        "scored_at": "2026-09-11T12:02:38.658793Z"
       }
     },
     {
-      "story_id": "story_ce9846509246",
-      "title": "Cognition 工程师用 Devin 智能体完成 RSA-260 因式分解，刷新公开纪录",
-      "url": "https://cognition.com/blog/factoring-rsa-260",
-      "primary_url": "https://cognition.com/blog/factoring-rsa-260",
-      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-      "source_name": "AI HOT",
+      "story_id": "story_3c58fa4bee9b",
+      "title": "Xcode 27 运行程序映像现在可以在 macOS 27 上运行 / Xcode 27 runner image now runs on macOS 27",
+      "url": "https://github.blog/changelog/2026-09-10-xcode-27-runner-image-now-runs-on-macos-27",
+      "primary_url": "https://github.blog/changelog/2026-09-10-xcode-27-runner-image-now-runs-on-macos-27",
+      "source": "GitHub Changelog",
+      "source_name": "Official AI Updates",
       "sources": [
         {
-          "id": "a09a1d70d0df00aa7877debe7eca7b306cce604a",
-          "title": "Cognition 工程师用 Devin 智能体完成 RSA-260 因式分解，刷新公开纪录",
-          "title_zh": "Cognition 工程师用 Devin 智能体完成 RSA-260 因式分解，刷新公开纪录",
-          "title_en": null,
-          "title_original": "Cognition 工程师用 Devin 智能体完成 RSA-260 因式分解，刷新公开纪录",
-          "summary": "Cognition 员工 samyok 率团队驱动多个 Devin 智能体构建了高性能 GPU 格子筛，对 260 位的 RSA-260 完成因式分解，刷新此前 RSA-250（2020 年 2 月）保持的公开 RSA 挑战纪录。",
+          "id": "3b198056fa37958a04e0e588f0839285a75d03f1",
+          "title": "Xcode 27 运行程序映像现在可以在 macOS 27 上运行 / Xcode 27 runner image now runs on macOS 27",
+          "title_zh": "Xcode 27 运行程序映像现在可以在 macOS 27 上运行",
+          "title_en": "Xcode 27 runner image now runs on macOS 27",
+          "title_original": "Xcode 27 runner image now runs on macOS 27",
+          "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://cognition.com/blog/factoring-rsa-260",
-          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-10T10:50:45.032000Z"
+          "url": "https://github.blog/changelog/2026-09-10-xcode-27-runner-image-now-runs-on-macos-27",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-09-10T15:15:36Z"
         }
       ],
       "source_count": 1,
       "source_names": [
-        "Hacker News 热门（buzzing.cc 中文翻译）"
+        "GitHub Changelog"
       ],
       "items": [
         {
-          "id": "a09a1d70d0df00aa7877debe7eca7b306cce604a",
-          "title": "Cognition 工程师用 Devin 智能体完成 RSA-260 因式分解，刷新公开纪录",
-          "title_zh": "Cognition 工程师用 Devin 智能体完成 RSA-260 因式分解，刷新公开纪录",
-          "title_en": null,
-          "title_original": "Cognition 工程师用 Devin 智能体完成 RSA-260 因式分解，刷新公开纪录",
-          "summary": "Cognition 员工 samyok 率团队驱动多个 Devin 智能体构建了高性能 GPU 格子筛，对 260 位的 RSA-260 完成因式分解，刷新此前 RSA-250（2020 年 2 月）保持的公开 RSA 挑战纪录。",
+          "id": "3b198056fa37958a04e0e588f0839285a75d03f1",
+          "title": "Xcode 27 运行程序映像现在可以在 macOS 27 上运行 / Xcode 27 runner image now runs on macOS 27",
+          "title_zh": "Xcode 27 运行程序映像现在可以在 macOS 27 上运行",
+          "title_en": "Xcode 27 runner image now runs on macOS 27",
+          "title_original": "Xcode 27 runner image now runs on macOS 27",
+          "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://cognition.com/blog/factoring-rsa-260",
-          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-10T10:50:45.032000Z"
+          "url": "https://github.blog/changelog/2026-09-10-xcode-27-runner-image-now-runs-on-macos-27",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-09-10T15:15:36Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.727,
-      "importance": 0.727,
-      "importance_score": 0.727,
-      "importance_label": "行业动态",
+      "score": 0.7978,
+      "importance": 0.7978,
+      "importance_score": 0.7978,
+      "importance_label": "官方更新",
       "importance_breakdown": {
-        "editorial": 0.76,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7077,
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.87,
+        "recency": 0.7435,
         "story_heat": 0.0
       },
-      "category": "industry",
+      "category": "official",
       "reasons": [
-        "high_ai_relevance"
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
       ],
-      "earliest_at": "2026-09-10T10:50:45.032000Z",
-      "latest_at": "2026-09-10T10:50:45.032000Z",
+      "earliest_at": "2026-09-10T15:15:36Z",
+      "latest_at": "2026-09-10T15:15:36Z",
       "primary_item": {
-        "id": "a09a1d70d0df00aa7877debe7eca7b306cce604a",
-        "title": "Cognition 工程师用 Devin 智能体完成 RSA-260 因式分解，刷新公开纪录",
-        "title_zh": "Cognition 工程师用 Devin 智能体完成 RSA-260 因式分解，刷新公开纪录",
-        "title_en": null,
-        "title_original": "Cognition 工程师用 Devin 智能体完成 RSA-260 因式分解，刷新公开纪录",
-        "summary": "Cognition 员工 samyok 率团队驱动多个 Devin 智能体构建了高性能 GPU 格子筛，对 260 位的 RSA-260 完成因式分解，刷新此前 RSA-250（2020 年 2 月）保持的公开 RSA 挑战纪录。",
+        "id": "3b198056fa37958a04e0e588f0839285a75d03f1",
+        "title": "Xcode 27 运行程序映像现在可以在 macOS 27 上运行 / Xcode 27 runner image now runs on macOS 27",
+        "title_zh": "Xcode 27 运行程序映像现在可以在 macOS 27 上运行",
+        "title_en": "Xcode 27 runner image now runs on macOS 27",
+        "title_original": "Xcode 27 runner image now runs on macOS 27",
+        "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://cognition.com/blog/factoring-rsa-260",
-        "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-        "source_name": "AI HOT"
+        "url": "https://github.blog/changelog/2026-09-10-xcode-27-runner-image-now-runs-on-macos-27",
+        "source": "GitHub Changelog",
+        "source_name": "Official AI Updates"
       },
       "persona_id": "pragmatic",
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-11T10:48:14.491681Z"
+        "scored_at": "2026-09-11T12:02:38.658793Z"
       }
     }
   ]
