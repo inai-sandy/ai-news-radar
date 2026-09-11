@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-09-11T18:30:01.784628Z",
+  "generated_at": "2026-09-11T19:47:22.408535Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
     {
       "story_id": "story_d30641cfac8b",
-      "title": "Marketing ops as code: Automating events from planning to follow-up on GitHub",
+      "title": "GitHub 日韩营销负责人如何用 GitHub Copilot 把活动运营自动化 / Marketing ops as code: Automating events from planning to follow-up on GitHub",
       "url": "https://github.blog/ai-and-ml/github-copilot/marketing-ops-as-code-automating-events-from-planning-to-follow-up-on-github",
       "primary_url": "https://github.blog/ai-and-ml/github-copilot/marketing-ops-as-code-automating-events-from-planning-to-follow-up-on-github",
       "source": "GitHub AI & ML",
@@ -13,8 +13,8 @@
       "sources": [
         {
           "id": "d180e9307ad6108eb08f57f88bc0238030d71ce7",
-          "title": "Marketing ops as code: Automating events from planning to follow-up on GitHub",
-          "title_zh": null,
+          "title": "GitHub 日韩营销负责人如何用 GitHub Copilot 把活动运营自动化 / Marketing ops as code: Automating events from planning to follow-up on GitHub",
+          "title_zh": "GitHub 日韩营销负责人如何用 GitHub Copilot 把活动运营自动化",
           "title_en": "Marketing ops as code: Automating events from planning to follow-up on GitHub",
           "title_original": "Marketing ops as code: Automating events from planning to follow-up on GitHub",
           "summary": null,
@@ -24,17 +24,32 @@
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
           "published_at": "2026-09-11T18:26:10Z"
+        },
+        {
+          "id": "84d095da089a6bbac567518186a311edae283570",
+          "title": "GitHub 日韩营销负责人如何用 GitHub Copilot 把活动运营自动化 / Marketing ops as code： Automating events from planning to follow-up on GitHub",
+          "title_zh": "GitHub 日韩营销负责人如何用 GitHub Copilot 把活动运营自动化",
+          "title_en": "Marketing ops as code： Automating events from planning to follow-up on GitHub",
+          "title_original": "Marketing ops as code： Automating events from planning to follow-up on GitHub",
+          "summary": "GitHub 日韩地区营销负责人 Tomoko Tanaka 分享如何不写代码，把活动运营交给 GitHub Copilot 自动化。",
+          "recommend_reason_zh": null,
+          "url": "https://github.blog/ai-and-ml/github-copilot/marketing-ops-as-code-automating-events-from-planning-to-follow-up-on-github",
+          "source": "GitHub Blog",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-11T18:26:10Z"
         }
       ],
-      "source_count": 1,
+      "source_count": 2,
       "source_names": [
-        "GitHub AI & ML"
+        "GitHub AI & ML",
+        "GitHub Blog"
       ],
       "items": [
         {
           "id": "d180e9307ad6108eb08f57f88bc0238030d71ce7",
-          "title": "Marketing ops as code: Automating events from planning to follow-up on GitHub",
-          "title_zh": null,
+          "title": "GitHub 日韩营销负责人如何用 GitHub Copilot 把活动运营自动化 / Marketing ops as code: Automating events from planning to follow-up on GitHub",
+          "title_zh": "GitHub 日韩营销负责人如何用 GitHub Copilot 把活动运营自动化",
           "title_en": "Marketing ops as code: Automating events from planning to follow-up on GitHub",
           "title_original": "Marketing ops as code: Automating events from planning to follow-up on GitHub",
           "summary": null,
@@ -44,24 +59,39 @@
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
           "published_at": "2026-09-11T18:26:10Z"
+        },
+        {
+          "id": "84d095da089a6bbac567518186a311edae283570",
+          "title": "GitHub 日韩营销负责人如何用 GitHub Copilot 把活动运营自动化 / Marketing ops as code： Automating events from planning to follow-up on GitHub",
+          "title_zh": "GitHub 日韩营销负责人如何用 GitHub Copilot 把活动运营自动化",
+          "title_en": "Marketing ops as code： Automating events from planning to follow-up on GitHub",
+          "title_original": "Marketing ops as code： Automating events from planning to follow-up on GitHub",
+          "summary": "GitHub 日韩地区营销负责人 Tomoko Tanaka 分享如何不写代码，把活动运营交给 GitHub Copilot 自动化。",
+          "recommend_reason_zh": null,
+          "url": "https://github.blog/ai-and-ml/github-copilot/marketing-ops-as-code-automating-events-from-planning-to-follow-up-on-github",
+          "source": "GitHub Blog",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-11T18:26:10Z"
         }
       ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8438,
-      "importance": 0.8438,
-      "importance_score": 0.8438,
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.8655,
+      "importance": 0.8655,
+      "importance_score": 0.8655,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.9991,
-        "story_heat": 0.0
+        "recency": 0.9806,
+        "story_heat": 0.25
       },
       "category": "official",
       "reasons": [
         "official_source",
+        "multi_source",
         "high_ai_relevance",
         "high_importance"
       ],
@@ -69,8 +99,8 @@
       "latest_at": "2026-09-11T18:26:10Z",
       "primary_item": {
         "id": "d180e9307ad6108eb08f57f88bc0238030d71ce7",
-        "title": "Marketing ops as code: Automating events from planning to follow-up on GitHub",
-        "title_zh": null,
+        "title": "GitHub 日韩营销负责人如何用 GitHub Copilot 把活动运营自动化 / Marketing ops as code: Automating events from planning to follow-up on GitHub",
+        "title_zh": "GitHub 日韩营销负责人如何用 GitHub Copilot 把活动运营自动化",
         "title_en": "Marketing ops as code: Automating events from planning to follow-up on GitHub",
         "title_original": "Marketing ops as code: Automating events from planning to follow-up on GitHub",
         "summary": null,
@@ -83,7 +113,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-11T18:48:06.549287Z"
+        "scored_at": "2026-09-11T20:08:45.596111Z"
       }
     },
     {
@@ -131,15 +161,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8392,
-      "importance": 0.8392,
-      "importance_score": 0.8392,
+      "score": 0.8363,
+      "importance": 0.8363,
+      "importance_score": 0.8363,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.8845,
+        "recency": 0.8682,
         "story_heat": 0.0
       },
       "category": "official",
@@ -166,7 +196,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-11T18:48:06.549287Z"
+        "scored_at": "2026-09-11T20:08:45.596111Z"
       }
     },
     {
@@ -243,15 +273,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.8139,
-      "importance": 0.8139,
-      "importance_score": 0.8139,
+      "score": 0.8108,
+      "importance": 0.8108,
+      "importance_score": 0.8108,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.83,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9349,
+        "recency": 0.9177,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -278,7 +308,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-11T18:48:06.549287Z"
+        "scored_at": "2026-09-11T20:08:45.596111Z"
       }
     },
     {
@@ -326,15 +356,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8077,
-      "importance": 0.8077,
-      "importance_score": 0.8077,
+      "score": 0.8052,
+      "importance": 0.8052,
+      "importance_score": 0.8052,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.7537,
+        "recency": 0.7398,
         "story_heat": 0.0
       },
       "category": "official",
@@ -361,7 +391,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-11T18:48:06.549287Z"
+        "scored_at": "2026-09-11T20:08:45.596111Z"
       }
     },
     {
@@ -409,15 +439,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.805,
-      "importance": 0.805,
-      "importance_score": 0.805,
+      "score": 0.8025,
+      "importance": 0.8025,
+      "importance_score": 0.8025,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.7386,
+        "recency": 0.725,
         "story_heat": 0.0
       },
       "category": "official",
@@ -444,7 +474,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-11T18:48:06.549287Z"
+        "scored_at": "2026-09-11T20:08:45.596111Z"
       }
     },
     {
@@ -521,15 +551,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7685,
-      "importance": 0.7685,
-      "importance_score": 0.7685,
+      "score": 0.766,
+      "importance": 0.766,
+      "importance_score": 0.766,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.8,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7327,
+        "recency": 0.7191,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -556,7 +586,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-11T18:48:06.549287Z"
+        "scored_at": "2026-09-11T20:08:45.596111Z"
       }
     },
     {
@@ -604,15 +634,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7968,
-      "importance": 0.7968,
-      "importance_score": 0.7968,
+      "score": 0.7944,
+      "importance": 0.7944,
+      "importance_score": 0.7944,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.7379,
+        "recency": 0.7243,
         "story_heat": 0.0
       },
       "category": "official",
@@ -639,7 +669,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-11T18:48:06.549287Z"
+        "scored_at": "2026-09-11T20:08:45.596111Z"
       }
     },
     {
@@ -687,15 +717,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7607,
-      "importance": 0.7607,
-      "importance_score": 0.7607,
+      "score": 0.7575,
+      "importance": 0.7575,
+      "importance_score": 0.7575,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9616,
+        "recency": 0.9439,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -721,7 +751,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-11T18:48:06.549287Z"
+        "scored_at": "2026-09-11T20:08:45.596111Z"
       }
     },
     {
@@ -769,15 +799,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7465,
-      "importance": 0.7465,
-      "importance_score": 0.7465,
+      "score": 0.7437,
+      "importance": 0.7437,
+      "importance_score": 0.7437,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.76,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8159,
+        "recency": 0.8008,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -802,7 +832,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-11T18:48:06.549287Z"
+        "scored_at": "2026-09-11T20:08:45.596111Z"
       }
     },
     {
@@ -850,15 +880,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7444,
-      "importance": 0.7444,
-      "importance_score": 0.7444,
+      "score": 0.7412,
+      "importance": 0.7412,
+      "importance_score": 0.7412,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.66,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9711,
+        "recency": 0.9532,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -883,7 +913,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-11T18:48:06.549287Z"
+        "scored_at": "2026-09-11T20:08:45.596111Z"
       }
     },
     {
@@ -931,15 +961,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7947,
-      "importance": 0.7947,
-      "importance_score": 0.7947,
+      "score": 0.7923,
+      "importance": 0.7923,
+      "importance_score": 0.7923,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.7262,
+        "recency": 0.7128,
         "story_heat": 0.0
       },
       "category": "official",
@@ -966,7 +996,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-11T18:48:06.549287Z"
+        "scored_at": "2026-09-11T20:08:45.596111Z"
       }
     },
     {
@@ -1042,15 +1072,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7578,
-      "importance": 0.7578,
-      "importance_score": 0.7578,
+      "score": 0.7551,
+      "importance": 0.7551,
+      "importance_score": 0.7551,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8067,
+        "recency": 0.7918,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -1077,7 +1107,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-11T18:48:06.549287Z"
+        "scored_at": "2026-09-11T20:08:45.596111Z"
       }
     },
     {
@@ -1125,15 +1155,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7573,
-      "importance": 0.7573,
-      "importance_score": 0.7573,
+      "score": 0.7541,
+      "importance": 0.7541,
+      "importance_score": 0.7541,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9425,
+        "recency": 0.9251,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1159,7 +1189,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-11T18:48:06.549287Z"
+        "scored_at": "2026-09-11T20:08:45.596111Z"
       }
     },
     {
@@ -1207,15 +1237,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7486,
-      "importance": 0.7486,
-      "importance_score": 0.7486,
+      "score": 0.7457,
+      "importance": 0.7457,
+      "importance_score": 0.7457,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8946,
+        "recency": 0.8781,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1240,7 +1270,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-11T18:48:06.549287Z"
+        "scored_at": "2026-09-11T20:08:45.596111Z"
       }
     },
     {
@@ -1288,15 +1318,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.746,
-      "importance": 0.746,
-      "importance_score": 0.746,
+      "score": 0.7431,
+      "importance": 0.7431,
+      "importance_score": 0.7431,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8799,
+        "recency": 0.8636,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1321,7 +1351,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-11T18:48:06.549287Z"
+        "scored_at": "2026-09-11T20:08:45.596111Z"
       }
     },
     {
@@ -1397,15 +1427,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.6052,
-      "importance": 0.6052,
-      "importance_score": 0.6052,
+      "score": 0.6021,
+      "importance": 0.6021,
+      "importance_score": 0.6021,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.4896,
         "source_tier": 0.58,
         "ai_relevance": 0.68,
-        "recency": 0.9428,
+        "recency": 0.9254,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1430,7 +1460,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-11T18:48:06.549287Z"
+        "scored_at": "2026-09-11T20:08:45.596111Z"
       }
     },
     {
@@ -1478,15 +1508,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.746,
-      "importance": 0.746,
-      "importance_score": 0.746,
+      "score": 0.7431,
+      "importance": 0.7431,
+      "importance_score": 0.7431,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8799,
+        "recency": 0.8636,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1511,7 +1541,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-11T18:48:06.549287Z"
+        "scored_at": "2026-09-11T20:08:45.596111Z"
       }
     },
     {
@@ -1559,15 +1589,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7418,
-      "importance": 0.7418,
-      "importance_score": 0.7418,
+      "score": 0.739,
+      "importance": 0.739,
+      "importance_score": 0.739,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8567,
+        "recency": 0.8409,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1592,7 +1622,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-11T18:48:06.549287Z"
+        "scored_at": "2026-09-11T20:08:45.596111Z"
       }
     },
     {
@@ -1698,15 +1728,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5552,
-      "importance": 0.5552,
-      "importance_score": 0.5552,
+      "score": 0.5522,
+      "importance": 0.5522,
+      "importance_score": 0.5522,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9135,
+        "recency": 0.8967,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1731,117 +1761,117 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-11T18:48:06.549287Z"
+        "scored_at": "2026-09-11T20:08:45.596111Z"
       }
     },
     {
-      "story_id": "story_605db3706162",
-      "title": "对人工智能感到难过",
-      "url": "https://artificialworlds.net/blog/2026/09/11/feeling-sad-about-ai",
-      "primary_url": "https://artificialworlds.net/blog/2026/09/11/feeling-sad-about-ai",
-      "source": "artificialworlds.net",
+      "story_id": "story_e4952151ab1e",
+      "title": "数学领域中人工智能的偏差",
+      "url": "https://terrytao.wordpress.com/2026/09/11/a-severe-misalignment-of-ai-in-mathematics",
+      "primary_url": "https://terrytao.wordpress.com/2026/09/11/a-severe-misalignment-of-ai-in-mathematics",
+      "source": "terrytao.wordpress.com",
       "source_name": "Buzzing",
       "sources": [
         {
-          "id": "1cc954518e9d372f96c0de619207d26b9b0445d1",
-          "title": "对人工智能感到难过",
-          "title_zh": "对人工智能感到难过",
+          "id": "c5f7b4eb0085aacc80dfd3c0d8dd0b4e48e7d2d6",
+          "title": "数学领域中人工智能的偏差",
+          "title_zh": "数学领域中人工智能的偏差",
           "title_en": null,
-          "title_original": "对人工智能感到难过",
+          "title_original": "数学领域中人工智能的偏差",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://artificialworlds.net/blog/2026/09/11/feeling-sad-about-ai",
-          "source": "artificialworlds.net",
+          "url": "https://terrytao.wordpress.com/2026/09/11/a-severe-misalignment-of-ai-in-mathematics",
+          "source": "terrytao.wordpress.com",
           "source_name": "Buzzing",
           "site_id": "buzzing",
-          "published_at": "2026-09-11T17:48:00.960000Z"
+          "published_at": "2026-09-11T19:07:02.862000Z"
         },
         {
-          "id": "d2d4701bfc7319ffe2be1c4e379cb3a92290d4d8",
-          "title": "对人工智能感到难过 / Feeling Sad about AI",
-          "title_zh": "对人工智能感到难过",
-          "title_en": "Feeling Sad about AI",
-          "title_original": "Feeling Sad about AI",
+          "id": "16cdeb8d17e58eee8db85bac6dbe6ebeba3ff064",
+          "title": "数学领域中人工智能的偏差 / A Misalignment of AI in Mathematics",
+          "title_zh": "数学领域中人工智能的偏差",
+          "title_en": "A Misalignment of AI in Mathematics",
+          "title_original": "A Misalignment of AI in Mathematics",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://artificialworlds.net/blog/2026/09/11/feeling-sad-about-ai",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-09-11T16:50:51Z"
+          "url": "https://terrytao.wordpress.com/2026/09/11/a-severe-misalignment-of-ai-in-mathematics",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-09-11T17:30:26Z"
         }
       ],
       "source_count": 2,
       "source_names": [
-        "Hacker News",
-        "artificialworlds.net"
+        "Hacker News (黑客新闻)",
+        "terrytao.wordpress.com"
       ],
       "items": [
         {
-          "id": "1cc954518e9d372f96c0de619207d26b9b0445d1",
-          "title": "对人工智能感到难过",
-          "title_zh": "对人工智能感到难过",
+          "id": "c5f7b4eb0085aacc80dfd3c0d8dd0b4e48e7d2d6",
+          "title": "数学领域中人工智能的偏差",
+          "title_zh": "数学领域中人工智能的偏差",
           "title_en": null,
-          "title_original": "对人工智能感到难过",
+          "title_original": "数学领域中人工智能的偏差",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://artificialworlds.net/blog/2026/09/11/feeling-sad-about-ai",
-          "source": "artificialworlds.net",
+          "url": "https://terrytao.wordpress.com/2026/09/11/a-severe-misalignment-of-ai-in-mathematics",
+          "source": "terrytao.wordpress.com",
           "source_name": "Buzzing",
           "site_id": "buzzing",
-          "published_at": "2026-09-11T17:48:00.960000Z"
+          "published_at": "2026-09-11T19:07:02.862000Z"
         },
         {
-          "id": "d2d4701bfc7319ffe2be1c4e379cb3a92290d4d8",
-          "title": "对人工智能感到难过 / Feeling Sad about AI",
-          "title_zh": "对人工智能感到难过",
-          "title_en": "Feeling Sad about AI",
-          "title_original": "Feeling Sad about AI",
+          "id": "16cdeb8d17e58eee8db85bac6dbe6ebeba3ff064",
+          "title": "数学领域中人工智能的偏差 / A Misalignment of AI in Mathematics",
+          "title_zh": "数学领域中人工智能的偏差",
+          "title_en": "A Misalignment of AI in Mathematics",
+          "title_original": "A Misalignment of AI in Mathematics",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://artificialworlds.net/blog/2026/09/11/feeling-sad-about-ai",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-09-11T16:50:51Z"
+          "url": "https://terrytao.wordpress.com/2026/09/11/a-severe-misalignment-of-ai-in-mathematics",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-09-11T17:30:26Z"
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.544,
-      "importance": 0.544,
-      "importance_score": 0.544,
+      "score": 0.5441,
+      "importance": 0.5441,
+      "importance_score": 0.5441,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9899,
+        "recency": 0.9903,
         "story_heat": 0.25
       },
       "category": "watch",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-09-11T16:50:51Z",
-      "latest_at": "2026-09-11T17:48:00.960000Z",
+      "earliest_at": "2026-09-11T17:30:26Z",
+      "latest_at": "2026-09-11T19:07:02.862000Z",
       "primary_item": {
-        "id": "1cc954518e9d372f96c0de619207d26b9b0445d1",
-        "title": "对人工智能感到难过",
-        "title_zh": "对人工智能感到难过",
+        "id": "c5f7b4eb0085aacc80dfd3c0d8dd0b4e48e7d2d6",
+        "title": "数学领域中人工智能的偏差",
+        "title_zh": "数学领域中人工智能的偏差",
         "title_en": null,
-        "title_original": "对人工智能感到难过",
+        "title_original": "数学领域中人工智能的偏差",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://artificialworlds.net/blog/2026/09/11/feeling-sad-about-ai",
-        "source": "artificialworlds.net",
+        "url": "https://terrytao.wordpress.com/2026/09/11/a-severe-misalignment-of-ai-in-mathematics",
+        "source": "terrytao.wordpress.com",
         "source_name": "Buzzing"
       },
       "persona_id": "pragmatic",
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-11T18:48:06.549287Z"
+        "scored_at": "2026-09-11T20:08:45.596111Z"
       }
     }
   ]
