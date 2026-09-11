@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-11T14:47:19.969101Z",
+  "generated_at": "2026-09-11T15:47:21.306739Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -77,15 +77,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.8232,
-      "importance": 0.8232,
-      "importance_score": 0.8232,
+      "score": 0.8206,
+      "importance": 0.8206,
+      "importance_score": 0.8206,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.83,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9864,
+        "recency": 0.9723,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -112,7 +112,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-11T15:01:04.606905Z"
+        "scored_at": "2026-09-11T15:48:12.304550Z"
       }
     },
     {
@@ -160,15 +160,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8175,
-      "importance": 0.8175,
-      "importance_score": 0.8175,
+      "score": 0.8157,
+      "importance": 0.8157,
+      "importance_score": 0.8157,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.99,
-        "recency": 0.7196,
+        "recency": 0.7093,
         "story_heat": 0.0
       },
       "category": "official",
@@ -195,7 +195,90 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-11T15:01:04.606905Z"
+        "scored_at": "2026-09-11T15:48:12.304550Z"
+      }
+    },
+    {
+      "story_id": "story_34d4cb4529b2",
+      "title": "GitHub Copilot 每周发布 — 9 月 7 日 / GitHub Copilot weekly releases — September 7",
+      "url": "https://github.blog/changelog/2026-09-10-github-copilot-weekly-releases-september-7",
+      "primary_url": "https://github.blog/changelog/2026-09-10-github-copilot-weekly-releases-september-7",
+      "source": "GitHub Changelog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "646ce98f87d3f93fae127844fb008182b9d79aca",
+          "title": "GitHub Copilot 每周发布 — 9 月 7 日 / GitHub Copilot weekly releases — September 7",
+          "title_zh": "GitHub Copilot 每周发布 — 9 月 7 日",
+          "title_en": "GitHub Copilot weekly releases — September 7",
+          "title_original": "GitHub Copilot weekly releases — September 7",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://github.blog/changelog/2026-09-10-github-copilot-weekly-releases-september-7",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-09-10T22:55:07Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "GitHub Changelog"
+      ],
+      "items": [
+        {
+          "id": "646ce98f87d3f93fae127844fb008182b9d79aca",
+          "title": "GitHub Copilot 每周发布 — 9 月 7 日 / GitHub Copilot weekly releases — September 7",
+          "title_zh": "GitHub Copilot 每周发布 — 9 月 7 日",
+          "title_en": "GitHub Copilot weekly releases — September 7",
+          "title_original": "GitHub Copilot weekly releases — September 7",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://github.blog/changelog/2026-09-10-github-copilot-weekly-releases-september-7",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-09-10T22:55:07Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8131,
+      "importance": 0.8131,
+      "importance_score": 0.8131,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.91,
+        "recency": 0.7838,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-10T22:55:07Z",
+      "latest_at": "2026-09-10T22:55:07Z",
+      "primary_item": {
+        "id": "646ce98f87d3f93fae127844fb008182b9d79aca",
+        "title": "GitHub Copilot 每周发布 — 9 月 7 日 / GitHub Copilot weekly releases — September 7",
+        "title_zh": "GitHub Copilot 每周发布 — 9 月 7 日",
+        "title_en": "GitHub Copilot weekly releases — September 7",
+        "title_original": "GitHub Copilot weekly releases — September 7",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://github.blog/changelog/2026-09-10-github-copilot-weekly-releases-september-7",
+        "source": "GitHub Changelog",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-09-11T15:48:12.304550Z"
       }
     },
     {
@@ -243,15 +326,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8123,
-      "importance": 0.8123,
-      "importance_score": 0.8123,
+      "score": 0.8103,
+      "importance": 0.8103,
+      "importance_score": 0.8103,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.7793,
+        "recency": 0.7681,
         "story_heat": 0.0
       },
       "category": "official",
@@ -278,90 +361,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-11T15:01:04.606905Z"
-      }
-    },
-    {
-      "story_id": "story_b2b031fb6942",
-      "title": "公开预览中刷新的代码仓库拉取请求页面 / Refreshed repository pull requests page in public preview",
-      "url": "https://github.blog/changelog/2026-09-10-refreshed-repository-pull-requests-page-in-public-preview",
-      "primary_url": "https://github.blog/changelog/2026-09-10-refreshed-repository-pull-requests-page-in-public-preview",
-      "source": "GitHub Changelog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "e33beeeed54ceddbff6e9ea63a005eaf927c7cc2",
-          "title": "公开预览中刷新的代码仓库拉取请求页面 / Refreshed repository pull requests page in public preview",
-          "title_zh": "公开预览中刷新的代码仓库拉取请求页面",
-          "title_en": "Refreshed repository pull requests page in public preview",
-          "title_original": "Refreshed repository pull requests page in public preview",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-09-10-refreshed-repository-pull-requests-page-in-public-preview",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-09-10T21:27:17Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "GitHub Changelog"
-      ],
-      "items": [
-        {
-          "id": "e33beeeed54ceddbff6e9ea63a005eaf927c7cc2",
-          "title": "公开预览中刷新的代码仓库拉取请求页面 / Refreshed repository pull requests page in public preview",
-          "title_zh": "公开预览中刷新的代码仓库拉取请求页面",
-          "title_en": "Refreshed repository pull requests page in public preview",
-          "title_original": "Refreshed repository pull requests page in public preview",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-09-10-refreshed-repository-pull-requests-page-in-public-preview",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-09-10T21:27:17Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8041,
-      "importance": 0.8041,
-      "importance_score": 0.8041,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.87,
-        "recency": 0.7786,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-10T21:27:17Z",
-      "latest_at": "2026-09-10T21:27:17Z",
-      "primary_item": {
-        "id": "e33beeeed54ceddbff6e9ea63a005eaf927c7cc2",
-        "title": "公开预览中刷新的代码仓库拉取请求页面 / Refreshed repository pull requests page in public preview",
-        "title_zh": "公开预览中刷新的代码仓库拉取请求页面",
-        "title_en": "Refreshed repository pull requests page in public preview",
-        "title_original": "Refreshed repository pull requests page in public preview",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://github.blog/changelog/2026-09-10-refreshed-repository-pull-requests-page-in-public-preview",
-        "source": "GitHub Changelog",
-        "source_name": "Official AI Updates"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-09-11T15:01:04.606905Z"
+        "scored_at": "2026-09-11T15:48:12.304550Z"
       }
     },
     {
@@ -409,15 +409,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7935,
-      "importance": 0.7935,
-      "importance_score": 0.7935,
+      "score": 0.7917,
+      "importance": 0.7917,
+      "importance_score": 0.7917,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.7196,
+        "recency": 0.7093,
         "story_heat": 0.0
       },
       "category": "official",
@@ -444,7 +444,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-11T15:01:04.606905Z"
+        "scored_at": "2026-09-11T15:48:12.304550Z"
       }
     },
     {
@@ -521,15 +521,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7757,
-      "importance": 0.7757,
-      "importance_score": 0.7757,
+      "score": 0.7737,
+      "importance": 0.7737,
+      "importance_score": 0.7737,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.8,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.773,
+        "recency": 0.7619,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -556,30 +556,30 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-11T15:01:04.606905Z"
+        "scored_at": "2026-09-11T15:48:12.304550Z"
       }
     },
     {
-      "story_id": "story_353d7797f4fb",
-      "title": "AI 扫描公共预览版中的拉取请求 API / AI Scan for pull request APIs in public preview",
-      "url": "https://github.blog/changelog/2026-09-10-ai-scan-for-pull-request-apis-in-public-preview",
-      "primary_url": "https://github.blog/changelog/2026-09-10-ai-scan-for-pull-request-apis-in-public-preview",
+      "story_id": "story_b2b031fb6942",
+      "title": "公开预览中刷新的代码仓库拉取请求页面 / Refreshed repository pull requests page in public preview",
+      "url": "https://github.blog/changelog/2026-09-10-refreshed-repository-pull-requests-page-in-public-preview",
+      "primary_url": "https://github.blog/changelog/2026-09-10-refreshed-repository-pull-requests-page-in-public-preview",
       "source": "GitHub Changelog",
       "source_name": "Official AI Updates",
       "sources": [
         {
-          "id": "66c3a162c96f83e19ee48f4d23e03b4a40655d7b",
-          "title": "AI 扫描公共预览版中的拉取请求 API / AI Scan for pull request APIs in public preview",
-          "title_zh": "AI 扫描公共预览版中的拉取请求 API",
-          "title_en": "AI Scan for pull request APIs in public preview",
-          "title_original": "AI Scan for pull request APIs in public preview",
+          "id": "e33beeeed54ceddbff6e9ea63a005eaf927c7cc2",
+          "title": "公开预览中刷新的代码仓库拉取请求页面 / Refreshed repository pull requests page in public preview",
+          "title_zh": "公开预览中刷新的代码仓库拉取请求页面",
+          "title_en": "Refreshed repository pull requests page in public preview",
+          "title_original": "Refreshed repository pull requests page in public preview",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-09-10-ai-scan-for-pull-request-apis-in-public-preview",
+          "url": "https://github.blog/changelog/2026-09-10-refreshed-repository-pull-requests-page-in-public-preview",
           "source": "GitHub Changelog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-09-10T20:20:58Z"
+          "published_at": "2026-09-10T21:27:17Z"
         }
       ],
       "source_count": 1,
@@ -588,31 +588,31 @@
       ],
       "items": [
         {
-          "id": "66c3a162c96f83e19ee48f4d23e03b4a40655d7b",
-          "title": "AI 扫描公共预览版中的拉取请求 API / AI Scan for pull request APIs in public preview",
-          "title_zh": "AI 扫描公共预览版中的拉取请求 API",
-          "title_en": "AI Scan for pull request APIs in public preview",
-          "title_original": "AI Scan for pull request APIs in public preview",
+          "id": "e33beeeed54ceddbff6e9ea63a005eaf927c7cc2",
+          "title": "公开预览中刷新的代码仓库拉取请求页面 / Refreshed repository pull requests page in public preview",
+          "title_zh": "公开预览中刷新的代码仓库拉取请求页面",
+          "title_en": "Refreshed repository pull requests page in public preview",
+          "title_original": "Refreshed repository pull requests page in public preview",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-09-10-ai-scan-for-pull-request-apis-in-public-preview",
+          "url": "https://github.blog/changelog/2026-09-10-refreshed-repository-pull-requests-page-in-public-preview",
           "source": "GitHub Changelog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-09-10T20:20:58Z"
+          "published_at": "2026-09-10T21:27:17Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8019,
-      "importance": 0.8019,
-      "importance_score": 0.8019,
+      "score": 0.8021,
+      "importance": 0.8021,
+      "importance_score": 0.8021,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.7662,
+        "recency": 0.7674,
         "story_heat": 0.0
       },
       "category": "official",
@@ -621,17 +621,17 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-09-10T20:20:58Z",
-      "latest_at": "2026-09-10T20:20:58Z",
+      "earliest_at": "2026-09-10T21:27:17Z",
+      "latest_at": "2026-09-10T21:27:17Z",
       "primary_item": {
-        "id": "66c3a162c96f83e19ee48f4d23e03b4a40655d7b",
-        "title": "AI 扫描公共预览版中的拉取请求 API / AI Scan for pull request APIs in public preview",
-        "title_zh": "AI 扫描公共预览版中的拉取请求 API",
-        "title_en": "AI Scan for pull request APIs in public preview",
-        "title_original": "AI Scan for pull request APIs in public preview",
+        "id": "e33beeeed54ceddbff6e9ea63a005eaf927c7cc2",
+        "title": "公开预览中刷新的代码仓库拉取请求页面 / Refreshed repository pull requests page in public preview",
+        "title_zh": "公开预览中刷新的代码仓库拉取请求页面",
+        "title_en": "Refreshed repository pull requests page in public preview",
+        "title_original": "Refreshed repository pull requests page in public preview",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://github.blog/changelog/2026-09-10-ai-scan-for-pull-request-apis-in-public-preview",
+        "url": "https://github.blog/changelog/2026-09-10-refreshed-repository-pull-requests-page-in-public-preview",
         "source": "GitHub Changelog",
         "source_name": "Official AI Updates"
       },
@@ -639,113 +639,30 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-11T15:01:04.606905Z"
+        "scored_at": "2026-09-11T15:48:12.304550Z"
       }
     },
     {
-      "story_id": "story_b2726331d325",
-      "title": "OpenAI 在 ChatGPT Work 中推出 Data agent / Now everyone can put data to work",
-      "url": "https://openai.com/index/put-data-to-work",
-      "primary_url": "https://openai.com/index/put-data-to-work",
-      "source": "OpenAI News",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "324abe5a685dd53afc46c15fe0abbfaa534dc52e",
-          "title": "OpenAI 在 ChatGPT Work 中推出 Data agent / Now everyone can put data to work",
-          "title_zh": "OpenAI 在 ChatGPT Work 中推出 Data agent",
-          "title_en": "Now everyone can put data to work",
-          "title_original": "Now everyone can put data to work",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://openai.com/index/put-data-to-work",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-09-10T15:00:00Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "OpenAI News"
-      ],
-      "items": [
-        {
-          "id": "324abe5a685dd53afc46c15fe0abbfaa534dc52e",
-          "title": "OpenAI 在 ChatGPT Work 中推出 Data agent / Now everyone can put data to work",
-          "title_zh": "OpenAI 在 ChatGPT Work 中推出 Data agent",
-          "title_en": "Now everyone can put data to work",
-          "title_original": "Now everyone can put data to work",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://openai.com/index/put-data-to-work",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-09-10T15:00:00Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7997,
-      "importance": 0.7997,
-      "importance_score": 0.7997,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.91,
-        "recency": 0.7093,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-10T15:00:00Z",
-      "latest_at": "2026-09-10T15:00:00Z",
-      "primary_item": {
-        "id": "324abe5a685dd53afc46c15fe0abbfaa534dc52e",
-        "title": "OpenAI 在 ChatGPT Work 中推出 Data agent / Now everyone can put data to work",
-        "title_zh": "OpenAI 在 ChatGPT Work 中推出 Data agent",
-        "title_en": "Now everyone can put data to work",
-        "title_original": "Now everyone can put data to work",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://openai.com/index/put-data-to-work",
-        "source": "OpenAI News",
-        "source_name": "Official AI Updates"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-09-11T15:01:04.606905Z"
-      }
-    },
-    {
-      "story_id": "story_f3588b8a4eb3",
-      "title": "具身智能的“ChatGPT时刻”何时到来?百亿具身CEO与青年创业者外滩大会热议",
-      "url": "https://www.aibase.com/news/31002",
-      "primary_url": "https://www.aibase.com/news/31002",
+      "story_id": "story_f62bfdadd23e",
+      "title": "外滩大会热议 AI 时代女性力量，从“为她所用”到“由她创造”",
+      "url": "https://www.aibase.com/news/31003",
+      "primary_url": "https://www.aibase.com/news/31003",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "7bc557809dfa858ef61e350ebbb763c5b7862507",
-          "title": "具身智能的“ChatGPT时刻”何时到来?百亿具身CEO与青年创业者外滩大会热议",
-          "title_zh": "具身智能的“ChatGPT时刻”何时到来?百亿具身CEO与青年创业者外滩大会热议",
+          "id": "caddf093f0dd4f9fa4d7fb5c3ca4f2649d9b28e5",
+          "title": "外滩大会热议 AI 时代女性力量，从“为她所用”到“由她创造”",
+          "title_zh": "外滩大会热议 AI 时代女性力量，从“为她所用”到“由她创造”",
           "title_en": null,
-          "title_original": "具身智能的“ChatGPT时刻”何时到来?百亿具身CEO与青年创业者外滩大会热议",
+          "title_original": "外滩大会热议 AI 时代女性力量，从“为她所用”到“由她创造”",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/31002",
+          "url": "https://www.aibase.com/news/31003",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-09-11T14:24:02.790946Z"
+          "published_at": "2026-09-11T15:47:21.306739Z"
         }
       ],
       "source_count": 1,
@@ -754,31 +671,31 @@
       ],
       "items": [
         {
-          "id": "7bc557809dfa858ef61e350ebbb763c5b7862507",
-          "title": "具身智能的“ChatGPT时刻”何时到来?百亿具身CEO与青年创业者外滩大会热议",
-          "title_zh": "具身智能的“ChatGPT时刻”何时到来?百亿具身CEO与青年创业者外滩大会热议",
+          "id": "caddf093f0dd4f9fa4d7fb5c3ca4f2649d9b28e5",
+          "title": "外滩大会热议 AI 时代女性力量，从“为她所用”到“由她创造”",
+          "title_zh": "外滩大会热议 AI 时代女性力量，从“为她所用”到“由她创造”",
           "title_en": null,
-          "title_original": "具身智能的“ChatGPT时刻”何时到来?百亿具身CEO与青年创业者外滩大会热议",
+          "title_original": "外滩大会热议 AI 时代女性力量，从“为她所用”到“由她创造”",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/31002",
+          "url": "https://www.aibase.com/news/31003",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-09-11T14:24:02.790946Z"
+          "published_at": "2026-09-11T15:47:21.306739Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7666,
-      "importance": 0.7666,
-      "importance_score": 0.7666,
+      "score": 0.7676,
+      "importance": 0.7676,
+      "importance_score": 0.7676,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9944,
+        "recency": 1.0,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -786,17 +703,17 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-09-11T14:24:02.790946Z",
-      "latest_at": "2026-09-11T14:24:02.790946Z",
+      "earliest_at": "2026-09-11T15:47:21.306739Z",
+      "latest_at": "2026-09-11T15:47:21.306739Z",
       "primary_item": {
-        "id": "7bc557809dfa858ef61e350ebbb763c5b7862507",
-        "title": "具身智能的“ChatGPT时刻”何时到来?百亿具身CEO与青年创业者外滩大会热议",
-        "title_zh": "具身智能的“ChatGPT时刻”何时到来?百亿具身CEO与青年创业者外滩大会热议",
+        "id": "caddf093f0dd4f9fa4d7fb5c3ca4f2649d9b28e5",
+        "title": "外滩大会热议 AI 时代女性力量，从“为她所用”到“由她创造”",
+        "title_zh": "外滩大会热议 AI 时代女性力量，从“为她所用”到“由她创造”",
         "title_en": null,
-        "title_original": "具身智能的“ChatGPT时刻”何时到来?百亿具身CEO与青年创业者外滩大会热议",
+        "title_original": "外滩大会热议 AI 时代女性力量，从“为她所用”到“由她创造”",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/31002",
+        "url": "https://www.aibase.com/news/31003",
         "source": "AIbase",
         "source_name": "AIbase"
       },
@@ -804,7 +721,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-11T15:01:04.606905Z"
+        "scored_at": "2026-09-11T15:48:12.304550Z"
       }
     },
     {
@@ -852,15 +769,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7545,
-      "importance": 0.7545,
-      "importance_score": 0.7545,
+      "score": 0.7523,
+      "importance": 0.7523,
+      "importance_score": 0.7523,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.76,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8608,
+        "recency": 0.8484,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -886,88 +803,90 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-11T15:01:04.606905Z"
+        "scored_at": "2026-09-11T15:48:12.304550Z"
       }
     },
     {
-      "story_id": "story_92e4d9f147fc",
-      "title": "Shopify 宣布从 React Native 全面迁回 Swift 和 Kotlin 原生开发",
-      "url": "https://shopify.engineering/back-to-native",
-      "primary_url": "https://shopify.engineering/back-to-native",
-      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-      "source_name": "AI HOT",
+      "story_id": "story_353d7797f4fb",
+      "title": "AI 扫描公共预览版中的拉取请求 API / AI Scan for pull request APIs in public preview",
+      "url": "https://github.blog/changelog/2026-09-10-ai-scan-for-pull-request-apis-in-public-preview",
+      "primary_url": "https://github.blog/changelog/2026-09-10-ai-scan-for-pull-request-apis-in-public-preview",
+      "source": "GitHub Changelog",
+      "source_name": "Official AI Updates",
       "sources": [
         {
-          "id": "596bde20841ec0556305fdc98d3e816fbb0d4503",
-          "title": "Shopify 宣布从 React Native 全面迁回 Swift 和 Kotlin 原生开发",
-          "title_zh": "Shopify 宣布从 React Native 全面迁回 Swift 和 Kotlin 原生开发",
-          "title_en": null,
-          "title_original": "Shopify 宣布从 React Native 全面迁回 Swift 和 Kotlin 原生开发",
-          "summary": "Shopify 宣布将全部移动应用从 React Native 迁回 Swift 和 Kotlin，判断是 LLM 智能体大幅降低了跨平台重复开发成本这一核心假设被改变。",
+          "id": "66c3a162c96f83e19ee48f4d23e03b4a40655d7b",
+          "title": "AI 扫描公共预览版中的拉取请求 API / AI Scan for pull request APIs in public preview",
+          "title_zh": "AI 扫描公共预览版中的拉取请求 API",
+          "title_en": "AI Scan for pull request APIs in public preview",
+          "title_original": "AI Scan for pull request APIs in public preview",
+          "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://shopify.engineering/back-to-native",
-          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-10T15:04:41.487000Z"
+          "url": "https://github.blog/changelog/2026-09-10-ai-scan-for-pull-request-apis-in-public-preview",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-09-10T20:20:58Z"
         }
       ],
       "source_count": 1,
       "source_names": [
-        "Hacker News 热门（buzzing.cc 中文翻译）"
+        "GitHub Changelog"
       ],
       "items": [
         {
-          "id": "596bde20841ec0556305fdc98d3e816fbb0d4503",
-          "title": "Shopify 宣布从 React Native 全面迁回 Swift 和 Kotlin 原生开发",
-          "title_zh": "Shopify 宣布从 React Native 全面迁回 Swift 和 Kotlin 原生开发",
-          "title_en": null,
-          "title_original": "Shopify 宣布从 React Native 全面迁回 Swift 和 Kotlin 原生开发",
-          "summary": "Shopify 宣布将全部移动应用从 React Native 迁回 Swift 和 Kotlin，判断是 LLM 智能体大幅降低了跨平台重复开发成本这一核心假设被改变。",
+          "id": "66c3a162c96f83e19ee48f4d23e03b4a40655d7b",
+          "title": "AI 扫描公共预览版中的拉取请求 API / AI Scan for pull request APIs in public preview",
+          "title_zh": "AI 扫描公共预览版中的拉取请求 API",
+          "title_en": "AI Scan for pull request APIs in public preview",
+          "title_original": "AI Scan for pull request APIs in public preview",
+          "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://shopify.engineering/back-to-native",
-          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-10T15:04:41.487000Z"
+          "url": "https://github.blog/changelog/2026-09-10-ai-scan-for-pull-request-apis-in-public-preview",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-09-10T20:20:58Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7424,
-      "importance": 0.7424,
-      "importance_score": 0.7424,
-      "importance_label": "行业动态",
+      "score": 0.7999,
+      "importance": 0.7999,
+      "importance_score": 0.7999,
+      "importance_label": "官方更新",
       "importance_breakdown": {
-        "editorial": 0.81,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7101,
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.87,
+        "recency": 0.7552,
         "story_heat": 0.0
       },
-      "category": "industry",
+      "category": "official",
       "reasons": [
-        "high_ai_relevance"
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
       ],
-      "earliest_at": "2026-09-10T15:04:41.487000Z",
-      "latest_at": "2026-09-10T15:04:41.487000Z",
+      "earliest_at": "2026-09-10T20:20:58Z",
+      "latest_at": "2026-09-10T20:20:58Z",
       "primary_item": {
-        "id": "596bde20841ec0556305fdc98d3e816fbb0d4503",
-        "title": "Shopify 宣布从 React Native 全面迁回 Swift 和 Kotlin 原生开发",
-        "title_zh": "Shopify 宣布从 React Native 全面迁回 Swift 和 Kotlin 原生开发",
-        "title_en": null,
-        "title_original": "Shopify 宣布从 React Native 全面迁回 Swift 和 Kotlin 原生开发",
-        "summary": "Shopify 宣布将全部移动应用从 React Native 迁回 Swift 和 Kotlin，判断是 LLM 智能体大幅降低了跨平台重复开发成本这一核心假设被改变。",
+        "id": "66c3a162c96f83e19ee48f4d23e03b4a40655d7b",
+        "title": "AI 扫描公共预览版中的拉取请求 API / AI Scan for pull request APIs in public preview",
+        "title_zh": "AI 扫描公共预览版中的拉取请求 API",
+        "title_en": "AI Scan for pull request APIs in public preview",
+        "title_original": "AI Scan for pull request APIs in public preview",
+        "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://shopify.engineering/back-to-native",
-        "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-        "source_name": "AI HOT"
+        "url": "https://github.blog/changelog/2026-09-10-ai-scan-for-pull-request-apis-in-public-preview",
+        "source": "GitHub Changelog",
+        "source_name": "Official AI Updates"
       },
       "persona_id": "pragmatic",
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-11T15:01:04.606905Z"
+        "scored_at": "2026-09-11T15:48:12.304550Z"
       }
     },
     {
@@ -1044,15 +963,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7672,
-      "importance": 0.7672,
-      "importance_score": 0.7672,
+      "score": 0.7653,
+      "importance": 0.7653,
+      "importance_score": 0.7653,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.8,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7254,
+        "recency": 0.715,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -1079,7 +998,170 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-11T15:01:04.606905Z"
+        "scored_at": "2026-09-11T15:48:12.304550Z"
+      }
+    },
+    {
+      "story_id": "story_f3588b8a4eb3",
+      "title": "具身智能的“ChatGPT时刻”何时到来?百亿具身CEO与青年创业者外滩大会热议",
+      "url": "https://www.aibase.com/news/31002",
+      "primary_url": "https://www.aibase.com/news/31002",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "7bc557809dfa858ef61e350ebbb763c5b7862507",
+          "title": "具身智能的“ChatGPT时刻”何时到来?百亿具身CEO与青年创业者外滩大会热议",
+          "title_zh": "具身智能的“ChatGPT时刻”何时到来?百亿具身CEO与青年创业者外滩大会热议",
+          "title_en": null,
+          "title_original": "具身智能的“ChatGPT时刻”何时到来?百亿具身CEO与青年创业者外滩大会热议",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/31002",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-09-11T14:24:02.790946Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "7bc557809dfa858ef61e350ebbb763c5b7862507",
+          "title": "具身智能的“ChatGPT时刻”何时到来?百亿具身CEO与青年创业者外滩大会热议",
+          "title_zh": "具身智能的“ChatGPT时刻”何时到来?百亿具身CEO与青年创业者外滩大会热议",
+          "title_en": null,
+          "title_original": "具身智能的“ChatGPT时刻”何时到来?百亿具身CEO与青年创业者外滩大会热议",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/31002",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-09-11T14:24:02.790946Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.764,
+      "importance": 0.764,
+      "importance_score": 0.764,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9801,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-11T14:24:02.790946Z",
+      "latest_at": "2026-09-11T14:24:02.790946Z",
+      "primary_item": {
+        "id": "7bc557809dfa858ef61e350ebbb763c5b7862507",
+        "title": "具身智能的“ChatGPT时刻”何时到来?百亿具身CEO与青年创业者外滩大会热议",
+        "title_zh": "具身智能的“ChatGPT时刻”何时到来?百亿具身CEO与青年创业者外滩大会热议",
+        "title_en": null,
+        "title_original": "具身智能的“ChatGPT时刻”何时到来?百亿具身CEO与青年创业者外滩大会热议",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://www.aibase.com/news/31002",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-09-11T15:48:12.304550Z"
+      }
+    },
+    {
+      "story_id": "story_86ba7807178e",
+      "title": "Anthropic 评估 AI 模型的战术情报定位与常规武器能力 / Measuring tactical intelligence targeting and conventional weapons capabilities of AI models",
+      "url": "https://www.anthropic.com/research/intelligence-targeting-conventional-weapons-capabilities",
+      "primary_url": "https://www.anthropic.com/research/intelligence-targeting-conventional-weapons-capabilities",
+      "source": "Anthropic：Research（发表成果 · 网页）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "085ec09dfd0dae533196b8be7ab563d8743dc396",
+          "title": "Anthropic 评估 AI 模型的战术情报定位与常规武器能力 / Measuring tactical intelligence targeting and conventional weapons capabilities of AI models",
+          "title_zh": "Anthropic 评估 AI 模型的战术情报定位与常规武器能力",
+          "title_en": "Measuring tactical intelligence targeting and conventional weapons capabilities of AI models",
+          "title_original": "Measuring tactical intelligence targeting and conventional weapons capabilities of AI models",
+          "summary": "Anthropic Frontier Red Team 发布新评测，衡量模型在战术情报定位（账户关联、照片与文本地理定位）和常规武器开发（无人机末段制导、投送、GPS 干扰下导航）上的能力。",
+          "recommend_reason_zh": null,
+          "url": "https://www.anthropic.com/research/intelligence-targeting-conventional-weapons-capabilities",
+          "source": "Anthropic：Research（发表成果 · 网页）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-10T17:28:52.100000Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Anthropic：Research（发表成果 · 网页）"
+      ],
+      "items": [
+        {
+          "id": "085ec09dfd0dae533196b8be7ab563d8743dc396",
+          "title": "Anthropic 评估 AI 模型的战术情报定位与常规武器能力 / Measuring tactical intelligence targeting and conventional weapons capabilities of AI models",
+          "title_zh": "Anthropic 评估 AI 模型的战术情报定位与常规武器能力",
+          "title_en": "Measuring tactical intelligence targeting and conventional weapons capabilities of AI models",
+          "title_original": "Measuring tactical intelligence targeting and conventional weapons capabilities of AI models",
+          "summary": "Anthropic Frontier Red Team 发布新评测，衡量模型在战术情报定位（账户关联、照片与文本地理定位）和常规武器开发（无人机末段制导、投送、GPS 干扰下导航）上的能力。",
+          "recommend_reason_zh": null,
+          "url": "https://www.anthropic.com/research/intelligence-targeting-conventional-weapons-capabilities",
+          "source": "Anthropic：Research（发表成果 · 网页）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-10T17:28:52.100000Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.733,
+      "importance": 0.733,
+      "importance_score": 0.733,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.77,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.7246,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-09-10T17:28:52.100000Z",
+      "latest_at": "2026-09-10T17:28:52.100000Z",
+      "primary_item": {
+        "id": "085ec09dfd0dae533196b8be7ab563d8743dc396",
+        "title": "Anthropic 评估 AI 模型的战术情报定位与常规武器能力 / Measuring tactical intelligence targeting and conventional weapons capabilities of AI models",
+        "title_zh": "Anthropic 评估 AI 模型的战术情报定位与常规武器能力",
+        "title_en": "Measuring tactical intelligence targeting and conventional weapons capabilities of AI models",
+        "title_original": "Measuring tactical intelligence targeting and conventional weapons capabilities of AI models",
+        "summary": "Anthropic Frontier Red Team 发布新评测，衡量模型在战术情报定位（账户关联、照片与文本地理定位）和常规武器开发（无人机末段制导、投送、GPS 干扰下导航）上的能力。",
+        "recommend_reason_zh": null,
+        "url": "https://www.anthropic.com/research/intelligence-targeting-conventional-weapons-capabilities",
+        "source": "Anthropic：Research（发表成果 · 网页）",
+        "source_name": "AI HOT"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-09-11T15:48:12.304550Z"
       }
     },
     {
@@ -1127,15 +1209,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7963,
-      "importance": 0.7963,
-      "importance_score": 0.7963,
+      "score": 0.7944,
+      "importance": 0.7944,
+      "importance_score": 0.7944,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.7348,
+        "recency": 0.7243,
         "story_heat": 0.0
       },
       "category": "official",
@@ -1162,7 +1244,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-11T15:01:04.606905Z"
+        "scored_at": "2026-09-11T15:48:12.304550Z"
       }
     },
     {
@@ -1238,15 +1320,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7658,
-      "importance": 0.7658,
-      "importance_score": 0.7658,
+      "score": 0.7636,
+      "importance": 0.7636,
+      "importance_score": 0.7636,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8511,
+        "recency": 0.8389,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -1273,88 +1355,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-11T15:01:04.606905Z"
-      }
-    },
-    {
-      "story_id": "story_86ba7807178e",
-      "title": "Anthropic 评估 AI 模型的战术情报定位与常规武器能力 / Measuring tactical intelligence targeting and conventional weapons capabilities of AI models",
-      "url": "https://www.anthropic.com/research/intelligence-targeting-conventional-weapons-capabilities",
-      "primary_url": "https://www.anthropic.com/research/intelligence-targeting-conventional-weapons-capabilities",
-      "source": "Anthropic：Research（发表成果 · 网页）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "085ec09dfd0dae533196b8be7ab563d8743dc396",
-          "title": "Anthropic 评估 AI 模型的战术情报定位与常规武器能力 / Measuring tactical intelligence targeting and conventional weapons capabilities of AI models",
-          "title_zh": "Anthropic 评估 AI 模型的战术情报定位与常规武器能力",
-          "title_en": "Measuring tactical intelligence targeting and conventional weapons capabilities of AI models",
-          "title_original": "Measuring tactical intelligence targeting and conventional weapons capabilities of AI models",
-          "summary": "Anthropic Frontier Red Team 发布新评测，衡量模型在战术情报定位（账户关联、照片与文本地理定位）和常规武器开发（无人机末段制导、投送、GPS 干扰下导航）上的能力。",
-          "recommend_reason_zh": null,
-          "url": "https://www.anthropic.com/research/intelligence-targeting-conventional-weapons-capabilities",
-          "source": "Anthropic：Research（发表成果 · 网页）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-10T17:28:52.100000Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Anthropic：Research（发表成果 · 网页）"
-      ],
-      "items": [
-        {
-          "id": "085ec09dfd0dae533196b8be7ab563d8743dc396",
-          "title": "Anthropic 评估 AI 模型的战术情报定位与常规武器能力 / Measuring tactical intelligence targeting and conventional weapons capabilities of AI models",
-          "title_zh": "Anthropic 评估 AI 模型的战术情报定位与常规武器能力",
-          "title_en": "Measuring tactical intelligence targeting and conventional weapons capabilities of AI models",
-          "title_original": "Measuring tactical intelligence targeting and conventional weapons capabilities of AI models",
-          "summary": "Anthropic Frontier Red Team 发布新评测，衡量模型在战术情报定位（账户关联、照片与文本地理定位）和常规武器开发（无人机末段制导、投送、GPS 干扰下导航）上的能力。",
-          "recommend_reason_zh": null,
-          "url": "https://www.anthropic.com/research/intelligence-targeting-conventional-weapons-capabilities",
-          "source": "Anthropic：Research（发表成果 · 网页）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-10T17:28:52.100000Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7349,
-      "importance": 0.7349,
-      "importance_score": 0.7349,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.77,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7351,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-09-10T17:28:52.100000Z",
-      "latest_at": "2026-09-10T17:28:52.100000Z",
-      "primary_item": {
-        "id": "085ec09dfd0dae533196b8be7ab563d8743dc396",
-        "title": "Anthropic 评估 AI 模型的战术情报定位与常规武器能力 / Measuring tactical intelligence targeting and conventional weapons capabilities of AI models",
-        "title_zh": "Anthropic 评估 AI 模型的战术情报定位与常规武器能力",
-        "title_en": "Measuring tactical intelligence targeting and conventional weapons capabilities of AI models",
-        "title_original": "Measuring tactical intelligence targeting and conventional weapons capabilities of AI models",
-        "summary": "Anthropic Frontier Red Team 发布新评测，衡量模型在战术情报定位（账户关联、照片与文本地理定位）和常规武器开发（无人机末段制导、投送、GPS 干扰下导航）上的能力。",
-        "recommend_reason_zh": null,
-        "url": "https://www.anthropic.com/research/intelligence-targeting-conventional-weapons-capabilities",
-        "source": "Anthropic：Research（发表成果 · 网页）",
-        "source_name": "AI HOT"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-09-11T15:01:04.606905Z"
+        "scored_at": "2026-09-11T15:48:12.304550Z"
       }
     },
     {
@@ -1402,15 +1403,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7952,
-      "importance": 0.7952,
-      "importance_score": 0.7952,
+      "score": 0.7933,
+      "importance": 0.7933,
+      "importance_score": 0.7933,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.729,
+        "recency": 0.7185,
         "story_heat": 0.0
       },
       "category": "official",
@@ -1437,7 +1438,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-11T15:01:04.606905Z"
+        "scored_at": "2026-09-11T15:48:12.304550Z"
       }
     },
     {
@@ -1485,15 +1486,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7575,
-      "importance": 0.7575,
-      "importance_score": 0.7575,
+      "score": 0.7551,
+      "importance": 0.7551,
+      "importance_score": 0.7551,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9439,
+        "recency": 0.9304,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1519,90 +1520,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-11T15:01:04.606905Z"
-      }
-    },
-    {
-      "story_id": "story_3c58fa4bee9b",
-      "title": "Xcode 27 运行程序映像现在可以在 macOS 27 上运行 / Xcode 27 runner image now runs on macOS 27",
-      "url": "https://github.blog/changelog/2026-09-10-xcode-27-runner-image-now-runs-on-macos-27",
-      "primary_url": "https://github.blog/changelog/2026-09-10-xcode-27-runner-image-now-runs-on-macos-27",
-      "source": "GitHub Changelog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "3b198056fa37958a04e0e588f0839285a75d03f1",
-          "title": "Xcode 27 运行程序映像现在可以在 macOS 27 上运行 / Xcode 27 runner image now runs on macOS 27",
-          "title_zh": "Xcode 27 运行程序映像现在可以在 macOS 27 上运行",
-          "title_en": "Xcode 27 runner image now runs on macOS 27",
-          "title_original": "Xcode 27 runner image now runs on macOS 27",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-09-10-xcode-27-runner-image-now-runs-on-macos-27",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-09-10T15:15:36Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "GitHub Changelog"
-      ],
-      "items": [
-        {
-          "id": "3b198056fa37958a04e0e588f0839285a75d03f1",
-          "title": "Xcode 27 运行程序映像现在可以在 macOS 27 上运行 / Xcode 27 runner image now runs on macOS 27",
-          "title_zh": "Xcode 27 运行程序映像现在可以在 macOS 27 上运行",
-          "title_en": "Xcode 27 runner image now runs on macOS 27",
-          "title_original": "Xcode 27 runner image now runs on macOS 27",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-09-10-xcode-27-runner-image-now-runs-on-macos-27",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-09-10T15:15:36Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7921,
-      "importance": 0.7921,
-      "importance_score": 0.7921,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.87,
-        "recency": 0.7119,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-10T15:15:36Z",
-      "latest_at": "2026-09-10T15:15:36Z",
-      "primary_item": {
-        "id": "3b198056fa37958a04e0e588f0839285a75d03f1",
-        "title": "Xcode 27 运行程序映像现在可以在 macOS 27 上运行 / Xcode 27 runner image now runs on macOS 27",
-        "title_zh": "Xcode 27 运行程序映像现在可以在 macOS 27 上运行",
-        "title_en": "Xcode 27 runner image now runs on macOS 27",
-        "title_original": "Xcode 27 runner image now runs on macOS 27",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://github.blog/changelog/2026-09-10-xcode-27-runner-image-now-runs-on-macos-27",
-        "source": "GitHub Changelog",
-        "source_name": "Official AI Updates"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-09-11T15:01:04.606905Z"
+        "scored_at": "2026-09-11T15:48:12.304550Z"
       }
     },
     {
@@ -1650,15 +1568,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7547,
-      "importance": 0.7547,
-      "importance_score": 0.7547,
+      "score": 0.7523,
+      "importance": 0.7523,
+      "importance_score": 0.7523,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9283,
+        "recency": 0.915,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1684,7 +1602,116 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-11T15:01:04.606905Z"
+        "scored_at": "2026-09-11T15:48:12.304550Z"
+      }
+    },
+    {
+      "story_id": "story_7dcbe59ddef0",
+      "title": "Meta 表示，在提出侵入性个人问题后，它正在改变人工智能建议 / Meta says it&#8217;s changing AI suggestions after posing invasive personal questions",
+      "url": "https://www.theverge.com/tech/993974/meta-ai-prompt-invasive-suggestions",
+      "primary_url": "https://www.theverge.com/tech/993974/meta-ai-prompt-invasive-suggestions",
+      "source": "The Verge",
+      "source_name": "Curated Media",
+      "sources": [
+        {
+          "id": "ee641a3edd208e4cd6878f246be1b8bb3a551d17",
+          "title": "Meta 表示，在提出侵入性个人问题后，它正在改变人工智能建议 / Meta says it&#8217;s changing AI suggestions after posing invasive personal questions",
+          "title_zh": "Meta 表示，在提出侵入性个人问题后，它正在改变人工智能建议",
+          "title_en": "Meta says it&#8217;s changing AI suggestions after posing invasive personal questions",
+          "title_original": "Meta says it&#8217;s changing AI suggestions after posing invasive personal questions",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.theverge.com/tech/993974/meta-ai-prompt-invasive-suggestions",
+          "source": "The Verge",
+          "source_name": "Curated Media",
+          "site_id": "curated_media",
+          "published_at": "2026-09-11T14:25:21Z"
+        },
+        {
+          "id": "bc2d26d53888fa61645b8177bb96977879220bc6",
+          "title": "Meta 表示，在提出侵入性个人问题后，它正在改变人工智能建议 / Meta says it’s changing AI suggestions after posing invasive personal questions",
+          "title_zh": "Meta 表示，在提出侵入性个人问题后，它正在改变人工智能建议",
+          "title_en": "Meta says it’s changing AI suggestions after posing invasive personal questions",
+          "title_original": "Meta says it’s changing AI suggestions after posing invasive personal questions",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.theverge.com/tech/993974/meta-ai-prompt-invasive-suggestions",
+          "source": "The Verge",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-09-11T14:25:21Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "The Verge"
+      ],
+      "items": [
+        {
+          "id": "ee641a3edd208e4cd6878f246be1b8bb3a551d17",
+          "title": "Meta 表示，在提出侵入性个人问题后，它正在改变人工智能建议 / Meta says it&#8217;s changing AI suggestions after posing invasive personal questions",
+          "title_zh": "Meta 表示，在提出侵入性个人问题后，它正在改变人工智能建议",
+          "title_en": "Meta says it&#8217;s changing AI suggestions after posing invasive personal questions",
+          "title_original": "Meta says it&#8217;s changing AI suggestions after posing invasive personal questions",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.theverge.com/tech/993974/meta-ai-prompt-invasive-suggestions",
+          "source": "The Verge",
+          "source_name": "Curated Media",
+          "site_id": "curated_media",
+          "published_at": "2026-09-11T14:25:21Z"
+        },
+        {
+          "id": "bc2d26d53888fa61645b8177bb96977879220bc6",
+          "title": "Meta 表示，在提出侵入性个人问题后，它正在改变人工智能建议 / Meta says it’s changing AI suggestions after posing invasive personal questions",
+          "title_zh": "Meta 表示，在提出侵入性个人问题后，它正在改变人工智能建议",
+          "title_en": "Meta says it’s changing AI suggestions after posing invasive personal questions",
+          "title_original": "Meta says it’s changing AI suggestions after posing invasive personal questions",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.theverge.com/tech/993974/meta-ai-prompt-invasive-suggestions",
+          "source": "The Verge",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-09-11T14:25:21Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.612,
+      "importance": 0.612,
+      "importance_score": 0.612,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.4896,
+        "source_tier": 0.58,
+        "ai_relevance": 0.68,
+        "recency": 0.9805,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-09-11T14:25:21Z",
+      "latest_at": "2026-09-11T14:25:21Z",
+      "primary_item": {
+        "id": "ee641a3edd208e4cd6878f246be1b8bb3a551d17",
+        "title": "Meta 表示，在提出侵入性个人问题后，它正在改变人工智能建议 / Meta says it&#8217;s changing AI suggestions after posing invasive personal questions",
+        "title_zh": "Meta 表示，在提出侵入性个人问题后，它正在改变人工智能建议",
+        "title_en": "Meta says it&#8217;s changing AI suggestions after posing invasive personal questions",
+        "title_original": "Meta says it&#8217;s changing AI suggestions after posing invasive personal questions",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://www.theverge.com/tech/993974/meta-ai-prompt-invasive-suggestions",
+        "source": "The Verge",
+        "source_name": "Curated Media"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-09-11T15:48:12.304550Z"
       }
     },
     {
@@ -1732,15 +1759,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7547,
-      "importance": 0.7547,
-      "importance_score": 0.7547,
+      "score": 0.7523,
+      "importance": 0.7523,
+      "importance_score": 0.7523,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9283,
+        "recency": 0.915,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1766,7 +1793,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-11T15:01:04.606905Z"
+        "scored_at": "2026-09-11T15:48:12.304550Z"
       }
     }
   ]
