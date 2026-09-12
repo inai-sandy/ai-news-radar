@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-09-12T20:47:23.102456Z",
+  "generated_at": "2026-09-12T21:47:21.648620Z",
   "window_hours": 24,
-  "total_items": 14,
+  "total_items": 12,
   "items": [
     {
       "story_id": "story_86ff3d2b9b70",
@@ -65,8 +65,8 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-09-12T20:47:23.102456Z",
-      "latest_at": "2026-09-12T20:47:23.102456Z",
+      "earliest_at": "2026-09-12T21:47:21.648620Z",
+      "latest_at": "2026-09-12T21:47:21.648620Z",
       "primary_item": {
         "id": "54b29e5d6f4765b0653d6e5e22c91217d622018b",
         "title": "Perplexity 信任 GPT-6 Astra 的端到端系统 / Perplexity trusts GPT-6 Astra with end-to-end systems",
@@ -83,7 +83,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-12T20:57:14.025539Z"
+        "scored_at": "2026-09-12T21:48:04.765873Z"
       }
     },
     {
@@ -131,15 +131,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8318,
-      "importance": 0.8318,
-      "importance_score": 0.8318,
+      "score": 0.8293,
+      "importance": 0.8293,
+      "importance_score": 0.8293,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.8,
         "source_tier": 1.0,
         "ai_relevance": 1.0,
-        "recency": 0.9544,
+        "recency": 0.9407,
         "story_heat": 0.0
       },
       "category": "official",
@@ -165,7 +165,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-12T20:57:14.025539Z"
+        "scored_at": "2026-09-12T21:48:04.765873Z"
       }
     },
     {
@@ -300,15 +300,15 @@
       ],
       "item_count": 4,
       "duplicate_count": 4,
-      "score": 0.8237,
-      "importance": 0.8237,
-      "importance_score": 0.8237,
+      "score": 0.8218,
+      "importance": 0.8218,
+      "importance_score": 0.8218,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.81,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.745,
+        "recency": 0.7343,
         "story_heat": 0.75
       },
       "category": "multi_source",
@@ -335,90 +335,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-12T20:57:14.025539Z"
-      }
-    },
-    {
-      "story_id": "story_adeb9fe0ee2f",
-      "title": "将 VS Code Agent 添加到 Copilot 使用指标 / Add VS Code Agents to Copilot usage metrics",
-      "url": "https://github.blog/changelog/2026-09-11-add-vs-code-agents-to-copilot-usage-metrics",
-      "primary_url": "https://github.blog/changelog/2026-09-11-add-vs-code-agents-to-copilot-usage-metrics",
-      "source": "GitHub Changelog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "6a28b4e26cc701066b0b877350ad6928fee9bfe5",
-          "title": "将 VS Code Agent 添加到 Copilot 使用指标 / Add VS Code Agents to Copilot usage metrics",
-          "title_zh": "将 VS Code Agent 添加到 Copilot 使用指标",
-          "title_en": "Add VS Code Agents to Copilot usage metrics",
-          "title_original": "Add VS Code Agents to Copilot usage metrics",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-09-11-add-vs-code-agents-to-copilot-usage-metrics",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-09-11T21:30:30Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "GitHub Changelog"
-      ],
-      "items": [
-        {
-          "id": "6a28b4e26cc701066b0b877350ad6928fee9bfe5",
-          "title": "将 VS Code Agent 添加到 Copilot 使用指标 / Add VS Code Agents to Copilot usage metrics",
-          "title_zh": "将 VS Code Agent 添加到 Copilot 使用指标",
-          "title_en": "Add VS Code Agents to Copilot usage metrics",
-          "title_original": "Add VS Code Agents to Copilot usage metrics",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-09-11-add-vs-code-agents-to-copilot-usage-metrics",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-09-11T21:30:30Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8006,
-      "importance": 0.8006,
-      "importance_score": 0.8006,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.91,
-        "recency": 0.7145,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-11T21:30:30Z",
-      "latest_at": "2026-09-11T21:30:30Z",
-      "primary_item": {
-        "id": "6a28b4e26cc701066b0b877350ad6928fee9bfe5",
-        "title": "将 VS Code Agent 添加到 Copilot 使用指标 / Add VS Code Agents to Copilot usage metrics",
-        "title_zh": "将 VS Code Agent 添加到 Copilot 使用指标",
-        "title_en": "Add VS Code Agents to Copilot usage metrics",
-        "title_original": "Add VS Code Agents to Copilot usage metrics",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://github.blog/changelog/2026-09-11-add-vs-code-agents-to-copilot-usage-metrics",
-        "source": "GitHub Changelog",
-        "source_name": "Official AI Updates"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-09-12T20:57:14.025539Z"
+        "scored_at": "2026-09-12T21:48:04.765873Z"
       }
     },
     {
@@ -524,15 +441,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.7881,
-      "importance": 0.7881,
-      "importance_score": 0.7881,
+      "score": 0.7862,
+      "importance": 0.7862,
+      "importance_score": 0.7862,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.76,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7697,
+        "recency": 0.7586,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -559,7 +476,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-12T20:57:14.025539Z"
+        "scored_at": "2026-09-12T21:48:04.765873Z"
       }
     },
     {
@@ -607,15 +524,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7739,
-      "importance": 0.7739,
-      "importance_score": 0.7739,
+      "score": 0.7716,
+      "importance": 0.7716,
+      "importance_score": 0.7716,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.82,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8682,
+        "recency": 0.8557,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -641,7 +558,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-12T20:57:14.025539Z"
+        "scored_at": "2026-09-12T21:48:04.765873Z"
       }
     },
     {
@@ -689,15 +606,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7628,
-      "importance": 0.7628,
-      "importance_score": 0.7628,
+      "score": 0.7604,
+      "importance": 0.7604,
+      "importance_score": 0.7604,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.74,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9401,
+        "recency": 0.9266,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -723,7 +640,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-12T20:57:14.025539Z"
+        "scored_at": "2026-09-12T21:48:04.765873Z"
       }
     },
     {
@@ -771,15 +688,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.762,
-      "importance": 0.762,
-      "importance_score": 0.762,
+      "score": 0.7595,
+      "importance": 0.7595,
+      "importance_score": 0.7595,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.71,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9856,
+        "recency": 0.9714,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -805,7 +722,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-12T20:57:14.025539Z"
+        "scored_at": "2026-09-12T21:48:04.765873Z"
       }
     },
     {
@@ -853,15 +770,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7604,
-      "importance": 0.7604,
-      "importance_score": 0.7604,
+      "score": 0.7578,
+      "importance": 0.7578,
+      "importance_score": 0.7578,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.7,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9931,
+        "recency": 0.9789,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -887,7 +804,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-12T20:57:14.025539Z"
+        "scored_at": "2026-09-12T21:48:04.765873Z"
       }
     },
     {
@@ -935,15 +852,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7452,
-      "importance": 0.7452,
-      "importance_score": 0.7452,
+      "score": 0.7427,
+      "importance": 0.7427,
+      "importance_score": 0.7427,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.68,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9421,
+        "recency": 0.9286,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -968,7 +885,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-12T20:57:14.025539Z"
+        "scored_at": "2026-09-12T21:48:04.765873Z"
       }
     },
     {
@@ -1016,15 +933,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7347,
-      "importance": 0.7347,
-      "importance_score": 0.7347,
+      "score": 0.7328,
+      "importance": 0.7328,
+      "importance_score": 0.7328,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.77,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.734,
+        "recency": 0.7235,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1049,7 +966,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-12T20:57:14.025539Z"
+        "scored_at": "2026-09-12T21:48:04.765873Z"
       }
     },
     {
@@ -1126,15 +1043,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5361,
-      "importance": 0.5361,
-      "importance_score": 0.5361,
+      "score": 0.5336,
+      "importance": 0.5336,
+      "importance_score": 0.5336,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.946,
+        "recency": 0.9325,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1159,7 +1076,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-12T20:57:14.025539Z"
+        "scored_at": "2026-09-12T21:48:04.765873Z"
       }
     },
     {
@@ -1236,15 +1153,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5353,
-      "importance": 0.5353,
-      "importance_score": 0.5353,
+      "score": 0.5329,
+      "importance": 0.5329,
+      "importance_score": 0.5329,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9416,
+        "recency": 0.9281,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1269,117 +1186,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-12T20:57:14.025539Z"
-      }
-    },
-    {
-      "story_id": "story_e95b34cb28f9",
-      "title": "人工智能研究人员就我们距离递归式自我改进还有多远这一问题展开了讨论",
-      "url": "https://www.dwarkesh.com/p/john-beren-charlie",
-      "primary_url": "https://www.dwarkesh.com/p/john-beren-charlie",
-      "source": "www.dwarkesh.com",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "6240b19a7bc85e883a73b6f030565b00ccfd380f",
-          "title": "人工智能研究人员就我们距离递归式自我改进还有多远这一问题展开了讨论",
-          "title_zh": "人工智能研究人员就我们距离递归式自我改进还有多远这一问题展开了讨论",
-          "title_en": null,
-          "title_original": "人工智能研究人员就我们距离递归式自我改进还有多远这一问题展开了讨论",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.dwarkesh.com/p/john-beren-charlie",
-          "source": "www.dwarkesh.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-09-12T08:31:36.686000Z"
-        },
-        {
-          "id": "2ac0315c36a085ca73eff64770a1f3faa6b99045",
-          "title": "人工智能研究人员就我们距离递归式自我改进还有多远这一问题展开了讨论 / AI researchers debate how close we are to recursive self-improvement",
-          "title_zh": "人工智能研究人员就我们距离递归式自我改进还有多远这一问题展开了讨论",
-          "title_en": "AI researchers debate how close we are to recursive self-improvement",
-          "title_original": "AI researchers debate how close we are to recursive self-improvement",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.dwarkesh.com/p/john-beren-charlie",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-09-11T21:35:29Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News · 24h最热",
-        "www.dwarkesh.com"
-      ],
-      "items": [
-        {
-          "id": "6240b19a7bc85e883a73b6f030565b00ccfd380f",
-          "title": "人工智能研究人员就我们距离递归式自我改进还有多远这一问题展开了讨论",
-          "title_zh": "人工智能研究人员就我们距离递归式自我改进还有多远这一问题展开了讨论",
-          "title_en": null,
-          "title_original": "人工智能研究人员就我们距离递归式自我改进还有多远这一问题展开了讨论",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.dwarkesh.com/p/john-beren-charlie",
-          "source": "www.dwarkesh.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-09-12T08:31:36.686000Z"
-        },
-        {
-          "id": "2ac0315c36a085ca73eff64770a1f3faa6b99045",
-          "title": "人工智能研究人员就我们距离递归式自我改进还有多远这一问题展开了讨论 / AI researchers debate how close we are to recursive self-improvement",
-          "title_zh": "人工智能研究人员就我们距离递归式自我改进还有多远这一问题展开了讨论",
-          "title_en": "AI researchers debate how close we are to recursive self-improvement",
-          "title_original": "AI researchers debate how close we are to recursive self-improvement",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.dwarkesh.com/p/john-beren-charlie",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-09-11T21:35:29Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5166,
-      "importance": 0.5166,
-      "importance_score": 0.5166,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.8377,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-09-11T21:35:29Z",
-      "latest_at": "2026-09-12T08:31:36.686000Z",
-      "primary_item": {
-        "id": "6240b19a7bc85e883a73b6f030565b00ccfd380f",
-        "title": "人工智能研究人员就我们距离递归式自我改进还有多远这一问题展开了讨论",
-        "title_zh": "人工智能研究人员就我们距离递归式自我改进还有多远这一问题展开了讨论",
-        "title_en": null,
-        "title_original": "人工智能研究人员就我们距离递归式自我改进还有多远这一问题展开了讨论",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://www.dwarkesh.com/p/john-beren-charlie",
-        "source": "www.dwarkesh.com",
-        "source_name": "Buzzing"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-09-12T20:57:14.025539Z"
+        "scored_at": "2026-09-12T21:48:04.765873Z"
       }
     }
   ]
