@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-12T02:47:18.368153Z",
+  "generated_at": "2026-09-12T03:47:18.256434Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -27,8 +27,8 @@
         },
         {
           "id": "7587e03b451cad16f611fbe071bfb0d9773cc21b",
-          "title": "OpenAI agents carried out an undisclosed attack on RubyGems",
-          "title_zh": null,
+          "title": "OpenAI 代理对 RubyGems 进行了一次未公开的攻击 / OpenAI agents carried out an undisclosed attack on RubyGems",
+          "title_zh": "OpenAI 代理对 RubyGems 进行了一次未公开的攻击",
           "title_en": "OpenAI agents carried out an undisclosed attack on RubyGems",
           "title_original": "OpenAI agents carried out an undisclosed attack on RubyGems",
           "summary": null,
@@ -92,8 +92,8 @@
         },
         {
           "id": "7587e03b451cad16f611fbe071bfb0d9773cc21b",
-          "title": "OpenAI agents carried out an undisclosed attack on RubyGems",
-          "title_zh": null,
+          "title": "OpenAI 代理对 RubyGems 进行了一次未公开的攻击 / OpenAI agents carried out an undisclosed attack on RubyGems",
+          "title_zh": "OpenAI 代理对 RubyGems 进行了一次未公开的攻击",
           "title_en": "OpenAI agents carried out an undisclosed attack on RubyGems",
           "title_original": "OpenAI agents carried out an undisclosed attack on RubyGems",
           "summary": null,
@@ -135,15 +135,15 @@
       ],
       "item_count": 4,
       "duplicate_count": 4,
-      "score": 0.8635,
-      "importance": 0.8635,
-      "importance_score": 0.8635,
+      "score": 0.861,
+      "importance": 0.861,
+      "importance_score": 0.861,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.81,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9662,
+        "recency": 0.9523,
         "story_heat": 0.75
       },
       "category": "multi_source",
@@ -170,12 +170,12 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-12T03:15:20.398399Z"
+        "scored_at": "2026-09-12T03:48:08.189612Z"
       }
     },
     {
       "story_id": "story_86ff3d2b9b70",
-      "title": "Perplexity trusts GPT-6 Astra with end-to-end systems",
+      "title": "Perplexity 信任 GPT-6 Astra 的端到端系统 / Perplexity trusts GPT-6 Astra with end-to-end systems",
       "url": "https://openai.com/index/perplexity-improving-accuracy-with-astra",
       "primary_url": "https://openai.com/index/perplexity-improving-accuracy-with-astra",
       "source": "OpenAI News",
@@ -183,8 +183,8 @@
       "sources": [
         {
           "id": "54b29e5d6f4765b0653d6e5e22c91217d622018b",
-          "title": "Perplexity trusts GPT-6 Astra with end-to-end systems",
-          "title_zh": null,
+          "title": "Perplexity 信任 GPT-6 Astra 的端到端系统 / Perplexity trusts GPT-6 Astra with end-to-end systems",
+          "title_zh": "Perplexity 信任 GPT-6 Astra 的端到端系统",
           "title_en": "Perplexity trusts GPT-6 Astra with end-to-end systems",
           "title_original": "Perplexity trusts GPT-6 Astra with end-to-end systems",
           "summary": null,
@@ -203,8 +203,8 @@
       "items": [
         {
           "id": "54b29e5d6f4765b0653d6e5e22c91217d622018b",
-          "title": "Perplexity trusts GPT-6 Astra with end-to-end systems",
-          "title_zh": null,
+          "title": "Perplexity 信任 GPT-6 Astra 的端到端系统 / Perplexity trusts GPT-6 Astra with end-to-end systems",
+          "title_zh": "Perplexity 信任 GPT-6 Astra 的端到端系统",
           "title_en": "Perplexity trusts GPT-6 Astra with end-to-end systems",
           "title_original": "Perplexity trusts GPT-6 Astra with end-to-end systems",
           "summary": null,
@@ -235,12 +235,12 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-09-12T02:47:18.368153Z",
-      "latest_at": "2026-09-12T02:47:18.368153Z",
+      "earliest_at": "2026-09-12T03:47:18.256434Z",
+      "latest_at": "2026-09-12T03:47:18.256434Z",
       "primary_item": {
         "id": "54b29e5d6f4765b0653d6e5e22c91217d622018b",
-        "title": "Perplexity trusts GPT-6 Astra with end-to-end systems",
-        "title_zh": null,
+        "title": "Perplexity 信任 GPT-6 Astra 的端到端系统 / Perplexity trusts GPT-6 Astra with end-to-end systems",
+        "title_zh": "Perplexity 信任 GPT-6 Astra 的端到端系统",
         "title_en": "Perplexity trusts GPT-6 Astra with end-to-end systems",
         "title_original": "Perplexity trusts GPT-6 Astra with end-to-end systems",
         "summary": null,
@@ -253,7 +253,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-12T03:15:20.398399Z"
+        "scored_at": "2026-09-12T03:48:08.189612Z"
       }
     },
     {
@@ -330,15 +330,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.8485,
-      "importance": 0.8485,
-      "importance_score": 0.8485,
+      "score": 0.8463,
+      "importance": 0.8463,
+      "importance_score": 0.8463,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.8864,
+        "recency": 0.8737,
         "story_heat": 0.25
       },
       "category": "official",
@@ -366,12 +366,12 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-12T03:15:20.398399Z"
+        "scored_at": "2026-09-12T03:48:08.189612Z"
       }
     },
     {
       "story_id": "story_adeb9fe0ee2f",
-      "title": "Add VS Code Agents to Copilot usage metrics",
+      "title": "将 VS Code Agent 添加到 Copilot 使用指标 / Add VS Code Agents to Copilot usage metrics",
       "url": "https://github.blog/changelog/2026-09-11-add-vs-code-agents-to-copilot-usage-metrics",
       "primary_url": "https://github.blog/changelog/2026-09-11-add-vs-code-agents-to-copilot-usage-metrics",
       "source": "GitHub Changelog",
@@ -379,8 +379,8 @@
       "sources": [
         {
           "id": "6a28b4e26cc701066b0b877350ad6928fee9bfe5",
-          "title": "Add VS Code Agents to Copilot usage metrics",
-          "title_zh": null,
+          "title": "将 VS Code Agent 添加到 Copilot 使用指标 / Add VS Code Agents to Copilot usage metrics",
+          "title_zh": "将 VS Code Agent 添加到 Copilot 使用指标",
           "title_en": "Add VS Code Agents to Copilot usage metrics",
           "title_original": "Add VS Code Agents to Copilot usage metrics",
           "summary": null,
@@ -399,8 +399,8 @@
       "items": [
         {
           "id": "6a28b4e26cc701066b0b877350ad6928fee9bfe5",
-          "title": "Add VS Code Agents to Copilot usage metrics",
-          "title_zh": null,
+          "title": "将 VS Code Agent 添加到 Copilot 使用指标 / Add VS Code Agents to Copilot usage metrics",
+          "title_zh": "将 VS Code Agent 添加到 Copilot 使用指标",
           "title_en": "Add VS Code Agents to Copilot usage metrics",
           "title_original": "Add VS Code Agents to Copilot usage metrics",
           "summary": null,
@@ -414,15 +414,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8388,
-      "importance": 0.8388,
-      "importance_score": 0.8388,
+      "score": 0.8364,
+      "importance": 0.8364,
+      "importance_score": 0.8364,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.9266,
+        "recency": 0.9133,
         "story_heat": 0.0
       },
       "category": "official",
@@ -435,8 +435,8 @@
       "latest_at": "2026-09-11T21:30:30Z",
       "primary_item": {
         "id": "6a28b4e26cc701066b0b877350ad6928fee9bfe5",
-        "title": "Add VS Code Agents to Copilot usage metrics",
-        "title_zh": null,
+        "title": "将 VS Code Agent 添加到 Copilot 使用指标 / Add VS Code Agents to Copilot usage metrics",
+        "title_zh": "将 VS Code Agent 添加到 Copilot 使用指标",
         "title_en": "Add VS Code Agents to Copilot usage metrics",
         "title_original": "Add VS Code Agents to Copilot usage metrics",
         "summary": null,
@@ -449,12 +449,12 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-12T03:15:20.398399Z"
+        "scored_at": "2026-09-12T03:48:08.189612Z"
       }
     },
     {
       "story_id": "story_bbf03c6dd45c",
-      "title": "Auto-resolution and analysis updates in Copilot code review",
+      "title": "Copilot 代码审查中的自动解析和分析更新 / Auto-resolution and analysis updates in Copilot code review",
       "url": "https://github.blog/changelog/2026-09-11-auto-resolution-and-analysis-updates-in-copilot-code-review",
       "primary_url": "https://github.blog/changelog/2026-09-11-auto-resolution-and-analysis-updates-in-copilot-code-review",
       "source": "GitHub Changelog",
@@ -462,8 +462,8 @@
       "sources": [
         {
           "id": "eb40e36e6a9a04e2c03ce1e5fef7636434e1b494",
-          "title": "Auto-resolution and analysis updates in Copilot code review",
-          "title_zh": null,
+          "title": "Copilot 代码审查中的自动解析和分析更新 / Auto-resolution and analysis updates in Copilot code review",
+          "title_zh": "Copilot 代码审查中的自动解析和分析更新",
           "title_en": "Auto-resolution and analysis updates in Copilot code review",
           "title_original": "Auto-resolution and analysis updates in Copilot code review",
           "summary": null,
@@ -482,8 +482,8 @@
       "items": [
         {
           "id": "eb40e36e6a9a04e2c03ce1e5fef7636434e1b494",
-          "title": "Auto-resolution and analysis updates in Copilot code review",
-          "title_zh": null,
+          "title": "Copilot 代码审查中的自动解析和分析更新 / Auto-resolution and analysis updates in Copilot code review",
+          "title_zh": "Copilot 代码审查中的自动解析和分析更新",
           "title_en": "Auto-resolution and analysis updates in Copilot code review",
           "title_original": "Auto-resolution and analysis updates in Copilot code review",
           "summary": null,
@@ -497,15 +497,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8352,
-      "importance": 0.8352,
-      "importance_score": 0.8352,
+      "score": 0.8329,
+      "importance": 0.8329,
+      "importance_score": 0.8329,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.9066,
+        "recency": 0.8937,
         "story_heat": 0.0
       },
       "category": "official",
@@ -518,8 +518,8 @@
       "latest_at": "2026-09-11T20:00:07Z",
       "primary_item": {
         "id": "eb40e36e6a9a04e2c03ce1e5fef7636434e1b494",
-        "title": "Auto-resolution and analysis updates in Copilot code review",
-        "title_zh": null,
+        "title": "Copilot 代码审查中的自动解析和分析更新 / Auto-resolution and analysis updates in Copilot code review",
+        "title_zh": "Copilot 代码审查中的自动解析和分析更新",
         "title_en": "Auto-resolution and analysis updates in Copilot code review",
         "title_original": "Auto-resolution and analysis updates in Copilot code review",
         "summary": null,
@@ -532,12 +532,12 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-12T03:15:20.398399Z"
+        "scored_at": "2026-09-12T03:48:08.189612Z"
       }
     },
     {
       "story_id": "story_09d1422e2596",
-      "title": "Cognition helps Devin test its own work with GPT‑6 Astra",
+      "title": "Cognition 帮助 Devin 使用 GPT-6 Astra 测试自己的工作 / Cognition helps Devin test its own work with GPT‑6 Astra",
       "url": "https://openai.com/index/cognition-devin-testing-with-astra",
       "primary_url": "https://openai.com/index/cognition-devin-testing-with-astra",
       "source": "OpenAI News",
@@ -545,8 +545,8 @@
       "sources": [
         {
           "id": "2342e4759b03bcc9e1fdc6ec2451a4a3e853fe0b",
-          "title": "Cognition helps Devin test its own work with GPT‑6 Astra",
-          "title_zh": null,
+          "title": "Cognition 帮助 Devin 使用 GPT-6 Astra 测试自己的工作 / Cognition helps Devin test its own work with GPT‑6 Astra",
+          "title_zh": "Cognition 帮助 Devin 使用 GPT-6 Astra 测试自己的工作",
           "title_en": "Cognition helps Devin test its own work with GPT‑6 Astra",
           "title_original": "Cognition helps Devin test its own work with GPT‑6 Astra",
           "summary": null,
@@ -565,8 +565,8 @@
       "items": [
         {
           "id": "2342e4759b03bcc9e1fdc6ec2451a4a3e853fe0b",
-          "title": "Cognition helps Devin test its own work with GPT‑6 Astra",
-          "title_zh": null,
+          "title": "Cognition 帮助 Devin 使用 GPT-6 Astra 测试自己的工作 / Cognition helps Devin test its own work with GPT‑6 Astra",
+          "title_zh": "Cognition 帮助 Devin 使用 GPT-6 Astra 测试自己的工作",
           "title_en": "Cognition helps Devin test its own work with GPT‑6 Astra",
           "title_original": "Cognition helps Devin test its own work with GPT‑6 Astra",
           "summary": null,
@@ -580,15 +580,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.834,
-      "importance": 0.834,
-      "importance_score": 0.834,
+      "score": 0.8318,
+      "importance": 0.8318,
+      "importance_score": 0.8318,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.8557,
+        "recency": 0.8435,
         "story_heat": 0.0
       },
       "category": "official",
@@ -601,8 +601,8 @@
       "latest_at": "2026-09-11T16:00:00Z",
       "primary_item": {
         "id": "2342e4759b03bcc9e1fdc6ec2451a4a3e853fe0b",
-        "title": "Cognition helps Devin test its own work with GPT‑6 Astra",
-        "title_zh": null,
+        "title": "Cognition 帮助 Devin 使用 GPT-6 Astra 测试自己的工作 / Cognition helps Devin test its own work with GPT‑6 Astra",
+        "title_zh": "Cognition 帮助 Devin 使用 GPT-6 Astra 测试自己的工作",
         "title_en": "Cognition helps Devin test its own work with GPT‑6 Astra",
         "title_original": "Cognition helps Devin test its own work with GPT‑6 Astra",
         "summary": null,
@@ -615,7 +615,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-12T03:15:20.398399Z"
+        "scored_at": "2026-09-12T03:48:08.189612Z"
       }
     },
     {
@@ -692,15 +692,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7949,
-      "importance": 0.7949,
-      "importance_score": 0.7949,
+      "score": 0.7928,
+      "importance": 0.7928,
+      "importance_score": 0.7928,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.83,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8295,
+        "recency": 0.8176,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -727,7 +727,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-12T03:15:20.398399Z"
+        "scored_at": "2026-09-12T03:48:08.189612Z"
       }
     },
     {
@@ -775,15 +775,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7739,
-      "importance": 0.7739,
-      "importance_score": 0.7739,
+      "score": 0.7715,
+      "importance": 0.7715,
+      "importance_score": 0.7715,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.77,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9519,
+        "recency": 0.9383,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -809,7 +809,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-12T03:15:20.398399Z"
+        "scored_at": "2026-09-12T03:48:08.189612Z"
       }
     },
     {
@@ -857,15 +857,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8212,
-      "importance": 0.8212,
-      "importance_score": 0.8212,
+      "score": 0.8192,
+      "importance": 0.8192,
+      "importance_score": 0.8192,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.7847,
+        "recency": 0.7735,
         "story_heat": 0.0
       },
       "category": "official",
@@ -892,279 +892,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-12T03:15:20.398399Z"
-      }
-    },
-    {
-      "story_id": "story_ea7ced4827f0",
-      "title": "OpenAI 暂停 ChatGPT Pro 200 美元档新用户注册与升级",
-      "url": "https://www.aibase.com/news/30980",
-      "primary_url": "https://www.aibase.com/news/30980",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "45f86a527ccd9ac0b28a1adacc5a704038205112",
-          "title": "OpenAI 暂停 ChatGPT Pro 200 美元档新用户注册与升级",
-          "title_zh": "OpenAI 暂停 ChatGPT Pro 200 美元档新用户注册与升级",
-          "title_en": null,
-          "title_original": "OpenAI 暂停 ChatGPT Pro 200 美元档新用户注册与升级",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/30980",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-09-11T03:37:25.893217Z"
-        },
-        {
-          "id": "470422fef94d4eac1cd1ce5ab8f2d9a51a2fcb1a",
-          "title": "算力需求超载！OpenAI暂停ChatGPT Pro 200美元档新用户注册与升级",
-          "title_zh": "算力需求超载！OpenAI暂停ChatGPT Pro 200美元档新用户注册与升级",
-          "title_en": null,
-          "title_original": "算力需求超载！OpenAI暂停ChatGPT Pro 200美元档新用户注册与升级",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/30974",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-09-11T03:37:25.893217Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "45f86a527ccd9ac0b28a1adacc5a704038205112",
-          "title": "OpenAI 暂停 ChatGPT Pro 200 美元档新用户注册与升级",
-          "title_zh": "OpenAI 暂停 ChatGPT Pro 200 美元档新用户注册与升级",
-          "title_en": null,
-          "title_original": "OpenAI 暂停 ChatGPT Pro 200 美元档新用户注册与升级",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/30980",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-09-11T03:37:25.893217Z"
-        },
-        {
-          "id": "470422fef94d4eac1cd1ce5ab8f2d9a51a2fcb1a",
-          "title": "算力需求超载！OpenAI暂停ChatGPT Pro 200美元档新用户注册与升级",
-          "title_zh": "算力需求超载！OpenAI暂停ChatGPT Pro 200美元档新用户注册与升级",
-          "title_en": null,
-          "title_original": "算力需求超载！OpenAI暂停ChatGPT Pro 200美元档新用户注册与升级",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/30974",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-09-11T03:37:25.893217Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.7414,
-      "importance": 0.7414,
-      "importance_score": 0.7414,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7157,
-        "story_heat": 0.25
-      },
-      "category": "industry",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-09-11T03:37:25.893217Z",
-      "latest_at": "2026-09-11T03:37:25.893217Z",
-      "primary_item": {
-        "id": "45f86a527ccd9ac0b28a1adacc5a704038205112",
-        "title": "OpenAI 暂停 ChatGPT Pro 200 美元档新用户注册与升级",
-        "title_zh": "OpenAI 暂停 ChatGPT Pro 200 美元档新用户注册与升级",
-        "title_en": null,
-        "title_original": "OpenAI 暂停 ChatGPT Pro 200 美元档新用户注册与升级",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/30980",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-09-12T03:15:20.398399Z"
-      }
-    },
-    {
-      "story_id": "story_9cc4559ef9f0",
-      "title": "实测 DeepSeek V4.1 Flash：价格大降、原生带视觉，作者用游戏与城市生成任务验证表现",
-      "url": "https://mp.weixin.qq.com/s?__biz=Mzg3MTk3NzYzNw%3D%3D&mid=2247511119&idx=1&sn=0f53b5017e41b16afc9b201966ce2bda",
-      "primary_url": "https://mp.weixin.qq.com/s?__biz=Mzg3MTk3NzYzNw%3D%3D&mid=2247511119&idx=1&sn=0f53b5017e41b16afc9b201966ce2bda",
-      "source": "公众号：卡尔的AI沃茨",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "75b9e770438f92296d66b37e1b8f03368d074325",
-          "title": "实测 DeepSeek V4.1 Flash：价格大降、原生带视觉，作者用游戏与城市生成任务验证表现",
-          "title_zh": "实测 DeepSeek V4.1 Flash：价格大降、原生带视觉，作者用游戏与城市生成任务验证表现",
-          "title_en": null,
-          "title_original": "实测 DeepSeek V4.1 Flash：价格大降、原生带视觉，作者用游戏与城市生成任务验证表现",
-          "summary": "作者实测 DeepSeek V4.1 Flash，缓存命中输入降价 7 倍多、输出砍三分之二，9 月 14 日中午 12 点起所有发往 v4-pro 的请求将被强制路由到 4.1 Flash 并按其低价计费。",
-          "recommend_reason_zh": null,
-          "url": "https://mp.weixin.qq.com/s?__biz=Mzg3MTk3NzYzNw%3D%3D&mid=2247511119&idx=1&sn=0f53b5017e41b16afc9b201966ce2bda",
-          "source": "公众号：卡尔的AI沃茨",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-11T04:24:28Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "公众号：卡尔的AI沃茨"
-      ],
-      "items": [
-        {
-          "id": "75b9e770438f92296d66b37e1b8f03368d074325",
-          "title": "实测 DeepSeek V4.1 Flash：价格大降、原生带视觉，作者用游戏与城市生成任务验证表现",
-          "title_zh": "实测 DeepSeek V4.1 Flash：价格大降、原生带视觉，作者用游戏与城市生成任务验证表现",
-          "title_en": null,
-          "title_original": "实测 DeepSeek V4.1 Flash：价格大降、原生带视觉，作者用游戏与城市生成任务验证表现",
-          "summary": "作者实测 DeepSeek V4.1 Flash，缓存命中输入降价 7 倍多、输出砍三分之二，9 月 14 日中午 12 点起所有发往 v4-pro 的请求将被强制路由到 4.1 Flash 并按其低价计费。",
-          "recommend_reason_zh": null,
-          "url": "https://mp.weixin.qq.com/s?__biz=Mzg3MTk3NzYzNw%3D%3D&mid=2247511119&idx=1&sn=0f53b5017e41b16afc9b201966ce2bda",
-          "source": "公众号：卡尔的AI沃茨",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-11T04:24:28Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7299,
-      "importance": 0.7299,
-      "importance_score": 0.7299,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.76,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7238,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-09-11T04:24:28Z",
-      "latest_at": "2026-09-11T04:24:28Z",
-      "primary_item": {
-        "id": "75b9e770438f92296d66b37e1b8f03368d074325",
-        "title": "实测 DeepSeek V4.1 Flash：价格大降、原生带视觉，作者用游戏与城市生成任务验证表现",
-        "title_zh": "实测 DeepSeek V4.1 Flash：价格大降、原生带视觉，作者用游戏与城市生成任务验证表现",
-        "title_en": null,
-        "title_original": "实测 DeepSeek V4.1 Flash：价格大降、原生带视觉，作者用游戏与城市生成任务验证表现",
-        "summary": "作者实测 DeepSeek V4.1 Flash，缓存命中输入降价 7 倍多、输出砍三分之二，9 月 14 日中午 12 点起所有发往 v4-pro 的请求将被强制路由到 4.1 Flash 并按其低价计费。",
-        "recommend_reason_zh": null,
-        "url": "https://mp.weixin.qq.com/s?__biz=Mzg3MTk3NzYzNw%3D%3D&mid=2247511119&idx=1&sn=0f53b5017e41b16afc9b201966ce2bda",
-        "source": "公众号：卡尔的AI沃茨",
-        "source_name": "AI HOT"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-09-12T03:15:20.398399Z"
-      }
-    },
-    {
-      "story_id": "story_e95b34cb28f9",
-      "title": "Beren Millidge、John Schulman、Charlie O'Neill 对谈递归自我改进离我们还有多远 / AI researchers debate how close we are to recursive self-improvement",
-      "url": "https://www.dwarkesh.com/p/john-beren-charlie",
-      "primary_url": "https://www.dwarkesh.com/p/john-beren-charlie",
-      "source": "Dwarkesh Patel：Podcast & Blog（RSS）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "debdcd3ab4b77ad631f8ed5a47f1216b9e46a1f0",
-          "title": "Beren Millidge、John Schulman、Charlie O'Neill 对谈递归自我改进离我们还有多远 / AI researchers debate how close we are to recursive self-improvement",
-          "title_zh": "Beren Millidge、John Schulman、Charlie O'Neill 对谈递归自我改进离我们还有多远",
-          "title_en": "AI researchers debate how close we are to recursive self-improvement",
-          "title_original": "AI researchers debate how close we are to recursive self-improvement",
-          "summary": "Dwarkesh Patel 与 Zyphra CTO Beren Millidge、Thinking Machines 首席科学家 John Schulman、Baseten 模型训练负责人 Charlie O'Neill 三位研究者对谈递归自我改进（RSI）的前景。",
-          "recommend_reason_zh": null,
-          "url": "https://www.dwarkesh.com/p/john-beren-charlie",
-          "source": "Dwarkesh Patel：Podcast & Blog（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-11T16:28:11Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Dwarkesh Patel：Podcast & Blog（RSS）"
-      ],
-      "items": [
-        {
-          "id": "debdcd3ab4b77ad631f8ed5a47f1216b9e46a1f0",
-          "title": "Beren Millidge、John Schulman、Charlie O'Neill 对谈递归自我改进离我们还有多远 / AI researchers debate how close we are to recursive self-improvement",
-          "title_zh": "Beren Millidge、John Schulman、Charlie O'Neill 对谈递归自我改进离我们还有多远",
-          "title_en": "AI researchers debate how close we are to recursive self-improvement",
-          "title_original": "AI researchers debate how close we are to recursive self-improvement",
-          "summary": "Dwarkesh Patel 与 Zyphra CTO Beren Millidge、Thinking Machines 首席科学家 John Schulman、Baseten 模型训练负责人 Charlie O'Neill 三位研究者对谈递归自我改进（RSI）的前景。",
-          "recommend_reason_zh": null,
-          "url": "https://www.dwarkesh.com/p/john-beren-charlie",
-          "source": "Dwarkesh Patel：Podcast & Blog（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-11T16:28:11Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7247,
-      "importance": 0.7247,
-      "importance_score": 0.7247,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.66,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.8616,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-09-11T16:28:11Z",
-      "latest_at": "2026-09-11T16:28:11Z",
-      "primary_item": {
-        "id": "debdcd3ab4b77ad631f8ed5a47f1216b9e46a1f0",
-        "title": "Beren Millidge、John Schulman、Charlie O'Neill 对谈递归自我改进离我们还有多远 / AI researchers debate how close we are to recursive self-improvement",
-        "title_zh": "Beren Millidge、John Schulman、Charlie O'Neill 对谈递归自我改进离我们还有多远",
-        "title_en": "AI researchers debate how close we are to recursive self-improvement",
-        "title_original": "AI researchers debate how close we are to recursive self-improvement",
-        "summary": "Dwarkesh Patel 与 Zyphra CTO Beren Millidge、Thinking Machines 首席科学家 John Schulman、Baseten 模型训练负责人 Charlie O'Neill 三位研究者对谈递归自我改进（RSI）的前景。",
-        "recommend_reason_zh": null,
-        "url": "https://www.dwarkesh.com/p/john-beren-charlie",
-        "source": "Dwarkesh Patel：Podcast & Blog（RSS）",
-        "source_name": "AI HOT"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-09-12T03:15:20.398399Z"
+        "scored_at": "2026-09-12T03:48:08.189612Z"
       }
     },
     {
@@ -1212,15 +940,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7412,
-      "importance": 0.7412,
-      "importance_score": 0.7412,
+      "score": 0.739,
+      "importance": 0.739,
+      "importance_score": 0.739,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8531,
+        "recency": 0.8409,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1245,7 +973,169 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-12T03:15:20.398399Z"
+        "scored_at": "2026-09-12T03:48:08.189612Z"
+      }
+    },
+    {
+      "story_id": "story_9cc4559ef9f0",
+      "title": "实测 DeepSeek V4.1 Flash：价格大降、原生带视觉，作者用游戏与城市生成任务验证表现",
+      "url": "https://mp.weixin.qq.com/s?__biz=Mzg3MTk3NzYzNw%3D%3D&mid=2247511119&idx=1&sn=0f53b5017e41b16afc9b201966ce2bda",
+      "primary_url": "https://mp.weixin.qq.com/s?__biz=Mzg3MTk3NzYzNw%3D%3D&mid=2247511119&idx=1&sn=0f53b5017e41b16afc9b201966ce2bda",
+      "source": "公众号：卡尔的AI沃茨",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "75b9e770438f92296d66b37e1b8f03368d074325",
+          "title": "实测 DeepSeek V4.1 Flash：价格大降、原生带视觉，作者用游戏与城市生成任务验证表现",
+          "title_zh": "实测 DeepSeek V4.1 Flash：价格大降、原生带视觉，作者用游戏与城市生成任务验证表现",
+          "title_en": null,
+          "title_original": "实测 DeepSeek V4.1 Flash：价格大降、原生带视觉，作者用游戏与城市生成任务验证表现",
+          "summary": "作者实测 DeepSeek V4.1 Flash，缓存命中输入降价 7 倍多、输出砍三分之二，9 月 14 日中午 12 点起所有发往 v4-pro 的请求将被强制路由到 4.1 Flash 并按其低价计费。",
+          "recommend_reason_zh": null,
+          "url": "https://mp.weixin.qq.com/s?__biz=Mzg3MTk3NzYzNw%3D%3D&mid=2247511119&idx=1&sn=0f53b5017e41b16afc9b201966ce2bda",
+          "source": "公众号：卡尔的AI沃茨",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-11T04:24:28Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "公众号：卡尔的AI沃茨"
+      ],
+      "items": [
+        {
+          "id": "75b9e770438f92296d66b37e1b8f03368d074325",
+          "title": "实测 DeepSeek V4.1 Flash：价格大降、原生带视觉，作者用游戏与城市生成任务验证表现",
+          "title_zh": "实测 DeepSeek V4.1 Flash：价格大降、原生带视觉，作者用游戏与城市生成任务验证表现",
+          "title_en": null,
+          "title_original": "实测 DeepSeek V4.1 Flash：价格大降、原生带视觉，作者用游戏与城市生成任务验证表现",
+          "summary": "作者实测 DeepSeek V4.1 Flash，缓存命中输入降价 7 倍多、输出砍三分之二，9 月 14 日中午 12 点起所有发往 v4-pro 的请求将被强制路由到 4.1 Flash 并按其低价计费。",
+          "recommend_reason_zh": null,
+          "url": "https://mp.weixin.qq.com/s?__biz=Mzg3MTk3NzYzNw%3D%3D&mid=2247511119&idx=1&sn=0f53b5017e41b16afc9b201966ce2bda",
+          "source": "公众号：卡尔的AI沃茨",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-11T04:24:28Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.728,
+      "importance": 0.728,
+      "importance_score": 0.728,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.76,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.7135,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-09-11T04:24:28Z",
+      "latest_at": "2026-09-11T04:24:28Z",
+      "primary_item": {
+        "id": "75b9e770438f92296d66b37e1b8f03368d074325",
+        "title": "实测 DeepSeek V4.1 Flash：价格大降、原生带视觉，作者用游戏与城市生成任务验证表现",
+        "title_zh": "实测 DeepSeek V4.1 Flash：价格大降、原生带视觉，作者用游戏与城市生成任务验证表现",
+        "title_en": null,
+        "title_original": "实测 DeepSeek V4.1 Flash：价格大降、原生带视觉，作者用游戏与城市生成任务验证表现",
+        "summary": "作者实测 DeepSeek V4.1 Flash，缓存命中输入降价 7 倍多、输出砍三分之二，9 月 14 日中午 12 点起所有发往 v4-pro 的请求将被强制路由到 4.1 Flash 并按其低价计费。",
+        "recommend_reason_zh": null,
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzg3MTk3NzYzNw%3D%3D&mid=2247511119&idx=1&sn=0f53b5017e41b16afc9b201966ce2bda",
+        "source": "公众号：卡尔的AI沃茨",
+        "source_name": "AI HOT"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-09-12T03:48:08.189612Z"
+      }
+    },
+    {
+      "story_id": "story_e95b34cb28f9",
+      "title": "Beren Millidge、John Schulman、Charlie O'Neill 对谈递归自我改进离我们还有多远 / AI researchers debate how close we are to recursive self-improvement",
+      "url": "https://www.dwarkesh.com/p/john-beren-charlie",
+      "primary_url": "https://www.dwarkesh.com/p/john-beren-charlie",
+      "source": "Dwarkesh Patel：Podcast & Blog（RSS）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "debdcd3ab4b77ad631f8ed5a47f1216b9e46a1f0",
+          "title": "Beren Millidge、John Schulman、Charlie O'Neill 对谈递归自我改进离我们还有多远 / AI researchers debate how close we are to recursive self-improvement",
+          "title_zh": "Beren Millidge、John Schulman、Charlie O'Neill 对谈递归自我改进离我们还有多远",
+          "title_en": "AI researchers debate how close we are to recursive self-improvement",
+          "title_original": "AI researchers debate how close we are to recursive self-improvement",
+          "summary": "Dwarkesh Patel 与 Zyphra CTO Beren Millidge、Thinking Machines 首席科学家 John Schulman、Baseten 模型训练负责人 Charlie O'Neill 三位研究者对谈递归自我改进（RSI）的前景。",
+          "recommend_reason_zh": null,
+          "url": "https://www.dwarkesh.com/p/john-beren-charlie",
+          "source": "Dwarkesh Patel：Podcast & Blog（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-11T16:28:11Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Dwarkesh Patel：Podcast & Blog（RSS）"
+      ],
+      "items": [
+        {
+          "id": "debdcd3ab4b77ad631f8ed5a47f1216b9e46a1f0",
+          "title": "Beren Millidge、John Schulman、Charlie O'Neill 对谈递归自我改进离我们还有多远 / AI researchers debate how close we are to recursive self-improvement",
+          "title_zh": "Beren Millidge、John Schulman、Charlie O'Neill 对谈递归自我改进离我们还有多远",
+          "title_en": "AI researchers debate how close we are to recursive self-improvement",
+          "title_original": "AI researchers debate how close we are to recursive self-improvement",
+          "summary": "Dwarkesh Patel 与 Zyphra CTO Beren Millidge、Thinking Machines 首席科学家 John Schulman、Baseten 模型训练负责人 Charlie O'Neill 三位研究者对谈递归自我改进（RSI）的前景。",
+          "recommend_reason_zh": null,
+          "url": "https://www.dwarkesh.com/p/john-beren-charlie",
+          "source": "Dwarkesh Patel：Podcast & Blog（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-11T16:28:11Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7225,
+      "importance": 0.7225,
+      "importance_score": 0.7225,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.66,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.8492,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-09-11T16:28:11Z",
+      "latest_at": "2026-09-11T16:28:11Z",
+      "primary_item": {
+        "id": "debdcd3ab4b77ad631f8ed5a47f1216b9e46a1f0",
+        "title": "Beren Millidge、John Schulman、Charlie O'Neill 对谈递归自我改进离我们还有多远 / AI researchers debate how close we are to recursive self-improvement",
+        "title_zh": "Beren Millidge、John Schulman、Charlie O'Neill 对谈递归自我改进离我们还有多远",
+        "title_en": "AI researchers debate how close we are to recursive self-improvement",
+        "title_original": "AI researchers debate how close we are to recursive self-improvement",
+        "summary": "Dwarkesh Patel 与 Zyphra CTO Beren Millidge、Thinking Machines 首席科学家 John Schulman、Baseten 模型训练负责人 Charlie O'Neill 三位研究者对谈递归自我改进（RSI）的前景。",
+        "recommend_reason_zh": null,
+        "url": "https://www.dwarkesh.com/p/john-beren-charlie",
+        "source": "Dwarkesh Patel：Podcast & Blog（RSS）",
+        "source_name": "AI HOT"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-09-12T03:48:08.189612Z"
       }
     },
     {
@@ -1293,15 +1183,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7381,
-      "importance": 0.7381,
-      "importance_score": 0.7381,
+      "score": 0.736,
+      "importance": 0.736,
+      "importance_score": 0.736,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8362,
+        "recency": 0.8242,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1326,7 +1216,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-12T03:15:20.398399Z"
+        "scored_at": "2026-09-12T03:48:08.189612Z"
       }
     },
     {
@@ -1374,15 +1264,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7305,
-      "importance": 0.7305,
-      "importance_score": 0.7305,
+      "score": 0.7284,
+      "importance": 0.7284,
+      "importance_score": 0.7284,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7937,
+        "recency": 0.7823,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1407,7 +1297,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-12T03:15:20.398399Z"
+        "scored_at": "2026-09-12T03:48:08.189612Z"
       }
     },
     {
@@ -1455,15 +1345,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7281,
-      "importance": 0.7281,
-      "importance_score": 0.7281,
+      "score": 0.7261,
+      "importance": 0.7261,
+      "importance_score": 0.7261,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7806,
+        "recency": 0.7694,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1488,12 +1378,93 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-12T03:15:20.398399Z"
+        "scored_at": "2026-09-12T03:48:08.189612Z"
+      }
+    },
+    {
+      "story_id": "story_7301a10f9389",
+      "title": "支付宝“碰一下”推出无界经营，智能体“图图” 服务线下经营",
+      "url": "https://www.aibase.com/news/31000",
+      "primary_url": "https://www.aibase.com/news/31000",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "fa2e5c4531f76ff098de40d8362790298f98b422",
+          "title": "支付宝“碰一下”推出无界经营，智能体“图图” 服务线下经营",
+          "title_zh": "支付宝“碰一下”推出无界经营，智能体“图图” 服务线下经营",
+          "title_en": null,
+          "title_original": "支付宝“碰一下”推出无界经营，智能体“图图” 服务线下经营",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/31000",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-09-11T09:38:13.422542Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "fa2e5c4531f76ff098de40d8362790298f98b422",
+          "title": "支付宝“碰一下”推出无界经营，智能体“图图” 服务线下经营",
+          "title_zh": "支付宝“碰一下”推出无界经营，智能体“图图” 服务线下经营",
+          "title_en": null,
+          "title_original": "支付宝“碰一下”推出无界经营，智能体“图图” 服务线下经营",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/31000",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-09-11T09:38:13.422542Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7261,
+      "importance": 0.7261,
+      "importance_score": 0.7261,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.7694,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-09-11T09:38:13.422542Z",
+      "latest_at": "2026-09-11T09:38:13.422542Z",
+      "primary_item": {
+        "id": "fa2e5c4531f76ff098de40d8362790298f98b422",
+        "title": "支付宝“碰一下”推出无界经营，智能体“图图” 服务线下经营",
+        "title_zh": "支付宝“碰一下”推出无界经营，智能体“图图” 服务线下经营",
+        "title_en": null,
+        "title_original": "支付宝“碰一下”推出无界经营，智能体“图图” 服务线下经营",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://www.aibase.com/news/31000",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-09-12T03:48:08.189612Z"
       }
     },
     {
       "story_id": "story_605db3706162",
-      "title": "Feeling sad about AI",
+      "title": "对人工智能感到悲伤 / Feeling sad about AI",
       "url": "https://simonwillison.net/2026/Sep/11/feeling-sad-about-ai",
       "primary_url": "https://simonwillison.net/2026/Sep/11/feeling-sad-about-ai",
       "source": "Simon Willison",
@@ -1501,8 +1472,8 @@
       "sources": [
         {
           "id": "9ec5910c39ef5cfa3c7bfa1d428776e8b2293f80",
-          "title": "Feeling sad about AI",
-          "title_zh": null,
+          "title": "对人工智能感到悲伤 / Feeling sad about AI",
+          "title_zh": "对人工智能感到悲伤",
           "title_en": "Feeling sad about AI",
           "title_original": "Feeling sad about AI",
           "summary": null,
@@ -1551,8 +1522,8 @@
       "items": [
         {
           "id": "9ec5910c39ef5cfa3c7bfa1d428776e8b2293f80",
-          "title": "Feeling sad about AI",
-          "title_zh": null,
+          "title": "对人工智能感到悲伤 / Feeling sad about AI",
+          "title_zh": "对人工智能感到悲伤",
           "title_en": "Feeling sad about AI",
           "title_original": "Feeling sad about AI",
           "summary": null,
@@ -1594,15 +1565,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5961,
-      "importance": 0.5961,
-      "importance_score": 0.5961,
+      "score": 0.5938,
+      "importance": 0.5938,
+      "importance_score": 0.5938,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.4824,
         "source_tier": 0.5,
         "ai_relevance": 0.67,
-        "recency": 0.8742,
+        "recency": 0.8617,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1613,8 +1584,8 @@
       "latest_at": "2026-09-11T17:48:00.960000Z",
       "primary_item": {
         "id": "9ec5910c39ef5cfa3c7bfa1d428776e8b2293f80",
-        "title": "Feeling sad about AI",
-        "title_zh": null,
+        "title": "对人工智能感到悲伤 / Feeling sad about AI",
+        "title_zh": "对人工智能感到悲伤",
         "title_en": "Feeling sad about AI",
         "title_original": "Feeling sad about AI",
         "summary": null,
@@ -1627,7 +1598,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-12T03:15:20.398399Z"
+        "scored_at": "2026-09-12T03:48:08.189612Z"
       }
     },
     {
@@ -1703,15 +1674,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.586,
-      "importance": 0.586,
-      "importance_score": 0.586,
+      "score": 0.5839,
+      "importance": 0.5839,
+      "importance_score": 0.5839,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.4896,
         "source_tier": 0.58,
         "ai_relevance": 0.68,
-        "recency": 0.8365,
+        "recency": 0.8245,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1736,88 +1707,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-12T03:15:20.398399Z"
-      }
-    },
-    {
-      "story_id": "story_7301a10f9389",
-      "title": "支付宝“碰一下”推出无界经营，智能体“图图” 服务线下经营",
-      "url": "https://www.aibase.com/news/31000",
-      "primary_url": "https://www.aibase.com/news/31000",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "fa2e5c4531f76ff098de40d8362790298f98b422",
-          "title": "支付宝“碰一下”推出无界经营，智能体“图图” 服务线下经营",
-          "title_zh": "支付宝“碰一下”推出无界经营，智能体“图图” 服务线下经营",
-          "title_en": null,
-          "title_original": "支付宝“碰一下”推出无界经营，智能体“图图” 服务线下经营",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/31000",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-09-11T09:38:13.422542Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "fa2e5c4531f76ff098de40d8362790298f98b422",
-          "title": "支付宝“碰一下”推出无界经营，智能体“图图” 服务线下经营",
-          "title_zh": "支付宝“碰一下”推出无界经营，智能体“图图” 服务线下经营",
-          "title_en": null,
-          "title_original": "支付宝“碰一下”推出无界经营，智能体“图图” 服务线下经营",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/31000",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-09-11T09:38:13.422542Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7281,
-      "importance": 0.7281,
-      "importance_score": 0.7281,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7806,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-09-11T09:38:13.422542Z",
-      "latest_at": "2026-09-11T09:38:13.422542Z",
-      "primary_item": {
-        "id": "fa2e5c4531f76ff098de40d8362790298f98b422",
-        "title": "支付宝“碰一下”推出无界经营，智能体“图图” 服务线下经营",
-        "title_zh": "支付宝“碰一下”推出无界经营，智能体“图图” 服务线下经营",
-        "title_en": null,
-        "title_original": "支付宝“碰一下”推出无界经营，智能体“图图” 服务线下经营",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/31000",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-09-12T03:15:20.398399Z"
+        "scored_at": "2026-09-12T03:48:08.189612Z"
       }
     },
     {
@@ -1865,15 +1755,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7244,
-      "importance": 0.7244,
-      "importance_score": 0.7244,
+      "score": 0.7225,
+      "importance": 0.7225,
+      "importance_score": 0.7225,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7601,
+        "recency": 0.7492,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1898,7 +1788,117 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-12T03:15:20.398399Z"
+        "scored_at": "2026-09-12T03:48:08.189612Z"
+      }
+    },
+    {
+      "story_id": "story_1a4cb1a60e42",
+      "title": "Litelm：精简版 LiteLLM，摒弃冗余",
+      "url": "https://github.com/kennethwolters/litelm",
+      "primary_url": "https://github.com/kennethwolters/litelm",
+      "source": "github.com",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "393ef363024fcf85cb88bad6d31efff87066af88",
+          "title": "Litelm：精简版 LiteLLM，摒弃冗余",
+          "title_zh": "Litelm：精简版 LiteLLM，摒弃冗余",
+          "title_en": null,
+          "title_original": "Litelm：精简版 LiteLLM，摒弃冗余",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://github.com/kennethwolters/litelm",
+          "source": "github.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-09-12T02:45:28.057000Z"
+        },
+        {
+          "id": "487bee413149b02ad73660916597c54999d79db0",
+          "title": "Litelm：精简版 LiteLLM，摒弃冗余 / Litelm: LiteLLM Without the Bloat",
+          "title_zh": "Litelm：精简版 LiteLLM，摒弃冗余",
+          "title_en": "Litelm: LiteLLM Without the Bloat",
+          "title_original": "Litelm: LiteLLM Without the Bloat",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://github.com/kennethwolters/litelm",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-09-11T18:10:20Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News (黑客新闻)",
+        "github.com"
+      ],
+      "items": [
+        {
+          "id": "393ef363024fcf85cb88bad6d31efff87066af88",
+          "title": "Litelm：精简版 LiteLLM，摒弃冗余",
+          "title_zh": "Litelm：精简版 LiteLLM，摒弃冗余",
+          "title_en": null,
+          "title_original": "Litelm：精简版 LiteLLM，摒弃冗余",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://github.com/kennethwolters/litelm",
+          "source": "github.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-09-12T02:45:28.057000Z"
+        },
+        {
+          "id": "487bee413149b02ad73660916597c54999d79db0",
+          "title": "Litelm：精简版 LiteLLM，摒弃冗余 / Litelm: LiteLLM Without the Bloat",
+          "title_zh": "Litelm：精简版 LiteLLM，摒弃冗余",
+          "title_en": "Litelm: LiteLLM Without the Bloat",
+          "title_original": "Litelm: LiteLLM Without the Bloat",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://github.com/kennethwolters/litelm",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-09-11T18:10:20Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5431,
+      "importance": 0.5431,
+      "importance_score": 0.5431,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9852,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-09-11T18:10:20Z",
+      "latest_at": "2026-09-12T02:45:28.057000Z",
+      "primary_item": {
+        "id": "393ef363024fcf85cb88bad6d31efff87066af88",
+        "title": "Litelm：精简版 LiteLLM，摒弃冗余",
+        "title_zh": "Litelm：精简版 LiteLLM，摒弃冗余",
+        "title_en": null,
+        "title_original": "Litelm：精简版 LiteLLM，摒弃冗余",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://github.com/kennethwolters/litelm",
+        "source": "github.com",
+        "source_name": "Buzzing"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-09-12T03:48:08.189612Z"
       }
     }
   ]
