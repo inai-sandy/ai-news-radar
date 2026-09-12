@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-09-12T17:47:18.207499Z",
+  "generated_at": "2026-09-12T18:47:40.556292Z",
   "window_hours": 24,
-  "total_items": 15,
+  "total_items": 13,
   "items": [
     {
       "story_id": "story_86ff3d2b9b70",
@@ -65,8 +65,8 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-09-12T17:47:18.207499Z",
-      "latest_at": "2026-09-12T17:47:18.207499Z",
+      "earliest_at": "2026-09-12T18:47:40.556292Z",
+      "latest_at": "2026-09-12T18:47:40.556292Z",
       "primary_item": {
         "id": "54b29e5d6f4765b0653d6e5e22c91217d622018b",
         "title": "Perplexity 信任 GPT-6 Astra 的端到端系统 / Perplexity trusts GPT-6 Astra with end-to-end systems",
@@ -83,7 +83,89 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-12T18:08:01.717981Z"
+        "scored_at": "2026-09-12T19:08:15.714120Z"
+      }
+    },
+    {
+      "story_id": "story_462f3ecf41bf",
+      "title": "OpenAI 发布 GPT-6 Astra 并展示社区构建案例 / https://x.com/i/article/2098531824528220160",
+      "url": "https://x.com/OpenAIDevs/status/2098827327832822014",
+      "primary_url": "https://x.com/OpenAIDevs/status/2098827327832822014",
+      "source": "X：OpenAI Developers (@OpenAIDevs)",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "64f0788da28b86cf441c6809e7d0d5bda872fbb6",
+          "title": "OpenAI 发布 GPT-6 Astra 并展示社区构建案例 / https://x.com/i/article/2098531824528220160",
+          "title_zh": "OpenAI 发布 GPT-6 Astra 并展示社区构建案例",
+          "title_en": "https://x.com/i/article/2098531824528220160",
+          "title_original": "https://x.com/i/article/2098531824528220160",
+          "summary": "OpenAI 开发者账号宣布发布 GPT-6 Astra，并汇总社区开发者基于它做出的构建案例，包括 2234 个建模解剖部件的 3D 展示、Unreal Engine 曼哈顿复刻。",
+          "recommend_reason_zh": null,
+          "url": "https://x.com/OpenAIDevs/status/2098827327832822014",
+          "source": "X：OpenAI Developers (@OpenAIDevs)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-12T17:33:23Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "X：OpenAI Developers (@OpenAIDevs)"
+      ],
+      "items": [
+        {
+          "id": "64f0788da28b86cf441c6809e7d0d5bda872fbb6",
+          "title": "OpenAI 发布 GPT-6 Astra 并展示社区构建案例 / https://x.com/i/article/2098531824528220160",
+          "title_zh": "OpenAI 发布 GPT-6 Astra 并展示社区构建案例",
+          "title_en": "https://x.com/i/article/2098531824528220160",
+          "title_original": "https://x.com/i/article/2098531824528220160",
+          "summary": "OpenAI 开发者账号宣布发布 GPT-6 Astra，并汇总社区开发者基于它做出的构建案例，包括 2234 个建模解剖部件的 3D 展示、Unreal Engine 曼哈顿复刻。",
+          "recommend_reason_zh": null,
+          "url": "https://x.com/OpenAIDevs/status/2098827327832822014",
+          "source": "X：OpenAI Developers (@OpenAIDevs)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-12T17:33:23Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8368,
+      "importance": 0.8368,
+      "importance_score": 0.8368,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.8,
+        "source_tier": 1.0,
+        "ai_relevance": 1.0,
+        "recency": 0.9823,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-12T17:33:23Z",
+      "latest_at": "2026-09-12T17:33:23Z",
+      "primary_item": {
+        "id": "64f0788da28b86cf441c6809e7d0d5bda872fbb6",
+        "title": "OpenAI 发布 GPT-6 Astra 并展示社区构建案例 / https://x.com/i/article/2098531824528220160",
+        "title_zh": "OpenAI 发布 GPT-6 Astra 并展示社区构建案例",
+        "title_en": "https://x.com/i/article/2098531824528220160",
+        "title_original": "https://x.com/i/article/2098531824528220160",
+        "summary": "OpenAI 开发者账号宣布发布 GPT-6 Astra，并汇总社区开发者基于它做出的构建案例，包括 2234 个建模解剖部件的 3D 展示、Unreal Engine 曼哈顿复刻。",
+        "recommend_reason_zh": null,
+        "url": "https://x.com/OpenAIDevs/status/2098827327832822014",
+        "source": "X：OpenAI Developers (@OpenAIDevs)",
+        "source_name": "AI HOT"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-09-12T19:08:15.714120Z"
       }
     },
     {
@@ -137,7 +219,7 @@
           "published_at": "2026-09-12T00:24:20.561000Z"
         },
         {
-          "id": "110eb19a25743edb2e4f8f58fa11886c22b1768a",
+          "id": "15ed8b49c1e9e405322e75e29b17c4a0469db713",
           "title": "OpenAI 智能体集群对 RubyGems 发动未公开攻击：作者团队的详细取证分析 / OpenAI agents carried out an undisclosed attack on RubyGems",
           "title_zh": "OpenAI 智能体集群对 RubyGems 发动未公开攻击：作者团队的详细取证分析",
           "title_en": "OpenAI agents carried out an undisclosed attack on RubyGems",
@@ -145,15 +227,15 @@
           "summary": null,
           "recommend_reason_zh": null,
           "url": "https://www.rubyhack.ai",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
           "published_at": "2026-09-11T23:17:42Z"
         }
       ],
       "source_count": 4,
       "source_names": [
-        "Hacker News (黑客新闻)",
+        "Hacker News · 24h最热",
         "Hacker News 热门（buzzing.cc 中文翻译）",
         "Simon Willison",
         "www.rubyhack.ai"
@@ -202,7 +284,7 @@
           "published_at": "2026-09-12T00:24:20.561000Z"
         },
         {
-          "id": "110eb19a25743edb2e4f8f58fa11886c22b1768a",
+          "id": "15ed8b49c1e9e405322e75e29b17c4a0469db713",
           "title": "OpenAI 智能体集群对 RubyGems 发动未公开攻击：作者团队的详细取证分析 / OpenAI agents carried out an undisclosed attack on RubyGems",
           "title_zh": "OpenAI 智能体集群对 RubyGems 发动未公开攻击：作者团队的详细取证分析",
           "title_en": "OpenAI agents carried out an undisclosed attack on RubyGems",
@@ -210,23 +292,23 @@
           "summary": null,
           "recommend_reason_zh": null,
           "url": "https://www.rubyhack.ai",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
           "published_at": "2026-09-11T23:17:42Z"
         }
       ],
       "item_count": 4,
       "duplicate_count": 4,
-      "score": 0.8296,
-      "importance": 0.8296,
-      "importance_score": 0.8296,
+      "score": 0.8276,
+      "importance": 0.8276,
+      "importance_score": 0.8276,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.81,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.778,
+        "recency": 0.7668,
         "story_heat": 0.75
       },
       "category": "multi_source",
@@ -253,120 +335,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-12T18:08:01.717981Z"
-      }
-    },
-    {
-      "story_id": "story_d30641cfac8b",
-      "title": "GitHub 日韩营销负责人如何用 GitHub Copilot 把活动运营自动化 / Marketing ops as code: Automating events from planning to follow-up on GitHub",
-      "url": "https://github.blog/ai-and-ml/github-copilot/marketing-ops-as-code-automating-events-from-planning-to-follow-up-on-github",
-      "primary_url": "https://github.blog/ai-and-ml/github-copilot/marketing-ops-as-code-automating-events-from-planning-to-follow-up-on-github",
-      "source": "GitHub AI & ML",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "d180e9307ad6108eb08f57f88bc0238030d71ce7",
-          "title": "GitHub 日韩营销负责人如何用 GitHub Copilot 把活动运营自动化 / Marketing ops as code: Automating events from planning to follow-up on GitHub",
-          "title_zh": "GitHub 日韩营销负责人如何用 GitHub Copilot 把活动运营自动化",
-          "title_en": "Marketing ops as code: Automating events from planning to follow-up on GitHub",
-          "title_original": "Marketing ops as code: Automating events from planning to follow-up on GitHub",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://github.blog/ai-and-ml/github-copilot/marketing-ops-as-code-automating-events-from-planning-to-follow-up-on-github",
-          "source": "GitHub AI & ML",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-09-11T18:26:10Z"
-        },
-        {
-          "id": "84d095da089a6bbac567518186a311edae283570",
-          "title": "GitHub 日韩营销负责人如何用 GitHub Copilot 把活动运营自动化 / Marketing ops as code： Automating events from planning to follow-up on GitHub",
-          "title_zh": "GitHub 日韩营销负责人如何用 GitHub Copilot 把活动运营自动化",
-          "title_en": "Marketing ops as code： Automating events from planning to follow-up on GitHub",
-          "title_original": "Marketing ops as code： Automating events from planning to follow-up on GitHub",
-          "summary": "GitHub 日韩地区营销负责人 Tomoko Tanaka 分享如何不写代码，把活动运营交给 GitHub Copilot 自动化。",
-          "recommend_reason_zh": null,
-          "url": "https://github.blog/ai-and-ml/github-copilot/marketing-ops-as-code-automating-events-from-planning-to-follow-up-on-github",
-          "source": "GitHub Blog",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-11T18:26:10Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "GitHub AI & ML",
-        "GitHub Blog"
-      ],
-      "items": [
-        {
-          "id": "d180e9307ad6108eb08f57f88bc0238030d71ce7",
-          "title": "GitHub 日韩营销负责人如何用 GitHub Copilot 把活动运营自动化 / Marketing ops as code: Automating events from planning to follow-up on GitHub",
-          "title_zh": "GitHub 日韩营销负责人如何用 GitHub Copilot 把活动运营自动化",
-          "title_en": "Marketing ops as code: Automating events from planning to follow-up on GitHub",
-          "title_original": "Marketing ops as code: Automating events from planning to follow-up on GitHub",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://github.blog/ai-and-ml/github-copilot/marketing-ops-as-code-automating-events-from-planning-to-follow-up-on-github",
-          "source": "GitHub AI & ML",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-09-11T18:26:10Z"
-        },
-        {
-          "id": "84d095da089a6bbac567518186a311edae283570",
-          "title": "GitHub 日韩营销负责人如何用 GitHub Copilot 把活动运营自动化 / Marketing ops as code： Automating events from planning to follow-up on GitHub",
-          "title_zh": "GitHub 日韩营销负责人如何用 GitHub Copilot 把活动运营自动化",
-          "title_en": "Marketing ops as code： Automating events from planning to follow-up on GitHub",
-          "title_original": "Marketing ops as code： Automating events from planning to follow-up on GitHub",
-          "summary": "GitHub 日韩地区营销负责人 Tomoko Tanaka 分享如何不写代码，把活动运营交给 GitHub Copilot 自动化。",
-          "recommend_reason_zh": null,
-          "url": "https://github.blog/ai-and-ml/github-copilot/marketing-ops-as-code-automating-events-from-planning-to-follow-up-on-github",
-          "source": "GitHub Blog",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-11T18:26:10Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.8175,
-      "importance": 0.8175,
-      "importance_score": 0.8175,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.87,
-        "recency": 0.7138,
-        "story_heat": 0.25
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-11T18:26:10Z",
-      "latest_at": "2026-09-11T18:26:10Z",
-      "primary_item": {
-        "id": "d180e9307ad6108eb08f57f88bc0238030d71ce7",
-        "title": "GitHub 日韩营销负责人如何用 GitHub Copilot 把活动运营自动化 / Marketing ops as code: Automating events from planning to follow-up on GitHub",
-        "title_zh": "GitHub 日韩营销负责人如何用 GitHub Copilot 把活动运营自动化",
-        "title_en": "Marketing ops as code: Automating events from planning to follow-up on GitHub",
-        "title_original": "Marketing ops as code: Automating events from planning to follow-up on GitHub",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://github.blog/ai-and-ml/github-copilot/marketing-ops-as-code-automating-events-from-planning-to-follow-up-on-github",
-        "source": "GitHub AI & ML",
-        "source_name": "Official AI Updates"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-09-12T18:08:01.717981Z"
+        "scored_at": "2026-09-12T19:08:15.714120Z"
       }
     },
     {
@@ -414,15 +383,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8063,
-      "importance": 0.8063,
-      "importance_score": 0.8063,
+      "score": 0.8044,
+      "importance": 0.8044,
+      "importance_score": 0.8044,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.7461,
+        "recency": 0.7354,
         "story_heat": 0.0
       },
       "category": "official",
@@ -449,7 +418,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-12T18:08:01.717981Z"
+        "scored_at": "2026-09-12T19:08:15.714120Z"
       }
     },
     {
@@ -555,15 +524,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.7943,
-      "importance": 0.7943,
-      "importance_score": 0.7943,
+      "score": 0.7922,
+      "importance": 0.7922,
+      "importance_score": 0.7922,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.76,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8038,
+        "recency": 0.7922,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -590,7 +559,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-12T18:08:01.717981Z"
+        "scored_at": "2026-09-12T19:08:15.714120Z"
       }
     },
     {
@@ -638,15 +607,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7808,
-      "importance": 0.7808,
-      "importance_score": 0.7808,
+      "score": 0.7784,
+      "importance": 0.7784,
+      "importance_score": 0.7784,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.82,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9066,
+        "recency": 0.8935,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -672,7 +641,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-12T18:08:01.717981Z"
+        "scored_at": "2026-09-12T19:08:15.714120Z"
       }
     },
     {
@@ -720,15 +689,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8034,
-      "importance": 0.8034,
-      "importance_score": 0.8034,
+      "score": 0.8015,
+      "importance": 0.8015,
+      "importance_score": 0.8015,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.7301,
+        "recency": 0.7195,
         "story_heat": 0.0
       },
       "category": "official",
@@ -755,7 +724,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-12T18:08:01.717981Z"
+        "scored_at": "2026-09-12T19:08:15.714120Z"
       }
     },
     {
@@ -803,15 +772,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7703,
-      "importance": 0.7703,
-      "importance_score": 0.7703,
+      "score": 0.7678,
+      "importance": 0.7678,
+      "importance_score": 0.7678,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.74,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9817,
+        "recency": 0.9676,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -837,7 +806,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-12T18:08:01.717981Z"
+        "scored_at": "2026-09-12T19:08:15.714120Z"
       }
     },
     {
@@ -885,15 +854,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7527,
-      "importance": 0.7527,
-      "importance_score": 0.7527,
+      "score": 0.7501,
+      "importance": 0.7501,
+      "importance_score": 0.7501,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.68,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9838,
+        "recency": 0.9696,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -919,7 +888,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-12T18:08:01.717981Z"
+        "scored_at": "2026-09-12T19:08:15.714120Z"
       }
     },
     {
@@ -967,15 +936,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7406,
-      "importance": 0.7406,
-      "importance_score": 0.7406,
+      "score": 0.7386,
+      "importance": 0.7386,
+      "importance_score": 0.7386,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.77,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7665,
+        "recency": 0.7555,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1000,7 +969,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-12T18:08:01.717981Z"
+        "scored_at": "2026-09-12T19:08:15.714120Z"
       }
     },
     {
@@ -1008,11 +977,11 @@
       "title": "Anthropic boss Dario Amodei calls for AI development to slow down",
       "url": "https://www.bbc.com/news/articles/c14dpgm0rg4o",
       "primary_url": "https://www.bbc.com/news/articles/c14dpgm0rg4o",
-      "source": "Hacker News (黑客新闻)",
-      "source_name": "Info Flow",
+      "source": "Hacker News · 24h最热",
+      "source_name": "Zeli",
       "sources": [
         {
-          "id": "4e5baa8df153440b5a918547666cd68901d6207c",
+          "id": "bf571b6f49e6677daf67408759a15d6ec4b42227",
           "title": "Anthropic boss Dario Amodei calls for AI development to slow down",
           "title_zh": null,
           "title_en": "Anthropic boss Dario Amodei calls for AI development to slow down",
@@ -1020,9 +989,9 @@
           "summary": null,
           "recommend_reason_zh": null,
           "url": "https://www.bbc.com/news/articles/c14dpgm0rg4o",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
           "published_at": "2026-09-12T16:56:52Z"
         },
         {
@@ -1043,11 +1012,11 @@
       "source_count": 2,
       "source_names": [
         "BBC News",
-        "Hacker News (黑客新闻)"
+        "Hacker News · 24h最热"
       ],
       "items": [
         {
-          "id": "4e5baa8df153440b5a918547666cd68901d6207c",
+          "id": "bf571b6f49e6677daf67408759a15d6ec4b42227",
           "title": "Anthropic boss Dario Amodei calls for AI development to slow down",
           "title_zh": null,
           "title_en": "Anthropic boss Dario Amodei calls for AI development to slow down",
@@ -1055,9 +1024,9 @@
           "summary": null,
           "recommend_reason_zh": null,
           "url": "https://www.bbc.com/news/articles/c14dpgm0rg4o",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
           "published_at": "2026-09-12T16:56:52Z"
         },
         {
@@ -1077,15 +1046,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5436,
-      "importance": 0.5436,
-      "importance_score": 0.5436,
+      "score": 0.5411,
+      "importance": 0.5411,
+      "importance_score": 0.5411,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9879,
+        "recency": 0.9737,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1095,7 +1064,7 @@
       "earliest_at": "2026-09-12T15:37:39Z",
       "latest_at": "2026-09-12T16:56:52Z",
       "primary_item": {
-        "id": "4e5baa8df153440b5a918547666cd68901d6207c",
+        "id": "bf571b6f49e6677daf67408759a15d6ec4b42227",
         "title": "Anthropic boss Dario Amodei calls for AI development to slow down",
         "title_zh": null,
         "title_en": "Anthropic boss Dario Amodei calls for AI development to slow down",
@@ -1103,14 +1072,14 @@
         "summary": null,
         "recommend_reason_zh": null,
         "url": "https://www.bbc.com/news/articles/c14dpgm0rg4o",
-        "source": "Hacker News (黑客新闻)",
-        "source_name": "Info Flow"
+        "source": "Hacker News · 24h最热",
+        "source_name": "Zeli"
       },
       "persona_id": "pragmatic",
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-12T18:08:01.717981Z"
+        "scored_at": "2026-09-12T19:08:15.714120Z"
       }
     },
     {
@@ -1187,15 +1156,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5428,
-      "importance": 0.5428,
-      "importance_score": 0.5428,
+      "score": 0.5402,
+      "importance": 0.5402,
+      "importance_score": 0.5402,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9833,
+        "recency": 0.9691,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1220,7 +1189,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-12T18:08:01.717981Z"
+        "scored_at": "2026-09-12T19:08:15.714120Z"
       }
     },
     {
@@ -1297,15 +1266,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5233,
-      "importance": 0.5233,
-      "importance_score": 0.5233,
+      "score": 0.521,
+      "importance": 0.521,
+      "importance_score": 0.521,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8748,
+        "recency": 0.8622,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1330,227 +1299,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-12T18:08:01.717981Z"
-      }
-    },
-    {
-      "story_id": "story_1a4cb1a60e42",
-      "title": "Litelm：精简版 LiteLLM，摒弃冗余",
-      "url": "https://github.com/kennethwolters/litelm",
-      "primary_url": "https://github.com/kennethwolters/litelm",
-      "source": "github.com",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "393ef363024fcf85cb88bad6d31efff87066af88",
-          "title": "Litelm：精简版 LiteLLM，摒弃冗余",
-          "title_zh": "Litelm：精简版 LiteLLM，摒弃冗余",
-          "title_en": null,
-          "title_original": "Litelm：精简版 LiteLLM，摒弃冗余",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://github.com/kennethwolters/litelm",
-          "source": "github.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-09-12T02:45:28.057000Z"
-        },
-        {
-          "id": "f9fbe3af4c49cc8c63396994f1dbf076982e6bec",
-          "title": "Litelm：精简版 LiteLLM，摒弃冗余 / Litelm: LiteLLM Without the Bloat",
-          "title_zh": "Litelm：精简版 LiteLLM，摒弃冗余",
-          "title_en": "Litelm: LiteLLM Without the Bloat",
-          "title_original": "Litelm: LiteLLM Without the Bloat",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://github.com/kennethwolters/litelm",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-09-11T18:10:20Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News · 24h最热",
-        "github.com"
-      ],
-      "items": [
-        {
-          "id": "393ef363024fcf85cb88bad6d31efff87066af88",
-          "title": "Litelm：精简版 LiteLLM，摒弃冗余",
-          "title_zh": "Litelm：精简版 LiteLLM，摒弃冗余",
-          "title_en": null,
-          "title_original": "Litelm：精简版 LiteLLM，摒弃冗余",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://github.com/kennethwolters/litelm",
-          "source": "github.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-09-12T02:45:28.057000Z"
-        },
-        {
-          "id": "f9fbe3af4c49cc8c63396994f1dbf076982e6bec",
-          "title": "Litelm：精简版 LiteLLM，摒弃冗余 / Litelm: LiteLLM Without the Bloat",
-          "title_zh": "Litelm：精简版 LiteLLM，摒弃冗余",
-          "title_en": "Litelm: LiteLLM Without the Bloat",
-          "title_original": "Litelm: LiteLLM Without the Bloat",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://github.com/kennethwolters/litelm",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-09-11T18:10:20Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5107,
-      "importance": 0.5107,
-      "importance_score": 0.5107,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.8049,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-09-11T18:10:20Z",
-      "latest_at": "2026-09-12T02:45:28.057000Z",
-      "primary_item": {
-        "id": "393ef363024fcf85cb88bad6d31efff87066af88",
-        "title": "Litelm：精简版 LiteLLM，摒弃冗余",
-        "title_zh": "Litelm：精简版 LiteLLM，摒弃冗余",
-        "title_en": null,
-        "title_original": "Litelm：精简版 LiteLLM，摒弃冗余",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://github.com/kennethwolters/litelm",
-        "source": "github.com",
-        "source_name": "Buzzing"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-09-12T18:08:01.717981Z"
-      }
-    },
-    {
-      "story_id": "story_94d7dab25647",
-      "title": "顶尖数学家对OpenAI的做法感到愤怒 / Top mathematicians are outraged by OpenAI's methods",
-      "url": "https://www.economist.com/science-and-technology/2026/09/11/top-mathematicians-are-outraged-by-openais-methods",
-      "primary_url": "https://www.economist.com/science-and-technology/2026/09/11/top-mathematicians-are-outraged-by-openais-methods",
-      "source": "Hacker News · 24h最热",
-      "source_name": "Zeli",
-      "sources": [
-        {
-          "id": "64deac33ae994d49321b1c98363acef3a68aa645",
-          "title": "顶尖数学家对OpenAI的做法感到愤怒 / Top mathematicians are outraged by OpenAI's methods",
-          "title_zh": "顶尖数学家对OpenAI的做法感到愤怒",
-          "title_en": "Top mathematicians are outraged by OpenAI's methods",
-          "title_original": "Top mathematicians are outraged by OpenAI's methods",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.economist.com/science-and-technology/2026/09/11/top-mathematicians-are-outraged-by-openais-methods",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-09-11T18:07:08Z"
-        },
-        {
-          "id": "2b57a3f26bdddf0f584a3e20a3d75dee965e6825",
-          "title": "顶尖数学家对OpenAI的做法感到愤怒",
-          "title_zh": "顶尖数学家对OpenAI的做法感到愤怒",
-          "title_en": null,
-          "title_original": "顶尖数学家对OpenAI的做法感到愤怒",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.economist.com/science-and-technology/2026/09/11/top-mathematicians-are-outraged-by-openais-methods",
-          "source": "www.economist.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-09-11T17:48:05.859000Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News · 24h最热",
-        "www.economist.com"
-      ],
-      "items": [
-        {
-          "id": "64deac33ae994d49321b1c98363acef3a68aa645",
-          "title": "顶尖数学家对OpenAI的做法感到愤怒 / Top mathematicians are outraged by OpenAI's methods",
-          "title_zh": "顶尖数学家对OpenAI的做法感到愤怒",
-          "title_en": "Top mathematicians are outraged by OpenAI's methods",
-          "title_original": "Top mathematicians are outraged by OpenAI's methods",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.economist.com/science-and-technology/2026/09/11/top-mathematicians-are-outraged-by-openais-methods",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-09-11T18:07:08Z"
-        },
-        {
-          "id": "2b57a3f26bdddf0f584a3e20a3d75dee965e6825",
-          "title": "顶尖数学家对OpenAI的做法感到愤怒",
-          "title_zh": "顶尖数学家对OpenAI的做法感到愤怒",
-          "title_en": null,
-          "title_original": "顶尖数学家对OpenAI的做法感到愤怒",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.economist.com/science-and-technology/2026/09/11/top-mathematicians-are-outraged-by-openais-methods",
-          "source": "www.economist.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-09-11T17:48:05.859000Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.4937,
-      "importance": 0.4937,
-      "importance_score": 0.4937,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.7105,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-09-11T17:48:05.859000Z",
-      "latest_at": "2026-09-11T18:07:08Z",
-      "primary_item": {
-        "id": "64deac33ae994d49321b1c98363acef3a68aa645",
-        "title": "顶尖数学家对OpenAI的做法感到愤怒 / Top mathematicians are outraged by OpenAI's methods",
-        "title_zh": "顶尖数学家对OpenAI的做法感到愤怒",
-        "title_en": "Top mathematicians are outraged by OpenAI's methods",
-        "title_original": "Top mathematicians are outraged by OpenAI's methods",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://www.economist.com/science-and-technology/2026/09/11/top-mathematicians-are-outraged-by-openais-methods",
-        "source": "Hacker News · 24h最热",
-        "source_name": "Zeli"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 0,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-09-12T18:08:01.717981Z"
+        "scored_at": "2026-09-12T19:08:15.714120Z"
       }
     }
   ]
