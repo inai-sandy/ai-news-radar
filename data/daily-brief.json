@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-12T07:47:23.969329Z",
+  "generated_at": "2026-09-12T08:47:33.016043Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -65,8 +65,8 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-09-12T07:47:23.969329Z",
-      "latest_at": "2026-09-12T07:47:23.969329Z",
+      "earliest_at": "2026-09-12T08:47:33.016043Z",
+      "latest_at": "2026-09-12T08:47:33.016043Z",
       "primary_item": {
         "id": "54b29e5d6f4765b0653d6e5e22c91217d622018b",
         "title": "Perplexity 信任 GPT-6 Astra 的端到端系统 / Perplexity trusts GPT-6 Astra with end-to-end systems",
@@ -83,7 +83,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-12T07:59:27.002058Z"
+        "scored_at": "2026-09-12T08:48:18.499383Z"
       }
     },
     {
@@ -218,15 +218,15 @@
       ],
       "item_count": 4,
       "duplicate_count": 4,
-      "score": 0.8514,
-      "importance": 0.8514,
-      "importance_score": 0.8514,
+      "score": 0.8491,
+      "importance": 0.8491,
+      "importance_score": 0.8491,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.81,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8989,
+        "recency": 0.8859,
         "story_heat": 0.75
       },
       "category": "multi_source",
@@ -253,7 +253,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-12T07:59:27.002058Z"
+        "scored_at": "2026-09-12T08:48:18.499383Z"
       }
     },
     {
@@ -330,15 +330,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.8374,
-      "importance": 0.8374,
-      "importance_score": 0.8374,
+      "score": 0.8353,
+      "importance": 0.8353,
+      "importance_score": 0.8353,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.8246,
+        "recency": 0.8128,
         "story_heat": 0.25
       },
       "category": "official",
@@ -366,7 +366,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-12T07:59:27.002058Z"
+        "scored_at": "2026-09-12T08:48:18.499383Z"
       }
     },
     {
@@ -414,15 +414,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8272,
-      "importance": 0.8272,
-      "importance_score": 0.8272,
+      "score": 0.8249,
+      "importance": 0.8249,
+      "importance_score": 0.8249,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.862,
+        "recency": 0.8496,
         "story_heat": 0.0
       },
       "category": "official",
@@ -449,7 +449,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-12T07:59:27.002058Z"
+        "scored_at": "2026-09-12T08:48:18.499383Z"
       }
     },
     {
@@ -555,15 +555,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.8167,
-      "importance": 0.8167,
-      "importance_score": 0.8167,
+      "score": 0.8143,
+      "importance": 0.8143,
+      "importance_score": 0.8143,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.76,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9286,
+        "recency": 0.9153,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -590,7 +590,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-12T07:59:27.002058Z"
+        "scored_at": "2026-09-12T08:48:18.499383Z"
       }
     },
     {
@@ -638,15 +638,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8238,
-      "importance": 0.8238,
-      "importance_score": 0.8238,
+      "score": 0.8216,
+      "importance": 0.8216,
+      "importance_score": 0.8216,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.8435,
+        "recency": 0.8314,
         "story_heat": 0.0
       },
       "category": "official",
@@ -673,7 +673,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-12T07:59:27.002058Z"
+        "scored_at": "2026-09-12T08:48:18.499383Z"
       }
     },
     {
@@ -721,15 +721,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8233,
-      "importance": 0.8233,
-      "importance_score": 0.8233,
+      "score": 0.8212,
+      "importance": 0.8212,
+      "importance_score": 0.8212,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.7961,
+        "recency": 0.7847,
         "story_heat": 0.0
       },
       "category": "official",
@@ -756,7 +756,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-12T07:59:27.002058Z"
+        "scored_at": "2026-09-12T08:48:18.499383Z"
       }
     },
     {
@@ -833,15 +833,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7845,
-      "importance": 0.7845,
-      "importance_score": 0.7845,
+      "score": 0.7825,
+      "importance": 0.7825,
+      "importance_score": 0.7825,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.83,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7717,
+        "recency": 0.7606,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -868,7 +868,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-12T07:59:27.002058Z"
+        "scored_at": "2026-09-12T08:48:18.499383Z"
       }
     },
     {
@@ -916,15 +916,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.762,
-      "importance": 0.762,
-      "importance_score": 0.762,
+      "score": 0.7597,
+      "importance": 0.7597,
+      "importance_score": 0.7597,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.77,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8856,
+        "recency": 0.8729,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -950,7 +950,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-12T07:59:27.002058Z"
+        "scored_at": "2026-09-12T08:48:18.499383Z"
       }
     },
     {
@@ -998,15 +998,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8114,
-      "importance": 0.8114,
-      "importance_score": 0.8114,
+      "score": 0.8095,
+      "importance": 0.8095,
+      "importance_score": 0.8095,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.73,
+        "recency": 0.7195,
         "story_heat": 0.0
       },
       "category": "official",
@@ -1033,7 +1033,118 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-12T07:59:27.002058Z"
+        "scored_at": "2026-09-12T08:48:18.499383Z"
+      }
+    },
+    {
+      "story_id": "story_e95b34cb28f9",
+      "title": "Beren Millidge、John Schulman、Charlie O'Neill 对谈递归自我改进离我们还有多远 / AI researchers debate how close we are to recursive self-improvement",
+      "url": "https://www.dwarkesh.com/p/john-beren-charlie",
+      "primary_url": "https://www.dwarkesh.com/p/john-beren-charlie",
+      "source": "Dwarkesh Patel：Podcast & Blog（RSS）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "debdcd3ab4b77ad631f8ed5a47f1216b9e46a1f0",
+          "title": "Beren Millidge、John Schulman、Charlie O'Neill 对谈递归自我改进离我们还有多远 / AI researchers debate how close we are to recursive self-improvement",
+          "title_zh": "Beren Millidge、John Schulman、Charlie O'Neill 对谈递归自我改进离我们还有多远",
+          "title_en": "AI researchers debate how close we are to recursive self-improvement",
+          "title_original": "AI researchers debate how close we are to recursive self-improvement",
+          "summary": "Dwarkesh Patel 与 Zyphra CTO Beren Millidge、Thinking Machines 首席科学家 John Schulman、Baseten 模型训练负责人 Charlie O'Neill 三位研究者对谈递归自我改进（RSI）的前景。",
+          "recommend_reason_zh": null,
+          "url": "https://www.dwarkesh.com/p/john-beren-charlie",
+          "source": "Dwarkesh Patel：Podcast & Blog（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-11T16:28:11Z"
+        },
+        {
+          "id": "6240b19a7bc85e883a73b6f030565b00ccfd380f",
+          "title": "人工智能研究人员就我们距离递归式自我改进还有多远这一问题展开了讨论",
+          "title_zh": "人工智能研究人员就我们距离递归式自我改进还有多远这一问题展开了讨论",
+          "title_en": null,
+          "title_original": "人工智能研究人员就我们距离递归式自我改进还有多远这一问题展开了讨论",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.dwarkesh.com/p/john-beren-charlie",
+          "source": "www.dwarkesh.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-09-12T08:31:36.686000Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Dwarkesh Patel：Podcast & Blog（RSS）",
+        "www.dwarkesh.com"
+      ],
+      "items": [
+        {
+          "id": "debdcd3ab4b77ad631f8ed5a47f1216b9e46a1f0",
+          "title": "Beren Millidge、John Schulman、Charlie O'Neill 对谈递归自我改进离我们还有多远 / AI researchers debate how close we are to recursive self-improvement",
+          "title_zh": "Beren Millidge、John Schulman、Charlie O'Neill 对谈递归自我改进离我们还有多远",
+          "title_en": "AI researchers debate how close we are to recursive self-improvement",
+          "title_original": "AI researchers debate how close we are to recursive self-improvement",
+          "summary": "Dwarkesh Patel 与 Zyphra CTO Beren Millidge、Thinking Machines 首席科学家 John Schulman、Baseten 模型训练负责人 Charlie O'Neill 三位研究者对谈递归自我改进（RSI）的前景。",
+          "recommend_reason_zh": null,
+          "url": "https://www.dwarkesh.com/p/john-beren-charlie",
+          "source": "Dwarkesh Patel：Podcast & Blog（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-11T16:28:11Z"
+        },
+        {
+          "id": "6240b19a7bc85e883a73b6f030565b00ccfd380f",
+          "title": "人工智能研究人员就我们距离递归式自我改进还有多远这一问题展开了讨论",
+          "title_zh": "人工智能研究人员就我们距离递归式自我改进还有多远这一问题展开了讨论",
+          "title_en": null,
+          "title_original": "人工智能研究人员就我们距离递归式自我改进还有多远这一问题展开了讨论",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.dwarkesh.com/p/john-beren-charlie",
+          "source": "www.dwarkesh.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-09-12T08:31:36.686000Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.7368,
+      "importance": 0.7368,
+      "importance_score": 0.7368,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.66,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.79,
+        "story_heat": 0.25
+      },
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-09-11T16:28:11Z",
+      "latest_at": "2026-09-12T08:31:36.686000Z",
+      "primary_item": {
+        "id": "debdcd3ab4b77ad631f8ed5a47f1216b9e46a1f0",
+        "title": "Beren Millidge、John Schulman、Charlie O'Neill 对谈递归自我改进离我们还有多远 / AI researchers debate how close we are to recursive self-improvement",
+        "title_zh": "Beren Millidge、John Schulman、Charlie O'Neill 对谈递归自我改进离我们还有多远",
+        "title_en": "AI researchers debate how close we are to recursive self-improvement",
+        "title_original": "AI researchers debate how close we are to recursive self-improvement",
+        "summary": "Dwarkesh Patel 与 Zyphra CTO Beren Millidge、Thinking Machines 首席科学家 John Schulman、Baseten 模型训练负责人 Charlie O'Neill 三位研究者对谈递归自我改进（RSI）的前景。",
+        "recommend_reason_zh": null,
+        "url": "https://www.dwarkesh.com/p/john-beren-charlie",
+        "source": "Dwarkesh Patel：Podcast & Blog（RSS）",
+        "source_name": "AI HOT"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-09-12T08:48:18.499383Z"
       }
     },
     {
@@ -1081,15 +1192,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7305,
-      "importance": 0.7305,
-      "importance_score": 0.7305,
+      "score": 0.7284,
+      "importance": 0.7284,
+      "importance_score": 0.7284,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7937,
+        "recency": 0.7823,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1114,7 +1225,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-12T07:59:27.002058Z"
+        "scored_at": "2026-09-12T08:48:18.499383Z"
       }
     },
     {
@@ -1162,15 +1273,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7276,
-      "importance": 0.7276,
-      "importance_score": 0.7276,
+      "score": 0.7256,
+      "importance": 0.7256,
+      "importance_score": 0.7256,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7779,
+        "recency": 0.7668,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1195,88 +1306,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-12T07:59:27.002058Z"
-      }
-    },
-    {
-      "story_id": "story_fe90ca3f92b8",
-      "title": "小米开源工业级目标说话人语音识别大模型 CocktailASR-1",
-      "url": "https://www.aibase.com/news/31001",
-      "primary_url": "https://www.aibase.com/news/31001",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "69a2c23e5f99391e1ea81888e087bd4dde1de815",
-          "title": "小米开源工业级目标说话人语音识别大模型 CocktailASR-1",
-          "title_zh": "小米开源工业级目标说话人语音识别大模型 CocktailASR-1",
-          "title_en": null,
-          "title_original": "小米开源工业级目标说话人语音识别大模型 CocktailASR-1",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/31001",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-09-11T10:47:23.713331Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "69a2c23e5f99391e1ea81888e087bd4dde1de815",
-          "title": "小米开源工业级目标说话人语音识别大模型 CocktailASR-1",
-          "title_zh": "小米开源工业级目标说话人语音识别大模型 CocktailASR-1",
-          "title_en": null,
-          "title_original": "小米开源工业级目标说话人语音识别大模型 CocktailASR-1",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/31001",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-09-11T10:47:23.713331Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7205,
-      "importance": 0.7205,
-      "importance_score": 0.7205,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7384,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-09-11T10:47:23.713331Z",
-      "latest_at": "2026-09-11T10:47:23.713331Z",
-      "primary_item": {
-        "id": "69a2c23e5f99391e1ea81888e087bd4dde1de815",
-        "title": "小米开源工业级目标说话人语音识别大模型 CocktailASR-1",
-        "title_zh": "小米开源工业级目标说话人语音识别大模型 CocktailASR-1",
-        "title_en": null,
-        "title_original": "小米开源工业级目标说话人语音识别大模型 CocktailASR-1",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/31001",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-09-12T07:59:27.002058Z"
+        "scored_at": "2026-09-12T08:48:18.499383Z"
       }
     },
     {
@@ -1382,15 +1412,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5851,
-      "importance": 0.5851,
-      "importance_score": 0.5851,
+      "score": 0.583,
+      "importance": 0.583,
+      "importance_score": 0.583,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.4824,
         "source_tier": 0.5,
         "ai_relevance": 0.67,
-        "recency": 0.8133,
+        "recency": 0.8016,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1415,7 +1445,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-12T07:59:27.002058Z"
+        "scored_at": "2026-09-12T08:48:18.499383Z"
       }
     },
     {
@@ -1491,15 +1521,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5756,
-      "importance": 0.5756,
-      "importance_score": 0.5756,
+      "score": 0.5735,
+      "importance": 0.5735,
+      "importance_score": 0.5735,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.4896,
         "source_tier": 0.58,
         "ai_relevance": 0.68,
-        "recency": 0.7782,
+        "recency": 0.767,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1524,7 +1554,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-12T07:59:27.002058Z"
+        "scored_at": "2026-09-12T08:48:18.499383Z"
       }
     },
     {
@@ -1601,15 +1631,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5332,
-      "importance": 0.5332,
-      "importance_score": 0.5332,
+      "score": 0.5308,
+      "importance": 0.5308,
+      "importance_score": 0.5308,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9299,
+        "recency": 0.9165,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1634,7 +1664,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-12T07:59:27.002058Z"
+        "scored_at": "2026-09-12T08:48:18.499383Z"
       }
     },
     {
@@ -1740,15 +1770,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5265,
-      "importance": 0.5265,
-      "importance_score": 0.5265,
+      "score": 0.5246,
+      "importance": 0.5246,
+      "importance_score": 0.5246,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.754,
+        "recency": 0.7432,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1773,7 +1803,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-12T07:59:27.002058Z"
+        "scored_at": "2026-09-12T08:48:18.499383Z"
       }
     },
     {
@@ -1850,15 +1880,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5222,
-      "importance": 0.5222,
-      "importance_score": 0.5222,
+      "score": 0.5199,
+      "importance": 0.5199,
+      "importance_score": 0.5199,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8687,
+        "recency": 0.8562,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1883,7 +1913,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-12T07:59:27.002058Z"
+        "scored_at": "2026-09-12T08:48:18.499383Z"
       }
     },
     {
@@ -1960,15 +1990,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5157,
-      "importance": 0.5157,
-      "importance_score": 0.5157,
+      "score": 0.5135,
+      "importance": 0.5135,
+      "importance_score": 0.5135,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8328,
+        "recency": 0.8208,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1993,117 +2023,117 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-12T07:59:27.002058Z"
+        "scored_at": "2026-09-12T08:48:18.499383Z"
       }
     },
     {
-      "story_id": "story_94d7dab25647",
-      "title": "顶尖数学家对OpenAI的做法感到愤怒 / Top mathematicians are outraged by OpenAI's methods",
-      "url": "https://www.economist.com/science-and-technology/2026/09/11/top-mathematicians-are-outraged-by-openais-methods",
-      "primary_url": "https://www.economist.com/science-and-technology/2026/09/11/top-mathematicians-are-outraged-by-openais-methods",
-      "source": "Hacker News · 24h最热",
-      "source_name": "Zeli",
+      "story_id": "story_235f58b0b359",
+      "title": "Anthropic 揭示了流氓人工智能代理讨厌验证码，就像你一样 / Anthropic reveals rogue AI agents hate CAPTCHAs, just like you",
+      "url": "https://www.techradar.com/pro/security/anthropic-reveals-rogue-ai-agents-hate-captchas-just-like-you",
+      "primary_url": "https://www.techradar.com/pro/security/anthropic-reveals-rogue-ai-agents-hate-captchas-just-like-you",
+      "source": "TechRadar",
+      "source_name": "TechURLs",
       "sources": [
         {
-          "id": "64deac33ae994d49321b1c98363acef3a68aa645",
-          "title": "顶尖数学家对OpenAI的做法感到愤怒 / Top mathematicians are outraged by OpenAI's methods",
-          "title_zh": "顶尖数学家对OpenAI的做法感到愤怒",
-          "title_en": "Top mathematicians are outraged by OpenAI's methods",
-          "title_original": "Top mathematicians are outraged by OpenAI's methods",
+          "id": "257a7b4390eb1833aa8c413d79281b056ee03a7e",
+          "title": "Anthropic 揭示了流氓人工智能代理讨厌验证码，就像你一样 / Anthropic reveals rogue AI agents hate CAPTCHAs, just like you",
+          "title_zh": "Anthropic 揭示了流氓人工智能代理讨厌验证码，就像你一样",
+          "title_en": "Anthropic reveals rogue AI agents hate CAPTCHAs, just like you",
+          "title_original": "Anthropic reveals rogue AI agents hate CAPTCHAs, just like you",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.economist.com/science-and-technology/2026/09/11/top-mathematicians-are-outraged-by-openais-methods",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-09-11T18:07:08Z"
+          "url": "https://www.techradar.com/pro/security/anthropic-reveals-rogue-ai-agents-hate-captchas-just-like-you",
+          "source": "TechRadar",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-09-11T18:05:00Z"
         },
         {
-          "id": "2b57a3f26bdddf0f584a3e20a3d75dee965e6825",
-          "title": "顶尖数学家对OpenAI的做法感到愤怒",
-          "title_zh": "顶尖数学家对OpenAI的做法感到愤怒",
-          "title_en": null,
-          "title_original": "顶尖数学家对OpenAI的做法感到愤怒",
+          "id": "8d938d44930556290684684b2a5e7c7bd47c716e",
+          "title": "Anthropic 揭示了流氓人工智能代理讨厌验证码 / Anthropic Reveals Rogue AI Agents Hate CAPTCHAs",
+          "title_zh": "Anthropic 揭示了流氓人工智能代理讨厌验证码",
+          "title_en": "Anthropic Reveals Rogue AI Agents Hate CAPTCHAs",
+          "title_original": "Anthropic Reveals Rogue AI Agents Hate CAPTCHAs",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.economist.com/science-and-technology/2026/09/11/top-mathematicians-are-outraged-by-openais-methods",
-          "source": "www.economist.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-09-11T17:48:05.859000Z"
+          "url": "https://tech.slashdot.org/story/26/09/11/0629254/anthropic-reveals-rogue-ai-agents-hate-captchas",
+          "source": "Slashdot",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-09-11T16:00:00Z"
         }
       ],
       "source_count": 2,
       "source_names": [
-        "Hacker News · 24h最热",
-        "www.economist.com"
+        "Slashdot",
+        "TechRadar"
       ],
       "items": [
         {
-          "id": "64deac33ae994d49321b1c98363acef3a68aa645",
-          "title": "顶尖数学家对OpenAI的做法感到愤怒 / Top mathematicians are outraged by OpenAI's methods",
-          "title_zh": "顶尖数学家对OpenAI的做法感到愤怒",
-          "title_en": "Top mathematicians are outraged by OpenAI's methods",
-          "title_original": "Top mathematicians are outraged by OpenAI's methods",
+          "id": "257a7b4390eb1833aa8c413d79281b056ee03a7e",
+          "title": "Anthropic 揭示了流氓人工智能代理讨厌验证码，就像你一样 / Anthropic reveals rogue AI agents hate CAPTCHAs, just like you",
+          "title_zh": "Anthropic 揭示了流氓人工智能代理讨厌验证码，就像你一样",
+          "title_en": "Anthropic reveals rogue AI agents hate CAPTCHAs, just like you",
+          "title_original": "Anthropic reveals rogue AI agents hate CAPTCHAs, just like you",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.economist.com/science-and-technology/2026/09/11/top-mathematicians-are-outraged-by-openais-methods",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-09-11T18:07:08Z"
+          "url": "https://www.techradar.com/pro/security/anthropic-reveals-rogue-ai-agents-hate-captchas-just-like-you",
+          "source": "TechRadar",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-09-11T18:05:00Z"
         },
         {
-          "id": "2b57a3f26bdddf0f584a3e20a3d75dee965e6825",
-          "title": "顶尖数学家对OpenAI的做法感到愤怒",
-          "title_zh": "顶尖数学家对OpenAI的做法感到愤怒",
-          "title_en": null,
-          "title_original": "顶尖数学家对OpenAI的做法感到愤怒",
+          "id": "8d938d44930556290684684b2a5e7c7bd47c716e",
+          "title": "Anthropic 揭示了流氓人工智能代理讨厌验证码 / Anthropic Reveals Rogue AI Agents Hate CAPTCHAs",
+          "title_zh": "Anthropic 揭示了流氓人工智能代理讨厌验证码",
+          "title_en": "Anthropic Reveals Rogue AI Agents Hate CAPTCHAs",
+          "title_original": "Anthropic Reveals Rogue AI Agents Hate CAPTCHAs",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.economist.com/science-and-technology/2026/09/11/top-mathematicians-are-outraged-by-openais-methods",
-          "source": "www.economist.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-09-11T17:48:05.859000Z"
+          "url": "https://tech.slashdot.org/story/26/09/11/0629254/anthropic-reveals-rogue-ai-agents-hate-captchas",
+          "source": "Slashdot",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-09-11T16:00:00Z"
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5136,
-      "importance": 0.5136,
-      "importance_score": 0.5136,
+      "score": 0.5114,
+      "importance": 0.5114,
+      "importance_score": 0.5114,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8208,
+        "recency": 0.8086,
         "story_heat": 0.25
       },
       "category": "watch",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-09-11T17:48:05.859000Z",
-      "latest_at": "2026-09-11T18:07:08Z",
+      "earliest_at": "2026-09-11T16:00:00Z",
+      "latest_at": "2026-09-11T18:05:00Z",
       "primary_item": {
-        "id": "64deac33ae994d49321b1c98363acef3a68aa645",
-        "title": "顶尖数学家对OpenAI的做法感到愤怒 / Top mathematicians are outraged by OpenAI's methods",
-        "title_zh": "顶尖数学家对OpenAI的做法感到愤怒",
-        "title_en": "Top mathematicians are outraged by OpenAI's methods",
-        "title_original": "Top mathematicians are outraged by OpenAI's methods",
+        "id": "257a7b4390eb1833aa8c413d79281b056ee03a7e",
+        "title": "Anthropic 揭示了流氓人工智能代理讨厌验证码，就像你一样 / Anthropic reveals rogue AI agents hate CAPTCHAs, just like you",
+        "title_zh": "Anthropic 揭示了流氓人工智能代理讨厌验证码，就像你一样",
+        "title_en": "Anthropic reveals rogue AI agents hate CAPTCHAs, just like you",
+        "title_original": "Anthropic reveals rogue AI agents hate CAPTCHAs, just like you",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://www.economist.com/science-and-technology/2026/09/11/top-mathematicians-are-outraged-by-openais-methods",
-        "source": "Hacker News · 24h最热",
-        "source_name": "Zeli"
+        "url": "https://www.techradar.com/pro/security/anthropic-reveals-rogue-ai-agents-hate-captchas-just-like-you",
+        "source": "TechRadar",
+        "source_name": "TechURLs"
       },
       "persona_id": "pragmatic",
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-12T07:59:27.002058Z"
+        "scored_at": "2026-09-12T08:48:18.499383Z"
       }
     }
   ]
