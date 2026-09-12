@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-09-12T19:47:17.665972Z",
+  "generated_at": "2026-09-12T20:47:23.102456Z",
   "window_hours": 24,
-  "total_items": 13,
+  "total_items": 14,
   "items": [
     {
       "story_id": "story_86ff3d2b9b70",
@@ -65,8 +65,8 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-09-12T19:47:17.665972Z",
-      "latest_at": "2026-09-12T19:47:17.665972Z",
+      "earliest_at": "2026-09-12T20:47:23.102456Z",
+      "latest_at": "2026-09-12T20:47:23.102456Z",
       "primary_item": {
         "id": "54b29e5d6f4765b0653d6e5e22c91217d622018b",
         "title": "Perplexity 信任 GPT-6 Astra 的端到端系统 / Perplexity trusts GPT-6 Astra with end-to-end systems",
@@ -83,7 +83,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-12T19:48:05.452388Z"
+        "scored_at": "2026-09-12T20:57:14.025539Z"
       }
     },
     {
@@ -131,15 +131,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8343,
-      "importance": 0.8343,
-      "importance_score": 0.8343,
+      "score": 0.8318,
+      "importance": 0.8318,
+      "importance_score": 0.8318,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.8,
         "source_tier": 1.0,
         "ai_relevance": 1.0,
-        "recency": 0.9683,
+        "recency": 0.9544,
         "story_heat": 0.0
       },
       "category": "official",
@@ -165,7 +165,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-12T19:48:05.452388Z"
+        "scored_at": "2026-09-12T20:57:14.025539Z"
       }
     },
     {
@@ -300,15 +300,15 @@
       ],
       "item_count": 4,
       "duplicate_count": 4,
-      "score": 0.8257,
-      "importance": 0.8257,
-      "importance_score": 0.8257,
+      "score": 0.8237,
+      "importance": 0.8237,
+      "importance_score": 0.8237,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.81,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7559,
+        "recency": 0.745,
         "story_heat": 0.75
       },
       "category": "multi_source",
@@ -335,7 +335,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-12T19:48:05.452388Z"
+        "scored_at": "2026-09-12T20:57:14.025539Z"
       }
     },
     {
@@ -383,15 +383,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8025,
-      "importance": 0.8025,
-      "importance_score": 0.8025,
+      "score": 0.8006,
+      "importance": 0.8006,
+      "importance_score": 0.8006,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.7249,
+        "recency": 0.7145,
         "story_heat": 0.0
       },
       "category": "official",
@@ -418,7 +418,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-12T19:48:05.452388Z"
+        "scored_at": "2026-09-12T20:57:14.025539Z"
       }
     },
     {
@@ -524,15 +524,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.7902,
-      "importance": 0.7902,
-      "importance_score": 0.7902,
+      "score": 0.7881,
+      "importance": 0.7881,
+      "importance_score": 0.7881,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.76,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7809,
+        "recency": 0.7697,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -559,7 +559,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-12T19:48:05.452388Z"
+        "scored_at": "2026-09-12T20:57:14.025539Z"
       }
     },
     {
@@ -607,15 +607,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7761,
-      "importance": 0.7761,
-      "importance_score": 0.7761,
+      "score": 0.7739,
+      "importance": 0.7739,
+      "importance_score": 0.7739,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.82,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8808,
+        "recency": 0.8682,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -641,90 +641,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-12T19:48:05.452388Z"
-      }
-    },
-    {
-      "story_id": "story_bbf03c6dd45c",
-      "title": "Copilot 代码审查中的自动解析和分析更新 / Auto-resolution and analysis updates in Copilot code review",
-      "url": "https://github.blog/changelog/2026-09-11-auto-resolution-and-analysis-updates-in-copilot-code-review",
-      "primary_url": "https://github.blog/changelog/2026-09-11-auto-resolution-and-analysis-updates-in-copilot-code-review",
-      "source": "GitHub Changelog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "eb40e36e6a9a04e2c03ce1e5fef7636434e1b494",
-          "title": "Copilot 代码审查中的自动解析和分析更新 / Auto-resolution and analysis updates in Copilot code review",
-          "title_zh": "Copilot 代码审查中的自动解析和分析更新",
-          "title_en": "Auto-resolution and analysis updates in Copilot code review",
-          "title_original": "Auto-resolution and analysis updates in Copilot code review",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-09-11-auto-resolution-and-analysis-updates-in-copilot-code-review",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-09-11T20:00:07Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "GitHub Changelog"
-      ],
-      "items": [
-        {
-          "id": "eb40e36e6a9a04e2c03ce1e5fef7636434e1b494",
-          "title": "Copilot 代码审查中的自动解析和分析更新 / Auto-resolution and analysis updates in Copilot code review",
-          "title_zh": "Copilot 代码审查中的自动解析和分析更新",
-          "title_en": "Auto-resolution and analysis updates in Copilot code review",
-          "title_original": "Auto-resolution and analysis updates in Copilot code review",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-09-11-auto-resolution-and-analysis-updates-in-copilot-code-review",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-09-11T20:00:07Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7997,
-      "importance": 0.7997,
-      "importance_score": 0.7997,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.91,
-        "recency": 0.7093,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-11T20:00:07Z",
-      "latest_at": "2026-09-11T20:00:07Z",
-      "primary_item": {
-        "id": "eb40e36e6a9a04e2c03ce1e5fef7636434e1b494",
-        "title": "Copilot 代码审查中的自动解析和分析更新 / Auto-resolution and analysis updates in Copilot code review",
-        "title_zh": "Copilot 代码审查中的自动解析和分析更新",
-        "title_en": "Auto-resolution and analysis updates in Copilot code review",
-        "title_original": "Auto-resolution and analysis updates in Copilot code review",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://github.blog/changelog/2026-09-11-auto-resolution-and-analysis-updates-in-copilot-code-review",
-        "source": "GitHub Changelog",
-        "source_name": "Official AI Updates"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-09-12T19:48:05.452388Z"
+        "scored_at": "2026-09-12T20:57:14.025539Z"
       }
     },
     {
@@ -772,15 +689,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7653,
-      "importance": 0.7653,
-      "importance_score": 0.7653,
+      "score": 0.7628,
+      "importance": 0.7628,
+      "importance_score": 0.7628,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.74,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9538,
+        "recency": 0.9401,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -806,7 +723,171 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-12T19:48:05.452388Z"
+        "scored_at": "2026-09-12T20:57:14.025539Z"
+      }
+    },
+    {
+      "story_id": "story_b87018eebc80",
+      "title": "Thariq 支持 Dario Amodei 的放缓前沿 AI 倡议，呼吁给系统加固和社会讨论留出时间 / If you showed me Claude Code today in 2018， I would have thought it was AGI. We have already absorb…",
+      "url": "https://x.com/trq212/status/2098860941391872132",
+      "primary_url": "https://x.com/trq212/status/2098860941391872132",
+      "source": "X：Thariq (@trq212)",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "c2560befab7f82dffe6d7cde42df3a486bec135f",
+          "title": "Thariq 支持 Dario Amodei 的放缓前沿 AI 倡议，呼吁给系统加固和社会讨论留出时间 / If you showed me Claude Code today in 2018， I would have thought it was AGI. We have already absorb…",
+          "title_zh": "Thariq 支持 Dario Amodei 的放缓前沿 AI 倡议，呼吁给系统加固和社会讨论留出时间",
+          "title_en": "If you showed me Claude Code today in 2018， I would have thought it was AGI. We have already absorb…",
+          "title_original": "If you showed me Claude Code today in 2018， I would have thought it was AGI. We have already absorb…",
+          "summary": "Anthropic 的 Thariq 转发并支持 Dario Amodei 的新文章《We Must Pace the Frontier》，后者提出 AI 行业应放缓的三部分计划，并承诺向第三方评估者提供永久的员工级系统访问权限。",
+          "recommend_reason_zh": null,
+          "url": "https://x.com/trq212/status/2098860941391872132",
+          "source": "X：Thariq (@trq212)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-12T19:46:58Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "X：Thariq (@trq212)"
+      ],
+      "items": [
+        {
+          "id": "c2560befab7f82dffe6d7cde42df3a486bec135f",
+          "title": "Thariq 支持 Dario Amodei 的放缓前沿 AI 倡议，呼吁给系统加固和社会讨论留出时间 / If you showed me Claude Code today in 2018， I would have thought it was AGI. We have already absorb…",
+          "title_zh": "Thariq 支持 Dario Amodei 的放缓前沿 AI 倡议，呼吁给系统加固和社会讨论留出时间",
+          "title_en": "If you showed me Claude Code today in 2018， I would have thought it was AGI. We have already absorb…",
+          "title_original": "If you showed me Claude Code today in 2018， I would have thought it was AGI. We have already absorb…",
+          "summary": "Anthropic 的 Thariq 转发并支持 Dario Amodei 的新文章《We Must Pace the Frontier》，后者提出 AI 行业应放缓的三部分计划，并承诺向第三方评估者提供永久的员工级系统访问权限。",
+          "recommend_reason_zh": null,
+          "url": "https://x.com/trq212/status/2098860941391872132",
+          "source": "X：Thariq (@trq212)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-12T19:46:58Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.762,
+      "importance": 0.762,
+      "importance_score": 0.762,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.71,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9856,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-12T19:46:58Z",
+      "latest_at": "2026-09-12T19:46:58Z",
+      "primary_item": {
+        "id": "c2560befab7f82dffe6d7cde42df3a486bec135f",
+        "title": "Thariq 支持 Dario Amodei 的放缓前沿 AI 倡议，呼吁给系统加固和社会讨论留出时间 / If you showed me Claude Code today in 2018， I would have thought it was AGI. We have already absorb…",
+        "title_zh": "Thariq 支持 Dario Amodei 的放缓前沿 AI 倡议，呼吁给系统加固和社会讨论留出时间",
+        "title_en": "If you showed me Claude Code today in 2018， I would have thought it was AGI. We have already absorb…",
+        "title_original": "If you showed me Claude Code today in 2018， I would have thought it was AGI. We have already absorb…",
+        "summary": "Anthropic 的 Thariq 转发并支持 Dario Amodei 的新文章《We Must Pace the Frontier》，后者提出 AI 行业应放缓的三部分计划，并承诺向第三方评估者提供永久的员工级系统访问权限。",
+        "recommend_reason_zh": null,
+        "url": "https://x.com/trq212/status/2098860941391872132",
+        "source": "X：Thariq (@trq212)",
+        "source_name": "AI HOT"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-09-12T20:57:14.025539Z"
+      }
+    },
+    {
+      "story_id": "story_f01e6682c6a0",
+      "title": "Dario Amodei 发文呼吁 AI 行业放慢前沿速度并公布三步计划 / Please read this essay. The transformative potential of AI to bring immense benefits to the world r…",
+      "url": "https://x.com/PeterMcCrory/status/2098868931071226252",
+      "primary_url": "https://x.com/PeterMcCrory/status/2098868931071226252",
+      "source": "X：Peter McCrory（Anthropic 首席经济学家，@PeterMcCrory）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "fc265156e1361beb3a5e3d57c63b75562d60c0d6",
+          "title": "Dario Amodei 发文呼吁 AI 行业放慢前沿速度并公布三步计划 / Please read this essay. The transformative potential of AI to bring immense benefits to the world r…",
+          "title_zh": "Dario Amodei 发文呼吁 AI 行业放慢前沿速度并公布三步计划",
+          "title_en": "Please read this essay. The transformative potential of AI to bring immense benefits to the world r…",
+          "title_original": "Please read this essay. The transformative potential of AI to bring immense benefits to the world r…",
+          "summary": "Dario Amodei 发布新文章 We Must Pace the Frontier，主张 AI 行业应放慢速度，并提出三部分计划。Anthropic 单方面承诺第一步，为第三方评估者提供永久的员工级系统访问权限，以核实安全措施执行、报告事故并评估训练期间模型的 alignment。",
+          "recommend_reason_zh": null,
+          "url": "https://x.com/PeterMcCrory/status/2098868931071226252",
+          "source": "X：Peter McCrory（Anthropic 首席经济学家，@PeterMcCrory）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-12T20:18:42Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "X：Peter McCrory（Anthropic 首席经济学家，@PeterMcCrory）"
+      ],
+      "items": [
+        {
+          "id": "fc265156e1361beb3a5e3d57c63b75562d60c0d6",
+          "title": "Dario Amodei 发文呼吁 AI 行业放慢前沿速度并公布三步计划 / Please read this essay. The transformative potential of AI to bring immense benefits to the world r…",
+          "title_zh": "Dario Amodei 发文呼吁 AI 行业放慢前沿速度并公布三步计划",
+          "title_en": "Please read this essay. The transformative potential of AI to bring immense benefits to the world r…",
+          "title_original": "Please read this essay. The transformative potential of AI to bring immense benefits to the world r…",
+          "summary": "Dario Amodei 发布新文章 We Must Pace the Frontier，主张 AI 行业应放慢速度，并提出三部分计划。Anthropic 单方面承诺第一步，为第三方评估者提供永久的员工级系统访问权限，以核实安全措施执行、报告事故并评估训练期间模型的 alignment。",
+          "recommend_reason_zh": null,
+          "url": "https://x.com/PeterMcCrory/status/2098868931071226252",
+          "source": "X：Peter McCrory（Anthropic 首席经济学家，@PeterMcCrory）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-12T20:18:42Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7604,
+      "importance": 0.7604,
+      "importance_score": 0.7604,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.7,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9931,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-12T20:18:42Z",
+      "latest_at": "2026-09-12T20:18:42Z",
+      "primary_item": {
+        "id": "fc265156e1361beb3a5e3d57c63b75562d60c0d6",
+        "title": "Dario Amodei 发文呼吁 AI 行业放慢前沿速度并公布三步计划 / Please read this essay. The transformative potential of AI to bring immense benefits to the world r…",
+        "title_zh": "Dario Amodei 发文呼吁 AI 行业放慢前沿速度并公布三步计划",
+        "title_en": "Please read this essay. The transformative potential of AI to bring immense benefits to the world r…",
+        "title_original": "Please read this essay. The transformative potential of AI to bring immense benefits to the world r…",
+        "summary": "Dario Amodei 发布新文章 We Must Pace the Frontier，主张 AI 行业应放慢速度，并提出三部分计划。Anthropic 单方面承诺第一步，为第三方评估者提供永久的员工级系统访问权限，以核实安全措施执行、报告事故并评估训练期间模型的 alignment。",
+        "recommend_reason_zh": null,
+        "url": "https://x.com/PeterMcCrory/status/2098868931071226252",
+        "source": "X：Peter McCrory（Anthropic 首席经济学家，@PeterMcCrory）",
+        "source_name": "AI HOT"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-09-12T20:57:14.025539Z"
       }
     },
     {
@@ -854,15 +935,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7476,
-      "importance": 0.7476,
-      "importance_score": 0.7476,
+      "score": 0.7452,
+      "importance": 0.7452,
+      "importance_score": 0.7452,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.68,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9558,
+        "recency": 0.9421,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -887,7 +968,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-12T19:48:05.452388Z"
+        "scored_at": "2026-09-12T20:57:14.025539Z"
       }
     },
     {
@@ -935,15 +1016,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7367,
-      "importance": 0.7367,
-      "importance_score": 0.7367,
+      "score": 0.7347,
+      "importance": 0.7347,
+      "importance_score": 0.7347,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.77,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7447,
+        "recency": 0.734,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -968,7 +1049,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-12T19:48:05.452388Z"
+        "scored_at": "2026-09-12T20:57:14.025539Z"
       }
     },
     {
@@ -1045,15 +1126,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5386,
-      "importance": 0.5386,
-      "importance_score": 0.5386,
+      "score": 0.5361,
+      "importance": 0.5361,
+      "importance_score": 0.5361,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9598,
+        "recency": 0.946,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1078,7 +1159,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-12T19:48:05.452388Z"
+        "scored_at": "2026-09-12T20:57:14.025539Z"
       }
     },
     {
@@ -1155,15 +1236,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5378,
-      "importance": 0.5378,
-      "importance_score": 0.5378,
+      "score": 0.5353,
+      "importance": 0.5353,
+      "importance_score": 0.5353,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9553,
+        "recency": 0.9416,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1188,7 +1269,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-12T19:48:05.452388Z"
+        "scored_at": "2026-09-12T20:57:14.025539Z"
       }
     },
     {
@@ -1265,15 +1346,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5188,
-      "importance": 0.5188,
-      "importance_score": 0.5188,
+      "score": 0.5166,
+      "importance": 0.5166,
+      "importance_score": 0.5166,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8499,
+        "recency": 0.8377,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1298,7 +1379,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-12T19:48:05.452388Z"
+        "scored_at": "2026-09-12T20:57:14.025539Z"
       }
     }
   ]
