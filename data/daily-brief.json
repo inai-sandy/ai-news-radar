@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-12T04:37:51.263756Z",
+  "generated_at": "2026-09-12T05:47:20.046208Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -65,8 +65,8 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-09-12T04:37:51.263756Z",
-      "latest_at": "2026-09-12T04:37:51.263756Z",
+      "earliest_at": "2026-09-12T05:47:20.046208Z",
+      "latest_at": "2026-09-12T05:47:20.046208Z",
       "primary_item": {
         "id": "54b29e5d6f4765b0653d6e5e22c91217d622018b",
         "title": "Perplexity 信任 GPT-6 Astra 的端到端系统 / Perplexity trusts GPT-6 Astra with end-to-end systems",
@@ -83,7 +83,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-12T04:47:43.811333Z"
+        "scored_at": "2026-09-12T05:56:21.466315Z"
       }
     },
     {
@@ -218,15 +218,15 @@
       ],
       "item_count": 4,
       "duplicate_count": 4,
-      "score": 0.8589,
-      "importance": 0.8589,
-      "importance_score": 0.8589,
+      "score": 0.8561,
+      "importance": 0.8561,
+      "importance_score": 0.8561,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.81,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9408,
+        "recency": 0.9252,
         "story_heat": 0.75
       },
       "category": "multi_source",
@@ -253,7 +253,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-12T04:47:43.811333Z"
+        "scored_at": "2026-09-12T05:56:21.466315Z"
       }
     },
     {
@@ -330,15 +330,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.8444,
-      "importance": 0.8444,
-      "importance_score": 0.8444,
+      "score": 0.8418,
+      "importance": 0.8418,
+      "importance_score": 0.8418,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.8631,
+        "recency": 0.8488,
         "story_heat": 0.25
       },
       "category": "official",
@@ -366,7 +366,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-12T04:47:43.811333Z"
+        "scored_at": "2026-09-12T05:56:21.466315Z"
       }
     },
     {
@@ -414,15 +414,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8344,
-      "importance": 0.8344,
-      "importance_score": 0.8344,
+      "score": 0.8317,
+      "importance": 0.8317,
+      "importance_score": 0.8317,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.9023,
+        "recency": 0.8873,
         "story_heat": 0.0
       },
       "category": "official",
@@ -449,7 +449,148 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-12T04:47:43.811333Z"
+        "scored_at": "2026-09-12T05:56:21.466315Z"
+      }
+    },
+    {
+      "story_id": "story_4f105f17bfdc",
+      "title": "Minitap 指控 Google Artemis 未署名使用其开源项目 mobile-use 代码 / Google stole open source code without crediting the authors （Artemis/Minitap）",
+      "url": "https://www.minitap.ai/blog/i-expected-better-from-google",
+      "primary_url": "https://www.minitap.ai/blog/i-expected-better-from-google",
+      "source": "Hacker News：AI 热帖",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "91a1aa978a55d14effc686b12c95db2fee658b3d",
+          "title": "Minitap 指控 Google Artemis 未署名使用其开源项目 mobile-use 代码 / Google stole open source code without crediting the authors （Artemis/Minitap）",
+          "title_zh": "Minitap 指控 Google Artemis 未署名使用其开源项目 mobile-use 代码",
+          "title_en": "Google stole open source code without crediting the authors （Artemis/Minitap）",
+          "title_original": "Google stole open source code without crediting the authors （Artemis/Minitap）",
+          "summary": "Minitap 团队发文指认 Google 的移动设备自动化项目 Artemis 大量复用了其开源项目 mobile-use 的代码，包括完全一致的 Hopper agent 提示词和示例，却未在 README 中署名；更早的包文件曾列出三位作者，8 月一次 force push 将其替换为另一作者。",
+          "recommend_reason_zh": null,
+          "url": "https://www.minitap.ai/blog/i-expected-better-from-google",
+          "source": "Hacker News：AI 热帖",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-12T02:39:39Z"
+        },
+        {
+          "id": "dc157b82300112dd9d9e6e708a2586f74eabe0a6",
+          "title": "谷歌窃取了开源代码，却未注明作者（Artemis/Minitap）",
+          "title_zh": "谷歌窃取了开源代码，却未注明作者（Artemis/Minitap）",
+          "title_en": null,
+          "title_original": "谷歌窃取了开源代码，却未注明作者（Artemis/Minitap）",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.minitap.ai/blog/i-expected-better-from-google",
+          "source": "www.minitap.ai",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-09-12T05:37:39.339000Z"
+        },
+        {
+          "id": "547fe29e99656d699e77deefeed82874b5ec0e55",
+          "title": "Minitap 指控 Google Artemis 未署名使用其开源项目 mobile-use 代码 / Google stole open source code without crediting the authors (Artemis/Minitap)",
+          "title_zh": "Minitap 指控 Google Artemis 未署名使用其开源项目 mobile-use 代码",
+          "title_en": "Google stole open source code without crediting the authors (Artemis/Minitap)",
+          "title_original": "Google stole open source code without crediting the authors (Artemis/Minitap)",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.minitap.ai/blog/i-expected-better-from-google",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-09-12T02:39:39Z"
+        }
+      ],
+      "source_count": 3,
+      "source_names": [
+        "Hacker News",
+        "Hacker News：AI 热帖",
+        "www.minitap.ai"
+      ],
+      "items": [
+        {
+          "id": "91a1aa978a55d14effc686b12c95db2fee658b3d",
+          "title": "Minitap 指控 Google Artemis 未署名使用其开源项目 mobile-use 代码 / Google stole open source code without crediting the authors （Artemis/Minitap）",
+          "title_zh": "Minitap 指控 Google Artemis 未署名使用其开源项目 mobile-use 代码",
+          "title_en": "Google stole open source code without crediting the authors （Artemis/Minitap）",
+          "title_original": "Google stole open source code without crediting the authors （Artemis/Minitap）",
+          "summary": "Minitap 团队发文指认 Google 的移动设备自动化项目 Artemis 大量复用了其开源项目 mobile-use 的代码，包括完全一致的 Hopper agent 提示词和示例，却未在 README 中署名；更早的包文件曾列出三位作者，8 月一次 force push 将其替换为另一作者。",
+          "recommend_reason_zh": null,
+          "url": "https://www.minitap.ai/blog/i-expected-better-from-google",
+          "source": "Hacker News：AI 热帖",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-12T02:39:39Z"
+        },
+        {
+          "id": "dc157b82300112dd9d9e6e708a2586f74eabe0a6",
+          "title": "谷歌窃取了开源代码，却未注明作者（Artemis/Minitap）",
+          "title_zh": "谷歌窃取了开源代码，却未注明作者（Artemis/Minitap）",
+          "title_en": null,
+          "title_original": "谷歌窃取了开源代码，却未注明作者（Artemis/Minitap）",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.minitap.ai/blog/i-expected-better-from-google",
+          "source": "www.minitap.ai",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-09-12T05:37:39.339000Z"
+        },
+        {
+          "id": "547fe29e99656d699e77deefeed82874b5ec0e55",
+          "title": "Minitap 指控 Google Artemis 未署名使用其开源项目 mobile-use 代码 / Google stole open source code without crediting the authors (Artemis/Minitap)",
+          "title_zh": "Minitap 指控 Google Artemis 未署名使用其开源项目 mobile-use 代码",
+          "title_en": "Google stole open source code without crediting the authors (Artemis/Minitap)",
+          "title_original": "Google stole open source code without crediting the authors (Artemis/Minitap)",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.minitap.ai/blog/i-expected-better-from-google",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-09-12T02:39:39Z"
+        }
+      ],
+      "item_count": 3,
+      "duplicate_count": 3,
+      "score": 0.8217,
+      "importance": 0.8217,
+      "importance_score": 0.8217,
+      "importance_label": "多源热议",
+      "importance_breakdown": {
+        "editorial": 0.76,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9558,
+        "story_heat": 0.5
+      },
+      "category": "multi_source",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-12T02:39:39Z",
+      "latest_at": "2026-09-12T05:37:39.339000Z",
+      "primary_item": {
+        "id": "91a1aa978a55d14effc686b12c95db2fee658b3d",
+        "title": "Minitap 指控 Google Artemis 未署名使用其开源项目 mobile-use 代码 / Google stole open source code without crediting the authors （Artemis/Minitap）",
+        "title_zh": "Minitap 指控 Google Artemis 未署名使用其开源项目 mobile-use 代码",
+        "title_en": "Google stole open source code without crediting the authors （Artemis/Minitap）",
+        "title_original": "Google stole open source code without crediting the authors （Artemis/Minitap）",
+        "summary": "Minitap 团队发文指认 Google 的移动设备自动化项目 Artemis 大量复用了其开源项目 mobile-use 的代码，包括完全一致的 Hopper agent 提示词和示例，却未在 README 中署名；更早的包文件曾列出三位作者，8 月一次 force push 将其替换为另一作者。",
+        "recommend_reason_zh": null,
+        "url": "https://www.minitap.ai/blog/i-expected-better-from-google",
+        "source": "Hacker News：AI 热帖",
+        "source_name": "AI HOT"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-09-12T05:56:21.466315Z"
       }
     },
     {
@@ -497,15 +638,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8309,
-      "importance": 0.8309,
-      "importance_score": 0.8309,
+      "score": 0.8283,
+      "importance": 0.8283,
+      "importance_score": 0.8283,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.8828,
+        "recency": 0.8682,
         "story_heat": 0.0
       },
       "category": "official",
@@ -532,7 +673,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-12T04:47:43.811333Z"
+        "scored_at": "2026-09-12T05:56:21.466315Z"
       }
     },
     {
@@ -580,15 +721,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.83,
-      "importance": 0.83,
-      "importance_score": 0.83,
+      "score": 0.8275,
+      "importance": 0.8275,
+      "importance_score": 0.8275,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.8333,
+        "recency": 0.8195,
         "story_heat": 0.0
       },
       "category": "official",
@@ -615,119 +756,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-12T04:47:43.811333Z"
-      }
-    },
-    {
-      "story_id": "story_4f105f17bfdc",
-      "title": "Minitap 指控 Google Artemis 未署名使用其开源项目 mobile-use 代码 / Google stole open source code without crediting the authors （Artemis/Minitap）",
-      "url": "https://www.minitap.ai/blog/i-expected-better-from-google",
-      "primary_url": "https://www.minitap.ai/blog/i-expected-better-from-google",
-      "source": "Hacker News：AI 热帖",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "91a1aa978a55d14effc686b12c95db2fee658b3d",
-          "title": "Minitap 指控 Google Artemis 未署名使用其开源项目 mobile-use 代码 / Google stole open source code without crediting the authors （Artemis/Minitap）",
-          "title_zh": "Minitap 指控 Google Artemis 未署名使用其开源项目 mobile-use 代码",
-          "title_en": "Google stole open source code without crediting the authors （Artemis/Minitap）",
-          "title_original": "Google stole open source code without crediting the authors （Artemis/Minitap）",
-          "summary": "Minitap 团队发文指认 Google 的移动设备自动化项目 Artemis 大量复用了其开源项目 mobile-use 的代码，包括完全一致的 Hopper agent 提示词和示例，却未在 README 中署名；更早的包文件曾列出三位作者，8 月一次 force push 将其替换为另一作者。",
-          "recommend_reason_zh": null,
-          "url": "https://www.minitap.ai/blog/i-expected-better-from-google",
-          "source": "Hacker News：AI 热帖",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-12T02:39:39Z"
-        },
-        {
-          "id": "547fe29e99656d699e77deefeed82874b5ec0e55",
-          "title": "Minitap 指控 Google Artemis 未署名使用其开源项目 mobile-use 代码 / Google stole open source code without crediting the authors (Artemis/Minitap)",
-          "title_zh": "Minitap 指控 Google Artemis 未署名使用其开源项目 mobile-use 代码",
-          "title_en": "Google stole open source code without crediting the authors (Artemis/Minitap)",
-          "title_original": "Google stole open source code without crediting the authors (Artemis/Minitap)",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.minitap.ai/blog/i-expected-better-from-google",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-09-12T02:39:39Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News",
-        "Hacker News：AI 热帖"
-      ],
-      "items": [
-        {
-          "id": "91a1aa978a55d14effc686b12c95db2fee658b3d",
-          "title": "Minitap 指控 Google Artemis 未署名使用其开源项目 mobile-use 代码 / Google stole open source code without crediting the authors （Artemis/Minitap）",
-          "title_zh": "Minitap 指控 Google Artemis 未署名使用其开源项目 mobile-use 代码",
-          "title_en": "Google stole open source code without crediting the authors （Artemis/Minitap）",
-          "title_original": "Google stole open source code without crediting the authors （Artemis/Minitap）",
-          "summary": "Minitap 团队发文指认 Google 的移动设备自动化项目 Artemis 大量复用了其开源项目 mobile-use 的代码，包括完全一致的 Hopper agent 提示词和示例，却未在 README 中署名；更早的包文件曾列出三位作者，8 月一次 force push 将其替换为另一作者。",
-          "recommend_reason_zh": null,
-          "url": "https://www.minitap.ai/blog/i-expected-better-from-google",
-          "source": "Hacker News：AI 热帖",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-12T02:39:39Z"
-        },
-        {
-          "id": "547fe29e99656d699e77deefeed82874b5ec0e55",
-          "title": "Minitap 指控 Google Artemis 未署名使用其开源项目 mobile-use 代码 / Google stole open source code without crediting the authors (Artemis/Minitap)",
-          "title_zh": "Minitap 指控 Google Artemis 未署名使用其开源项目 mobile-use 代码",
-          "title_en": "Google stole open source code without crediting the authors (Artemis/Minitap)",
-          "title_original": "Google stole open source code without crediting the authors (Artemis/Minitap)",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.minitap.ai/blog/i-expected-better-from-google",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-09-12T02:39:39Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.7996,
-      "importance": 0.7996,
-      "importance_score": 0.7996,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.76,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.972,
-        "story_heat": 0.25
-      },
-      "category": "industry",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-12T02:39:39Z",
-      "latest_at": "2026-09-12T02:39:39Z",
-      "primary_item": {
-        "id": "91a1aa978a55d14effc686b12c95db2fee658b3d",
-        "title": "Minitap 指控 Google Artemis 未署名使用其开源项目 mobile-use 代码 / Google stole open source code without crediting the authors （Artemis/Minitap）",
-        "title_zh": "Minitap 指控 Google Artemis 未署名使用其开源项目 mobile-use 代码",
-        "title_en": "Google stole open source code without crediting the authors （Artemis/Minitap）",
-        "title_original": "Google stole open source code without crediting the authors （Artemis/Minitap）",
-        "summary": "Minitap 团队发文指认 Google 的移动设备自动化项目 Artemis 大量复用了其开源项目 mobile-use 的代码，包括完全一致的 Hopper agent 提示词和示例，却未在 README 中署名；更早的包文件曾列出三位作者，8 月一次 force push 将其替换为另一作者。",
-        "recommend_reason_zh": null,
-        "url": "https://www.minitap.ai/blog/i-expected-better-from-google",
-        "source": "Hacker News：AI 热帖",
-        "source_name": "AI HOT"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-09-12T04:47:43.811333Z"
+        "scored_at": "2026-09-12T05:56:21.466315Z"
       }
     },
     {
@@ -804,15 +833,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.791,
-      "importance": 0.791,
-      "importance_score": 0.791,
+      "score": 0.7886,
+      "importance": 0.7886,
+      "importance_score": 0.7886,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.83,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8077,
+        "recency": 0.7943,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -839,7 +868,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-12T04:47:43.811333Z"
+        "scored_at": "2026-09-12T05:56:21.466315Z"
       }
     },
     {
@@ -887,15 +916,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7694,
-      "importance": 0.7694,
-      "importance_score": 0.7694,
+      "score": 0.7667,
+      "importance": 0.7667,
+      "importance_score": 0.7667,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.77,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9269,
+        "recency": 0.9116,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -921,7 +950,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-12T04:47:43.811333Z"
+        "scored_at": "2026-09-12T05:56:21.466315Z"
       }
     },
     {
@@ -969,15 +998,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8175,
-      "importance": 0.8175,
-      "importance_score": 0.8175,
+      "score": 0.8153,
+      "importance": 0.8153,
+      "importance_score": 0.8153,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.7641,
+        "recency": 0.7514,
         "story_heat": 0.0
       },
       "category": "official",
@@ -1004,7 +1033,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-12T04:47:43.811333Z"
+        "scored_at": "2026-09-12T05:56:21.466315Z"
       }
     },
     {
@@ -1052,15 +1081,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7371,
-      "importance": 0.7371,
-      "importance_score": 0.7371,
+      "score": 0.7347,
+      "importance": 0.7347,
+      "importance_score": 0.7347,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8307,
+        "recency": 0.817,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1085,88 +1114,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-12T04:47:43.811333Z"
-      }
-    },
-    {
-      "story_id": "story_e95b34cb28f9",
-      "title": "Beren Millidge、John Schulman、Charlie O'Neill 对谈递归自我改进离我们还有多远 / AI researchers debate how close we are to recursive self-improvement",
-      "url": "https://www.dwarkesh.com/p/john-beren-charlie",
-      "primary_url": "https://www.dwarkesh.com/p/john-beren-charlie",
-      "source": "Dwarkesh Patel：Podcast & Blog（RSS）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "debdcd3ab4b77ad631f8ed5a47f1216b9e46a1f0",
-          "title": "Beren Millidge、John Schulman、Charlie O'Neill 对谈递归自我改进离我们还有多远 / AI researchers debate how close we are to recursive self-improvement",
-          "title_zh": "Beren Millidge、John Schulman、Charlie O'Neill 对谈递归自我改进离我们还有多远",
-          "title_en": "AI researchers debate how close we are to recursive self-improvement",
-          "title_original": "AI researchers debate how close we are to recursive self-improvement",
-          "summary": "Dwarkesh Patel 与 Zyphra CTO Beren Millidge、Thinking Machines 首席科学家 John Schulman、Baseten 模型训练负责人 Charlie O'Neill 三位研究者对谈递归自我改进（RSI）的前景。",
-          "recommend_reason_zh": null,
-          "url": "https://www.dwarkesh.com/p/john-beren-charlie",
-          "source": "Dwarkesh Patel：Podcast & Blog（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-11T16:28:11Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Dwarkesh Patel：Podcast & Blog（RSS）"
-      ],
-      "items": [
-        {
-          "id": "debdcd3ab4b77ad631f8ed5a47f1216b9e46a1f0",
-          "title": "Beren Millidge、John Schulman、Charlie O'Neill 对谈递归自我改进离我们还有多远 / AI researchers debate how close we are to recursive self-improvement",
-          "title_zh": "Beren Millidge、John Schulman、Charlie O'Neill 对谈递归自我改进离我们还有多远",
-          "title_en": "AI researchers debate how close we are to recursive self-improvement",
-          "title_original": "AI researchers debate how close we are to recursive self-improvement",
-          "summary": "Dwarkesh Patel 与 Zyphra CTO Beren Millidge、Thinking Machines 首席科学家 John Schulman、Baseten 模型训练负责人 Charlie O'Neill 三位研究者对谈递归自我改进（RSI）的前景。",
-          "recommend_reason_zh": null,
-          "url": "https://www.dwarkesh.com/p/john-beren-charlie",
-          "source": "Dwarkesh Patel：Podcast & Blog（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-11T16:28:11Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7206,
-      "importance": 0.7206,
-      "importance_score": 0.7206,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.66,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.8389,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-09-11T16:28:11Z",
-      "latest_at": "2026-09-11T16:28:11Z",
-      "primary_item": {
-        "id": "debdcd3ab4b77ad631f8ed5a47f1216b9e46a1f0",
-        "title": "Beren Millidge、John Schulman、Charlie O'Neill 对谈递归自我改进离我们还有多远 / AI researchers debate how close we are to recursive self-improvement",
-        "title_zh": "Beren Millidge、John Schulman、Charlie O'Neill 对谈递归自我改进离我们还有多远",
-        "title_en": "AI researchers debate how close we are to recursive self-improvement",
-        "title_original": "AI researchers debate how close we are to recursive self-improvement",
-        "summary": "Dwarkesh Patel 与 Zyphra CTO Beren Millidge、Thinking Machines 首席科学家 John Schulman、Baseten 模型训练负责人 Charlie O'Neill 三位研究者对谈递归自我改进（RSI）的前景。",
-        "recommend_reason_zh": null,
-        "url": "https://www.dwarkesh.com/p/john-beren-charlie",
-        "source": "Dwarkesh Patel：Podcast & Blog（RSS）",
-        "source_name": "AI HOT"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-09-12T04:47:43.811333Z"
+        "scored_at": "2026-09-12T05:56:21.466315Z"
       }
     },
     {
@@ -1214,15 +1162,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7342,
-      "importance": 0.7342,
-      "importance_score": 0.7342,
+      "score": 0.7317,
+      "importance": 0.7317,
+      "importance_score": 0.7317,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8142,
+        "recency": 0.8007,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1247,7 +1195,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-12T04:47:43.811333Z"
+        "scored_at": "2026-09-12T05:56:21.466315Z"
       }
     },
     {
@@ -1295,15 +1243,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7267,
-      "importance": 0.7267,
-      "importance_score": 0.7267,
+      "score": 0.7244,
+      "importance": 0.7244,
+      "importance_score": 0.7244,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7729,
+        "recency": 0.7601,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1328,7 +1276,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-12T04:47:43.811333Z"
+        "scored_at": "2026-09-12T05:56:21.466315Z"
       }
     },
     {
@@ -1376,15 +1324,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7244,
-      "importance": 0.7244,
-      "importance_score": 0.7244,
+      "score": 0.7222,
+      "importance": 0.7222,
+      "importance_score": 0.7222,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7601,
+        "recency": 0.7475,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1409,7 +1357,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-12T04:47:43.811333Z"
+        "scored_at": "2026-09-12T05:56:21.466315Z"
       }
     },
     {
@@ -1457,15 +1405,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7244,
-      "importance": 0.7244,
-      "importance_score": 0.7244,
+      "score": 0.7222,
+      "importance": 0.7222,
+      "importance_score": 0.7222,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7601,
+        "recency": 0.7475,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1490,7 +1438,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-12T04:47:43.811333Z"
+        "scored_at": "2026-09-12T05:56:21.466315Z"
       }
     },
     {
@@ -1596,15 +1544,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5919,
-      "importance": 0.5919,
-      "importance_score": 0.5919,
+      "score": 0.5894,
+      "importance": 0.5894,
+      "importance_score": 0.5894,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.4824,
         "source_tier": 0.5,
         "ai_relevance": 0.67,
-        "recency": 0.8512,
+        "recency": 0.8371,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1629,7 +1577,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-12T04:47:43.811333Z"
+        "scored_at": "2026-09-12T05:56:21.466315Z"
       }
     },
     {
@@ -1705,15 +1653,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5821,
-      "importance": 0.5821,
-      "importance_score": 0.5821,
+      "score": 0.5797,
+      "importance": 0.5797,
+      "importance_score": 0.5797,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.4896,
         "source_tier": 0.58,
         "ai_relevance": 0.68,
-        "recency": 0.8145,
+        "recency": 0.801,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1738,88 +1686,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-12T04:47:43.811333Z"
-      }
-    },
-    {
-      "story_id": "story_7ab17fbcb607",
-      "title": "DeepSeek V4.1-Flash登陆WorkBuddy，开启限时免费试用",
-      "url": "https://www.aibase.com/news/30995",
-      "primary_url": "https://www.aibase.com/news/30995",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "24e5638082baa39083cdb3eaf7788d85c5450ab1",
-          "title": "DeepSeek V4.1-Flash登陆WorkBuddy，开启限时免费试用",
-          "title_zh": "DeepSeek V4.1-Flash登陆WorkBuddy，开启限时免费试用",
-          "title_en": null,
-          "title_original": "DeepSeek V4.1-Flash登陆WorkBuddy，开启限时免费试用",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/30995",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-09-11T07:47:29.142552Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "24e5638082baa39083cdb3eaf7788d85c5450ab1",
-          "title": "DeepSeek V4.1-Flash登陆WorkBuddy，开启限时免费试用",
-          "title_zh": "DeepSeek V4.1-Flash登陆WorkBuddy，开启限时免费试用",
-          "title_en": null,
-          "title_original": "DeepSeek V4.1-Flash登陆WorkBuddy，开启限时免费试用",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/30995",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-09-11T07:47:29.142552Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7208,
-      "importance": 0.7208,
-      "importance_score": 0.7208,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7401,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-09-11T07:47:29.142552Z",
-      "latest_at": "2026-09-11T07:47:29.142552Z",
-      "primary_item": {
-        "id": "24e5638082baa39083cdb3eaf7788d85c5450ab1",
-        "title": "DeepSeek V4.1-Flash登陆WorkBuddy，开启限时免费试用",
-        "title_zh": "DeepSeek V4.1-Flash登陆WorkBuddy，开启限时免费试用",
-        "title_en": null,
-        "title_original": "DeepSeek V4.1-Flash登陆WorkBuddy，开启限时免费试用",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/30995",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-09-12T04:47:43.811333Z"
+        "scored_at": "2026-09-12T05:56:21.466315Z"
       }
     },
     {
@@ -1896,15 +1763,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.541,
-      "importance": 0.541,
-      "importance_score": 0.541,
+      "score": 0.5381,
+      "importance": 0.5381,
+      "importance_score": 0.5381,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9733,
+        "recency": 0.9572,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1929,7 +1796,256 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-12T04:47:43.811333Z"
+        "scored_at": "2026-09-12T05:56:21.466315Z"
+      }
+    },
+    {
+      "story_id": "story_288c45a0c613",
+      "title": "克劳德不再为未成年人提供服务",
+      "url": "https://support.claude.com/en/articles/15171100-age-assurance-on-claude",
+      "primary_url": "https://support.claude.com/en/articles/15171100-age-assurance-on-claude",
+      "source": "support.claude.com",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "8fe66307c93fbb48cc99817a1d55e016bd2d105d",
+          "title": "克劳德不再为未成年人提供服务",
+          "title_zh": "克劳德不再为未成年人提供服务",
+          "title_en": null,
+          "title_original": "克劳德不再为未成年人提供服务",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://support.claude.com/en/articles/15171100-age-assurance-on-claude",
+          "source": "support.claude.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-09-11T12:14:15.973000Z"
+        },
+        {
+          "id": "1818f8ae8dc89bac84c02cbdab5e6121a4dee1f0",
+          "title": "Claude不再为未成年人提供服务 / Claude is no longer available for minors",
+          "title_zh": "Claude不再为未成年人提供服务",
+          "title_en": "Claude is no longer available for minors",
+          "title_original": "Claude is no longer available for minors",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://support.claude.com/en/articles/15171100-age-assurance-on-claude",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-09-11T10:48:00Z"
+        },
+        {
+          "id": "7e541fb1561924944995ac316fd1a18d75c4d83c",
+          "title": "Claude不再为未成年人提供服务 / Claude is only available to people over 18 years",
+          "title_zh": "Claude不再为未成年人提供服务",
+          "title_en": "Claude is only available to people over 18 years",
+          "title_original": "Claude is only available to people over 18 years",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://support.claude.com/en/articles/15171100-age-assurance-on-claude",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-09-11T10:48:00Z"
+        }
+      ],
+      "source_count": 3,
+      "source_names": [
+        "Hacker News",
+        "Hacker News (黑客新闻)",
+        "support.claude.com"
+      ],
+      "items": [
+        {
+          "id": "8fe66307c93fbb48cc99817a1d55e016bd2d105d",
+          "title": "克劳德不再为未成年人提供服务",
+          "title_zh": "克劳德不再为未成年人提供服务",
+          "title_en": null,
+          "title_original": "克劳德不再为未成年人提供服务",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://support.claude.com/en/articles/15171100-age-assurance-on-claude",
+          "source": "support.claude.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-09-11T12:14:15.973000Z"
+        },
+        {
+          "id": "1818f8ae8dc89bac84c02cbdab5e6121a4dee1f0",
+          "title": "Claude不再为未成年人提供服务 / Claude is no longer available for minors",
+          "title_zh": "Claude不再为未成年人提供服务",
+          "title_en": "Claude is no longer available for minors",
+          "title_original": "Claude is no longer available for minors",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://support.claude.com/en/articles/15171100-age-assurance-on-claude",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-09-11T10:48:00Z"
+        },
+        {
+          "id": "7e541fb1561924944995ac316fd1a18d75c4d83c",
+          "title": "Claude不再为未成年人提供服务 / Claude is only available to people over 18 years",
+          "title_zh": "Claude不再为未成年人提供服务",
+          "title_en": "Claude is only available to people over 18 years",
+          "title_original": "Claude is only available to people over 18 years",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://support.claude.com/en/articles/15171100-age-assurance-on-claude",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-09-11T10:48:00Z"
+        }
+      ],
+      "item_count": 3,
+      "duplicate_count": 3,
+      "score": 0.5305,
+      "importance": 0.5305,
+      "importance_score": 0.5305,
+      "importance_label": "多源热议",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.7761,
+        "story_heat": 0.5
+      },
+      "category": "multi_source",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-09-11T10:48:00Z",
+      "latest_at": "2026-09-11T12:14:15.973000Z",
+      "primary_item": {
+        "id": "8fe66307c93fbb48cc99817a1d55e016bd2d105d",
+        "title": "克劳德不再为未成年人提供服务",
+        "title_zh": "克劳德不再为未成年人提供服务",
+        "title_en": null,
+        "title_original": "克劳德不再为未成年人提供服务",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://support.claude.com/en/articles/15171100-age-assurance-on-claude",
+        "source": "support.claude.com",
+        "source_name": "Buzzing"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-09-12T05:56:21.466315Z"
+      }
+    },
+    {
+      "story_id": "story_aff72a9138aa",
+      "title": "Hacker News 降低了人工智能驱动内容的优先级",
+      "url": "https://sprinklz.io/public/pdwt4dve5uai",
+      "primary_url": "https://sprinklz.io/public/pdwt4dve5uai",
+      "source": "sprinklz.io",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "8dd5672fca3641956c77b9cbbf4e1480acc96e96",
+          "title": "Hacker News 降低了人工智能驱动内容的优先级",
+          "title_zh": "Hacker News 降低了人工智能驱动内容的优先级",
+          "title_en": null,
+          "title_original": "Hacker News 降低了人工智能驱动内容的优先级",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://sprinklz.io/public/pdwt4dve5uai",
+          "source": "sprinklz.io",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-09-11T22:02:28.525000Z"
+        },
+        {
+          "id": "bb75781d9fb955098d8fe2ee62b0d37dca61d74e",
+          "title": "Hacker News 降低了人工智能驱动内容的优先级 / Hacker News with reduced priority for AI driven content",
+          "title_zh": "Hacker News 降低了人工智能驱动内容的优先级",
+          "title_en": "Hacker News with reduced priority for AI driven content",
+          "title_original": "Hacker News with reduced priority for AI driven content",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://sprinklz.io/public/pdwt4dve5uai",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-09-11T15:52:49Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News · 24h最热",
+        "sprinklz.io"
+      ],
+      "items": [
+        {
+          "id": "8dd5672fca3641956c77b9cbbf4e1480acc96e96",
+          "title": "Hacker News 降低了人工智能驱动内容的优先级",
+          "title_zh": "Hacker News 降低了人工智能驱动内容的优先级",
+          "title_en": null,
+          "title_original": "Hacker News 降低了人工智能驱动内容的优先级",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://sprinklz.io/public/pdwt4dve5uai",
+          "source": "sprinklz.io",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-09-11T22:02:28.525000Z"
+        },
+        {
+          "id": "bb75781d9fb955098d8fe2ee62b0d37dca61d74e",
+          "title": "Hacker News 降低了人工智能驱动内容的优先级 / Hacker News with reduced priority for AI driven content",
+          "title_zh": "Hacker News 降低了人工智能驱动内容的优先级",
+          "title_en": "Hacker News with reduced priority for AI driven content",
+          "title_original": "Hacker News with reduced priority for AI driven content",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://sprinklz.io/public/pdwt4dve5uai",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-09-11T15:52:49Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5267,
+      "importance": 0.5267,
+      "importance_score": 0.5267,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.8942,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-09-11T15:52:49Z",
+      "latest_at": "2026-09-11T22:02:28.525000Z",
+      "primary_item": {
+        "id": "8dd5672fca3641956c77b9cbbf4e1480acc96e96",
+        "title": "Hacker News 降低了人工智能驱动内容的优先级",
+        "title_zh": "Hacker News 降低了人工智能驱动内容的优先级",
+        "title_en": null,
+        "title_original": "Hacker News 降低了人工智能驱动内容的优先级",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://sprinklz.io/public/pdwt4dve5uai",
+        "source": "sprinklz.io",
+        "source_name": "Buzzing"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-09-12T05:56:21.466315Z"
       }
     }
   ]
