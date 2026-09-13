@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-13T04:43:12.001299Z",
+  "generated_at": "2026-09-13T04:47:22.906004Z",
   "window_hours": 24,
   "total_items": 14,
   "items": [
@@ -65,8 +65,8 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-09-13T04:43:12.001299Z",
-      "latest_at": "2026-09-13T04:43:12.001299Z",
+      "earliest_at": "2026-09-13T04:47:22.906004Z",
+      "latest_at": "2026-09-13T04:47:22.906004Z",
       "primary_item": {
         "id": "54b29e5d6f4765b0653d6e5e22c91217d622018b",
         "title": "Perplexity 信任 GPT-6 Astra 的端到端系统 / Perplexity trusts GPT-6 Astra with end-to-end systems",
@@ -83,7 +83,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-13T04:43:54.060940Z"
+        "scored_at": "2026-09-13T04:48:05.340703Z"
       }
     },
     {
@@ -131,15 +131,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8132,
-      "importance": 0.8132,
-      "importance_score": 0.8132,
+      "score": 0.813,
+      "importance": 0.813,
+      "importance_score": 0.813,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.8,
         "source_tier": 1.0,
         "ai_relevance": 1.0,
-        "recency": 0.8511,
+        "recency": 0.8503,
         "story_heat": 0.0
       },
       "category": "official",
@@ -165,7 +165,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-13T04:43:54.060940Z"
+        "scored_at": "2026-09-13T04:48:05.340703Z"
       }
     },
     {
@@ -213,15 +213,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7964,
-      "importance": 0.7964,
-      "importance_score": 0.7964,
+      "score": 0.7962,
+      "importance": 0.7962,
+      "importance_score": 0.7962,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.7,
         "source_tier": 1.0,
         "ai_relevance": 1.0,
-        "recency": 0.9244,
+        "recency": 0.9234,
         "story_heat": 0.0
       },
       "category": "official",
@@ -247,7 +247,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-13T04:43:54.060940Z"
+        "scored_at": "2026-09-13T04:48:05.340703Z"
       }
     },
     {
@@ -295,15 +295,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.757,
-      "importance": 0.757,
-      "importance_score": 0.757,
+      "score": 0.7568,
+      "importance": 0.7568,
+      "importance_score": 0.7568,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.82,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7742,
+        "recency": 0.7735,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -329,7 +329,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-13T04:43:54.060940Z"
+        "scored_at": "2026-09-13T04:48:05.340703Z"
       }
     },
     {
@@ -377,15 +377,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7445,
-      "importance": 0.7445,
-      "importance_score": 0.7445,
+      "score": 0.7444,
+      "importance": 0.7444,
+      "importance_score": 0.7444,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.74,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8384,
+        "recency": 0.8375,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -410,7 +410,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-13T04:43:54.060940Z"
+        "scored_at": "2026-09-13T04:48:05.340703Z"
       }
     },
     {
@@ -458,15 +458,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7428,
-      "importance": 0.7428,
-      "importance_score": 0.7428,
+      "score": 0.7426,
+      "importance": 0.7426,
+      "importance_score": 0.7426,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.71,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8789,
+        "recency": 0.878,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -491,7 +491,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-13T04:43:54.060940Z"
+        "scored_at": "2026-09-13T04:48:05.340703Z"
       }
     },
     {
@@ -539,15 +539,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.741,
-      "importance": 0.741,
-      "importance_score": 0.741,
+      "score": 0.7409,
+      "importance": 0.7409,
+      "importance_score": 0.7409,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.7,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8857,
+        "recency": 0.8848,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -572,7 +572,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-13T04:43:54.060940Z"
+        "scored_at": "2026-09-13T04:48:05.340703Z"
       }
     },
     {
@@ -620,15 +620,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7268,
-      "importance": 0.7268,
-      "importance_score": 0.7268,
+      "score": 0.7267,
+      "importance": 0.7267,
+      "importance_score": 0.7267,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.68,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8401,
+        "recency": 0.8393,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -653,7 +653,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-13T04:43:54.060940Z"
+        "scored_at": "2026-09-13T04:48:05.340703Z"
       }
     },
     {
@@ -679,7 +679,7 @@
           "published_at": "2026-09-12T20:19:16Z"
         },
         {
-          "id": "070e289de347596a4b07184785ff8bb7ea26dc9c",
+          "id": "85a498b61766d76b0b31dbaea0f0ddd802451b2c",
           "title": "OpenAI 的 Sam Altman 表示，在 2026 年上市是“不明智的” / OpenAI's Sam Altman says it would be 'ill-advised' to go public in 2026",
           "title_zh": "OpenAI 的 Sam Altman 表示，在 2026 年上市是“不明智的”",
           "title_en": "OpenAI's Sam Altman says it would be 'ill-advised' to go public in 2026",
@@ -687,15 +687,15 @@
           "summary": null,
           "recommend_reason_zh": null,
           "url": "https://techcrunch.com/2026/09/12/openais-sam-altman-says-it-would-be-ill-advised-to-go-public-in-2026",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
           "published_at": "2026-09-12T20:28:29Z"
         }
       ],
       "source_count": 2,
       "source_names": [
-        "Hacker News",
+        "Hacker News · 24h最热",
         "TechCrunch AI"
       ],
       "items": [
@@ -714,7 +714,7 @@
           "published_at": "2026-09-12T20:19:16Z"
         },
         {
-          "id": "070e289de347596a4b07184785ff8bb7ea26dc9c",
+          "id": "85a498b61766d76b0b31dbaea0f0ddd802451b2c",
           "title": "OpenAI 的 Sam Altman 表示，在 2026 年上市是“不明智的” / OpenAI's Sam Altman says it would be 'ill-advised' to go public in 2026",
           "title_zh": "OpenAI 的 Sam Altman 表示，在 2026 年上市是“不明智的”",
           "title_en": "OpenAI's Sam Altman says it would be 'ill-advised' to go public in 2026",
@@ -722,23 +722,23 @@
           "summary": null,
           "recommend_reason_zh": null,
           "url": "https://techcrunch.com/2026/09/12/openais-sam-altman-says-it-would-be-ill-advised-to-go-public-in-2026",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
           "published_at": "2026-09-12T20:28:29Z"
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.6407,
-      "importance": 0.6407,
-      "importance_score": 0.6407,
+      "score": 0.6405,
+      "importance": 0.6405,
+      "importance_score": 0.6405,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.5688,
         "source_tier": 0.58,
         "ai_relevance": 0.79,
-        "recency": 0.8858,
+        "recency": 0.8849,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -763,7 +763,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-13T04:43:54.060940Z"
+        "scored_at": "2026-09-13T04:48:05.340703Z"
       }
     },
     {
@@ -869,15 +869,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5601,
-      "importance": 0.5601,
-      "importance_score": 0.5601,
+      "score": 0.56,
+      "importance": 0.56,
+      "importance_score": 0.56,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9408,
+        "recency": 0.9399,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -902,7 +902,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-13T04:43:54.060940Z"
+        "scored_at": "2026-09-13T04:48:05.340703Z"
       }
     },
     {
@@ -979,15 +979,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5391,
-      "importance": 0.5391,
-      "importance_score": 0.5391,
+      "score": 0.5389,
+      "importance": 0.5389,
+      "importance_score": 0.5389,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9627,
+        "recency": 0.9617,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1012,7 +1012,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-13T04:43:54.060940Z"
+        "scored_at": "2026-09-13T04:48:05.340703Z"
       }
     },
     {
@@ -1038,7 +1038,7 @@
           "published_at": "2026-09-13T01:18:53.561000Z"
         },
         {
-          "id": "f27d0b416be8433b2751712b014d0cb9eca66ad8",
+          "id": "ab73b58de7e6496d28a0dd69e9c7d1ed0f358edd",
           "title": "Real-SWE：基于私有、真实世界的企业代码库对AI模型进行基准测试 / Real-SWE: Benchmarking AI models on private, real-world, enterprise codebases",
           "title_zh": "Real-SWE：基于私有、真实世界的企业代码库对AI模型进行基准测试",
           "title_en": "Real-SWE: Benchmarking AI models on private, real-world, enterprise codebases",
@@ -1046,15 +1046,15 @@
           "summary": null,
           "recommend_reason_zh": null,
           "url": "https://withspecific.com/benchmarks/real-swe",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
           "published_at": "2026-09-12T20:25:48Z"
         }
       ],
       "source_count": 2,
       "source_names": [
-        "Hacker News",
+        "Hacker News (黑客新闻)",
         "withspecific.com"
       ],
       "items": [
@@ -1073,7 +1073,7 @@
           "published_at": "2026-09-13T01:18:53.561000Z"
         },
         {
-          "id": "f27d0b416be8433b2751712b014d0cb9eca66ad8",
+          "id": "ab73b58de7e6496d28a0dd69e9c7d1ed0f358edd",
           "title": "Real-SWE：基于私有、真实世界的企业代码库对AI模型进行基准测试 / Real-SWE: Benchmarking AI models on private, real-world, enterprise codebases",
           "title_zh": "Real-SWE：基于私有、真实世界的企业代码库对AI模型进行基准测试",
           "title_en": "Real-SWE: Benchmarking AI models on private, real-world, enterprise codebases",
@@ -1081,23 +1081,23 @@
           "summary": null,
           "recommend_reason_zh": null,
           "url": "https://withspecific.com/benchmarks/real-swe",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
           "published_at": "2026-09-12T20:25:48Z"
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5372,
-      "importance": 0.5372,
-      "importance_score": 0.5372,
+      "score": 0.537,
+      "importance": 0.537,
+      "importance_score": 0.537,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.952,
+        "recency": 0.9511,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1122,7 +1122,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-13T04:43:54.060940Z"
+        "scored_at": "2026-09-13T04:48:05.340703Z"
       }
     },
     {
@@ -1199,15 +1199,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5177,
-      "importance": 0.5177,
-      "importance_score": 0.5177,
+      "score": 0.5175,
+      "importance": 0.5175,
+      "importance_score": 0.5175,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8437,
+        "recency": 0.8428,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1232,7 +1232,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-13T04:43:54.060940Z"
+        "scored_at": "2026-09-13T04:48:05.340703Z"
       }
     },
     {
@@ -1309,15 +1309,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5169,
-      "importance": 0.5169,
-      "importance_score": 0.5169,
+      "score": 0.5168,
+      "importance": 0.5168,
+      "importance_score": 0.5168,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8397,
+        "recency": 0.8389,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1342,7 +1342,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-13T04:43:54.060940Z"
+        "scored_at": "2026-09-13T04:48:05.340703Z"
       }
     }
   ]
