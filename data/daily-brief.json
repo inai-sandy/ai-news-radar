@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-13T01:47:17.408935Z",
+  "generated_at": "2026-09-13T02:47:15.789886Z",
   "window_hours": 24,
   "total_items": 14,
   "items": [
@@ -65,8 +65,8 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-09-13T01:47:17.408935Z",
-      "latest_at": "2026-09-13T01:47:17.408935Z",
+      "earliest_at": "2026-09-13T02:47:15.789886Z",
+      "latest_at": "2026-09-13T02:47:15.789886Z",
       "primary_item": {
         "id": "54b29e5d6f4765b0653d6e5e22c91217d622018b",
         "title": "Perplexity 信任 GPT-6 Astra 的端到端系统 / Perplexity trusts GPT-6 Astra with end-to-end systems",
@@ -83,7 +83,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-13T01:48:02.801646Z"
+        "scored_at": "2026-09-13T02:54:46.239374Z"
       }
     },
     {
@@ -131,15 +131,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8198,
-      "importance": 0.8198,
-      "importance_score": 0.8198,
+      "score": 0.8175,
+      "importance": 0.8175,
+      "importance_score": 0.8175,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.8,
         "source_tier": 1.0,
         "ai_relevance": 1.0,
-        "recency": 0.8879,
+        "recency": 0.8752,
         "story_heat": 0.0
       },
       "category": "official",
@@ -165,148 +165,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-13T01:48:02.801646Z"
-      }
-    },
-    {
-      "story_id": "story_4f105f17bfdc",
-      "title": "Minitap 指控 Google Artemis 未署名使用其开源项目 mobile-use 代码 / Google stole open source code without crediting the authors （Artemis/Minitap）",
-      "url": "https://www.minitap.ai/blog/i-expected-better-from-google",
-      "primary_url": "https://www.minitap.ai/blog/i-expected-better-from-google",
-      "source": "Hacker News：AI 热帖",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "91a1aa978a55d14effc686b12c95db2fee658b3d",
-          "title": "Minitap 指控 Google Artemis 未署名使用其开源项目 mobile-use 代码 / Google stole open source code without crediting the authors （Artemis/Minitap）",
-          "title_zh": "Minitap 指控 Google Artemis 未署名使用其开源项目 mobile-use 代码",
-          "title_en": "Google stole open source code without crediting the authors （Artemis/Minitap）",
-          "title_original": "Google stole open source code without crediting the authors （Artemis/Minitap）",
-          "summary": "Minitap 团队发文指认 Google 的移动设备自动化项目 Artemis 大量复用了其开源项目 mobile-use 的代码，包括完全一致的 Hopper agent 提示词和示例，却未在 README 中署名；更早的包文件曾列出三位作者，8 月一次 force push 将其替换为另一作者。",
-          "recommend_reason_zh": null,
-          "url": "https://www.minitap.ai/blog/i-expected-better-from-google",
-          "source": "Hacker News：AI 热帖",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-12T02:39:39Z"
-        },
-        {
-          "id": "dc157b82300112dd9d9e6e708a2586f74eabe0a6",
-          "title": "谷歌窃取了开源代码，却未注明作者（Artemis/Minitap）",
-          "title_zh": "谷歌窃取了开源代码，却未注明作者（Artemis/Minitap）",
-          "title_en": null,
-          "title_original": "谷歌窃取了开源代码，却未注明作者（Artemis/Minitap）",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.minitap.ai/blog/i-expected-better-from-google",
-          "source": "www.minitap.ai",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-09-12T05:37:39.339000Z"
-        },
-        {
-          "id": "86d3ffef67a216332afb31ac15e7e55c85322225",
-          "title": "Minitap 指控 Google Artemis 未署名使用其开源项目 mobile-use 代码 / Google stole open source code without crediting the authors (Artemis/Minitap)",
-          "title_zh": "Minitap 指控 Google Artemis 未署名使用其开源项目 mobile-use 代码",
-          "title_en": "Google stole open source code without crediting the authors (Artemis/Minitap)",
-          "title_original": "Google stole open source code without crediting the authors (Artemis/Minitap)",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.minitap.ai/blog/i-expected-better-from-google",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-09-12T02:39:39Z"
-        }
-      ],
-      "source_count": 3,
-      "source_names": [
-        "Hacker News · 24h最热",
-        "Hacker News：AI 热帖",
-        "www.minitap.ai"
-      ],
-      "items": [
-        {
-          "id": "91a1aa978a55d14effc686b12c95db2fee658b3d",
-          "title": "Minitap 指控 Google Artemis 未署名使用其开源项目 mobile-use 代码 / Google stole open source code without crediting the authors （Artemis/Minitap）",
-          "title_zh": "Minitap 指控 Google Artemis 未署名使用其开源项目 mobile-use 代码",
-          "title_en": "Google stole open source code without crediting the authors （Artemis/Minitap）",
-          "title_original": "Google stole open source code without crediting the authors （Artemis/Minitap）",
-          "summary": "Minitap 团队发文指认 Google 的移动设备自动化项目 Artemis 大量复用了其开源项目 mobile-use 的代码，包括完全一致的 Hopper agent 提示词和示例，却未在 README 中署名；更早的包文件曾列出三位作者，8 月一次 force push 将其替换为另一作者。",
-          "recommend_reason_zh": null,
-          "url": "https://www.minitap.ai/blog/i-expected-better-from-google",
-          "source": "Hacker News：AI 热帖",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-12T02:39:39Z"
-        },
-        {
-          "id": "dc157b82300112dd9d9e6e708a2586f74eabe0a6",
-          "title": "谷歌窃取了开源代码，却未注明作者（Artemis/Minitap）",
-          "title_zh": "谷歌窃取了开源代码，却未注明作者（Artemis/Minitap）",
-          "title_en": null,
-          "title_original": "谷歌窃取了开源代码，却未注明作者（Artemis/Minitap）",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.minitap.ai/blog/i-expected-better-from-google",
-          "source": "www.minitap.ai",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-09-12T05:37:39.339000Z"
-        },
-        {
-          "id": "86d3ffef67a216332afb31ac15e7e55c85322225",
-          "title": "Minitap 指控 Google Artemis 未署名使用其开源项目 mobile-use 代码 / Google stole open source code without crediting the authors (Artemis/Minitap)",
-          "title_zh": "Minitap 指控 Google Artemis 未署名使用其开源项目 mobile-use 代码",
-          "title_en": "Google stole open source code without crediting the authors (Artemis/Minitap)",
-          "title_original": "Google stole open source code without crediting the authors (Artemis/Minitap)",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.minitap.ai/blog/i-expected-better-from-google",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-09-12T02:39:39Z"
-        }
-      ],
-      "item_count": 3,
-      "duplicate_count": 3,
-      "score": 0.7785,
-      "importance": 0.7785,
-      "importance_score": 0.7785,
-      "importance_label": "多源热议",
-      "importance_breakdown": {
-        "editorial": 0.76,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7161,
-        "story_heat": 0.5
-      },
-      "category": "multi_source",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-12T02:39:39Z",
-      "latest_at": "2026-09-12T05:37:39.339000Z",
-      "primary_item": {
-        "id": "91a1aa978a55d14effc686b12c95db2fee658b3d",
-        "title": "Minitap 指控 Google Artemis 未署名使用其开源项目 mobile-use 代码 / Google stole open source code without crediting the authors （Artemis/Minitap）",
-        "title_zh": "Minitap 指控 Google Artemis 未署名使用其开源项目 mobile-use 代码",
-        "title_en": "Google stole open source code without crediting the authors （Artemis/Minitap）",
-        "title_original": "Google stole open source code without crediting the authors （Artemis/Minitap）",
-        "summary": "Minitap 团队发文指认 Google 的移动设备自动化项目 Artemis 大量复用了其开源项目 mobile-use 的代码，包括完全一致的 Hopper agent 提示词和示例，却未在 README 中署名；更早的包文件曾列出三位作者，8 月一次 force push 将其替换为另一作者。",
-        "recommend_reason_zh": null,
-        "url": "https://www.minitap.ai/blog/i-expected-better-from-google",
-        "source": "Hacker News：AI 热帖",
-        "source_name": "AI HOT"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-09-13T01:48:02.801646Z"
+        "scored_at": "2026-09-13T02:54:46.239374Z"
       }
     },
     {
@@ -354,15 +213,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8036,
-      "importance": 0.8036,
-      "importance_score": 0.8036,
+      "score": 0.8011,
+      "importance": 0.8011,
+      "importance_score": 0.8011,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.7,
         "source_tier": 1.0,
         "ai_relevance": 1.0,
-        "recency": 0.9643,
+        "recency": 0.9505,
         "story_heat": 0.0
       },
       "category": "official",
@@ -388,7 +247,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-13T01:48:02.801646Z"
+        "scored_at": "2026-09-13T02:54:46.239374Z"
       }
     },
     {
@@ -436,15 +295,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.763,
-      "importance": 0.763,
-      "importance_score": 0.763,
+      "score": 0.7609,
+      "importance": 0.7609,
+      "importance_score": 0.7609,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.82,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8077,
+        "recency": 0.7961,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -470,7 +329,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-13T01:48:02.801646Z"
+        "scored_at": "2026-09-13T02:54:46.239374Z"
       }
     },
     {
@@ -518,21 +377,20 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.751,
-      "importance": 0.751,
-      "importance_score": 0.751,
+      "score": 0.7488,
+      "importance": 0.7488,
+      "importance_score": 0.7488,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.74,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8746,
+        "recency": 0.8621,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-09-12T16:30:45Z",
       "latest_at": "2026-09-12T16:30:45Z",
@@ -552,7 +410,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-13T01:48:02.801646Z"
+        "scored_at": "2026-09-13T02:54:46.239374Z"
       }
     },
     {
@@ -600,15 +458,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7496,
-      "importance": 0.7496,
-      "importance_score": 0.7496,
+      "score": 0.7473,
+      "importance": 0.7473,
+      "importance_score": 0.7473,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.71,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9169,
+        "recency": 0.9038,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -633,7 +491,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-13T01:48:02.801646Z"
+        "scored_at": "2026-09-13T02:54:46.239374Z"
       }
     },
     {
@@ -681,15 +539,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7479,
-      "importance": 0.7479,
-      "importance_score": 0.7479,
+      "score": 0.7455,
+      "importance": 0.7455,
+      "importance_score": 0.7455,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.7,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.924,
+        "recency": 0.9107,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -714,7 +572,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-13T01:48:02.801646Z"
+        "scored_at": "2026-09-13T02:54:46.239374Z"
       }
     },
     {
@@ -762,15 +620,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7334,
-      "importance": 0.7334,
-      "importance_score": 0.7334,
+      "score": 0.7311,
+      "importance": 0.7311,
+      "importance_score": 0.7311,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.68,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8765,
+        "recency": 0.8639,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -795,7 +653,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-13T01:48:02.801646Z"
+        "scored_at": "2026-09-13T02:54:46.239374Z"
       }
     },
     {
@@ -872,15 +730,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.6476,
-      "importance": 0.6476,
-      "importance_score": 0.6476,
+      "score": 0.6452,
+      "importance": 0.6452,
+      "importance_score": 0.6452,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.5688,
         "source_tier": 0.58,
         "ai_relevance": 0.79,
-        "recency": 0.9241,
+        "recency": 0.9108,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -905,7 +763,256 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-13T01:48:02.801646Z"
+        "scored_at": "2026-09-13T02:54:46.239374Z"
+      }
+    },
+    {
+      "story_id": "story_f5e307da9ebe",
+      "title": "最糟糕的垃圾邮件：iLands AI代理的骗局",
+      "url": "https://tedium.co/2026/09/11/ilands-agents-email-spam-kaixin-tang",
+      "primary_url": "https://tedium.co/2026/09/11/ilands-agents-email-spam-kaixin-tang",
+      "source": "tedium.co",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "6a8048012db1b19c0c1149810968e9f51c194bbb",
+          "title": "最糟糕的垃圾邮件：iLands AI代理的骗局",
+          "title_zh": "最糟糕的垃圾邮件：iLands AI代理的骗局",
+          "title_en": null,
+          "title_original": "最糟糕的垃圾邮件：iLands AI代理的骗局",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://tedium.co/2026/09/11/ilands-agents-email-spam-kaixin-tang",
+          "source": "tedium.co",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-09-13T00:29:40.068000Z"
+        },
+        {
+          "id": "c61cb98023610d60fbdf5e96b115c4dbfe7cb41a",
+          "title": "最糟糕的垃圾邮件：iLands AI代理的骗局 / The Worst Spam Emails: Inside iLands' AI Agent Hustle",
+          "title_zh": "最糟糕的垃圾邮件：iLands AI代理的骗局",
+          "title_en": "The Worst Spam Emails: Inside iLands' AI Agent Hustle",
+          "title_original": "The Worst Spam Emails: Inside iLands' AI Agent Hustle",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://tedium.co/2026/09/11/ilands-agents-email-spam-kaixin-tang",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-09-12T11:13:38Z"
+        },
+        {
+          "id": "dc3a1c88b5597941096fd87acd653abc05d4967e",
+          "title": "最糟糕的垃圾邮件：iLands AI代理的骗局 / The worst spam emails: iLands AI agent hustle",
+          "title_zh": "最糟糕的垃圾邮件：iLands AI代理的骗局",
+          "title_en": "The worst spam emails: iLands AI agent hustle",
+          "title_original": "The worst spam emails: iLands AI agent hustle",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://tedium.co/2026/09/11/ilands-agents-email-spam-kaixin-tang",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-09-12T11:13:38Z"
+        }
+      ],
+      "source_count": 3,
+      "source_names": [
+        "Hacker News (黑客新闻)",
+        "Hacker News · 24h最热",
+        "tedium.co"
+      ],
+      "items": [
+        {
+          "id": "6a8048012db1b19c0c1149810968e9f51c194bbb",
+          "title": "最糟糕的垃圾邮件：iLands AI代理的骗局",
+          "title_zh": "最糟糕的垃圾邮件：iLands AI代理的骗局",
+          "title_en": null,
+          "title_original": "最糟糕的垃圾邮件：iLands AI代理的骗局",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://tedium.co/2026/09/11/ilands-agents-email-spam-kaixin-tang",
+          "source": "tedium.co",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-09-13T00:29:40.068000Z"
+        },
+        {
+          "id": "c61cb98023610d60fbdf5e96b115c4dbfe7cb41a",
+          "title": "最糟糕的垃圾邮件：iLands AI代理的骗局 / The Worst Spam Emails: Inside iLands' AI Agent Hustle",
+          "title_zh": "最糟糕的垃圾邮件：iLands AI代理的骗局",
+          "title_en": "The Worst Spam Emails: Inside iLands' AI Agent Hustle",
+          "title_original": "The Worst Spam Emails: Inside iLands' AI Agent Hustle",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://tedium.co/2026/09/11/ilands-agents-email-spam-kaixin-tang",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-09-12T11:13:38Z"
+        },
+        {
+          "id": "dc3a1c88b5597941096fd87acd653abc05d4967e",
+          "title": "最糟糕的垃圾邮件：iLands AI代理的骗局 / The worst spam emails: iLands AI agent hustle",
+          "title_zh": "最糟糕的垃圾邮件：iLands AI代理的骗局",
+          "title_en": "The worst spam emails: iLands AI agent hustle",
+          "title_original": "The worst spam emails: iLands AI agent hustle",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://tedium.co/2026/09/11/ilands-agents-email-spam-kaixin-tang",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-09-12T11:13:38Z"
+        }
+      ],
+      "item_count": 3,
+      "duplicate_count": 3,
+      "score": 0.5649,
+      "importance": 0.5649,
+      "importance_score": 0.5649,
+      "importance_label": "多源热议",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9674,
+        "story_heat": 0.5
+      },
+      "category": "multi_source",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-09-12T11:13:38Z",
+      "latest_at": "2026-09-13T00:29:40.068000Z",
+      "primary_item": {
+        "id": "6a8048012db1b19c0c1149810968e9f51c194bbb",
+        "title": "最糟糕的垃圾邮件：iLands AI代理的骗局",
+        "title_zh": "最糟糕的垃圾邮件：iLands AI代理的骗局",
+        "title_en": null,
+        "title_original": "最糟糕的垃圾邮件：iLands AI代理的骗局",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://tedium.co/2026/09/11/ilands-agents-email-spam-kaixin-tang",
+        "source": "tedium.co",
+        "source_name": "Buzzing"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-09-13T02:54:46.239374Z"
+      }
+    },
+    {
+      "story_id": "story_759bdd7a2753",
+      "title": "除了我之外，大家都应该放缓人工智能的发展步伐",
+      "url": "https://xeiaso.net/notes/2026/everyone-slowdown-but-me",
+      "primary_url": "https://xeiaso.net/notes/2026/everyone-slowdown-but-me",
+      "source": "xeiaso.net",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "7aa291d9469439362578a0e5a8e371c69020d4fb",
+          "title": "除了我之外，大家都应该放缓人工智能的发展步伐",
+          "title_zh": "除了我之外，大家都应该放缓人工智能的发展步伐",
+          "title_en": null,
+          "title_original": "除了我之外，大家都应该放缓人工智能的发展步伐",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://xeiaso.net/notes/2026/everyone-slowdown-but-me",
+          "source": "xeiaso.net",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-09-13T02:05:04.827000Z"
+        },
+        {
+          "id": "218b58b5c323bc49d26551cfd4e640d78aaf8ccb",
+          "title": "除了我之外，大家都应该放缓人工智能的发展步伐 / Everyone should slow down AI development except for me",
+          "title_zh": "除了我之外，大家都应该放缓人工智能的发展步伐",
+          "title_en": "Everyone should slow down AI development except for me",
+          "title_original": "Everyone should slow down AI development except for me",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://xeiaso.net/notes/2026/everyone-slowdown-but-me",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-09-13T00:30:44Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News",
+        "xeiaso.net"
+      ],
+      "items": [
+        {
+          "id": "7aa291d9469439362578a0e5a8e371c69020d4fb",
+          "title": "除了我之外，大家都应该放缓人工智能的发展步伐",
+          "title_zh": "除了我之外，大家都应该放缓人工智能的发展步伐",
+          "title_en": null,
+          "title_original": "除了我之外，大家都应该放缓人工智能的发展步伐",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://xeiaso.net/notes/2026/everyone-slowdown-but-me",
+          "source": "xeiaso.net",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-09-13T02:05:04.827000Z"
+        },
+        {
+          "id": "218b58b5c323bc49d26551cfd4e640d78aaf8ccb",
+          "title": "除了我之外，大家都应该放缓人工智能的发展步伐 / Everyone should slow down AI development except for me",
+          "title_zh": "除了我之外，大家都应该放缓人工智能的发展步伐",
+          "title_en": "Everyone should slow down AI development except for me",
+          "title_original": "Everyone should slow down AI development except for me",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://xeiaso.net/notes/2026/everyone-slowdown-but-me",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-09-13T00:30:44Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.544,
+      "importance": 0.544,
+      "importance_score": 0.544,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9899,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-09-13T00:30:44Z",
+      "latest_at": "2026-09-13T02:05:04.827000Z",
+      "primary_item": {
+        "id": "7aa291d9469439362578a0e5a8e371c69020d4fb",
+        "title": "除了我之外，大家都应该放缓人工智能的发展步伐",
+        "title_zh": "除了我之外，大家都应该放缓人工智能的发展步伐",
+        "title_en": null,
+        "title_original": "除了我之外，大家都应该放缓人工智能的发展步伐",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://xeiaso.net/notes/2026/everyone-slowdown-but-me",
+        "source": "xeiaso.net",
+        "source_name": "Buzzing"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-09-13T02:54:46.239374Z"
       }
     },
     {
@@ -982,15 +1089,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5446,
-      "importance": 0.5446,
-      "importance_score": 0.5446,
+      "score": 0.542,
+      "importance": 0.542,
+      "importance_score": 0.542,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9932,
+        "recency": 0.979,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1015,117 +1122,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-13T01:48:02.801646Z"
-      }
-    },
-    {
-      "story_id": "story_f5e307da9ebe",
-      "title": "最糟糕的垃圾邮件：iLands AI代理的骗局",
-      "url": "https://tedium.co/2026/09/11/ilands-agents-email-spam-kaixin-tang",
-      "primary_url": "https://tedium.co/2026/09/11/ilands-agents-email-spam-kaixin-tang",
-      "source": "tedium.co",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "6a8048012db1b19c0c1149810968e9f51c194bbb",
-          "title": "最糟糕的垃圾邮件：iLands AI代理的骗局",
-          "title_zh": "最糟糕的垃圾邮件：iLands AI代理的骗局",
-          "title_en": null,
-          "title_original": "最糟糕的垃圾邮件：iLands AI代理的骗局",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://tedium.co/2026/09/11/ilands-agents-email-spam-kaixin-tang",
-          "source": "tedium.co",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-09-13T00:29:40.068000Z"
-        },
-        {
-          "id": "c61cb98023610d60fbdf5e96b115c4dbfe7cb41a",
-          "title": "最糟糕的垃圾邮件：iLands AI代理的骗局 / The Worst Spam Emails: Inside iLands' AI Agent Hustle",
-          "title_zh": "最糟糕的垃圾邮件：iLands AI代理的骗局",
-          "title_en": "The Worst Spam Emails: Inside iLands' AI Agent Hustle",
-          "title_original": "The Worst Spam Emails: Inside iLands' AI Agent Hustle",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://tedium.co/2026/09/11/ilands-agents-email-spam-kaixin-tang",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-09-12T11:13:38Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News (黑客新闻)",
-        "tedium.co"
-      ],
-      "items": [
-        {
-          "id": "6a8048012db1b19c0c1149810968e9f51c194bbb",
-          "title": "最糟糕的垃圾邮件：iLands AI代理的骗局",
-          "title_zh": "最糟糕的垃圾邮件：iLands AI代理的骗局",
-          "title_en": null,
-          "title_original": "最糟糕的垃圾邮件：iLands AI代理的骗局",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://tedium.co/2026/09/11/ilands-agents-email-spam-kaixin-tang",
-          "source": "tedium.co",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-09-13T00:29:40.068000Z"
-        },
-        {
-          "id": "c61cb98023610d60fbdf5e96b115c4dbfe7cb41a",
-          "title": "最糟糕的垃圾邮件：iLands AI代理的骗局 / The Worst Spam Emails: Inside iLands' AI Agent Hustle",
-          "title_zh": "最糟糕的垃圾邮件：iLands AI代理的骗局",
-          "title_en": "The Worst Spam Emails: Inside iLands' AI Agent Hustle",
-          "title_original": "The Worst Spam Emails: Inside iLands' AI Agent Hustle",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://tedium.co/2026/09/11/ilands-agents-email-spam-kaixin-tang",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-09-12T11:13:38Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5425,
-      "importance": 0.5425,
-      "importance_score": 0.5425,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.9815,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-09-12T11:13:38Z",
-      "latest_at": "2026-09-13T00:29:40.068000Z",
-      "primary_item": {
-        "id": "6a8048012db1b19c0c1149810968e9f51c194bbb",
-        "title": "最糟糕的垃圾邮件：iLands AI代理的骗局",
-        "title_zh": "最糟糕的垃圾邮件：iLands AI代理的骗局",
-        "title_en": null,
-        "title_original": "最糟糕的垃圾邮件：iLands AI代理的骗局",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://tedium.co/2026/09/11/ilands-agents-email-spam-kaixin-tang",
-        "source": "tedium.co",
-        "source_name": "Buzzing"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-09-13T01:48:02.801646Z"
+        "scored_at": "2026-09-13T02:54:46.239374Z"
       }
     },
     {
@@ -1202,15 +1199,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5242,
-      "importance": 0.5242,
-      "importance_score": 0.5242,
+      "score": 0.522,
+      "importance": 0.522,
+      "importance_score": 0.522,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8802,
+        "recency": 0.8675,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1235,7 +1232,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-13T01:48:02.801646Z"
+        "scored_at": "2026-09-13T02:54:46.239374Z"
       }
     },
     {
@@ -1312,15 +1309,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5235,
-      "importance": 0.5235,
-      "importance_score": 0.5235,
+      "score": 0.5212,
+      "importance": 0.5212,
+      "importance_score": 0.5212,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.876,
+        "recency": 0.8635,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1345,7 +1342,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-13T01:48:02.801646Z"
+        "scored_at": "2026-09-13T02:54:46.239374Z"
       }
     }
   ]
