@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-09-13T14:22:53.411152Z",
+  "generated_at": "2026-09-13T14:47:18.832356Z",
   "window_hours": 24,
-  "total_items": 14,
+  "total_items": 13,
   "items": [
     {
       "story_id": "story_86ff3d2b9b70",
@@ -65,8 +65,8 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-09-13T14:22:53.411152Z",
-      "latest_at": "2026-09-13T14:22:53.411152Z",
+      "earliest_at": "2026-09-13T14:47:18.832356Z",
+      "latest_at": "2026-09-13T14:47:18.832356Z",
       "primary_item": {
         "id": "54b29e5d6f4765b0653d6e5e22c91217d622018b",
         "title": "Perplexity 信任 GPT-6 Astra 的端到端系统 / Perplexity trusts GPT-6 Astra with end-to-end systems",
@@ -83,7 +83,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-13T14:31:59.084038Z"
+        "scored_at": "2026-09-13T14:54:54.315224Z"
       }
     },
     {
@@ -131,15 +131,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7933,
-      "importance": 0.7933,
-      "importance_score": 0.7933,
+      "score": 0.7925,
+      "importance": 0.7925,
+      "importance_score": 0.7925,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.8,
         "source_tier": 1.0,
         "ai_relevance": 1.0,
-        "recency": 0.7403,
+        "recency": 0.7359,
         "story_heat": 0.0
       },
       "category": "official",
@@ -165,7 +165,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-13T14:31:59.084038Z"
+        "scored_at": "2026-09-13T14:54:54.315224Z"
       }
     },
     {
@@ -206,8 +206,8 @@
         },
         {
           "id": "ea41f1395d3cfd068cf428a70a2de28b629df868",
-          "title": "英伟达是人工智能领域的\"中央银行\" / Nvidia is the central bank of AI",
-          "title_zh": "英伟达是人工智能领域的\"中央银行\"",
+          "title": "英伟达是人工智能领域的“中央银行” / Nvidia is the central bank of AI",
+          "title_zh": "英伟达是人工智能领域的“中央银行”",
           "title_en": "Nvidia is the central bank of AI",
           "title_original": "Nvidia is the central bank of AI",
           "summary": null,
@@ -256,8 +256,8 @@
         },
         {
           "id": "ea41f1395d3cfd068cf428a70a2de28b629df868",
-          "title": "英伟达是人工智能领域的\"中央银行\" / Nvidia is the central bank of AI",
-          "title_zh": "英伟达是人工智能领域的\"中央银行\"",
+          "title": "英伟达是人工智能领域的“中央银行” / Nvidia is the central bank of AI",
+          "title_zh": "英伟达是人工智能领域的“中央银行”",
           "title_en": "Nvidia is the central bank of AI",
           "title_original": "Nvidia is the central bank of AI",
           "summary": null,
@@ -271,15 +271,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.7811,
-      "importance": 0.7811,
-      "importance_score": 0.7811,
+      "score": 0.7803,
+      "importance": 0.7803,
+      "importance_score": 0.7803,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.76,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7304,
+        "recency": 0.7261,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -306,7 +306,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-13T14:31:59.084038Z"
+        "scored_at": "2026-09-13T14:54:54.315224Z"
       }
     },
     {
@@ -354,15 +354,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7649,
-      "importance": 0.7649,
-      "importance_score": 0.7649,
+      "score": 0.764,
+      "importance": 0.764,
+      "importance_score": 0.764,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.78,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8852,
+        "recency": 0.88,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -388,7 +388,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-13T14:31:59.084038Z"
+        "scored_at": "2026-09-13T14:54:54.315224Z"
       }
     },
     {
@@ -465,15 +465,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7499,
-      "importance": 0.7499,
-      "importance_score": 0.7499,
+      "score": 0.7491,
+      "importance": 0.7491,
+      "importance_score": 0.7491,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.74,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7292,
+        "recency": 0.7249,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -499,7 +499,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-13T14:31:59.084038Z"
+        "scored_at": "2026-09-13T14:54:54.315224Z"
       }
     },
     {
@@ -576,15 +576,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7472,
-      "importance": 0.7472,
-      "importance_score": 0.7472,
+      "score": 0.7464,
+      "importance": 0.7464,
+      "importance_score": 0.7464,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.71,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7645,
+        "recency": 0.76,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -610,7 +610,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-13T14:31:59.084038Z"
+        "scored_at": "2026-09-13T14:54:54.315224Z"
       }
     },
     {
@@ -658,15 +658,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7747,
-      "importance": 0.7747,
-      "importance_score": 0.7747,
+      "score": 0.7739,
+      "importance": 0.7739,
+      "importance_score": 0.7739,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.7,
         "source_tier": 1.0,
         "ai_relevance": 1.0,
-        "recency": 0.804,
+        "recency": 0.7993,
         "story_heat": 0.0
       },
       "category": "official",
@@ -692,88 +692,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-13T14:31:59.084038Z"
-      }
-    },
-    {
-      "story_id": "story_f01e6682c6a0",
-      "title": "Dario Amodei 发文呼吁 AI 行业放慢前沿速度并公布三步计划 / Please read this essay. The transformative potential of AI to bring immense benefits to the world r…",
-      "url": "https://x.com/PeterMcCrory/status/2098868931071226252",
-      "primary_url": "https://x.com/PeterMcCrory/status/2098868931071226252",
-      "source": "X：Peter McCrory（Anthropic 首席经济学家，@PeterMcCrory）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "fc265156e1361beb3a5e3d57c63b75562d60c0d6",
-          "title": "Dario Amodei 发文呼吁 AI 行业放慢前沿速度并公布三步计划 / Please read this essay. The transformative potential of AI to bring immense benefits to the world r…",
-          "title_zh": "Dario Amodei 发文呼吁 AI 行业放慢前沿速度并公布三步计划",
-          "title_en": "Please read this essay. The transformative potential of AI to bring immense benefits to the world r…",
-          "title_original": "Please read this essay. The transformative potential of AI to bring immense benefits to the world r…",
-          "summary": "Dario Amodei 发布新文章 We Must Pace the Frontier，主张 AI 行业应放慢速度，并提出三部分计划。Anthropic 单方面承诺第一步，为第三方评估者提供永久的员工级系统访问权限，以核实安全措施执行、报告事故并评估训练期间模型的 alignment。",
-          "recommend_reason_zh": null,
-          "url": "https://x.com/PeterMcCrory/status/2098868931071226252",
-          "source": "X：Peter McCrory（Anthropic 首席经济学家，@PeterMcCrory）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-12T20:18:42Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "X：Peter McCrory（Anthropic 首席经济学家，@PeterMcCrory）"
-      ],
-      "items": [
-        {
-          "id": "fc265156e1361beb3a5e3d57c63b75562d60c0d6",
-          "title": "Dario Amodei 发文呼吁 AI 行业放慢前沿速度并公布三步计划 / Please read this essay. The transformative potential of AI to bring immense benefits to the world r…",
-          "title_zh": "Dario Amodei 发文呼吁 AI 行业放慢前沿速度并公布三步计划",
-          "title_en": "Please read this essay. The transformative potential of AI to bring immense benefits to the world r…",
-          "title_original": "Please read this essay. The transformative potential of AI to bring immense benefits to the world r…",
-          "summary": "Dario Amodei 发布新文章 We Must Pace the Frontier，主张 AI 行业应放慢速度，并提出三部分计划。Anthropic 单方面承诺第一步，为第三方评估者提供永久的员工级系统访问权限，以核实安全措施执行、报告事故并评估训练期间模型的 alignment。",
-          "recommend_reason_zh": null,
-          "url": "https://x.com/PeterMcCrory/status/2098868931071226252",
-          "source": "X：Peter McCrory（Anthropic 首席经济学家，@PeterMcCrory）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-12T20:18:42Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7203,
-      "importance": 0.7203,
-      "importance_score": 0.7203,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.7,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7703,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-09-12T20:18:42Z",
-      "latest_at": "2026-09-12T20:18:42Z",
-      "primary_item": {
-        "id": "fc265156e1361beb3a5e3d57c63b75562d60c0d6",
-        "title": "Dario Amodei 发文呼吁 AI 行业放慢前沿速度并公布三步计划 / Please read this essay. The transformative potential of AI to bring immense benefits to the world r…",
-        "title_zh": "Dario Amodei 发文呼吁 AI 行业放慢前沿速度并公布三步计划",
-        "title_en": "Please read this essay. The transformative potential of AI to bring immense benefits to the world r…",
-        "title_original": "Please read this essay. The transformative potential of AI to bring immense benefits to the world r…",
-        "summary": "Dario Amodei 发布新文章 We Must Pace the Frontier，主张 AI 行业应放慢速度，并提出三部分计划。Anthropic 单方面承诺第一步，为第三方评估者提供永久的员工级系统访问权限，以核实安全措施执行、报告事故并评估训练期间模型的 alignment。",
-        "recommend_reason_zh": null,
-        "url": "https://x.com/PeterMcCrory/status/2098868931071226252",
-        "source": "X：Peter McCrory（Anthropic 首席经济学家，@PeterMcCrory）",
-        "source_name": "AI HOT"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-09-13T14:31:59.084038Z"
+        "scored_at": "2026-09-13T14:54:54.315224Z"
       }
     },
     {
@@ -850,15 +769,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.6199,
-      "importance": 0.6199,
-      "importance_score": 0.6199,
+      "score": 0.6191,
+      "importance": 0.6191,
+      "importance_score": 0.6191,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.5688,
         "source_tier": 0.58,
         "ai_relevance": 0.79,
-        "recency": 0.7704,
+        "recency": 0.7659,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -883,7 +802,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-13T14:31:59.084038Z"
+        "scored_at": "2026-09-13T14:54:54.315224Z"
       }
     },
     {
@@ -960,15 +879,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5303,
-      "importance": 0.5303,
-      "importance_score": 0.5303,
+      "score": 0.5293,
+      "importance": 0.5293,
+      "importance_score": 0.5293,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9136,
+        "recency": 0.9083,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -993,7 +912,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-13T14:31:59.084038Z"
+        "scored_at": "2026-09-13T14:54:54.315224Z"
       }
     },
     {
@@ -1070,15 +989,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5283,
-      "importance": 0.5283,
-      "importance_score": 0.5283,
+      "score": 0.5273,
+      "importance": 0.5273,
+      "importance_score": 0.5273,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9026,
+        "recency": 0.8974,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1103,7 +1022,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-13T14:31:59.084038Z"
+        "scored_at": "2026-09-13T14:54:54.315224Z"
       }
     },
     {
@@ -1180,15 +1099,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5165,
-      "importance": 0.5165,
-      "importance_score": 0.5165,
+      "score": 0.5156,
+      "importance": 0.5156,
+      "importance_score": 0.5156,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8373,
+        "recency": 0.8324,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1213,7 +1132,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-13T14:31:59.084038Z"
+        "scored_at": "2026-09-13T14:54:54.315224Z"
       }
     },
     {
@@ -1290,15 +1209,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5148,
-      "importance": 0.5148,
-      "importance_score": 0.5148,
+      "score": 0.514,
+      "importance": 0.514,
+      "importance_score": 0.514,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.828,
+        "recency": 0.8232,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1323,7 +1242,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-13T14:31:59.084038Z"
+        "scored_at": "2026-09-13T14:54:54.315224Z"
       }
     },
     {
@@ -1400,15 +1319,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4979,
-      "importance": 0.4979,
-      "importance_score": 0.4979,
+      "score": 0.4971,
+      "importance": 0.4971,
+      "importance_score": 0.4971,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7338,
+        "recency": 0.7295,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1433,7 +1352,7 @@
       "persona_score": 0,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-13T14:31:59.084038Z"
+        "scored_at": "2026-09-13T14:54:54.315224Z"
       }
     }
   ]
