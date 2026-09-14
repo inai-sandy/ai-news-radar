@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-09-14T00:47:18.190041Z",
+  "generated_at": "2026-09-14T01:47:14.055928Z",
   "window_hours": 24,
-  "total_items": 9,
+  "total_items": 15,
   "items": [
     {
       "story_id": "story_86ff3d2b9b70",
@@ -48,15 +48,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.858,
-      "importance": 0.858,
-      "importance_score": 0.858,
+      "score": 0.8554,
+      "importance": 0.8554,
+      "importance_score": 0.8554,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.9887,
+        "recency": 0.9745,
         "story_heat": 0.0
       },
       "category": "official",
@@ -83,7 +83,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-14T01:03:35.080864Z"
+        "scored_at": "2026-09-14T02:03:56.666726Z"
       }
     },
     {
@@ -160,15 +160,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.8062,
-      "importance": 0.8062,
-      "importance_score": 0.8062,
+      "score": 0.804,
+      "importance": 0.804,
+      "importance_score": 0.804,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.85,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.859,
+        "recency": 0.8467,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -195,7 +195,89 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-14T01:03:35.080864Z"
+        "scored_at": "2026-09-14T02:03:56.666726Z"
+      }
+    },
+    {
+      "story_id": "story_c751bec5886c",
+      "title": "Anthropic CEO呼吁全行业放缓 AI 发展，马斯克与奥特曼齐声赞同",
+      "url": "https://www.aibase.com/news/31008",
+      "primary_url": "https://www.aibase.com/news/31008",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "fcaab7f4aab5fd8c9a99d7b8783b6ea2ab2a7e76",
+          "title": "Anthropic CEO呼吁全行业放缓 AI 发展，马斯克与奥特曼齐声赞同",
+          "title_zh": "Anthropic CEO呼吁全行业放缓 AI 发展，马斯克与奥特曼齐声赞同",
+          "title_en": null,
+          "title_original": "Anthropic CEO呼吁全行业放缓 AI 发展，马斯克与奥特曼齐声赞同",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/31008",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-09-14T01:47:14.055928Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "fcaab7f4aab5fd8c9a99d7b8783b6ea2ab2a7e76",
+          "title": "Anthropic CEO呼吁全行业放缓 AI 发展，马斯克与奥特曼齐声赞同",
+          "title_zh": "Anthropic CEO呼吁全行业放缓 AI 发展，马斯克与奥特曼齐声赞同",
+          "title_en": null,
+          "title_original": "Anthropic CEO呼吁全行业放缓 AI 发展，马斯克与奥特曼齐声赞同",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/31008",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-09-14T01:47:14.055928Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7676,
+      "importance": 0.7676,
+      "importance_score": 0.7676,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-14T01:47:14.055928Z",
+      "latest_at": "2026-09-14T01:47:14.055928Z",
+      "primary_item": {
+        "id": "fcaab7f4aab5fd8c9a99d7b8783b6ea2ab2a7e76",
+        "title": "Anthropic CEO呼吁全行业放缓 AI 发展，马斯克与奥特曼齐声赞同",
+        "title_zh": "Anthropic CEO呼吁全行业放缓 AI 发展，马斯克与奥特曼齐声赞同",
+        "title_en": null,
+        "title_original": "Anthropic CEO呼吁全行业放缓 AI 发展，马斯克与奥特曼齐声赞同",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://www.aibase.com/news/31008",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-09-14T02:03:56.666726Z"
       }
     },
     {
@@ -243,15 +325,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7427,
-      "importance": 0.7427,
-      "importance_score": 0.7427,
+      "score": 0.7407,
+      "importance": 0.7407,
+      "importance_score": 0.7407,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.78,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7617,
+        "recency": 0.7507,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -276,88 +358,499 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-14T01:03:35.080864Z"
+        "scored_at": "2026-09-14T02:03:56.666726Z"
       }
     },
     {
-      "story_id": "story_e5571e6173d7",
-      "title": "Gary Marcus 评 Dario Amodei 的放慢 AI 发展提议：三份赞誉加两分怀疑 / Two cheers （out of three） for Dario Amodei",
-      "url": "https://garymarcus.substack.com/p/two-cheers-out-of-three-for-dario",
-      "primary_url": "https://garymarcus.substack.com/p/two-cheers-out-of-three-for-dario",
-      "source": "Gary Marcus：The Road to AI We Can Trust（RSS）",
-      "source_name": "AI HOT",
+      "story_id": "story_ebd0e66ec1cc",
+      "title": "OpenAI 确认年内不上市：风险警示引发科技板块震动，软银股价重挫 13%",
+      "url": "https://www.aibase.com/news/31004",
+      "primary_url": "https://www.aibase.com/news/31004",
+      "source": "AIbase",
+      "source_name": "AIbase",
       "sources": [
         {
-          "id": "26cddc9feefad5509b15deb9c8ffc3e537f37a0a",
-          "title": "Gary Marcus 评 Dario Amodei 的放慢 AI 发展提议：三份赞誉加两分怀疑 / Two cheers （out of three） for Dario Amodei",
-          "title_zh": "Gary Marcus 评 Dario Amodei 的放慢 AI 发展提议：三份赞誉加两分怀疑",
-          "title_en": "Two cheers （out of three） for Dario Amodei",
-          "title_original": "Two cheers （out of three） for Dario Amodei",
-          "summary": "Gary Marcus 评析 Dario Amodei 倡导放慢 AI 发展并支持透明度的文章，Sam Altman 与 Elon Musk 迅速表示认同。Marcus 肯定其透明度承诺，但列举多方质疑：METR 与 AI 公司关系过近、Anthropic 借对华威胁维持加速、以及该提议可能意在抢先于真正的监管。",
+          "id": "b7b7ed5c17d41064ae28afdfd8a38b9456c7ffe7",
+          "title": "OpenAI 确认年内不上市：风险警示引发科技板块震动，软银股价重挫 13%",
+          "title_zh": "OpenAI 确认年内不上市：风险警示引发科技板块震动，软银股价重挫 13%",
+          "title_en": null,
+          "title_original": "OpenAI 确认年内不上市：风险警示引发科技板块震动，软银股价重挫 13%",
+          "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://garymarcus.substack.com/p/two-cheers-out-of-three-for-dario",
-          "source": "Gary Marcus：The Road to AI We Can Trust（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-13T18:34:31Z"
+          "url": "https://www.aibase.com/news/31004",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-09-14T01:47:14.055928Z"
         }
       ],
       "source_count": 1,
       "source_names": [
-        "Gary Marcus：The Road to AI We Can Trust（RSS）"
+        "AIbase"
       ],
       "items": [
         {
-          "id": "26cddc9feefad5509b15deb9c8ffc3e537f37a0a",
-          "title": "Gary Marcus 评 Dario Amodei 的放慢 AI 发展提议：三份赞誉加两分怀疑 / Two cheers （out of three） for Dario Amodei",
-          "title_zh": "Gary Marcus 评 Dario Amodei 的放慢 AI 发展提议：三份赞誉加两分怀疑",
-          "title_en": "Two cheers （out of three） for Dario Amodei",
-          "title_original": "Two cheers （out of three） for Dario Amodei",
-          "summary": "Gary Marcus 评析 Dario Amodei 倡导放慢 AI 发展并支持透明度的文章，Sam Altman 与 Elon Musk 迅速表示认同。Marcus 肯定其透明度承诺，但列举多方质疑：METR 与 AI 公司关系过近、Anthropic 借对华威胁维持加速、以及该提议可能意在抢先于真正的监管。",
+          "id": "b7b7ed5c17d41064ae28afdfd8a38b9456c7ffe7",
+          "title": "OpenAI 确认年内不上市：风险警示引发科技板块震动，软银股价重挫 13%",
+          "title_zh": "OpenAI 确认年内不上市：风险警示引发科技板块震动，软银股价重挫 13%",
+          "title_en": null,
+          "title_original": "OpenAI 确认年内不上市：风险警示引发科技板块震动，软银股价重挫 13%",
+          "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://garymarcus.substack.com/p/two-cheers-out-of-three-for-dario",
-          "source": "Gary Marcus：The Road to AI We Can Trust（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-13T18:34:31Z"
+          "url": "https://www.aibase.com/news/31004",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-09-14T01:47:14.055928Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7222,
-      "importance": 0.7222,
-      "importance_score": 0.7222,
+      "score": 0.7676,
+      "importance": 0.7676,
+      "importance_score": 0.7676,
       "importance_label": "行业动态",
       "importance_breakdown": {
-        "editorial": 0.62,
+        "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9142,
+        "recency": 1.0,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance"
+        "high_ai_relevance",
+        "high_importance"
       ],
-      "earliest_at": "2026-09-13T18:34:31Z",
-      "latest_at": "2026-09-13T18:34:31Z",
+      "earliest_at": "2026-09-14T01:47:14.055928Z",
+      "latest_at": "2026-09-14T01:47:14.055928Z",
       "primary_item": {
-        "id": "26cddc9feefad5509b15deb9c8ffc3e537f37a0a",
-        "title": "Gary Marcus 评 Dario Amodei 的放慢 AI 发展提议：三份赞誉加两分怀疑 / Two cheers （out of three） for Dario Amodei",
-        "title_zh": "Gary Marcus 评 Dario Amodei 的放慢 AI 发展提议：三份赞誉加两分怀疑",
-        "title_en": "Two cheers （out of three） for Dario Amodei",
-        "title_original": "Two cheers （out of three） for Dario Amodei",
-        "summary": "Gary Marcus 评析 Dario Amodei 倡导放慢 AI 发展并支持透明度的文章，Sam Altman 与 Elon Musk 迅速表示认同。Marcus 肯定其透明度承诺，但列举多方质疑：METR 与 AI 公司关系过近、Anthropic 借对华威胁维持加速、以及该提议可能意在抢先于真正的监管。",
+        "id": "b7b7ed5c17d41064ae28afdfd8a38b9456c7ffe7",
+        "title": "OpenAI 确认年内不上市：风险警示引发科技板块震动，软银股价重挫 13%",
+        "title_zh": "OpenAI 确认年内不上市：风险警示引发科技板块震动，软银股价重挫 13%",
+        "title_en": null,
+        "title_original": "OpenAI 确认年内不上市：风险警示引发科技板块震动，软银股价重挫 13%",
+        "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://garymarcus.substack.com/p/two-cheers-out-of-three-for-dario",
-        "source": "Gary Marcus：The Road to AI We Can Trust（RSS）",
-        "source_name": "AI HOT"
+        "url": "https://www.aibase.com/news/31004",
+        "source": "AIbase",
+        "source_name": "AIbase"
       },
       "persona_id": "pragmatic",
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-14T01:03:35.080864Z"
+        "scored_at": "2026-09-14T02:03:56.666726Z"
+      }
+    },
+    {
+      "story_id": "story_0fe0151f08d9",
+      "title": "OpenAI确认暂缓上市计划 Sam Altman称2026年IPO并不明智",
+      "url": "https://www.aibase.com/news/31005",
+      "primary_url": "https://www.aibase.com/news/31005",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "da0bf8b28b3bc705e329dd4cd0fe10e2f79b8fbf",
+          "title": "OpenAI确认暂缓上市计划 Sam Altman称2026年IPO并不明智",
+          "title_zh": "OpenAI确认暂缓上市计划 Sam Altman称2026年IPO并不明智",
+          "title_en": null,
+          "title_original": "OpenAI确认暂缓上市计划 Sam Altman称2026年IPO并不明智",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/31005",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-09-14T01:47:14.055928Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "da0bf8b28b3bc705e329dd4cd0fe10e2f79b8fbf",
+          "title": "OpenAI确认暂缓上市计划 Sam Altman称2026年IPO并不明智",
+          "title_zh": "OpenAI确认暂缓上市计划 Sam Altman称2026年IPO并不明智",
+          "title_en": null,
+          "title_original": "OpenAI确认暂缓上市计划 Sam Altman称2026年IPO并不明智",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/31005",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-09-14T01:47:14.055928Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7676,
+      "importance": 0.7676,
+      "importance_score": 0.7676,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-14T01:47:14.055928Z",
+      "latest_at": "2026-09-14T01:47:14.055928Z",
+      "primary_item": {
+        "id": "da0bf8b28b3bc705e329dd4cd0fe10e2f79b8fbf",
+        "title": "OpenAI确认暂缓上市计划 Sam Altman称2026年IPO并不明智",
+        "title_zh": "OpenAI确认暂缓上市计划 Sam Altman称2026年IPO并不明智",
+        "title_en": null,
+        "title_original": "OpenAI确认暂缓上市计划 Sam Altman称2026年IPO并不明智",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://www.aibase.com/news/31005",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-09-14T02:03:56.666726Z"
+      }
+    },
+    {
+      "story_id": "story_fe9bcb863f7c",
+      "title": "vLLM-Omni 与 FastH3 助力 MiniMax H3 迈入实时服务时代",
+      "url": "https://www.aibase.com/news/31010",
+      "primary_url": "https://www.aibase.com/news/31010",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "403252cf441295b0d8d11183dffe2cfb6b895d1a",
+          "title": "vLLM-Omni 与 FastH3 助力 MiniMax H3 迈入实时服务时代",
+          "title_zh": "vLLM-Omni 与 FastH3 助力 MiniMax H3 迈入实时服务时代",
+          "title_en": null,
+          "title_original": "vLLM-Omni 与 FastH3 助力 MiniMax H3 迈入实时服务时代",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/31010",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-09-14T01:47:14.055928Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "403252cf441295b0d8d11183dffe2cfb6b895d1a",
+          "title": "vLLM-Omni 与 FastH3 助力 MiniMax H3 迈入实时服务时代",
+          "title_zh": "vLLM-Omni 与 FastH3 助力 MiniMax H3 迈入实时服务时代",
+          "title_en": null,
+          "title_original": "vLLM-Omni 与 FastH3 助力 MiniMax H3 迈入实时服务时代",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/31010",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-09-14T01:47:14.055928Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7676,
+      "importance": 0.7676,
+      "importance_score": 0.7676,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-14T01:47:14.055928Z",
+      "latest_at": "2026-09-14T01:47:14.055928Z",
+      "primary_item": {
+        "id": "403252cf441295b0d8d11183dffe2cfb6b895d1a",
+        "title": "vLLM-Omni 与 FastH3 助力 MiniMax H3 迈入实时服务时代",
+        "title_zh": "vLLM-Omni 与 FastH3 助力 MiniMax H3 迈入实时服务时代",
+        "title_en": null,
+        "title_original": "vLLM-Omni 与 FastH3 助力 MiniMax H3 迈入实时服务时代",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://www.aibase.com/news/31010",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-09-14T02:03:56.666726Z"
+      }
+    },
+    {
+      "story_id": "story_15b86697dbdc",
+      "title": "全新 Apple TV 或今秋低调发布：换上更强芯片，Siri 成核心升级",
+      "url": "https://www.aibase.com/news/31011",
+      "primary_url": "https://www.aibase.com/news/31011",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "2e769589ebb3788ee3726b9f491cea69da47c04b",
+          "title": "全新 Apple TV 或今秋低调发布：换上更强芯片，Siri 成核心升级",
+          "title_zh": "全新 Apple TV 或今秋低调发布：换上更强芯片，Siri 成核心升级",
+          "title_en": null,
+          "title_original": "全新 Apple TV 或今秋低调发布：换上更强芯片，Siri 成核心升级",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/31011",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-09-14T01:47:14.055928Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "2e769589ebb3788ee3726b9f491cea69da47c04b",
+          "title": "全新 Apple TV 或今秋低调发布：换上更强芯片，Siri 成核心升级",
+          "title_zh": "全新 Apple TV 或今秋低调发布：换上更强芯片，Siri 成核心升级",
+          "title_en": null,
+          "title_original": "全新 Apple TV 或今秋低调发布：换上更强芯片，Siri 成核心升级",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/31011",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-09-14T01:47:14.055928Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7676,
+      "importance": 0.7676,
+      "importance_score": 0.7676,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-14T01:47:14.055928Z",
+      "latest_at": "2026-09-14T01:47:14.055928Z",
+      "primary_item": {
+        "id": "2e769589ebb3788ee3726b9f491cea69da47c04b",
+        "title": "全新 Apple TV 或今秋低调发布：换上更强芯片，Siri 成核心升级",
+        "title_zh": "全新 Apple TV 或今秋低调发布：换上更强芯片，Siri 成核心升级",
+        "title_en": null,
+        "title_original": "全新 Apple TV 或今秋低调发布：换上更强芯片，Siri 成核心升级",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://www.aibase.com/news/31011",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-09-14T02:03:56.666726Z"
+      }
+    },
+    {
+      "story_id": "story_d68fe1a9d50c",
+      "title": "撕掉烧钱标签！Anthropic 营收暴增 14 倍，底气十足冲刺连续盈利",
+      "url": "https://www.aibase.com/news/31007",
+      "primary_url": "https://www.aibase.com/news/31007",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "0f102cf731c2ac9dd0b70de3ed5885181b2ed602",
+          "title": "撕掉烧钱标签！Anthropic 营收暴增 14 倍，底气十足冲刺连续盈利",
+          "title_zh": "撕掉烧钱标签！Anthropic 营收暴增 14 倍，底气十足冲刺连续盈利",
+          "title_en": null,
+          "title_original": "撕掉烧钱标签！Anthropic 营收暴增 14 倍，底气十足冲刺连续盈利",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/31007",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-09-14T01:47:14.055928Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "0f102cf731c2ac9dd0b70de3ed5885181b2ed602",
+          "title": "撕掉烧钱标签！Anthropic 营收暴增 14 倍，底气十足冲刺连续盈利",
+          "title_zh": "撕掉烧钱标签！Anthropic 营收暴增 14 倍，底气十足冲刺连续盈利",
+          "title_en": null,
+          "title_original": "撕掉烧钱标签！Anthropic 营收暴增 14 倍，底气十足冲刺连续盈利",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/31007",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-09-14T01:47:14.055928Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7676,
+      "importance": 0.7676,
+      "importance_score": 0.7676,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-14T01:47:14.055928Z",
+      "latest_at": "2026-09-14T01:47:14.055928Z",
+      "primary_item": {
+        "id": "0f102cf731c2ac9dd0b70de3ed5885181b2ed602",
+        "title": "撕掉烧钱标签！Anthropic 营收暴增 14 倍，底气十足冲刺连续盈利",
+        "title_zh": "撕掉烧钱标签！Anthropic 营收暴增 14 倍，底气十足冲刺连续盈利",
+        "title_en": null,
+        "title_original": "撕掉烧钱标签！Anthropic 营收暴增 14 倍，底气十足冲刺连续盈利",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://www.aibase.com/news/31007",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-09-14T02:03:56.666726Z"
+      }
+    },
+    {
+      "story_id": "story_a798179e52d0",
+      "title": "智谱获50亿美元新融资 全面加速下一代GLM递归自我改进",
+      "url": "https://www.aibase.com/news/31009",
+      "primary_url": "https://www.aibase.com/news/31009",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "cd53cce9b0e6e633c63928af1396172c9ee9e472",
+          "title": "智谱获50亿美元新融资 全面加速下一代GLM递归自我改进",
+          "title_zh": "智谱获50亿美元新融资 全面加速下一代GLM递归自我改进",
+          "title_en": null,
+          "title_original": "智谱获50亿美元新融资 全面加速下一代GLM递归自我改进",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/31009",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-09-14T01:47:14.055928Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "cd53cce9b0e6e633c63928af1396172c9ee9e472",
+          "title": "智谱获50亿美元新融资 全面加速下一代GLM递归自我改进",
+          "title_zh": "智谱获50亿美元新融资 全面加速下一代GLM递归自我改进",
+          "title_en": null,
+          "title_original": "智谱获50亿美元新融资 全面加速下一代GLM递归自我改进",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/31009",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-09-14T01:47:14.055928Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7676,
+      "importance": 0.7676,
+      "importance_score": 0.7676,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-14T01:47:14.055928Z",
+      "latest_at": "2026-09-14T01:47:14.055928Z",
+      "primary_item": {
+        "id": "cd53cce9b0e6e633c63928af1396172c9ee9e472",
+        "title": "智谱获50亿美元新融资 全面加速下一代GLM递归自我改进",
+        "title_zh": "智谱获50亿美元新融资 全面加速下一代GLM递归自我改进",
+        "title_en": null,
+        "title_original": "智谱获50亿美元新融资 全面加速下一代GLM递归自我改进",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://www.aibase.com/news/31009",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-09-14T02:03:56.666726Z"
       }
     },
     {
@@ -463,15 +956,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5648,
-      "importance": 0.5648,
-      "importance_score": 0.5648,
+      "score": 0.5623,
+      "importance": 0.5623,
+      "importance_score": 0.5623,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9664,
+        "recency": 0.9526,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -496,7 +989,89 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-14T01:03:35.080864Z"
+        "scored_at": "2026-09-14T02:03:56.666726Z"
+      }
+    },
+    {
+      "story_id": "story_1e32cab69036",
+      "title": "苹果新 CEO 谈 Meta“变态眼镜”风波：AI 设备要让旁人也安心",
+      "url": "https://www.aibase.com/news/31006",
+      "primary_url": "https://www.aibase.com/news/31006",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "7060d51fc7b9b40326efbae7897f69515cd76db8",
+          "title": "苹果新 CEO 谈 Meta“变态眼镜”风波：AI 设备要让旁人也安心",
+          "title_zh": "苹果新 CEO 谈 Meta“变态眼镜”风波：AI 设备要让旁人也安心",
+          "title_en": null,
+          "title_original": "苹果新 CEO 谈 Meta“变态眼镜”风波：AI 设备要让旁人也安心",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/31006",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-09-14T01:47:14.055928Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "7060d51fc7b9b40326efbae7897f69515cd76db8",
+          "title": "苹果新 CEO 谈 Meta“变态眼镜”风波：AI 设备要让旁人也安心",
+          "title_zh": "苹果新 CEO 谈 Meta“变态眼镜”风波：AI 设备要让旁人也安心",
+          "title_en": null,
+          "title_original": "苹果新 CEO 谈 Meta“变态眼镜”风波：AI 设备要让旁人也安心",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/31006",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-09-14T01:47:14.055928Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7676,
+      "importance": 0.7676,
+      "importance_score": 0.7676,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-14T01:47:14.055928Z",
+      "latest_at": "2026-09-14T01:47:14.055928Z",
+      "primary_item": {
+        "id": "7060d51fc7b9b40326efbae7897f69515cd76db8",
+        "title": "苹果新 CEO 谈 Meta“变态眼镜”风波：AI 设备要让旁人也安心",
+        "title_zh": "苹果新 CEO 谈 Meta“变态眼镜”风波：AI 设备要让旁人也安心",
+        "title_en": null,
+        "title_original": "苹果新 CEO 谈 Meta“变态眼镜”风波：AI 设备要让旁人也安心",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://www.aibase.com/news/31006",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-09-14T02:03:56.666726Z"
       }
     },
     {
@@ -573,15 +1148,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.531,
-      "importance": 0.531,
-      "importance_score": 0.531,
+      "score": 0.5286,
+      "importance": 0.5286,
+      "importance_score": 0.5286,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9175,
+        "recency": 0.9044,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -606,7 +1181,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-14T01:03:35.080864Z"
+        "scored_at": "2026-09-14T02:03:56.666726Z"
       }
     },
     {
@@ -683,15 +1258,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5308,
-      "importance": 0.5308,
-      "importance_score": 0.5308,
+      "score": 0.5284,
+      "importance": 0.5284,
+      "importance_score": 0.5284,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9166,
+        "recency": 0.9034,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -716,7 +1291,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-14T01:03:35.080864Z"
+        "scored_at": "2026-09-14T02:03:56.666726Z"
       }
     },
     {
@@ -793,15 +1368,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5283,
-      "importance": 0.5283,
-      "importance_score": 0.5283,
+      "score": 0.526,
+      "importance": 0.526,
+      "importance_score": 0.526,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9028,
+        "recency": 0.8899,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -826,117 +1401,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-14T01:03:35.080864Z"
-      }
-    },
-    {
-      "story_id": "story_03d712e5fd13",
-      "title": "为什么人工智能代理会说谎、作弊并相互协调？",
-      "url": "https://yoshuabengio.org/en/publication/why-are-ai-agents-lying-cheating-and-coordinating",
-      "primary_url": "https://yoshuabengio.org/en/publication/why-are-ai-agents-lying-cheating-and-coordinating",
-      "source": "yoshuabengio.org",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "605dd24d4e648eac5b69965a135ab2ea9f73c1d1",
-          "title": "为什么人工智能代理会说谎、作弊并相互协调？",
-          "title_zh": "为什么人工智能代理会说谎、作弊并相互协调？",
-          "title_en": null,
-          "title_original": "为什么人工智能代理会说谎、作弊并相互协调？",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://yoshuabengio.org/en/publication/why-are-ai-agents-lying-cheating-and-coordinating",
-          "source": "yoshuabengio.org",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-09-13T07:17:17.819000Z"
-        },
-        {
-          "id": "09e3d89fde96e3f9972839655b1b3c22d1c83c7f",
-          "title": "为什么人工智能代理会说谎、作弊并相互协调？ / Why are AI agents lying, cheating and coordinating?",
-          "title_zh": "为什么人工智能代理会说谎、作弊并相互协调？",
-          "title_en": "Why are AI agents lying, cheating and coordinating?",
-          "title_original": "Why are AI agents lying, cheating and coordinating?",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://yoshuabengio.org/en/publication/why-are-ai-agents-lying-cheating-and-coordinating",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-09-13T01:22:31Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News · 24h最热",
-        "yoshuabengio.org"
-      ],
-      "items": [
-        {
-          "id": "605dd24d4e648eac5b69965a135ab2ea9f73c1d1",
-          "title": "为什么人工智能代理会说谎、作弊并相互协调？",
-          "title_zh": "为什么人工智能代理会说谎、作弊并相互协调？",
-          "title_en": null,
-          "title_original": "为什么人工智能代理会说谎、作弊并相互协调？",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://yoshuabengio.org/en/publication/why-are-ai-agents-lying-cheating-and-coordinating",
-          "source": "yoshuabengio.org",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-09-13T07:17:17.819000Z"
-        },
-        {
-          "id": "09e3d89fde96e3f9972839655b1b3c22d1c83c7f",
-          "title": "为什么人工智能代理会说谎、作弊并相互协调？ / Why are AI agents lying, cheating and coordinating?",
-          "title_zh": "为什么人工智能代理会说谎、作弊并相互协调？",
-          "title_en": "Why are AI agents lying, cheating and coordinating?",
-          "title_original": "Why are AI agents lying, cheating and coordinating?",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://yoshuabengio.org/en/publication/why-are-ai-agents-lying-cheating-and-coordinating",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-09-13T01:22:31Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5056,
-      "importance": 0.5056,
-      "importance_score": 0.5056,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.7767,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-09-13T01:22:31Z",
-      "latest_at": "2026-09-13T07:17:17.819000Z",
-      "primary_item": {
-        "id": "605dd24d4e648eac5b69965a135ab2ea9f73c1d1",
-        "title": "为什么人工智能代理会说谎、作弊并相互协调？",
-        "title_zh": "为什么人工智能代理会说谎、作弊并相互协调？",
-        "title_en": null,
-        "title_original": "为什么人工智能代理会说谎、作弊并相互协调？",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://yoshuabengio.org/en/publication/why-are-ai-agents-lying-cheating-and-coordinating",
-        "source": "yoshuabengio.org",
-        "source_name": "Buzzing"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-09-14T01:03:35.080864Z"
+        "scored_at": "2026-09-14T02:03:56.666726Z"
       }
     }
   ]
