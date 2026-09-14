@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-14T06:47:20.108935Z",
+  "generated_at": "2026-09-14T07:47:26.240618Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -48,15 +48,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8432,
-      "importance": 0.8432,
-      "importance_score": 0.8432,
+      "score": 0.8408,
+      "importance": 0.8408,
+      "importance_score": 0.8408,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.9066,
+        "recency": 0.8936,
         "story_heat": 0.0
       },
       "category": "official",
@@ -83,7 +83,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-14T07:08:01.907460Z"
+        "scored_at": "2026-09-14T07:48:13.160398Z"
       }
     },
     {
@@ -160,15 +160,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7934,
-      "importance": 0.7934,
-      "importance_score": 0.7934,
+      "score": 0.7913,
+      "importance": 0.7913,
+      "importance_score": 0.7913,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.85,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7877,
+        "recency": 0.7764,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -195,7 +195,89 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-14T07:08:01.907460Z"
+        "scored_at": "2026-09-14T07:48:13.160398Z"
+      }
+    },
+    {
+      "story_id": "story_52dca869c391",
+      "title": "Anthropic CEO 呼吁前沿 AI 限速，奥特曼与马斯克接连站台",
+      "url": "https://www.aibase.com/news/31029",
+      "primary_url": "https://www.aibase.com/news/31029",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "0190e357ef7ef18a3962018cdf44f2dc21344658",
+          "title": "Anthropic CEO 呼吁前沿 AI 限速，奥特曼与马斯克接连站台",
+          "title_zh": "Anthropic CEO 呼吁前沿 AI 限速，奥特曼与马斯克接连站台",
+          "title_en": null,
+          "title_original": "Anthropic CEO 呼吁前沿 AI 限速，奥特曼与马斯克接连站台",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/31029",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-09-14T07:47:26.240618Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "0190e357ef7ef18a3962018cdf44f2dc21344658",
+          "title": "Anthropic CEO 呼吁前沿 AI 限速，奥特曼与马斯克接连站台",
+          "title_zh": "Anthropic CEO 呼吁前沿 AI 限速，奥特曼与马斯克接连站台",
+          "title_en": null,
+          "title_original": "Anthropic CEO 呼吁前沿 AI 限速，奥特曼与马斯克接连站台",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/31029",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-09-14T07:47:26.240618Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7676,
+      "importance": 0.7676,
+      "importance_score": 0.7676,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-14T07:47:26.240618Z",
+      "latest_at": "2026-09-14T07:47:26.240618Z",
+      "primary_item": {
+        "id": "0190e357ef7ef18a3962018cdf44f2dc21344658",
+        "title": "Anthropic CEO 呼吁前沿 AI 限速，奥特曼与马斯克接连站台",
+        "title_zh": "Anthropic CEO 呼吁前沿 AI 限速，奥特曼与马斯克接连站台",
+        "title_en": null,
+        "title_original": "Anthropic CEO 呼吁前沿 AI 限速，奥特曼与马斯克接连站台",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://www.aibase.com/news/31029",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-09-14T07:48:13.160398Z"
       }
     },
     {
@@ -243,15 +325,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7676,
-      "importance": 0.7676,
-      "importance_score": 0.7676,
+      "score": 0.765,
+      "importance": 0.765,
+      "importance_score": 0.765,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.9856,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -277,7 +359,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-14T07:08:01.907460Z"
+        "scored_at": "2026-09-14T07:48:13.160398Z"
       }
     },
     {
@@ -325,15 +407,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7676,
-      "importance": 0.7676,
-      "importance_score": 0.7676,
+      "score": 0.765,
+      "importance": 0.765,
+      "importance_score": 0.765,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.9856,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -359,7 +441,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-14T07:08:01.907460Z"
+        "scored_at": "2026-09-14T07:48:13.160398Z"
       }
     },
     {
@@ -407,15 +489,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7676,
-      "importance": 0.7676,
-      "importance_score": 0.7676,
+      "score": 0.765,
+      "importance": 0.765,
+      "importance_score": 0.765,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.9856,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -441,7 +523,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-14T07:08:01.907460Z"
+        "scored_at": "2026-09-14T07:48:13.160398Z"
       }
     },
     {
@@ -489,15 +571,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7662,
-      "importance": 0.7662,
-      "importance_score": 0.7662,
+      "score": 0.7636,
+      "importance": 0.7636,
+      "importance_score": 0.7636,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9922,
+        "recency": 0.978,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -523,7 +605,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-14T07:08:01.907460Z"
+        "scored_at": "2026-09-14T07:48:13.160398Z"
       }
     },
     {
@@ -571,15 +653,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.76,
-      "importance": 0.76,
-      "importance_score": 0.76,
+      "score": 0.7575,
+      "importance": 0.7575,
+      "importance_score": 0.7575,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9576,
+        "recency": 0.9438,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -605,7 +687,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-14T07:08:01.907460Z"
+        "scored_at": "2026-09-14T07:48:13.160398Z"
       }
     },
     {
@@ -653,15 +735,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.76,
-      "importance": 0.76,
-      "importance_score": 0.76,
+      "score": 0.7575,
+      "importance": 0.7575,
+      "importance_score": 0.7575,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9576,
+        "recency": 0.9438,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -687,89 +769,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-14T07:08:01.907460Z"
-      }
-    },
-    {
-      "story_id": "story_029362550b0e",
-      "title": "智能体跑长任务为何\"失忆跑题\"：AWS、Claude Code、Manus 们用四套框架机制给出答案",
-      "url": "https://www.aibase.com/news/31020",
-      "primary_url": "https://www.aibase.com/news/31020",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "76af0c7d656443bc8aca74060926a032258e5938",
-          "title": "智能体跑长任务为何\"失忆跑题\"：AWS、Claude Code、Manus 们用四套框架机制给出答案",
-          "title_zh": "智能体跑长任务为何\"失忆跑题\"：AWS、Claude Code、Manus 们用四套框架机制给出答案",
-          "title_en": null,
-          "title_original": "智能体跑长任务为何\"失忆跑题\"：AWS、Claude Code、Manus 们用四套框架机制给出答案",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/31020",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-09-14T03:47:19.577246Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "76af0c7d656443bc8aca74060926a032258e5938",
-          "title": "智能体跑长任务为何\"失忆跑题\"：AWS、Claude Code、Manus 们用四套框架机制给出答案",
-          "title_zh": "智能体跑长任务为何\"失忆跑题\"：AWS、Claude Code、Manus 们用四套框架机制给出答案",
-          "title_en": null,
-          "title_original": "智能体跑长任务为何\"失忆跑题\"：AWS、Claude Code、Manus 们用四套框架机制给出答案",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/31020",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-09-14T03:47:19.577246Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.76,
-      "importance": 0.76,
-      "importance_score": 0.76,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.9576,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-14T03:47:19.577246Z",
-      "latest_at": "2026-09-14T03:47:19.577246Z",
-      "primary_item": {
-        "id": "76af0c7d656443bc8aca74060926a032258e5938",
-        "title": "智能体跑长任务为何\"失忆跑题\"：AWS、Claude Code、Manus 们用四套框架机制给出答案",
-        "title_zh": "智能体跑长任务为何\"失忆跑题\"：AWS、Claude Code、Manus 们用四套框架机制给出答案",
-        "title_en": null,
-        "title_original": "智能体跑长任务为何\"失忆跑题\"：AWS、Claude Code、Manus 们用四套框架机制给出答案",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/31020",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-09-14T07:08:01.907460Z"
+        "scored_at": "2026-09-14T07:48:13.160398Z"
       }
     },
     {
@@ -875,15 +875,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5503,
-      "importance": 0.5503,
-      "importance_score": 0.5503,
+      "score": 0.548,
+      "importance": 0.548,
+      "importance_score": 0.548,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8862,
+        "recency": 0.8735,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -908,7 +908,199 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-14T07:08:01.907460Z"
+        "scored_at": "2026-09-14T07:48:13.160398Z"
+      }
+    },
+    {
+      "story_id": "story_029362550b0e",
+      "title": "智能体跑长任务为何\"失忆跑题\"：AWS、Claude Code、Manus 们用四套框架机制给出答案",
+      "url": "https://www.aibase.com/news/31020",
+      "primary_url": "https://www.aibase.com/news/31020",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "76af0c7d656443bc8aca74060926a032258e5938",
+          "title": "智能体跑长任务为何\"失忆跑题\"：AWS、Claude Code、Manus 们用四套框架机制给出答案",
+          "title_zh": "智能体跑长任务为何\"失忆跑题\"：AWS、Claude Code、Manus 们用四套框架机制给出答案",
+          "title_en": null,
+          "title_original": "智能体跑长任务为何\"失忆跑题\"：AWS、Claude Code、Manus 们用四套框架机制给出答案",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/31020",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-09-14T03:47:19.577246Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "76af0c7d656443bc8aca74060926a032258e5938",
+          "title": "智能体跑长任务为何\"失忆跑题\"：AWS、Claude Code、Manus 们用四套框架机制给出答案",
+          "title_zh": "智能体跑长任务为何\"失忆跑题\"：AWS、Claude Code、Manus 们用四套框架机制给出答案",
+          "title_en": null,
+          "title_original": "智能体跑长任务为何\"失忆跑题\"：AWS、Claude Code、Manus 们用四套框架机制给出答案",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/31020",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-09-14T03:47:19.577246Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7575,
+      "importance": 0.7575,
+      "importance_score": 0.7575,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9438,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-14T03:47:19.577246Z",
+      "latest_at": "2026-09-14T03:47:19.577246Z",
+      "primary_item": {
+        "id": "76af0c7d656443bc8aca74060926a032258e5938",
+        "title": "智能体跑长任务为何\"失忆跑题\"：AWS、Claude Code、Manus 们用四套框架机制给出答案",
+        "title_zh": "智能体跑长任务为何\"失忆跑题\"：AWS、Claude Code、Manus 们用四套框架机制给出答案",
+        "title_en": null,
+        "title_original": "智能体跑长任务为何\"失忆跑题\"：AWS、Claude Code、Manus 们用四套框架机制给出答案",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://www.aibase.com/news/31020",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-09-14T07:48:13.160398Z"
+      }
+    },
+    {
+      "story_id": "story_a74acdc5c00f",
+      "title": "“令人不寒而栗”的警告还是反应过度？人工智能生物武器报告专家意见分歧 / \"Chilling\" warning or overreaction? AI bioweapons report divides experts",
+      "url": "https://www.science.org/content/article/chilling-warning-or-overreaction-ai-bioweapons-report-divides-experts",
+      "primary_url": "https://www.science.org/content/article/chilling-warning-or-overreaction-ai-bioweapons-report-divides-experts",
+      "source": "Hacker News",
+      "source_name": "TechURLs",
+      "sources": [
+        {
+          "id": "9bd1166309d1300beea591375bdab38e9a938c52",
+          "title": "“令人不寒而栗”的警告还是反应过度？人工智能生物武器报告专家意见分歧 / \"Chilling\" warning or overreaction? AI bioweapons report divides experts",
+          "title_zh": "“令人不寒而栗”的警告还是反应过度？人工智能生物武器报告专家意见分歧",
+          "title_en": "\"Chilling\" warning or overreaction? AI bioweapons report divides experts",
+          "title_original": "\"Chilling\" warning or overreaction? AI bioweapons report divides experts",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.science.org/content/article/chilling-warning-or-overreaction-ai-bioweapons-report-divides-experts",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-09-14T00:07:09Z"
+        },
+        {
+          "id": "d18752a532974f9cabbcddb719bca55c0e969903",
+          "title": "“令人不寒而栗”的警告还是反应过度？人工智能生物武器报告专家意见分歧 / “Chilling” warning or overreaction? AI bioweapons report divides experts",
+          "title_zh": "“令人不寒而栗”的警告还是反应过度？人工智能生物武器报告专家意见分歧",
+          "title_en": "“Chilling” warning or overreaction? AI bioweapons report divides experts",
+          "title_original": "“Chilling” warning or overreaction? AI bioweapons report divides experts",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.science.org/content/article/chilling-warning-or-overreaction-ai-bioweapons-report-divides-experts",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-09-14T00:07:09Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News",
+        "Hacker News (黑客新闻)"
+      ],
+      "items": [
+        {
+          "id": "9bd1166309d1300beea591375bdab38e9a938c52",
+          "title": "“令人不寒而栗”的警告还是反应过度？人工智能生物武器报告专家意见分歧 / \"Chilling\" warning or overreaction? AI bioweapons report divides experts",
+          "title_zh": "“令人不寒而栗”的警告还是反应过度？人工智能生物武器报告专家意见分歧",
+          "title_en": "\"Chilling\" warning or overreaction? AI bioweapons report divides experts",
+          "title_original": "\"Chilling\" warning or overreaction? AI bioweapons report divides experts",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.science.org/content/article/chilling-warning-or-overreaction-ai-bioweapons-report-divides-experts",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-09-14T00:07:09Z"
+        },
+        {
+          "id": "d18752a532974f9cabbcddb719bca55c0e969903",
+          "title": "“令人不寒而栗”的警告还是反应过度？人工智能生物武器报告专家意见分歧 / “Chilling” warning or overreaction? AI bioweapons report divides experts",
+          "title_zh": "“令人不寒而栗”的警告还是反应过度？人工智能生物武器报告专家意见分歧",
+          "title_en": "“Chilling” warning or overreaction? AI bioweapons report divides experts",
+          "title_original": "“Chilling” warning or overreaction? AI bioweapons report divides experts",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.science.org/content/article/chilling-warning-or-overreaction-ai-bioweapons-report-divides-experts",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-09-14T00:07:09Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5269,
+      "importance": 0.5269,
+      "importance_score": 0.5269,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.8951,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-09-14T00:07:09Z",
+      "latest_at": "2026-09-14T00:07:09Z",
+      "primary_item": {
+        "id": "9bd1166309d1300beea591375bdab38e9a938c52",
+        "title": "“令人不寒而栗”的警告还是反应过度？人工智能生物武器报告专家意见分歧 / \"Chilling\" warning or overreaction? AI bioweapons report divides experts",
+        "title_zh": "“令人不寒而栗”的警告还是反应过度？人工智能生物武器报告专家意见分歧",
+        "title_en": "\"Chilling\" warning or overreaction? AI bioweapons report divides experts",
+        "title_original": "\"Chilling\" warning or overreaction? AI bioweapons report divides experts",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://www.science.org/content/article/chilling-warning-or-overreaction-ai-bioweapons-report-divides-experts",
+        "source": "Hacker News",
+        "source_name": "TechURLs"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-09-14T07:48:13.160398Z"
       }
     },
     {
@@ -956,15 +1148,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.76,
-      "importance": 0.76,
-      "importance_score": 0.76,
+      "score": 0.7575,
+      "importance": 0.7575,
+      "importance_score": 0.7575,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9576,
+        "recency": 0.9438,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -990,204 +1182,12 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-14T07:08:01.907460Z"
-      }
-    },
-    {
-      "story_id": "story_a74acdc5c00f",
-      "title": "\"Chilling\" warning or overreaction? AI bioweapons report divides experts",
-      "url": "https://www.science.org/content/article/chilling-warning-or-overreaction-ai-bioweapons-report-divides-experts",
-      "primary_url": "https://www.science.org/content/article/chilling-warning-or-overreaction-ai-bioweapons-report-divides-experts",
-      "source": "Hacker News",
-      "source_name": "TechURLs",
-      "sources": [
-        {
-          "id": "9bd1166309d1300beea591375bdab38e9a938c52",
-          "title": "\"Chilling\" warning or overreaction? AI bioweapons report divides experts",
-          "title_zh": null,
-          "title_en": "\"Chilling\" warning or overreaction? AI bioweapons report divides experts",
-          "title_original": "\"Chilling\" warning or overreaction? AI bioweapons report divides experts",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.science.org/content/article/chilling-warning-or-overreaction-ai-bioweapons-report-divides-experts",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-09-14T00:07:09Z"
-        },
-        {
-          "id": "d18752a532974f9cabbcddb719bca55c0e969903",
-          "title": "“Chilling” warning or overreaction? AI bioweapons report divides experts",
-          "title_zh": null,
-          "title_en": "“Chilling” warning or overreaction? AI bioweapons report divides experts",
-          "title_original": "“Chilling” warning or overreaction? AI bioweapons report divides experts",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.science.org/content/article/chilling-warning-or-overreaction-ai-bioweapons-report-divides-experts",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-09-14T00:07:09Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News",
-        "Hacker News (黑客新闻)"
-      ],
-      "items": [
-        {
-          "id": "9bd1166309d1300beea591375bdab38e9a938c52",
-          "title": "\"Chilling\" warning or overreaction? AI bioweapons report divides experts",
-          "title_zh": null,
-          "title_en": "\"Chilling\" warning or overreaction? AI bioweapons report divides experts",
-          "title_original": "\"Chilling\" warning or overreaction? AI bioweapons report divides experts",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.science.org/content/article/chilling-warning-or-overreaction-ai-bioweapons-report-divides-experts",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-09-14T00:07:09Z"
-        },
-        {
-          "id": "d18752a532974f9cabbcddb719bca55c0e969903",
-          "title": "“Chilling” warning or overreaction? AI bioweapons report divides experts",
-          "title_zh": null,
-          "title_en": "“Chilling” warning or overreaction? AI bioweapons report divides experts",
-          "title_original": "“Chilling” warning or overreaction? AI bioweapons report divides experts",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.science.org/content/article/chilling-warning-or-overreaction-ai-bioweapons-report-divides-experts",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-09-14T00:07:09Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5293,
-      "importance": 0.5293,
-      "importance_score": 0.5293,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.9082,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-09-14T00:07:09Z",
-      "latest_at": "2026-09-14T00:07:09Z",
-      "primary_item": {
-        "id": "9bd1166309d1300beea591375bdab38e9a938c52",
-        "title": "\"Chilling\" warning or overreaction? AI bioweapons report divides experts",
-        "title_zh": null,
-        "title_en": "\"Chilling\" warning or overreaction? AI bioweapons report divides experts",
-        "title_original": "\"Chilling\" warning or overreaction? AI bioweapons report divides experts",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://www.science.org/content/article/chilling-warning-or-overreaction-ai-bioweapons-report-divides-experts",
-        "source": "Hacker News",
-        "source_name": "TechURLs"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-09-14T07:08:01.907460Z"
-      }
-    },
-    {
-      "story_id": "story_d51afe328f83",
-      "title": "豆包手机助手消费者版发布：推出 GUI 协议，三方 App 可自主拒绝 AI 自动操作",
-      "url": "https://www.aibase.com/news/31023",
-      "primary_url": "https://www.aibase.com/news/31023",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "ad24e1420e5418fdc5466903cbbadfddcb1b9213",
-          "title": "豆包手机助手消费者版发布：推出 GUI 协议，三方 App 可自主拒绝 AI 自动操作",
-          "title_zh": "豆包手机助手消费者版发布：推出 GUI 协议，三方 App 可自主拒绝 AI 自动操作",
-          "title_en": null,
-          "title_original": "豆包手机助手消费者版发布：推出 GUI 协议，三方 App 可自主拒绝 AI 自动操作",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/31023",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-09-14T03:47:19.577246Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "ad24e1420e5418fdc5466903cbbadfddcb1b9213",
-          "title": "豆包手机助手消费者版发布：推出 GUI 协议，三方 App 可自主拒绝 AI 自动操作",
-          "title_zh": "豆包手机助手消费者版发布：推出 GUI 协议，三方 App 可自主拒绝 AI 自动操作",
-          "title_en": null,
-          "title_original": "豆包手机助手消费者版发布：推出 GUI 协议，三方 App 可自主拒绝 AI 自动操作",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/31023",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-09-14T03:47:19.577246Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.76,
-      "importance": 0.76,
-      "importance_score": 0.76,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.9576,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-14T03:47:19.577246Z",
-      "latest_at": "2026-09-14T03:47:19.577246Z",
-      "primary_item": {
-        "id": "ad24e1420e5418fdc5466903cbbadfddcb1b9213",
-        "title": "豆包手机助手消费者版发布：推出 GUI 协议，三方 App 可自主拒绝 AI 自动操作",
-        "title_zh": "豆包手机助手消费者版发布：推出 GUI 协议，三方 App 可自主拒绝 AI 自动操作",
-        "title_en": null,
-        "title_original": "豆包手机助手消费者版发布：推出 GUI 协议，三方 App 可自主拒绝 AI 自动操作",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/31023",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-09-14T07:08:01.907460Z"
+        "scored_at": "2026-09-14T07:48:13.160398Z"
       }
     },
     {
       "story_id": "story_ffdf3bb7485a",
-      "title": "AI recursive self-improvement might not come so quickly after all",
+      "title": "AI 递归自我完善可能不会来得这么快 / AI recursive self-improvement might not come so quickly after all",
       "url": "https://www.technologyreview.com/2026/08/18/1142188/ai-recursive-self-improvement",
       "primary_url": "https://www.technologyreview.com/2026/08/18/1142188/ai-recursive-self-improvement",
       "source": "Hacker News · 24h最热",
@@ -1195,8 +1195,8 @@
       "sources": [
         {
           "id": "055b127b43df0b011a4c4067f34bbe9fac11a481",
-          "title": "AI recursive self-improvement might not come so quickly after all",
-          "title_zh": null,
+          "title": "AI 递归自我完善可能不会来得这么快 / AI recursive self-improvement might not come so quickly after all",
+          "title_zh": "AI 递归自我完善可能不会来得这么快",
           "title_en": "AI recursive self-improvement might not come so quickly after all",
           "title_original": "AI recursive self-improvement might not come so quickly after all",
           "summary": null,
@@ -1209,8 +1209,8 @@
         },
         {
           "id": "f94d2b63a95a1fa4ec4da18eafb9e90221965c6e",
-          "title": "AI recursive self-improvement might not come so quickly after all (August 2026)",
-          "title_zh": null,
+          "title": "AI 递归自我完善可能不会来得这么快（2026 年 8 月） / AI recursive self-improvement might not come so quickly after all (August 2026)",
+          "title_zh": "AI 递归自我完善可能不会来得这么快（2026 年 8 月）",
           "title_en": "AI recursive self-improvement might not come so quickly after all (August 2026)",
           "title_original": "AI recursive self-improvement might not come so quickly after all (August 2026)",
           "summary": null,
@@ -1230,8 +1230,8 @@
       "items": [
         {
           "id": "055b127b43df0b011a4c4067f34bbe9fac11a481",
-          "title": "AI recursive self-improvement might not come so quickly after all",
-          "title_zh": null,
+          "title": "AI 递归自我完善可能不会来得这么快 / AI recursive self-improvement might not come so quickly after all",
+          "title_zh": "AI 递归自我完善可能不会来得这么快",
           "title_en": "AI recursive self-improvement might not come so quickly after all",
           "title_original": "AI recursive self-improvement might not come so quickly after all",
           "summary": null,
@@ -1244,8 +1244,8 @@
         },
         {
           "id": "f94d2b63a95a1fa4ec4da18eafb9e90221965c6e",
-          "title": "AI recursive self-improvement might not come so quickly after all (August 2026)",
-          "title_zh": null,
+          "title": "AI 递归自我完善可能不会来得这么快（2026 年 8 月） / AI recursive self-improvement might not come so quickly after all (August 2026)",
+          "title_zh": "AI 递归自我完善可能不会来得这么快（2026 年 8 月）",
           "title_en": "AI recursive self-improvement might not come so quickly after all (August 2026)",
           "title_original": "AI recursive self-improvement might not come so quickly after all (August 2026)",
           "summary": null,
@@ -1259,15 +1259,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5172,
-      "importance": 0.5172,
-      "importance_score": 0.5172,
+      "score": 0.5151,
+      "importance": 0.5151,
+      "importance_score": 0.5151,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8414,
+        "recency": 0.8293,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1278,8 +1278,8 @@
       "latest_at": "2026-09-13T18:49:44Z",
       "primary_item": {
         "id": "055b127b43df0b011a4c4067f34bbe9fac11a481",
-        "title": "AI recursive self-improvement might not come so quickly after all",
-        "title_zh": null,
+        "title": "AI 递归自我完善可能不会来得这么快 / AI recursive self-improvement might not come so quickly after all",
+        "title_zh": "AI 递归自我完善可能不会来得这么快",
         "title_en": "AI recursive self-improvement might not come so quickly after all",
         "title_original": "AI recursive self-improvement might not come so quickly after all",
         "summary": null,
@@ -1292,7 +1292,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-14T07:08:01.907460Z"
+        "scored_at": "2026-09-14T07:48:13.160398Z"
       }
     },
     {
@@ -1369,15 +1369,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5171,
-      "importance": 0.5171,
-      "importance_score": 0.5171,
+      "score": 0.5149,
+      "importance": 0.5149,
+      "importance_score": 0.5149,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8405,
+        "recency": 0.8284,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1402,7 +1402,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-14T07:08:01.907460Z"
+        "scored_at": "2026-09-14T07:48:13.160398Z"
       }
     },
     {
@@ -1479,15 +1479,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5148,
-      "importance": 0.5148,
-      "importance_score": 0.5148,
+      "score": 0.5127,
+      "importance": 0.5127,
+      "importance_score": 0.5127,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8279,
+        "recency": 0.816,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1512,7 +1512,89 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-14T07:08:01.907460Z"
+        "scored_at": "2026-09-14T07:48:13.160398Z"
+      }
+    },
+    {
+      "story_id": "story_d51afe328f83",
+      "title": "豆包手机助手消费者版发布：推出 GUI 协议，三方 App 可自主拒绝 AI 自动操作",
+      "url": "https://www.aibase.com/news/31023",
+      "primary_url": "https://www.aibase.com/news/31023",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "ad24e1420e5418fdc5466903cbbadfddcb1b9213",
+          "title": "豆包手机助手消费者版发布：推出 GUI 协议，三方 App 可自主拒绝 AI 自动操作",
+          "title_zh": "豆包手机助手消费者版发布：推出 GUI 协议，三方 App 可自主拒绝 AI 自动操作",
+          "title_en": null,
+          "title_original": "豆包手机助手消费者版发布：推出 GUI 协议，三方 App 可自主拒绝 AI 自动操作",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/31023",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-09-14T03:47:19.577246Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "ad24e1420e5418fdc5466903cbbadfddcb1b9213",
+          "title": "豆包手机助手消费者版发布：推出 GUI 协议，三方 App 可自主拒绝 AI 自动操作",
+          "title_zh": "豆包手机助手消费者版发布：推出 GUI 协议，三方 App 可自主拒绝 AI 自动操作",
+          "title_en": null,
+          "title_original": "豆包手机助手消费者版发布：推出 GUI 协议，三方 App 可自主拒绝 AI 自动操作",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/31023",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-09-14T03:47:19.577246Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7575,
+      "importance": 0.7575,
+      "importance_score": 0.7575,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9438,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-14T03:47:19.577246Z",
+      "latest_at": "2026-09-14T03:47:19.577246Z",
+      "primary_item": {
+        "id": "ad24e1420e5418fdc5466903cbbadfddcb1b9213",
+        "title": "豆包手机助手消费者版发布：推出 GUI 协议，三方 App 可自主拒绝 AI 自动操作",
+        "title_zh": "豆包手机助手消费者版发布：推出 GUI 协议，三方 App 可自主拒绝 AI 自动操作",
+        "title_en": null,
+        "title_original": "豆包手机助手消费者版发布：推出 GUI 协议，三方 App 可自主拒绝 AI 自动操作",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://www.aibase.com/news/31023",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-09-14T07:48:13.160398Z"
       }
     },
     {
@@ -1560,15 +1642,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7575,
-      "importance": 0.7575,
-      "importance_score": 0.7575,
+      "score": 0.7551,
+      "importance": 0.7551,
+      "importance_score": 0.7551,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9439,
+        "recency": 0.9303,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1594,7 +1676,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-14T07:08:01.907460Z"
+        "scored_at": "2026-09-14T07:48:13.160398Z"
       }
     },
     {
@@ -1642,15 +1724,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7575,
-      "importance": 0.7575,
-      "importance_score": 0.7575,
+      "score": 0.7551,
+      "importance": 0.7551,
+      "importance_score": 0.7551,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9439,
+        "recency": 0.9303,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1676,7 +1758,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-14T07:08:01.907460Z"
+        "scored_at": "2026-09-14T07:48:13.160398Z"
       }
     },
     {
@@ -1724,15 +1806,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7575,
-      "importance": 0.7575,
-      "importance_score": 0.7575,
+      "score": 0.7551,
+      "importance": 0.7551,
+      "importance_score": 0.7551,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9439,
+        "recency": 0.9303,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1758,89 +1840,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-14T07:08:01.907460Z"
-      }
-    },
-    {
-      "story_id": "story_d8481b3089e2",
-      "title": "微软扩展 Copilot 模型库:SpaceXAI Grok 正式上线 Word、Excel 与 PowerPoint",
-      "url": "https://www.aibase.com/news/31013",
-      "primary_url": "https://www.aibase.com/news/31013",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "c806e3884099760dcb6a3a15dcf2dc2e85515c6b",
-          "title": "微软扩展 Copilot 模型库:SpaceXAI Grok 正式上线 Word、Excel 与 PowerPoint",
-          "title_zh": "微软扩展 Copilot 模型库:SpaceXAI Grok 正式上线 Word、Excel 与 PowerPoint",
-          "title_en": null,
-          "title_original": "微软扩展 Copilot 模型库:SpaceXAI Grok 正式上线 Word、Excel 与 PowerPoint",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/31013",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-09-14T02:47:19.581744Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "c806e3884099760dcb6a3a15dcf2dc2e85515c6b",
-          "title": "微软扩展 Copilot 模型库:SpaceXAI Grok 正式上线 Word、Excel 与 PowerPoint",
-          "title_zh": "微软扩展 Copilot 模型库:SpaceXAI Grok 正式上线 Word、Excel 与 PowerPoint",
-          "title_en": null,
-          "title_original": "微软扩展 Copilot 模型库:SpaceXAI Grok 正式上线 Word、Excel 与 PowerPoint",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/31013",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-09-14T02:47:19.581744Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7575,
-      "importance": 0.7575,
-      "importance_score": 0.7575,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.9439,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-14T02:47:19.581744Z",
-      "latest_at": "2026-09-14T02:47:19.581744Z",
-      "primary_item": {
-        "id": "c806e3884099760dcb6a3a15dcf2dc2e85515c6b",
-        "title": "微软扩展 Copilot 模型库:SpaceXAI Grok 正式上线 Word、Excel 与 PowerPoint",
-        "title_zh": "微软扩展 Copilot 模型库:SpaceXAI Grok 正式上线 Word、Excel 与 PowerPoint",
-        "title_en": null,
-        "title_original": "微软扩展 Copilot 模型库:SpaceXAI Grok 正式上线 Word、Excel 与 PowerPoint",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/31013",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-09-14T07:08:01.907460Z"
+        "scored_at": "2026-09-14T07:48:13.160398Z"
       }
     }
   ]
