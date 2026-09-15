@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-15T08:47:21.392723Z",
+  "generated_at": "2026-09-15T09:47:20.260692Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -135,15 +135,15 @@
       ],
       "item_count": 4,
       "duplicate_count": 4,
-      "score": 0.8302,
-      "importance": 0.8302,
-      "importance_score": 0.8302,
+      "score": 0.8283,
+      "importance": 0.8283,
+      "importance_score": 0.8283,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.83,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.748,
+        "recency": 0.7373,
         "story_heat": 0.75
       },
       "category": "multi_source",
@@ -170,7 +170,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-15T09:40:20.488041Z"
+        "scored_at": "2026-09-15T10:40:07.448886Z"
       }
     },
     {
@@ -218,15 +218,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8134,
-      "importance": 0.8134,
-      "importance_score": 0.8134,
+      "score": 0.8114,
+      "importance": 0.8114,
+      "importance_score": 0.8114,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.7857,
+        "recency": 0.7745,
         "story_heat": 0.0
       },
       "category": "official",
@@ -253,7 +253,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-15T09:40:20.488041Z"
+        "scored_at": "2026-09-15T10:40:07.448886Z"
       }
     },
     {
@@ -301,15 +301,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8115,
-      "importance": 0.8115,
-      "importance_score": 0.8115,
+      "score": 0.8094,
+      "importance": 0.8094,
+      "importance_score": 0.8094,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.8194,
+        "recency": 0.8077,
         "story_heat": 0.0
       },
       "category": "official",
@@ -336,7 +336,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-15T09:40:20.488041Z"
+        "scored_at": "2026-09-15T10:40:07.448886Z"
       }
     },
     {
@@ -413,15 +413,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.8019,
-      "importance": 0.8019,
-      "importance_score": 0.8019,
+      "score": 0.7996,
+      "importance": 0.7996,
+      "importance_score": 0.7996,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.83,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8681,
+        "recency": 0.8557,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -448,7 +448,89 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-15T09:40:20.488041Z"
+        "scored_at": "2026-09-15T10:40:07.448886Z"
+      }
+    },
+    {
+      "story_id": "story_37bd0d5d25f4",
+      "title": "Anthropic 与 OpenAI 提议协调放缓前沿 AI 开发，Cohere CEO 等批评者质疑其真实动机 / Not everyone is convinced that Big AI's proposed development slowdown is really about safety",
+      "url": "https://the-decoder.com/not-everyone-is-convinced-that-big-ais-proposed-development-slowdown-is-really-about-safety",
+      "primary_url": "https://the-decoder.com/not-everyone-is-convinced-that-big-ais-proposed-development-slowdown-is-really-about-safety",
+      "source": "The Decoder：AI News（RSS）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "c4fa90d0eabe5c4be02463c403caac6a07f3631f",
+          "title": "Anthropic 与 OpenAI 提议协调放缓前沿 AI 开发，Cohere CEO 等批评者质疑其真实动机 / Not everyone is convinced that Big AI's proposed development slowdown is really about safety",
+          "title_zh": "Anthropic 与 OpenAI 提议协调放缓前沿 AI 开发，Cohere CEO 等批评者质疑其真实动机",
+          "title_en": "Not everyone is convinced that Big AI's proposed development slowdown is really about safety",
+          "title_original": "Not everyone is convinced that Big AI's proposed development slowdown is really about safety",
+          "summary": "Anthropic CEO Dario Amodei 呼吁行业与政府协调放缓前沿 AI 开发，并寻求反垄断豁免，Sam Altman 与 Elon Musk 表示同意。",
+          "recommend_reason_zh": null,
+          "url": "https://the-decoder.com/not-everyone-is-convinced-that-big-ais-proposed-development-slowdown-is-really-about-safety",
+          "source": "The Decoder：AI News（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-15T09:04:36Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "The Decoder：AI News（RSS）"
+      ],
+      "items": [
+        {
+          "id": "c4fa90d0eabe5c4be02463c403caac6a07f3631f",
+          "title": "Anthropic 与 OpenAI 提议协调放缓前沿 AI 开发，Cohere CEO 等批评者质疑其真实动机 / Not everyone is convinced that Big AI's proposed development slowdown is really about safety",
+          "title_zh": "Anthropic 与 OpenAI 提议协调放缓前沿 AI 开发，Cohere CEO 等批评者质疑其真实动机",
+          "title_en": "Not everyone is convinced that Big AI's proposed development slowdown is really about safety",
+          "title_original": "Not everyone is convinced that Big AI's proposed development slowdown is really about safety",
+          "summary": "Anthropic CEO Dario Amodei 呼吁行业与政府协调放缓前沿 AI 开发，并寻求反垄断豁免，Sam Altman 与 Elon Musk 表示同意。",
+          "recommend_reason_zh": null,
+          "url": "https://the-decoder.com/not-everyone-is-convinced-that-big-ais-proposed-development-slowdown-is-really-about-safety",
+          "source": "The Decoder：AI News（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-15T09:04:36Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7808,
+      "importance": 0.7808,
+      "importance_score": 0.7808,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.77,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9898,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-15T09:04:36Z",
+      "latest_at": "2026-09-15T09:04:36Z",
+      "primary_item": {
+        "id": "c4fa90d0eabe5c4be02463c403caac6a07f3631f",
+        "title": "Anthropic 与 OpenAI 提议协调放缓前沿 AI 开发，Cohere CEO 等批评者质疑其真实动机 / Not everyone is convinced that Big AI's proposed development slowdown is really about safety",
+        "title_zh": "Anthropic 与 OpenAI 提议协调放缓前沿 AI 开发，Cohere CEO 等批评者质疑其真实动机",
+        "title_en": "Not everyone is convinced that Big AI's proposed development slowdown is really about safety",
+        "title_original": "Not everyone is convinced that Big AI's proposed development slowdown is really about safety",
+        "summary": "Anthropic CEO Dario Amodei 呼吁行业与政府协调放缓前沿 AI 开发，并寻求反垄断豁免，Sam Altman 与 Elon Musk 表示同意。",
+        "recommend_reason_zh": null,
+        "url": "https://the-decoder.com/not-everyone-is-convinced-that-big-ais-proposed-development-slowdown-is-really-about-safety",
+        "source": "The Decoder：AI News（RSS）",
+        "source_name": "AI HOT"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-09-15T10:40:07.448886Z"
       }
     },
     {
@@ -496,15 +578,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8052,
-      "importance": 0.8052,
-      "importance_score": 0.8052,
+      "score": 0.8032,
+      "importance": 0.8032,
+      "importance_score": 0.8032,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.7847,
+        "recency": 0.7735,
         "story_heat": 0.0
       },
       "category": "official",
@@ -531,7 +613,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-15T09:40:20.488041Z"
+        "scored_at": "2026-09-15T10:40:07.448886Z"
       }
     },
     {
@@ -637,15 +719,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.8021,
-      "importance": 0.8021,
-      "importance_score": 0.8021,
+      "score": 0.8,
+      "importance": 0.8,
+      "importance_score": 0.8,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.77,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8306,
+        "recency": 0.8187,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -672,30 +754,30 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-15T09:40:20.488041Z"
+        "scored_at": "2026-09-15T10:40:07.448886Z"
       }
     },
     {
-      "story_id": "story_f571d5a44852",
-      "title": "数据安全拉响警报!大厂集体“封杀”前沿AI，英伟达等巨头为何急着换回自家模型?",
-      "url": "https://www.aibase.com/news/31062",
-      "primary_url": "https://www.aibase.com/news/31062",
+      "story_id": "story_997717c36cc4",
+      "title": "​加拿大研究员呼吁无限期暂停前沿 AI 研发：否则人类灭绝“只是时间问题”",
+      "url": "https://www.aibase.com/news/31065",
+      "primary_url": "https://www.aibase.com/news/31065",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "1c3b3aff23daa961c16c1e3f481275f9b892f51f",
-          "title": "数据安全拉响警报!大厂集体“封杀”前沿AI，英伟达等巨头为何急着换回自家模型?",
-          "title_zh": "数据安全拉响警报!大厂集体“封杀”前沿AI，英伟达等巨头为何急着换回自家模型?",
+          "id": "c803d253a8fe41c26511f20c69a6eceb007340be",
+          "title": "​加拿大研究员呼吁无限期暂停前沿 AI 研发：否则人类灭绝“只是时间问题”",
+          "title_zh": "​加拿大研究员呼吁无限期暂停前沿 AI 研发：否则人类灭绝“只是时间问题”",
           "title_en": null,
-          "title_original": "数据安全拉响警报!大厂集体“封杀”前沿AI，英伟达等巨头为何急着换回自家模型?",
+          "title_original": "​加拿大研究员呼吁无限期暂停前沿 AI 研发：否则人类灭绝“只是时间问题”",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/31062",
+          "url": "https://www.aibase.com/news/31065",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-09-15T08:47:21.392723Z"
+          "published_at": "2026-09-15T09:47:20.260692Z"
         }
       ],
       "source_count": 1,
@@ -704,18 +786,18 @@
       ],
       "items": [
         {
-          "id": "1c3b3aff23daa961c16c1e3f481275f9b892f51f",
-          "title": "数据安全拉响警报!大厂集体“封杀”前沿AI，英伟达等巨头为何急着换回自家模型?",
-          "title_zh": "数据安全拉响警报!大厂集体“封杀”前沿AI，英伟达等巨头为何急着换回自家模型?",
+          "id": "c803d253a8fe41c26511f20c69a6eceb007340be",
+          "title": "​加拿大研究员呼吁无限期暂停前沿 AI 研发：否则人类灭绝“只是时间问题”",
+          "title_zh": "​加拿大研究员呼吁无限期暂停前沿 AI 研发：否则人类灭绝“只是时间问题”",
           "title_en": null,
-          "title_original": "数据安全拉响警报!大厂集体“封杀”前沿AI，英伟达等巨头为何急着换回自家模型?",
+          "title_original": "​加拿大研究员呼吁无限期暂停前沿 AI 研发：否则人类灭绝“只是时间问题”",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/31062",
+          "url": "https://www.aibase.com/news/31065",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-09-15T08:47:21.392723Z"
+          "published_at": "2026-09-15T09:47:20.260692Z"
         }
       ],
       "item_count": 1,
@@ -736,17 +818,17 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-09-15T08:47:21.392723Z",
-      "latest_at": "2026-09-15T08:47:21.392723Z",
+      "earliest_at": "2026-09-15T09:47:20.260692Z",
+      "latest_at": "2026-09-15T09:47:20.260692Z",
       "primary_item": {
-        "id": "1c3b3aff23daa961c16c1e3f481275f9b892f51f",
-        "title": "数据安全拉响警报!大厂集体“封杀”前沿AI，英伟达等巨头为何急着换回自家模型?",
-        "title_zh": "数据安全拉响警报!大厂集体“封杀”前沿AI，英伟达等巨头为何急着换回自家模型?",
+        "id": "c803d253a8fe41c26511f20c69a6eceb007340be",
+        "title": "​加拿大研究员呼吁无限期暂停前沿 AI 研发：否则人类灭绝“只是时间问题”",
+        "title_zh": "​加拿大研究员呼吁无限期暂停前沿 AI 研发：否则人类灭绝“只是时间问题”",
         "title_en": null,
-        "title_original": "数据安全拉响警报!大厂集体“封杀”前沿AI，英伟达等巨头为何急着换回自家模型?",
+        "title_original": "​加拿大研究员呼吁无限期暂停前沿 AI 研发：否则人类灭绝“只是时间问题”",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/31062",
+        "url": "https://www.aibase.com/news/31065",
         "source": "AIbase",
         "source_name": "AIbase"
       },
@@ -754,7 +836,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-15T09:40:20.488041Z"
+        "scored_at": "2026-09-15T10:40:07.448886Z"
       }
     },
     {
@@ -802,15 +884,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7535,
-      "importance": 0.7535,
-      "importance_score": 0.7535,
+      "score": 0.7513,
+      "importance": 0.7513,
+      "importance_score": 0.7513,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.74,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8886,
+        "recency": 0.8759,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -836,88 +918,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-15T09:40:20.488041Z"
-      }
-    },
-    {
-      "story_id": "story_a5cc1961a5e8",
-      "title": "Anthropic 计划登陆纳斯达克，连续第二季度盈利瞄准 2 万亿美元估值 / Anthropic eyes Nasdaq listing as a second profitable quarter aims to win over investors ahead of a mega-IPO",
-      "url": "https://the-decoder.com/anthropic-eyes-nasdaq-listing-as-a-second-profitable-quarter-aims-to-win-over-investors-ahead-of-a-mega-ipo",
-      "primary_url": "https://the-decoder.com/anthropic-eyes-nasdaq-listing-as-a-second-profitable-quarter-aims-to-win-over-investors-ahead-of-a-mega-ipo",
-      "source": "The Decoder：AI News（RSS）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "b96780256a3db8fca4f9f0d287310b3c20b5408b",
-          "title": "Anthropic 计划登陆纳斯达克，连续第二季度盈利瞄准 2 万亿美元估值 / Anthropic eyes Nasdaq listing as a second profitable quarter aims to win over investors ahead of a mega-IPO",
-          "title_zh": "Anthropic 计划登陆纳斯达克，连续第二季度盈利瞄准 2 万亿美元估值",
-          "title_en": "Anthropic eyes Nasdaq listing as a second profitable quarter aims to win over investors ahead of a mega-IPO",
-          "title_original": "Anthropic eyes Nasdaq listing as a second profitable quarter aims to win over investors ahead of a mega-IPO",
-          "summary": "Anthropic 告知投资者将实现连续第二个季度盈利，但该说法基于剔除股权激励等成本的调整后指标；据 Financial Times，毛利率超过 80%，尚未计入对 Amazon 等伙伴的分成和模型训练成本。",
-          "recommend_reason_zh": null,
-          "url": "https://the-decoder.com/anthropic-eyes-nasdaq-listing-as-a-second-profitable-quarter-aims-to-win-over-investors-ahead-of-a-mega-ipo",
-          "source": "The Decoder：AI News（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-14T15:46:45Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "The Decoder：AI News（RSS）"
-      ],
-      "items": [
-        {
-          "id": "b96780256a3db8fca4f9f0d287310b3c20b5408b",
-          "title": "Anthropic 计划登陆纳斯达克，连续第二季度盈利瞄准 2 万亿美元估值 / Anthropic eyes Nasdaq listing as a second profitable quarter aims to win over investors ahead of a mega-IPO",
-          "title_zh": "Anthropic 计划登陆纳斯达克，连续第二季度盈利瞄准 2 万亿美元估值",
-          "title_en": "Anthropic eyes Nasdaq listing as a second profitable quarter aims to win over investors ahead of a mega-IPO",
-          "title_original": "Anthropic eyes Nasdaq listing as a second profitable quarter aims to win over investors ahead of a mega-IPO",
-          "summary": "Anthropic 告知投资者将实现连续第二个季度盈利，但该说法基于剔除股权激励等成本的调整后指标；据 Financial Times，毛利率超过 80%，尚未计入对 Amazon 等伙伴的分成和模型训练成本。",
-          "recommend_reason_zh": null,
-          "url": "https://the-decoder.com/anthropic-eyes-nasdaq-listing-as-a-second-profitable-quarter-aims-to-win-over-investors-ahead-of-a-mega-ipo",
-          "source": "The Decoder：AI News（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-14T15:46:45Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7464,
-      "importance": 0.7464,
-      "importance_score": 0.7464,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.78,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7822,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-09-14T15:46:45Z",
-      "latest_at": "2026-09-14T15:46:45Z",
-      "primary_item": {
-        "id": "b96780256a3db8fca4f9f0d287310b3c20b5408b",
-        "title": "Anthropic 计划登陆纳斯达克，连续第二季度盈利瞄准 2 万亿美元估值 / Anthropic eyes Nasdaq listing as a second profitable quarter aims to win over investors ahead of a mega-IPO",
-        "title_zh": "Anthropic 计划登陆纳斯达克，连续第二季度盈利瞄准 2 万亿美元估值",
-        "title_en": "Anthropic eyes Nasdaq listing as a second profitable quarter aims to win over investors ahead of a mega-IPO",
-        "title_original": "Anthropic eyes Nasdaq listing as a second profitable quarter aims to win over investors ahead of a mega-IPO",
-        "summary": "Anthropic 告知投资者将实现连续第二个季度盈利，但该说法基于剔除股权激励等成本的调整后指标；据 Financial Times，毛利率超过 80%，尚未计入对 Amazon 等伙伴的分成和模型训练成本。",
-        "recommend_reason_zh": null,
-        "url": "https://the-decoder.com/anthropic-eyes-nasdaq-listing-as-a-second-profitable-quarter-aims-to-win-over-investors-ahead-of-a-mega-ipo",
-        "source": "The Decoder：AI News（RSS）",
-        "source_name": "AI HOT"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-09-15T09:40:20.488041Z"
+        "scored_at": "2026-09-15T10:40:07.448886Z"
       }
     },
     {
@@ -965,15 +966,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7462,
-      "importance": 0.7462,
-      "importance_score": 0.7462,
+      "score": 0.7442,
+      "importance": 0.7442,
+      "importance_score": 0.7442,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.77,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.798,
+        "recency": 0.7865,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -998,7 +999,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-15T09:40:20.488041Z"
+        "scored_at": "2026-09-15T10:40:07.448886Z"
       }
     },
     {
@@ -1046,15 +1047,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7433,
-      "importance": 0.7433,
-      "importance_score": 0.7433,
+      "score": 0.7407,
+      "importance": 0.7407,
+      "importance_score": 0.7407,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.65,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9815,
+        "recency": 0.9675,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1079,26 +1080,26 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-15T09:40:20.488041Z"
+        "scored_at": "2026-09-15T10:40:07.448886Z"
       }
     },
     {
-      "story_id": "story_04a7d5939199",
-      "title": "阶跃发布StepAudio3系列模型:五款模型同步上线开放平台",
-      "url": "https://www.aibase.com/news/31063",
-      "primary_url": "https://www.aibase.com/news/31063",
+      "story_id": "story_f571d5a44852",
+      "title": "数据安全拉响警报!大厂集体“封杀”前沿AI，英伟达等巨头为何急着换回自家模型?",
+      "url": "https://www.aibase.com/news/31062",
+      "primary_url": "https://www.aibase.com/news/31062",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "6d09c8b87bc437b1e01dc89bbfcfbc9dbbd1403a",
-          "title": "阶跃发布StepAudio3系列模型:五款模型同步上线开放平台",
-          "title_zh": "阶跃发布StepAudio3系列模型:五款模型同步上线开放平台",
+          "id": "1c3b3aff23daa961c16c1e3f481275f9b892f51f",
+          "title": "数据安全拉响警报!大厂集体“封杀”前沿AI，英伟达等巨头为何急着换回自家模型?",
+          "title_zh": "数据安全拉响警报!大厂集体“封杀”前沿AI，英伟达等巨头为何急着换回自家模型?",
           "title_en": null,
-          "title_original": "阶跃发布StepAudio3系列模型:五款模型同步上线开放平台",
+          "title_original": "数据安全拉响警报!大厂集体“封杀”前沿AI，英伟达等巨头为何急着换回自家模型?",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/31063",
+          "url": "https://www.aibase.com/news/31062",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
@@ -1111,14 +1112,14 @@
       ],
       "items": [
         {
-          "id": "6d09c8b87bc437b1e01dc89bbfcfbc9dbbd1403a",
-          "title": "阶跃发布StepAudio3系列模型:五款模型同步上线开放平台",
-          "title_zh": "阶跃发布StepAudio3系列模型:五款模型同步上线开放平台",
+          "id": "1c3b3aff23daa961c16c1e3f481275f9b892f51f",
+          "title": "数据安全拉响警报!大厂集体“封杀”前沿AI，英伟达等巨头为何急着换回自家模型?",
+          "title_zh": "数据安全拉响警报!大厂集体“封杀”前沿AI，英伟达等巨头为何急着换回自家模型?",
           "title_en": null,
-          "title_original": "阶跃发布StepAudio3系列模型:五款模型同步上线开放平台",
+          "title_original": "数据安全拉响警报!大厂集体“封杀”前沿AI，英伟达等巨头为何急着换回自家模型?",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/31063",
+          "url": "https://www.aibase.com/news/31062",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
@@ -1127,15 +1128,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7676,
-      "importance": 0.7676,
-      "importance_score": 0.7676,
+      "score": 0.765,
+      "importance": 0.765,
+      "importance_score": 0.765,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.9857,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1146,14 +1147,14 @@
       "earliest_at": "2026-09-15T08:47:21.392723Z",
       "latest_at": "2026-09-15T08:47:21.392723Z",
       "primary_item": {
-        "id": "6d09c8b87bc437b1e01dc89bbfcfbc9dbbd1403a",
-        "title": "阶跃发布StepAudio3系列模型:五款模型同步上线开放平台",
-        "title_zh": "阶跃发布StepAudio3系列模型:五款模型同步上线开放平台",
+        "id": "1c3b3aff23daa961c16c1e3f481275f9b892f51f",
+        "title": "数据安全拉响警报!大厂集体“封杀”前沿AI，英伟达等巨头为何急着换回自家模型?",
+        "title_zh": "数据安全拉响警报!大厂集体“封杀”前沿AI，英伟达等巨头为何急着换回自家模型?",
         "title_en": null,
-        "title_original": "阶跃发布StepAudio3系列模型:五款模型同步上线开放平台",
+        "title_original": "数据安全拉响警报!大厂集体“封杀”前沿AI，英伟达等巨头为何急着换回自家模型?",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/31063",
+        "url": "https://www.aibase.com/news/31062",
         "source": "AIbase",
         "source_name": "AIbase"
       },
@@ -1161,7 +1162,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-15T09:40:20.488041Z"
+        "scored_at": "2026-09-15T10:40:07.448886Z"
       }
     },
     {
@@ -1209,15 +1210,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7357,
-      "importance": 0.7357,
-      "importance_score": 0.7357,
+      "score": 0.7333,
+      "importance": 0.7333,
+      "importance_score": 0.7333,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.66,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9229,
+        "recency": 0.9097,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1242,7 +1243,170 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-15T09:40:20.488041Z"
+        "scored_at": "2026-09-15T10:40:07.448886Z"
+      }
+    },
+    {
+      "story_id": "story_a5cc1961a5e8",
+      "title": "Anthropic 计划登陆纳斯达克，连续第二季度盈利瞄准 2 万亿美元估值 / Anthropic eyes Nasdaq listing as a second profitable quarter aims to win over investors ahead of a mega-IPO",
+      "url": "https://the-decoder.com/anthropic-eyes-nasdaq-listing-as-a-second-profitable-quarter-aims-to-win-over-investors-ahead-of-a-mega-ipo",
+      "primary_url": "https://the-decoder.com/anthropic-eyes-nasdaq-listing-as-a-second-profitable-quarter-aims-to-win-over-investors-ahead-of-a-mega-ipo",
+      "source": "The Decoder：AI News（RSS）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "b96780256a3db8fca4f9f0d287310b3c20b5408b",
+          "title": "Anthropic 计划登陆纳斯达克，连续第二季度盈利瞄准 2 万亿美元估值 / Anthropic eyes Nasdaq listing as a second profitable quarter aims to win over investors ahead of a mega-IPO",
+          "title_zh": "Anthropic 计划登陆纳斯达克，连续第二季度盈利瞄准 2 万亿美元估值",
+          "title_en": "Anthropic eyes Nasdaq listing as a second profitable quarter aims to win over investors ahead of a mega-IPO",
+          "title_original": "Anthropic eyes Nasdaq listing as a second profitable quarter aims to win over investors ahead of a mega-IPO",
+          "summary": "Anthropic 告知投资者将实现连续第二个季度盈利，但该说法基于剔除股权激励等成本的调整后指标；据 Financial Times，毛利率超过 80%，尚未计入对 Amazon 等伙伴的分成和模型训练成本。",
+          "recommend_reason_zh": null,
+          "url": "https://the-decoder.com/anthropic-eyes-nasdaq-listing-as-a-second-profitable-quarter-aims-to-win-over-investors-ahead-of-a-mega-ipo",
+          "source": "The Decoder：AI News（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-14T15:46:45Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "The Decoder：AI News（RSS）"
+      ],
+      "items": [
+        {
+          "id": "b96780256a3db8fca4f9f0d287310b3c20b5408b",
+          "title": "Anthropic 计划登陆纳斯达克，连续第二季度盈利瞄准 2 万亿美元估值 / Anthropic eyes Nasdaq listing as a second profitable quarter aims to win over investors ahead of a mega-IPO",
+          "title_zh": "Anthropic 计划登陆纳斯达克，连续第二季度盈利瞄准 2 万亿美元估值",
+          "title_en": "Anthropic eyes Nasdaq listing as a second profitable quarter aims to win over investors ahead of a mega-IPO",
+          "title_original": "Anthropic eyes Nasdaq listing as a second profitable quarter aims to win over investors ahead of a mega-IPO",
+          "summary": "Anthropic 告知投资者将实现连续第二个季度盈利，但该说法基于剔除股权激励等成本的调整后指标；据 Financial Times，毛利率超过 80%，尚未计入对 Amazon 等伙伴的分成和模型训练成本。",
+          "recommend_reason_zh": null,
+          "url": "https://the-decoder.com/anthropic-eyes-nasdaq-listing-as-a-second-profitable-quarter-aims-to-win-over-investors-ahead-of-a-mega-ipo",
+          "source": "The Decoder：AI News（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-14T15:46:45Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7444,
+      "importance": 0.7444,
+      "importance_score": 0.7444,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.78,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.771,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-09-14T15:46:45Z",
+      "latest_at": "2026-09-14T15:46:45Z",
+      "primary_item": {
+        "id": "b96780256a3db8fca4f9f0d287310b3c20b5408b",
+        "title": "Anthropic 计划登陆纳斯达克，连续第二季度盈利瞄准 2 万亿美元估值 / Anthropic eyes Nasdaq listing as a second profitable quarter aims to win over investors ahead of a mega-IPO",
+        "title_zh": "Anthropic 计划登陆纳斯达克，连续第二季度盈利瞄准 2 万亿美元估值",
+        "title_en": "Anthropic eyes Nasdaq listing as a second profitable quarter aims to win over investors ahead of a mega-IPO",
+        "title_original": "Anthropic eyes Nasdaq listing as a second profitable quarter aims to win over investors ahead of a mega-IPO",
+        "summary": "Anthropic 告知投资者将实现连续第二个季度盈利，但该说法基于剔除股权激励等成本的调整后指标；据 Financial Times，毛利率超过 80%，尚未计入对 Amazon 等伙伴的分成和模型训练成本。",
+        "recommend_reason_zh": null,
+        "url": "https://the-decoder.com/anthropic-eyes-nasdaq-listing-as-a-second-profitable-quarter-aims-to-win-over-investors-ahead-of-a-mega-ipo",
+        "source": "The Decoder：AI News（RSS）",
+        "source_name": "AI HOT"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-09-15T10:40:07.448886Z"
+      }
+    },
+    {
+      "story_id": "story_04a7d5939199",
+      "title": "阶跃发布StepAudio3系列模型:五款模型同步上线开放平台",
+      "url": "https://www.aibase.com/news/31063",
+      "primary_url": "https://www.aibase.com/news/31063",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "6d09c8b87bc437b1e01dc89bbfcfbc9dbbd1403a",
+          "title": "阶跃发布StepAudio3系列模型:五款模型同步上线开放平台",
+          "title_zh": "阶跃发布StepAudio3系列模型:五款模型同步上线开放平台",
+          "title_en": null,
+          "title_original": "阶跃发布StepAudio3系列模型:五款模型同步上线开放平台",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/31063",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-09-15T08:47:21.392723Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "6d09c8b87bc437b1e01dc89bbfcfbc9dbbd1403a",
+          "title": "阶跃发布StepAudio3系列模型:五款模型同步上线开放平台",
+          "title_zh": "阶跃发布StepAudio3系列模型:五款模型同步上线开放平台",
+          "title_en": null,
+          "title_original": "阶跃发布StepAudio3系列模型:五款模型同步上线开放平台",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/31063",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-09-15T08:47:21.392723Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.765,
+      "importance": 0.765,
+      "importance_score": 0.765,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9857,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-15T08:47:21.392723Z",
+      "latest_at": "2026-09-15T08:47:21.392723Z",
+      "primary_item": {
+        "id": "6d09c8b87bc437b1e01dc89bbfcfbc9dbbd1403a",
+        "title": "阶跃发布StepAudio3系列模型:五款模型同步上线开放平台",
+        "title_zh": "阶跃发布StepAudio3系列模型:五款模型同步上线开放平台",
+        "title_en": null,
+        "title_original": "阶跃发布StepAudio3系列模型:五款模型同步上线开放平台",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://www.aibase.com/news/31063",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-09-15T10:40:07.448886Z"
       }
     },
     {
@@ -1290,15 +1454,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.765,
-      "importance": 0.765,
-      "importance_score": 0.765,
+      "score": 0.7625,
+      "importance": 0.7625,
+      "importance_score": 0.7625,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9857,
+        "recency": 0.9715,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1324,7 +1488,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-15T09:40:20.488041Z"
+        "scored_at": "2026-09-15T10:40:07.448886Z"
       }
     },
     {
@@ -1372,15 +1536,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.765,
-      "importance": 0.765,
-      "importance_score": 0.765,
+      "score": 0.7625,
+      "importance": 0.7625,
+      "importance_score": 0.7625,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9857,
+        "recency": 0.9715,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1406,7 +1570,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-15T09:40:20.488041Z"
+        "scored_at": "2026-09-15T10:40:07.448886Z"
       }
     },
     {
@@ -1454,15 +1618,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7625,
-      "importance": 0.7625,
-      "importance_score": 0.7625,
+      "score": 0.76,
+      "importance": 0.76,
+      "importance_score": 0.76,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9715,
+        "recency": 0.9576,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1488,7 +1652,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-15T09:40:20.488041Z"
+        "scored_at": "2026-09-15T10:40:07.448886Z"
       }
     },
     {
@@ -1536,15 +1700,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7625,
-      "importance": 0.7625,
-      "importance_score": 0.7625,
+      "score": 0.76,
+      "importance": 0.76,
+      "importance_score": 0.76,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9715,
+        "recency": 0.9576,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1570,7 +1734,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-15T09:40:20.488041Z"
+        "scored_at": "2026-09-15T10:40:07.448886Z"
       }
     },
     {
@@ -1618,15 +1782,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7625,
-      "importance": 0.7625,
-      "importance_score": 0.7625,
+      "score": 0.76,
+      "importance": 0.76,
+      "importance_score": 0.76,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9715,
+        "recency": 0.9576,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1652,199 +1816,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-15T09:40:20.488041Z"
-      }
-    },
-    {
-      "story_id": "story_4771199a8ed2",
-      "title": "盖茨基金会未来两年投入至少10亿美元，推动AI公平普惠",
-      "url": "https://www.aibase.com/news/31058",
-      "primary_url": "https://www.aibase.com/news/31058",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "ddd1a5705b4b6d85b6a4b75f801ab95387084a47",
-          "title": "盖茨基金会未来两年投入至少10亿美元，推动AI公平普惠",
-          "title_zh": "盖茨基金会未来两年投入至少10亿美元，推动AI公平普惠",
-          "title_en": null,
-          "title_original": "盖茨基金会未来两年投入至少10亿美元，推动AI公平普惠",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/31058",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-09-15T06:47:15.697672Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "ddd1a5705b4b6d85b6a4b75f801ab95387084a47",
-          "title": "盖茨基金会未来两年投入至少10亿美元，推动AI公平普惠",
-          "title_zh": "盖茨基金会未来两年投入至少10亿美元，推动AI公平普惠",
-          "title_en": null,
-          "title_original": "盖茨基金会未来两年投入至少10亿美元，推动AI公平普惠",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/31058",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-09-15T06:47:15.697672Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7625,
-      "importance": 0.7625,
-      "importance_score": 0.7625,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.9715,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-15T06:47:15.697672Z",
-      "latest_at": "2026-09-15T06:47:15.697672Z",
-      "primary_item": {
-        "id": "ddd1a5705b4b6d85b6a4b75f801ab95387084a47",
-        "title": "盖茨基金会未来两年投入至少10亿美元，推动AI公平普惠",
-        "title_zh": "盖茨基金会未来两年投入至少10亿美元，推动AI公平普惠",
-        "title_en": null,
-        "title_original": "盖茨基金会未来两年投入至少10亿美元，推动AI公平普惠",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/31058",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-09-15T09:40:20.488041Z"
-      }
-    },
-    {
-      "story_id": "story_7cfec37da01f",
-      "title": "利用备忘录法（非AI生成）将eBPF的CPU开销降低约90%",
-      "url": "https://nathannaveen.dev/posts/dropping-ebpf-cpu-cost-by-90",
-      "primary_url": "https://nathannaveen.dev/posts/dropping-ebpf-cpu-cost-by-90",
-      "source": "nathannaveen.dev",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "4fcbe12444681b5bbd9bc8fa4356bb2386d094b0",
-          "title": "利用备忘录法（非AI生成）将eBPF的CPU开销降低约90%",
-          "title_zh": "利用备忘录法（非AI生成）将eBPF的CPU开销降低约90%",
-          "title_en": null,
-          "title_original": "利用备忘录法（非AI生成）将eBPF的CPU开销降低约90%",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://nathannaveen.dev/posts/dropping-ebpf-cpu-cost-by-90",
-          "source": "nathannaveen.dev",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-09-15T08:19:22.645000Z"
-        },
-        {
-          "id": "b01a490274c4217c77734533ce3f96db937f472b",
-          "title": "利用备忘录法（非AI生成）将eBPF的CPU开销降低约90% / Dropping eBPF CPU Cost by About 90% with Memoization (Not AI Gen)",
-          "title_zh": "利用备忘录法（非AI生成）将eBPF的CPU开销降低约90%",
-          "title_en": "Dropping eBPF CPU Cost by About 90% with Memoization (Not AI Gen)",
-          "title_original": "Dropping eBPF CPU Cost by About 90% with Memoization (Not AI Gen)",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://nathannaveen.dev/posts/dropping-ebpf-cpu-cost-by-90",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-09-14T14:29:23Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News (黑客新闻)",
-        "nathannaveen.dev"
-      ],
-      "items": [
-        {
-          "id": "4fcbe12444681b5bbd9bc8fa4356bb2386d094b0",
-          "title": "利用备忘录法（非AI生成）将eBPF的CPU开销降低约90%",
-          "title_zh": "利用备忘录法（非AI生成）将eBPF的CPU开销降低约90%",
-          "title_en": null,
-          "title_original": "利用备忘录法（非AI生成）将eBPF的CPU开销降低约90%",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://nathannaveen.dev/posts/dropping-ebpf-cpu-cost-by-90",
-          "source": "nathannaveen.dev",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-09-15T08:19:22.645000Z"
-        },
-        {
-          "id": "b01a490274c4217c77734533ce3f96db937f472b",
-          "title": "利用备忘录法（非AI生成）将eBPF的CPU开销降低约90% / Dropping eBPF CPU Cost by About 90% with Memoization (Not AI Gen)",
-          "title_zh": "利用备忘录法（非AI生成）将eBPF的CPU开销降低约90%",
-          "title_en": "Dropping eBPF CPU Cost by About 90% with Memoization (Not AI Gen)",
-          "title_original": "Dropping eBPF CPU Cost by About 90% with Memoization (Not AI Gen)",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://nathannaveen.dev/posts/dropping-ebpf-cpu-cost-by-90",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-09-14T14:29:23Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5446,
-      "importance": 0.5446,
-      "importance_score": 0.5446,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.9933,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-09-14T14:29:23Z",
-      "latest_at": "2026-09-15T08:19:22.645000Z",
-      "primary_item": {
-        "id": "4fcbe12444681b5bbd9bc8fa4356bb2386d094b0",
-        "title": "利用备忘录法（非AI生成）将eBPF的CPU开销降低约90%",
-        "title_zh": "利用备忘录法（非AI生成）将eBPF的CPU开销降低约90%",
-        "title_en": null,
-        "title_original": "利用备忘录法（非AI生成）将eBPF的CPU开销降低约90%",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://nathannaveen.dev/posts/dropping-ebpf-cpu-cost-by-90",
-        "source": "nathannaveen.dev",
-        "source_name": "Buzzing"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-09-15T09:40:20.488041Z"
+        "scored_at": "2026-09-15T10:40:07.448886Z"
       }
     }
   ]
