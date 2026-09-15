@@ -8,8 +8,16 @@ on:
         required: false
         default: false
         type: boolean
-  schedule:
-    - cron: "17 * * * *"
+  # NO `schedule:` here, deliberately. This job is driven hourly from the owner's VPS
+  # (/home/sandy/bin/radar-trigger.sh, crontab 47 * * * *), which fires on a real clock —
+  # GitHub's scheduler only managed every 152-301 minutes.
+  #
+  # Keeping GitHub's own schedule as a "free backup" actively broke things: a scheduled run
+  # would start while the VPS-triggered one was still going, both would regenerate the same
+  # data/*.json, and the second to finish was rejected on push and died on
+  # `CONFLICT (content): data/latest-24h.json` — 3 wasted, failed runs a day (09-14 12:47,
+  # 09-14 22:28, 09-15 01:25). One driver only. If the VPS ever stops, My Brain's own
+  # staleness banner says so within 16 hours.
 
 concurrency:
   group: update-ai-news-${{ github.ref }}
@@ -25,12 +33,14 @@ permissions:
 
 jobs:
   update:
-    # 40 was not enough: this job is network-bound and its runtime swings between ~1 and ~40
-    # minutes depending on how fast the sources answer. It grazed the cap from 4 Sep and then
-    # exceeded it on every run from 9 Sep, so it was cancelled before "Commit and push changes"
-    # and nothing was published for a day. Raised together with the socket timeouts in
-    # update_news.py, which is what stops the bad case being unbounded.
-    timeout-minutes: 55
+    # 40 was not enough (runs were cancelled mid-step for a day in Sep); 55 was not enough either.
+    # Hourly triggering from the VPS catches far more stories before they drop off their sources'
+    # feeds — data/latest-24h.json went 226 -> 370 items over 09-14 — and the per-story work
+    # (translate, score, merge) scales with that, so the run climbed 1m -> 15 -> 25 -> 40 -> 50m
+    # against a 55m cap. 90 gives real headroom. This is a CEILING, not a target: the run only
+    # takes as long as the work needs, and the VPS trigger skips whenever one is already going,
+    # so a slow day self-regulates into effectively two-hourly instead of piling up.
+    timeout-minutes: 90
     runs-on: ubuntu-latest
     steps:
       - name: Checkout
