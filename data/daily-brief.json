@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-16T04:47:19.921692Z",
+  "generated_at": "2026-09-16T05:47:20.130625Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -135,15 +135,15 @@
       ],
       "item_count": 4,
       "duplicate_count": 4,
-      "score": 0.899,
-      "importance": 0.899,
-      "importance_score": 0.899,
+      "score": 0.8969,
+      "importance": 0.8969,
+      "importance_score": 0.8969,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.8447,
+        "recency": 0.8326,
         "story_heat": 0.75
       },
       "category": "official",
@@ -171,7 +171,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-16T05:36:48.835610Z"
+        "scored_at": "2026-09-16T06:37:34.483074Z"
       }
     },
     {
@@ -219,15 +219,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8297,
-      "importance": 0.8297,
-      "importance_score": 0.8297,
+      "score": 0.8275,
+      "importance": 0.8275,
+      "importance_score": 0.8275,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.8315,
+        "recency": 0.8196,
         "story_heat": 0.0
       },
       "category": "official",
@@ -254,7 +254,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-16T05:36:48.835610Z"
+        "scored_at": "2026-09-16T06:37:34.483074Z"
       }
     },
     {
@@ -302,15 +302,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8286,
-      "importance": 0.8286,
-      "importance_score": 0.8286,
+      "score": 0.8263,
+      "importance": 0.8263,
+      "importance_score": 0.8263,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.8698,
+        "recency": 0.8573,
         "story_heat": 0.0
       },
       "category": "official",
@@ -337,7 +337,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-16T05:36:48.835610Z"
+        "scored_at": "2026-09-16T06:37:34.483074Z"
       }
     },
     {
@@ -385,15 +385,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8136,
-      "importance": 0.8136,
-      "importance_score": 0.8136,
+      "score": 0.8115,
+      "importance": 0.8115,
+      "importance_score": 0.8115,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.8314,
+        "recency": 0.8195,
         "story_heat": 0.0
       },
       "category": "official",
@@ -420,7 +420,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-16T05:36:48.835610Z"
+        "scored_at": "2026-09-16T06:37:34.483074Z"
       }
     },
     {
@@ -468,15 +468,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8215,
-      "importance": 0.8215,
-      "importance_score": 0.8215,
+      "score": 0.8192,
+      "importance": 0.8192,
+      "importance_score": 0.8192,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.8749,
+        "recency": 0.8623,
         "story_heat": 0.0
       },
       "category": "official",
@@ -503,7 +503,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-16T05:36:48.835610Z"
+        "scored_at": "2026-09-16T06:37:34.483074Z"
       }
     },
     {
@@ -551,15 +551,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8136,
-      "importance": 0.8136,
-      "importance_score": 0.8136,
+      "score": 0.8115,
+      "importance": 0.8115,
+      "importance_score": 0.8115,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.8314,
+        "recency": 0.8195,
         "story_heat": 0.0
       },
       "category": "official",
@@ -586,30 +586,30 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-16T05:36:48.835610Z"
+        "scored_at": "2026-09-16T06:37:34.483074Z"
       }
     },
     {
-      "story_id": "story_8b50271636c2",
-      "title": "vivo 蓝心大模型全面升级：四大模型齐发，听得懂、记得住、还能办事",
-      "url": "https://www.aibase.com/news/31080",
-      "primary_url": "https://www.aibase.com/news/31080",
+      "story_id": "story_2bf3b0567c28",
+      "title": "豆包2.1Pro0915上线火山方舟，飞书8.0引入团队智能体“豆包工作伙伴”",
+      "url": "https://www.aibase.com/news/31085",
+      "primary_url": "https://www.aibase.com/news/31085",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "3967576bc89c06c8153c27b7e34b3ca3b9637d0d",
-          "title": "vivo 蓝心大模型全面升级：四大模型齐发，听得懂、记得住、还能办事",
-          "title_zh": "vivo 蓝心大模型全面升级：四大模型齐发，听得懂、记得住、还能办事",
+          "id": "f33c5fa77d23cfdbd88756482cb5b2d53c46ec8d",
+          "title": "豆包2.1Pro0915上线火山方舟，飞书8.0引入团队智能体“豆包工作伙伴”",
+          "title_zh": "豆包2.1Pro0915上线火山方舟，飞书8.0引入团队智能体“豆包工作伙伴”",
           "title_en": null,
-          "title_original": "vivo 蓝心大模型全面升级：四大模型齐发，听得懂、记得住、还能办事",
+          "title_original": "豆包2.1Pro0915上线火山方舟，飞书8.0引入团队智能体“豆包工作伙伴”",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/31080",
+          "url": "https://www.aibase.com/news/31085",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-09-16T03:47:16.570007Z"
+          "published_at": "2026-09-16T05:47:20.130625Z"
         }
       ],
       "source_count": 1,
@@ -618,31 +618,31 @@
       ],
       "items": [
         {
-          "id": "3967576bc89c06c8153c27b7e34b3ca3b9637d0d",
-          "title": "vivo 蓝心大模型全面升级：四大模型齐发，听得懂、记得住、还能办事",
-          "title_zh": "vivo 蓝心大模型全面升级：四大模型齐发，听得懂、记得住、还能办事",
+          "id": "f33c5fa77d23cfdbd88756482cb5b2d53c46ec8d",
+          "title": "豆包2.1Pro0915上线火山方舟，飞书8.0引入团队智能体“豆包工作伙伴”",
+          "title_zh": "豆包2.1Pro0915上线火山方舟，飞书8.0引入团队智能体“豆包工作伙伴”",
           "title_en": null,
-          "title_original": "vivo 蓝心大模型全面升级：四大模型齐发，听得懂、记得住、还能办事",
+          "title_original": "豆包2.1Pro0915上线火山方舟，飞书8.0引入团队智能体“豆包工作伙伴”",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/31080",
+          "url": "https://www.aibase.com/news/31085",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-09-16T03:47:16.570007Z"
+          "published_at": "2026-09-16T05:47:20.130625Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.765,
-      "importance": 0.765,
-      "importance_score": 0.765,
+      "score": 0.7676,
+      "importance": 0.7676,
+      "importance_score": 0.7676,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9856,
+        "recency": 1.0,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -650,17 +650,17 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-09-16T03:47:16.570007Z",
-      "latest_at": "2026-09-16T03:47:16.570007Z",
+      "earliest_at": "2026-09-16T05:47:20.130625Z",
+      "latest_at": "2026-09-16T05:47:20.130625Z",
       "primary_item": {
-        "id": "3967576bc89c06c8153c27b7e34b3ca3b9637d0d",
-        "title": "vivo 蓝心大模型全面升级：四大模型齐发，听得懂、记得住、还能办事",
-        "title_zh": "vivo 蓝心大模型全面升级：四大模型齐发，听得懂、记得住、还能办事",
+        "id": "f33c5fa77d23cfdbd88756482cb5b2d53c46ec8d",
+        "title": "豆包2.1Pro0915上线火山方舟，飞书8.0引入团队智能体“豆包工作伙伴”",
+        "title_zh": "豆包2.1Pro0915上线火山方舟，飞书8.0引入团队智能体“豆包工作伙伴”",
         "title_en": null,
-        "title_original": "vivo 蓝心大模型全面升级：四大模型齐发，听得懂、记得住、还能办事",
+        "title_original": "豆包2.1Pro0915上线火山方舟，飞书8.0引入团队智能体“豆包工作伙伴”",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/31080",
+        "url": "https://www.aibase.com/news/31085",
         "source": "AIbase",
         "source_name": "AIbase"
       },
@@ -668,7 +668,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-16T05:36:48.835610Z"
+        "scored_at": "2026-09-16T06:37:34.483074Z"
       }
     },
     {
@@ -745,15 +745,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.763,
-      "importance": 0.763,
-      "importance_score": 0.763,
+      "score": 0.7611,
+      "importance": 0.7611,
+      "importance_score": 0.7611,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.77,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7523,
+        "recency": 0.7415,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -780,7 +780,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-16T05:36:48.835610Z"
+        "scored_at": "2026-09-16T06:37:34.483074Z"
       }
     },
     {
@@ -828,15 +828,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7576,
-      "importance": 0.7576,
-      "importance_score": 0.7576,
+      "score": 0.7554,
+      "importance": 0.7554,
+      "importance_score": 0.7554,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.79,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8277,
+        "recency": 0.8158,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -862,7 +862,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-16T05:36:48.835610Z"
+        "scored_at": "2026-09-16T06:37:34.483074Z"
       }
     },
     {
@@ -910,15 +910,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8154,
-      "importance": 0.8154,
-      "importance_score": 0.8154,
+      "score": 0.8132,
+      "importance": 0.8132,
+      "importance_score": 0.8132,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.8409,
+        "recency": 0.8288,
         "story_heat": 0.0
       },
       "category": "official",
@@ -945,7 +945,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-16T05:36:48.835610Z"
+        "scored_at": "2026-09-16T06:37:34.483074Z"
       }
     },
     {
@@ -993,15 +993,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8136,
-      "importance": 0.8136,
-      "importance_score": 0.8136,
+      "score": 0.8115,
+      "importance": 0.8115,
+      "importance_score": 0.8115,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.8314,
+        "recency": 0.8195,
         "story_heat": 0.0
       },
       "category": "official",
@@ -1028,7 +1028,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-16T05:36:48.835610Z"
+        "scored_at": "2026-09-16T06:37:34.483074Z"
       }
     },
     {
@@ -1076,15 +1076,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7404,
-      "importance": 0.7404,
-      "importance_score": 0.7404,
+      "score": 0.7384,
+      "importance": 0.7384,
+      "importance_score": 0.7384,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.76,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7825,
+        "recency": 0.7713,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1109,7 +1109,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-16T05:36:48.835610Z"
+        "scored_at": "2026-09-16T06:37:34.483074Z"
       }
     },
     {
@@ -1157,15 +1157,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7373,
-      "importance": 0.7373,
-      "importance_score": 0.7373,
+      "score": 0.7349,
+      "importance": 0.7349,
+      "importance_score": 0.7349,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.68,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8981,
+        "recency": 0.8852,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1190,89 +1190,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-16T05:36:48.835610Z"
-      }
-    },
-    {
-      "story_id": "story_340a30e0ba52",
-      "title": "产业大爆发！我国工业大模型企业突破 6.2 万家，今年新注册狂飙 2.2 万家",
-      "url": "https://www.aibase.com/news/31081",
-      "primary_url": "https://www.aibase.com/news/31081",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "21c18bdbfdeb594eec6d94480041e7762e02e2bc",
-          "title": "产业大爆发！我国工业大模型企业突破 6.2 万家，今年新注册狂飙 2.2 万家",
-          "title_zh": "产业大爆发！我国工业大模型企业突破 6.2 万家，今年新注册狂飙 2.2 万家",
-          "title_en": null,
-          "title_original": "产业大爆发！我国工业大模型企业突破 6.2 万家，今年新注册狂飙 2.2 万家",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/31081",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-09-16T03:47:16.570007Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "21c18bdbfdeb594eec6d94480041e7762e02e2bc",
-          "title": "产业大爆发！我国工业大模型企业突破 6.2 万家，今年新注册狂飙 2.2 万家",
-          "title_zh": "产业大爆发！我国工业大模型企业突破 6.2 万家，今年新注册狂飙 2.2 万家",
-          "title_en": null,
-          "title_original": "产业大爆发！我国工业大模型企业突破 6.2 万家，今年新注册狂飙 2.2 万家",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/31081",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-09-16T03:47:16.570007Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.765,
-      "importance": 0.765,
-      "importance_score": 0.765,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.9856,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-16T03:47:16.570007Z",
-      "latest_at": "2026-09-16T03:47:16.570007Z",
-      "primary_item": {
-        "id": "21c18bdbfdeb594eec6d94480041e7762e02e2bc",
-        "title": "产业大爆发！我国工业大模型企业突破 6.2 万家，今年新注册狂飙 2.2 万家",
-        "title_zh": "产业大爆发！我国工业大模型企业突破 6.2 万家，今年新注册狂飙 2.2 万家",
-        "title_en": null,
-        "title_original": "产业大爆发！我国工业大模型企业突破 6.2 万家，今年新注册狂飙 2.2 万家",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/31081",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-09-16T05:36:48.835610Z"
+        "scored_at": "2026-09-16T06:37:34.483074Z"
       }
     },
     {
@@ -1320,15 +1238,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.735,
-      "importance": 0.735,
-      "importance_score": 0.735,
+      "score": 0.7328,
+      "importance": 0.7328,
+      "importance_score": 0.7328,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.68,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8858,
+        "recency": 0.8731,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1353,7 +1271,89 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-16T05:36:48.835610Z"
+        "scored_at": "2026-09-16T06:37:34.483074Z"
+      }
+    },
+    {
+      "story_id": "story_8b50271636c2",
+      "title": "vivo 蓝心大模型全面升级：四大模型齐发，听得懂、记得住、还能办事",
+      "url": "https://www.aibase.com/news/31080",
+      "primary_url": "https://www.aibase.com/news/31080",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "3967576bc89c06c8153c27b7e34b3ca3b9637d0d",
+          "title": "vivo 蓝心大模型全面升级：四大模型齐发，听得懂、记得住、还能办事",
+          "title_zh": "vivo 蓝心大模型全面升级：四大模型齐发，听得懂、记得住、还能办事",
+          "title_en": null,
+          "title_original": "vivo 蓝心大模型全面升级：四大模型齐发，听得懂、记得住、还能办事",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/31080",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-09-16T03:47:16.570007Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "3967576bc89c06c8153c27b7e34b3ca3b9637d0d",
+          "title": "vivo 蓝心大模型全面升级：四大模型齐发，听得懂、记得住、还能办事",
+          "title_zh": "vivo 蓝心大模型全面升级：四大模型齐发，听得懂、记得住、还能办事",
+          "title_en": null,
+          "title_original": "vivo 蓝心大模型全面升级：四大模型齐发，听得懂、记得住、还能办事",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/31080",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-09-16T03:47:16.570007Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7625,
+      "importance": 0.7625,
+      "importance_score": 0.7625,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9715,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-16T03:47:16.570007Z",
+      "latest_at": "2026-09-16T03:47:16.570007Z",
+      "primary_item": {
+        "id": "3967576bc89c06c8153c27b7e34b3ca3b9637d0d",
+        "title": "vivo 蓝心大模型全面升级：四大模型齐发，听得懂、记得住、还能办事",
+        "title_zh": "vivo 蓝心大模型全面升级：四大模型齐发，听得懂、记得住、还能办事",
+        "title_en": null,
+        "title_original": "vivo 蓝心大模型全面升级：四大模型齐发，听得懂、记得住、还能办事",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://www.aibase.com/news/31080",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-09-16T06:37:34.483074Z"
       }
     },
     {
@@ -1401,15 +1401,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8073,
-      "importance": 0.8073,
-      "importance_score": 0.8073,
+      "score": 0.8052,
+      "importance": 0.8052,
+      "importance_score": 0.8052,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.7961,
+        "recency": 0.7847,
         "story_heat": 0.0
       },
       "category": "official",
@@ -1436,7 +1436,89 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-16T05:36:48.835610Z"
+        "scored_at": "2026-09-16T06:37:34.483074Z"
+      }
+    },
+    {
+      "story_id": "story_340a30e0ba52",
+      "title": "产业大爆发！我国工业大模型企业突破 6.2 万家，今年新注册狂飙 2.2 万家",
+      "url": "https://www.aibase.com/news/31081",
+      "primary_url": "https://www.aibase.com/news/31081",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "21c18bdbfdeb594eec6d94480041e7762e02e2bc",
+          "title": "产业大爆发！我国工业大模型企业突破 6.2 万家，今年新注册狂飙 2.2 万家",
+          "title_zh": "产业大爆发！我国工业大模型企业突破 6.2 万家，今年新注册狂飙 2.2 万家",
+          "title_en": null,
+          "title_original": "产业大爆发！我国工业大模型企业突破 6.2 万家，今年新注册狂飙 2.2 万家",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/31081",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-09-16T03:47:16.570007Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "21c18bdbfdeb594eec6d94480041e7762e02e2bc",
+          "title": "产业大爆发！我国工业大模型企业突破 6.2 万家，今年新注册狂飙 2.2 万家",
+          "title_zh": "产业大爆发！我国工业大模型企业突破 6.2 万家，今年新注册狂飙 2.2 万家",
+          "title_en": null,
+          "title_original": "产业大爆发！我国工业大模型企业突破 6.2 万家，今年新注册狂飙 2.2 万家",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/31081",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-09-16T03:47:16.570007Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7625,
+      "importance": 0.7625,
+      "importance_score": 0.7625,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9715,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-16T03:47:16.570007Z",
+      "latest_at": "2026-09-16T03:47:16.570007Z",
+      "primary_item": {
+        "id": "21c18bdbfdeb594eec6d94480041e7762e02e2bc",
+        "title": "产业大爆发！我国工业大模型企业突破 6.2 万家，今年新注册狂飙 2.2 万家",
+        "title_zh": "产业大爆发！我国工业大模型企业突破 6.2 万家，今年新注册狂飙 2.2 万家",
+        "title_en": null,
+        "title_original": "产业大爆发！我国工业大模型企业突破 6.2 万家，今年新注册狂飙 2.2 万家",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://www.aibase.com/news/31081",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-09-16T06:37:34.483074Z"
       }
     },
     {
@@ -1484,15 +1566,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.765,
-      "importance": 0.765,
-      "importance_score": 0.765,
+      "score": 0.7625,
+      "importance": 0.7625,
+      "importance_score": 0.7625,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9856,
+        "recency": 0.9715,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1518,7 +1600,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-16T05:36:48.835610Z"
+        "scored_at": "2026-09-16T06:37:34.483074Z"
       }
     },
     {
@@ -1566,15 +1648,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.765,
-      "importance": 0.765,
-      "importance_score": 0.765,
+      "score": 0.7625,
+      "importance": 0.7625,
+      "importance_score": 0.7625,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9856,
+        "recency": 0.9715,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1600,7 +1682,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-16T05:36:48.835610Z"
+        "scored_at": "2026-09-16T06:37:34.483074Z"
       }
     },
     {
@@ -1648,15 +1730,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.765,
-      "importance": 0.765,
-      "importance_score": 0.765,
+      "score": 0.7625,
+      "importance": 0.7625,
+      "importance_score": 0.7625,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9856,
+        "recency": 0.9715,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1682,89 +1764,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-16T05:36:48.835610Z"
-      }
-    },
-    {
-      "story_id": "story_8bfdc531da12",
-      "title": "惠普重磅发布 ZBook Ultra G3a 16：配 192GB 统一内存，本地轻松驾驭 300B 大模型",
-      "url": "https://www.aibase.com/news/31082",
-      "primary_url": "https://www.aibase.com/news/31082",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "85e19414ebb05a41f6b948196cf000579411b5d7",
-          "title": "惠普重磅发布 ZBook Ultra G3a 16：配 192GB 统一内存，本地轻松驾驭 300B 大模型",
-          "title_zh": "惠普重磅发布 ZBook Ultra G3a 16：配 192GB 统一内存，本地轻松驾驭 300B 大模型",
-          "title_en": null,
-          "title_original": "惠普重磅发布 ZBook Ultra G3a 16：配 192GB 统一内存，本地轻松驾驭 300B 大模型",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/31082",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-09-16T03:47:16.570007Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "85e19414ebb05a41f6b948196cf000579411b5d7",
-          "title": "惠普重磅发布 ZBook Ultra G3a 16：配 192GB 统一内存，本地轻松驾驭 300B 大模型",
-          "title_zh": "惠普重磅发布 ZBook Ultra G3a 16：配 192GB 统一内存，本地轻松驾驭 300B 大模型",
-          "title_en": null,
-          "title_original": "惠普重磅发布 ZBook Ultra G3a 16：配 192GB 统一内存，本地轻松驾驭 300B 大模型",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/31082",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-09-16T03:47:16.570007Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.765,
-      "importance": 0.765,
-      "importance_score": 0.765,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.9856,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-16T03:47:16.570007Z",
-      "latest_at": "2026-09-16T03:47:16.570007Z",
-      "primary_item": {
-        "id": "85e19414ebb05a41f6b948196cf000579411b5d7",
-        "title": "惠普重磅发布 ZBook Ultra G3a 16：配 192GB 统一内存，本地轻松驾驭 300B 大模型",
-        "title_zh": "惠普重磅发布 ZBook Ultra G3a 16：配 192GB 统一内存，本地轻松驾驭 300B 大模型",
-        "title_en": null,
-        "title_original": "惠普重磅发布 ZBook Ultra G3a 16：配 192GB 统一内存，本地轻松驾驭 300B 大模型",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/31082",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-09-16T05:36:48.835610Z"
+        "scored_at": "2026-09-16T06:37:34.483074Z"
       }
     }
   ]
