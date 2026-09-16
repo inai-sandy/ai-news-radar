@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-16T06:47:16.925998Z",
+  "generated_at": "2026-09-16T07:47:29.270308Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -135,15 +135,15 @@
       ],
       "item_count": 4,
       "duplicate_count": 4,
-      "score": 0.8947,
-      "importance": 0.8947,
-      "importance_score": 0.8947,
+      "score": 0.8926,
+      "importance": 0.8926,
+      "importance_score": 0.8926,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.8206,
+        "recency": 0.8088,
         "story_heat": 0.75
       },
       "category": "official",
@@ -171,7 +171,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-16T07:39:53.472782Z"
+        "scored_at": "2026-09-16T08:04:40.715217Z"
       }
     },
     {
@@ -219,15 +219,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8254,
-      "importance": 0.8254,
-      "importance_score": 0.8254,
+      "score": 0.8233,
+      "importance": 0.8233,
+      "importance_score": 0.8233,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.8079,
+        "recency": 0.7962,
         "story_heat": 0.0
       },
       "category": "official",
@@ -254,7 +254,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-16T07:39:53.472782Z"
+        "scored_at": "2026-09-16T08:04:40.715217Z"
       }
     },
     {
@@ -302,15 +302,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8241,
-      "importance": 0.8241,
-      "importance_score": 0.8241,
+      "score": 0.8219,
+      "importance": 0.8219,
+      "importance_score": 0.8219,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.8451,
+        "recency": 0.8329,
         "story_heat": 0.0
       },
       "category": "official",
@@ -337,7 +337,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-16T07:39:53.472782Z"
+        "scored_at": "2026-09-16T08:04:40.715217Z"
       }
     },
     {
@@ -385,15 +385,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8094,
-      "importance": 0.8094,
-      "importance_score": 0.8094,
+      "score": 0.8073,
+      "importance": 0.8073,
+      "importance_score": 0.8073,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.8077,
+        "recency": 0.7961,
         "story_heat": 0.0
       },
       "category": "official",
@@ -420,7 +420,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-16T07:39:53.472782Z"
+        "scored_at": "2026-09-16T08:04:40.715217Z"
       }
     },
     {
@@ -468,15 +468,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.817,
-      "importance": 0.817,
-      "importance_score": 0.817,
+      "score": 0.8148,
+      "importance": 0.8148,
+      "importance_score": 0.8148,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.85,
+        "recency": 0.8378,
         "story_heat": 0.0
       },
       "category": "official",
@@ -503,7 +503,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-16T07:39:53.472782Z"
+        "scored_at": "2026-09-16T08:04:40.715217Z"
       }
     },
     {
@@ -551,15 +551,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8094,
-      "importance": 0.8094,
-      "importance_score": 0.8094,
+      "score": 0.8073,
+      "importance": 0.8073,
+      "importance_score": 0.8073,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.8077,
+        "recency": 0.7961,
         "story_heat": 0.0
       },
       "category": "official",
@@ -586,30 +586,30 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-16T07:39:53.472782Z"
+        "scored_at": "2026-09-16T08:04:40.715217Z"
       }
     },
     {
-      "story_id": "story_62482c7ecce1",
-      "title": "消息称 OpenAI 拟以超 1.2 万亿美元估值启动新一轮融资",
-      "url": "https://www.aibase.com/news/31086",
-      "primary_url": "https://www.aibase.com/news/31086",
+      "story_id": "story_c040e7b4b4c9",
+      "title": "Claude 发布重大升级：43 项全能工作流与 27 个巨头应用深度打通",
+      "url": "https://www.aibase.com/news/31092",
+      "primary_url": "https://www.aibase.com/news/31092",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "3391fa6a309938d65052f66ea6a8269969a2d0b4",
-          "title": "消息称 OpenAI 拟以超 1.2 万亿美元估值启动新一轮融资",
-          "title_zh": "消息称 OpenAI 拟以超 1.2 万亿美元估值启动新一轮融资",
+          "id": "5ec81647345a6aee5604d12455ee4d5eddea2d93",
+          "title": "Claude 发布重大升级：43 项全能工作流与 27 个巨头应用深度打通",
+          "title_zh": "Claude 发布重大升级：43 项全能工作流与 27 个巨头应用深度打通",
           "title_en": null,
-          "title_original": "消息称 OpenAI 拟以超 1.2 万亿美元估值启动新一轮融资",
+          "title_original": "Claude 发布重大升级：43 项全能工作流与 27 个巨头应用深度打通",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/31086",
+          "url": "https://www.aibase.com/news/31092",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-09-16T06:47:16.925998Z"
+          "published_at": "2026-09-16T07:47:29.270308Z"
         }
       ],
       "source_count": 1,
@@ -618,18 +618,18 @@
       ],
       "items": [
         {
-          "id": "3391fa6a309938d65052f66ea6a8269969a2d0b4",
-          "title": "消息称 OpenAI 拟以超 1.2 万亿美元估值启动新一轮融资",
-          "title_zh": "消息称 OpenAI 拟以超 1.2 万亿美元估值启动新一轮融资",
+          "id": "5ec81647345a6aee5604d12455ee4d5eddea2d93",
+          "title": "Claude 发布重大升级：43 项全能工作流与 27 个巨头应用深度打通",
+          "title_zh": "Claude 发布重大升级：43 项全能工作流与 27 个巨头应用深度打通",
           "title_en": null,
-          "title_original": "消息称 OpenAI 拟以超 1.2 万亿美元估值启动新一轮融资",
+          "title_original": "Claude 发布重大升级：43 项全能工作流与 27 个巨头应用深度打通",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/31086",
+          "url": "https://www.aibase.com/news/31092",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-09-16T06:47:16.925998Z"
+          "published_at": "2026-09-16T07:47:29.270308Z"
         }
       ],
       "item_count": 1,
@@ -650,17 +650,17 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-09-16T06:47:16.925998Z",
-      "latest_at": "2026-09-16T06:47:16.925998Z",
+      "earliest_at": "2026-09-16T07:47:29.270308Z",
+      "latest_at": "2026-09-16T07:47:29.270308Z",
       "primary_item": {
-        "id": "3391fa6a309938d65052f66ea6a8269969a2d0b4",
-        "title": "消息称 OpenAI 拟以超 1.2 万亿美元估值启动新一轮融资",
-        "title_zh": "消息称 OpenAI 拟以超 1.2 万亿美元估值启动新一轮融资",
+        "id": "5ec81647345a6aee5604d12455ee4d5eddea2d93",
+        "title": "Claude 发布重大升级：43 项全能工作流与 27 个巨头应用深度打通",
+        "title_zh": "Claude 发布重大升级：43 项全能工作流与 27 个巨头应用深度打通",
         "title_en": null,
-        "title_original": "消息称 OpenAI 拟以超 1.2 万亿美元估值启动新一轮融资",
+        "title_original": "Claude 发布重大升级：43 项全能工作流与 27 个巨头应用深度打通",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/31086",
+        "url": "https://www.aibase.com/news/31092",
         "source": "AIbase",
         "source_name": "AIbase"
       },
@@ -668,7 +668,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-16T07:39:53.472782Z"
+        "scored_at": "2026-09-16T08:04:40.715217Z"
       }
     },
     {
@@ -745,15 +745,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7592,
-      "importance": 0.7592,
-      "importance_score": 0.7592,
+      "score": 0.7573,
+      "importance": 0.7573,
+      "importance_score": 0.7573,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.77,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7309,
+        "recency": 0.7204,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -780,7 +780,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-16T07:39:53.472782Z"
+        "scored_at": "2026-09-16T08:04:40.715217Z"
       }
     },
     {
@@ -828,15 +828,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7533,
-      "importance": 0.7533,
-      "importance_score": 0.7533,
+      "score": 0.7513,
+      "importance": 0.7513,
+      "importance_score": 0.7513,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.79,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8041,
+        "recency": 0.7925,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -862,7 +862,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-16T07:39:53.472782Z"
+        "scored_at": "2026-09-16T08:04:40.715217Z"
       }
     },
     {
@@ -910,15 +910,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8111,
-      "importance": 0.8111,
-      "importance_score": 0.8111,
+      "score": 0.8089,
+      "importance": 0.8089,
+      "importance_score": 0.8089,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.817,
+        "recency": 0.8052,
         "story_heat": 0.0
       },
       "category": "official",
@@ -945,7 +945,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-16T07:39:53.472782Z"
+        "scored_at": "2026-09-16T08:04:40.715217Z"
       }
     },
     {
@@ -993,15 +993,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8094,
-      "importance": 0.8094,
-      "importance_score": 0.8094,
+      "score": 0.8073,
+      "importance": 0.8073,
+      "importance_score": 0.8073,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.8077,
+        "recency": 0.7961,
         "story_heat": 0.0
       },
       "category": "official",
@@ -1028,30 +1028,30 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-16T07:39:53.472782Z"
+        "scored_at": "2026-09-16T08:04:40.715217Z"
       }
     },
     {
-      "story_id": "story_6801ef11505d",
-      "title": "脉脉报告：今年 1—7 月新发 AI 岗位平均月薪 63160 元，岗位量增近 8 倍",
-      "url": "https://www.aibase.com/news/31087",
-      "primary_url": "https://www.aibase.com/news/31087",
+      "story_id": "story_648056bc9799",
+      "title": "DeepSeek V4.1Flash助力《生化危机7》安卓模拟运行，帧率提升50%",
+      "url": "https://www.aibase.com/news/31095",
+      "primary_url": "https://www.aibase.com/news/31095",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "51d432c986ca885662f2115319dd5625953d5e53",
-          "title": "脉脉报告：今年 1—7 月新发 AI 岗位平均月薪 63160 元，岗位量增近 8 倍",
-          "title_zh": "脉脉报告：今年 1—7 月新发 AI 岗位平均月薪 63160 元，岗位量增近 8 倍",
+          "id": "d3de1ede43317dce2539ab2b2542e8406adbb6e5",
+          "title": "DeepSeek V4.1Flash助力《生化危机7》安卓模拟运行，帧率提升50%",
+          "title_zh": "DeepSeek V4.1Flash助力《生化危机7》安卓模拟运行，帧率提升50%",
           "title_en": null,
-          "title_original": "脉脉报告：今年 1—7 月新发 AI 岗位平均月薪 63160 元，岗位量增近 8 倍",
+          "title_original": "DeepSeek V4.1Flash助力《生化危机7》安卓模拟运行，帧率提升50%",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/31087",
+          "url": "https://www.aibase.com/news/31095",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-09-16T06:47:16.925998Z"
+          "published_at": "2026-09-16T07:47:29.270308Z"
         }
       ],
       "source_count": 1,
@@ -1060,18 +1060,18 @@
       ],
       "items": [
         {
-          "id": "51d432c986ca885662f2115319dd5625953d5e53",
-          "title": "脉脉报告：今年 1—7 月新发 AI 岗位平均月薪 63160 元，岗位量增近 8 倍",
-          "title_zh": "脉脉报告：今年 1—7 月新发 AI 岗位平均月薪 63160 元，岗位量增近 8 倍",
+          "id": "d3de1ede43317dce2539ab2b2542e8406adbb6e5",
+          "title": "DeepSeek V4.1Flash助力《生化危机7》安卓模拟运行，帧率提升50%",
+          "title_zh": "DeepSeek V4.1Flash助力《生化危机7》安卓模拟运行，帧率提升50%",
           "title_en": null,
-          "title_original": "脉脉报告：今年 1—7 月新发 AI 岗位平均月薪 63160 元，岗位量增近 8 倍",
+          "title_original": "DeepSeek V4.1Flash助力《生化危机7》安卓模拟运行，帧率提升50%",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/31087",
+          "url": "https://www.aibase.com/news/31095",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-09-16T06:47:16.925998Z"
+          "published_at": "2026-09-16T07:47:29.270308Z"
         }
       ],
       "item_count": 1,
@@ -1092,17 +1092,17 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-09-16T06:47:16.925998Z",
-      "latest_at": "2026-09-16T06:47:16.925998Z",
+      "earliest_at": "2026-09-16T07:47:29.270308Z",
+      "latest_at": "2026-09-16T07:47:29.270308Z",
       "primary_item": {
-        "id": "51d432c986ca885662f2115319dd5625953d5e53",
-        "title": "脉脉报告：今年 1—7 月新发 AI 岗位平均月薪 63160 元，岗位量增近 8 倍",
-        "title_zh": "脉脉报告：今年 1—7 月新发 AI 岗位平均月薪 63160 元，岗位量增近 8 倍",
+        "id": "d3de1ede43317dce2539ab2b2542e8406adbb6e5",
+        "title": "DeepSeek V4.1Flash助力《生化危机7》安卓模拟运行，帧率提升50%",
+        "title_zh": "DeepSeek V4.1Flash助力《生化危机7》安卓模拟运行，帧率提升50%",
         "title_en": null,
-        "title_original": "脉脉报告：今年 1—7 月新发 AI 岗位平均月薪 63160 元，岗位量增近 8 倍",
+        "title_original": "DeepSeek V4.1Flash助力《生化危机7》安卓模拟运行，帧率提升50%",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/31087",
+        "url": "https://www.aibase.com/news/31095",
         "source": "AIbase",
         "source_name": "AIbase"
       },
@@ -1110,7 +1110,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-16T07:39:53.472782Z"
+        "scored_at": "2026-09-16T08:04:40.715217Z"
       }
     },
     {
@@ -1158,15 +1158,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7364,
-      "importance": 0.7364,
-      "importance_score": 0.7364,
+      "score": 0.7345,
+      "importance": 0.7345,
+      "importance_score": 0.7345,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.76,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7602,
+        "recency": 0.7493,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1191,7 +1191,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-16T07:39:53.472782Z"
+        "scored_at": "2026-09-16T08:04:40.715217Z"
       }
     },
     {
@@ -1239,15 +1239,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7327,
-      "importance": 0.7327,
-      "importance_score": 0.7327,
+      "score": 0.7304,
+      "importance": 0.7304,
+      "importance_score": 0.7304,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.68,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8726,
+        "recency": 0.86,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1272,7 +1272,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-16T07:39:53.472782Z"
+        "scored_at": "2026-09-16T08:04:40.715217Z"
       }
     },
     {
@@ -1320,15 +1320,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7305,
-      "importance": 0.7305,
-      "importance_score": 0.7305,
+      "score": 0.7283,
+      "importance": 0.7283,
+      "importance_score": 0.7283,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.68,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8606,
+        "recency": 0.8482,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1353,12 +1353,12 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-16T07:39:53.472782Z"
+        "scored_at": "2026-09-16T08:04:40.715217Z"
       }
     },
     {
       "story_id": "story_b933e12f991b",
-      "title": "New insights from Google’s AI & Economy ATLAS",
+      "title": "来自 Google 人工智能与经济 ATLAS 的新见解 / New insights from Google’s AI & Economy ATLAS",
       "url": "https://blog.google/innovation-and-ai/technology/ai/ai-economy-atlas-september-2026",
       "primary_url": "https://blog.google/innovation-and-ai/technology/ai/ai-economy-atlas-september-2026",
       "source": "Google AI Blog",
@@ -1366,8 +1366,8 @@
       "sources": [
         {
           "id": "a97b3965566648f19879b1c3c4d97705526ac9da",
-          "title": "New insights from Google’s AI & Economy ATLAS",
-          "title_zh": null,
+          "title": "来自 Google 人工智能与经济 ATLAS 的新见解 / New insights from Google’s AI & Economy ATLAS",
+          "title_zh": "来自 Google 人工智能与经济 ATLAS 的新见解",
           "title_en": "New insights from Google’s AI & Economy ATLAS",
           "title_original": "New insights from Google’s AI & Economy ATLAS",
           "summary": null,
@@ -1386,8 +1386,8 @@
       "items": [
         {
           "id": "a97b3965566648f19879b1c3c4d97705526ac9da",
-          "title": "New insights from Google’s AI & Economy ATLAS",
-          "title_zh": null,
+          "title": "来自 Google 人工智能与经济 ATLAS 的新见解 / New insights from Google’s AI & Economy ATLAS",
+          "title_zh": "来自 Google 人工智能与经济 ATLAS 的新见解",
           "title_en": "New insights from Google’s AI & Economy ATLAS",
           "title_original": "New insights from Google’s AI & Economy ATLAS",
           "summary": null,
@@ -1401,15 +1401,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8032,
-      "importance": 0.8032,
-      "importance_score": 0.8032,
+      "score": 0.8012,
+      "importance": 0.8012,
+      "importance_score": 0.8012,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.7735,
+        "recency": 0.7623,
         "story_heat": 0.0
       },
       "category": "official",
@@ -1422,8 +1422,8 @@
       "latest_at": "2026-09-15T13:00:00Z",
       "primary_item": {
         "id": "a97b3965566648f19879b1c3c4d97705526ac9da",
-        "title": "New insights from Google’s AI & Economy ATLAS",
-        "title_zh": null,
+        "title": "来自 Google 人工智能与经济 ATLAS 的新见解 / New insights from Google’s AI & Economy ATLAS",
+        "title_zh": "来自 Google 人工智能与经济 ATLAS 的新见解",
         "title_en": "New insights from Google’s AI & Economy ATLAS",
         "title_original": "New insights from Google’s AI & Economy ATLAS",
         "summary": null,
@@ -1436,30 +1436,30 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-16T07:39:53.472782Z"
+        "scored_at": "2026-09-16T08:04:40.715217Z"
       }
     },
     {
-      "story_id": "story_2bf3b0567c28",
-      "title": "豆包2.1Pro0915上线火山方舟，飞书8.0引入团队智能体“豆包工作伙伴”",
-      "url": "https://www.aibase.com/news/31085",
-      "primary_url": "https://www.aibase.com/news/31085",
+      "story_id": "story_f90f376fdee8",
+      "title": "vivo 正式发布智能体大模型矩阵，并重磅预研 30B MoE 端侧大模型",
+      "url": "https://www.aibase.com/news/31091",
+      "primary_url": "https://www.aibase.com/news/31091",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "f33c5fa77d23cfdbd88756482cb5b2d53c46ec8d",
-          "title": "豆包2.1Pro0915上线火山方舟，飞书8.0引入团队智能体“豆包工作伙伴”",
-          "title_zh": "豆包2.1Pro0915上线火山方舟，飞书8.0引入团队智能体“豆包工作伙伴”",
+          "id": "3e63e3eb122ccea806d2910f13506b5be7e4e90c",
+          "title": "vivo 正式发布智能体大模型矩阵，并重磅预研 30B MoE 端侧大模型",
+          "title_zh": "vivo 正式发布智能体大模型矩阵，并重磅预研 30B MoE 端侧大模型",
           "title_en": null,
-          "title_original": "豆包2.1Pro0915上线火山方舟，飞书8.0引入团队智能体“豆包工作伙伴”",
+          "title_original": "vivo 正式发布智能体大模型矩阵，并重磅预研 30B MoE 端侧大模型",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/31085",
+          "url": "https://www.aibase.com/news/31091",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-09-16T05:47:20.130625Z"
+          "published_at": "2026-09-16T07:47:29.270308Z"
         }
       ],
       "source_count": 1,
@@ -1468,31 +1468,31 @@
       ],
       "items": [
         {
-          "id": "f33c5fa77d23cfdbd88756482cb5b2d53c46ec8d",
-          "title": "豆包2.1Pro0915上线火山方舟，飞书8.0引入团队智能体“豆包工作伙伴”",
-          "title_zh": "豆包2.1Pro0915上线火山方舟，飞书8.0引入团队智能体“豆包工作伙伴”",
+          "id": "3e63e3eb122ccea806d2910f13506b5be7e4e90c",
+          "title": "vivo 正式发布智能体大模型矩阵，并重磅预研 30B MoE 端侧大模型",
+          "title_zh": "vivo 正式发布智能体大模型矩阵，并重磅预研 30B MoE 端侧大模型",
           "title_en": null,
-          "title_original": "豆包2.1Pro0915上线火山方舟，飞书8.0引入团队智能体“豆包工作伙伴”",
+          "title_original": "vivo 正式发布智能体大模型矩阵，并重磅预研 30B MoE 端侧大模型",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/31085",
+          "url": "https://www.aibase.com/news/31091",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-09-16T05:47:20.130625Z"
+          "published_at": "2026-09-16T07:47:29.270308Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.765,
-      "importance": 0.765,
-      "importance_score": 0.765,
+      "score": 0.7676,
+      "importance": 0.7676,
+      "importance_score": 0.7676,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9857,
+        "recency": 1.0,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1500,17 +1500,17 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-09-16T05:47:20.130625Z",
-      "latest_at": "2026-09-16T05:47:20.130625Z",
+      "earliest_at": "2026-09-16T07:47:29.270308Z",
+      "latest_at": "2026-09-16T07:47:29.270308Z",
       "primary_item": {
-        "id": "f33c5fa77d23cfdbd88756482cb5b2d53c46ec8d",
-        "title": "豆包2.1Pro0915上线火山方舟，飞书8.0引入团队智能体“豆包工作伙伴”",
-        "title_zh": "豆包2.1Pro0915上线火山方舟，飞书8.0引入团队智能体“豆包工作伙伴”",
+        "id": "3e63e3eb122ccea806d2910f13506b5be7e4e90c",
+        "title": "vivo 正式发布智能体大模型矩阵，并重磅预研 30B MoE 端侧大模型",
+        "title_zh": "vivo 正式发布智能体大模型矩阵，并重磅预研 30B MoE 端侧大模型",
         "title_en": null,
-        "title_original": "豆包2.1Pro0915上线火山方舟，飞书8.0引入团队智能体“豆包工作伙伴”",
+        "title_original": "vivo 正式发布智能体大模型矩阵，并重磅预研 30B MoE 端侧大模型",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/31085",
+        "url": "https://www.aibase.com/news/31091",
         "source": "AIbase",
         "source_name": "AIbase"
       },
@@ -1518,30 +1518,30 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-16T07:39:53.472782Z"
+        "scored_at": "2026-09-16T08:04:40.715217Z"
       }
     },
     {
-      "story_id": "story_8b50271636c2",
-      "title": "vivo 蓝心大模型全面升级：四大模型齐发，听得懂、记得住、还能办事",
-      "url": "https://www.aibase.com/news/31080",
-      "primary_url": "https://www.aibase.com/news/31080",
+      "story_id": "story_5c549693e5f6",
+      "title": "​GPT-6 Sol 与 Opus 5.2 悄然开启灰度测试",
+      "url": "https://www.aibase.com/news/31089",
+      "primary_url": "https://www.aibase.com/news/31089",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "3967576bc89c06c8153c27b7e34b3ca3b9637d0d",
-          "title": "vivo 蓝心大模型全面升级：四大模型齐发，听得懂、记得住、还能办事",
-          "title_zh": "vivo 蓝心大模型全面升级：四大模型齐发，听得懂、记得住、还能办事",
+          "id": "fea216bf28cd86739c5ebbc3061985643465e7aa",
+          "title": "​GPT-6 Sol 与 Opus 5.2 悄然开启灰度测试",
+          "title_zh": "​GPT-6 Sol 与 Opus 5.2 悄然开启灰度测试",
           "title_en": null,
-          "title_original": "vivo 蓝心大模型全面升级：四大模型齐发，听得懂、记得住、还能办事",
+          "title_original": "​GPT-6 Sol 与 Opus 5.2 悄然开启灰度测试",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/31080",
+          "url": "https://www.aibase.com/news/31089",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-09-16T03:47:16.570007Z"
+          "published_at": "2026-09-16T07:47:29.270308Z"
         }
       ],
       "source_count": 1,
@@ -1550,31 +1550,31 @@
       ],
       "items": [
         {
-          "id": "3967576bc89c06c8153c27b7e34b3ca3b9637d0d",
-          "title": "vivo 蓝心大模型全面升级：四大模型齐发，听得懂、记得住、还能办事",
-          "title_zh": "vivo 蓝心大模型全面升级：四大模型齐发，听得懂、记得住、还能办事",
+          "id": "fea216bf28cd86739c5ebbc3061985643465e7aa",
+          "title": "​GPT-6 Sol 与 Opus 5.2 悄然开启灰度测试",
+          "title_zh": "​GPT-6 Sol 与 Opus 5.2 悄然开启灰度测试",
           "title_en": null,
-          "title_original": "vivo 蓝心大模型全面升级：四大模型齐发，听得懂、记得住、还能办事",
+          "title_original": "​GPT-6 Sol 与 Opus 5.2 悄然开启灰度测试",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/31080",
+          "url": "https://www.aibase.com/news/31089",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-09-16T03:47:16.570007Z"
+          "published_at": "2026-09-16T07:47:29.270308Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.76,
-      "importance": 0.76,
-      "importance_score": 0.76,
+      "score": 0.7676,
+      "importance": 0.7676,
+      "importance_score": 0.7676,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9576,
+        "recency": 1.0,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1582,17 +1582,17 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-09-16T03:47:16.570007Z",
-      "latest_at": "2026-09-16T03:47:16.570007Z",
+      "earliest_at": "2026-09-16T07:47:29.270308Z",
+      "latest_at": "2026-09-16T07:47:29.270308Z",
       "primary_item": {
-        "id": "3967576bc89c06c8153c27b7e34b3ca3b9637d0d",
-        "title": "vivo 蓝心大模型全面升级：四大模型齐发，听得懂、记得住、还能办事",
-        "title_zh": "vivo 蓝心大模型全面升级：四大模型齐发，听得懂、记得住、还能办事",
+        "id": "fea216bf28cd86739c5ebbc3061985643465e7aa",
+        "title": "​GPT-6 Sol 与 Opus 5.2 悄然开启灰度测试",
+        "title_zh": "​GPT-6 Sol 与 Opus 5.2 悄然开启灰度测试",
         "title_en": null,
-        "title_original": "vivo 蓝心大模型全面升级：四大模型齐发，听得懂、记得住、还能办事",
+        "title_original": "​GPT-6 Sol 与 Opus 5.2 悄然开启灰度测试",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/31080",
+        "url": "https://www.aibase.com/news/31089",
         "source": "AIbase",
         "source_name": "AIbase"
       },
@@ -1600,30 +1600,30 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-16T07:39:53.472782Z"
+        "scored_at": "2026-09-16T08:04:40.715217Z"
       }
     },
     {
-      "story_id": "story_340a30e0ba52",
-      "title": "产业大爆发！我国工业大模型企业突破 6.2 万家，今年新注册狂飙 2.2 万家",
-      "url": "https://www.aibase.com/news/31081",
-      "primary_url": "https://www.aibase.com/news/31081",
+      "story_id": "story_9a4373a5593c",
+      "title": "​生数科技正式发布 Vidu S2，支持实时编辑、动态参考图与头显适配",
+      "url": "https://www.aibase.com/news/31093",
+      "primary_url": "https://www.aibase.com/news/31093",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "21c18bdbfdeb594eec6d94480041e7762e02e2bc",
-          "title": "产业大爆发！我国工业大模型企业突破 6.2 万家，今年新注册狂飙 2.2 万家",
-          "title_zh": "产业大爆发！我国工业大模型企业突破 6.2 万家，今年新注册狂飙 2.2 万家",
+          "id": "d2ff8c9696a1dad740e20ed78e060b7887361aba",
+          "title": "​生数科技正式发布 Vidu S2，支持实时编辑、动态参考图与头显适配",
+          "title_zh": "​生数科技正式发布 Vidu S2，支持实时编辑、动态参考图与头显适配",
           "title_en": null,
-          "title_original": "产业大爆发！我国工业大模型企业突破 6.2 万家，今年新注册狂飙 2.2 万家",
+          "title_original": "​生数科技正式发布 Vidu S2，支持实时编辑、动态参考图与头显适配",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/31081",
+          "url": "https://www.aibase.com/news/31093",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-09-16T03:47:16.570007Z"
+          "published_at": "2026-09-16T07:47:29.270308Z"
         }
       ],
       "source_count": 1,
@@ -1632,31 +1632,31 @@
       ],
       "items": [
         {
-          "id": "21c18bdbfdeb594eec6d94480041e7762e02e2bc",
-          "title": "产业大爆发！我国工业大模型企业突破 6.2 万家，今年新注册狂飙 2.2 万家",
-          "title_zh": "产业大爆发！我国工业大模型企业突破 6.2 万家，今年新注册狂飙 2.2 万家",
+          "id": "d2ff8c9696a1dad740e20ed78e060b7887361aba",
+          "title": "​生数科技正式发布 Vidu S2，支持实时编辑、动态参考图与头显适配",
+          "title_zh": "​生数科技正式发布 Vidu S2，支持实时编辑、动态参考图与头显适配",
           "title_en": null,
-          "title_original": "产业大爆发！我国工业大模型企业突破 6.2 万家，今年新注册狂飙 2.2 万家",
+          "title_original": "​生数科技正式发布 Vidu S2，支持实时编辑、动态参考图与头显适配",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/31081",
+          "url": "https://www.aibase.com/news/31093",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-09-16T03:47:16.570007Z"
+          "published_at": "2026-09-16T07:47:29.270308Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.76,
-      "importance": 0.76,
-      "importance_score": 0.76,
+      "score": 0.7676,
+      "importance": 0.7676,
+      "importance_score": 0.7676,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9576,
+        "recency": 1.0,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1664,17 +1664,17 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-09-16T03:47:16.570007Z",
-      "latest_at": "2026-09-16T03:47:16.570007Z",
+      "earliest_at": "2026-09-16T07:47:29.270308Z",
+      "latest_at": "2026-09-16T07:47:29.270308Z",
       "primary_item": {
-        "id": "21c18bdbfdeb594eec6d94480041e7762e02e2bc",
-        "title": "产业大爆发！我国工业大模型企业突破 6.2 万家，今年新注册狂飙 2.2 万家",
-        "title_zh": "产业大爆发！我国工业大模型企业突破 6.2 万家，今年新注册狂飙 2.2 万家",
+        "id": "d2ff8c9696a1dad740e20ed78e060b7887361aba",
+        "title": "​生数科技正式发布 Vidu S2，支持实时编辑、动态参考图与头显适配",
+        "title_zh": "​生数科技正式发布 Vidu S2，支持实时编辑、动态参考图与头显适配",
         "title_en": null,
-        "title_original": "产业大爆发！我国工业大模型企业突破 6.2 万家，今年新注册狂飙 2.2 万家",
+        "title_original": "​生数科技正式发布 Vidu S2，支持实时编辑、动态参考图与头显适配",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/31081",
+        "url": "https://www.aibase.com/news/31093",
         "source": "AIbase",
         "source_name": "AIbase"
       },
@@ -1682,30 +1682,30 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-16T07:39:53.472782Z"
+        "scored_at": "2026-09-16T08:04:40.715217Z"
       }
     },
     {
-      "story_id": "story_17defd7e5dc6",
-      "title": "人离开电脑，任务继续跑:华为小艺 Work 内测可远程指挥并同时接管多台电脑",
-      "url": "https://www.aibase.com/news/31083",
-      "primary_url": "https://www.aibase.com/news/31083",
+      "story_id": "story_b01ca04a5969",
+      "title": "​谷歌发布多语言 AI 新战略，让全球每种语言都能被听见与理解",
+      "url": "https://www.aibase.com/news/31094",
+      "primary_url": "https://www.aibase.com/news/31094",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "57f5914dd5fdc97c2bbfb21be8c17dbf6e0b7f89",
-          "title": "人离开电脑，任务继续跑:华为小艺 Work 内测可远程指挥并同时接管多台电脑",
-          "title_zh": "人离开电脑，任务继续跑:华为小艺 Work 内测可远程指挥并同时接管多台电脑",
+          "id": "0f017fda784644c1907d37ba251ebe0dc1359d8f",
+          "title": "​谷歌发布多语言 AI 新战略，让全球每种语言都能被听见与理解",
+          "title_zh": "​谷歌发布多语言 AI 新战略，让全球每种语言都能被听见与理解",
           "title_en": null,
-          "title_original": "人离开电脑，任务继续跑:华为小艺 Work 内测可远程指挥并同时接管多台电脑",
+          "title_original": "​谷歌发布多语言 AI 新战略，让全球每种语言都能被听见与理解",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/31083",
+          "url": "https://www.aibase.com/news/31094",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-09-16T03:47:16.570007Z"
+          "published_at": "2026-09-16T07:47:29.270308Z"
         }
       ],
       "source_count": 1,
@@ -1714,31 +1714,31 @@
       ],
       "items": [
         {
-          "id": "57f5914dd5fdc97c2bbfb21be8c17dbf6e0b7f89",
-          "title": "人离开电脑，任务继续跑:华为小艺 Work 内测可远程指挥并同时接管多台电脑",
-          "title_zh": "人离开电脑，任务继续跑:华为小艺 Work 内测可远程指挥并同时接管多台电脑",
+          "id": "0f017fda784644c1907d37ba251ebe0dc1359d8f",
+          "title": "​谷歌发布多语言 AI 新战略，让全球每种语言都能被听见与理解",
+          "title_zh": "​谷歌发布多语言 AI 新战略，让全球每种语言都能被听见与理解",
           "title_en": null,
-          "title_original": "人离开电脑，任务继续跑:华为小艺 Work 内测可远程指挥并同时接管多台电脑",
+          "title_original": "​谷歌发布多语言 AI 新战略，让全球每种语言都能被听见与理解",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/31083",
+          "url": "https://www.aibase.com/news/31094",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-09-16T03:47:16.570007Z"
+          "published_at": "2026-09-16T07:47:29.270308Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.76,
-      "importance": 0.76,
-      "importance_score": 0.76,
+      "score": 0.7676,
+      "importance": 0.7676,
+      "importance_score": 0.7676,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9576,
+        "recency": 1.0,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1746,17 +1746,17 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-09-16T03:47:16.570007Z",
-      "latest_at": "2026-09-16T03:47:16.570007Z",
+      "earliest_at": "2026-09-16T07:47:29.270308Z",
+      "latest_at": "2026-09-16T07:47:29.270308Z",
       "primary_item": {
-        "id": "57f5914dd5fdc97c2bbfb21be8c17dbf6e0b7f89",
-        "title": "人离开电脑，任务继续跑:华为小艺 Work 内测可远程指挥并同时接管多台电脑",
-        "title_zh": "人离开电脑，任务继续跑:华为小艺 Work 内测可远程指挥并同时接管多台电脑",
+        "id": "0f017fda784644c1907d37ba251ebe0dc1359d8f",
+        "title": "​谷歌发布多语言 AI 新战略，让全球每种语言都能被听见与理解",
+        "title_zh": "​谷歌发布多语言 AI 新战略，让全球每种语言都能被听见与理解",
         "title_en": null,
-        "title_original": "人离开电脑，任务继续跑:华为小艺 Work 内测可远程指挥并同时接管多台电脑",
+        "title_original": "​谷歌发布多语言 AI 新战略，让全球每种语言都能被听见与理解",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/31083",
+        "url": "https://www.aibase.com/news/31094",
         "source": "AIbase",
         "source_name": "AIbase"
       },
@@ -1764,7 +1764,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-16T07:39:53.472782Z"
+        "scored_at": "2026-09-16T08:04:40.715217Z"
       }
     }
   ]
