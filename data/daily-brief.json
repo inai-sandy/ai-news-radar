@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-16T12:47:19.409655Z",
+  "generated_at": "2026-09-16T13:47:20.142799Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -135,15 +135,15 @@
       ],
       "item_count": 4,
       "duplicate_count": 4,
-      "score": 0.8825,
-      "importance": 0.8825,
-      "importance_score": 0.8825,
+      "score": 0.8805,
+      "importance": 0.8805,
+      "importance_score": 0.8805,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.7525,
+        "recency": 0.7417,
         "story_heat": 0.75
       },
       "category": "official",
@@ -171,7 +171,90 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-16T13:03:42.922590Z"
+        "scored_at": "2026-09-16T14:05:52.714693Z"
+      }
+    },
+    {
+      "story_id": "story_2b45947d7367",
+      "title": "OpenAI 推出 ChatGPT Ads 新功能：Sponsored Agents 测试并集成 HubSpot 与 Shopify / Reimagining advertising with AI",
+      "url": "https://openai.com/index/reimagining-advertising-with-ai",
+      "primary_url": "https://openai.com/index/reimagining-advertising-with-ai",
+      "source": "OpenAI News",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "1e1aa16f656edc3f5d9d467b70353312655c1c5a",
+          "title": "OpenAI 推出 ChatGPT Ads 新功能：Sponsored Agents 测试并集成 HubSpot 与 Shopify / Reimagining advertising with AI",
+          "title_zh": "OpenAI 推出 ChatGPT Ads 新功能：Sponsored Agents 测试并集成 HubSpot 与 Shopify",
+          "title_en": "Reimagining advertising with AI",
+          "title_original": "Reimagining advertising with AI",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://openai.com/index/reimagining-advertising-with-ai",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-09-16T13:00:00Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "OpenAI News"
+      ],
+      "items": [
+        {
+          "id": "1e1aa16f656edc3f5d9d467b70353312655c1c5a",
+          "title": "OpenAI 推出 ChatGPT Ads 新功能：Sponsored Agents 测试并集成 HubSpot 与 Shopify / Reimagining advertising with AI",
+          "title_zh": "OpenAI 推出 ChatGPT Ads 新功能：Sponsored Agents 测试并集成 HubSpot 与 Shopify",
+          "title_en": "Reimagining advertising with AI",
+          "title_original": "Reimagining advertising with AI",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://openai.com/index/reimagining-advertising-with-ai",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-09-16T13:00:00Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.85,
+      "importance": 0.85,
+      "importance_score": 0.85,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.91,
+        "recency": 0.9887,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-16T13:00:00Z",
+      "latest_at": "2026-09-16T13:00:00Z",
+      "primary_item": {
+        "id": "1e1aa16f656edc3f5d9d467b70353312655c1c5a",
+        "title": "OpenAI 推出 ChatGPT Ads 新功能：Sponsored Agents 测试并集成 HubSpot 与 Shopify / Reimagining advertising with AI",
+        "title_zh": "OpenAI 推出 ChatGPT Ads 新功能：Sponsored Agents 测试并集成 HubSpot 与 Shopify",
+        "title_en": "Reimagining advertising with AI",
+        "title_original": "Reimagining advertising with AI",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://openai.com/index/reimagining-advertising-with-ai",
+        "source": "OpenAI News",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-09-16T14:05:52.714693Z"
       }
     },
     {
@@ -219,15 +302,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8133,
-      "importance": 0.8133,
-      "importance_score": 0.8133,
+      "score": 0.8114,
+      "importance": 0.8114,
+      "importance_score": 0.8114,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.7408,
+        "recency": 0.7302,
         "story_heat": 0.0
       },
       "category": "official",
@@ -254,7 +337,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-16T13:03:42.922590Z"
+        "scored_at": "2026-09-16T14:05:52.714693Z"
       }
     },
     {
@@ -302,15 +385,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8115,
-      "importance": 0.8115,
-      "importance_score": 0.8115,
+      "score": 0.8095,
+      "importance": 0.8095,
+      "importance_score": 0.8095,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.7749,
+        "recency": 0.7638,
         "story_heat": 0.0
       },
       "category": "official",
@@ -337,7 +420,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-16T13:03:42.922590Z"
+        "scored_at": "2026-09-16T14:05:52.714693Z"
       }
     },
     {
@@ -385,15 +468,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7973,
-      "importance": 0.7973,
-      "importance_score": 0.7973,
+      "score": 0.7954,
+      "importance": 0.7954,
+      "importance_score": 0.7954,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.7407,
+        "recency": 0.73,
         "story_heat": 0.0
       },
       "category": "official",
@@ -420,7 +503,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-16T13:03:42.922590Z"
+        "scored_at": "2026-09-16T14:05:52.714693Z"
       }
     },
     {
@@ -468,15 +551,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8043,
-      "importance": 0.8043,
-      "importance_score": 0.8043,
+      "score": 0.8023,
+      "importance": 0.8023,
+      "importance_score": 0.8023,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.7794,
+        "recency": 0.7683,
         "story_heat": 0.0
       },
       "category": "official",
@@ -503,7 +586,89 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-16T13:03:42.922590Z"
+        "scored_at": "2026-09-16T14:05:52.714693Z"
+      }
+    },
+    {
+      "story_id": "story_1615464a9e77",
+      "title": "何夕2077 AI 深度信号周报 2026 W37",
+      "url": "https://hex2077.dev/zh-CN/blog/weekly/2026-09-13-ai-weekly-2026-w37",
+      "primary_url": "https://hex2077.dev/zh-CN/blog/weekly/2026-09-13-ai-weekly-2026-w37",
+      "source": "Daily Digest",
+      "source_name": "AI HubToday",
+      "sources": [
+        {
+          "id": "3703ae8214f1c05ff68fa1cfae5f845d4f7db147",
+          "title": "何夕2077 AI 深度信号周报 2026 W37",
+          "title_zh": "何夕2077 AI 深度信号周报 2026 W37",
+          "title_en": null,
+          "title_original": "何夕2077 AI 深度信号周报 2026 W37",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://hex2077.dev/zh-CN/blog/weekly/2026-09-13-ai-weekly-2026-w37",
+          "source": "Daily Digest",
+          "source_name": "AI HubToday",
+          "site_id": "aihubtoday",
+          "published_at": "2026-09-16T13:29:54Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Daily Digest"
+      ],
+      "items": [
+        {
+          "id": "3703ae8214f1c05ff68fa1cfae5f845d4f7db147",
+          "title": "何夕2077 AI 深度信号周报 2026 W37",
+          "title_zh": "何夕2077 AI 深度信号周报 2026 W37",
+          "title_en": null,
+          "title_original": "何夕2077 AI 深度信号周报 2026 W37",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://hex2077.dev/zh-CN/blog/weekly/2026-09-13-ai-weekly-2026-w37",
+          "source": "Daily Digest",
+          "source_name": "AI HubToday",
+          "site_id": "aihubtoday",
+          "published_at": "2026-09-16T13:29:54Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7668,
+      "importance": 0.7668,
+      "importance_score": 0.7668,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9958,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-16T13:29:54Z",
+      "latest_at": "2026-09-16T13:29:54Z",
+      "primary_item": {
+        "id": "3703ae8214f1c05ff68fa1cfae5f845d4f7db147",
+        "title": "何夕2077 AI 深度信号周报 2026 W37",
+        "title_zh": "何夕2077 AI 深度信号周报 2026 W37",
+        "title_en": null,
+        "title_original": "何夕2077 AI 深度信号周报 2026 W37",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://hex2077.dev/zh-CN/blog/weekly/2026-09-13-ai-weekly-2026-w37",
+        "source": "Daily Digest",
+        "source_name": "AI HubToday"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-09-16T14:05:52.714693Z"
       }
     },
     {
@@ -551,15 +716,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7973,
-      "importance": 0.7973,
-      "importance_score": 0.7973,
+      "score": 0.7954,
+      "importance": 0.7954,
+      "importance_score": 0.7954,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.7407,
+        "recency": 0.73,
         "story_heat": 0.0
       },
       "category": "official",
@@ -586,7 +751,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-16T13:03:42.922590Z"
+        "scored_at": "2026-09-16T14:05:52.714693Z"
       }
     },
     {
@@ -634,15 +799,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.76,
-      "importance": 0.76,
-      "importance_score": 0.76,
+      "score": 0.7575,
+      "importance": 0.7575,
+      "importance_score": 0.7575,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9576,
+        "recency": 0.9439,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -668,7 +833,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-16T13:03:42.922590Z"
+        "scored_at": "2026-09-16T14:05:52.714693Z"
       }
     },
     {
@@ -716,15 +881,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7413,
-      "importance": 0.7413,
-      "importance_score": 0.7413,
+      "score": 0.7394,
+      "importance": 0.7394,
+      "importance_score": 0.7394,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.79,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7374,
+        "recency": 0.7268,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -749,7 +914,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-16T13:03:42.922590Z"
+        "scored_at": "2026-09-16T14:05:52.714693Z"
       }
     },
     {
@@ -797,15 +962,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7988,
-      "importance": 0.7988,
-      "importance_score": 0.7988,
+      "score": 0.7969,
+      "importance": 0.7969,
+      "importance_score": 0.7969,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.7492,
+        "recency": 0.7384,
         "story_heat": 0.0
       },
       "category": "official",
@@ -832,7 +997,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-16T13:03:42.922590Z"
+        "scored_at": "2026-09-16T14:05:52.714693Z"
       }
     },
     {
@@ -880,15 +1045,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7973,
-      "importance": 0.7973,
-      "importance_score": 0.7973,
+      "score": 0.7954,
+      "importance": 0.7954,
+      "importance_score": 0.7954,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.7407,
+        "recency": 0.73,
         "story_heat": 0.0
       },
       "category": "official",
@@ -915,7 +1080,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-16T13:03:42.922590Z"
+        "scored_at": "2026-09-16T14:05:52.714693Z"
       }
     },
     {
@@ -963,15 +1128,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.76,
-      "importance": 0.76,
-      "importance_score": 0.76,
+      "score": 0.7575,
+      "importance": 0.7575,
+      "importance_score": 0.7575,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9576,
+        "recency": 0.9439,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -997,90 +1162,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-16T13:03:42.922590Z"
-      }
-    },
-    {
-      "story_id": "story_b933e12f991b",
-      "title": "来自 Google 人工智能与经济 ATLAS 的新见解 / New insights from Google’s AI & Economy ATLAS",
-      "url": "https://blog.google/innovation-and-ai/technology/ai/ai-economy-atlas-september-2026",
-      "primary_url": "https://blog.google/innovation-and-ai/technology/ai/ai-economy-atlas-september-2026",
-      "source": "Google AI Blog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "a97b3965566648f19879b1c3c4d97705526ac9da",
-          "title": "来自 Google 人工智能与经济 ATLAS 的新见解 / New insights from Google’s AI & Economy ATLAS",
-          "title_zh": "来自 Google 人工智能与经济 ATLAS 的新见解",
-          "title_en": "New insights from Google’s AI & Economy ATLAS",
-          "title_original": "New insights from Google’s AI & Economy ATLAS",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://blog.google/innovation-and-ai/technology/ai/ai-economy-atlas-september-2026",
-          "source": "Google AI Blog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-09-15T13:00:00Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Google AI Blog"
-      ],
-      "items": [
-        {
-          "id": "a97b3965566648f19879b1c3c4d97705526ac9da",
-          "title": "来自 Google 人工智能与经济 ATLAS 的新见解 / New insights from Google’s AI & Economy ATLAS",
-          "title_zh": "来自 Google 人工智能与经济 ATLAS 的新见解",
-          "title_en": "New insights from Google’s AI & Economy ATLAS",
-          "title_original": "New insights from Google’s AI & Economy ATLAS",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://blog.google/innovation-and-ai/technology/ai/ai-economy-atlas-september-2026",
-          "source": "Google AI Blog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-09-15T13:00:00Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7917,
-      "importance": 0.7917,
-      "importance_score": 0.7917,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.87,
-        "recency": 0.7093,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-15T13:00:00Z",
-      "latest_at": "2026-09-15T13:00:00Z",
-      "primary_item": {
-        "id": "a97b3965566648f19879b1c3c4d97705526ac9da",
-        "title": "来自 Google 人工智能与经济 ATLAS 的新见解 / New insights from Google’s AI & Economy ATLAS",
-        "title_zh": "来自 Google 人工智能与经济 ATLAS 的新见解",
-        "title_en": "New insights from Google’s AI & Economy ATLAS",
-        "title_original": "New insights from Google’s AI & Economy ATLAS",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://blog.google/innovation-and-ai/technology/ai/ai-economy-atlas-september-2026",
-        "source": "Google AI Blog",
-        "source_name": "Official AI Updates"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-09-16T13:03:42.922590Z"
+        "scored_at": "2026-09-16T14:05:52.714693Z"
       }
     },
     {
@@ -1128,15 +1210,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.76,
-      "importance": 0.76,
-      "importance_score": 0.76,
+      "score": 0.7575,
+      "importance": 0.7575,
+      "importance_score": 0.7575,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9576,
+        "recency": 0.9439,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1162,7 +1244,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-16T13:03:42.922590Z"
+        "scored_at": "2026-09-16T14:05:52.714693Z"
       }
     },
     {
@@ -1210,15 +1292,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.76,
-      "importance": 0.76,
-      "importance_score": 0.76,
+      "score": 0.7575,
+      "importance": 0.7575,
+      "importance_score": 0.7575,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9576,
+        "recency": 0.9439,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1244,7 +1326,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-16T13:03:42.922590Z"
+        "scored_at": "2026-09-16T14:05:52.714693Z"
       }
     },
     {
@@ -1292,15 +1374,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7575,
-      "importance": 0.7575,
-      "importance_score": 0.7575,
+      "score": 0.7551,
+      "importance": 0.7551,
+      "importance_score": 0.7551,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9439,
+        "recency": 0.9303,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1326,7 +1408,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-16T13:03:42.922590Z"
+        "scored_at": "2026-09-16T14:05:52.714693Z"
       }
     },
     {
@@ -1374,15 +1456,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7575,
-      "importance": 0.7575,
-      "importance_score": 0.7575,
+      "score": 0.7551,
+      "importance": 0.7551,
+      "importance_score": 0.7551,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9439,
+        "recency": 0.9303,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1408,7 +1490,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-16T13:03:42.922590Z"
+        "scored_at": "2026-09-16T14:05:52.714693Z"
       }
     },
     {
@@ -1456,15 +1538,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7575,
-      "importance": 0.7575,
-      "importance_score": 0.7575,
+      "score": 0.7551,
+      "importance": 0.7551,
+      "importance_score": 0.7551,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9439,
+        "recency": 0.9303,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1490,7 +1572,146 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-16T13:03:42.922590Z"
+        "scored_at": "2026-09-16T14:05:52.714693Z"
+      }
+    },
+    {
+      "story_id": "story_e505711c206e",
+      "title": "在大语言模型时代学习编程",
+      "url": "https://blog.ploeh.dk/2026/09/16/on-learning-programming-in-an-age-of-llms",
+      "primary_url": "https://blog.ploeh.dk/2026/09/16/on-learning-programming-in-an-age-of-llms",
+      "source": "blog.ploeh.dk",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "48d73e687736e4c451de7dd10a20ab46bab4a2e2",
+          "title": "在大语言模型时代学习编程",
+          "title_zh": "在大语言模型时代学习编程",
+          "title_en": null,
+          "title_original": "在大语言模型时代学习编程",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://blog.ploeh.dk/2026/09/16/on-learning-programming-in-an-age-of-llms",
+          "source": "blog.ploeh.dk",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-09-16T12:57:28.012000Z"
+        },
+        {
+          "id": "5991f78d5e29458304763aafb16178643f72d25f",
+          "title": "在大语言模型时代学习编程 / Learning Programming in an Age of LLMs",
+          "title_zh": "在大语言模型时代学习编程",
+          "title_en": "Learning Programming in an Age of LLMs",
+          "title_original": "Learning Programming in an Age of LLMs",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://blog.ploeh.dk/2026/09/16/on-learning-programming-in-an-age-of-llms",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-09-16T09:12:34Z"
+        },
+        {
+          "id": "977c903b86124a6d7ed5f70eea4b5af0f4c6e6b5",
+          "title": "在LLM时代学习编程 / Learning Programming in an Age of LLMs",
+          "title_zh": "在LLM时代学习编程",
+          "title_en": "Learning Programming in an Age of LLMs",
+          "title_original": "Learning Programming in an Age of LLMs",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=49723873",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-09-16T09:12:34Z"
+        }
+      ],
+      "source_count": 3,
+      "source_names": [
+        "Hacker News (黑客新闻)",
+        "blog.ploeh.dk",
+        "hackernews"
+      ],
+      "items": [
+        {
+          "id": "48d73e687736e4c451de7dd10a20ab46bab4a2e2",
+          "title": "在大语言模型时代学习编程",
+          "title_zh": "在大语言模型时代学习编程",
+          "title_en": null,
+          "title_original": "在大语言模型时代学习编程",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://blog.ploeh.dk/2026/09/16/on-learning-programming-in-an-age-of-llms",
+          "source": "blog.ploeh.dk",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-09-16T12:57:28.012000Z"
+        },
+        {
+          "id": "5991f78d5e29458304763aafb16178643f72d25f",
+          "title": "在大语言模型时代学习编程 / Learning Programming in an Age of LLMs",
+          "title_zh": "在大语言模型时代学习编程",
+          "title_en": "Learning Programming in an Age of LLMs",
+          "title_original": "Learning Programming in an Age of LLMs",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://blog.ploeh.dk/2026/09/16/on-learning-programming-in-an-age-of-llms",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-09-16T09:12:34Z"
+        },
+        {
+          "id": "977c903b86124a6d7ed5f70eea4b5af0f4c6e6b5",
+          "title": "在LLM时代学习编程 / Learning Programming in an Age of LLMs",
+          "title_zh": "在LLM时代学习编程",
+          "title_en": "Learning Programming in an Age of LLMs",
+          "title_original": "Learning Programming in an Age of LLMs",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=49723873",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-09-16T09:12:34Z"
+        }
+      ],
+      "item_count": 3,
+      "duplicate_count": 3,
+      "score": 0.5687,
+      "importance": 0.5687,
+      "importance_score": 0.5687,
+      "importance_label": "多源热议",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9881,
+        "story_heat": 0.5
+      },
+      "category": "multi_source",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-09-16T09:12:34Z",
+      "latest_at": "2026-09-16T12:57:28.012000Z",
+      "primary_item": {
+        "id": "48d73e687736e4c451de7dd10a20ab46bab4a2e2",
+        "title": "在大语言模型时代学习编程",
+        "title_zh": "在大语言模型时代学习编程",
+        "title_en": null,
+        "title_original": "在大语言模型时代学习编程",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://blog.ploeh.dk/2026/09/16/on-learning-programming-in-an-age-of-llms",
+        "source": "blog.ploeh.dk",
+        "source_name": "Buzzing"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-09-16T14:05:52.714693Z"
       }
     },
     {
@@ -1596,15 +1817,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5686,
-      "importance": 0.5686,
-      "importance_score": 0.5686,
+      "score": 0.566,
+      "importance": 0.566,
+      "importance_score": 0.566,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9875,
+        "recency": 0.9734,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1629,255 +1850,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-16T13:03:42.922590Z"
-      }
-    },
-    {
-      "story_id": "story_903e0955385a",
-      "title": "通过永不言弃，学习在强化学习中解决大型语言模型面临的难题",
-      "url": "https://mnoukhov.github.io/posts/ngu",
-      "primary_url": "https://mnoukhov.github.io/posts/ngu",
-      "source": "mnoukhov.github.io",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "c473491526f488456350be060e69d6f10b35df94",
-          "title": "通过永不言弃，学习在强化学习中解决大型语言模型面临的难题",
-          "title_zh": "通过永不言弃，学习在强化学习中解决大型语言模型面临的难题",
-          "title_en": null,
-          "title_original": "通过永不言弃，学习在强化学习中解决大型语言模型面临的难题",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://mnoukhov.github.io/posts/ngu",
-          "source": "mnoukhov.github.io",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-09-16T11:24:28.187000Z"
-        },
-        {
-          "id": "bc3c4005890b1de03cea70907ad37453b265cbde",
-          "title": "通过永不言弃，学习在强化学习中解决大型语言模型面临的难题 / Learning to solve hard problems in RL for LLMs by never giving up",
-          "title_zh": "通过永不言弃，学习在强化学习中解决大型语言模型面临的难题",
-          "title_en": "Learning to solve hard problems in RL for LLMs by never giving up",
-          "title_original": "Learning to solve hard problems in RL for LLMs by never giving up",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://mnoukhov.github.io/posts/ngu",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-09-15T19:07:38Z"
-        },
-        {
-          "id": "99bbe5c25f1cef12f0f470bd67e69da56199a62e",
-          "title": "LLM学习如何解决强化学习中的难题，永不放弃 / Learning to solve hard problems in RL for LLMs by never giving up",
-          "title_zh": "LLM学习如何解决强化学习中的难题，永不放弃",
-          "title_en": "Learning to solve hard problems in RL for LLMs by never giving up",
-          "title_original": "Learning to solve hard problems in RL for LLMs by never giving up",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=49717280",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-09-15T19:07:38Z"
-        }
-      ],
-      "source_count": 3,
-      "source_names": [
-        "Hacker News · 24h最热",
-        "hackernews",
-        "mnoukhov.github.io"
-      ],
-      "items": [
-        {
-          "id": "c473491526f488456350be060e69d6f10b35df94",
-          "title": "通过永不言弃，学习在强化学习中解决大型语言模型面临的难题",
-          "title_zh": "通过永不言弃，学习在强化学习中解决大型语言模型面临的难题",
-          "title_en": null,
-          "title_original": "通过永不言弃，学习在强化学习中解决大型语言模型面临的难题",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://mnoukhov.github.io/posts/ngu",
-          "source": "mnoukhov.github.io",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-09-16T11:24:28.187000Z"
-        },
-        {
-          "id": "bc3c4005890b1de03cea70907ad37453b265cbde",
-          "title": "通过永不言弃，学习在强化学习中解决大型语言模型面临的难题 / Learning to solve hard problems in RL for LLMs by never giving up",
-          "title_zh": "通过永不言弃，学习在强化学习中解决大型语言模型面临的难题",
-          "title_en": "Learning to solve hard problems in RL for LLMs by never giving up",
-          "title_original": "Learning to solve hard problems in RL for LLMs by never giving up",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://mnoukhov.github.io/posts/ngu",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-09-15T19:07:38Z"
-        },
-        {
-          "id": "99bbe5c25f1cef12f0f470bd67e69da56199a62e",
-          "title": "LLM学习如何解决强化学习中的难题，永不放弃 / Learning to solve hard problems in RL for LLMs by never giving up",
-          "title_zh": "LLM学习如何解决强化学习中的难题，永不放弃",
-          "title_en": "Learning to solve hard problems in RL for LLMs by never giving up",
-          "title_original": "Learning to solve hard problems in RL for LLMs by never giving up",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=49717280",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-09-15T19:07:38Z"
-        }
-      ],
-      "item_count": 3,
-      "duplicate_count": 3,
-      "score": 0.5672,
-      "importance": 0.5672,
-      "importance_score": 0.5672,
-      "importance_label": "多源热议",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.9803,
-        "story_heat": 0.5
-      },
-      "category": "multi_source",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-09-15T19:07:38Z",
-      "latest_at": "2026-09-16T11:24:28.187000Z",
-      "primary_item": {
-        "id": "c473491526f488456350be060e69d6f10b35df94",
-        "title": "通过永不言弃，学习在强化学习中解决大型语言模型面临的难题",
-        "title_zh": "通过永不言弃，学习在强化学习中解决大型语言模型面临的难题",
-        "title_en": null,
-        "title_original": "通过永不言弃，学习在强化学习中解决大型语言模型面临的难题",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://mnoukhov.github.io/posts/ngu",
-        "source": "mnoukhov.github.io",
-        "source_name": "Buzzing"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-09-16T13:03:42.922590Z"
-      }
-    },
-    {
-      "story_id": "story_653118a2d24c",
-      "title": "Meta 的新 One 订阅为社交媒体和人工智能定价 / Meta&#8217;s new One subscriptions put a price on social media and AI",
-      "url": "https://www.theverge.com/tech/995453/meta-one-subscriptions-ai",
-      "primary_url": "https://www.theverge.com/tech/995453/meta-one-subscriptions-ai",
-      "source": "The Verge",
-      "source_name": "Curated Media",
-      "sources": [
-        {
-          "id": "f8692e346780953d8cafa70e7c3433fda0d83302",
-          "title": "Meta 的新 One 订阅为社交媒体和人工智能定价 / Meta&#8217;s new One subscriptions put a price on social media and AI",
-          "title_zh": "Meta 的新 One 订阅为社交媒体和人工智能定价",
-          "title_en": "Meta&#8217;s new One subscriptions put a price on social media and AI",
-          "title_original": "Meta&#8217;s new One subscriptions put a price on social media and AI",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.theverge.com/tech/995453/meta-one-subscriptions-ai",
-          "source": "The Verge",
-          "source_name": "Curated Media",
-          "site_id": "curated_media",
-          "published_at": "2026-09-15T15:00:00Z"
-        },
-        {
-          "id": "c8ffb46e549cd5af1ec749fa65965bee02389614",
-          "title": "Meta 的新 One 订阅为社交媒体和人工智能定价 / Meta’s new One subscriptions put a price on social media and AI",
-          "title_zh": "Meta 的新 One 订阅为社交媒体和人工智能定价",
-          "title_en": "Meta’s new One subscriptions put a price on social media and AI",
-          "title_original": "Meta’s new One subscriptions put a price on social media and AI",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.theverge.com/tech/995453/meta-one-subscriptions-ai",
-          "source": "The Verge",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-09-15T15:00:00Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "The Verge"
-      ],
-      "items": [
-        {
-          "id": "f8692e346780953d8cafa70e7c3433fda0d83302",
-          "title": "Meta 的新 One 订阅为社交媒体和人工智能定价 / Meta&#8217;s new One subscriptions put a price on social media and AI",
-          "title_zh": "Meta 的新 One 订阅为社交媒体和人工智能定价",
-          "title_en": "Meta&#8217;s new One subscriptions put a price on social media and AI",
-          "title_original": "Meta&#8217;s new One subscriptions put a price on social media and AI",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.theverge.com/tech/995453/meta-one-subscriptions-ai",
-          "source": "The Verge",
-          "source_name": "Curated Media",
-          "site_id": "curated_media",
-          "published_at": "2026-09-15T15:00:00Z"
-        },
-        {
-          "id": "c8ffb46e549cd5af1ec749fa65965bee02389614",
-          "title": "Meta 的新 One 订阅为社交媒体和人工智能定价 / Meta’s new One subscriptions put a price on social media and AI",
-          "title_zh": "Meta 的新 One 订阅为社交媒体和人工智能定价",
-          "title_en": "Meta’s new One subscriptions put a price on social media and AI",
-          "title_original": "Meta’s new One subscriptions put a price on social media and AI",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.theverge.com/tech/995453/meta-one-subscriptions-ai",
-          "source": "The Verge",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-09-15T15:00:00Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5669,
-      "importance": 0.5669,
-      "importance_score": 0.5669,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.4896,
-        "source_tier": 0.58,
-        "ai_relevance": 0.68,
-        "recency": 0.7301,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-09-15T15:00:00Z",
-      "latest_at": "2026-09-15T15:00:00Z",
-      "primary_item": {
-        "id": "f8692e346780953d8cafa70e7c3433fda0d83302",
-        "title": "Meta 的新 One 订阅为社交媒体和人工智能定价 / Meta&#8217;s new One subscriptions put a price on social media and AI",
-        "title_zh": "Meta 的新 One 订阅为社交媒体和人工智能定价",
-        "title_en": "Meta&#8217;s new One subscriptions put a price on social media and AI",
-        "title_original": "Meta&#8217;s new One subscriptions put a price on social media and AI",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://www.theverge.com/tech/995453/meta-one-subscriptions-ai",
-        "source": "The Verge",
-        "source_name": "Curated Media"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-09-16T13:03:42.922590Z"
+        "scored_at": "2026-09-16T14:05:52.714693Z"
       }
     }
   ]
