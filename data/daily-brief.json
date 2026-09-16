@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-16T08:47:19.166558Z",
+  "generated_at": "2026-09-16T09:47:23.445815Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -135,15 +135,15 @@
       ],
       "item_count": 4,
       "duplicate_count": 4,
-      "score": 0.8905,
-      "importance": 0.8905,
-      "importance_score": 0.8905,
+      "score": 0.8884,
+      "importance": 0.8884,
+      "importance_score": 0.8884,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.7973,
+        "recency": 0.7858,
         "story_heat": 0.75
       },
       "category": "official",
@@ -171,7 +171,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-16T08:48:09.213448Z"
+        "scored_at": "2026-09-16T10:02:11.232721Z"
       }
     },
     {
@@ -219,15 +219,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8213,
-      "importance": 0.8213,
-      "importance_score": 0.8213,
+      "score": 0.8192,
+      "importance": 0.8192,
+      "importance_score": 0.8192,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.7849,
+        "recency": 0.7736,
         "story_heat": 0.0
       },
       "category": "official",
@@ -254,7 +254,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-16T08:48:09.213448Z"
+        "scored_at": "2026-09-16T10:02:11.232721Z"
       }
     },
     {
@@ -302,15 +302,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8198,
-      "importance": 0.8198,
-      "importance_score": 0.8198,
+      "score": 0.8177,
+      "importance": 0.8177,
+      "importance_score": 0.8177,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.821,
+        "recency": 0.8092,
         "story_heat": 0.0
       },
       "category": "official",
@@ -337,7 +337,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-16T08:48:09.213448Z"
+        "scored_at": "2026-09-16T10:02:11.232721Z"
       }
     },
     {
@@ -385,15 +385,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8052,
-      "importance": 0.8052,
-      "importance_score": 0.8052,
+      "score": 0.8032,
+      "importance": 0.8032,
+      "importance_score": 0.8032,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.7847,
+        "recency": 0.7734,
         "story_heat": 0.0
       },
       "category": "official",
@@ -420,7 +420,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-16T08:48:09.213448Z"
+        "scored_at": "2026-09-16T10:02:11.232721Z"
       }
     },
     {
@@ -468,15 +468,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8126,
-      "importance": 0.8126,
-      "importance_score": 0.8126,
+      "score": 0.8105,
+      "importance": 0.8105,
+      "importance_score": 0.8105,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.8258,
+        "recency": 0.8139,
         "story_heat": 0.0
       },
       "category": "official",
@@ -503,7 +503,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-16T08:48:09.213448Z"
+        "scored_at": "2026-09-16T10:02:11.232721Z"
       }
     },
     {
@@ -551,15 +551,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8052,
-      "importance": 0.8052,
-      "importance_score": 0.8052,
+      "score": 0.8032,
+      "importance": 0.8032,
+      "importance_score": 0.8032,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.7847,
+        "recency": 0.7734,
         "story_heat": 0.0
       },
       "category": "official",
@@ -586,30 +586,30 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-16T08:48:09.213448Z"
+        "scored_at": "2026-09-16T10:02:11.232721Z"
       }
     },
     {
-      "story_id": "story_85ca850a8a98",
-      "title": "AI智能体手机进入量产商用阶段:努比亚NaviX Ultra正式开售 搭载豆包手机助手",
-      "url": "https://www.aibase.com/news/31097",
-      "primary_url": "https://www.aibase.com/news/31097",
+      "story_id": "story_0170c995a4dd",
+      "title": "千问 Qwen3.8-27B 登顶 Hugging Face，成该平台史上最受欢迎开源模型",
+      "url": "https://www.aibase.com/news/31101",
+      "primary_url": "https://www.aibase.com/news/31101",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "e92271620587a2843b98b8f04f8fb68367ff5bea",
-          "title": "AI智能体手机进入量产商用阶段:努比亚NaviX Ultra正式开售 搭载豆包手机助手",
-          "title_zh": "AI智能体手机进入量产商用阶段:努比亚NaviX Ultra正式开售 搭载豆包手机助手",
+          "id": "7bda070f0489cac3b0047d5426bc5755467beb64",
+          "title": "千问 Qwen3.8-27B 登顶 Hugging Face，成该平台史上最受欢迎开源模型",
+          "title_zh": "千问 Qwen3.8-27B 登顶 Hugging Face，成该平台史上最受欢迎开源模型",
           "title_en": null,
-          "title_original": "AI智能体手机进入量产商用阶段:努比亚NaviX Ultra正式开售 搭载豆包手机助手",
+          "title_original": "千问 Qwen3.8-27B 登顶 Hugging Face，成该平台史上最受欢迎开源模型",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/31097",
+          "url": "https://www.aibase.com/news/31101",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-09-16T08:47:19.166558Z"
+          "published_at": "2026-09-16T09:47:23.445815Z"
         }
       ],
       "source_count": 1,
@@ -618,18 +618,18 @@
       ],
       "items": [
         {
-          "id": "e92271620587a2843b98b8f04f8fb68367ff5bea",
-          "title": "AI智能体手机进入量产商用阶段:努比亚NaviX Ultra正式开售 搭载豆包手机助手",
-          "title_zh": "AI智能体手机进入量产商用阶段:努比亚NaviX Ultra正式开售 搭载豆包手机助手",
+          "id": "7bda070f0489cac3b0047d5426bc5755467beb64",
+          "title": "千问 Qwen3.8-27B 登顶 Hugging Face，成该平台史上最受欢迎开源模型",
+          "title_zh": "千问 Qwen3.8-27B 登顶 Hugging Face，成该平台史上最受欢迎开源模型",
           "title_en": null,
-          "title_original": "AI智能体手机进入量产商用阶段:努比亚NaviX Ultra正式开售 搭载豆包手机助手",
+          "title_original": "千问 Qwen3.8-27B 登顶 Hugging Face，成该平台史上最受欢迎开源模型",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/31097",
+          "url": "https://www.aibase.com/news/31101",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-09-16T08:47:19.166558Z"
+          "published_at": "2026-09-16T09:47:23.445815Z"
         }
       ],
       "item_count": 1,
@@ -650,17 +650,17 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-09-16T08:47:19.166558Z",
-      "latest_at": "2026-09-16T08:47:19.166558Z",
+      "earliest_at": "2026-09-16T09:47:23.445815Z",
+      "latest_at": "2026-09-16T09:47:23.445815Z",
       "primary_item": {
-        "id": "e92271620587a2843b98b8f04f8fb68367ff5bea",
-        "title": "AI智能体手机进入量产商用阶段:努比亚NaviX Ultra正式开售 搭载豆包手机助手",
-        "title_zh": "AI智能体手机进入量产商用阶段:努比亚NaviX Ultra正式开售 搭载豆包手机助手",
+        "id": "7bda070f0489cac3b0047d5426bc5755467beb64",
+        "title": "千问 Qwen3.8-27B 登顶 Hugging Face，成该平台史上最受欢迎开源模型",
+        "title_zh": "千问 Qwen3.8-27B 登顶 Hugging Face，成该平台史上最受欢迎开源模型",
         "title_en": null,
-        "title_original": "AI智能体手机进入量产商用阶段:努比亚NaviX Ultra正式开售 搭载豆包手机助手",
+        "title_original": "千问 Qwen3.8-27B 登顶 Hugging Face，成该平台史上最受欢迎开源模型",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/31097",
+        "url": "https://www.aibase.com/news/31101",
         "source": "AIbase",
         "source_name": "AIbase"
       },
@@ -668,119 +668,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-16T08:48:09.213448Z"
-      }
-    },
-    {
-      "story_id": "story_37bd0d5d25f4",
-      "title": "Anthropic 与 OpenAI 提议协调放缓前沿 AI 开发，Cohere CEO 等批评者质疑其真实动机 / Not everyone is convinced that Big AI's proposed development slowdown is really about safety",
-      "url": "https://the-decoder.com/not-everyone-is-convinced-that-big-ais-proposed-development-slowdown-is-really-about-safety",
-      "primary_url": "https://the-decoder.com/not-everyone-is-convinced-that-big-ais-proposed-development-slowdown-is-really-about-safety",
-      "source": "The Decoder：AI News（RSS）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "c4fa90d0eabe5c4be02463c403caac6a07f3631f",
-          "title": "Anthropic 与 OpenAI 提议协调放缓前沿 AI 开发，Cohere CEO 等批评者质疑其真实动机 / Not everyone is convinced that Big AI's proposed development slowdown is really about safety",
-          "title_zh": "Anthropic 与 OpenAI 提议协调放缓前沿 AI 开发，Cohere CEO 等批评者质疑其真实动机",
-          "title_en": "Not everyone is convinced that Big AI's proposed development slowdown is really about safety",
-          "title_original": "Not everyone is convinced that Big AI's proposed development slowdown is really about safety",
-          "summary": "Anthropic CEO Dario Amodei 呼吁行业与政府协调放缓前沿 AI 开发，并寻求反垄断豁免，Sam Altman 与 Elon Musk 表示同意。",
-          "recommend_reason_zh": null,
-          "url": "https://the-decoder.com/not-everyone-is-convinced-that-big-ais-proposed-development-slowdown-is-really-about-safety",
-          "source": "The Decoder：AI News（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-15T09:04:36Z"
-        },
-        {
-          "id": "73d86ed9c313e04442fff39f6d2ba15f03cd12c0",
-          "title": "Anthropic 与 OpenAI 提议协调放缓前沿 AI 开发，Cohere CEO 等批评者质疑其真实动机 / Not everyone is convinced that Big AI's proposed slowdown is really about safety",
-          "title_zh": "Anthropic 与 OpenAI 提议协调放缓前沿 AI 开发，Cohere CEO 等批评者质疑其真实动机",
-          "title_en": "Not everyone is convinced that Big AI's proposed slowdown is really about safety",
-          "title_original": "Not everyone is convinced that Big AI's proposed slowdown is really about safety",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://the-decoder.com/not-everyone-is-convinced-that-big-ais-proposed-development-slowdown-is-really-about-safety",
-          "source": "The Decoder AI News",
-          "source_name": "Curated Media",
-          "site_id": "curated_media",
-          "published_at": "2026-09-15T09:04:36Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "The Decoder AI News",
-        "The Decoder：AI News（RSS）"
-      ],
-      "items": [
-        {
-          "id": "c4fa90d0eabe5c4be02463c403caac6a07f3631f",
-          "title": "Anthropic 与 OpenAI 提议协调放缓前沿 AI 开发，Cohere CEO 等批评者质疑其真实动机 / Not everyone is convinced that Big AI's proposed development slowdown is really about safety",
-          "title_zh": "Anthropic 与 OpenAI 提议协调放缓前沿 AI 开发，Cohere CEO 等批评者质疑其真实动机",
-          "title_en": "Not everyone is convinced that Big AI's proposed development slowdown is really about safety",
-          "title_original": "Not everyone is convinced that Big AI's proposed development slowdown is really about safety",
-          "summary": "Anthropic CEO Dario Amodei 呼吁行业与政府协调放缓前沿 AI 开发，并寻求反垄断豁免，Sam Altman 与 Elon Musk 表示同意。",
-          "recommend_reason_zh": null,
-          "url": "https://the-decoder.com/not-everyone-is-convinced-that-big-ais-proposed-development-slowdown-is-really-about-safety",
-          "source": "The Decoder：AI News（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-15T09:04:36Z"
-        },
-        {
-          "id": "73d86ed9c313e04442fff39f6d2ba15f03cd12c0",
-          "title": "Anthropic 与 OpenAI 提议协调放缓前沿 AI 开发，Cohere CEO 等批评者质疑其真实动机 / Not everyone is convinced that Big AI's proposed slowdown is really about safety",
-          "title_zh": "Anthropic 与 OpenAI 提议协调放缓前沿 AI 开发，Cohere CEO 等批评者质疑其真实动机",
-          "title_en": "Not everyone is convinced that Big AI's proposed slowdown is really about safety",
-          "title_original": "Not everyone is convinced that Big AI's proposed slowdown is really about safety",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://the-decoder.com/not-everyone-is-convinced-that-big-ais-proposed-development-slowdown-is-really-about-safety",
-          "source": "The Decoder AI News",
-          "source_name": "Curated Media",
-          "site_id": "curated_media",
-          "published_at": "2026-09-15T09:04:36Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.7554,
-      "importance": 0.7554,
-      "importance_score": 0.7554,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.77,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7101,
-        "story_heat": 0.25
-      },
-      "category": "industry",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-15T09:04:36Z",
-      "latest_at": "2026-09-15T09:04:36Z",
-      "primary_item": {
-        "id": "c4fa90d0eabe5c4be02463c403caac6a07f3631f",
-        "title": "Anthropic 与 OpenAI 提议协调放缓前沿 AI 开发，Cohere CEO 等批评者质疑其真实动机 / Not everyone is convinced that Big AI's proposed development slowdown is really about safety",
-        "title_zh": "Anthropic 与 OpenAI 提议协调放缓前沿 AI 开发，Cohere CEO 等批评者质疑其真实动机",
-        "title_en": "Not everyone is convinced that Big AI's proposed development slowdown is really about safety",
-        "title_original": "Not everyone is convinced that Big AI's proposed development slowdown is really about safety",
-        "summary": "Anthropic CEO Dario Amodei 呼吁行业与政府协调放缓前沿 AI 开发，并寻求反垄断豁免，Sam Altman 与 Elon Musk 表示同意。",
-        "recommend_reason_zh": null,
-        "url": "https://the-decoder.com/not-everyone-is-convinced-that-big-ais-proposed-development-slowdown-is-really-about-safety",
-        "source": "The Decoder：AI News（RSS）",
-        "source_name": "AI HOT"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-09-16T08:48:09.213448Z"
+        "scored_at": "2026-09-16T10:02:11.232721Z"
       }
     },
     {
@@ -828,15 +716,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7492,
-      "importance": 0.7492,
-      "importance_score": 0.7492,
+      "score": 0.7472,
+      "importance": 0.7472,
+      "importance_score": 0.7472,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.79,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7812,
+        "recency": 0.77,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -861,7 +749,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-16T08:48:09.213448Z"
+        "scored_at": "2026-09-16T10:02:11.232721Z"
       }
     },
     {
@@ -909,15 +797,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8069,
-      "importance": 0.8069,
-      "importance_score": 0.8069,
+      "score": 0.8048,
+      "importance": 0.8048,
+      "importance_score": 0.8048,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.7937,
+        "recency": 0.7823,
         "story_heat": 0.0
       },
       "category": "official",
@@ -944,7 +832,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-16T08:48:09.213448Z"
+        "scored_at": "2026-09-16T10:02:11.232721Z"
       }
     },
     {
@@ -992,15 +880,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8052,
-      "importance": 0.8052,
-      "importance_score": 0.8052,
+      "score": 0.8032,
+      "importance": 0.8032,
+      "importance_score": 0.8032,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.7847,
+        "recency": 0.7734,
         "story_heat": 0.0
       },
       "category": "official",
@@ -1027,30 +915,30 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-16T08:48:09.213448Z"
+        "scored_at": "2026-09-16T10:02:11.232721Z"
       }
     },
     {
-      "story_id": "story_d140633e4958",
-      "title": "Anthropic 签下澳大利亚首份数据中心协议：锁定 2.16 吉瓦容量，2027 年投运",
-      "url": "https://www.aibase.com/news/31099",
-      "primary_url": "https://www.aibase.com/news/31099",
+      "story_id": "story_518b2b8d3d74",
+      "title": "硅谷科技巨头安保人员计划罢工：谷歌、OpenAI、Anthropic 等办公室或受影响",
+      "url": "https://www.aibase.com/news/31100",
+      "primary_url": "https://www.aibase.com/news/31100",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "c0523e50fa28d4845b6b6890ad09d93940d8ae66",
-          "title": "Anthropic 签下澳大利亚首份数据中心协议：锁定 2.16 吉瓦容量，2027 年投运",
-          "title_zh": "Anthropic 签下澳大利亚首份数据中心协议：锁定 2.16 吉瓦容量，2027 年投运",
+          "id": "3a6692c2be0c0432499880beddf0a78cd6fbd1e3",
+          "title": "硅谷科技巨头安保人员计划罢工：谷歌、OpenAI、Anthropic 等办公室或受影响",
+          "title_zh": "硅谷科技巨头安保人员计划罢工：谷歌、OpenAI、Anthropic 等办公室或受影响",
           "title_en": null,
-          "title_original": "Anthropic 签下澳大利亚首份数据中心协议：锁定 2.16 吉瓦容量，2027 年投运",
+          "title_original": "硅谷科技巨头安保人员计划罢工：谷歌、OpenAI、Anthropic 等办公室或受影响",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/31099",
+          "url": "https://www.aibase.com/news/31100",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-09-16T08:47:19.166558Z"
+          "published_at": "2026-09-16T09:47:23.445815Z"
         }
       ],
       "source_count": 1,
@@ -1059,18 +947,18 @@
       ],
       "items": [
         {
-          "id": "c0523e50fa28d4845b6b6890ad09d93940d8ae66",
-          "title": "Anthropic 签下澳大利亚首份数据中心协议：锁定 2.16 吉瓦容量，2027 年投运",
-          "title_zh": "Anthropic 签下澳大利亚首份数据中心协议：锁定 2.16 吉瓦容量，2027 年投运",
+          "id": "3a6692c2be0c0432499880beddf0a78cd6fbd1e3",
+          "title": "硅谷科技巨头安保人员计划罢工：谷歌、OpenAI、Anthropic 等办公室或受影响",
+          "title_zh": "硅谷科技巨头安保人员计划罢工：谷歌、OpenAI、Anthropic 等办公室或受影响",
           "title_en": null,
-          "title_original": "Anthropic 签下澳大利亚首份数据中心协议：锁定 2.16 吉瓦容量，2027 年投运",
+          "title_original": "硅谷科技巨头安保人员计划罢工：谷歌、OpenAI、Anthropic 等办公室或受影响",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/31099",
+          "url": "https://www.aibase.com/news/31100",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-09-16T08:47:19.166558Z"
+          "published_at": "2026-09-16T09:47:23.445815Z"
         }
       ],
       "item_count": 1,
@@ -1091,17 +979,17 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-09-16T08:47:19.166558Z",
-      "latest_at": "2026-09-16T08:47:19.166558Z",
+      "earliest_at": "2026-09-16T09:47:23.445815Z",
+      "latest_at": "2026-09-16T09:47:23.445815Z",
       "primary_item": {
-        "id": "c0523e50fa28d4845b6b6890ad09d93940d8ae66",
-        "title": "Anthropic 签下澳大利亚首份数据中心协议：锁定 2.16 吉瓦容量，2027 年投运",
-        "title_zh": "Anthropic 签下澳大利亚首份数据中心协议：锁定 2.16 吉瓦容量，2027 年投运",
+        "id": "3a6692c2be0c0432499880beddf0a78cd6fbd1e3",
+        "title": "硅谷科技巨头安保人员计划罢工：谷歌、OpenAI、Anthropic 等办公室或受影响",
+        "title_zh": "硅谷科技巨头安保人员计划罢工：谷歌、OpenAI、Anthropic 等办公室或受影响",
         "title_en": null,
-        "title_original": "Anthropic 签下澳大利亚首份数据中心协议：锁定 2.16 吉瓦容量，2027 年投运",
+        "title_original": "硅谷科技巨头安保人员计划罢工：谷歌、OpenAI、Anthropic 等办公室或受影响",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/31099",
+        "url": "https://www.aibase.com/news/31100",
         "source": "AIbase",
         "source_name": "AIbase"
       },
@@ -1109,7 +997,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-16T08:48:09.213448Z"
+        "scored_at": "2026-09-16T10:02:11.232721Z"
       }
     },
     {
@@ -1157,15 +1045,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7325,
-      "importance": 0.7325,
-      "importance_score": 0.7325,
+      "score": 0.7306,
+      "importance": 0.7306,
+      "importance_score": 0.7306,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.76,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7386,
+        "recency": 0.728,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1190,7 +1078,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-16T08:48:09.213448Z"
+        "scored_at": "2026-09-16T10:02:11.232721Z"
       }
     },
     {
@@ -1238,15 +1126,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7282,
-      "importance": 0.7282,
-      "importance_score": 0.7282,
+      "score": 0.726,
+      "importance": 0.726,
+      "importance_score": 0.726,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.68,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8477,
+        "recency": 0.8355,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1271,7 +1159,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-16T08:48:09.213448Z"
+        "scored_at": "2026-09-16T10:02:11.232721Z"
       }
     },
     {
@@ -1319,15 +1207,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7261,
-      "importance": 0.7261,
-      "importance_score": 0.7261,
+      "score": 0.7239,
+      "importance": 0.7239,
+      "importance_score": 0.7239,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.68,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8361,
+        "recency": 0.8241,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1352,7 +1240,89 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-16T08:48:09.213448Z"
+        "scored_at": "2026-09-16T10:02:11.232721Z"
+      }
+    },
+    {
+      "story_id": "story_5a9af6f84852",
+      "title": "科大讯飞发布 Spark-Audio-1.0-Preview：全国产算力训练，覆盖 99 种语言、202 种方言",
+      "url": "https://www.aibase.com/news/31103",
+      "primary_url": "https://www.aibase.com/news/31103",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "d55d3dfe6fd894d4194861d7275ccaec7850a5c1",
+          "title": "科大讯飞发布 Spark-Audio-1.0-Preview：全国产算力训练，覆盖 99 种语言、202 种方言",
+          "title_zh": "科大讯飞发布 Spark-Audio-1.0-Preview：全国产算力训练，覆盖 99 种语言、202 种方言",
+          "title_en": null,
+          "title_original": "科大讯飞发布 Spark-Audio-1.0-Preview：全国产算力训练，覆盖 99 种语言、202 种方言",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/31103",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-09-16T09:47:23.445815Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "d55d3dfe6fd894d4194861d7275ccaec7850a5c1",
+          "title": "科大讯飞发布 Spark-Audio-1.0-Preview：全国产算力训练，覆盖 99 种语言、202 种方言",
+          "title_zh": "科大讯飞发布 Spark-Audio-1.0-Preview：全国产算力训练，覆盖 99 种语言、202 种方言",
+          "title_en": null,
+          "title_original": "科大讯飞发布 Spark-Audio-1.0-Preview：全国产算力训练，覆盖 99 种语言、202 种方言",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/31103",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-09-16T09:47:23.445815Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7676,
+      "importance": 0.7676,
+      "importance_score": 0.7676,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-16T09:47:23.445815Z",
+      "latest_at": "2026-09-16T09:47:23.445815Z",
+      "primary_item": {
+        "id": "d55d3dfe6fd894d4194861d7275ccaec7850a5c1",
+        "title": "科大讯飞发布 Spark-Audio-1.0-Preview：全国产算力训练，覆盖 99 种语言、202 种方言",
+        "title_zh": "科大讯飞发布 Spark-Audio-1.0-Preview：全国产算力训练，覆盖 99 种语言、202 种方言",
+        "title_en": null,
+        "title_original": "科大讯飞发布 Spark-Audio-1.0-Preview：全国产算力训练，覆盖 99 种语言、202 种方言",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://www.aibase.com/news/31103",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-09-16T10:02:11.232721Z"
       }
     },
     {
@@ -1400,15 +1370,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7993,
-      "importance": 0.7993,
-      "importance_score": 0.7993,
+      "score": 0.7973,
+      "importance": 0.7973,
+      "importance_score": 0.7973,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.7514,
+        "recency": 0.7407,
         "story_heat": 0.0
       },
       "category": "official",
@@ -1435,7 +1405,253 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-16T08:48:09.213448Z"
+        "scored_at": "2026-09-16T10:02:11.232721Z"
+      }
+    },
+    {
+      "story_id": "story_35bc6825e9ab",
+      "title": "讯飞星火语音基座大模型上线：0.65B 编码器配 30B MoE，纯国产算力训练",
+      "url": "https://www.aibase.com/news/31102",
+      "primary_url": "https://www.aibase.com/news/31102",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "7298f001a2d72a1c66c02501b670037a9bcacfa8",
+          "title": "讯飞星火语音基座大模型上线：0.65B 编码器配 30B MoE，纯国产算力训练",
+          "title_zh": "讯飞星火语音基座大模型上线：0.65B 编码器配 30B MoE，纯国产算力训练",
+          "title_en": null,
+          "title_original": "讯飞星火语音基座大模型上线：0.65B 编码器配 30B MoE，纯国产算力训练",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/31102",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-09-16T09:47:23.445815Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "7298f001a2d72a1c66c02501b670037a9bcacfa8",
+          "title": "讯飞星火语音基座大模型上线：0.65B 编码器配 30B MoE，纯国产算力训练",
+          "title_zh": "讯飞星火语音基座大模型上线：0.65B 编码器配 30B MoE，纯国产算力训练",
+          "title_en": null,
+          "title_original": "讯飞星火语音基座大模型上线：0.65B 编码器配 30B MoE，纯国产算力训练",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/31102",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-09-16T09:47:23.445815Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7676,
+      "importance": 0.7676,
+      "importance_score": 0.7676,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-16T09:47:23.445815Z",
+      "latest_at": "2026-09-16T09:47:23.445815Z",
+      "primary_item": {
+        "id": "7298f001a2d72a1c66c02501b670037a9bcacfa8",
+        "title": "讯飞星火语音基座大模型上线：0.65B 编码器配 30B MoE，纯国产算力训练",
+        "title_zh": "讯飞星火语音基座大模型上线：0.65B 编码器配 30B MoE，纯国产算力训练",
+        "title_en": null,
+        "title_original": "讯飞星火语音基座大模型上线：0.65B 编码器配 30B MoE，纯国产算力训练",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://www.aibase.com/news/31102",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-09-16T10:02:11.232721Z"
+      }
+    },
+    {
+      "story_id": "story_85ca850a8a98",
+      "title": "AI智能体手机进入量产商用阶段:努比亚NaviX Ultra正式开售 搭载豆包手机助手",
+      "url": "https://www.aibase.com/news/31097",
+      "primary_url": "https://www.aibase.com/news/31097",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "e92271620587a2843b98b8f04f8fb68367ff5bea",
+          "title": "AI智能体手机进入量产商用阶段:努比亚NaviX Ultra正式开售 搭载豆包手机助手",
+          "title_zh": "AI智能体手机进入量产商用阶段:努比亚NaviX Ultra正式开售 搭载豆包手机助手",
+          "title_en": null,
+          "title_original": "AI智能体手机进入量产商用阶段:努比亚NaviX Ultra正式开售 搭载豆包手机助手",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/31097",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-09-16T08:47:19.166558Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "e92271620587a2843b98b8f04f8fb68367ff5bea",
+          "title": "AI智能体手机进入量产商用阶段:努比亚NaviX Ultra正式开售 搭载豆包手机助手",
+          "title_zh": "AI智能体手机进入量产商用阶段:努比亚NaviX Ultra正式开售 搭载豆包手机助手",
+          "title_en": null,
+          "title_original": "AI智能体手机进入量产商用阶段:努比亚NaviX Ultra正式开售 搭载豆包手机助手",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/31097",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-09-16T08:47:19.166558Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.765,
+      "importance": 0.765,
+      "importance_score": 0.765,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9856,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-16T08:47:19.166558Z",
+      "latest_at": "2026-09-16T08:47:19.166558Z",
+      "primary_item": {
+        "id": "e92271620587a2843b98b8f04f8fb68367ff5bea",
+        "title": "AI智能体手机进入量产商用阶段:努比亚NaviX Ultra正式开售 搭载豆包手机助手",
+        "title_zh": "AI智能体手机进入量产商用阶段:努比亚NaviX Ultra正式开售 搭载豆包手机助手",
+        "title_en": null,
+        "title_original": "AI智能体手机进入量产商用阶段:努比亚NaviX Ultra正式开售 搭载豆包手机助手",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://www.aibase.com/news/31097",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-09-16T10:02:11.232721Z"
+      }
+    },
+    {
+      "story_id": "story_d140633e4958",
+      "title": "Anthropic 签下澳大利亚首份数据中心协议：锁定 2.16 吉瓦容量，2027 年投运",
+      "url": "https://www.aibase.com/news/31099",
+      "primary_url": "https://www.aibase.com/news/31099",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "c0523e50fa28d4845b6b6890ad09d93940d8ae66",
+          "title": "Anthropic 签下澳大利亚首份数据中心协议：锁定 2.16 吉瓦容量，2027 年投运",
+          "title_zh": "Anthropic 签下澳大利亚首份数据中心协议：锁定 2.16 吉瓦容量，2027 年投运",
+          "title_en": null,
+          "title_original": "Anthropic 签下澳大利亚首份数据中心协议：锁定 2.16 吉瓦容量，2027 年投运",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/31099",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-09-16T08:47:19.166558Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "c0523e50fa28d4845b6b6890ad09d93940d8ae66",
+          "title": "Anthropic 签下澳大利亚首份数据中心协议：锁定 2.16 吉瓦容量，2027 年投运",
+          "title_zh": "Anthropic 签下澳大利亚首份数据中心协议：锁定 2.16 吉瓦容量，2027 年投运",
+          "title_en": null,
+          "title_original": "Anthropic 签下澳大利亚首份数据中心协议：锁定 2.16 吉瓦容量，2027 年投运",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/31099",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-09-16T08:47:19.166558Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.765,
+      "importance": 0.765,
+      "importance_score": 0.765,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9856,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-16T08:47:19.166558Z",
+      "latest_at": "2026-09-16T08:47:19.166558Z",
+      "primary_item": {
+        "id": "c0523e50fa28d4845b6b6890ad09d93940d8ae66",
+        "title": "Anthropic 签下澳大利亚首份数据中心协议：锁定 2.16 吉瓦容量，2027 年投运",
+        "title_zh": "Anthropic 签下澳大利亚首份数据中心协议：锁定 2.16 吉瓦容量，2027 年投运",
+        "title_en": null,
+        "title_original": "Anthropic 签下澳大利亚首份数据中心协议：锁定 2.16 吉瓦容量，2027 年投运",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://www.aibase.com/news/31099",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-09-16T10:02:11.232721Z"
       }
     },
     {
@@ -1483,15 +1699,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7676,
-      "importance": 0.7676,
-      "importance_score": 0.7676,
+      "score": 0.765,
+      "importance": 0.765,
+      "importance_score": 0.765,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.9856,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1517,253 +1733,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-16T08:48:09.213448Z"
-      }
-    },
-    {
-      "story_id": "story_c040e7b4b4c9",
-      "title": "Claude 发布重大升级：43 项全能工作流与 27 个巨头应用深度打通",
-      "url": "https://www.aibase.com/news/31092",
-      "primary_url": "https://www.aibase.com/news/31092",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "5ec81647345a6aee5604d12455ee4d5eddea2d93",
-          "title": "Claude 发布重大升级：43 项全能工作流与 27 个巨头应用深度打通",
-          "title_zh": "Claude 发布重大升级：43 项全能工作流与 27 个巨头应用深度打通",
-          "title_en": null,
-          "title_original": "Claude 发布重大升级：43 项全能工作流与 27 个巨头应用深度打通",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/31092",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-09-16T07:47:29.270308Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "5ec81647345a6aee5604d12455ee4d5eddea2d93",
-          "title": "Claude 发布重大升级：43 项全能工作流与 27 个巨头应用深度打通",
-          "title_zh": "Claude 发布重大升级：43 项全能工作流与 27 个巨头应用深度打通",
-          "title_en": null,
-          "title_original": "Claude 发布重大升级：43 项全能工作流与 27 个巨头应用深度打通",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/31092",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-09-16T07:47:29.270308Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.765,
-      "importance": 0.765,
-      "importance_score": 0.765,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.9857,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-16T07:47:29.270308Z",
-      "latest_at": "2026-09-16T07:47:29.270308Z",
-      "primary_item": {
-        "id": "5ec81647345a6aee5604d12455ee4d5eddea2d93",
-        "title": "Claude 发布重大升级：43 项全能工作流与 27 个巨头应用深度打通",
-        "title_zh": "Claude 发布重大升级：43 项全能工作流与 27 个巨头应用深度打通",
-        "title_en": null,
-        "title_original": "Claude 发布重大升级：43 项全能工作流与 27 个巨头应用深度打通",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/31092",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-09-16T08:48:09.213448Z"
-      }
-    },
-    {
-      "story_id": "story_648056bc9799",
-      "title": "DeepSeek V4.1Flash助力《生化危机7》安卓模拟运行，帧率提升50%",
-      "url": "https://www.aibase.com/news/31095",
-      "primary_url": "https://www.aibase.com/news/31095",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "d3de1ede43317dce2539ab2b2542e8406adbb6e5",
-          "title": "DeepSeek V4.1Flash助力《生化危机7》安卓模拟运行，帧率提升50%",
-          "title_zh": "DeepSeek V4.1Flash助力《生化危机7》安卓模拟运行，帧率提升50%",
-          "title_en": null,
-          "title_original": "DeepSeek V4.1Flash助力《生化危机7》安卓模拟运行，帧率提升50%",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/31095",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-09-16T07:47:29.270308Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "d3de1ede43317dce2539ab2b2542e8406adbb6e5",
-          "title": "DeepSeek V4.1Flash助力《生化危机7》安卓模拟运行，帧率提升50%",
-          "title_zh": "DeepSeek V4.1Flash助力《生化危机7》安卓模拟运行，帧率提升50%",
-          "title_en": null,
-          "title_original": "DeepSeek V4.1Flash助力《生化危机7》安卓模拟运行，帧率提升50%",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/31095",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-09-16T07:47:29.270308Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.765,
-      "importance": 0.765,
-      "importance_score": 0.765,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.9857,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-16T07:47:29.270308Z",
-      "latest_at": "2026-09-16T07:47:29.270308Z",
-      "primary_item": {
-        "id": "d3de1ede43317dce2539ab2b2542e8406adbb6e5",
-        "title": "DeepSeek V4.1Flash助力《生化危机7》安卓模拟运行，帧率提升50%",
-        "title_zh": "DeepSeek V4.1Flash助力《生化危机7》安卓模拟运行，帧率提升50%",
-        "title_en": null,
-        "title_original": "DeepSeek V4.1Flash助力《生化危机7》安卓模拟运行，帧率提升50%",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/31095",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-09-16T08:48:09.213448Z"
-      }
-    },
-    {
-      "story_id": "story_f90f376fdee8",
-      "title": "vivo 正式发布智能体大模型矩阵，并重磅预研 30B MoE 端侧大模型",
-      "url": "https://www.aibase.com/news/31091",
-      "primary_url": "https://www.aibase.com/news/31091",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "3e63e3eb122ccea806d2910f13506b5be7e4e90c",
-          "title": "vivo 正式发布智能体大模型矩阵，并重磅预研 30B MoE 端侧大模型",
-          "title_zh": "vivo 正式发布智能体大模型矩阵，并重磅预研 30B MoE 端侧大模型",
-          "title_en": null,
-          "title_original": "vivo 正式发布智能体大模型矩阵，并重磅预研 30B MoE 端侧大模型",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/31091",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-09-16T07:47:29.270308Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "3e63e3eb122ccea806d2910f13506b5be7e4e90c",
-          "title": "vivo 正式发布智能体大模型矩阵，并重磅预研 30B MoE 端侧大模型",
-          "title_zh": "vivo 正式发布智能体大模型矩阵，并重磅预研 30B MoE 端侧大模型",
-          "title_en": null,
-          "title_original": "vivo 正式发布智能体大模型矩阵，并重磅预研 30B MoE 端侧大模型",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/31091",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-09-16T07:47:29.270308Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.765,
-      "importance": 0.765,
-      "importance_score": 0.765,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.9857,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-16T07:47:29.270308Z",
-      "latest_at": "2026-09-16T07:47:29.270308Z",
-      "primary_item": {
-        "id": "3e63e3eb122ccea806d2910f13506b5be7e4e90c",
-        "title": "vivo 正式发布智能体大模型矩阵，并重磅预研 30B MoE 端侧大模型",
-        "title_zh": "vivo 正式发布智能体大模型矩阵，并重磅预研 30B MoE 端侧大模型",
-        "title_en": null,
-        "title_original": "vivo 正式发布智能体大模型矩阵，并重磅预研 30B MoE 端侧大模型",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/31091",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-09-16T08:48:09.213448Z"
+        "scored_at": "2026-09-16T10:02:11.232721Z"
       }
     }
   ]
