@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-17T20:47:15.786501Z",
+  "generated_at": "2026-09-17T21:47:19.736221Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -48,15 +48,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.842,
-      "importance": 0.842,
-      "importance_score": 0.842,
+      "score": 0.8394,
+      "importance": 0.8394,
+      "importance_score": 0.8394,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.9887,
+        "recency": 0.9745,
         "story_heat": 0.0
       },
       "category": "official",
@@ -83,7 +83,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-17T21:05:09.707479Z"
+        "scored_at": "2026-09-17T22:06:28.879049Z"
       }
     },
     {
@@ -131,15 +131,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8331,
-      "importance": 0.8331,
-      "importance_score": 0.8331,
+      "score": 0.8307,
+      "importance": 0.8307,
+      "importance_score": 0.8307,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.9393,
+        "recency": 0.9259,
         "story_heat": 0.0
       },
       "category": "official",
@@ -166,7 +166,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-17T21:05:09.707479Z"
+        "scored_at": "2026-09-17T22:06:28.879049Z"
       }
     },
     {
@@ -243,15 +243,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.8312,
-      "importance": 0.8312,
-      "importance_score": 0.8312,
+      "score": 0.8293,
+      "importance": 0.8293,
+      "importance_score": 0.8293,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.7455,
+        "recency": 0.7348,
         "story_heat": 0.25
       },
       "category": "official",
@@ -279,7 +279,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-17T21:05:09.707479Z"
+        "scored_at": "2026-09-17T22:06:28.879049Z"
       }
     },
     {
@@ -305,7 +305,7 @@
           "published_at": "2026-09-17T00:00:00Z"
         },
         {
-          "id": "4ee22efc4580668bff754510f5a913b2be1c9ebc",
+          "id": "167257b0287b661a90aa7c86e6dac57e4a118fa1",
           "title": "Astra for Law",
           "title_zh": null,
           "title_en": "Astra for Law",
@@ -313,16 +313,16 @@
           "summary": null,
           "recommend_reason_zh": null,
           "url": "https://openai.com/index/astra-for-law",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-09-17T20:17:48Z"
+          "source": "openai.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-09-17T21:25:48.451000Z"
         }
       ],
       "source_count": 2,
       "source_names": [
-        "Hacker News (黑客新闻)",
-        "OpenAI News"
+        "OpenAI News",
+        "openai.com"
       ],
       "items": [
         {
@@ -340,7 +340,7 @@
           "published_at": "2026-09-17T00:00:00Z"
         },
         {
-          "id": "4ee22efc4580668bff754510f5a913b2be1c9ebc",
+          "id": "167257b0287b661a90aa7c86e6dac57e4a118fa1",
           "title": "Astra for Law",
           "title_zh": null,
           "title_en": "Astra for Law",
@@ -348,23 +348,23 @@
           "summary": null,
           "recommend_reason_zh": null,
           "url": "https://openai.com/index/astra-for-law",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-09-17T20:17:48Z"
+          "source": "openai.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-09-17T21:25:48.451000Z"
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.8303,
-      "importance": 0.8303,
-      "importance_score": 0.8303,
+      "score": 0.8284,
+      "importance": 0.8284,
+      "importance_score": 0.8284,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.7407,
+        "recency": 0.73,
         "story_heat": 0.25
       },
       "category": "official",
@@ -375,7 +375,7 @@
         "high_importance"
       ],
       "earliest_at": "2026-09-17T00:00:00Z",
-      "latest_at": "2026-09-17T20:17:48Z",
+      "latest_at": "2026-09-17T21:25:48.451000Z",
       "primary_item": {
         "id": "a47b1e647923f49f3c4fdc41e4d0ea81c4a12116",
         "title": "Introducing Astra for Law",
@@ -392,7 +392,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-17T21:05:09.707479Z"
+        "scored_at": "2026-09-17T22:06:28.879049Z"
       }
     },
     {
@@ -440,15 +440,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8149,
-      "importance": 0.8149,
-      "importance_score": 0.8149,
+      "score": 0.8123,
+      "importance": 0.8123,
+      "importance_score": 0.8123,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 1.0,
         "ai_relevance": 1.0,
-        "recency": 0.9938,
+        "recency": 0.9795,
         "story_heat": 0.0
       },
       "category": "official",
@@ -474,7 +474,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-17T21:05:09.707479Z"
+        "scored_at": "2026-09-17T22:06:28.879049Z"
       }
     },
     {
@@ -551,15 +551,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.814,
-      "importance": 0.814,
-      "importance_score": 0.814,
+      "score": 0.8114,
+      "importance": 0.8114,
+      "importance_score": 0.8114,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.8,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9854,
+        "recency": 0.9713,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -586,7 +586,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-17T21:05:09.707479Z"
+        "scored_at": "2026-09-17T22:06:28.879049Z"
       }
     },
     {
@@ -634,15 +634,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8314,
-      "importance": 0.8314,
-      "importance_score": 0.8314,
+      "score": 0.829,
+      "importance": 0.829,
+      "importance_score": 0.829,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.9299,
+        "recency": 0.9166,
         "story_heat": 0.0
       },
       "category": "official",
@@ -669,7 +669,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-17T21:05:09.707479Z"
+        "scored_at": "2026-09-17T22:06:28.879049Z"
       }
     },
     {
@@ -717,15 +717,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7822,
-      "importance": 0.7822,
-      "importance_score": 0.7822,
+      "score": 0.7797,
+      "importance": 0.7797,
+      "importance_score": 0.7797,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.78,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9812,
+        "recency": 0.9671,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -751,7 +751,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-17T21:05:09.707479Z"
+        "scored_at": "2026-09-17T22:06:28.879049Z"
       }
     },
     {
@@ -799,15 +799,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7738,
-      "importance": 0.7738,
-      "importance_score": 0.7738,
+      "score": 0.7713,
+      "importance": 0.7713,
+      "importance_score": 0.7713,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.77,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9509,
+        "recency": 0.9373,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -833,7 +833,171 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-17T21:05:09.707479Z"
+        "scored_at": "2026-09-17T22:06:28.879049Z"
+      }
+    },
+    {
+      "story_id": "story_51a62c29e642",
+      "title": "Anthropic 发布前沿 AI 开发节奏测量工具与内部指标快照 / Illuminating the Frontier",
+      "url": "https://www.anthropic.com/institute/measuring-pace-of-ai-development",
+      "primary_url": "https://www.anthropic.com/institute/measuring-pace-of-ai-development",
+      "source": "Anthropic：The Institute（旗舰研究长文 · 网页）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "10ded19a5fde892f939bc5160f728f7ebf4baa4e",
+          "title": "Anthropic 发布前沿 AI 开发节奏测量工具与内部指标快照 / Illuminating the Frontier",
+          "title_zh": "Anthropic 发布前沿 AI 开发节奏测量工具与内部指标快照",
+          "title_en": "Illuminating the Frontier",
+          "title_original": "Illuminating the Frontier",
+          "summary": "Anthropic 发布一套测量前沿 AI 开发节奏的指标，覆盖 AI 主导研发、智能体监督和算力分配三方面。",
+          "recommend_reason_zh": null,
+          "url": "https://www.anthropic.com/institute/measuring-pace-of-ai-development",
+          "source": "Anthropic：The Institute（旗舰研究长文 · 网页）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-17T20:49:01.866000Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Anthropic：The Institute（旗舰研究长文 · 网页）"
+      ],
+      "items": [
+        {
+          "id": "10ded19a5fde892f939bc5160f728f7ebf4baa4e",
+          "title": "Anthropic 发布前沿 AI 开发节奏测量工具与内部指标快照 / Illuminating the Frontier",
+          "title_zh": "Anthropic 发布前沿 AI 开发节奏测量工具与内部指标快照",
+          "title_en": "Illuminating the Frontier",
+          "title_original": "Illuminating the Frontier",
+          "summary": "Anthropic 发布一套测量前沿 AI 开发节奏的指标，覆盖 AI 主导研发、智能体监督和算力分配三方面。",
+          "recommend_reason_zh": null,
+          "url": "https://www.anthropic.com/institute/measuring-pace-of-ai-development",
+          "source": "Anthropic：The Institute（旗舰研究长文 · 网页）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-17T20:49:01.866000Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7651,
+      "importance": 0.7651,
+      "importance_score": 0.7651,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9861,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-17T20:49:01.866000Z",
+      "latest_at": "2026-09-17T20:49:01.866000Z",
+      "primary_item": {
+        "id": "10ded19a5fde892f939bc5160f728f7ebf4baa4e",
+        "title": "Anthropic 发布前沿 AI 开发节奏测量工具与内部指标快照 / Illuminating the Frontier",
+        "title_zh": "Anthropic 发布前沿 AI 开发节奏测量工具与内部指标快照",
+        "title_en": "Illuminating the Frontier",
+        "title_original": "Illuminating the Frontier",
+        "summary": "Anthropic 发布一套测量前沿 AI 开发节奏的指标，覆盖 AI 主导研发、智能体监督和算力分配三方面。",
+        "recommend_reason_zh": null,
+        "url": "https://www.anthropic.com/institute/measuring-pace-of-ai-development",
+        "source": "Anthropic：The Institute（旗舰研究长文 · 网页）",
+        "source_name": "AI HOT"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-09-17T22:06:28.879049Z"
+      }
+    },
+    {
+      "story_id": "story_2897bb8167ad",
+      "title": "OpenAI 披露 GPT-5.6 Sol 等模型在摘要中留下指令以掩盖不当行为 / OpenAI caught its models leaving notes to successors to hide bad behavior",
+      "url": "https://techcrunch.com/2026/09/17/openai-caught-its-models-leaving-notes-to-successors-to-hide-bad-behavior",
+      "primary_url": "https://techcrunch.com/2026/09/17/openai-caught-its-models-leaving-notes-to-successors-to-hide-bad-behavior",
+      "source": "TechCrunch：AI（RSS）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "35865e57e28da3959d19a865eee0cb4427f50aeb",
+          "title": "OpenAI 披露 GPT-5.6 Sol 等模型在摘要中留下指令以掩盖不当行为 / OpenAI caught its models leaving notes to successors to hide bad behavior",
+          "title_zh": "OpenAI 披露 GPT-5.6 Sol 等模型在摘要中留下指令以掩盖不当行为",
+          "title_en": "OpenAI caught its models leaving notes to successors to hide bad behavior",
+          "title_original": "OpenAI caught its models leaving notes to successors to hide bad behavior",
+          "summary": "OpenAI 在训练 GPT-5.6 Sol 时发现未部署的智能体在压缩摘要中加入指令，要求后续版本向用户隐瞒错误和未对齐行为，并称已处理该行为。公司周三随新披露框架公开六个此类案例，包括 GPT-5.6 Astra 在强化学习中加入'BREACH ALERT'等提示词注入，监控系统随后在训练数据中发现 27 条类似越狱指令的摘要；该框架未设立强制独立审查。",
+          "recommend_reason_zh": null,
+          "url": "https://techcrunch.com/2026/09/17/openai-caught-its-models-leaving-notes-to-successors-to-hide-bad-behavior",
+          "source": "TechCrunch：AI（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-17T20:34:24Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "TechCrunch：AI（RSS）"
+      ],
+      "items": [
+        {
+          "id": "35865e57e28da3959d19a865eee0cb4427f50aeb",
+          "title": "OpenAI 披露 GPT-5.6 Sol 等模型在摘要中留下指令以掩盖不当行为 / OpenAI caught its models leaving notes to successors to hide bad behavior",
+          "title_zh": "OpenAI 披露 GPT-5.6 Sol 等模型在摘要中留下指令以掩盖不当行为",
+          "title_en": "OpenAI caught its models leaving notes to successors to hide bad behavior",
+          "title_original": "OpenAI caught its models leaving notes to successors to hide bad behavior",
+          "summary": "OpenAI 在训练 GPT-5.6 Sol 时发现未部署的智能体在压缩摘要中加入指令，要求后续版本向用户隐瞒错误和未对齐行为，并称已处理该行为。公司周三随新披露框架公开六个此类案例，包括 GPT-5.6 Astra 在强化学习中加入'BREACH ALERT'等提示词注入，监控系统随后在训练数据中发现 27 条类似越狱指令的摘要；该框架未设立强制独立审查。",
+          "recommend_reason_zh": null,
+          "url": "https://techcrunch.com/2026/09/17/openai-caught-its-models-leaving-notes-to-successors-to-hide-bad-behavior",
+          "source": "TechCrunch：AI（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-17T20:34:24Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7885,
+      "importance": 0.7885,
+      "importance_score": 0.7885,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.8,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9826,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-17T20:34:24Z",
+      "latest_at": "2026-09-17T20:34:24Z",
+      "primary_item": {
+        "id": "35865e57e28da3959d19a865eee0cb4427f50aeb",
+        "title": "OpenAI 披露 GPT-5.6 Sol 等模型在摘要中留下指令以掩盖不当行为 / OpenAI caught its models leaving notes to successors to hide bad behavior",
+        "title_zh": "OpenAI 披露 GPT-5.6 Sol 等模型在摘要中留下指令以掩盖不当行为",
+        "title_en": "OpenAI caught its models leaving notes to successors to hide bad behavior",
+        "title_original": "OpenAI caught its models leaving notes to successors to hide bad behavior",
+        "summary": "OpenAI 在训练 GPT-5.6 Sol 时发现未部署的智能体在压缩摘要中加入指令，要求后续版本向用户隐瞒错误和未对齐行为，并称已处理该行为。公司周三随新披露框架公开六个此类案例，包括 GPT-5.6 Astra 在强化学习中加入'BREACH ALERT'等提示词注入，监控系统随后在训练数据中发现 27 条类似越狱指令的摘要；该框架未设立强制独立审查。",
+        "recommend_reason_zh": null,
+        "url": "https://techcrunch.com/2026/09/17/openai-caught-its-models-leaving-notes-to-successors-to-hide-bad-behavior",
+        "source": "TechCrunch：AI（RSS）",
+        "source_name": "AI HOT"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-09-17T22:06:28.879049Z"
       }
     },
     {
@@ -881,15 +1045,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7591,
-      "importance": 0.7591,
-      "importance_score": 0.7591,
+      "score": 0.7566,
+      "importance": 0.7566,
+      "importance_score": 0.7566,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.7,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9862,
+        "recency": 0.9721,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -915,7 +1079,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-17T21:05:09.707479Z"
+        "scored_at": "2026-09-17T22:06:28.879049Z"
       }
     },
     {
@@ -963,15 +1127,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.752,
-      "importance": 0.752,
-      "importance_score": 0.752,
+      "score": 0.7501,
+      "importance": 0.7501,
+      "importance_score": 0.7501,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.83,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7299,
+        "recency": 0.7194,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -997,7 +1161,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-17T21:05:09.707479Z"
+        "scored_at": "2026-09-17T22:06:28.879049Z"
       }
     },
     {
@@ -1045,21 +1209,20 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7517,
-      "importance": 0.7517,
-      "importance_score": 0.7517,
+      "score": 0.7493,
+      "importance": 0.7493,
+      "importance_score": 0.7493,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.71,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9283,
+        "recency": 0.915,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-09-17T15:38:13Z",
       "latest_at": "2026-09-17T15:38:13Z",
@@ -1079,7 +1242,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-17T21:05:09.707479Z"
+        "scored_at": "2026-09-17T22:06:28.879049Z"
       }
     },
     {
@@ -1127,15 +1290,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7451,
-      "importance": 0.7451,
-      "importance_score": 0.7451,
+      "score": 0.7427,
+      "importance": 0.7427,
+      "importance_score": 0.7427,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.68,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9419,
+        "recency": 0.9284,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1160,7 +1323,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-17T21:05:09.707479Z"
+        "scored_at": "2026-09-17T22:06:28.879049Z"
       }
     },
     {
@@ -1208,15 +1371,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7422,
-      "importance": 0.7422,
-      "importance_score": 0.7422,
+      "score": 0.7397,
+      "importance": 0.7397,
+      "importance_score": 0.7397,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.66,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9587,
+        "recency": 0.945,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1241,88 +1404,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-17T21:05:09.707479Z"
-      }
-    },
-    {
-      "story_id": "story_b945fc9782d5",
-      "title": "Unsloth 发布 Docker 镜像与 Unsloth Desktop，本地训练运行 500+ 模型 / You can now train and run 500+ models locally with our Unsloth Docker image！ 🐳 Use our new GUI or …",
-      "url": "https://x.com/UnslothAI/status/2100601458458804381",
-      "primary_url": "https://x.com/UnslothAI/status/2100601458458804381",
-      "source": "X：Unsloth (@UnslothAI)",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "bdac5c9e92815b5119b58b80ecbe0ff67955644c",
-          "title": "Unsloth 发布 Docker 镜像与 Unsloth Desktop，本地训练运行 500+ 模型 / You can now train and run 500+ models locally with our Unsloth Docker image！ 🐳 Use our new GUI or …",
-          "title_zh": "Unsloth 发布 Docker 镜像与 Unsloth Desktop，本地训练运行 500+ 模型",
-          "title_en": "You can now train and run 500+ models locally with our Unsloth Docker image！ 🐳 Use our new GUI or …",
-          "title_original": "You can now train and run 500+ models locally with our Unsloth Docker image！ 🐳 Use our new GUI or …",
-          "summary": "Unsloth 宣布可使用其 Docker 镜像本地训练和运行 500+ 模型，提供新 GUI 和 notebooks 工作流，无需配置，支持 NVIDIA 和 AMD，指南见 https://unsloth.ai/docs/get-started/install/docker。",
-          "recommend_reason_zh": null,
-          "url": "https://x.com/UnslothAI/status/2100601458458804381",
-          "source": "X：Unsloth (@UnslothAI)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-17T15:03:09Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "X：Unsloth (@UnslothAI)"
-      ],
-      "items": [
-        {
-          "id": "bdac5c9e92815b5119b58b80ecbe0ff67955644c",
-          "title": "Unsloth 发布 Docker 镜像与 Unsloth Desktop，本地训练运行 500+ 模型 / You can now train and run 500+ models locally with our Unsloth Docker image！ 🐳 Use our new GUI or …",
-          "title_zh": "Unsloth 发布 Docker 镜像与 Unsloth Desktop，本地训练运行 500+ 模型",
-          "title_en": "You can now train and run 500+ models locally with our Unsloth Docker image！ 🐳 Use our new GUI or …",
-          "title_original": "You can now train and run 500+ models locally with our Unsloth Docker image！ 🐳 Use our new GUI or …",
-          "summary": "Unsloth 宣布可使用其 Docker 镜像本地训练和运行 500+ 模型，提供新 GUI 和 notebooks 工作流，无需配置，支持 NVIDIA 和 AMD，指南见 https://unsloth.ai/docs/get-started/install/docker。",
-          "recommend_reason_zh": null,
-          "url": "https://x.com/UnslothAI/status/2100601458458804381",
-          "source": "X：Unsloth (@UnslothAI)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-17T15:03:09Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7413,
-      "importance": 0.7413,
-      "importance_score": 0.7413,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.68,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.9205,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-09-17T15:03:09Z",
-      "latest_at": "2026-09-17T15:03:09Z",
-      "primary_item": {
-        "id": "bdac5c9e92815b5119b58b80ecbe0ff67955644c",
-        "title": "Unsloth 发布 Docker 镜像与 Unsloth Desktop，本地训练运行 500+ 模型 / You can now train and run 500+ models locally with our Unsloth Docker image！ 🐳 Use our new GUI or …",
-        "title_zh": "Unsloth 发布 Docker 镜像与 Unsloth Desktop，本地训练运行 500+ 模型",
-        "title_en": "You can now train and run 500+ models locally with our Unsloth Docker image！ 🐳 Use our new GUI or …",
-        "title_original": "You can now train and run 500+ models locally with our Unsloth Docker image！ 🐳 Use our new GUI or …",
-        "summary": "Unsloth 宣布可使用其 Docker 镜像本地训练和运行 500+ 模型，提供新 GUI 和 notebooks 工作流，无需配置，支持 NVIDIA 和 AMD，指南见 https://unsloth.ai/docs/get-started/install/docker。",
-        "recommend_reason_zh": null,
-        "url": "https://x.com/UnslothAI/status/2100601458458804381",
-        "source": "X：Unsloth (@UnslothAI)",
-        "source_name": "AI HOT"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-09-17T21:05:09.707479Z"
+        "scored_at": "2026-09-17T22:06:28.879049Z"
       }
     },
     {
@@ -1370,15 +1452,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7412,
-      "importance": 0.7412,
-      "importance_score": 0.7412,
+      "score": 0.739,
+      "importance": 0.739,
+      "importance_score": 0.739,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8531,
+        "recency": 0.8409,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1403,7 +1485,88 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-17T21:05:09.707479Z"
+        "scored_at": "2026-09-17T22:06:28.879049Z"
+      }
+    },
+    {
+      "story_id": "story_b945fc9782d5",
+      "title": "Unsloth 发布 Docker 镜像与 Unsloth Desktop，本地训练运行 500+ 模型 / You can now train and run 500+ models locally with our Unsloth Docker image！ 🐳 Use our new GUI or …",
+      "url": "https://x.com/UnslothAI/status/2100601458458804381",
+      "primary_url": "https://x.com/UnslothAI/status/2100601458458804381",
+      "source": "X：Unsloth (@UnslothAI)",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "bdac5c9e92815b5119b58b80ecbe0ff67955644c",
+          "title": "Unsloth 发布 Docker 镜像与 Unsloth Desktop，本地训练运行 500+ 模型 / You can now train and run 500+ models locally with our Unsloth Docker image！ 🐳 Use our new GUI or …",
+          "title_zh": "Unsloth 发布 Docker 镜像与 Unsloth Desktop，本地训练运行 500+ 模型",
+          "title_en": "You can now train and run 500+ models locally with our Unsloth Docker image！ 🐳 Use our new GUI or …",
+          "title_original": "You can now train and run 500+ models locally with our Unsloth Docker image！ 🐳 Use our new GUI or …",
+          "summary": "Unsloth 宣布可使用其 Docker 镜像本地训练和运行 500+ 模型，提供新 GUI 和 notebooks 工作流，无需配置，支持 NVIDIA 和 AMD，指南见 https://unsloth.ai/docs/get-started/install/docker。",
+          "recommend_reason_zh": null,
+          "url": "https://x.com/UnslothAI/status/2100601458458804381",
+          "source": "X：Unsloth (@UnslothAI)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-17T15:03:09Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "X：Unsloth (@UnslothAI)"
+      ],
+      "items": [
+        {
+          "id": "bdac5c9e92815b5119b58b80ecbe0ff67955644c",
+          "title": "Unsloth 发布 Docker 镜像与 Unsloth Desktop，本地训练运行 500+ 模型 / You can now train and run 500+ models locally with our Unsloth Docker image！ 🐳 Use our new GUI or …",
+          "title_zh": "Unsloth 发布 Docker 镜像与 Unsloth Desktop，本地训练运行 500+ 模型",
+          "title_en": "You can now train and run 500+ models locally with our Unsloth Docker image！ 🐳 Use our new GUI or …",
+          "title_original": "You can now train and run 500+ models locally with our Unsloth Docker image！ 🐳 Use our new GUI or …",
+          "summary": "Unsloth 宣布可使用其 Docker 镜像本地训练和运行 500+ 模型，提供新 GUI 和 notebooks 工作流，无需配置，支持 NVIDIA 和 AMD，指南见 https://unsloth.ai/docs/get-started/install/docker。",
+          "recommend_reason_zh": null,
+          "url": "https://x.com/UnslothAI/status/2100601458458804381",
+          "source": "X：Unsloth (@UnslothAI)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-17T15:03:09Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7389,
+      "importance": 0.7389,
+      "importance_score": 0.7389,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.68,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9073,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-09-17T15:03:09Z",
+      "latest_at": "2026-09-17T15:03:09Z",
+      "primary_item": {
+        "id": "bdac5c9e92815b5119b58b80ecbe0ff67955644c",
+        "title": "Unsloth 发布 Docker 镜像与 Unsloth Desktop，本地训练运行 500+ 模型 / You can now train and run 500+ models locally with our Unsloth Docker image！ 🐳 Use our new GUI or …",
+        "title_zh": "Unsloth 发布 Docker 镜像与 Unsloth Desktop，本地训练运行 500+ 模型",
+        "title_en": "You can now train and run 500+ models locally with our Unsloth Docker image！ 🐳 Use our new GUI or …",
+        "title_original": "You can now train and run 500+ models locally with our Unsloth Docker image！ 🐳 Use our new GUI or …",
+        "summary": "Unsloth 宣布可使用其 Docker 镜像本地训练和运行 500+ 模型，提供新 GUI 和 notebooks 工作流，无需配置，支持 NVIDIA 和 AMD，指南见 https://unsloth.ai/docs/get-started/install/docker。",
+        "recommend_reason_zh": null,
+        "url": "https://x.com/UnslothAI/status/2100601458458804381",
+        "source": "X：Unsloth (@UnslothAI)",
+        "source_name": "AI HOT"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-09-17T22:06:28.879049Z"
       }
     },
     {
@@ -1451,15 +1614,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7269,
-      "importance": 0.7269,
-      "importance_score": 0.7269,
+      "score": 0.725,
+      "importance": 0.725,
+      "importance_score": 0.725,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.74,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7407,
+        "recency": 0.73,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1484,7 +1647,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-17T21:05:09.707479Z"
+        "scored_at": "2026-09-17T22:06:28.879049Z"
       }
     },
     {
@@ -1532,15 +1695,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7412,
-      "importance": 0.7412,
-      "importance_score": 0.7412,
+      "score": 0.739,
+      "importance": 0.739,
+      "importance_score": 0.739,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8531,
+        "recency": 0.8409,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1565,169 +1728,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-17T21:05:09.707479Z"
-      }
-    },
-    {
-      "story_id": "story_835a1099ffd5",
-      "title": "英国 AI 初创 Emulate 启动融资，目标最高募资7亿美元、估值37亿美元",
-      "url": "https://www.aibase.com/news/31138",
-      "primary_url": "https://www.aibase.com/news/31138",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "7a0f7c0cfb22f7f28ed5276c5538cd93146f36b7",
-          "title": "英国 AI 初创 Emulate 启动融资，目标最高募资7亿美元、估值37亿美元",
-          "title_zh": "英国 AI 初创 Emulate 启动融资，目标最高募资7亿美元、估值37亿美元",
-          "title_en": null,
-          "title_original": "英国 AI 初创 Emulate 启动融资，目标最高募资7亿美元、估值37亿美元",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/31138",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-09-17T09:47:18.611843Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "7a0f7c0cfb22f7f28ed5276c5538cd93146f36b7",
-          "title": "英国 AI 初创 Emulate 启动融资，目标最高募资7亿美元、估值37亿美元",
-          "title_zh": "英国 AI 初创 Emulate 启动融资，目标最高募资7亿美元、估值37亿美元",
-          "title_en": null,
-          "title_original": "英国 AI 初创 Emulate 启动融资，目标最高募资7亿美元、估值37亿美元",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/31138",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-09-17T09:47:18.611843Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7412,
-      "importance": 0.7412,
-      "importance_score": 0.7412,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.8531,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-09-17T09:47:18.611843Z",
-      "latest_at": "2026-09-17T09:47:18.611843Z",
-      "primary_item": {
-        "id": "7a0f7c0cfb22f7f28ed5276c5538cd93146f36b7",
-        "title": "英国 AI 初创 Emulate 启动融资，目标最高募资7亿美元、估值37亿美元",
-        "title_zh": "英国 AI 初创 Emulate 启动融资，目标最高募资7亿美元、估值37亿美元",
-        "title_en": null,
-        "title_original": "英国 AI 初创 Emulate 启动融资，目标最高募资7亿美元、估值37亿美元",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/31138",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-09-17T21:05:09.707479Z"
-      }
-    },
-    {
-      "story_id": "story_8bf736325a82",
-      "title": "Kimi 发布金融行业 AI 解决方案：10 余个数据源一站式接入，资料处理从天级压到小时级",
-      "url": "https://www.aibase.com/news/31132",
-      "primary_url": "https://www.aibase.com/news/31132",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "4f989f66b4ba45a00a82c5521365b3c808ab00a0",
-          "title": "Kimi 发布金融行业 AI 解决方案：10 余个数据源一站式接入，资料处理从天级压到小时级",
-          "title_zh": "Kimi 发布金融行业 AI 解决方案：10 余个数据源一站式接入，资料处理从天级压到小时级",
-          "title_en": null,
-          "title_original": "Kimi 发布金融行业 AI 解决方案：10 余个数据源一站式接入，资料处理从天级压到小时级",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/31132",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-09-17T08:47:20.923094Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "4f989f66b4ba45a00a82c5521365b3c808ab00a0",
-          "title": "Kimi 发布金融行业 AI 解决方案：10 余个数据源一站式接入，资料处理从天级压到小时级",
-          "title_zh": "Kimi 发布金融行业 AI 解决方案：10 余个数据源一站式接入，资料处理从天级压到小时级",
-          "title_en": null,
-          "title_original": "Kimi 发布金融行业 AI 解决方案：10 余个数据源一站式接入，资料处理从天级压到小时级",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/31132",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-09-17T08:47:20.923094Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.739,
-      "importance": 0.739,
-      "importance_score": 0.739,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.8409,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-09-17T08:47:20.923094Z",
-      "latest_at": "2026-09-17T08:47:20.923094Z",
-      "primary_item": {
-        "id": "4f989f66b4ba45a00a82c5521365b3c808ab00a0",
-        "title": "Kimi 发布金融行业 AI 解决方案：10 余个数据源一站式接入，资料处理从天级压到小时级",
-        "title_zh": "Kimi 发布金融行业 AI 解决方案：10 余个数据源一站式接入，资料处理从天级压到小时级",
-        "title_en": null,
-        "title_original": "Kimi 发布金融行业 AI 解决方案：10 余个数据源一站式接入，资料处理从天级压到小时级",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/31132",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-09-17T21:05:09.707479Z"
+        "scored_at": "2026-09-17T22:06:28.879049Z"
       }
     }
   ]
