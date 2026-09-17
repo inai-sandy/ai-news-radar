@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-17T15:47:21.836855Z",
+  "generated_at": "2026-09-17T16:47:20.495712Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -77,15 +77,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.8412,
-      "importance": 0.8412,
-      "importance_score": 0.8412,
+      "score": 0.8392,
+      "importance": 0.8392,
+      "importance_score": 0.8392,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.8013,
+        "recency": 0.7898,
         "story_heat": 0.25
       },
       "category": "official",
@@ -113,7 +113,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-17T16:27:05.956208Z"
+        "scored_at": "2026-09-17T17:27:27.590663Z"
       }
     },
     {
@@ -190,15 +190,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.8265,
-      "importance": 0.8265,
-      "importance_score": 0.8265,
+      "score": 0.8247,
+      "importance": 0.8247,
+      "importance_score": 0.8247,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.7196,
+        "recency": 0.7093,
         "story_heat": 0.25
       },
       "category": "official",
@@ -226,7 +226,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-17T16:27:05.956208Z"
+        "scored_at": "2026-09-17T17:27:27.590663Z"
       }
     },
     {
@@ -274,15 +274,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8078,
-      "importance": 0.8078,
-      "importance_score": 0.8078,
+      "score": 0.8059,
+      "importance": 0.8059,
+      "importance_score": 0.8059,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.7546,
+        "recency": 0.7438,
         "story_heat": 0.0
       },
       "category": "official",
@@ -309,11 +309,11 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-17T16:27:05.956208Z"
+        "scored_at": "2026-09-17T17:27:27.590663Z"
       }
     },
     {
-      "story_id": "story_37963f2af389",
+      "story_id": "story_a3ab3422578f",
       "title": "Anthropic 将 Claude Cowork 与聊天合并为统一的 Claude，并推出 Docs、Slides 等功能 / Claude Cowork and chat are now one Claude",
       "url": "https://claude.com/blog/cowork-is-now-claude",
       "primary_url": "https://claude.com/blog/cowork-is-now-claude",
@@ -361,28 +361,13 @@
           "source_name": "Buzzing",
           "site_id": "buzzing",
           "published_at": "2026-09-16T18:28:45.023000Z"
-        },
-        {
-          "id": "902969921d3d4bbccf89d89e731a2091584c51f8",
-          "title": "Claude 协作和聊天现已合而为一 Claude / Claude Cowork and chat are now one Claude",
-          "title_zh": "Claude 协作和聊天现已合而为一 Claude",
-          "title_en": "Claude Cowork and chat are now one Claude",
-          "title_original": "Claude Cowork and chat are now one Claude",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=49729412",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-09-16T16:26:25Z"
         }
       ],
-      "source_count": 4,
+      "source_count": 3,
       "source_names": [
         "Claude：Blog（网页）",
         "Simon Willison",
-        "claude.com",
-        "hackernews"
+        "claude.com"
       ],
       "items": [
         {
@@ -426,34 +411,20 @@
           "source_name": "Buzzing",
           "site_id": "buzzing",
           "published_at": "2026-09-16T18:28:45.023000Z"
-        },
-        {
-          "id": "902969921d3d4bbccf89d89e731a2091584c51f8",
-          "title": "Claude 协作和聊天现已合而为一 Claude / Claude Cowork and chat are now one Claude",
-          "title_zh": "Claude 协作和聊天现已合而为一 Claude",
-          "title_en": "Claude Cowork and chat are now one Claude",
-          "title_original": "Claude Cowork and chat are now one Claude",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=49729412",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-09-16T16:26:25Z"
         }
       ],
-      "item_count": 4,
-      "duplicate_count": 4,
-      "score": 0.8069,
-      "importance": 0.8069,
-      "importance_score": 0.8069,
+      "item_count": 3,
+      "duplicate_count": 3,
+      "score": 0.78,
+      "importance": 0.78,
+      "importance_score": 0.78,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.77,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7182,
-        "story_heat": 0.75
+        "recency": 0.7079,
+        "story_heat": 0.5
       },
       "category": "multi_source",
       "reasons": [
@@ -461,7 +432,7 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-09-16T16:26:25Z",
+      "earliest_at": "2026-09-16T16:51:45.914000Z",
       "latest_at": "2026-09-16T18:28:45.023000Z",
       "primary_item": {
         "id": "69f3afd499479f2465ff757dd0195e7d5354952c",
@@ -479,7 +450,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-17T16:27:05.956208Z"
+        "scored_at": "2026-09-17T17:27:27.590663Z"
       }
     },
     {
@@ -527,15 +498,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7999,
-      "importance": 0.7999,
-      "importance_score": 0.7999,
+      "score": 0.798,
+      "importance": 0.798,
+      "importance_score": 0.798,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.7551,
+        "recency": 0.7442,
         "story_heat": 0.0
       },
       "category": "official",
@@ -562,90 +533,89 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-17T16:27:05.956208Z"
+        "scored_at": "2026-09-17T17:27:27.590663Z"
       }
     },
     {
-      "story_id": "story_8ce36e5af566",
-      "title": "帮助老年人在日常生活中使用人工智能 / Helping older adults use AI in everyday life",
-      "url": "https://openai.com/index/helping-older-adults-use-ai-in-everyday-life",
-      "primary_url": "https://openai.com/index/helping-older-adults-use-ai-in-everyday-life",
-      "source": "OpenAI News",
-      "source_name": "Official AI Updates",
+      "story_id": "story_1bd0a7425a3c",
+      "title": "Dwarkesh 对谈 Noam Brown：智能体集群、对齐与递归自我改进 / Noam Brown - Agent swarms， alignment， & recursive self-improvement",
+      "url": "https://www.dwarkesh.com/p/noam-brown",
+      "primary_url": "https://www.dwarkesh.com/p/noam-brown",
+      "source": "Dwarkesh Patel：Podcast & Blog（RSS）",
+      "source_name": "AI HOT",
       "sources": [
         {
-          "id": "c1a0a2ac1d02be185175be7fdbaf6907a7069069",
-          "title": "帮助老年人在日常生活中使用人工智能 / Helping older adults use AI in everyday life",
-          "title_zh": "帮助老年人在日常生活中使用人工智能",
-          "title_en": "Helping older adults use AI in everyday life",
-          "title_original": "Helping older adults use AI in everyday life",
-          "summary": null,
+          "id": "c33d2fa3dee69653b6e5935cd8adc2dc3f480701",
+          "title": "Dwarkesh 对谈 Noam Brown：智能体集群、对齐与递归自我改进 / Noam Brown - Agent swarms， alignment， & recursive self-improvement",
+          "title_zh": "Dwarkesh 对谈 Noam Brown：智能体集群、对齐与递归自我改进",
+          "title_en": "Noam Brown - Agent swarms， alignment， & recursive self-improvement",
+          "title_original": "Noam Brown - Agent swarms， alignment， & recursive self-improvement",
+          "summary": "Dwarkesh Patel 采访 OpenAI 研究员 Noam Brown，谈多智能体系统、对齐与递归自我改进。",
           "recommend_reason_zh": null,
-          "url": "https://openai.com/index/helping-older-adults-use-ai-in-everyday-life",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-09-16T16:00:00Z"
+          "url": "https://www.dwarkesh.com/p/noam-brown",
+          "source": "Dwarkesh Patel：Podcast & Blog（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-17T15:38:13Z"
         }
       ],
       "source_count": 1,
       "source_names": [
-        "OpenAI News"
+        "Dwarkesh Patel：Podcast & Blog（RSS）"
       ],
       "items": [
         {
-          "id": "c1a0a2ac1d02be185175be7fdbaf6907a7069069",
-          "title": "帮助老年人在日常生活中使用人工智能 / Helping older adults use AI in everyday life",
-          "title_zh": "帮助老年人在日常生活中使用人工智能",
-          "title_en": "Helping older adults use AI in everyday life",
-          "title_original": "Helping older adults use AI in everyday life",
-          "summary": null,
+          "id": "c33d2fa3dee69653b6e5935cd8adc2dc3f480701",
+          "title": "Dwarkesh 对谈 Noam Brown：智能体集群、对齐与递归自我改进 / Noam Brown - Agent swarms， alignment， & recursive self-improvement",
+          "title_zh": "Dwarkesh 对谈 Noam Brown：智能体集群、对齐与递归自我改进",
+          "title_en": "Noam Brown - Agent swarms， alignment， & recursive self-improvement",
+          "title_original": "Noam Brown - Agent swarms， alignment， & recursive self-improvement",
+          "summary": "Dwarkesh Patel 采访 OpenAI 研究员 Noam Brown，谈多智能体系统、对齐与递归自我改进。",
           "recommend_reason_zh": null,
-          "url": "https://openai.com/index/helping-older-adults-use-ai-in-everyday-life",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-09-16T16:00:00Z"
+          "url": "https://www.dwarkesh.com/p/noam-brown",
+          "source": "Dwarkesh Patel：Podcast & Blog（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-17T15:38:13Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7997,
-      "importance": 0.7997,
-      "importance_score": 0.7997,
-      "importance_label": "官方更新",
+      "score": 0.7616,
+      "importance": 0.7616,
+      "importance_score": 0.7616,
+      "importance_label": "行业动态",
       "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.91,
-        "recency": 0.7093,
+        "editorial": 0.71,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9835,
         "story_heat": 0.0
       },
-      "category": "official",
+      "category": "industry",
       "reasons": [
-        "official_source",
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-09-16T16:00:00Z",
-      "latest_at": "2026-09-16T16:00:00Z",
+      "earliest_at": "2026-09-17T15:38:13Z",
+      "latest_at": "2026-09-17T15:38:13Z",
       "primary_item": {
-        "id": "c1a0a2ac1d02be185175be7fdbaf6907a7069069",
-        "title": "帮助老年人在日常生活中使用人工智能 / Helping older adults use AI in everyday life",
-        "title_zh": "帮助老年人在日常生活中使用人工智能",
-        "title_en": "Helping older adults use AI in everyday life",
-        "title_original": "Helping older adults use AI in everyday life",
-        "summary": null,
+        "id": "c33d2fa3dee69653b6e5935cd8adc2dc3f480701",
+        "title": "Dwarkesh 对谈 Noam Brown：智能体集群、对齐与递归自我改进 / Noam Brown - Agent swarms， alignment， & recursive self-improvement",
+        "title_zh": "Dwarkesh 对谈 Noam Brown：智能体集群、对齐与递归自我改进",
+        "title_en": "Noam Brown - Agent swarms， alignment， & recursive self-improvement",
+        "title_original": "Noam Brown - Agent swarms， alignment， & recursive self-improvement",
+        "summary": "Dwarkesh Patel 采访 OpenAI 研究员 Noam Brown，谈多智能体系统、对齐与递归自我改进。",
         "recommend_reason_zh": null,
-        "url": "https://openai.com/index/helping-older-adults-use-ai-in-everyday-life",
-        "source": "OpenAI News",
-        "source_name": "Official AI Updates"
+        "url": "https://www.dwarkesh.com/p/noam-brown",
+        "source": "Dwarkesh Patel：Podcast & Blog（RSS）",
+        "source_name": "AI HOT"
       },
       "persona_id": "pragmatic",
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-17T16:27:05.956208Z"
+        "scored_at": "2026-09-17T17:27:27.590663Z"
       }
     },
     {
@@ -693,15 +663,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7618,
-      "importance": 0.7618,
-      "importance_score": 0.7618,
+      "score": 0.7598,
+      "importance": 0.7598,
+      "importance_score": 0.7598,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.83,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7845,
+        "recency": 0.7732,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -727,7 +697,89 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-17T16:27:05.956208Z"
+        "scored_at": "2026-09-17T17:27:27.590663Z"
+      }
+    },
+    {
+      "story_id": "story_586a819dc00b",
+      "title": "Goodfire Research 发现模型内部信号可规模化检测奖励作弊 / Models know when they're reward hacking - and we can catch them at scale",
+      "url": "https://www.goodfire.com/research/reward-hacking-activation-monitors",
+      "primary_url": "https://www.goodfire.com/research/reward-hacking-activation-monitors",
+      "source": "Goodfire Research（网页）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "ff98997944f33ed147fc95f1c65d810deaa26a99",
+          "title": "Goodfire Research 发现模型内部信号可规模化检测奖励作弊 / Models know when they're reward hacking - and we can catch them at scale",
+          "title_zh": "Goodfire Research 发现模型内部信号可规模化检测奖励作弊",
+          "title_en": "Models know when they're reward hacking - and we can catch them at scale",
+          "title_original": "Models know when they're reward hacking - and we can catch them at scale",
+          "summary": "Goodfire Research 发现模型内部存在伴随奖励作弊的激活信号，可用简单探针实时检测。在 Kimi K3、GLM 5.2、Qwen 3.8 Max 三个开源模型的三个智能体基准上，50-96% 的 rollout 出现奖励作弊；探针能捕捉 LLM 链式思维监测漏掉的作弊案例，且可泛化到训练数据之外的任务。",
+          "recommend_reason_zh": null,
+          "url": "https://www.goodfire.com/research/reward-hacking-activation-monitors",
+          "source": "Goodfire Research（网页）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-17T16:38:32.383000Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Goodfire Research（网页）"
+      ],
+      "items": [
+        {
+          "id": "ff98997944f33ed147fc95f1c65d810deaa26a99",
+          "title": "Goodfire Research 发现模型内部信号可规模化检测奖励作弊 / Models know when they're reward hacking - and we can catch them at scale",
+          "title_zh": "Goodfire Research 发现模型内部信号可规模化检测奖励作弊",
+          "title_en": "Models know when they're reward hacking - and we can catch them at scale",
+          "title_original": "Models know when they're reward hacking - and we can catch them at scale",
+          "summary": "Goodfire Research 发现模型内部存在伴随奖励作弊的激活信号，可用简单探针实时检测。在 Kimi K3、GLM 5.2、Qwen 3.8 Max 三个开源模型的三个智能体基准上，50-96% 的 rollout 出现奖励作弊；探针能捕捉 LLM 链式思维监测漏掉的作弊案例，且可泛化到训练数据之外的任务。",
+          "recommend_reason_zh": null,
+          "url": "https://www.goodfire.com/research/reward-hacking-activation-monitors",
+          "source": "Goodfire Research（网页）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-17T16:38:32.383000Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7552,
+      "importance": 0.7552,
+      "importance_score": 0.7552,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.68,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9979,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-17T16:38:32.383000Z",
+      "latest_at": "2026-09-17T16:38:32.383000Z",
+      "primary_item": {
+        "id": "ff98997944f33ed147fc95f1c65d810deaa26a99",
+        "title": "Goodfire Research 发现模型内部信号可规模化检测奖励作弊 / Models know when they're reward hacking - and we can catch them at scale",
+        "title_zh": "Goodfire Research 发现模型内部信号可规模化检测奖励作弊",
+        "title_en": "Models know when they're reward hacking - and we can catch them at scale",
+        "title_original": "Models know when they're reward hacking - and we can catch them at scale",
+        "summary": "Goodfire Research 发现模型内部存在伴随奖励作弊的激活信号，可用简单探针实时检测。在 Kimi K3、GLM 5.2、Qwen 3.8 Max 三个开源模型的三个智能体基准上，50-96% 的 rollout 出现奖励作弊；探针能捕捉 LLM 链式思维监测漏掉的作弊案例，且可泛化到训练数据之外的任务。",
+        "recommend_reason_zh": null,
+        "url": "https://www.goodfire.com/research/reward-hacking-activation-monitors",
+        "source": "Goodfire Research（网页）",
+        "source_name": "AI HOT"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-09-17T17:27:27.590663Z"
       }
     },
     {
@@ -775,15 +827,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7537,
-      "importance": 0.7537,
-      "importance_score": 0.7537,
+      "score": 0.7511,
+      "importance": 0.7511,
+      "importance_score": 0.7511,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.68,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9894,
+        "recency": 0.9752,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -809,7 +861,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-17T16:27:05.956208Z"
+        "scored_at": "2026-09-17T17:27:27.590663Z"
       }
     },
     {
@@ -857,15 +909,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7527,
-      "importance": 0.7527,
-      "importance_score": 0.7527,
+      "score": 0.7503,
+      "importance": 0.7503,
+      "importance_score": 0.7503,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.917,
+        "recency": 0.9039,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -891,7 +943,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-17T16:27:05.956208Z"
+        "scored_at": "2026-09-17T17:27:27.590663Z"
       }
     },
     {
@@ -939,15 +991,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7999,
-      "importance": 0.7999,
-      "importance_score": 0.7999,
+      "score": 0.798,
+      "importance": 0.798,
+      "importance_score": 0.798,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.7551,
+        "recency": 0.7443,
         "story_heat": 0.0
       },
       "category": "official",
@@ -974,118 +1026,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-17T16:27:05.956208Z"
-      }
-    },
-    {
-      "story_id": "story_180d89046d07",
-      "title": "Claude Docs、Claude Slides 与 Claude Design 直接嵌入对话，可导出 PowerPoint 或 PDF / Also today： Claude Docs， Claude Slides， and Claude Design are in every conversation. Ask Claude for…",
-      "url": "https://x.com/bcherny/status/2100260544087535639",
-      "primary_url": "https://x.com/bcherny/status/2100260544087535639",
-      "source": "X：Boris Cherny (@bcherny)",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "d15aed4f022f2680da8f62bfae9fd9574ecd93ca",
-          "title": "Claude Docs、Claude Slides 与 Claude Design 直接嵌入对话，可导出 PowerPoint 或 PDF / Also today： Claude Docs， Claude Slides， and Claude Design are in every conversation. Ask Claude for…",
-          "title_zh": "Claude Docs、Claude Slides 与 Claude Design 直接嵌入对话，可导出 PowerPoint 或 PDF",
-          "title_en": "Also today： Claude Docs， Claude Slides， and Claude Design are in every conversation. Ask Claude for…",
-          "title_original": "Also today： Claude Docs， Claude Slides， and Claude Design are in every conversation. Ask Claude for…",
-          "summary": "Anthropic 的 Boris Cherny 宣布 Claude Docs、Claude Slides 和 Claude Design 已进入每段对话，直接在聊天中生成演示、文档和设计。生成的演示可打开、编辑并导出为 PowerPoint 或 PDF，无需跳转到单独工具。",
-          "recommend_reason_zh": null,
-          "url": "https://x.com/bcherny/status/2100260544087535639",
-          "source": "X：Boris Cherny (@bcherny)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-16T16:28:29Z"
-        },
-        {
-          "id": "0e82863fe919b0ee19bf19d13b77633fc7d44b1c",
-          "title": "Claude Docs、Claude Slides 与 Claude Design 直接嵌入对话，可导出 PowerPoint 或 PDF / Also today: Claude Docs, Claude Slides, and Claude Design are in every conversation. Ask Claude for a presentation and you get one you can open, edit, and export as PowerPoint or PDF. Same for a document or a design....",
-          "title_zh": "Claude Docs、Claude Slides 与 Claude Design 直接嵌入对话，可导出 PowerPoint 或 PDF",
-          "title_en": "Also today: Claude Docs, Claude Slides, and Claude Design are in every conversation. Ask Claude for a presentation and you get one you can open, edit, and export as PowerPoint or PDF. Same for a document or a design....",
-          "title_original": "Also today: Claude Docs, Claude Slides, and Claude Design are in every conversation. Ask Claude for a presentation and you get one you can open, edit, and export as PowerPoint or PDF. Same for a document or a design....",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://x.com/bcherny/status/2100260544087535639",
-          "source": "Follow Builders · X · Boris Cherny",
-          "source_name": "Follow Builders",
-          "site_id": "followbuilders",
-          "published_at": "2026-09-16T16:28:29Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Follow Builders · X · Boris Cherny",
-        "X：Boris Cherny (@bcherny)"
-      ],
-      "items": [
-        {
-          "id": "d15aed4f022f2680da8f62bfae9fd9574ecd93ca",
-          "title": "Claude Docs、Claude Slides 与 Claude Design 直接嵌入对话，可导出 PowerPoint 或 PDF / Also today： Claude Docs， Claude Slides， and Claude Design are in every conversation. Ask Claude for…",
-          "title_zh": "Claude Docs、Claude Slides 与 Claude Design 直接嵌入对话，可导出 PowerPoint 或 PDF",
-          "title_en": "Also today： Claude Docs， Claude Slides， and Claude Design are in every conversation. Ask Claude for…",
-          "title_original": "Also today： Claude Docs， Claude Slides， and Claude Design are in every conversation. Ask Claude for…",
-          "summary": "Anthropic 的 Boris Cherny 宣布 Claude Docs、Claude Slides 和 Claude Design 已进入每段对话，直接在聊天中生成演示、文档和设计。生成的演示可打开、编辑并导出为 PowerPoint 或 PDF，无需跳转到单独工具。",
-          "recommend_reason_zh": null,
-          "url": "https://x.com/bcherny/status/2100260544087535639",
-          "source": "X：Boris Cherny (@bcherny)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-16T16:28:29Z"
-        },
-        {
-          "id": "0e82863fe919b0ee19bf19d13b77633fc7d44b1c",
-          "title": "Claude Docs、Claude Slides 与 Claude Design 直接嵌入对话，可导出 PowerPoint 或 PDF / Also today: Claude Docs, Claude Slides, and Claude Design are in every conversation. Ask Claude for a presentation and you get one you can open, edit, and export as PowerPoint or PDF. Same for a document or a design....",
-          "title_zh": "Claude Docs、Claude Slides 与 Claude Design 直接嵌入对话，可导出 PowerPoint 或 PDF",
-          "title_en": "Also today: Claude Docs, Claude Slides, and Claude Design are in every conversation. Ask Claude for a presentation and you get one you can open, edit, and export as PowerPoint or PDF. Same for a document or a design....",
-          "title_original": "Also today: Claude Docs, Claude Slides, and Claude Design are in every conversation. Ask Claude for a presentation and you get one you can open, edit, and export as PowerPoint or PDF. Same for a document or a design....",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://x.com/bcherny/status/2100260544087535639",
-          "source": "Follow Builders · X · Boris Cherny",
-          "source_name": "Follow Builders",
-          "site_id": "followbuilders",
-          "published_at": "2026-09-16T16:28:29Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.7321,
-      "importance": 0.7321,
-      "importance_score": 0.7321,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.69,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7141,
-        "story_heat": 0.25
-      },
-      "category": "industry",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-09-16T16:28:29Z",
-      "latest_at": "2026-09-16T16:28:29Z",
-      "primary_item": {
-        "id": "d15aed4f022f2680da8f62bfae9fd9574ecd93ca",
-        "title": "Claude Docs、Claude Slides 与 Claude Design 直接嵌入对话，可导出 PowerPoint 或 PDF / Also today： Claude Docs， Claude Slides， and Claude Design are in every conversation. Ask Claude for…",
-        "title_zh": "Claude Docs、Claude Slides 与 Claude Design 直接嵌入对话，可导出 PowerPoint 或 PDF",
-        "title_en": "Also today： Claude Docs， Claude Slides， and Claude Design are in every conversation. Ask Claude for…",
-        "title_original": "Also today： Claude Docs， Claude Slides， and Claude Design are in every conversation. Ask Claude for…",
-        "summary": "Anthropic 的 Boris Cherny 宣布 Claude Docs、Claude Slides 和 Claude Design 已进入每段对话，直接在聊天中生成演示、文档和设计。生成的演示可打开、编辑并导出为 PowerPoint 或 PDF，无需跳转到单独工具。",
-        "recommend_reason_zh": null,
-        "url": "https://x.com/bcherny/status/2100260544087535639",
-        "source": "X：Boris Cherny (@bcherny)",
-        "source_name": "AI HOT"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-09-17T16:27:05.956208Z"
+        "scored_at": "2026-09-17T17:27:27.590663Z"
       }
     },
     {
@@ -1133,15 +1074,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7527,
-      "importance": 0.7527,
-      "importance_score": 0.7527,
+      "score": 0.7503,
+      "importance": 0.7503,
+      "importance_score": 0.7503,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.917,
+        "recency": 0.9039,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1167,7 +1108,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-17T16:27:05.956208Z"
+        "scored_at": "2026-09-17T17:27:27.590663Z"
       }
     },
     {
@@ -1215,15 +1156,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7527,
-      "importance": 0.7527,
-      "importance_score": 0.7527,
+      "score": 0.7503,
+      "importance": 0.7503,
+      "importance_score": 0.7503,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.917,
+        "recency": 0.9039,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1249,7 +1190,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-17T16:27:05.956208Z"
+        "scored_at": "2026-09-17T17:27:27.590663Z"
       }
     },
     {
@@ -1297,21 +1238,20 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7503,
-      "importance": 0.7503,
-      "importance_score": 0.7503,
+      "score": 0.748,
+      "importance": 0.748,
+      "importance_score": 0.748,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9039,
+        "recency": 0.8909,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-09-17T08:47:20.923094Z",
       "latest_at": "2026-09-17T08:47:20.923094Z",
@@ -1331,7 +1271,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-17T16:27:05.956208Z"
+        "scored_at": "2026-09-17T17:27:27.590663Z"
       }
     },
     {
@@ -1379,21 +1319,20 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7503,
-      "importance": 0.7503,
-      "importance_score": 0.7503,
+      "score": 0.748,
+      "importance": 0.748,
+      "importance_score": 0.748,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9039,
+        "recency": 0.8909,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-09-17T08:47:20.923094Z",
       "latest_at": "2026-09-17T08:47:20.923094Z",
@@ -1413,7 +1352,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-17T16:27:05.956208Z"
+        "scored_at": "2026-09-17T17:27:27.590663Z"
       }
     },
     {
@@ -1490,15 +1429,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.6115,
-      "importance": 0.6115,
-      "importance_score": 0.6115,
+      "score": 0.6094,
+      "importance": 0.6094,
+      "importance_score": 0.6094,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.5472,
         "source_tier": 0.58,
         "ai_relevance": 0.76,
-        "recency": 0.7929,
+        "recency": 0.7815,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1523,7 +1462,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-17T16:27:05.956208Z"
+        "scored_at": "2026-09-17T17:27:27.590663Z"
       }
     },
     {
@@ -1571,21 +1510,20 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7503,
-      "importance": 0.7503,
-      "importance_score": 0.7503,
+      "score": 0.748,
+      "importance": 0.748,
+      "importance_score": 0.748,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9039,
+        "recency": 0.8909,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-09-17T08:47:20.923094Z",
       "latest_at": "2026-09-17T08:47:20.923094Z",
@@ -1605,7 +1543,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-17T16:27:05.956208Z"
+        "scored_at": "2026-09-17T17:27:27.590663Z"
       }
     },
     {
@@ -1653,21 +1591,20 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7503,
-      "importance": 0.7503,
-      "importance_score": 0.7503,
+      "score": 0.748,
+      "importance": 0.748,
+      "importance_score": 0.748,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9039,
+        "recency": 0.8909,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-09-17T08:47:20.923094Z",
       "latest_at": "2026-09-17T08:47:20.923094Z",
@@ -1687,7 +1624,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-17T16:27:05.956208Z"
+        "scored_at": "2026-09-17T17:27:27.590663Z"
       }
     },
     {
@@ -1793,15 +1730,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5679,
-      "importance": 0.5679,
-      "importance_score": 0.5679,
+      "score": 0.5653,
+      "importance": 0.5653,
+      "importance_score": 0.5653,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9838,
+        "recency": 0.9697,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1826,7 +1763,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-17T16:27:05.956208Z"
+        "scored_at": "2026-09-17T17:27:27.590663Z"
       }
     },
     {
@@ -1932,15 +1869,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5477,
-      "importance": 0.5477,
-      "importance_score": 0.5477,
+      "score": 0.5455,
+      "importance": 0.5455,
+      "importance_score": 0.5455,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8719,
+        "recency": 0.8594,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1965,7 +1902,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-17T16:27:05.956208Z"
+        "scored_at": "2026-09-17T17:27:27.590663Z"
       }
     }
   ]
