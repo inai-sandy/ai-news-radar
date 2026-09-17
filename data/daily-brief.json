@@ -1,121 +1,8 @@
 {
-  "generated_at": "2026-09-17T06:47:37.583103Z",
+  "generated_at": "2026-09-17T07:47:21.325707Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
-    {
-      "story_id": "story_524b99f2deb6",
-      "title": "GitHub 用 Copilot 智能体将 Copilot 运行时从 TypeScript 迁移到 83 万行 Rust / Migrating the GitHub Copilot runtime to Rust, using Copilot",
-      "url": "https://github.blog/ai-and-ml/generative-ai/migrating-the-github-copilot-runtime-to-rust-using-copilot",
-      "primary_url": "https://github.blog/ai-and-ml/generative-ai/migrating-the-github-copilot-runtime-to-rust-using-copilot",
-      "source": "GitHub AI & ML",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "a576196c89c601051dc98e2b0ab6cdc406aef131",
-          "title": "GitHub 用 Copilot 智能体将 Copilot 运行时从 TypeScript 迁移到 83 万行 Rust / Migrating the GitHub Copilot runtime to Rust, using Copilot",
-          "title_zh": "GitHub 用 Copilot 智能体将 Copilot 运行时从 TypeScript 迁移到 83 万行 Rust",
-          "title_en": "Migrating the GitHub Copilot runtime to Rust, using Copilot",
-          "title_original": "Migrating the GitHub Copilot runtime to Rust, using Copilot",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://github.blog/ai-and-ml/generative-ai/migrating-the-github-copilot-runtime-to-rust-using-copilot",
-          "source": "GitHub AI & ML",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-09-17T00:26:43Z"
-        },
-        {
-          "id": "ca4dffffcb00c23f888bfd34c6a8e082a9dc14c3",
-          "title": "GitHub 用 Copilot 智能体将 Copilot 运行时从 TypeScript 迁移到 83 万行 Rust / Migrating the GitHub Copilot runtime to Rust， using Copilot",
-          "title_zh": "GitHub 用 Copilot 智能体将 Copilot 运行时从 TypeScript 迁移到 83 万行 Rust",
-          "title_en": "Migrating the GitHub Copilot runtime to Rust， using Copilot",
-          "title_original": "Migrating the GitHub Copilot runtime to Rust， using Copilot",
-          "summary": "GitHub 工程师 Stephen Toub 复盘用 Copilot 智能体在约 14.5 周内将 Copilot agent runtime 从 TypeScript/Node.js 全量重写为 832，378 行生产 Rust，AI 智能体完成大部分代码，共 128 个 PR 增量合入 main 并持续发布。",
-          "recommend_reason_zh": null,
-          "url": "https://github.blog/ai-and-ml/generative-ai/migrating-the-github-copilot-runtime-to-rust-using-copilot",
-          "source": "GitHub Blog",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-17T00:26:43Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "GitHub AI & ML",
-        "GitHub Blog"
-      ],
-      "items": [
-        {
-          "id": "a576196c89c601051dc98e2b0ab6cdc406aef131",
-          "title": "GitHub 用 Copilot 智能体将 Copilot 运行时从 TypeScript 迁移到 83 万行 Rust / Migrating the GitHub Copilot runtime to Rust, using Copilot",
-          "title_zh": "GitHub 用 Copilot 智能体将 Copilot 运行时从 TypeScript 迁移到 83 万行 Rust",
-          "title_en": "Migrating the GitHub Copilot runtime to Rust, using Copilot",
-          "title_original": "Migrating the GitHub Copilot runtime to Rust, using Copilot",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://github.blog/ai-and-ml/generative-ai/migrating-the-github-copilot-runtime-to-rust-using-copilot",
-          "source": "GitHub AI & ML",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-09-17T00:26:43Z"
-        },
-        {
-          "id": "ca4dffffcb00c23f888bfd34c6a8e082a9dc14c3",
-          "title": "GitHub 用 Copilot 智能体将 Copilot 运行时从 TypeScript 迁移到 83 万行 Rust / Migrating the GitHub Copilot runtime to Rust， using Copilot",
-          "title_zh": "GitHub 用 Copilot 智能体将 Copilot 运行时从 TypeScript 迁移到 83 万行 Rust",
-          "title_en": "Migrating the GitHub Copilot runtime to Rust， using Copilot",
-          "title_original": "Migrating the GitHub Copilot runtime to Rust， using Copilot",
-          "summary": "GitHub 工程师 Stephen Toub 复盘用 Copilot 智能体在约 14.5 周内将 Copilot agent runtime 从 TypeScript/Node.js 全量重写为 832，378 行生产 Rust，AI 智能体完成大部分代码，共 128 个 PR 增量合入 main 并持续发布。",
-          "recommend_reason_zh": null,
-          "url": "https://github.blog/ai-and-ml/generative-ai/migrating-the-github-copilot-runtime-to-rust-using-copilot",
-          "source": "GitHub Blog",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-17T00:26:43Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.8612,
-      "importance": 0.8612,
-      "importance_score": 0.8612,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.91,
-        "recency": 0.9124,
-        "story_heat": 0.25
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-17T00:26:43Z",
-      "latest_at": "2026-09-17T00:26:43Z",
-      "primary_item": {
-        "id": "a576196c89c601051dc98e2b0ab6cdc406aef131",
-        "title": "GitHub 用 Copilot 智能体将 Copilot 运行时从 TypeScript 迁移到 83 万行 Rust / Migrating the GitHub Copilot runtime to Rust, using Copilot",
-        "title_zh": "GitHub 用 Copilot 智能体将 Copilot 运行时从 TypeScript 迁移到 83 万行 Rust",
-        "title_en": "Migrating the GitHub Copilot runtime to Rust, using Copilot",
-        "title_original": "Migrating the GitHub Copilot runtime to Rust, using Copilot",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://github.blog/ai-and-ml/generative-ai/migrating-the-github-copilot-runtime-to-rust-using-copilot",
-        "source": "GitHub AI & ML",
-        "source_name": "Official AI Updates"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-09-17T07:10:52.140518Z"
-      }
-    },
     {
       "story_id": "story_2b45947d7367",
       "title": "OpenAI 推出 ChatGPT Ads 新功能：Sponsored Agents 测试并集成 HubSpot 与 Shopify / Reimagining advertising with AI",
@@ -219,15 +106,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.8612,
-      "importance": 0.8612,
-      "importance_score": 0.8612,
+      "score": 0.8592,
+      "importance": 0.8592,
+      "importance_score": 0.8592,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.7734,
+        "recency": 0.7624,
         "story_heat": 0.5
       },
       "category": "official",
@@ -255,7 +142,120 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-17T07:10:52.140518Z"
+        "scored_at": "2026-09-17T08:11:04.230798Z"
+      }
+    },
+    {
+      "story_id": "story_524b99f2deb6",
+      "title": "GitHub 用 Copilot 智能体将 Copilot 运行时从 TypeScript 迁移到 83 万行 Rust / Migrating the GitHub Copilot runtime to Rust, using Copilot",
+      "url": "https://github.blog/ai-and-ml/generative-ai/migrating-the-github-copilot-runtime-to-rust-using-copilot",
+      "primary_url": "https://github.blog/ai-and-ml/generative-ai/migrating-the-github-copilot-runtime-to-rust-using-copilot",
+      "source": "GitHub AI & ML",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "a576196c89c601051dc98e2b0ab6cdc406aef131",
+          "title": "GitHub 用 Copilot 智能体将 Copilot 运行时从 TypeScript 迁移到 83 万行 Rust / Migrating the GitHub Copilot runtime to Rust, using Copilot",
+          "title_zh": "GitHub 用 Copilot 智能体将 Copilot 运行时从 TypeScript 迁移到 83 万行 Rust",
+          "title_en": "Migrating the GitHub Copilot runtime to Rust, using Copilot",
+          "title_original": "Migrating the GitHub Copilot runtime to Rust, using Copilot",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://github.blog/ai-and-ml/generative-ai/migrating-the-github-copilot-runtime-to-rust-using-copilot",
+          "source": "GitHub AI & ML",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-09-17T00:26:43Z"
+        },
+        {
+          "id": "ca4dffffcb00c23f888bfd34c6a8e082a9dc14c3",
+          "title": "GitHub 用 Copilot 智能体将 Copilot 运行时从 TypeScript 迁移到 83 万行 Rust / Migrating the GitHub Copilot runtime to Rust， using Copilot",
+          "title_zh": "GitHub 用 Copilot 智能体将 Copilot 运行时从 TypeScript 迁移到 83 万行 Rust",
+          "title_en": "Migrating the GitHub Copilot runtime to Rust， using Copilot",
+          "title_original": "Migrating the GitHub Copilot runtime to Rust， using Copilot",
+          "summary": "GitHub 工程师 Stephen Toub 复盘用 Copilot 智能体在约 14.5 周内将 Copilot agent runtime 从 TypeScript/Node.js 全量重写为 832，378 行生产 Rust，AI 智能体完成大部分代码，共 128 个 PR 增量合入 main 并持续发布。",
+          "recommend_reason_zh": null,
+          "url": "https://github.blog/ai-and-ml/generative-ai/migrating-the-github-copilot-runtime-to-rust-using-copilot",
+          "source": "GitHub Blog",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-17T00:26:43Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "GitHub AI & ML",
+        "GitHub Blog"
+      ],
+      "items": [
+        {
+          "id": "a576196c89c601051dc98e2b0ab6cdc406aef131",
+          "title": "GitHub 用 Copilot 智能体将 Copilot 运行时从 TypeScript 迁移到 83 万行 Rust / Migrating the GitHub Copilot runtime to Rust, using Copilot",
+          "title_zh": "GitHub 用 Copilot 智能体将 Copilot 运行时从 TypeScript 迁移到 83 万行 Rust",
+          "title_en": "Migrating the GitHub Copilot runtime to Rust, using Copilot",
+          "title_original": "Migrating the GitHub Copilot runtime to Rust, using Copilot",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://github.blog/ai-and-ml/generative-ai/migrating-the-github-copilot-runtime-to-rust-using-copilot",
+          "source": "GitHub AI & ML",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-09-17T00:26:43Z"
+        },
+        {
+          "id": "ca4dffffcb00c23f888bfd34c6a8e082a9dc14c3",
+          "title": "GitHub 用 Copilot 智能体将 Copilot 运行时从 TypeScript 迁移到 83 万行 Rust / Migrating the GitHub Copilot runtime to Rust， using Copilot",
+          "title_zh": "GitHub 用 Copilot 智能体将 Copilot 运行时从 TypeScript 迁移到 83 万行 Rust",
+          "title_en": "Migrating the GitHub Copilot runtime to Rust， using Copilot",
+          "title_original": "Migrating the GitHub Copilot runtime to Rust， using Copilot",
+          "summary": "GitHub 工程师 Stephen Toub 复盘用 Copilot 智能体在约 14.5 周内将 Copilot agent runtime 从 TypeScript/Node.js 全量重写为 832，378 行生产 Rust，AI 智能体完成大部分代码，共 128 个 PR 增量合入 main 并持续发布。",
+          "recommend_reason_zh": null,
+          "url": "https://github.blog/ai-and-ml/generative-ai/migrating-the-github-copilot-runtime-to-rust-using-copilot",
+          "source": "GitHub Blog",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-17T00:26:43Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.8589,
+      "importance": 0.8589,
+      "importance_score": 0.8589,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.91,
+        "recency": 0.8994,
+        "story_heat": 0.25
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-17T00:26:43Z",
+      "latest_at": "2026-09-17T00:26:43Z",
+      "primary_item": {
+        "id": "a576196c89c601051dc98e2b0ab6cdc406aef131",
+        "title": "GitHub 用 Copilot 智能体将 Copilot 运行时从 TypeScript 迁移到 83 万行 Rust / Migrating the GitHub Copilot runtime to Rust, using Copilot",
+        "title_zh": "GitHub 用 Copilot 智能体将 Copilot 运行时从 TypeScript 迁移到 83 万行 Rust",
+        "title_en": "Migrating the GitHub Copilot runtime to Rust, using Copilot",
+        "title_original": "Migrating the GitHub Copilot runtime to Rust, using Copilot",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://github.blog/ai-and-ml/generative-ai/migrating-the-github-copilot-runtime-to-rust-using-copilot",
+        "source": "GitHub AI & ML",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-09-17T08:11:04.230798Z"
       }
     },
     {
@@ -303,15 +303,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8267,
-      "importance": 0.8267,
-      "importance_score": 0.8267,
+      "score": 0.8245,
+      "importance": 0.8245,
+      "importance_score": 0.8245,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.8592,
+        "recency": 0.847,
         "story_heat": 0.0
       },
       "category": "official",
@@ -338,7 +338,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-17T07:10:52.140518Z"
+        "scored_at": "2026-09-17T08:11:04.230798Z"
       }
     },
     {
@@ -473,15 +473,15 @@
       ],
       "item_count": 4,
       "duplicate_count": 4,
-      "score": 0.8248,
-      "importance": 0.8248,
-      "importance_score": 0.8248,
+      "score": 0.8227,
+      "importance": 0.8227,
+      "importance_score": 0.8227,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.77,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8178,
+        "recency": 0.8061,
         "story_heat": 0.75
       },
       "category": "multi_source",
@@ -508,7 +508,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-17T07:10:52.140518Z"
+        "scored_at": "2026-09-17T08:11:04.230798Z"
       }
     },
     {
@@ -556,15 +556,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8195,
-      "importance": 0.8195,
-      "importance_score": 0.8195,
+      "score": 0.8174,
+      "importance": 0.8174,
+      "importance_score": 0.8174,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.8194,
+        "recency": 0.8077,
         "story_heat": 0.0
       },
       "category": "official",
@@ -591,7 +591,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-17T07:10:52.140518Z"
+        "scored_at": "2026-09-17T08:11:04.230798Z"
       }
     },
     {
@@ -639,15 +639,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8188,
-      "importance": 0.8188,
-      "importance_score": 0.8188,
+      "score": 0.8166,
+      "importance": 0.8166,
+      "importance_score": 0.8166,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.8598,
+        "recency": 0.8475,
         "story_heat": 0.0
       },
       "category": "official",
@@ -674,7 +674,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-17T07:10:52.140518Z"
+        "scored_at": "2026-09-17T08:11:04.230798Z"
       }
     },
     {
@@ -722,15 +722,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7814,
-      "importance": 0.7814,
-      "importance_score": 0.7814,
+      "score": 0.7791,
+      "importance": 0.7791,
+      "importance_score": 0.7791,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.83,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8933,
+        "recency": 0.8806,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -756,30 +756,30 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-17T07:10:52.140518Z"
+        "scored_at": "2026-09-17T08:11:04.230798Z"
       }
     },
     {
-      "story_id": "story_c1ae6ddc6337",
-      "title": "Anthropic 合并 Claude 产品线：Cowork 与 Chat 合为一体，打造统一办公入口",
-      "url": "https://www.aibase.com/news/31125",
-      "primary_url": "https://www.aibase.com/news/31125",
+      "story_id": "story_2b37eacafa28",
+      "title": "小米公开MiMo-V2.6大模型RL训练过程 罗福莉发文确认将开源技术细节",
+      "url": "https://www.aibase.com/news/31131",
+      "primary_url": "https://www.aibase.com/news/31131",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "bd2df3ff800c7b60f55cd5b79780943be7f2d28f",
-          "title": "Anthropic 合并 Claude 产品线：Cowork 与 Chat 合为一体，打造统一办公入口",
-          "title_zh": "Anthropic 合并 Claude 产品线：Cowork 与 Chat 合为一体，打造统一办公入口",
+          "id": "52162fab7d11502d179948c6ca22d131b6a68926",
+          "title": "小米公开MiMo-V2.6大模型RL训练过程 罗福莉发文确认将开源技术细节",
+          "title_zh": "小米公开MiMo-V2.6大模型RL训练过程 罗福莉发文确认将开源技术细节",
           "title_en": null,
-          "title_original": "Anthropic 合并 Claude 产品线：Cowork 与 Chat 合为一体，打造统一办公入口",
+          "title_original": "小米公开MiMo-V2.6大模型RL训练过程 罗福莉发文确认将开源技术细节",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/31125",
+          "url": "https://www.aibase.com/news/31131",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-09-17T06:47:37.583103Z"
+          "published_at": "2026-09-17T07:47:21.325707Z"
         }
       ],
       "source_count": 1,
@@ -788,18 +788,18 @@
       ],
       "items": [
         {
-          "id": "bd2df3ff800c7b60f55cd5b79780943be7f2d28f",
-          "title": "Anthropic 合并 Claude 产品线：Cowork 与 Chat 合为一体，打造统一办公入口",
-          "title_zh": "Anthropic 合并 Claude 产品线：Cowork 与 Chat 合为一体，打造统一办公入口",
+          "id": "52162fab7d11502d179948c6ca22d131b6a68926",
+          "title": "小米公开MiMo-V2.6大模型RL训练过程 罗福莉发文确认将开源技术细节",
+          "title_zh": "小米公开MiMo-V2.6大模型RL训练过程 罗福莉发文确认将开源技术细节",
           "title_en": null,
-          "title_original": "Anthropic 合并 Claude 产品线：Cowork 与 Chat 合为一体，打造统一办公入口",
+          "title_original": "小米公开MiMo-V2.6大模型RL训练过程 罗福莉发文确认将开源技术细节",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/31125",
+          "url": "https://www.aibase.com/news/31131",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-09-17T06:47:37.583103Z"
+          "published_at": "2026-09-17T07:47:21.325707Z"
         }
       ],
       "item_count": 1,
@@ -820,17 +820,17 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-09-17T06:47:37.583103Z",
-      "latest_at": "2026-09-17T06:47:37.583103Z",
+      "earliest_at": "2026-09-17T07:47:21.325707Z",
+      "latest_at": "2026-09-17T07:47:21.325707Z",
       "primary_item": {
-        "id": "bd2df3ff800c7b60f55cd5b79780943be7f2d28f",
-        "title": "Anthropic 合并 Claude 产品线：Cowork 与 Chat 合为一体，打造统一办公入口",
-        "title_zh": "Anthropic 合并 Claude 产品线：Cowork 与 Chat 合为一体，打造统一办公入口",
+        "id": "52162fab7d11502d179948c6ca22d131b6a68926",
+        "title": "小米公开MiMo-V2.6大模型RL训练过程 罗福莉发文确认将开源技术细节",
+        "title_zh": "小米公开MiMo-V2.6大模型RL训练过程 罗福莉发文确认将开源技术细节",
         "title_en": null,
-        "title_original": "Anthropic 合并 Claude 产品线：Cowork 与 Chat 合为一体，打造统一办公入口",
+        "title_original": "小米公开MiMo-V2.6大模型RL训练过程 罗福莉发文确认将开源技术细节",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/31125",
+        "url": "https://www.aibase.com/news/31131",
         "source": "AIbase",
         "source_name": "AIbase"
       },
@@ -838,7 +838,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-17T07:10:52.140518Z"
+        "scored_at": "2026-09-17T08:11:04.230798Z"
       }
     },
     {
@@ -886,15 +886,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8188,
-      "importance": 0.8188,
-      "importance_score": 0.8188,
+      "score": 0.8166,
+      "importance": 0.8166,
+      "importance_score": 0.8166,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.8599,
+        "recency": 0.8476,
         "story_heat": 0.0
       },
       "category": "official",
@@ -921,7 +921,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-17T07:10:52.140518Z"
+        "scored_at": "2026-09-17T08:11:04.230798Z"
       }
     },
     {
@@ -969,15 +969,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8174,
-      "importance": 0.8174,
-      "importance_score": 0.8174,
+      "score": 0.8153,
+      "importance": 0.8153,
+      "importance_score": 0.8153,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.8076,
+        "recency": 0.7961,
         "story_heat": 0.0
       },
       "category": "official",
@@ -1004,7 +1004,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-17T07:10:52.140518Z"
+        "scored_at": "2026-09-17T08:11:04.230798Z"
       }
     },
     {
@@ -1081,22 +1081,21 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.75,
-      "importance": 0.75,
-      "importance_score": 0.75,
+      "score": 0.7479,
+      "importance": 0.7479,
+      "importance_score": 0.7479,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.69,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8132,
+        "recency": 0.8016,
         "story_heat": 0.25
       },
       "category": "industry",
       "reasons": [
         "multi_source",
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-09-16T16:28:29Z",
       "latest_at": "2026-09-16T16:28:29Z",
@@ -1116,30 +1115,30 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-17T07:10:52.140518Z"
+        "scored_at": "2026-09-17T08:11:04.230798Z"
       }
     },
     {
-      "story_id": "story_7b5be1e6de80",
-      "title": "iOS 27.2 测试版首曝大批新功能：健康应用彻底重构，Siri 扩展至五种新语言",
-      "url": "https://www.aibase.com/news/31123",
-      "primary_url": "https://www.aibase.com/news/31123",
+      "story_id": "story_cf7282a50beb",
+      "title": "抖音上线声音侵权举报入口：AI 克隆音色门槛降低，相关投诉量一月翻倍",
+      "url": "https://www.aibase.com/news/31128",
+      "primary_url": "https://www.aibase.com/news/31128",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "44e5ed43767b72bac685170d2e11cfb0352f1f46",
-          "title": "iOS 27.2 测试版首曝大批新功能：健康应用彻底重构，Siri 扩展至五种新语言",
-          "title_zh": "iOS 27.2 测试版首曝大批新功能：健康应用彻底重构，Siri 扩展至五种新语言",
+          "id": "dc2c982494a6ee9484389e3b4dfc6129ce526a2f",
+          "title": "抖音上线声音侵权举报入口：AI 克隆音色门槛降低，相关投诉量一月翻倍",
+          "title_zh": "抖音上线声音侵权举报入口：AI 克隆音色门槛降低，相关投诉量一月翻倍",
           "title_en": null,
-          "title_original": "iOS 27.2 测试版首曝大批新功能：健康应用彻底重构，Siri 扩展至五种新语言",
+          "title_original": "抖音上线声音侵权举报入口：AI 克隆音色门槛降低，相关投诉量一月翻倍",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/31123",
+          "url": "https://www.aibase.com/news/31128",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-09-17T06:47:37.583103Z"
+          "published_at": "2026-09-17T07:47:21.325707Z"
         }
       ],
       "source_count": 1,
@@ -1148,18 +1147,18 @@
       ],
       "items": [
         {
-          "id": "44e5ed43767b72bac685170d2e11cfb0352f1f46",
-          "title": "iOS 27.2 测试版首曝大批新功能：健康应用彻底重构，Siri 扩展至五种新语言",
-          "title_zh": "iOS 27.2 测试版首曝大批新功能：健康应用彻底重构，Siri 扩展至五种新语言",
+          "id": "dc2c982494a6ee9484389e3b4dfc6129ce526a2f",
+          "title": "抖音上线声音侵权举报入口：AI 克隆音色门槛降低，相关投诉量一月翻倍",
+          "title_zh": "抖音上线声音侵权举报入口：AI 克隆音色门槛降低，相关投诉量一月翻倍",
           "title_en": null,
-          "title_original": "iOS 27.2 测试版首曝大批新功能：健康应用彻底重构，Siri 扩展至五种新语言",
+          "title_original": "抖音上线声音侵权举报入口：AI 克隆音色门槛降低，相关投诉量一月翻倍",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/31123",
+          "url": "https://www.aibase.com/news/31128",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-09-17T06:47:37.583103Z"
+          "published_at": "2026-09-17T07:47:21.325707Z"
         }
       ],
       "item_count": 1,
@@ -1180,17 +1179,17 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-09-17T06:47:37.583103Z",
-      "latest_at": "2026-09-17T06:47:37.583103Z",
+      "earliest_at": "2026-09-17T07:47:21.325707Z",
+      "latest_at": "2026-09-17T07:47:21.325707Z",
       "primary_item": {
-        "id": "44e5ed43767b72bac685170d2e11cfb0352f1f46",
-        "title": "iOS 27.2 测试版首曝大批新功能：健康应用彻底重构，Siri 扩展至五种新语言",
-        "title_zh": "iOS 27.2 测试版首曝大批新功能：健康应用彻底重构，Siri 扩展至五种新语言",
+        "id": "dc2c982494a6ee9484389e3b4dfc6129ce526a2f",
+        "title": "抖音上线声音侵权举报入口：AI 克隆音色门槛降低，相关投诉量一月翻倍",
+        "title_zh": "抖音上线声音侵权举报入口：AI 克隆音色门槛降低，相关投诉量一月翻倍",
         "title_en": null,
-        "title_original": "iOS 27.2 测试版首曝大批新功能：健康应用彻底重构，Siri 扩展至五种新语言",
+        "title_original": "抖音上线声音侵权举报入口：AI 克隆音色门槛降低，相关投诉量一月翻倍",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/31123",
+        "url": "https://www.aibase.com/news/31128",
         "source": "AIbase",
         "source_name": "AIbase"
       },
@@ -1198,7 +1197,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-17T07:10:52.140518Z"
+        "scored_at": "2026-09-17T08:11:04.230798Z"
       }
     },
     {
@@ -1246,15 +1245,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7301,
-      "importance": 0.7301,
-      "importance_score": 0.7301,
+      "score": 0.7278,
+      "importance": 0.7278,
+      "importance_score": 0.7278,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.65,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9085,
+        "recency": 0.8956,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1279,7 +1278,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-17T07:10:52.140518Z"
+        "scored_at": "2026-09-17T08:11:04.230798Z"
       }
     },
     {
@@ -1327,15 +1326,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7278,
-      "importance": 0.7278,
-      "importance_score": 0.7278,
+      "score": 0.7258,
+      "importance": 0.7258,
+      "importance_score": 0.7258,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.779,
+        "recency": 0.7679,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1360,7 +1359,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-17T07:10:52.140518Z"
+        "scored_at": "2026-09-17T08:11:04.230798Z"
       }
     },
     {
@@ -1408,15 +1407,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8092,
-      "importance": 0.8092,
-      "importance_score": 0.8092,
+      "score": 0.8073,
+      "importance": 0.8073,
+      "importance_score": 0.8073,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.7623,
+        "recency": 0.7514,
         "story_heat": 0.0
       },
       "category": "official",
@@ -1443,7 +1442,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-17T07:10:52.140518Z"
+        "scored_at": "2026-09-17T08:11:04.230798Z"
       }
     },
     {
@@ -1491,15 +1490,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8041,
-      "importance": 0.8041,
-      "importance_score": 0.8041,
+      "score": 0.8021,
+      "importance": 0.8021,
+      "importance_score": 0.8021,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.7783,
+        "recency": 0.7672,
         "story_heat": 0.0
       },
       "category": "official",
@@ -1526,30 +1525,30 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-17T07:10:52.140518Z"
+        "scored_at": "2026-09-17T08:11:04.230798Z"
       }
     },
     {
-      "story_id": "story_c6c98746d529",
-      "title": "​MiniMax 旗下三款核心产品正式纳入新加坡国家级 AI 培训计划",
-      "url": "https://www.aibase.com/news/31124",
-      "primary_url": "https://www.aibase.com/news/31124",
+      "story_id": "story_cc1f5c5c2d8b",
+      "title": "抖音新增“冒用声音”专属举报入口 上线可核验维权机制反击AI合成侵权",
+      "url": "https://www.aibase.com/news/31129",
+      "primary_url": "https://www.aibase.com/news/31129",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "e9750827e3c49f22e35abfa37442f55e015ca247",
-          "title": "​MiniMax 旗下三款核心产品正式纳入新加坡国家级 AI 培训计划",
-          "title_zh": "​MiniMax 旗下三款核心产品正式纳入新加坡国家级 AI 培训计划",
+          "id": "e38ea5d68fbcd9d03f7326a16516345f4fe85084",
+          "title": "抖音新增“冒用声音”专属举报入口 上线可核验维权机制反击AI合成侵权",
+          "title_zh": "抖音新增“冒用声音”专属举报入口 上线可核验维权机制反击AI合成侵权",
           "title_en": null,
-          "title_original": "​MiniMax 旗下三款核心产品正式纳入新加坡国家级 AI 培训计划",
+          "title_original": "抖音新增“冒用声音”专属举报入口 上线可核验维权机制反击AI合成侵权",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/31124",
+          "url": "https://www.aibase.com/news/31129",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-09-17T06:47:37.583103Z"
+          "published_at": "2026-09-17T07:47:21.325707Z"
         }
       ],
       "source_count": 1,
@@ -1558,18 +1557,18 @@
       ],
       "items": [
         {
-          "id": "e9750827e3c49f22e35abfa37442f55e015ca247",
-          "title": "​MiniMax 旗下三款核心产品正式纳入新加坡国家级 AI 培训计划",
-          "title_zh": "​MiniMax 旗下三款核心产品正式纳入新加坡国家级 AI 培训计划",
+          "id": "e38ea5d68fbcd9d03f7326a16516345f4fe85084",
+          "title": "抖音新增“冒用声音”专属举报入口 上线可核验维权机制反击AI合成侵权",
+          "title_zh": "抖音新增“冒用声音”专属举报入口 上线可核验维权机制反击AI合成侵权",
           "title_en": null,
-          "title_original": "​MiniMax 旗下三款核心产品正式纳入新加坡国家级 AI 培训计划",
+          "title_original": "抖音新增“冒用声音”专属举报入口 上线可核验维权机制反击AI合成侵权",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/31124",
+          "url": "https://www.aibase.com/news/31129",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-09-17T06:47:37.583103Z"
+          "published_at": "2026-09-17T07:47:21.325707Z"
         }
       ],
       "item_count": 1,
@@ -1590,17 +1589,17 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-09-17T06:47:37.583103Z",
-      "latest_at": "2026-09-17T06:47:37.583103Z",
+      "earliest_at": "2026-09-17T07:47:21.325707Z",
+      "latest_at": "2026-09-17T07:47:21.325707Z",
       "primary_item": {
-        "id": "e9750827e3c49f22e35abfa37442f55e015ca247",
-        "title": "​MiniMax 旗下三款核心产品正式纳入新加坡国家级 AI 培训计划",
-        "title_zh": "​MiniMax 旗下三款核心产品正式纳入新加坡国家级 AI 培训计划",
+        "id": "e38ea5d68fbcd9d03f7326a16516345f4fe85084",
+        "title": "抖音新增“冒用声音”专属举报入口 上线可核验维权机制反击AI合成侵权",
+        "title_zh": "抖音新增“冒用声音”专属举报入口 上线可核验维权机制反击AI合成侵权",
         "title_en": null,
-        "title_original": "​MiniMax 旗下三款核心产品正式纳入新加坡国家级 AI 培训计划",
+        "title_original": "抖音新增“冒用声音”专属举报入口 上线可核验维权机制反击AI合成侵权",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/31124",
+        "url": "https://www.aibase.com/news/31129",
         "source": "AIbase",
         "source_name": "AIbase"
       },
@@ -1608,7 +1607,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-17T07:10:52.140518Z"
+        "scored_at": "2026-09-17T08:11:04.230798Z"
       }
     },
     {
@@ -1656,15 +1655,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8034,
-      "importance": 0.8034,
-      "importance_score": 0.8034,
+      "score": 0.8015,
+      "importance": 0.8015,
+      "importance_score": 0.8015,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.73,
+        "recency": 0.7196,
         "story_heat": 0.0
       },
       "category": "official",
@@ -1691,30 +1690,30 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-17T07:10:52.140518Z"
+        "scored_at": "2026-09-17T08:11:04.230798Z"
       }
     },
     {
-      "story_id": "story_b726d23f048c",
-      "title": "豆包联合火山引擎打造AI原生助手，上汽多款车型年内落地",
-      "url": "https://www.aibase.com/news/31127",
-      "primary_url": "https://www.aibase.com/news/31127",
+      "story_id": "story_e1a5fc85bcce",
+      "title": "每小时烧掉三万美元！前DeepSeek大牛罗福莉加盟小米后首度直播大模型训练",
+      "url": "https://www.aibase.com/news/31130",
+      "primary_url": "https://www.aibase.com/news/31130",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "99da1287a9863891802fc35559094357cec0fb37",
-          "title": "豆包联合火山引擎打造AI原生助手，上汽多款车型年内落地",
-          "title_zh": "豆包联合火山引擎打造AI原生助手，上汽多款车型年内落地",
+          "id": "8855835a5a862d3dc5bdbb8cca9338f0b7992bb6",
+          "title": "每小时烧掉三万美元！前DeepSeek大牛罗福莉加盟小米后首度直播大模型训练",
+          "title_zh": "每小时烧掉三万美元！前DeepSeek大牛罗福莉加盟小米后首度直播大模型训练",
           "title_en": null,
-          "title_original": "豆包联合火山引擎打造AI原生助手，上汽多款车型年内落地",
+          "title_original": "每小时烧掉三万美元！前DeepSeek大牛罗福莉加盟小米后首度直播大模型训练",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/31127",
+          "url": "https://www.aibase.com/news/31130",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-09-17T06:47:37.583103Z"
+          "published_at": "2026-09-17T07:47:21.325707Z"
         }
       ],
       "source_count": 1,
@@ -1723,18 +1722,18 @@
       ],
       "items": [
         {
-          "id": "99da1287a9863891802fc35559094357cec0fb37",
-          "title": "豆包联合火山引擎打造AI原生助手，上汽多款车型年内落地",
-          "title_zh": "豆包联合火山引擎打造AI原生助手，上汽多款车型年内落地",
+          "id": "8855835a5a862d3dc5bdbb8cca9338f0b7992bb6",
+          "title": "每小时烧掉三万美元！前DeepSeek大牛罗福莉加盟小米后首度直播大模型训练",
+          "title_zh": "每小时烧掉三万美元！前DeepSeek大牛罗福莉加盟小米后首度直播大模型训练",
           "title_en": null,
-          "title_original": "豆包联合火山引擎打造AI原生助手，上汽多款车型年内落地",
+          "title_original": "每小时烧掉三万美元！前DeepSeek大牛罗福莉加盟小米后首度直播大模型训练",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/31127",
+          "url": "https://www.aibase.com/news/31130",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-09-17T06:47:37.583103Z"
+          "published_at": "2026-09-17T07:47:21.325707Z"
         }
       ],
       "item_count": 1,
@@ -1755,17 +1754,17 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-09-17T06:47:37.583103Z",
-      "latest_at": "2026-09-17T06:47:37.583103Z",
+      "earliest_at": "2026-09-17T07:47:21.325707Z",
+      "latest_at": "2026-09-17T07:47:21.325707Z",
       "primary_item": {
-        "id": "99da1287a9863891802fc35559094357cec0fb37",
-        "title": "豆包联合火山引擎打造AI原生助手，上汽多款车型年内落地",
-        "title_zh": "豆包联合火山引擎打造AI原生助手，上汽多款车型年内落地",
+        "id": "8855835a5a862d3dc5bdbb8cca9338f0b7992bb6",
+        "title": "每小时烧掉三万美元！前DeepSeek大牛罗福莉加盟小米后首度直播大模型训练",
+        "title_zh": "每小时烧掉三万美元！前DeepSeek大牛罗福莉加盟小米后首度直播大模型训练",
         "title_en": null,
-        "title_original": "豆包联合火山引擎打造AI原生助手，上汽多款车型年内落地",
+        "title_original": "每小时烧掉三万美元！前DeepSeek大牛罗福莉加盟小米后首度直播大模型训练",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/31127",
+        "url": "https://www.aibase.com/news/31130",
         "source": "AIbase",
         "source_name": "AIbase"
       },
@@ -1773,26 +1772,26 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-17T07:10:52.140518Z"
+        "scored_at": "2026-09-17T08:11:04.230798Z"
       }
     },
     {
-      "story_id": "story_4d5ce8019b89",
-      "title": "阿里云展示全新升级的 Wan3.0 视频大模型：单条直出 30 秒长镜头，支持多达五条视频参考",
-      "url": "https://www.aibase.com/news/31126",
-      "primary_url": "https://www.aibase.com/news/31126",
+      "story_id": "story_c1ae6ddc6337",
+      "title": "Anthropic 合并 Claude 产品线：Cowork 与 Chat 合为一体，打造统一办公入口",
+      "url": "https://www.aibase.com/news/31125",
+      "primary_url": "https://www.aibase.com/news/31125",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "d524f84ca7359f8f78912e11258744d0ce0d5429",
-          "title": "阿里云展示全新升级的 Wan3.0 视频大模型：单条直出 30 秒长镜头，支持多达五条视频参考",
-          "title_zh": "阿里云展示全新升级的 Wan3.0 视频大模型：单条直出 30 秒长镜头，支持多达五条视频参考",
+          "id": "bd2df3ff800c7b60f55cd5b79780943be7f2d28f",
+          "title": "Anthropic 合并 Claude 产品线：Cowork 与 Chat 合为一体，打造统一办公入口",
+          "title_zh": "Anthropic 合并 Claude 产品线：Cowork 与 Chat 合为一体，打造统一办公入口",
           "title_en": null,
-          "title_original": "阿里云展示全新升级的 Wan3.0 视频大模型：单条直出 30 秒长镜头，支持多达五条视频参考",
+          "title_original": "Anthropic 合并 Claude 产品线：Cowork 与 Chat 合为一体，打造统一办公入口",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/31126",
+          "url": "https://www.aibase.com/news/31125",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
@@ -1805,14 +1804,14 @@
       ],
       "items": [
         {
-          "id": "d524f84ca7359f8f78912e11258744d0ce0d5429",
-          "title": "阿里云展示全新升级的 Wan3.0 视频大模型：单条直出 30 秒长镜头，支持多达五条视频参考",
-          "title_zh": "阿里云展示全新升级的 Wan3.0 视频大模型：单条直出 30 秒长镜头，支持多达五条视频参考",
+          "id": "bd2df3ff800c7b60f55cd5b79780943be7f2d28f",
+          "title": "Anthropic 合并 Claude 产品线：Cowork 与 Chat 合为一体，打造统一办公入口",
+          "title_zh": "Anthropic 合并 Claude 产品线：Cowork 与 Chat 合为一体，打造统一办公入口",
           "title_en": null,
-          "title_original": "阿里云展示全新升级的 Wan3.0 视频大模型：单条直出 30 秒长镜头，支持多达五条视频参考",
+          "title_original": "Anthropic 合并 Claude 产品线：Cowork 与 Chat 合为一体，打造统一办公入口",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/31126",
+          "url": "https://www.aibase.com/news/31125",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
@@ -1821,15 +1820,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7676,
-      "importance": 0.7676,
-      "importance_score": 0.7676,
+      "score": 0.765,
+      "importance": 0.765,
+      "importance_score": 0.765,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.9857,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1840,14 +1839,14 @@
       "earliest_at": "2026-09-17T06:47:37.583103Z",
       "latest_at": "2026-09-17T06:47:37.583103Z",
       "primary_item": {
-        "id": "d524f84ca7359f8f78912e11258744d0ce0d5429",
-        "title": "阿里云展示全新升级的 Wan3.0 视频大模型：单条直出 30 秒长镜头，支持多达五条视频参考",
-        "title_zh": "阿里云展示全新升级的 Wan3.0 视频大模型：单条直出 30 秒长镜头，支持多达五条视频参考",
+        "id": "bd2df3ff800c7b60f55cd5b79780943be7f2d28f",
+        "title": "Anthropic 合并 Claude 产品线：Cowork 与 Chat 合为一体，打造统一办公入口",
+        "title_zh": "Anthropic 合并 Claude 产品线：Cowork 与 Chat 合为一体，打造统一办公入口",
         "title_en": null,
-        "title_original": "阿里云展示全新升级的 Wan3.0 视频大模型：单条直出 30 秒长镜头，支持多达五条视频参考",
+        "title_original": "Anthropic 合并 Claude 产品线：Cowork 与 Chat 合为一体，打造统一办公入口",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/31126",
+        "url": "https://www.aibase.com/news/31125",
         "source": "AIbase",
         "source_name": "AIbase"
       },
@@ -1855,7 +1854,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-17T07:10:52.140518Z"
+        "scored_at": "2026-09-17T08:11:04.230798Z"
       }
     }
   ]
