@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-09-17T18:47:19.274897Z",
+  "generated_at": "2026-09-17T19:47:18.308999Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
     {
       "story_id": "story_58ddcdd75710",
-      "title": "Ubuntu 26 generally available and latest migration",
+      "title": "Ubuntu 26 正式发布和最新迁移 / Ubuntu 26 generally available and latest migration",
       "url": "https://github.blog/changelog/2026-09-17-ubuntu-26-generally-available-and-latest-migration",
       "primary_url": "https://github.blog/changelog/2026-09-17-ubuntu-26-generally-available-and-latest-migration",
       "source": "GitHub Changelog",
@@ -13,8 +13,8 @@
       "sources": [
         {
           "id": "6c861f8950d9807b37a19240ab044f858177b4ca",
-          "title": "Ubuntu 26 generally available and latest migration",
-          "title_zh": null,
+          "title": "Ubuntu 26 正式发布和最新迁移 / Ubuntu 26 generally available and latest migration",
+          "title_zh": "Ubuntu 26 正式发布和最新迁移",
           "title_en": "Ubuntu 26 generally available and latest migration",
           "title_original": "Ubuntu 26 generally available and latest migration",
           "summary": null,
@@ -33,8 +33,8 @@
       "items": [
         {
           "id": "6c861f8950d9807b37a19240ab044f858177b4ca",
-          "title": "Ubuntu 26 generally available and latest migration",
-          "title_zh": null,
+          "title": "Ubuntu 26 正式发布和最新迁移 / Ubuntu 26 generally available and latest migration",
+          "title_zh": "Ubuntu 26 正式发布和最新迁移",
           "title_en": "Ubuntu 26 generally available and latest migration",
           "title_original": "Ubuntu 26 generally available and latest migration",
           "summary": null,
@@ -48,15 +48,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.838,
-      "importance": 0.838,
-      "importance_score": 0.838,
+      "score": 0.8355,
+      "importance": 0.8355,
+      "importance_score": 0.8355,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.9669,
+        "recency": 0.953,
         "story_heat": 0.0
       },
       "category": "official",
@@ -69,8 +69,8 @@
       "latest_at": "2026-09-17T16:27:16Z",
       "primary_item": {
         "id": "6c861f8950d9807b37a19240ab044f858177b4ca",
-        "title": "Ubuntu 26 generally available and latest migration",
-        "title_zh": null,
+        "title": "Ubuntu 26 正式发布和最新迁移 / Ubuntu 26 generally available and latest migration",
+        "title_zh": "Ubuntu 26 正式发布和最新迁移",
         "title_en": "Ubuntu 26 generally available and latest migration",
         "title_original": "Ubuntu 26 generally available and latest migration",
         "summary": null,
@@ -83,7 +83,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-17T19:35:57.061894Z"
+        "scored_at": "2026-09-17T19:48:32.728687Z"
       }
     },
     {
@@ -160,15 +160,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.8351,
-      "importance": 0.8351,
-      "importance_score": 0.8351,
+      "score": 0.8331,
+      "importance": 0.8331,
+      "importance_score": 0.8331,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.7673,
+        "recency": 0.7563,
         "story_heat": 0.25
       },
       "category": "official",
@@ -196,12 +196,12 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-17T19:35:57.061894Z"
+        "scored_at": "2026-09-17T19:48:32.728687Z"
       }
     },
     {
       "story_id": "story_3ecb4a7a0061",
-      "title": "Workflow execution protections in GitHub Actions generally available",
+      "title": "GitHub Actions 中的工作流程执行保护现已全面可用 / Workflow execution protections in GitHub Actions generally available",
       "url": "https://github.blog/changelog/2026-09-17-workflow-execution-protections-in-github-actions-generally-available",
       "primary_url": "https://github.blog/changelog/2026-09-17-workflow-execution-protections-in-github-actions-generally-available",
       "source": "GitHub Changelog",
@@ -209,8 +209,8 @@
       "sources": [
         {
           "id": "91e0ae9ea67f6020e7a653645119f92c3fdb59cf",
-          "title": "Workflow execution protections in GitHub Actions generally available",
-          "title_zh": null,
+          "title": "GitHub Actions 中的工作流程执行保护现已全面可用 / Workflow execution protections in GitHub Actions generally available",
+          "title_zh": "GitHub Actions 中的工作流程执行保护现已全面可用",
           "title_en": "Workflow execution protections in GitHub Actions generally available",
           "title_original": "Workflow execution protections in GitHub Actions generally available",
           "summary": null,
@@ -229,8 +229,8 @@
       "items": [
         {
           "id": "91e0ae9ea67f6020e7a653645119f92c3fdb59cf",
-          "title": "Workflow execution protections in GitHub Actions generally available",
-          "title_zh": null,
+          "title": "GitHub Actions 中的工作流程执行保护现已全面可用 / Workflow execution protections in GitHub Actions generally available",
+          "title_zh": "GitHub Actions 中的工作流程执行保护现已全面可用",
           "title_en": "Workflow execution protections in GitHub Actions generally available",
           "title_original": "Workflow execution protections in GitHub Actions generally available",
           "summary": null,
@@ -244,15 +244,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8363,
-      "importance": 0.8363,
-      "importance_score": 0.8363,
+      "score": 0.8338,
+      "importance": 0.8338,
+      "importance_score": 0.8338,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.9572,
+        "recency": 0.9434,
         "story_heat": 0.0
       },
       "category": "official",
@@ -265,8 +265,8 @@
       "latest_at": "2026-09-17T15:45:26Z",
       "primary_item": {
         "id": "91e0ae9ea67f6020e7a653645119f92c3fdb59cf",
-        "title": "Workflow execution protections in GitHub Actions generally available",
-        "title_zh": null,
+        "title": "GitHub Actions 中的工作流程执行保护现已全面可用 / Workflow execution protections in GitHub Actions generally available",
+        "title_zh": "GitHub Actions 中的工作流程执行保护现已全面可用",
         "title_en": "Workflow execution protections in GitHub Actions generally available",
         "title_original": "Workflow execution protections in GitHub Actions generally available",
         "summary": null,
@@ -279,7 +279,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-17T19:35:57.061894Z"
+        "scored_at": "2026-09-17T19:48:32.728687Z"
       }
     },
     {
@@ -327,15 +327,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7788,
-      "importance": 0.7788,
-      "importance_score": 0.7788,
+      "score": 0.7763,
+      "importance": 0.7763,
+      "importance_score": 0.7763,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.77,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9788,
+        "recency": 0.9647,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -361,7 +361,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-17T19:35:57.061894Z"
+        "scored_at": "2026-09-17T19:48:32.728687Z"
       }
     },
     {
@@ -409,15 +409,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7566,
-      "importance": 0.7566,
-      "importance_score": 0.7566,
+      "score": 0.7541,
+      "importance": 0.7541,
+      "importance_score": 0.7541,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.71,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9555,
+        "recency": 0.9418,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -443,7 +443,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-17T19:35:57.061894Z"
+        "scored_at": "2026-09-17T19:48:32.728687Z"
       }
     },
     {
@@ -491,15 +491,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7558,
-      "importance": 0.7558,
-      "importance_score": 0.7558,
+      "score": 0.7539,
+      "importance": 0.7539,
+      "importance_score": 0.7539,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.83,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7512,
+        "recency": 0.7405,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -525,7 +525,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-17T19:35:57.061894Z"
+        "scored_at": "2026-09-17T19:48:32.728687Z"
       }
     },
     {
@@ -573,21 +573,20 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7501,
-      "importance": 0.7501,
-      "importance_score": 0.7501,
+      "score": 0.7476,
+      "importance": 0.7476,
+      "importance_score": 0.7476,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.68,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9695,
+        "recency": 0.9556,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-09-17T16:38:32.383000Z",
       "latest_at": "2026-09-17T16:38:32.383000Z",
@@ -607,7 +606,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-17T19:35:57.061894Z"
+        "scored_at": "2026-09-17T19:48:32.728687Z"
       }
     },
     {
@@ -655,15 +654,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7472,
-      "importance": 0.7472,
-      "importance_score": 0.7472,
+      "score": 0.7447,
+      "importance": 0.7447,
+      "importance_score": 0.7447,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.66,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9868,
+        "recency": 0.9727,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -688,7 +687,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-17T19:35:57.061894Z"
+        "scored_at": "2026-09-17T19:48:32.728687Z"
       }
     },
     {
@@ -736,15 +735,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7461,
-      "importance": 0.7461,
-      "importance_score": 0.7461,
+      "score": 0.7437,
+      "importance": 0.7437,
+      "importance_score": 0.7437,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.68,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9475,
+        "recency": 0.9339,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -769,7 +768,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-17T19:35:57.061894Z"
+        "scored_at": "2026-09-17T19:48:32.728687Z"
       }
     },
     {
@@ -817,15 +816,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7457,
-      "importance": 0.7457,
-      "importance_score": 0.7457,
+      "score": 0.7434,
+      "importance": 0.7434,
+      "importance_score": 0.7434,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8781,
+        "recency": 0.8655,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -850,7 +849,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-17T19:35:57.061894Z"
+        "scored_at": "2026-09-17T19:48:32.728687Z"
       }
     },
     {
@@ -898,15 +897,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8021,
-      "importance": 0.8021,
-      "importance_score": 0.8021,
+      "score": 0.8002,
+      "importance": 0.8002,
+      "importance_score": 0.8002,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.7226,
+        "recency": 0.7122,
         "story_heat": 0.0
       },
       "category": "official",
@@ -933,7 +932,88 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-17T19:35:57.061894Z"
+        "scored_at": "2026-09-17T19:48:32.728687Z"
+      }
+    },
+    {
+      "story_id": "story_8d4c470a656c",
+      "title": "Epoch AI 分析：贸易数据与经马来西亚走私至中国的约 30 亿美元芯片一致 / Trade data consistent with $3B of chips smuggled to China via Malaysia",
+      "url": "https://epoch.ai/data-insights/malaysia-china-chip-smuggling",
+      "primary_url": "https://epoch.ai/data-insights/malaysia-china-chip-smuggling",
+      "source": "Epoch AI：研究、数据与评测",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "996726a9ac53981eb863eccd8e5c018833bfdf77",
+          "title": "Epoch AI 分析：贸易数据与经马来西亚走私至中国的约 30 亿美元芯片一致 / Trade data consistent with $3B of chips smuggled to China via Malaysia",
+          "title_zh": "Epoch AI 分析：贸易数据与经马来西亚走私至中国的约 30 亿美元芯片一致",
+          "title_en": "Trade data consistent with $3B of chips smuggled to China via Malaysia",
+          "title_original": "Trade data consistent with $3B of chips smuggled to China via Malaysia",
+          "summary": "Epoch AI 分析海关数据发现，2024 年 4 月至 2025 年 6 月中国记录了 37.5 亿美元、均价约 10.6 万美元/台的马来西亚原产服务器进口，价格水平更符合 AI 服务器而非普通服务器。",
+          "recommend_reason_zh": null,
+          "url": "https://epoch.ai/data-insights/malaysia-china-chip-smuggling",
+          "source": "Epoch AI：研究、数据与评测",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-17T00:00:00Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Epoch AI：研究、数据与评测"
+      ],
+      "items": [
+        {
+          "id": "996726a9ac53981eb863eccd8e5c018833bfdf77",
+          "title": "Epoch AI 分析：贸易数据与经马来西亚走私至中国的约 30 亿美元芯片一致 / Trade data consistent with $3B of chips smuggled to China via Malaysia",
+          "title_zh": "Epoch AI 分析：贸易数据与经马来西亚走私至中国的约 30 亿美元芯片一致",
+          "title_en": "Trade data consistent with $3B of chips smuggled to China via Malaysia",
+          "title_original": "Trade data consistent with $3B of chips smuggled to China via Malaysia",
+          "summary": "Epoch AI 分析海关数据发现，2024 年 4 月至 2025 年 6 月中国记录了 37.5 亿美元、均价约 10.6 万美元/台的马来西亚原产服务器进口，价格水平更符合 AI 服务器而非普通服务器。",
+          "recommend_reason_zh": null,
+          "url": "https://epoch.ai/data-insights/malaysia-china-chip-smuggling",
+          "source": "Epoch AI：研究、数据与评测",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-17T00:00:00Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7289,
+      "importance": 0.7289,
+      "importance_score": 0.7289,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.74,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.7514,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-09-17T00:00:00Z",
+      "latest_at": "2026-09-17T00:00:00Z",
+      "primary_item": {
+        "id": "996726a9ac53981eb863eccd8e5c018833bfdf77",
+        "title": "Epoch AI 分析：贸易数据与经马来西亚走私至中国的约 30 亿美元芯片一致 / Trade data consistent with $3B of chips smuggled to China via Malaysia",
+        "title_zh": "Epoch AI 分析：贸易数据与经马来西亚走私至中国的约 30 亿美元芯片一致",
+        "title_en": "Trade data consistent with $3B of chips smuggled to China via Malaysia",
+        "title_original": "Trade data consistent with $3B of chips smuggled to China via Malaysia",
+        "summary": "Epoch AI 分析海关数据发现，2024 年 4 月至 2025 年 6 月中国记录了 37.5 亿美元、均价约 10.6 万美元/台的马来西亚原产服务器进口，价格水平更符合 AI 服务器而非普通服务器。",
+        "recommend_reason_zh": null,
+        "url": "https://epoch.ai/data-insights/malaysia-china-chip-smuggling",
+        "source": "Epoch AI：研究、数据与评测",
+        "source_name": "AI HOT"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-09-17T19:48:32.728687Z"
       }
     },
     {
@@ -981,15 +1061,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7457,
-      "importance": 0.7457,
-      "importance_score": 0.7457,
+      "score": 0.7434,
+      "importance": 0.7434,
+      "importance_score": 0.7434,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8781,
+        "recency": 0.8655,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1014,171 +1094,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-17T19:35:57.061894Z"
-      }
-    },
-    {
-      "story_id": "story_d6e73104d607",
-      "title": "自动执行经典 PAT 和 SSH 密钥的 SSO 授权 / Automate SSO authorization for classic PATs and SSH keys",
-      "url": "https://github.blog/changelog/2026-09-16-automate-sso-authorization-for-classic-pats-and-ssh-keys",
-      "primary_url": "https://github.blog/changelog/2026-09-16-automate-sso-authorization-for-classic-pats-and-ssh-keys",
-      "source": "GitHub Changelog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "6c6b67ad1666cd8cc4c191cd5e74c2220b3be9ff",
-          "title": "自动执行经典 PAT 和 SSH 密钥的 SSO 授权 / Automate SSO authorization for classic PATs and SSH keys",
-          "title_zh": "自动执行经典 PAT 和 SSH 密钥的 SSO 授权",
-          "title_en": "Automate SSO authorization for classic PATs and SSH keys",
-          "title_original": "Automate SSO authorization for classic PATs and SSH keys",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-09-16-automate-sso-authorization-for-classic-pats-and-ssh-keys",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-09-16T20:20:16Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "GitHub Changelog"
-      ],
-      "items": [
-        {
-          "id": "6c6b67ad1666cd8cc4c191cd5e74c2220b3be9ff",
-          "title": "自动执行经典 PAT 和 SSH 密钥的 SSO 授权 / Automate SSO authorization for classic PATs and SSH keys",
-          "title_zh": "自动执行经典 PAT 和 SSH 密钥的 SSO 授权",
-          "title_en": "Automate SSO authorization for classic PATs and SSH keys",
-          "title_original": "Automate SSO authorization for classic PATs and SSH keys",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-09-16-automate-sso-authorization-for-classic-pats-and-ssh-keys",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-09-16T20:20:16Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7942,
-      "importance": 0.7942,
-      "importance_score": 0.7942,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.87,
-        "recency": 0.7231,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-16T20:20:16Z",
-      "latest_at": "2026-09-16T20:20:16Z",
-      "primary_item": {
-        "id": "6c6b67ad1666cd8cc4c191cd5e74c2220b3be9ff",
-        "title": "自动执行经典 PAT 和 SSH 密钥的 SSO 授权 / Automate SSO authorization for classic PATs and SSH keys",
-        "title_zh": "自动执行经典 PAT 和 SSH 密钥的 SSO 授权",
-        "title_en": "Automate SSO authorization for classic PATs and SSH keys",
-        "title_original": "Automate SSO authorization for classic PATs and SSH keys",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://github.blog/changelog/2026-09-16-automate-sso-authorization-for-classic-pats-and-ssh-keys",
-        "source": "GitHub Changelog",
-        "source_name": "Official AI Updates"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-09-17T19:35:57.061894Z"
-      }
-    },
-    {
-      "story_id": "story_835a1099ffd5",
-      "title": "英国 AI 初创 Emulate 启动融资，目标最高募资7亿美元、估值37亿美元",
-      "url": "https://www.aibase.com/news/31138",
-      "primary_url": "https://www.aibase.com/news/31138",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "7a0f7c0cfb22f7f28ed5276c5538cd93146f36b7",
-          "title": "英国 AI 初创 Emulate 启动融资，目标最高募资7亿美元、估值37亿美元",
-          "title_zh": "英国 AI 初创 Emulate 启动融资，目标最高募资7亿美元、估值37亿美元",
-          "title_en": null,
-          "title_original": "英国 AI 初创 Emulate 启动融资，目标最高募资7亿美元、估值37亿美元",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/31138",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-09-17T09:47:18.611843Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "7a0f7c0cfb22f7f28ed5276c5538cd93146f36b7",
-          "title": "英国 AI 初创 Emulate 启动融资，目标最高募资7亿美元、估值37亿美元",
-          "title_zh": "英国 AI 初创 Emulate 启动融资，目标最高募资7亿美元、估值37亿美元",
-          "title_en": null,
-          "title_original": "英国 AI 初创 Emulate 启动融资，目标最高募资7亿美元、估值37亿美元",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/31138",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-09-17T09:47:18.611843Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7457,
-      "importance": 0.7457,
-      "importance_score": 0.7457,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.8781,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-09-17T09:47:18.611843Z",
-      "latest_at": "2026-09-17T09:47:18.611843Z",
-      "primary_item": {
-        "id": "7a0f7c0cfb22f7f28ed5276c5538cd93146f36b7",
-        "title": "英国 AI 初创 Emulate 启动融资，目标最高募资7亿美元、估值37亿美元",
-        "title_zh": "英国 AI 初创 Emulate 启动融资，目标最高募资7亿美元、估值37亿美元",
-        "title_en": null,
-        "title_original": "英国 AI 初创 Emulate 启动融资，目标最高募资7亿美元、估值37亿美元",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/31138",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-09-17T19:35:57.061894Z"
+        "scored_at": "2026-09-17T19:48:32.728687Z"
       }
     },
     {
@@ -1226,15 +1142,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7941,
-      "importance": 0.7941,
-      "importance_score": 0.7941,
+      "score": 0.7923,
+      "importance": 0.7923,
+      "importance_score": 0.7923,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.7231,
+        "recency": 0.7127,
         "story_heat": 0.0
       },
       "category": "official",
@@ -1261,7 +1177,171 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-17T19:35:57.061894Z"
+        "scored_at": "2026-09-17T19:48:32.728687Z"
+      }
+    },
+    {
+      "story_id": "story_835a1099ffd5",
+      "title": "英国 AI 初创 Emulate 启动融资，目标最高募资7亿美元、估值37亿美元",
+      "url": "https://www.aibase.com/news/31138",
+      "primary_url": "https://www.aibase.com/news/31138",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "7a0f7c0cfb22f7f28ed5276c5538cd93146f36b7",
+          "title": "英国 AI 初创 Emulate 启动融资，目标最高募资7亿美元、估值37亿美元",
+          "title_zh": "英国 AI 初创 Emulate 启动融资，目标最高募资7亿美元、估值37亿美元",
+          "title_en": null,
+          "title_original": "英国 AI 初创 Emulate 启动融资，目标最高募资7亿美元、估值37亿美元",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/31138",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-09-17T09:47:18.611843Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "7a0f7c0cfb22f7f28ed5276c5538cd93146f36b7",
+          "title": "英国 AI 初创 Emulate 启动融资，目标最高募资7亿美元、估值37亿美元",
+          "title_zh": "英国 AI 初创 Emulate 启动融资，目标最高募资7亿美元、估值37亿美元",
+          "title_en": null,
+          "title_original": "英国 AI 初创 Emulate 启动融资，目标最高募资7亿美元、估值37亿美元",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/31138",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-09-17T09:47:18.611843Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7434,
+      "importance": 0.7434,
+      "importance_score": 0.7434,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.8655,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-09-17T09:47:18.611843Z",
+      "latest_at": "2026-09-17T09:47:18.611843Z",
+      "primary_item": {
+        "id": "7a0f7c0cfb22f7f28ed5276c5538cd93146f36b7",
+        "title": "英国 AI 初创 Emulate 启动融资，目标最高募资7亿美元、估值37亿美元",
+        "title_zh": "英国 AI 初创 Emulate 启动融资，目标最高募资7亿美元、估值37亿美元",
+        "title_en": null,
+        "title_original": "英国 AI 初创 Emulate 启动融资，目标最高募资7亿美元、估值37亿美元",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://www.aibase.com/news/31138",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-09-17T19:48:32.728687Z"
+      }
+    },
+    {
+      "story_id": "story_d6e73104d607",
+      "title": "自动执行经典 PAT 和 SSH 密钥的 SSO 授权 / Automate SSO authorization for classic PATs and SSH keys",
+      "url": "https://github.blog/changelog/2026-09-16-automate-sso-authorization-for-classic-pats-and-ssh-keys",
+      "primary_url": "https://github.blog/changelog/2026-09-16-automate-sso-authorization-for-classic-pats-and-ssh-keys",
+      "source": "GitHub Changelog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "6c6b67ad1666cd8cc4c191cd5e74c2220b3be9ff",
+          "title": "自动执行经典 PAT 和 SSH 密钥的 SSO 授权 / Automate SSO authorization for classic PATs and SSH keys",
+          "title_zh": "自动执行经典 PAT 和 SSH 密钥的 SSO 授权",
+          "title_en": "Automate SSO authorization for classic PATs and SSH keys",
+          "title_original": "Automate SSO authorization for classic PATs and SSH keys",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://github.blog/changelog/2026-09-16-automate-sso-authorization-for-classic-pats-and-ssh-keys",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-09-16T20:20:16Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "GitHub Changelog"
+      ],
+      "items": [
+        {
+          "id": "6c6b67ad1666cd8cc4c191cd5e74c2220b3be9ff",
+          "title": "自动执行经典 PAT 和 SSH 密钥的 SSO 授权 / Automate SSO authorization for classic PATs and SSH keys",
+          "title_zh": "自动执行经典 PAT 和 SSH 密钥的 SSO 授权",
+          "title_en": "Automate SSO authorization for classic PATs and SSH keys",
+          "title_original": "Automate SSO authorization for classic PATs and SSH keys",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://github.blog/changelog/2026-09-16-automate-sso-authorization-for-classic-pats-and-ssh-keys",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-09-16T20:20:16Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7923,
+      "importance": 0.7923,
+      "importance_score": 0.7923,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.87,
+        "recency": 0.7127,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-16T20:20:16Z",
+      "latest_at": "2026-09-16T20:20:16Z",
+      "primary_item": {
+        "id": "6c6b67ad1666cd8cc4c191cd5e74c2220b3be9ff",
+        "title": "自动执行经典 PAT 和 SSH 密钥的 SSO 授权 / Automate SSO authorization for classic PATs and SSH keys",
+        "title_zh": "自动执行经典 PAT 和 SSH 密钥的 SSO 授权",
+        "title_en": "Automate SSO authorization for classic PATs and SSH keys",
+        "title_original": "Automate SSO authorization for classic PATs and SSH keys",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://github.blog/changelog/2026-09-16-automate-sso-authorization-for-classic-pats-and-ssh-keys",
+        "source": "GitHub Changelog",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-09-17T19:48:32.728687Z"
       }
     },
     {
@@ -1309,15 +1389,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7434,
-      "importance": 0.7434,
-      "importance_score": 0.7434,
+      "score": 0.7412,
+      "importance": 0.7412,
+      "importance_score": 0.7412,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8655,
+        "recency": 0.8531,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1342,7 +1422,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-17T19:35:57.061894Z"
+        "scored_at": "2026-09-17T19:48:32.728687Z"
       }
     },
     {
@@ -1390,15 +1470,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7434,
-      "importance": 0.7434,
-      "importance_score": 0.7434,
+      "score": 0.7412,
+      "importance": 0.7412,
+      "importance_score": 0.7412,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8655,
+        "recency": 0.8531,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1423,7 +1503,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-17T19:35:57.061894Z"
+        "scored_at": "2026-09-17T19:48:32.728687Z"
       }
     },
     {
@@ -1500,15 +1580,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.6054,
-      "importance": 0.6054,
-      "importance_score": 0.6054,
+      "score": 0.6035,
+      "importance": 0.6035,
+      "importance_score": 0.6035,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.5472,
         "source_tier": 0.58,
         "ai_relevance": 0.76,
-        "recency": 0.7593,
+        "recency": 0.7484,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1533,7 +1613,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-17T19:35:57.061894Z"
+        "scored_at": "2026-09-17T19:48:32.728687Z"
       }
     },
     {
@@ -1581,15 +1661,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7434,
-      "importance": 0.7434,
-      "importance_score": 0.7434,
+      "score": 0.7412,
+      "importance": 0.7412,
+      "importance_score": 0.7412,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8655,
+        "recency": 0.8531,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1614,88 +1694,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-17T19:35:57.061894Z"
-      }
-    },
-    {
-      "story_id": "story_c9bc9fd808a8",
-      "title": "研究显示印度外包几乎没被 AI 挤占：软件服务出口占 GDP 升至 5.2%",
-      "url": "https://www.aibase.com/news/31135",
-      "primary_url": "https://www.aibase.com/news/31135",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "8102b6352c1872eefe6efca1d00b79c4bb0aca39",
-          "title": "研究显示印度外包几乎没被 AI 挤占：软件服务出口占 GDP 升至 5.2%",
-          "title_zh": "研究显示印度外包几乎没被 AI 挤占：软件服务出口占 GDP 升至 5.2%",
-          "title_en": null,
-          "title_original": "研究显示印度外包几乎没被 AI 挤占：软件服务出口占 GDP 升至 5.2%",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/31135",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-09-17T08:47:20.923094Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "8102b6352c1872eefe6efca1d00b79c4bb0aca39",
-          "title": "研究显示印度外包几乎没被 AI 挤占：软件服务出口占 GDP 升至 5.2%",
-          "title_zh": "研究显示印度外包几乎没被 AI 挤占：软件服务出口占 GDP 升至 5.2%",
-          "title_en": null,
-          "title_original": "研究显示印度外包几乎没被 AI 挤占：软件服务出口占 GDP 升至 5.2%",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/31135",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-09-17T08:47:20.923094Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7434,
-      "importance": 0.7434,
-      "importance_score": 0.7434,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.8655,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-09-17T08:47:20.923094Z",
-      "latest_at": "2026-09-17T08:47:20.923094Z",
-      "primary_item": {
-        "id": "8102b6352c1872eefe6efca1d00b79c4bb0aca39",
-        "title": "研究显示印度外包几乎没被 AI 挤占：软件服务出口占 GDP 升至 5.2%",
-        "title_zh": "研究显示印度外包几乎没被 AI 挤占：软件服务出口占 GDP 升至 5.2%",
-        "title_en": null,
-        "title_original": "研究显示印度外包几乎没被 AI 挤占：软件服务出口占 GDP 升至 5.2%",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/31135",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-09-17T19:35:57.061894Z"
+        "scored_at": "2026-09-17T19:48:32.728687Z"
       }
     }
   ]
