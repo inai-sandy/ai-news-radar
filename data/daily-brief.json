@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-18T20:47:53.805089Z",
+  "generated_at": "2026-09-18T21:47:21.631467Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -106,15 +106,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.8511,
-      "importance": 0.8511,
-      "importance_score": 0.8511,
+      "score": 0.8487,
+      "importance": 0.8487,
+      "importance_score": 0.8487,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.86,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.953,
+        "recency": 0.9395,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -141,30 +141,30 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-18T21:00:57.515426Z"
+        "scored_at": "2026-09-18T21:48:07.285761Z"
       }
     },
     {
-      "story_id": "story_37ed024ed43e",
-      "title": "GitHub Copilot 每周发布 — 9 月 14 日 / GitHub Copilot weekly releases — September 14",
-      "url": "https://github.blog/changelog/2026-09-18-github-copilot-weekly-releases-september-14",
-      "primary_url": "https://github.blog/changelog/2026-09-18-github-copilot-weekly-releases-september-14",
+      "story_id": "story_8b8113a300b2",
+      "title": "Copilot 代码审查：改进的审查体验 / Copilot code review: An improved review experience",
+      "url": "https://github.blog/changelog/2026-09-18-copilot-code-review-an-improved-review-experience",
+      "primary_url": "https://github.blog/changelog/2026-09-18-copilot-code-review-an-improved-review-experience",
       "source": "GitHub Changelog",
       "source_name": "Official AI Updates",
       "sources": [
         {
-          "id": "ec3c44c58e68216dee4e22ab0b584c55825e5eec",
-          "title": "GitHub Copilot 每周发布 — 9 月 14 日 / GitHub Copilot weekly releases — September 14",
-          "title_zh": "GitHub Copilot 每周发布 — 9 月 14 日",
-          "title_en": "GitHub Copilot weekly releases — September 14",
-          "title_original": "GitHub Copilot weekly releases — September 14",
+          "id": "eda89f683fc829811bfac03eaaca9ec78f28c28a",
+          "title": "Copilot 代码审查：改进的审查体验 / Copilot code review: An improved review experience",
+          "title_zh": "Copilot 代码审查：改进的审查体验",
+          "title_en": "Copilot code review: An improved review experience",
+          "title_original": "Copilot code review: An improved review experience",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-09-18-github-copilot-weekly-releases-september-14",
+          "url": "https://github.blog/changelog/2026-09-18-copilot-code-review-an-improved-review-experience",
           "source": "GitHub Changelog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-09-18T19:21:22Z"
+          "published_at": "2026-09-18T20:17:22Z"
         }
       ],
       "source_count": 1,
@@ -173,31 +173,31 @@
       ],
       "items": [
         {
-          "id": "ec3c44c58e68216dee4e22ab0b584c55825e5eec",
-          "title": "GitHub Copilot 每周发布 — 9 月 14 日 / GitHub Copilot weekly releases — September 14",
-          "title_zh": "GitHub Copilot 每周发布 — 9 月 14 日",
-          "title_en": "GitHub Copilot weekly releases — September 14",
-          "title_original": "GitHub Copilot weekly releases — September 14",
+          "id": "eda89f683fc829811bfac03eaaca9ec78f28c28a",
+          "title": "Copilot 代码审查：改进的审查体验 / Copilot code review: An improved review experience",
+          "title_zh": "Copilot 代码审查：改进的审查体验",
+          "title_en": "Copilot code review: An improved review experience",
+          "title_original": "Copilot code review: An improved review experience",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-09-18-github-copilot-weekly-releases-september-14",
+          "url": "https://github.blog/changelog/2026-09-18-copilot-code-review-an-improved-review-experience",
           "source": "GitHub Changelog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-09-18T19:21:22Z"
+          "published_at": "2026-09-18T20:17:22Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8483,
-      "importance": 0.8483,
-      "importance_score": 0.8483,
+      "score": 0.8481,
+      "importance": 0.8481,
+      "importance_score": 0.8481,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.9794,
+        "recency": 0.9786,
         "story_heat": 0.0
       },
       "category": "official",
@@ -206,17 +206,17 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-09-18T19:21:22Z",
-      "latest_at": "2026-09-18T19:21:22Z",
+      "earliest_at": "2026-09-18T20:17:22Z",
+      "latest_at": "2026-09-18T20:17:22Z",
       "primary_item": {
-        "id": "ec3c44c58e68216dee4e22ab0b584c55825e5eec",
-        "title": "GitHub Copilot 每周发布 — 9 月 14 日 / GitHub Copilot weekly releases — September 14",
-        "title_zh": "GitHub Copilot 每周发布 — 9 月 14 日",
-        "title_en": "GitHub Copilot weekly releases — September 14",
-        "title_original": "GitHub Copilot weekly releases — September 14",
+        "id": "eda89f683fc829811bfac03eaaca9ec78f28c28a",
+        "title": "Copilot 代码审查：改进的审查体验 / Copilot code review: An improved review experience",
+        "title_zh": "Copilot 代码审查：改进的审查体验",
+        "title_en": "Copilot code review: An improved review experience",
+        "title_original": "Copilot code review: An improved review experience",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://github.blog/changelog/2026-09-18-github-copilot-weekly-releases-september-14",
+        "url": "https://github.blog/changelog/2026-09-18-copilot-code-review-an-improved-review-experience",
         "source": "GitHub Changelog",
         "source_name": "Official AI Updates"
       },
@@ -224,7 +224,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-18T21:00:57.515426Z"
+        "scored_at": "2026-09-18T21:48:07.285761Z"
       }
     },
     {
@@ -272,15 +272,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8375,
-      "importance": 0.8375,
-      "importance_score": 0.8375,
+      "score": 0.8352,
+      "importance": 0.8352,
+      "importance_score": 0.8352,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.9197,
+        "recency": 0.9066,
         "story_heat": 0.0
       },
       "category": "official",
@@ -307,7 +307,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-18T21:00:57.515426Z"
+        "scored_at": "2026-09-18T21:48:07.285761Z"
       }
     },
     {
@@ -355,15 +355,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8272,
-      "importance": 0.8272,
-      "importance_score": 0.8272,
+      "score": 0.8249,
+      "importance": 0.8249,
+      "importance_score": 0.8249,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.9065,
+        "recency": 0.8936,
         "story_heat": 0.0
       },
       "category": "official",
@@ -390,7 +390,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-18T21:00:57.515426Z"
+        "scored_at": "2026-09-18T21:48:07.285761Z"
       }
     },
     {
@@ -438,15 +438,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8193,
-      "importance": 0.8193,
-      "importance_score": 0.8193,
+      "score": 0.8174,
+      "importance": 0.8174,
+      "importance_score": 0.8174,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.98,
-        "recency": 0.7406,
+        "recency": 0.73,
         "story_heat": 0.0
       },
       "category": "official",
@@ -473,30 +473,30 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-18T21:00:57.515426Z"
+        "scored_at": "2026-09-18T21:48:07.285761Z"
       }
     },
     {
-      "story_id": "story_a5ec63464b54",
-      "title": "即将于 10 月中旬弃用选定的 GitHub Copilot 模型 / Upcoming deprecation of selected GitHub Copilot models in mid-October",
-      "url": "https://github.blog/changelog/2026-09-18-upcoming-deprecation-of-selected-github-copilot-models-in-mid-october",
-      "primary_url": "https://github.blog/changelog/2026-09-18-upcoming-deprecation-of-selected-github-copilot-models-in-mid-october",
+      "story_id": "story_37ed024ed43e",
+      "title": "GitHub Copilot 每周发布 — 9 月 14 日 / GitHub Copilot weekly releases — September 14",
+      "url": "https://github.blog/changelog/2026-09-18-github-copilot-weekly-releases-september-14",
+      "primary_url": "https://github.blog/changelog/2026-09-18-github-copilot-weekly-releases-september-14",
       "source": "GitHub Changelog",
       "source_name": "Official AI Updates",
       "sources": [
         {
-          "id": "b28e613f42e6d56c649fe568cfbf61decfe346dc",
-          "title": "即将于 10 月中旬弃用选定的 GitHub Copilot 模型 / Upcoming deprecation of selected GitHub Copilot models in mid-October",
-          "title_zh": "即将于 10 月中旬弃用选定的 GitHub Copilot 模型",
-          "title_en": "Upcoming deprecation of selected GitHub Copilot models in mid-October",
-          "title_original": "Upcoming deprecation of selected GitHub Copilot models in mid-October",
+          "id": "ec3c44c58e68216dee4e22ab0b584c55825e5eec",
+          "title": "GitHub Copilot 每周发布 — 9 月 14 日 / GitHub Copilot weekly releases — September 14",
+          "title_zh": "GitHub Copilot 每周发布 — 9 月 14 日",
+          "title_en": "GitHub Copilot weekly releases — September 14",
+          "title_original": "GitHub Copilot weekly releases — September 14",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-09-18-upcoming-deprecation-of-selected-github-copilot-models-in-mid-october",
+          "url": "https://github.blog/changelog/2026-09-18-github-copilot-weekly-releases-september-14",
           "source": "GitHub Changelog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-09-18T19:00:00Z"
+          "published_at": "2026-09-18T19:21:22Z"
         }
       ],
       "source_count": 1,
@@ -505,31 +505,31 @@
       ],
       "items": [
         {
-          "id": "b28e613f42e6d56c649fe568cfbf61decfe346dc",
-          "title": "即将于 10 月中旬弃用选定的 GitHub Copilot 模型 / Upcoming deprecation of selected GitHub Copilot models in mid-October",
-          "title_zh": "即将于 10 月中旬弃用选定的 GitHub Copilot 模型",
-          "title_en": "Upcoming deprecation of selected GitHub Copilot models in mid-October",
-          "title_original": "Upcoming deprecation of selected GitHub Copilot models in mid-October",
+          "id": "ec3c44c58e68216dee4e22ab0b584c55825e5eec",
+          "title": "GitHub Copilot 每周发布 — 9 月 14 日 / GitHub Copilot weekly releases — September 14",
+          "title_zh": "GitHub Copilot 每周发布 — 9 月 14 日",
+          "title_en": "GitHub Copilot weekly releases — September 14",
+          "title_original": "GitHub Copilot weekly releases — September 14",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-09-18-upcoming-deprecation-of-selected-github-copilot-models-in-mid-october",
+          "url": "https://github.blog/changelog/2026-09-18-github-copilot-weekly-releases-september-14",
           "source": "GitHub Changelog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-09-18T19:00:00Z"
+          "published_at": "2026-09-18T19:21:22Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8474,
-      "importance": 0.8474,
-      "importance_score": 0.8474,
+      "score": 0.8458,
+      "importance": 0.8458,
+      "importance_score": 0.8458,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.9744,
+        "recency": 0.9655,
         "story_heat": 0.0
       },
       "category": "official",
@@ -538,17 +538,17 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-09-18T19:00:00Z",
-      "latest_at": "2026-09-18T19:00:00Z",
+      "earliest_at": "2026-09-18T19:21:22Z",
+      "latest_at": "2026-09-18T19:21:22Z",
       "primary_item": {
-        "id": "b28e613f42e6d56c649fe568cfbf61decfe346dc",
-        "title": "即将于 10 月中旬弃用选定的 GitHub Copilot 模型 / Upcoming deprecation of selected GitHub Copilot models in mid-October",
-        "title_zh": "即将于 10 月中旬弃用选定的 GitHub Copilot 模型",
-        "title_en": "Upcoming deprecation of selected GitHub Copilot models in mid-October",
-        "title_original": "Upcoming deprecation of selected GitHub Copilot models in mid-October",
+        "id": "ec3c44c58e68216dee4e22ab0b584c55825e5eec",
+        "title": "GitHub Copilot 每周发布 — 9 月 14 日 / GitHub Copilot weekly releases — September 14",
+        "title_zh": "GitHub Copilot 每周发布 — 9 月 14 日",
+        "title_en": "GitHub Copilot weekly releases — September 14",
+        "title_original": "GitHub Copilot weekly releases — September 14",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://github.blog/changelog/2026-09-18-upcoming-deprecation-of-selected-github-copilot-models-in-mid-october",
+        "url": "https://github.blog/changelog/2026-09-18-github-copilot-weekly-releases-september-14",
         "source": "GitHub Changelog",
         "source_name": "Official AI Updates"
       },
@@ -556,7 +556,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-18T21:00:57.515426Z"
+        "scored_at": "2026-09-18T21:48:07.285761Z"
       }
     },
     {
@@ -662,15 +662,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.8349,
-      "importance": 0.8349,
-      "importance_score": 0.8349,
+      "score": 0.8327,
+      "importance": 0.8327,
+      "importance_score": 0.8327,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.86,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.863,
+        "recency": 0.8507,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -697,7 +697,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-18T21:00:57.515426Z"
+        "scored_at": "2026-09-18T21:48:07.285761Z"
       }
     },
     {
@@ -745,15 +745,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8248,
-      "importance": 0.8248,
-      "importance_score": 0.8248,
+      "score": 0.8225,
+      "importance": 0.8225,
+      "importance_score": 0.8225,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.8935,
+        "recency": 0.8808,
         "story_heat": 0.0
       },
       "category": "official",
@@ -780,7 +780,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-18T21:00:57.515426Z"
+        "scored_at": "2026-09-18T21:48:07.285761Z"
       }
     },
     {
@@ -857,15 +857,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7938,
-      "importance": 0.7938,
-      "importance_score": 0.7938,
+      "score": 0.7915,
+      "importance": 0.7915,
+      "importance_score": 0.7915,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.78,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9065,
+        "recency": 0.8937,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -892,7 +892,90 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-18T21:00:57.515426Z"
+        "scored_at": "2026-09-18T21:48:07.285761Z"
+      }
+    },
+    {
+      "story_id": "story_a5ec63464b54",
+      "title": "即将于 10 月中旬弃用选定的 GitHub Copilot 模型 / Upcoming deprecation of selected GitHub Copilot models in mid-October",
+      "url": "https://github.blog/changelog/2026-09-18-upcoming-deprecation-of-selected-github-copilot-models-in-mid-october",
+      "primary_url": "https://github.blog/changelog/2026-09-18-upcoming-deprecation-of-selected-github-copilot-models-in-mid-october",
+      "source": "GitHub Changelog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "b28e613f42e6d56c649fe568cfbf61decfe346dc",
+          "title": "即将于 10 月中旬弃用选定的 GitHub Copilot 模型 / Upcoming deprecation of selected GitHub Copilot models in mid-October",
+          "title_zh": "即将于 10 月中旬弃用选定的 GitHub Copilot 模型",
+          "title_en": "Upcoming deprecation of selected GitHub Copilot models in mid-October",
+          "title_original": "Upcoming deprecation of selected GitHub Copilot models in mid-October",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://github.blog/changelog/2026-09-18-upcoming-deprecation-of-selected-github-copilot-models-in-mid-october",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-09-18T19:00:00Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "GitHub Changelog"
+      ],
+      "items": [
+        {
+          "id": "b28e613f42e6d56c649fe568cfbf61decfe346dc",
+          "title": "即将于 10 月中旬弃用选定的 GitHub Copilot 模型 / Upcoming deprecation of selected GitHub Copilot models in mid-October",
+          "title_zh": "即将于 10 月中旬弃用选定的 GitHub Copilot 模型",
+          "title_en": "Upcoming deprecation of selected GitHub Copilot models in mid-October",
+          "title_original": "Upcoming deprecation of selected GitHub Copilot models in mid-October",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://github.blog/changelog/2026-09-18-upcoming-deprecation-of-selected-github-copilot-models-in-mid-october",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-09-18T19:00:00Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8449,
+      "importance": 0.8449,
+      "importance_score": 0.8449,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.91,
+        "recency": 0.9605,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-18T19:00:00Z",
+      "latest_at": "2026-09-18T19:00:00Z",
+      "primary_item": {
+        "id": "b28e613f42e6d56c649fe568cfbf61decfe346dc",
+        "title": "即将于 10 月中旬弃用选定的 GitHub Copilot 模型 / Upcoming deprecation of selected GitHub Copilot models in mid-October",
+        "title_zh": "即将于 10 月中旬弃用选定的 GitHub Copilot 模型",
+        "title_en": "Upcoming deprecation of selected GitHub Copilot models in mid-October",
+        "title_original": "Upcoming deprecation of selected GitHub Copilot models in mid-October",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://github.blog/changelog/2026-09-18-upcoming-deprecation-of-selected-github-copilot-models-in-mid-october",
+        "source": "GitHub Changelog",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-09-18T21:48:07.285761Z"
       }
     },
     {
@@ -940,15 +1023,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7819,
-      "importance": 0.7819,
-      "importance_score": 0.7819,
+      "score": 0.7793,
+      "importance": 0.7793,
+      "importance_score": 0.7793,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.61,
         "source_tier": 1.0,
         "ai_relevance": 1.0,
-        "recency": 0.9937,
+        "recency": 0.9796,
         "story_heat": 0.0
       },
       "category": "official",
@@ -974,7 +1057,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-18T21:00:57.515426Z"
+        "scored_at": "2026-09-18T21:48:07.285761Z"
       }
     },
     {
@@ -1022,15 +1105,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7812,
-      "importance": 0.7812,
-      "importance_score": 0.7812,
+      "score": 0.7789,
+      "importance": 0.7789,
+      "importance_score": 0.7789,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.81,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9258,
+        "recency": 0.9126,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1056,90 +1139,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-18T21:00:57.515426Z"
-      }
-    },
-    {
-      "story_id": "story_48ff8a06680b",
-      "title": "使用 REST API 管理代码覆盖率规则集条件 / Manage the code coverage ruleset condition with the REST API",
-      "url": "https://github.blog/changelog/2026-09-18-manage-the-code-coverage-ruleset-condition-with-the-rest-api",
-      "primary_url": "https://github.blog/changelog/2026-09-18-manage-the-code-coverage-ruleset-condition-with-the-rest-api",
-      "source": "GitHub Changelog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "0e0bc04cd9cd03b5af328fbe166ef9fb9829f616",
-          "title": "使用 REST API 管理代码覆盖率规则集条件 / Manage the code coverage ruleset condition with the REST API",
-          "title_zh": "使用 REST API 管理代码覆盖率规则集条件",
-          "title_en": "Manage the code coverage ruleset condition with the REST API",
-          "title_original": "Manage the code coverage ruleset condition with the REST API",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-09-18-manage-the-code-coverage-ruleset-condition-with-the-rest-api",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-09-18T19:23:49Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "GitHub Changelog"
-      ],
-      "items": [
-        {
-          "id": "0e0bc04cd9cd03b5af328fbe166ef9fb9829f616",
-          "title": "使用 REST API 管理代码覆盖率规则集条件 / Manage the code coverage ruleset condition with the REST API",
-          "title_zh": "使用 REST API 管理代码覆盖率规则集条件",
-          "title_en": "Manage the code coverage ruleset condition with the REST API",
-          "title_original": "Manage the code coverage ruleset condition with the REST API",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-09-18-manage-the-code-coverage-ruleset-condition-with-the-rest-api",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-09-18T19:23:49Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8404,
-      "importance": 0.8404,
-      "importance_score": 0.8404,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.87,
-        "recency": 0.98,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-18T19:23:49Z",
-      "latest_at": "2026-09-18T19:23:49Z",
-      "primary_item": {
-        "id": "0e0bc04cd9cd03b5af328fbe166ef9fb9829f616",
-        "title": "使用 REST API 管理代码覆盖率规则集条件 / Manage the code coverage ruleset condition with the REST API",
-        "title_zh": "使用 REST API 管理代码覆盖率规则集条件",
-        "title_en": "Manage the code coverage ruleset condition with the REST API",
-        "title_original": "Manage the code coverage ruleset condition with the REST API",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://github.blog/changelog/2026-09-18-manage-the-code-coverage-ruleset-condition-with-the-rest-api",
-        "source": "GitHub Changelog",
-        "source_name": "Official AI Updates"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-09-18T21:00:57.515426Z"
+        "scored_at": "2026-09-18T21:48:07.285761Z"
       }
     },
     {
@@ -1187,15 +1187,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7664,
-      "importance": 0.7664,
-      "importance_score": 0.7664,
+      "score": 0.7644,
+      "importance": 0.7644,
+      "importance_score": 0.7644,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.84,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7933,
+        "recency": 0.782,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1221,7 +1221,90 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-18T21:00:57.515426Z"
+        "scored_at": "2026-09-18T21:48:07.285761Z"
+      }
+    },
+    {
+      "story_id": "story_48ff8a06680b",
+      "title": "使用 REST API 管理代码覆盖率规则集条件 / Manage the code coverage ruleset condition with the REST API",
+      "url": "https://github.blog/changelog/2026-09-18-manage-the-code-coverage-ruleset-condition-with-the-rest-api",
+      "primary_url": "https://github.blog/changelog/2026-09-18-manage-the-code-coverage-ruleset-condition-with-the-rest-api",
+      "source": "GitHub Changelog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "0e0bc04cd9cd03b5af328fbe166ef9fb9829f616",
+          "title": "使用 REST API 管理代码覆盖率规则集条件 / Manage the code coverage ruleset condition with the REST API",
+          "title_zh": "使用 REST API 管理代码覆盖率规则集条件",
+          "title_en": "Manage the code coverage ruleset condition with the REST API",
+          "title_original": "Manage the code coverage ruleset condition with the REST API",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://github.blog/changelog/2026-09-18-manage-the-code-coverage-ruleset-condition-with-the-rest-api",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-09-18T19:23:49Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "GitHub Changelog"
+      ],
+      "items": [
+        {
+          "id": "0e0bc04cd9cd03b5af328fbe166ef9fb9829f616",
+          "title": "使用 REST API 管理代码覆盖率规则集条件 / Manage the code coverage ruleset condition with the REST API",
+          "title_zh": "使用 REST API 管理代码覆盖率规则集条件",
+          "title_en": "Manage the code coverage ruleset condition with the REST API",
+          "title_original": "Manage the code coverage ruleset condition with the REST API",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://github.blog/changelog/2026-09-18-manage-the-code-coverage-ruleset-condition-with-the-rest-api",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-09-18T19:23:49Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8379,
+      "importance": 0.8379,
+      "importance_score": 0.8379,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.87,
+        "recency": 0.966,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-18T19:23:49Z",
+      "latest_at": "2026-09-18T19:23:49Z",
+      "primary_item": {
+        "id": "0e0bc04cd9cd03b5af328fbe166ef9fb9829f616",
+        "title": "使用 REST API 管理代码覆盖率规则集条件 / Manage the code coverage ruleset condition with the REST API",
+        "title_zh": "使用 REST API 管理代码覆盖率规则集条件",
+        "title_en": "Manage the code coverage ruleset condition with the REST API",
+        "title_original": "Manage the code coverage ruleset condition with the REST API",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://github.blog/changelog/2026-09-18-manage-the-code-coverage-ruleset-condition-with-the-rest-api",
+        "source": "GitHub Changelog",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-09-18T21:48:07.285761Z"
       }
     },
     {
@@ -1269,15 +1352,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.748,
-      "importance": 0.748,
-      "importance_score": 0.748,
+      "score": 0.7459,
+      "importance": 0.7459,
+      "importance_score": 0.7459,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.76,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8243,
+        "recency": 0.8126,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1302,90 +1385,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-18T21:00:57.515426Z"
-      }
-    },
-    {
-      "story_id": "story_38f7cda29bd5",
-      "title": "仅阶段性的 npm 令牌可实现更安全的自动化 / Stage-only npm tokens for safer automation",
-      "url": "https://github.blog/changelog/2026-09-18-stage-only-npm-tokens-for-safer-automation",
-      "primary_url": "https://github.blog/changelog/2026-09-18-stage-only-npm-tokens-for-safer-automation",
-      "source": "GitHub Changelog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "7599c377c5d95e1f6601047e1589787a4435e7db",
-          "title": "仅阶段性的 npm 令牌可实现更安全的自动化 / Stage-only npm tokens for safer automation",
-          "title_zh": "仅阶段性的 npm 令牌可实现更安全的自动化",
-          "title_en": "Stage-only npm tokens for safer automation",
-          "title_original": "Stage-only npm tokens for safer automation",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-09-18-stage-only-npm-tokens-for-safer-automation",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-09-18T16:37:50Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "GitHub Changelog"
-      ],
-      "items": [
-        {
-          "id": "7599c377c5d95e1f6601047e1589787a4435e7db",
-          "title": "仅阶段性的 npm 令牌可实现更安全的自动化 / Stage-only npm tokens for safer automation",
-          "title_zh": "仅阶段性的 npm 令牌可实现更安全的自动化",
-          "title_en": "Stage-only npm tokens for safer automation",
-          "title_original": "Stage-only npm tokens for safer automation",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-09-18-stage-only-npm-tokens-for-safer-automation",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-09-18T16:37:50Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8335,
-      "importance": 0.8335,
-      "importance_score": 0.8335,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.87,
-        "recency": 0.9416,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-18T16:37:50Z",
-      "latest_at": "2026-09-18T16:37:50Z",
-      "primary_item": {
-        "id": "7599c377c5d95e1f6601047e1589787a4435e7db",
-        "title": "仅阶段性的 npm 令牌可实现更安全的自动化 / Stage-only npm tokens for safer automation",
-        "title_zh": "仅阶段性的 npm 令牌可实现更安全的自动化",
-        "title_en": "Stage-only npm tokens for safer automation",
-        "title_original": "Stage-only npm tokens for safer automation",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://github.blog/changelog/2026-09-18-stage-only-npm-tokens-for-safer-automation",
-        "source": "GitHub Changelog",
-        "source_name": "Official AI Updates"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-09-18T21:00:57.515426Z"
+        "scored_at": "2026-09-18T21:48:07.285761Z"
       }
     },
     {
@@ -1491,15 +1491,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.8034,
-      "importance": 0.8034,
-      "importance_score": 0.8034,
+      "score": 0.8014,
+      "importance": 0.8014,
+      "importance_score": 0.8014,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.81,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.771,
+        "recency": 0.7601,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1526,7 +1526,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-18T21:00:57.515426Z"
+        "scored_at": "2026-09-18T21:48:07.285761Z"
       }
     },
     {
@@ -1574,15 +1574,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7426,
-      "importance": 0.7426,
-      "importance_score": 0.7426,
+      "score": 0.7406,
+      "importance": 0.7406,
+      "importance_score": 0.7406,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.76,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7945,
+        "recency": 0.7832,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1607,7 +1607,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-18T21:00:57.515426Z"
+        "scored_at": "2026-09-18T21:48:07.285761Z"
       }
     },
     {
@@ -1655,15 +1655,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7412,
-      "importance": 0.7412,
-      "importance_score": 0.7412,
+      "score": 0.7387,
+      "importance": 0.7387,
+      "importance_score": 0.7387,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.64,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9867,
+        "recency": 0.9727,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1688,7 +1688,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-18T21:00:57.515426Z"
+        "scored_at": "2026-09-18T21:48:07.285761Z"
       }
     },
     {
@@ -1736,15 +1736,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7396,
-      "importance": 0.7396,
-      "importance_score": 0.7396,
+      "score": 0.7377,
+      "importance": 0.7377,
+      "importance_score": 0.7377,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.63,
         "source_tier": 1.0,
         "ai_relevance": 1.0,
-        "recency": 0.7253,
+        "recency": 0.715,
         "story_heat": 0.0
       },
       "category": "official",
@@ -1769,7 +1769,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-18T21:00:57.515426Z"
+        "scored_at": "2026-09-18T21:48:07.285761Z"
       }
     },
     {
@@ -1817,15 +1817,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7389,
-      "importance": 0.7389,
-      "importance_score": 0.7389,
+      "score": 0.7368,
+      "importance": 0.7368,
+      "importance_score": 0.7368,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8408,
+        "recency": 0.8288,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1850,7 +1850,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-18T21:00:57.515426Z"
+        "scored_at": "2026-09-18T21:48:07.285761Z"
       }
     }
   ]
