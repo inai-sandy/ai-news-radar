@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-18T05:47:16.820766Z",
+  "generated_at": "2026-09-18T06:47:24.292751Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -48,15 +48,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8324,
-      "importance": 0.8324,
-      "importance_score": 0.8324,
+      "score": 0.8301,
+      "importance": 0.8301,
+      "importance_score": 0.8301,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.8909,
+        "recency": 0.8781,
         "story_heat": 0.0
       },
       "category": "official",
@@ -83,7 +83,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-18T06:01:27.988280Z"
+        "scored_at": "2026-09-18T07:03:55.602162Z"
       }
     },
     {
@@ -123,7 +123,7 @@
           "published_at": "2026-09-18T04:45:46.234000Z"
         },
         {
-          "id": "c1f6c8bdd83796c4d27a1f4137593b92c6faf529",
+          "id": "5506e775b22e613d112ed24bedbc02b2de69fa67",
           "title": "Qwen 发布原生全模态模型 Qwen3.8-Omni-Flash，主打音视频智能体任务交付 / Alibaba releases Qwen 3.8 Omni Flash",
           "title_zh": "Qwen 发布原生全模态模型 Qwen3.8-Omni-Flash，主打音视频智能体任务交付",
           "title_en": "Alibaba releases Qwen 3.8 Omni Flash",
@@ -131,9 +131,9 @@
           "summary": null,
           "recommend_reason_zh": null,
           "url": "https://qwen.ai/blog?id=qwen3.8-omni-flash",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
           "published_at": "2026-09-17T23:05:48Z"
         },
         {
@@ -153,6 +153,7 @@
       ],
       "source_count": 4,
       "source_names": [
+        "Hacker News",
         "Hacker News (黑客新闻)",
         "Qwen：Blog Retrieval（API）",
         "qwen.ai"
@@ -187,7 +188,7 @@
           "published_at": "2026-09-18T04:45:46.234000Z"
         },
         {
-          "id": "c1f6c8bdd83796c4d27a1f4137593b92c6faf529",
+          "id": "5506e775b22e613d112ed24bedbc02b2de69fa67",
           "title": "Qwen 发布原生全模态模型 Qwen3.8-Omni-Flash，主打音视频智能体任务交付 / Alibaba releases Qwen 3.8 Omni Flash",
           "title_zh": "Qwen 发布原生全模态模型 Qwen3.8-Omni-Flash，主打音视频智能体任务交付",
           "title_en": "Alibaba releases Qwen 3.8 Omni Flash",
@@ -195,9 +196,9 @@
           "summary": null,
           "recommend_reason_zh": null,
           "url": "https://qwen.ai/blog?id=qwen3.8-omni-flash",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
           "published_at": "2026-09-17T23:05:48Z"
         },
         {
@@ -217,15 +218,15 @@
       ],
       "item_count": 4,
       "duplicate_count": 4,
-      "score": 0.8279,
-      "importance": 0.8279,
-      "importance_score": 0.8279,
+      "score": 0.8257,
+      "importance": 0.8257,
+      "importance_score": 0.8257,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.77,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.835,
+        "recency": 0.823,
         "story_heat": 0.75
       },
       "category": "multi_source",
@@ -252,7 +253,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-18T06:01:27.988280Z"
+        "scored_at": "2026-09-18T07:03:55.602162Z"
       }
     },
     {
@@ -300,15 +301,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8203,
-      "importance": 0.8203,
-      "importance_score": 0.8203,
+      "score": 0.818,
+      "importance": 0.818,
+      "importance_score": 0.818,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.8682,
+        "recency": 0.8557,
         "story_heat": 0.0
       },
       "category": "official",
@@ -335,7 +336,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-18T06:01:27.988280Z"
+        "scored_at": "2026-09-18T07:03:55.602162Z"
       }
     },
     {
@@ -383,15 +384,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8192,
-      "importance": 0.8192,
-      "importance_score": 0.8192,
+      "score": 0.8172,
+      "importance": 0.8172,
+      "importance_score": 0.8172,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.7735,
+        "recency": 0.7624,
         "story_heat": 0.0
       },
       "category": "official",
@@ -418,7 +419,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-18T06:01:27.988280Z"
+        "scored_at": "2026-09-18T07:03:55.602162Z"
       }
     },
     {
@@ -495,15 +496,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.812,
-      "importance": 0.812,
-      "importance_score": 0.812,
+      "score": 0.8095,
+      "importance": 0.8095,
+      "importance_score": 0.8095,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.81,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9576,
+        "recency": 0.9439,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -530,7 +531,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-18T06:01:27.988280Z"
+        "scored_at": "2026-09-18T07:03:55.602162Z"
       }
     },
     {
@@ -578,15 +579,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.801,
-      "importance": 0.801,
-      "importance_score": 0.801,
+      "score": 0.7984,
+      "importance": 0.7984,
+      "importance_score": 0.7984,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.84,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9853,
+        "recency": 0.9711,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -612,7 +613,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-18T06:01:27.988280Z"
+        "scored_at": "2026-09-18T07:03:55.602162Z"
       }
     },
     {
@@ -660,15 +661,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7931,
-      "importance": 0.7931,
-      "importance_score": 0.7931,
+      "score": 0.7908,
+      "importance": 0.7908,
+      "importance_score": 0.7908,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 1.0,
         "ai_relevance": 1.0,
-        "recency": 0.8726,
+        "recency": 0.8601,
         "story_heat": 0.0
       },
       "category": "official",
@@ -694,7 +695,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-18T06:01:27.988280Z"
+        "scored_at": "2026-09-18T07:03:55.602162Z"
       }
     },
     {
@@ -742,15 +743,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8229,
-      "importance": 0.8229,
-      "importance_score": 0.8229,
+      "score": 0.8206,
+      "importance": 0.8206,
+      "importance_score": 0.8206,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.8827,
+        "recency": 0.87,
         "story_heat": 0.0
       },
       "category": "official",
@@ -777,7 +778,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-18T06:01:27.988280Z"
+        "scored_at": "2026-09-18T07:03:55.602162Z"
       }
     },
     {
@@ -854,15 +855,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7924,
-      "importance": 0.7924,
-      "importance_score": 0.7924,
+      "score": 0.7901,
+      "importance": 0.7901,
+      "importance_score": 0.7901,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.8,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8653,
+        "recency": 0.8529,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -889,7 +890,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-18T06:01:27.988280Z"
+        "scored_at": "2026-09-18T07:03:55.602162Z"
       }
     },
     {
@@ -937,15 +938,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7772,
-      "importance": 0.7772,
-      "importance_score": 0.7772,
+      "score": 0.7747,
+      "importance": 0.7747,
+      "importance_score": 0.7747,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.76,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9868,
+        "recency": 0.9727,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -971,7 +972,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-18T06:01:27.988280Z"
+        "scored_at": "2026-09-18T07:03:55.602162Z"
       }
     },
     {
@@ -1019,15 +1020,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7711,
-      "importance": 0.7711,
-      "importance_score": 0.7711,
+      "score": 0.7688,
+      "importance": 0.7688,
+      "importance_score": 0.7688,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.63,
         "source_tier": 1.0,
         "ai_relevance": 1.0,
-        "recency": 0.9008,
+        "recency": 0.8879,
         "story_heat": 0.0
       },
       "category": "official",
@@ -1053,7 +1054,89 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-18T06:01:27.988280Z"
+        "scored_at": "2026-09-18T07:03:55.602162Z"
+      }
+    },
+    {
+      "story_id": "story_4e4efe237fdf",
+      "title": "Anthropic 首次量化公开 AI 研发自动化进度：Claude 主导 26% 研发，压力甩给 OpenAI 等竞品",
+      "url": "https://www.aibase.com/news/31162",
+      "primary_url": "https://www.aibase.com/news/31162",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "e40b3aae371e7140b6a1ae5928ae7d22ac835e6d",
+          "title": "Anthropic 首次量化公开 AI 研发自动化进度：Claude 主导 26% 研发，压力甩给 OpenAI 等竞品",
+          "title_zh": "Anthropic 首次量化公开 AI 研发自动化进度：Claude 主导 26% 研发，压力甩给 OpenAI 等竞品",
+          "title_en": null,
+          "title_original": "Anthropic 首次量化公开 AI 研发自动化进度：Claude 主导 26% 研发，压力甩给 OpenAI 等竞品",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/31162",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-09-18T06:47:24.292751Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "e40b3aae371e7140b6a1ae5928ae7d22ac835e6d",
+          "title": "Anthropic 首次量化公开 AI 研发自动化进度：Claude 主导 26% 研发，压力甩给 OpenAI 等竞品",
+          "title_zh": "Anthropic 首次量化公开 AI 研发自动化进度：Claude 主导 26% 研发，压力甩给 OpenAI 等竞品",
+          "title_en": null,
+          "title_original": "Anthropic 首次量化公开 AI 研发自动化进度：Claude 主导 26% 研发，压力甩给 OpenAI 等竞品",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/31162",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-09-18T06:47:24.292751Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7676,
+      "importance": 0.7676,
+      "importance_score": 0.7676,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-18T06:47:24.292751Z",
+      "latest_at": "2026-09-18T06:47:24.292751Z",
+      "primary_item": {
+        "id": "e40b3aae371e7140b6a1ae5928ae7d22ac835e6d",
+        "title": "Anthropic 首次量化公开 AI 研发自动化进度：Claude 主导 26% 研发，压力甩给 OpenAI 等竞品",
+        "title_zh": "Anthropic 首次量化公开 AI 研发自动化进度：Claude 主导 26% 研发，压力甩给 OpenAI 等竞品",
+        "title_en": null,
+        "title_original": "Anthropic 首次量化公开 AI 研发自动化进度：Claude 主导 26% 研发，压力甩给 OpenAI 等竞品",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://www.aibase.com/news/31162",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-09-18T07:03:55.602162Z"
       }
     },
     {
@@ -1101,15 +1184,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7665,
-      "importance": 0.7665,
-      "importance_score": 0.7665,
+      "score": 0.7642,
+      "importance": 0.7642,
+      "importance_score": 0.7642,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.78,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.894,
+        "recency": 0.8812,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1135,89 +1218,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-18T06:01:27.988280Z"
-      }
-    },
-    {
-      "story_id": "story_572ac9f647ce",
-      "title": "Anthropic 推出生命科学认证计划，三款主力模型纳入统一授权条款",
-      "url": "https://www.aibase.com/news/31152",
-      "primary_url": "https://www.aibase.com/news/31152",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "6ddf4bccfedf28761f7f3ec504b66c20cacc05d5",
-          "title": "Anthropic 推出生命科学认证计划，三款主力模型纳入统一授权条款",
-          "title_zh": "Anthropic 推出生命科学认证计划，三款主力模型纳入统一授权条款",
-          "title_en": null,
-          "title_original": "Anthropic 推出生命科学认证计划，三款主力模型纳入统一授权条款",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/31152",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-09-18T03:47:22.298636Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "6ddf4bccfedf28761f7f3ec504b66c20cacc05d5",
-          "title": "Anthropic 推出生命科学认证计划，三款主力模型纳入统一授权条款",
-          "title_zh": "Anthropic 推出生命科学认证计划，三款主力模型纳入统一授权条款",
-          "title_en": null,
-          "title_original": "Anthropic 推出生命科学认证计划，三款主力模型纳入统一授权条款",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/31152",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-09-18T03:47:22.298636Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7625,
-      "importance": 0.7625,
-      "importance_score": 0.7625,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.9716,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-18T03:47:22.298636Z",
-      "latest_at": "2026-09-18T03:47:22.298636Z",
-      "primary_item": {
-        "id": "6ddf4bccfedf28761f7f3ec504b66c20cacc05d5",
-        "title": "Anthropic 推出生命科学认证计划，三款主力模型纳入统一授权条款",
-        "title_zh": "Anthropic 推出生命科学认证计划，三款主力模型纳入统一授权条款",
-        "title_en": null,
-        "title_original": "Anthropic 推出生命科学认证计划，三款主力模型纳入统一授权条款",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/31152",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-09-18T06:01:27.988280Z"
+        "scored_at": "2026-09-18T07:03:55.602162Z"
       }
     },
     {
@@ -1265,15 +1266,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7607,
-      "importance": 0.7607,
-      "importance_score": 0.7607,
+      "score": 0.7585,
+      "importance": 0.7585,
+      "importance_score": 0.7585,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.78,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8616,
+        "recency": 0.8492,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1299,7 +1300,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-18T06:01:27.988280Z"
+        "scored_at": "2026-09-18T07:03:55.602162Z"
       }
     },
     {
@@ -1347,15 +1348,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8125,
-      "importance": 0.8125,
-      "importance_score": 0.8125,
+      "score": 0.8103,
+      "importance": 0.8103,
+      "importance_score": 0.8103,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.8249,
+        "recency": 0.813,
         "story_heat": 0.0
       },
       "category": "official",
@@ -1382,7 +1383,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-18T06:01:27.988280Z"
+        "scored_at": "2026-09-18T07:03:55.602162Z"
       }
     },
     {
@@ -1430,15 +1431,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7462,
-      "importance": 0.7462,
-      "importance_score": 0.7462,
+      "score": 0.7439,
+      "importance": 0.7439,
+      "importance_score": 0.7439,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.7,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9146,
+        "recency": 0.9015,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1463,7 +1464,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-18T06:01:27.988280Z"
+        "scored_at": "2026-09-18T07:03:55.602162Z"
       }
     },
     {
@@ -1511,15 +1512,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7457,
-      "importance": 0.7457,
-      "importance_score": 0.7457,
+      "score": 0.7435,
+      "importance": 0.7435,
+      "importance_score": 0.7435,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8785,
+        "recency": 0.8659,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1544,7 +1545,89 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-18T06:01:27.988280Z"
+        "scored_at": "2026-09-18T07:03:55.602162Z"
+      }
+    },
+    {
+      "story_id": "story_b00eb30b3d83",
+      "title": "吴恩达回应AI末日论:别被科幻叙事带偏，应解决现实工程问题",
+      "url": "https://www.aibase.com/news/31161",
+      "primary_url": "https://www.aibase.com/news/31161",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "446717692a1338c65b22199bf6c9a9f3f57522ad",
+          "title": "吴恩达回应AI末日论:别被科幻叙事带偏，应解决现实工程问题",
+          "title_zh": "吴恩达回应AI末日论:别被科幻叙事带偏，应解决现实工程问题",
+          "title_en": null,
+          "title_original": "吴恩达回应AI末日论:别被科幻叙事带偏，应解决现实工程问题",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/31161",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-09-18T06:47:24.292751Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "446717692a1338c65b22199bf6c9a9f3f57522ad",
+          "title": "吴恩达回应AI末日论:别被科幻叙事带偏，应解决现实工程问题",
+          "title_zh": "吴恩达回应AI末日论:别被科幻叙事带偏，应解决现实工程问题",
+          "title_en": null,
+          "title_original": "吴恩达回应AI末日论:别被科幻叙事带偏，应解决现实工程问题",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/31161",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-09-18T06:47:24.292751Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7676,
+      "importance": 0.7676,
+      "importance_score": 0.7676,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-18T06:47:24.292751Z",
+      "latest_at": "2026-09-18T06:47:24.292751Z",
+      "primary_item": {
+        "id": "446717692a1338c65b22199bf6c9a9f3f57522ad",
+        "title": "吴恩达回应AI末日论:别被科幻叙事带偏，应解决现实工程问题",
+        "title_zh": "吴恩达回应AI末日论:别被科幻叙事带偏，应解决现实工程问题",
+        "title_en": null,
+        "title_original": "吴恩达回应AI末日论:别被科幻叙事带偏，应解决现实工程问题",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://www.aibase.com/news/31161",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-09-18T07:03:55.602162Z"
       }
     },
     {
@@ -1592,15 +1675,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7692,
-      "importance": 0.7692,
-      "importance_score": 0.7692,
+      "score": 0.7669,
+      "importance": 0.7669,
+      "importance_score": 0.7669,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.8,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8754,
+        "recency": 0.8628,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1626,7 +1709,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-18T06:01:27.988280Z"
+        "scored_at": "2026-09-18T07:03:55.602162Z"
       }
     },
     {
@@ -1674,15 +1757,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7385,
-      "importance": 0.7385,
-      "importance_score": 0.7385,
+      "score": 0.7361,
+      "importance": 0.7361,
+      "importance_score": 0.7361,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.67,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9216,
+        "recency": 0.9083,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1707,88 +1790,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-18T06:01:27.988280Z"
-      }
-    },
-    {
-      "story_id": "story_8e56c52e2093",
-      "title": "Anthropic 用 Claude 优化 30 多个开源生物分子模型，平均提速约 4 倍并开源全部代码 / How Claude is uplifting biomolecular modeling",
-      "url": "https://www.anthropic.com/research/claude-uplifts-biomolecular-modeling",
-      "primary_url": "https://www.anthropic.com/research/claude-uplifts-biomolecular-modeling",
-      "source": "Anthropic：Research（发表成果 · 网页）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "85b1d750ee667e6121c9b6cc95f26edb10480315",
-          "title": "Anthropic 用 Claude 优化 30 多个开源生物分子模型，平均提速约 4 倍并开源全部代码 / How Claude is uplifting biomolecular modeling",
-          "title_zh": "Anthropic 用 Claude 优化 30 多个开源生物分子模型，平均提速约 4 倍并开源全部代码",
-          "title_en": "How Claude is uplifting biomolecular modeling",
-          "title_original": "How Claude is uplifting biomolecular modeling",
-          "summary": "Anthropic 发布研究，让 Claude 在不到四周内优化了 30 多个开源生物分子模型，平均提速约 4 倍，输出完全一致时约 2 倍。",
-          "recommend_reason_zh": null,
-          "url": "https://www.anthropic.com/research/claude-uplifts-biomolecular-modeling",
-          "source": "Anthropic：Research（发表成果 · 网页）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-17T19:49:41.095000Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Anthropic：Research（发表成果 · 网页）"
-      ],
-      "items": [
-        {
-          "id": "85b1d750ee667e6121c9b6cc95f26edb10480315",
-          "title": "Anthropic 用 Claude 优化 30 多个开源生物分子模型，平均提速约 4 倍并开源全部代码 / How Claude is uplifting biomolecular modeling",
-          "title_zh": "Anthropic 用 Claude 优化 30 多个开源生物分子模型，平均提速约 4 倍并开源全部代码",
-          "title_en": "How Claude is uplifting biomolecular modeling",
-          "title_original": "How Claude is uplifting biomolecular modeling",
-          "summary": "Anthropic 发布研究，让 Claude 在不到四周内优化了 30 多个开源生物分子模型，平均提速约 4 倍，输出完全一致时约 2 倍。",
-          "recommend_reason_zh": null,
-          "url": "https://www.anthropic.com/research/claude-uplifts-biomolecular-modeling",
-          "source": "Anthropic：Research（发表成果 · 网页）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-17T19:49:41.095000Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7375,
-      "importance": 0.7375,
-      "importance_score": 0.7375,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.7,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.866,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-09-17T19:49:41.095000Z",
-      "latest_at": "2026-09-17T19:49:41.095000Z",
-      "primary_item": {
-        "id": "85b1d750ee667e6121c9b6cc95f26edb10480315",
-        "title": "Anthropic 用 Claude 优化 30 多个开源生物分子模型，平均提速约 4 倍并开源全部代码 / How Claude is uplifting biomolecular modeling",
-        "title_zh": "Anthropic 用 Claude 优化 30 多个开源生物分子模型，平均提速约 4 倍并开源全部代码",
-        "title_en": "How Claude is uplifting biomolecular modeling",
-        "title_original": "How Claude is uplifting biomolecular modeling",
-        "summary": "Anthropic 发布研究，让 Claude 在不到四周内优化了 30 多个开源生物分子模型，平均提速约 4 倍，输出完全一致时约 2 倍。",
-        "recommend_reason_zh": null,
-        "url": "https://www.anthropic.com/research/claude-uplifts-biomolecular-modeling",
-        "source": "Anthropic：Research（发表成果 · 网页）",
-        "source_name": "AI HOT"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-09-18T06:01:27.988280Z"
+        "scored_at": "2026-09-18T07:03:55.602162Z"
       }
     }
   ]
