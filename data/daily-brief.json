@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-09-19T18:47:15.934755Z",
+  "generated_at": "2026-09-19T19:47:16.248728Z",
   "window_hours": 24,
-  "total_items": 20,
+  "total_items": 19,
   "items": [
     {
       "story_id": "story_8b8113a300b2",
@@ -48,15 +48,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8021,
-      "importance": 0.8021,
-      "importance_score": 0.8021,
+      "score": 0.8002,
+      "importance": 0.8002,
+      "importance_score": 0.8002,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.7226,
+        "recency": 0.7122,
         "story_heat": 0.0
       },
       "category": "official",
@@ -83,90 +83,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-19T18:49:50.807856Z"
-      }
-    },
-    {
-      "story_id": "story_37ed024ed43e",
-      "title": "GitHub Copilot 每周发布 — 9 月 14 日 / GitHub Copilot weekly releases — September 14",
-      "url": "https://github.blog/changelog/2026-09-18-github-copilot-weekly-releases-september-14",
-      "primary_url": "https://github.blog/changelog/2026-09-18-github-copilot-weekly-releases-september-14",
-      "source": "GitHub Changelog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "ec3c44c58e68216dee4e22ab0b584c55825e5eec",
-          "title": "GitHub Copilot 每周发布 — 9 月 14 日 / GitHub Copilot weekly releases — September 14",
-          "title_zh": "GitHub Copilot 每周发布 — 9 月 14 日",
-          "title_en": "GitHub Copilot weekly releases — September 14",
-          "title_original": "GitHub Copilot weekly releases — September 14",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-09-18-github-copilot-weekly-releases-september-14",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-09-18T19:21:22Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "GitHub Changelog"
-      ],
-      "items": [
-        {
-          "id": "ec3c44c58e68216dee4e22ab0b584c55825e5eec",
-          "title": "GitHub Copilot 每周发布 — 9 月 14 日 / GitHub Copilot weekly releases — September 14",
-          "title_zh": "GitHub Copilot 每周发布 — 9 月 14 日",
-          "title_en": "GitHub Copilot weekly releases — September 14",
-          "title_original": "GitHub Copilot weekly releases — September 14",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-09-18-github-copilot-weekly-releases-september-14",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-09-18T19:21:22Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8003,
-      "importance": 0.8003,
-      "importance_score": 0.8003,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.91,
-        "recency": 0.7129,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-18T19:21:22Z",
-      "latest_at": "2026-09-18T19:21:22Z",
-      "primary_item": {
-        "id": "ec3c44c58e68216dee4e22ab0b584c55825e5eec",
-        "title": "GitHub Copilot 每周发布 — 9 月 14 日 / GitHub Copilot weekly releases — September 14",
-        "title_zh": "GitHub Copilot 每周发布 — 9 月 14 日",
-        "title_en": "GitHub Copilot weekly releases — September 14",
-        "title_original": "GitHub Copilot weekly releases — September 14",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://github.blog/changelog/2026-09-18-github-copilot-weekly-releases-september-14",
-        "source": "GitHub Changelog",
-        "source_name": "Official AI Updates"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-09-19T18:49:50.807856Z"
+        "scored_at": "2026-09-19T19:47:53.936034Z"
       }
     },
     {
@@ -214,15 +131,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7669,
-      "importance": 0.7669,
-      "importance_score": 0.7669,
+      "score": 0.7648,
+      "importance": 0.7648,
+      "importance_score": 0.7648,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.82,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8294,
+        "recency": 0.8175,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -248,7 +165,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-19T18:49:50.807856Z"
+        "scored_at": "2026-09-19T19:47:53.936034Z"
       }
     },
     {
@@ -296,21 +213,20 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7502,
-      "importance": 0.7502,
-      "importance_score": 0.7502,
+      "score": 0.7483,
+      "importance": 0.7483,
+      "importance_score": 0.7483,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.81,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7535,
+        "recency": 0.7427,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-09-18T23:11:25Z",
       "latest_at": "2026-09-18T23:11:25Z",
@@ -330,90 +246,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-19T18:49:50.807856Z"
-      }
-    },
-    {
-      "story_id": "story_a5ec63464b54",
-      "title": "即将于 10 月中旬弃用选定的 GitHub Copilot 模型 / Upcoming deprecation of selected GitHub Copilot models in mid-October",
-      "url": "https://github.blog/changelog/2026-09-18-upcoming-deprecation-of-selected-github-copilot-models-in-mid-october",
-      "primary_url": "https://github.blog/changelog/2026-09-18-upcoming-deprecation-of-selected-github-copilot-models-in-mid-october",
-      "source": "GitHub Changelog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "b28e613f42e6d56c649fe568cfbf61decfe346dc",
-          "title": "即将于 10 月中旬弃用选定的 GitHub Copilot 模型 / Upcoming deprecation of selected GitHub Copilot models in mid-October",
-          "title_zh": "即将于 10 月中旬弃用选定的 GitHub Copilot 模型",
-          "title_en": "Upcoming deprecation of selected GitHub Copilot models in mid-October",
-          "title_original": "Upcoming deprecation of selected GitHub Copilot models in mid-October",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-09-18-upcoming-deprecation-of-selected-github-copilot-models-in-mid-october",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-09-18T19:00:00Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "GitHub Changelog"
-      ],
-      "items": [
-        {
-          "id": "b28e613f42e6d56c649fe568cfbf61decfe346dc",
-          "title": "即将于 10 月中旬弃用选定的 GitHub Copilot 模型 / Upcoming deprecation of selected GitHub Copilot models in mid-October",
-          "title_zh": "即将于 10 月中旬弃用选定的 GitHub Copilot 模型",
-          "title_en": "Upcoming deprecation of selected GitHub Copilot models in mid-October",
-          "title_original": "Upcoming deprecation of selected GitHub Copilot models in mid-October",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-09-18-upcoming-deprecation-of-selected-github-copilot-models-in-mid-october",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-09-18T19:00:00Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7997,
-      "importance": 0.7997,
-      "importance_score": 0.7997,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.91,
-        "recency": 0.7093,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-18T19:00:00Z",
-      "latest_at": "2026-09-18T19:00:00Z",
-      "primary_item": {
-        "id": "b28e613f42e6d56c649fe568cfbf61decfe346dc",
-        "title": "即将于 10 月中旬弃用选定的 GitHub Copilot 模型 / Upcoming deprecation of selected GitHub Copilot models in mid-October",
-        "title_zh": "即将于 10 月中旬弃用选定的 GitHub Copilot 模型",
-        "title_en": "Upcoming deprecation of selected GitHub Copilot models in mid-October",
-        "title_original": "Upcoming deprecation of selected GitHub Copilot models in mid-October",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://github.blog/changelog/2026-09-18-upcoming-deprecation-of-selected-github-copilot-models-in-mid-october",
-        "source": "GitHub Changelog",
-        "source_name": "Official AI Updates"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-09-19T18:49:50.807856Z"
+        "scored_at": "2026-09-19T19:47:53.936034Z"
       }
     },
     {
@@ -461,15 +294,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7394,
-      "importance": 0.7394,
-      "importance_score": 0.7394,
+      "score": 0.7375,
+      "importance": 0.7375,
+      "importance_score": 0.7375,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.77,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7602,
+        "recency": 0.7493,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -494,7 +327,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-19T18:49:50.807856Z"
+        "scored_at": "2026-09-19T19:47:53.936034Z"
       }
     },
     {
@@ -542,15 +375,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7332,
-      "importance": 0.7332,
-      "importance_score": 0.7332,
+      "score": 0.7313,
+      "importance": 0.7313,
+      "importance_score": 0.7313,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.61,
         "source_tier": 1.0,
         "ai_relevance": 1.0,
-        "recency": 0.7234,
+        "recency": 0.713,
         "story_heat": 0.0
       },
       "category": "official",
@@ -575,7 +408,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-19T18:49:50.807856Z"
+        "scored_at": "2026-09-19T19:47:53.936034Z"
       }
     },
     {
@@ -623,15 +456,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7401,
-      "importance": 0.7401,
-      "importance_score": 0.7401,
+      "score": 0.7381,
+      "importance": 0.7381,
+      "importance_score": 0.7381,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.77,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7637,
+        "recency": 0.7527,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -656,90 +489,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-19T18:49:50.807856Z"
-      }
-    },
-    {
-      "story_id": "story_48ff8a06680b",
-      "title": "使用 REST API 管理代码覆盖率规则集条件 / Manage the code coverage ruleset condition with the REST API",
-      "url": "https://github.blog/changelog/2026-09-18-manage-the-code-coverage-ruleset-condition-with-the-rest-api",
-      "primary_url": "https://github.blog/changelog/2026-09-18-manage-the-code-coverage-ruleset-condition-with-the-rest-api",
-      "source": "GitHub Changelog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "0e0bc04cd9cd03b5af328fbe166ef9fb9829f616",
-          "title": "使用 REST API 管理代码覆盖率规则集条件 / Manage the code coverage ruleset condition with the REST API",
-          "title_zh": "使用 REST API 管理代码覆盖率规则集条件",
-          "title_en": "Manage the code coverage ruleset condition with the REST API",
-          "title_original": "Manage the code coverage ruleset condition with the REST API",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-09-18-manage-the-code-coverage-ruleset-condition-with-the-rest-api",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-09-18T19:23:49Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "GitHub Changelog"
-      ],
-      "items": [
-        {
-          "id": "0e0bc04cd9cd03b5af328fbe166ef9fb9829f616",
-          "title": "使用 REST API 管理代码覆盖率规则集条件 / Manage the code coverage ruleset condition with the REST API",
-          "title_zh": "使用 REST API 管理代码覆盖率规则集条件",
-          "title_en": "Manage the code coverage ruleset condition with the REST API",
-          "title_original": "Manage the code coverage ruleset condition with the REST API",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-09-18-manage-the-code-coverage-ruleset-condition-with-the-rest-api",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-09-18T19:23:49Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7924,
-      "importance": 0.7924,
-      "importance_score": 0.7924,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.87,
-        "recency": 0.7134,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-18T19:23:49Z",
-      "latest_at": "2026-09-18T19:23:49Z",
-      "primary_item": {
-        "id": "0e0bc04cd9cd03b5af328fbe166ef9fb9829f616",
-        "title": "使用 REST API 管理代码覆盖率规则集条件 / Manage the code coverage ruleset condition with the REST API",
-        "title_zh": "使用 REST API 管理代码覆盖率规则集条件",
-        "title_en": "Manage the code coverage ruleset condition with the REST API",
-        "title_original": "Manage the code coverage ruleset condition with the REST API",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://github.blog/changelog/2026-09-18-manage-the-code-coverage-ruleset-condition-with-the-rest-api",
-        "source": "GitHub Changelog",
-        "source_name": "Official AI Updates"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-09-19T18:49:50.807856Z"
+        "scored_at": "2026-09-19T19:47:53.936034Z"
       }
     },
     {
@@ -787,15 +537,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7353,
-      "importance": 0.7353,
-      "importance_score": 0.7353,
+      "score": 0.7333,
+      "importance": 0.7333,
+      "importance_score": 0.7333,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.76,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7538,
+        "recency": 0.743,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -820,7 +570,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-19T18:49:50.807856Z"
+        "scored_at": "2026-09-19T19:47:53.936034Z"
       }
     },
     {
@@ -955,15 +705,15 @@
       ],
       "item_count": 4,
       "duplicate_count": 4,
-      "score": 0.6175,
-      "importance": 0.6175,
-      "importance_score": 0.6175,
+      "score": 0.6156,
+      "importance": 0.6156,
+      "importance_score": 0.6156,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.5112,
         "source_tier": 0.5,
         "ai_relevance": 0.71,
-        "recency": 0.762,
+        "recency": 0.7511,
         "story_heat": 0.75
       },
       "category": "multi_source",
@@ -988,146 +738,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-19T18:49:50.807856Z"
-      }
-    },
-    {
-      "story_id": "story_2b554203cccf",
-      "title": "“缓存到缓存”：大型语言模型之间的直接语义通信（2025）",
-      "url": "https://arxiv.org/abs/2510.03215",
-      "primary_url": "https://arxiv.org/abs/2510.03215",
-      "source": "arxiv.org",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "bce22ff233fca9928ce398ec1826efb0e82691c7",
-          "title": "“缓存到缓存”：大型语言模型之间的直接语义通信（2025）",
-          "title_zh": "“缓存到缓存”：大型语言模型之间的直接语义通信（2025）",
-          "title_en": null,
-          "title_original": "“缓存到缓存”：大型语言模型之间的直接语义通信（2025）",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://arxiv.org/abs/2510.03215",
-          "source": "arxiv.org",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-09-19T14:50:14.125000Z"
-        },
-        {
-          "id": "1ed4eb4991ae95573a9b70b981d3f0821b188e2b",
-          "title": "“缓存到缓存”：大型语言模型之间的直接语义通信（2025） / Cache-to-Cache: Direct Semantic Communication Between LLMs (2025)",
-          "title_zh": "“缓存到缓存”：大型语言模型之间的直接语义通信（2025）",
-          "title_en": "Cache-to-Cache: Direct Semantic Communication Between LLMs (2025)",
-          "title_original": "Cache-to-Cache: Direct Semantic Communication Between LLMs (2025)",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://arxiv.org/abs/2510.03215",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-09-18T18:55:35Z"
-        },
-        {
-          "id": "17b8fe3990771916d9ff0736b5edb6b45b5581d0",
-          "title": "缓存到缓存：LLM 之间的直接语义通信 (2025) / Cache-to-Cache: Direct Semantic Communication Between LLMs (2025)",
-          "title_zh": "缓存到缓存：LLM 之间的直接语义通信 (2025)",
-          "title_en": "Cache-to-Cache: Direct Semantic Communication Between LLMs (2025)",
-          "title_original": "Cache-to-Cache: Direct Semantic Communication Between LLMs (2025)",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=49758615",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-09-18T18:55:35Z"
-        }
-      ],
-      "source_count": 3,
-      "source_names": [
-        "Hacker News · 24h最热",
-        "arxiv.org",
-        "hackernews"
-      ],
-      "items": [
-        {
-          "id": "bce22ff233fca9928ce398ec1826efb0e82691c7",
-          "title": "“缓存到缓存”：大型语言模型之间的直接语义通信（2025）",
-          "title_zh": "“缓存到缓存”：大型语言模型之间的直接语义通信（2025）",
-          "title_en": null,
-          "title_original": "“缓存到缓存”：大型语言模型之间的直接语义通信（2025）",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://arxiv.org/abs/2510.03215",
-          "source": "arxiv.org",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-09-19T14:50:14.125000Z"
-        },
-        {
-          "id": "1ed4eb4991ae95573a9b70b981d3f0821b188e2b",
-          "title": "“缓存到缓存”：大型语言模型之间的直接语义通信（2025） / Cache-to-Cache: Direct Semantic Communication Between LLMs (2025)",
-          "title_zh": "“缓存到缓存”：大型语言模型之间的直接语义通信（2025）",
-          "title_en": "Cache-to-Cache: Direct Semantic Communication Between LLMs (2025)",
-          "title_original": "Cache-to-Cache: Direct Semantic Communication Between LLMs (2025)",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://arxiv.org/abs/2510.03215",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-09-18T18:55:35Z"
-        },
-        {
-          "id": "17b8fe3990771916d9ff0736b5edb6b45b5581d0",
-          "title": "缓存到缓存：LLM 之间的直接语义通信 (2025) / Cache-to-Cache: Direct Semantic Communication Between LLMs (2025)",
-          "title_zh": "缓存到缓存：LLM 之间的直接语义通信 (2025)",
-          "title_en": "Cache-to-Cache: Direct Semantic Communication Between LLMs (2025)",
-          "title_original": "Cache-to-Cache: Direct Semantic Communication Between LLMs (2025)",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=49758615",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-09-18T18:55:35Z"
-        }
-      ],
-      "item_count": 3,
-      "duplicate_count": 3,
-      "score": 0.5608,
-      "importance": 0.5608,
-      "importance_score": 0.5608,
-      "importance_label": "多源热议",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.9445,
-        "story_heat": 0.5
-      },
-      "category": "multi_source",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-09-18T18:55:35Z",
-      "latest_at": "2026-09-19T14:50:14.125000Z",
-      "primary_item": {
-        "id": "bce22ff233fca9928ce398ec1826efb0e82691c7",
-        "title": "“缓存到缓存”：大型语言模型之间的直接语义通信（2025）",
-        "title_zh": "“缓存到缓存”：大型语言模型之间的直接语义通信（2025）",
-        "title_en": null,
-        "title_original": "“缓存到缓存”：大型语言模型之间的直接语义通信（2025）",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://arxiv.org/abs/2510.03215",
-        "source": "arxiv.org",
-        "source_name": "Buzzing"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-09-19T18:49:50.807856Z"
+        "scored_at": "2026-09-19T19:47:53.936034Z"
       }
     },
     {
@@ -1233,15 +844,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5514,
-      "importance": 0.5514,
-      "importance_score": 0.5514,
+      "score": 0.5491,
+      "importance": 0.5491,
+      "importance_score": 0.5491,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8922,
+        "recency": 0.8794,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1266,7 +877,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-19T18:49:50.807856Z"
+        "scored_at": "2026-09-19T19:47:53.936034Z"
       }
     },
     {
@@ -1372,15 +983,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5484,
-      "importance": 0.5484,
-      "importance_score": 0.5484,
+      "score": 0.5462,
+      "importance": 0.5462,
+      "importance_score": 0.5462,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8756,
+        "recency": 0.8631,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1405,7 +1016,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-19T18:49:50.807856Z"
+        "scored_at": "2026-09-19T19:47:53.936034Z"
       }
     },
     {
@@ -1511,15 +1122,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5414,
-      "importance": 0.5414,
-      "importance_score": 0.5414,
+      "score": 0.5393,
+      "importance": 0.5393,
+      "importance_score": 0.5393,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8368,
+        "recency": 0.8248,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1544,7 +1155,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-19T18:49:50.807856Z"
+        "scored_at": "2026-09-19T19:47:53.936034Z"
       }
     },
     {
@@ -1650,15 +1261,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5414,
-      "importance": 0.5414,
-      "importance_score": 0.5414,
+      "score": 0.5393,
+      "importance": 0.5393,
+      "importance_score": 0.5393,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8368,
+        "recency": 0.8248,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1683,12 +1294,12 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-19T18:49:50.807856Z"
+        "scored_at": "2026-09-19T19:47:53.936034Z"
       }
     },
     {
       "story_id": "story_dc21f5938fae",
-      "title": "Almost Never Use AI to Write Anything Substantive",
+      "title": "几乎从不使用人工智能来写任何实质性内容 / Almost Never Use AI to Write Anything Substantive",
       "url": "https://erichgrunewald.substack.com/p/why-you-should-almost-never-use-ai",
       "primary_url": "https://erichgrunewald.substack.com/p/why-you-should-almost-never-use-ai",
       "source": "Hacker News (黑客新闻)",
@@ -1696,8 +1307,8 @@
       "sources": [
         {
           "id": "26df2dabd1cd6795edf74842251c445ad9c7c2a7",
-          "title": "Almost Never Use AI to Write Anything Substantive",
-          "title_zh": null,
+          "title": "几乎从不使用人工智能来写任何实质性内容 / Almost Never Use AI to Write Anything Substantive",
+          "title_zh": "几乎从不使用人工智能来写任何实质性内容",
           "title_en": "Almost Never Use AI to Write Anything Substantive",
           "title_original": "Almost Never Use AI to Write Anything Substantive",
           "summary": null,
@@ -1710,8 +1321,8 @@
         },
         {
           "id": "64208bebb47b90cbd92cbffca6ca90c40f961090",
-          "title": "Almost Never Use AI to Write Anything Substantive",
-          "title_zh": null,
+          "title": "几乎从不使用人工智能来写任何实质性内容 / Almost Never Use AI to Write Anything Substantive",
+          "title_zh": "几乎从不使用人工智能来写任何实质性内容",
           "title_en": "Almost Never Use AI to Write Anything Substantive",
           "title_original": "Almost Never Use AI to Write Anything Substantive",
           "summary": null,
@@ -1731,8 +1342,8 @@
       "items": [
         {
           "id": "26df2dabd1cd6795edf74842251c445ad9c7c2a7",
-          "title": "Almost Never Use AI to Write Anything Substantive",
-          "title_zh": null,
+          "title": "几乎从不使用人工智能来写任何实质性内容 / Almost Never Use AI to Write Anything Substantive",
+          "title_zh": "几乎从不使用人工智能来写任何实质性内容",
           "title_en": "Almost Never Use AI to Write Anything Substantive",
           "title_original": "Almost Never Use AI to Write Anything Substantive",
           "summary": null,
@@ -1745,8 +1356,8 @@
         },
         {
           "id": "64208bebb47b90cbd92cbffca6ca90c40f961090",
-          "title": "Almost Never Use AI to Write Anything Substantive",
-          "title_zh": null,
+          "title": "几乎从不使用人工智能来写任何实质性内容 / Almost Never Use AI to Write Anything Substantive",
+          "title_zh": "几乎从不使用人工智能来写任何实质性内容",
           "title_en": "Almost Never Use AI to Write Anything Substantive",
           "title_original": "Almost Never Use AI to Write Anything Substantive",
           "summary": null,
@@ -1760,15 +1371,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5402,
-      "importance": 0.5402,
-      "importance_score": 0.5402,
+      "score": 0.5377,
+      "importance": 0.5377,
+      "importance_score": 0.5377,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9688,
+        "recency": 0.9549,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1779,8 +1390,8 @@
       "latest_at": "2026-09-19T16:35:24Z",
       "primary_item": {
         "id": "26df2dabd1cd6795edf74842251c445ad9c7c2a7",
-        "title": "Almost Never Use AI to Write Anything Substantive",
-        "title_zh": null,
+        "title": "几乎从不使用人工智能来写任何实质性内容 / Almost Never Use AI to Write Anything Substantive",
+        "title_zh": "几乎从不使用人工智能来写任何实质性内容",
         "title_en": "Almost Never Use AI to Write Anything Substantive",
         "title_original": "Almost Never Use AI to Write Anything Substantive",
         "summary": null,
@@ -1793,7 +1404,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-19T18:49:50.807856Z"
+        "scored_at": "2026-09-19T19:47:53.936034Z"
       }
     },
     {
@@ -1870,15 +1481,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5353,
-      "importance": 0.5353,
-      "importance_score": 0.5353,
+      "score": 0.5328,
+      "importance": 0.5328,
+      "importance_score": 0.5328,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9414,
+        "recency": 0.9279,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1903,7 +1514,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-19T18:49:50.807856Z"
+        "scored_at": "2026-09-19T19:47:53.936034Z"
       }
     },
     {
@@ -2009,15 +1620,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5236,
-      "importance": 0.5236,
-      "importance_score": 0.5236,
+      "score": 0.5217,
+      "importance": 0.5217,
+      "importance_score": 0.5217,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7377,
+        "recency": 0.7272,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -2042,7 +1653,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-19T18:49:50.807856Z"
+        "scored_at": "2026-09-19T19:47:53.936034Z"
       }
     },
     {
@@ -2119,15 +1730,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5148,
-      "importance": 0.5148,
-      "importance_score": 0.5148,
+      "score": 0.5127,
+      "importance": 0.5127,
+      "importance_score": 0.5127,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8279,
+        "recency": 0.816,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -2152,7 +1763,337 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-19T18:49:50.807856Z"
+        "scored_at": "2026-09-19T19:47:53.936034Z"
+      }
+    },
+    {
+      "story_id": "story_3d5e0623525a",
+      "title": "埃利亚斯·索恩的案例，人工智能聊天机器人痴迷的想象中的人 / The Case of Elias Thorne, Imaginary Man AI Chatbots Are Obsessed With",
+      "url": "https://www.vice.com/en/article/the-strange-case-of-elias-thorne-the-imaginary-man-ai-chatbots-are-obsessed-with",
+      "primary_url": "https://www.vice.com/en/article/the-strange-case-of-elias-thorne-the-imaginary-man-ai-chatbots-are-obsessed-with",
+      "source": "Hacker News · 24h最热",
+      "source_name": "Zeli",
+      "sources": [
+        {
+          "id": "7348ea2b1fe27b301cbfa8fc2dcc071b225023c8",
+          "title": "埃利亚斯·索恩的案例，人工智能聊天机器人痴迷的想象中的人 / The Case of Elias Thorne, Imaginary Man AI Chatbots Are Obsessed With",
+          "title_zh": "埃利亚斯·索恩的案例，人工智能聊天机器人痴迷的想象中的人",
+          "title_en": "The Case of Elias Thorne, Imaginary Man AI Chatbots Are Obsessed With",
+          "title_original": "The Case of Elias Thorne, Imaginary Man AI Chatbots Are Obsessed With",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.vice.com/en/article/the-strange-case-of-elias-thorne-the-imaginary-man-ai-chatbots-are-obsessed-with",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-09-19T07:13:10Z"
+        },
+        {
+          "id": "dbce1e1c01051bf7f043b65bb88c1656f0850b99",
+          "title": "埃利亚斯·索恩的案例，人工智能聊天机器人痴迷的想象中的人 / The Case of Elias Thorne, Imaginary Man AI Chatbots Are Obsessed With",
+          "title_zh": "埃利亚斯·索恩的案例，人工智能聊天机器人痴迷的想象中的人",
+          "title_en": "The Case of Elias Thorne, Imaginary Man AI Chatbots Are Obsessed With",
+          "title_original": "The Case of Elias Thorne, Imaginary Man AI Chatbots Are Obsessed With",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=49764141",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-09-19T07:13:10Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News · 24h最热",
+        "hackernews"
+      ],
+      "items": [
+        {
+          "id": "7348ea2b1fe27b301cbfa8fc2dcc071b225023c8",
+          "title": "埃利亚斯·索恩的案例，人工智能聊天机器人痴迷的想象中的人 / The Case of Elias Thorne, Imaginary Man AI Chatbots Are Obsessed With",
+          "title_zh": "埃利亚斯·索恩的案例，人工智能聊天机器人痴迷的想象中的人",
+          "title_en": "The Case of Elias Thorne, Imaginary Man AI Chatbots Are Obsessed With",
+          "title_original": "The Case of Elias Thorne, Imaginary Man AI Chatbots Are Obsessed With",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.vice.com/en/article/the-strange-case-of-elias-thorne-the-imaginary-man-ai-chatbots-are-obsessed-with",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-09-19T07:13:10Z"
+        },
+        {
+          "id": "dbce1e1c01051bf7f043b65bb88c1656f0850b99",
+          "title": "埃利亚斯·索恩的案例，人工智能聊天机器人痴迷的想象中的人 / The Case of Elias Thorne, Imaginary Man AI Chatbots Are Obsessed With",
+          "title_zh": "埃利亚斯·索恩的案例，人工智能聊天机器人痴迷的想象中的人",
+          "title_en": "The Case of Elias Thorne, Imaginary Man AI Chatbots Are Obsessed With",
+          "title_original": "The Case of Elias Thorne, Imaginary Man AI Chatbots Are Obsessed With",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=49764141",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-09-19T07:13:10Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5159,
+      "importance": 0.5159,
+      "importance_score": 0.5159,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.834,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-09-19T07:13:10Z",
+      "latest_at": "2026-09-19T07:13:10Z",
+      "primary_item": {
+        "id": "7348ea2b1fe27b301cbfa8fc2dcc071b225023c8",
+        "title": "埃利亚斯·索恩的案例，人工智能聊天机器人痴迷的想象中的人 / The Case of Elias Thorne, Imaginary Man AI Chatbots Are Obsessed With",
+        "title_zh": "埃利亚斯·索恩的案例，人工智能聊天机器人痴迷的想象中的人",
+        "title_en": "The Case of Elias Thorne, Imaginary Man AI Chatbots Are Obsessed With",
+        "title_original": "The Case of Elias Thorne, Imaginary Man AI Chatbots Are Obsessed With",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://www.vice.com/en/article/the-strange-case-of-elias-thorne-the-imaginary-man-ai-chatbots-are-obsessed-with",
+        "source": "Hacker News · 24h最热",
+        "source_name": "Zeli"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-09-19T19:47:53.936034Z"
+      }
+    },
+    {
+      "story_id": "story_a1a7ab465c4b",
+      "title": "谷歌Gemini AI在安全测试中入侵了三家公司 / Google's Gemini AI hacked three companies in security test",
+      "url": "https://www.bbc.co.uk/news/articles/c607l0k72rlvo",
+      "primary_url": "https://www.bbc.co.uk/news/articles/c607l0k72rlvo",
+      "source": "Hacker News · 24h最热",
+      "source_name": "Zeli",
+      "sources": [
+        {
+          "id": "02a77b856526ddf769de7bb3a56d4e7ff33fe7fe",
+          "title": "谷歌Gemini AI在安全测试中入侵了三家公司 / Google's Gemini AI hacked three companies in security test",
+          "title_zh": "谷歌Gemini AI在安全测试中入侵了三家公司",
+          "title_en": "Google's Gemini AI hacked three companies in security test",
+          "title_original": "Google's Gemini AI hacked three companies in security test",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.bbc.co.uk/news/articles/c607l0k72rlvo",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-09-19T06:09:23Z"
+        },
+        {
+          "id": "9bd7371c70addd76ddfa999e87bd0eb688774983",
+          "title": "谷歌Gemini AI在安全测试中入侵了三家公司 / Google's Gemini AI hacked three companies in security test",
+          "title_zh": "谷歌Gemini AI在安全测试中入侵了三家公司",
+          "title_en": "Google's Gemini AI hacked three companies in security test",
+          "title_original": "Google's Gemini AI hacked three companies in security test",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.bbc.co.uk/news/articles/c607l0k72rlvo?at_medium=RSS&at_campaign=rss",
+          "source": "BBC News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-09-19T04:27:11Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "BBC News",
+        "Hacker News · 24h最热"
+      ],
+      "items": [
+        {
+          "id": "02a77b856526ddf769de7bb3a56d4e7ff33fe7fe",
+          "title": "谷歌Gemini AI在安全测试中入侵了三家公司 / Google's Gemini AI hacked three companies in security test",
+          "title_zh": "谷歌Gemini AI在安全测试中入侵了三家公司",
+          "title_en": "Google's Gemini AI hacked three companies in security test",
+          "title_original": "Google's Gemini AI hacked three companies in security test",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.bbc.co.uk/news/articles/c607l0k72rlvo",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-09-19T06:09:23Z"
+        },
+        {
+          "id": "9bd7371c70addd76ddfa999e87bd0eb688774983",
+          "title": "谷歌Gemini AI在安全测试中入侵了三家公司 / Google's Gemini AI hacked three companies in security test",
+          "title_zh": "谷歌Gemini AI在安全测试中入侵了三家公司",
+          "title_en": "Google's Gemini AI hacked three companies in security test",
+          "title_original": "Google's Gemini AI hacked three companies in security test",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.bbc.co.uk/news/articles/c607l0k72rlvo?at_medium=RSS&at_campaign=rss",
+          "source": "BBC News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-09-19T04:27:11Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5136,
+      "importance": 0.5136,
+      "importance_score": 0.5136,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.8213,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-09-19T04:27:11Z",
+      "latest_at": "2026-09-19T06:09:23Z",
+      "primary_item": {
+        "id": "02a77b856526ddf769de7bb3a56d4e7ff33fe7fe",
+        "title": "谷歌Gemini AI在安全测试中入侵了三家公司 / Google's Gemini AI hacked three companies in security test",
+        "title_zh": "谷歌Gemini AI在安全测试中入侵了三家公司",
+        "title_en": "Google's Gemini AI hacked three companies in security test",
+        "title_original": "Google's Gemini AI hacked three companies in security test",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://www.bbc.co.uk/news/articles/c607l0k72rlvo",
+        "source": "Hacker News · 24h最热",
+        "source_name": "Zeli"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-09-19T19:47:53.936034Z"
+      }
+    },
+    {
+      "story_id": "story_2ea16f4d1f3b",
+      "title": "NASA-IBM 月球基金会开源地理空间 AI 模型 / NASA-IBM Lunar Foundation open-Source Geospatial AI Model",
+      "url": "https://newsroom.usra.edu/usra-contributes-planetary-science-expertise-to-nasa-ibm-lunar-foundation-model",
+      "primary_url": "https://newsroom.usra.edu/usra-contributes-planetary-science-expertise-to-nasa-ibm-lunar-foundation-model",
+      "source": "Hacker News · 24h最热",
+      "source_name": "Zeli",
+      "sources": [
+        {
+          "id": "025e504fa072bd99b6ed0ad519e2603f0a68dfe1",
+          "title": "NASA-IBM 月球基金会开源地理空间 AI 模型 / NASA-IBM Lunar Foundation open-Source Geospatial AI Model",
+          "title_zh": "NASA-IBM 月球基金会开源地理空间 AI 模型",
+          "title_en": "NASA-IBM Lunar Foundation open-Source Geospatial AI Model",
+          "title_original": "NASA-IBM Lunar Foundation open-Source Geospatial AI Model",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://newsroom.usra.edu/usra-contributes-planetary-science-expertise-to-nasa-ibm-lunar-foundation-model",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-09-19T04:44:35Z"
+        },
+        {
+          "id": "bc562f8c0f587041a6cfca21c020379af5d5821a",
+          "title": "NASA-IBM 月球基金会开源地理空间 AI 模型 / NASA-IBM Lunar Foundation open-Source Geospatial AI Model",
+          "title_zh": "NASA-IBM 月球基金会开源地理空间 AI 模型",
+          "title_en": "NASA-IBM Lunar Foundation open-Source Geospatial AI Model",
+          "title_original": "NASA-IBM Lunar Foundation open-Source Geospatial AI Model",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=49763379",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-09-19T04:44:35Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News · 24h最热",
+        "hackernews"
+      ],
+      "items": [
+        {
+          "id": "025e504fa072bd99b6ed0ad519e2603f0a68dfe1",
+          "title": "NASA-IBM 月球基金会开源地理空间 AI 模型 / NASA-IBM Lunar Foundation open-Source Geospatial AI Model",
+          "title_zh": "NASA-IBM 月球基金会开源地理空间 AI 模型",
+          "title_en": "NASA-IBM Lunar Foundation open-Source Geospatial AI Model",
+          "title_original": "NASA-IBM Lunar Foundation open-Source Geospatial AI Model",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://newsroom.usra.edu/usra-contributes-planetary-science-expertise-to-nasa-ibm-lunar-foundation-model",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-09-19T04:44:35Z"
+        },
+        {
+          "id": "bc562f8c0f587041a6cfca21c020379af5d5821a",
+          "title": "NASA-IBM 月球基金会开源地理空间 AI 模型 / NASA-IBM Lunar Foundation open-Source Geospatial AI Model",
+          "title_zh": "NASA-IBM 月球基金会开源地理空间 AI 模型",
+          "title_en": "NASA-IBM Lunar Foundation open-Source Geospatial AI Model",
+          "title_original": "NASA-IBM Lunar Foundation open-Source Geospatial AI Model",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=49763379",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-09-19T04:44:35Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5107,
+      "importance": 0.5107,
+      "importance_score": 0.5107,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.8047,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-09-19T04:44:35Z",
+      "latest_at": "2026-09-19T04:44:35Z",
+      "primary_item": {
+        "id": "025e504fa072bd99b6ed0ad519e2603f0a68dfe1",
+        "title": "NASA-IBM 月球基金会开源地理空间 AI 模型 / NASA-IBM Lunar Foundation open-Source Geospatial AI Model",
+        "title_zh": "NASA-IBM 月球基金会开源地理空间 AI 模型",
+        "title_en": "NASA-IBM Lunar Foundation open-Source Geospatial AI Model",
+        "title_original": "NASA-IBM Lunar Foundation open-Source Geospatial AI Model",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://newsroom.usra.edu/usra-contributes-planetary-science-expertise-to-nasa-ibm-lunar-foundation-model",
+        "source": "Hacker News · 24h最热",
+        "source_name": "Zeli"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-09-19T19:47:53.936034Z"
       }
     }
   ]
