@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-19T15:47:20.981763Z",
+  "generated_at": "2026-09-19T16:47:20.549351Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -106,15 +106,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.81,
-      "importance": 0.81,
-      "importance_score": 0.81,
+      "score": 0.8081,
+      "importance": 0.8081,
+      "importance_score": 0.8081,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.86,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7244,
+        "recency": 0.7141,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -141,7 +141,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-19T16:07:29.013547Z"
+        "scored_at": "2026-09-19T16:48:07.668779Z"
       }
     },
     {
@@ -189,15 +189,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8078,
-      "importance": 0.8078,
-      "importance_score": 0.8078,
+      "score": 0.8059,
+      "importance": 0.8059,
+      "importance_score": 0.8059,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.7546,
+        "recency": 0.7438,
         "story_heat": 0.0
       },
       "category": "official",
@@ -224,7 +224,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-19T16:07:29.013547Z"
+        "scored_at": "2026-09-19T16:48:07.668779Z"
       }
     },
     {
@@ -272,15 +272,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.806,
-      "importance": 0.806,
-      "importance_score": 0.806,
+      "score": 0.8041,
+      "importance": 0.8041,
+      "importance_score": 0.8041,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.7445,
+        "recency": 0.7338,
         "story_heat": 0.0
       },
       "category": "official",
@@ -307,7 +307,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-19T16:07:29.013547Z"
+        "scored_at": "2026-09-19T16:48:07.668779Z"
       }
     },
     {
@@ -355,15 +355,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7735,
-      "importance": 0.7735,
-      "importance_score": 0.7735,
+      "score": 0.7713,
+      "importance": 0.7713,
+      "importance_score": 0.7713,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.82,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8661,
+        "recency": 0.8537,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -389,7 +389,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-19T16:07:29.013547Z"
+        "scored_at": "2026-09-19T16:48:07.668779Z"
       }
     },
     {
@@ -437,15 +437,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7562,
-      "importance": 0.7562,
-      "importance_score": 0.7562,
+      "score": 0.7542,
+      "importance": 0.7542,
+      "importance_score": 0.7542,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.81,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7869,
+        "recency": 0.7756,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -471,88 +471,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-19T16:07:29.013547Z"
-      }
-    },
-    {
-      "story_id": "story_c3b254c98c32",
-      "title": "FT 报道 OpenAI 预计 2030 年前累计现金消耗约 $278B / FT just reported， OpenAI expects its spending to far exceed revenue， even as revenue is forecast to …",
-      "url": "https://x.com/rohanpaul_ai/status/2101095915654463533",
-      "primary_url": "https://x.com/rohanpaul_ai/status/2101095915654463533",
-      "source": "X：Rohan Paul (@rohanpaul_ai)",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "10ba9feaeef2c5b1f3a5777ab0a5e4284ef07b54",
-          "title": "FT 报道 OpenAI 预计 2030 年前累计现金消耗约 $278B / FT just reported， OpenAI expects its spending to far exceed revenue， even as revenue is forecast to …",
-          "title_zh": "FT 报道 OpenAI 预计 2030 年前累计现金消耗约 $278B",
-          "title_en": "FT just reported， OpenAI expects its spending to far exceed revenue， even as revenue is forecast to …",
-          "title_original": "FT just reported， OpenAI expects its spending to far exceed revenue， even as revenue is forecast to …",
-          "summary": "FT 报道，OpenAI 预计支出将远超收入，营收预计从今年的 $36B 增至 2030 年的 $350B。2026 至 2030 年总营收约 $840B，算力支出约 $856B，累计现金消耗约 $278B。",
-          "recommend_reason_zh": null,
-          "url": "https://x.com/rohanpaul_ai/status/2101095915654463533",
-          "source": "X：Rohan Paul (@rohanpaul_ai)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-18T23:47:57Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "X：Rohan Paul (@rohanpaul_ai)"
-      ],
-      "items": [
-        {
-          "id": "10ba9feaeef2c5b1f3a5777ab0a5e4284ef07b54",
-          "title": "FT 报道 OpenAI 预计 2030 年前累计现金消耗约 $278B / FT just reported， OpenAI expects its spending to far exceed revenue， even as revenue is forecast to …",
-          "title_zh": "FT 报道 OpenAI 预计 2030 年前累计现金消耗约 $278B",
-          "title_en": "FT just reported， OpenAI expects its spending to far exceed revenue， even as revenue is forecast to …",
-          "title_original": "FT just reported， OpenAI expects its spending to far exceed revenue， even as revenue is forecast to …",
-          "summary": "FT 报道，OpenAI 预计支出将远超收入，营收预计从今年的 $36B 增至 2030 年的 $350B。2026 至 2030 年总营收约 $840B，算力支出约 $856B，累计现金消耗约 $278B。",
-          "recommend_reason_zh": null,
-          "url": "https://x.com/rohanpaul_ai/status/2101095915654463533",
-          "source": "X：Rohan Paul (@rohanpaul_ai)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-18T23:47:57Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7455,
-      "importance": 0.7455,
-      "importance_score": 0.7455,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.77,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7938,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-09-18T23:47:57Z",
-      "latest_at": "2026-09-18T23:47:57Z",
-      "primary_item": {
-        "id": "10ba9feaeef2c5b1f3a5777ab0a5e4284ef07b54",
-        "title": "FT 报道 OpenAI 预计 2030 年前累计现金消耗约 $278B / FT just reported， OpenAI expects its spending to far exceed revenue， even as revenue is forecast to …",
-        "title_zh": "FT 报道 OpenAI 预计 2030 年前累计现金消耗约 $278B",
-        "title_en": "FT just reported， OpenAI expects its spending to far exceed revenue， even as revenue is forecast to …",
-        "title_original": "FT just reported， OpenAI expects its spending to far exceed revenue， even as revenue is forecast to …",
-        "summary": "FT 报道，OpenAI 预计支出将远超收入，营收预计从今年的 $36B 增至 2030 年的 $350B。2026 至 2030 年总营收约 $840B，算力支出约 $856B，累计现金消耗约 $278B。",
-        "recommend_reason_zh": null,
-        "url": "https://x.com/rohanpaul_ai/status/2101095915654463533",
-        "source": "X：Rohan Paul (@rohanpaul_ai)",
-        "source_name": "AI HOT"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-09-19T16:07:29.013547Z"
+        "scored_at": "2026-09-19T16:48:07.668779Z"
       }
     },
     {
@@ -600,15 +519,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8053,
-      "importance": 0.8053,
-      "importance_score": 0.8053,
+      "score": 0.8034,
+      "importance": 0.8034,
+      "importance_score": 0.8034,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.7407,
+        "recency": 0.73,
         "story_heat": 0.0
       },
       "category": "official",
@@ -635,7 +554,88 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-19T16:07:29.013547Z"
+        "scored_at": "2026-09-19T16:48:07.668779Z"
+      }
+    },
+    {
+      "story_id": "story_c3b254c98c32",
+      "title": "FT 报道 OpenAI 预计 2030 年前累计现金消耗约 $278B / FT just reported， OpenAI expects its spending to far exceed revenue， even as revenue is forecast to …",
+      "url": "https://x.com/rohanpaul_ai/status/2101095915654463533",
+      "primary_url": "https://x.com/rohanpaul_ai/status/2101095915654463533",
+      "source": "X：Rohan Paul (@rohanpaul_ai)",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "10ba9feaeef2c5b1f3a5777ab0a5e4284ef07b54",
+          "title": "FT 报道 OpenAI 预计 2030 年前累计现金消耗约 $278B / FT just reported， OpenAI expects its spending to far exceed revenue， even as revenue is forecast to …",
+          "title_zh": "FT 报道 OpenAI 预计 2030 年前累计现金消耗约 $278B",
+          "title_en": "FT just reported， OpenAI expects its spending to far exceed revenue， even as revenue is forecast to …",
+          "title_original": "FT just reported， OpenAI expects its spending to far exceed revenue， even as revenue is forecast to …",
+          "summary": "FT 报道，OpenAI 预计支出将远超收入，营收预计从今年的 $36B 增至 2030 年的 $350B。2026 至 2030 年总营收约 $840B，算力支出约 $856B，累计现金消耗约 $278B。",
+          "recommend_reason_zh": null,
+          "url": "https://x.com/rohanpaul_ai/status/2101095915654463533",
+          "source": "X：Rohan Paul (@rohanpaul_ai)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-18T23:47:57Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "X：Rohan Paul (@rohanpaul_ai)"
+      ],
+      "items": [
+        {
+          "id": "10ba9feaeef2c5b1f3a5777ab0a5e4284ef07b54",
+          "title": "FT 报道 OpenAI 预计 2030 年前累计现金消耗约 $278B / FT just reported， OpenAI expects its spending to far exceed revenue， even as revenue is forecast to …",
+          "title_zh": "FT 报道 OpenAI 预计 2030 年前累计现金消耗约 $278B",
+          "title_en": "FT just reported， OpenAI expects its spending to far exceed revenue， even as revenue is forecast to …",
+          "title_original": "FT just reported， OpenAI expects its spending to far exceed revenue， even as revenue is forecast to …",
+          "summary": "FT 报道，OpenAI 预计支出将远超收入，营收预计从今年的 $36B 增至 2030 年的 $350B。2026 至 2030 年总营收约 $840B，算力支出约 $856B，累计现金消耗约 $278B。",
+          "recommend_reason_zh": null,
+          "url": "https://x.com/rohanpaul_ai/status/2101095915654463533",
+          "source": "X：Rohan Paul (@rohanpaul_ai)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-18T23:47:57Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7434,
+      "importance": 0.7434,
+      "importance_score": 0.7434,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.77,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.7824,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-09-18T23:47:57Z",
+      "latest_at": "2026-09-18T23:47:57Z",
+      "primary_item": {
+        "id": "10ba9feaeef2c5b1f3a5777ab0a5e4284ef07b54",
+        "title": "FT 报道 OpenAI 预计 2030 年前累计现金消耗约 $278B / FT just reported， OpenAI expects its spending to far exceed revenue， even as revenue is forecast to …",
+        "title_zh": "FT 报道 OpenAI 预计 2030 年前累计现金消耗约 $278B",
+        "title_en": "FT just reported， OpenAI expects its spending to far exceed revenue， even as revenue is forecast to …",
+        "title_original": "FT just reported， OpenAI expects its spending to far exceed revenue， even as revenue is forecast to …",
+        "summary": "FT 报道，OpenAI 预计支出将远超收入，营收预计从今年的 $36B 增至 2030 年的 $350B。2026 至 2030 年总营收约 $840B，算力支出约 $856B，累计现金消耗约 $278B。",
+        "recommend_reason_zh": null,
+        "url": "https://x.com/rohanpaul_ai/status/2101095915654463533",
+        "source": "X：Rohan Paul (@rohanpaul_ai)",
+        "source_name": "AI HOT"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-09-19T16:48:07.668779Z"
       }
     },
     {
@@ -683,15 +683,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.739,
-      "importance": 0.739,
-      "importance_score": 0.739,
+      "score": 0.737,
+      "importance": 0.737,
+      "importance_score": 0.737,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.61,
         "source_tier": 1.0,
         "ai_relevance": 1.0,
-        "recency": 0.7554,
+        "recency": 0.7445,
         "story_heat": 0.0
       },
       "category": "official",
@@ -716,7 +716,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-19T16:07:29.013547Z"
+        "scored_at": "2026-09-19T16:48:07.668779Z"
       }
     },
     {
@@ -764,15 +764,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7461,
-      "importance": 0.7461,
-      "importance_score": 0.7461,
+      "score": 0.7441,
+      "importance": 0.7441,
+      "importance_score": 0.7441,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.77,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7975,
+        "recency": 0.786,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -797,7 +797,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-19T16:07:29.013547Z"
+        "scored_at": "2026-09-19T16:48:07.668779Z"
       }
     },
     {
@@ -845,15 +845,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7981,
-      "importance": 0.7981,
-      "importance_score": 0.7981,
+      "score": 0.7962,
+      "importance": 0.7962,
+      "importance_score": 0.7962,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.7449,
+        "recency": 0.7342,
         "story_heat": 0.0
       },
       "category": "official",
@@ -880,7 +880,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-19T16:07:29.013547Z"
+        "scored_at": "2026-09-19T16:48:07.668779Z"
       }
     },
     {
@@ -928,15 +928,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7413,
-      "importance": 0.7413,
-      "importance_score": 0.7413,
+      "score": 0.7393,
+      "importance": 0.7393,
+      "importance_score": 0.7393,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.76,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7872,
+        "recency": 0.7759,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -961,90 +961,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-19T16:07:29.013547Z"
-      }
-    },
-    {
-      "story_id": "story_38f7cda29bd5",
-      "title": "仅阶段性的 npm 令牌可实现更安全的自动化 / Stage-only npm tokens for safer automation",
-      "url": "https://github.blog/changelog/2026-09-18-stage-only-npm-tokens-for-safer-automation",
-      "primary_url": "https://github.blog/changelog/2026-09-18-stage-only-npm-tokens-for-safer-automation",
-      "source": "GitHub Changelog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "7599c377c5d95e1f6601047e1589787a4435e7db",
-          "title": "仅阶段性的 npm 令牌可实现更安全的自动化 / Stage-only npm tokens for safer automation",
-          "title_zh": "仅阶段性的 npm 令牌可实现更安全的自动化",
-          "title_en": "Stage-only npm tokens for safer automation",
-          "title_original": "Stage-only npm tokens for safer automation",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-09-18-stage-only-npm-tokens-for-safer-automation",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-09-18T16:37:50Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "GitHub Changelog"
-      ],
-      "items": [
-        {
-          "id": "7599c377c5d95e1f6601047e1589787a4435e7db",
-          "title": "仅阶段性的 npm 令牌可实现更安全的自动化 / Stage-only npm tokens for safer automation",
-          "title_zh": "仅阶段性的 npm 令牌可实现更安全的自动化",
-          "title_en": "Stage-only npm tokens for safer automation",
-          "title_original": "Stage-only npm tokens for safer automation",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-09-18-stage-only-npm-tokens-for-safer-automation",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-09-18T16:37:50Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7928,
-      "importance": 0.7928,
-      "importance_score": 0.7928,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.87,
-        "recency": 0.7158,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-18T16:37:50Z",
-      "latest_at": "2026-09-18T16:37:50Z",
-      "primary_item": {
-        "id": "7599c377c5d95e1f6601047e1589787a4435e7db",
-        "title": "仅阶段性的 npm 令牌可实现更安全的自动化 / Stage-only npm tokens for safer automation",
-        "title_zh": "仅阶段性的 npm 令牌可实现更安全的自动化",
-        "title_en": "Stage-only npm tokens for safer automation",
-        "title_original": "Stage-only npm tokens for safer automation",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://github.blog/changelog/2026-09-18-stage-only-npm-tokens-for-safer-automation",
-        "source": "GitHub Changelog",
-        "source_name": "Official AI Updates"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-09-19T16:07:29.013547Z"
+        "scored_at": "2026-09-19T16:48:07.668779Z"
       }
     },
     {
@@ -1070,20 +987,6 @@
           "published_at": "2026-09-18T23:57:57Z"
         },
         {
-          "id": "fe7af3ec9a5686403a56cf669928ce129657af46",
-          "title": "Gemini黑客攻击了三家公司，这是谷歌人工智能首次已知的突破 / Gemini hacked three companies in first known breakout by Google's AI",
-          "title_zh": "Gemini黑客攻击了三家公司，这是谷歌人工智能首次已知的突破",
-          "title_en": "Gemini hacked three companies in first known breakout by Google's AI",
-          "title_original": "Gemini hacked three companies in first known breakout by Google's AI",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.reuters.com/business/gemini-hacked-three-companies-first-known-breakout-by-google-ai-wsj-reports-2026-09-18",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-09-19T01:40:35Z"
-        },
-        {
           "id": "a280facc21fa49604c14ccc513762dee0ee2d2ce",
           "title": "Gemini黑客攻击了三家公司，这是谷歌人工智能首次已知的突破 / Gemini hacked three companies in first known breakout by Google's AI",
           "title_zh": "Gemini黑客攻击了三家公司，这是谷歌人工智能首次已知的突破",
@@ -1126,9 +1029,8 @@
           "published_at": "2026-09-18T22:17:19Z"
         }
       ],
-      "source_count": 5,
+      "source_count": 4,
       "source_names": [
-        "Hacker News",
         "Hacker News · 24h最热",
         "Reddit (热门)",
         "Simon Willison",
@@ -1150,20 +1052,6 @@
           "published_at": "2026-09-18T23:57:57Z"
         },
         {
-          "id": "fe7af3ec9a5686403a56cf669928ce129657af46",
-          "title": "Gemini黑客攻击了三家公司，这是谷歌人工智能首次已知的突破 / Gemini hacked three companies in first known breakout by Google's AI",
-          "title_zh": "Gemini黑客攻击了三家公司，这是谷歌人工智能首次已知的突破",
-          "title_en": "Gemini hacked three companies in first known breakout by Google's AI",
-          "title_original": "Gemini hacked three companies in first known breakout by Google's AI",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.reuters.com/business/gemini-hacked-three-companies-first-known-breakout-by-google-ai-wsj-reports-2026-09-18",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-09-19T01:40:35Z"
-        },
-        {
           "id": "a280facc21fa49604c14ccc513762dee0ee2d2ce",
           "title": "Gemini黑客攻击了三家公司，这是谷歌人工智能首次已知的突破 / Gemini hacked three companies in first known breakout by Google's AI",
           "title_zh": "Gemini黑客攻击了三家公司，这是谷歌人工智能首次已知的突破",
@@ -1206,18 +1094,18 @@
           "published_at": "2026-09-18T22:17:19Z"
         }
       ],
-      "item_count": 5,
-      "duplicate_count": 5,
-      "score": 0.6486,
-      "importance": 0.6486,
-      "importance_score": 0.6486,
+      "item_count": 4,
+      "duplicate_count": 4,
+      "score": 0.6215,
+      "importance": 0.6215,
+      "importance_score": 0.6215,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.5112,
         "source_tier": 0.5,
         "ai_relevance": 0.71,
-        "recency": 0.7957,
-        "story_heat": 1.0
+        "recency": 0.7843,
+        "story_heat": 0.75
       },
       "category": "multi_source",
       "reasons": [
@@ -1241,7 +1129,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-19T16:07:29.013547Z"
+        "scored_at": "2026-09-19T16:48:07.668779Z"
       }
     },
     {
@@ -1347,15 +1235,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5683,
-      "importance": 0.5683,
-      "importance_score": 0.5683,
+      "score": 0.5658,
+      "importance": 0.5658,
+      "importance_score": 0.5658,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9863,
+        "recency": 0.9722,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1380,7 +1268,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-19T16:07:29.013547Z"
+        "scored_at": "2026-09-19T16:48:07.668779Z"
       }
     },
     {
@@ -1421,8 +1309,8 @@
         },
         {
           "id": "24115e2a33f7a19dc6579e0345a834bb38582241",
-          "title": "AI-generated posters don’t have to be horrible",
-          "title_zh": null,
+          "title": "人工智能生成的海报不一定很可怕 / AI-generated posters don’t have to be horrible",
+          "title_zh": "人工智能生成的海报不一定很可怕",
           "title_en": "AI-generated posters don’t have to be horrible",
           "title_original": "AI-generated posters don’t have to be horrible",
           "summary": null,
@@ -1471,8 +1359,8 @@
         },
         {
           "id": "24115e2a33f7a19dc6579e0345a834bb38582241",
-          "title": "AI-generated posters don’t have to be horrible",
-          "title_zh": null,
+          "title": "人工智能生成的海报不一定很可怕 / AI-generated posters don’t have to be horrible",
+          "title_zh": "人工智能生成的海报不一定很可怕",
           "title_en": "AI-generated posters don’t have to be horrible",
           "title_original": "AI-generated posters don’t have to be horrible",
           "summary": null,
@@ -1486,15 +1374,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5585,
-      "importance": 0.5585,
-      "importance_score": 0.5585,
+      "score": 0.5561,
+      "importance": 0.5561,
+      "importance_score": 0.5561,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9317,
+        "recency": 0.9183,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1519,7 +1407,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-19T16:07:29.013547Z"
+        "scored_at": "2026-09-19T16:48:07.668779Z"
       }
     },
     {
@@ -1625,15 +1513,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5554,
-      "importance": 0.5554,
-      "importance_score": 0.5554,
+      "score": 0.553,
+      "importance": 0.553,
+      "importance_score": 0.553,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9144,
+        "recency": 0.9013,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1658,7 +1546,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-19T16:07:29.013547Z"
+        "scored_at": "2026-09-19T16:48:07.668779Z"
       }
     },
     {
@@ -1764,15 +1652,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5481,
-      "importance": 0.5481,
-      "importance_score": 0.5481,
+      "score": 0.5458,
+      "importance": 0.5458,
+      "importance_score": 0.5458,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8739,
+        "recency": 0.8613,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1797,7 +1685,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-19T16:07:29.013547Z"
+        "scored_at": "2026-09-19T16:48:07.668779Z"
       }
     },
     {
@@ -1903,15 +1791,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5481,
-      "importance": 0.5481,
-      "importance_score": 0.5481,
+      "score": 0.5458,
+      "importance": 0.5458,
+      "importance_score": 0.5458,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8739,
+        "recency": 0.8613,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1936,7 +1824,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-19T16:07:29.013547Z"
+        "scored_at": "2026-09-19T16:48:07.668779Z"
       }
     },
     {
@@ -2013,15 +1901,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5428,
-      "importance": 0.5428,
-      "importance_score": 0.5428,
+      "score": 0.5402,
+      "importance": 0.5402,
+      "importance_score": 0.5402,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9831,
+        "recency": 0.969,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -2046,7 +1934,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-19T16:07:29.013547Z"
+        "scored_at": "2026-09-19T16:48:07.668779Z"
       }
     },
     {
@@ -2152,15 +2040,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5295,
-      "importance": 0.5295,
-      "importance_score": 0.5295,
+      "score": 0.5275,
+      "importance": 0.5275,
+      "importance_score": 0.5275,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7704,
+        "recency": 0.7593,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -2185,7 +2073,117 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-19T16:07:29.013547Z"
+        "scored_at": "2026-09-19T16:48:07.668779Z"
+      }
+    },
+    {
+      "story_id": "story_f57f0f882ed6",
+      "title": "Stepfun Step 5 预览 (LLM)：AA 帕累托前沿 / Stepfun Step 5 Preview (LLM): On AA Pareto frontier",
+      "url": "https://artificialanalysis.ai/models/step-5",
+      "primary_url": "https://artificialanalysis.ai/models/step-5",
+      "source": "Hacker News",
+      "source_name": "TechURLs",
+      "sources": [
+        {
+          "id": "9b500ddf33e4c1536f29e460ca01182677d4eb8d",
+          "title": "Stepfun Step 5 预览 (LLM)：AA 帕累托前沿 / Stepfun Step 5 Preview (LLM): On AA Pareto frontier",
+          "title_zh": "Stepfun Step 5 预览 (LLM)：AA 帕累托前沿",
+          "title_en": "Stepfun Step 5 Preview (LLM): On AA Pareto frontier",
+          "title_original": "Stepfun Step 5 Preview (LLM): On AA Pareto frontier",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://artificialanalysis.ai/models/step-5",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-09-19T05:42:31Z"
+        },
+        {
+          "id": "fd134e61a1582f5b91ae2a95c75a49bcaffc72da",
+          "title": "Stepfun Step 5 预览 (LLM)：AA 帕累托前沿 / Stepfun Step 5 Preview (LLM): On AA Pareto frontier",
+          "title_zh": "Stepfun Step 5 预览 (LLM)：AA 帕累托前沿",
+          "title_en": "Stepfun Step 5 Preview (LLM): On AA Pareto frontier",
+          "title_original": "Stepfun Step 5 Preview (LLM): On AA Pareto frontier",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=49763660",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-09-19T05:42:31Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News",
+        "hackernews"
+      ],
+      "items": [
+        {
+          "id": "9b500ddf33e4c1536f29e460ca01182677d4eb8d",
+          "title": "Stepfun Step 5 预览 (LLM)：AA 帕累托前沿 / Stepfun Step 5 Preview (LLM): On AA Pareto frontier",
+          "title_zh": "Stepfun Step 5 预览 (LLM)：AA 帕累托前沿",
+          "title_en": "Stepfun Step 5 Preview (LLM): On AA Pareto frontier",
+          "title_original": "Stepfun Step 5 Preview (LLM): On AA Pareto frontier",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://artificialanalysis.ai/models/step-5",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-09-19T05:42:31Z"
+        },
+        {
+          "id": "fd134e61a1582f5b91ae2a95c75a49bcaffc72da",
+          "title": "Stepfun Step 5 预览 (LLM)：AA 帕累托前沿 / Stepfun Step 5 Preview (LLM): On AA Pareto frontier",
+          "title_zh": "Stepfun Step 5 预览 (LLM)：AA 帕累托前沿",
+          "title_en": "Stepfun Step 5 Preview (LLM): On AA Pareto frontier",
+          "title_original": "Stepfun Step 5 Preview (LLM): On AA Pareto frontier",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=49763660",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-09-19T05:42:31Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5192,
+      "importance": 0.5192,
+      "importance_score": 0.5192,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.8521,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-09-19T05:42:31Z",
+      "latest_at": "2026-09-19T05:42:31Z",
+      "primary_item": {
+        "id": "9b500ddf33e4c1536f29e460ca01182677d4eb8d",
+        "title": "Stepfun Step 5 预览 (LLM)：AA 帕累托前沿 / Stepfun Step 5 Preview (LLM): On AA Pareto frontier",
+        "title_zh": "Stepfun Step 5 预览 (LLM)：AA 帕累托前沿",
+        "title_en": "Stepfun Step 5 Preview (LLM): On AA Pareto frontier",
+        "title_original": "Stepfun Step 5 Preview (LLM): On AA Pareto frontier",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://artificialanalysis.ai/models/step-5",
+        "source": "Hacker News",
+        "source_name": "TechURLs"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-09-19T16:48:07.668779Z"
       }
     }
   ]
