@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-20T20:47:22.925546Z",
+  "generated_at": "2026-09-20T21:47:20.205520Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -135,15 +135,15 @@
       ],
       "item_count": 4,
       "duplicate_count": 4,
-      "score": 0.8477,
-      "importance": 0.8477,
-      "importance_score": 0.8477,
+      "score": 0.8452,
+      "importance": 0.8452,
+      "importance_score": 0.8452,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.76,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9618,
+        "recency": 0.948,
         "story_heat": 0.75
       },
       "category": "multi_source",
@@ -170,7 +170,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-20T20:55:14.155655Z"
+        "scored_at": "2026-09-20T21:56:26.981297Z"
       }
     },
     {
@@ -304,15 +304,15 @@
       ],
       "item_count": 4,
       "duplicate_count": 4,
-      "score": 0.8211,
-      "importance": 0.8211,
-      "importance_score": 0.8211,
+      "score": 0.8189,
+      "importance": 0.8189,
+      "importance_score": 0.8189,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8808,
+        "recency": 0.8682,
         "story_heat": 0.75
       },
       "category": "multi_source",
@@ -339,7 +339,89 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-20T20:55:14.155655Z"
+        "scored_at": "2026-09-20T21:56:26.981297Z"
+      }
+    },
+    {
+      "story_id": "story_b27cd7e4992a",
+      "title": "Google 确认 Gemini 在 Irregular 安全测试中访问 3 家真实公司系统，与 OpenAI、Anthropic、Meta 属同一评估事故 / You too Google！ Google Confirms Gemini Breached 3 Companies in AI Security Tests",
+      "url": "https://www.marktechpost.com/2026/09/20/you-too-google-google-confirms-gemini-breached-3-companies-in-ai-security-tests",
+      "primary_url": "https://www.marktechpost.com/2026/09/20/you-too-google-google-confirms-gemini-breached-3-companies-in-ai-security-tests",
+      "source": "MarkTechPost（RSS）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "e7934196a7be1cf52a62f81ea6d8d9b348e216c3",
+          "title": "Google 确认 Gemini 在 Irregular 安全测试中访问 3 家真实公司系统，与 OpenAI、Anthropic、Meta 属同一评估事故 / You too Google！ Google Confirms Gemini Breached 3 Companies in AI Security Tests",
+          "title_zh": "Google 确认 Gemini 在 Irregular 安全测试中访问 3 家真实公司系统，与 OpenAI、Anthropic、Meta 属同一评估事故",
+          "title_en": "You too Google！ Google Confirms Gemini Breached 3 Companies in AI Security Tests",
+          "title_original": "You too Google！ Google Confirms Gemini Breached 3 Companies in AI Security Tests",
+          "summary": "Google 于 9 月 18 日确认，Gemini 模型在 5 月由第三方安全评估方 Irregular 组织的 capture-the-flag 测试中访问了 3 家真实公司的系统，起因是本应离线的测试环境因 bug 开放了互联网访问。",
+          "recommend_reason_zh": null,
+          "url": "https://www.marktechpost.com/2026/09/20/you-too-google-google-confirms-gemini-breached-3-companies-in-ai-security-tests",
+          "source": "MarkTechPost（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-20T20:20:56Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "MarkTechPost（RSS）"
+      ],
+      "items": [
+        {
+          "id": "e7934196a7be1cf52a62f81ea6d8d9b348e216c3",
+          "title": "Google 确认 Gemini 在 Irregular 安全测试中访问 3 家真实公司系统，与 OpenAI、Anthropic、Meta 属同一评估事故 / You too Google！ Google Confirms Gemini Breached 3 Companies in AI Security Tests",
+          "title_zh": "Google 确认 Gemini 在 Irregular 安全测试中访问 3 家真实公司系统，与 OpenAI、Anthropic、Meta 属同一评估事故",
+          "title_en": "You too Google！ Google Confirms Gemini Breached 3 Companies in AI Security Tests",
+          "title_original": "You too Google！ Google Confirms Gemini Breached 3 Companies in AI Security Tests",
+          "summary": "Google 于 9 月 18 日确认，Gemini 模型在 5 月由第三方安全评估方 Irregular 组织的 capture-the-flag 测试中访问了 3 家真实公司的系统，起因是本应离线的测试环境因 bug 开放了互联网访问。",
+          "recommend_reason_zh": null,
+          "url": "https://www.marktechpost.com/2026/09/20/you-too-google-google-confirms-gemini-breached-3-companies-in-ai-security-tests",
+          "source": "MarkTechPost（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-20T20:20:56Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7819,
+      "importance": 0.7819,
+      "importance_score": 0.7819,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.78,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9794,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-20T20:20:56Z",
+      "latest_at": "2026-09-20T20:20:56Z",
+      "primary_item": {
+        "id": "e7934196a7be1cf52a62f81ea6d8d9b348e216c3",
+        "title": "Google 确认 Gemini 在 Irregular 安全测试中访问 3 家真实公司系统，与 OpenAI、Anthropic、Meta 属同一评估事故 / You too Google！ Google Confirms Gemini Breached 3 Companies in AI Security Tests",
+        "title_zh": "Google 确认 Gemini 在 Irregular 安全测试中访问 3 家真实公司系统，与 OpenAI、Anthropic、Meta 属同一评估事故",
+        "title_en": "You too Google！ Google Confirms Gemini Breached 3 Companies in AI Security Tests",
+        "title_original": "You too Google！ Google Confirms Gemini Breached 3 Companies in AI Security Tests",
+        "summary": "Google 于 9 月 18 日确认，Gemini 模型在 5 月由第三方安全评估方 Irregular 组织的 capture-the-flag 测试中访问了 3 家真实公司的系统，起因是本应离线的测试环境因 bug 开放了互联网访问。",
+        "recommend_reason_zh": null,
+        "url": "https://www.marktechpost.com/2026/09/20/you-too-google-google-confirms-gemini-breached-3-companies-in-ai-security-tests",
+        "source": "MarkTechPost（RSS）",
+        "source_name": "AI HOT"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-09-20T21:56:26.981297Z"
       }
     },
     {
@@ -387,15 +469,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7415,
-      "importance": 0.7415,
-      "importance_score": 0.7415,
+      "score": 0.7392,
+      "importance": 0.7392,
+      "importance_score": 0.7392,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.69,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9049,
+        "recency": 0.892,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -420,7 +502,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-20T20:55:14.155655Z"
+        "scored_at": "2026-09-20T21:56:26.981297Z"
       }
     },
     {
@@ -468,15 +550,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7412,
-      "importance": 0.7412,
-      "importance_score": 0.7412,
+      "score": 0.739,
+      "importance": 0.739,
+      "importance_score": 0.739,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8531,
+        "recency": 0.8409,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -501,7 +583,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-20T20:55:14.155655Z"
+        "scored_at": "2026-09-20T21:56:26.981297Z"
       }
     },
     {
@@ -578,15 +660,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7609,
-      "importance": 0.7609,
-      "importance_score": 0.7609,
+      "score": 0.759,
+      "importance": 0.759,
+      "importance_score": 0.759,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.77,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7404,
+        "recency": 0.7298,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -613,7 +695,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-20T20:55:14.155655Z"
+        "scored_at": "2026-09-20T21:56:26.981297Z"
       }
     },
     {
@@ -661,15 +743,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7412,
-      "importance": 0.7412,
-      "importance_score": 0.7412,
+      "score": 0.739,
+      "importance": 0.739,
+      "importance_score": 0.739,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8531,
+        "recency": 0.8409,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -694,7 +776,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-20T20:55:14.155655Z"
+        "scored_at": "2026-09-20T21:56:26.981297Z"
       }
     },
     {
@@ -742,15 +824,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7412,
-      "importance": 0.7412,
-      "importance_score": 0.7412,
+      "score": 0.739,
+      "importance": 0.739,
+      "importance_score": 0.739,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8531,
+        "recency": 0.8409,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -775,7 +857,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-20T20:55:14.155655Z"
+        "scored_at": "2026-09-20T21:56:26.981297Z"
       }
     },
     {
@@ -823,15 +905,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7412,
-      "importance": 0.7412,
-      "importance_score": 0.7412,
+      "score": 0.739,
+      "importance": 0.739,
+      "importance_score": 0.739,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8531,
+        "recency": 0.8409,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -856,7 +938,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-20T20:55:14.155655Z"
+        "scored_at": "2026-09-20T21:56:26.981297Z"
       }
     },
     {
@@ -904,15 +986,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.739,
-      "importance": 0.739,
-      "importance_score": 0.739,
+      "score": 0.7368,
+      "importance": 0.7368,
+      "importance_score": 0.7368,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8409,
+        "recency": 0.8289,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -937,7 +1019,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-20T20:55:14.155655Z"
+        "scored_at": "2026-09-20T21:56:26.981297Z"
       }
     },
     {
@@ -1013,15 +1095,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.6105,
-      "importance": 0.6105,
-      "importance_score": 0.6105,
+      "score": 0.608,
+      "importance": 0.608,
+      "importance_score": 0.608,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.4896,
         "source_tier": 0.58,
         "ai_relevance": 0.68,
-        "recency": 0.9722,
+        "recency": 0.9583,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1046,7 +1128,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-20T20:55:14.155655Z"
+        "scored_at": "2026-09-20T21:56:26.981297Z"
       }
     },
     {
@@ -1094,15 +1176,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.739,
-      "importance": 0.739,
-      "importance_score": 0.739,
+      "score": 0.7368,
+      "importance": 0.7368,
+      "importance_score": 0.7368,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8409,
+        "recency": 0.8289,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1127,7 +1209,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-20T20:55:14.155655Z"
+        "scored_at": "2026-09-20T21:56:26.981297Z"
       }
     },
     {
@@ -1233,15 +1315,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5613,
-      "importance": 0.5613,
-      "importance_score": 0.5613,
+      "score": 0.5589,
+      "importance": 0.5589,
+      "importance_score": 0.5589,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9475,
+        "recency": 0.9339,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1266,7 +1348,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-20T20:55:14.155655Z"
+        "scored_at": "2026-09-20T21:56:26.981297Z"
       }
     },
     {
@@ -1372,15 +1454,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5581,
-      "importance": 0.5581,
-      "importance_score": 0.5581,
+      "score": 0.5557,
+      "importance": 0.5557,
+      "importance_score": 0.5557,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9297,
+        "recency": 0.9163,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1405,7 +1487,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-20T20:55:14.155655Z"
+        "scored_at": "2026-09-20T21:56:26.981297Z"
       }
     },
     {
@@ -1453,15 +1535,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7368,
-      "importance": 0.7368,
-      "importance_score": 0.7368,
+      "score": 0.7347,
+      "importance": 0.7347,
+      "importance_score": 0.7347,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8288,
+        "recency": 0.817,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1486,7 +1568,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-20T20:55:14.155655Z"
+        "scored_at": "2026-09-20T21:56:26.981297Z"
       }
     },
     {
@@ -1592,15 +1674,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5513,
-      "importance": 0.5513,
-      "importance_score": 0.5513,
+      "score": 0.549,
+      "importance": 0.549,
+      "importance_score": 0.549,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8915,
+        "recency": 0.8787,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1625,7 +1707,117 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-20T20:55:14.155655Z"
+        "scored_at": "2026-09-20T21:56:26.981297Z"
+      }
+    },
+    {
+      "story_id": "story_c4382ef1742b",
+      "title": "OpenAI's Sam Altman to Brief UN Security Council Next Week",
+      "url": "https://www.reuters.com/business/openais-sam-altman-to-brief-un-security-council-next-week-during-2026-09-18",
+      "primary_url": "https://www.reuters.com/business/openais-sam-altman-to-brief-un-security-council-next-week-during-2026-09-18",
+      "source": "Hacker News",
+      "source_name": "TechURLs",
+      "sources": [
+        {
+          "id": "372ac4a7ae9fe28bbb4e3231f951d4cb6a0a9f35",
+          "title": "OpenAI's Sam Altman to Brief UN Security Council Next Week",
+          "title_zh": null,
+          "title_en": "OpenAI's Sam Altman to Brief UN Security Council Next Week",
+          "title_original": "OpenAI's Sam Altman to Brief UN Security Council Next Week",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.reuters.com/business/openais-sam-altman-to-brief-un-security-council-next-week-during-2026-09-18",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-09-20T20:32:43Z"
+        },
+        {
+          "id": "26934ca035ec935dcc7ebba6302f9a7d7e04013d",
+          "title": "OpenAI's Sam Altman to Brief UN Security Council Next Week",
+          "title_zh": null,
+          "title_en": "OpenAI's Sam Altman to Brief UN Security Council Next Week",
+          "title_original": "OpenAI's Sam Altman to Brief UN Security Council Next Week",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=49779802",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-09-20T20:32:43Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News",
+        "hackernews"
+      ],
+      "items": [
+        {
+          "id": "372ac4a7ae9fe28bbb4e3231f951d4cb6a0a9f35",
+          "title": "OpenAI's Sam Altman to Brief UN Security Council Next Week",
+          "title_zh": null,
+          "title_en": "OpenAI's Sam Altman to Brief UN Security Council Next Week",
+          "title_original": "OpenAI's Sam Altman to Brief UN Security Council Next Week",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.reuters.com/business/openais-sam-altman-to-brief-un-security-council-next-week-during-2026-09-18",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-09-20T20:32:43Z"
+        },
+        {
+          "id": "26934ca035ec935dcc7ebba6302f9a7d7e04013d",
+          "title": "OpenAI's Sam Altman to Brief UN Security Council Next Week",
+          "title_zh": null,
+          "title_en": "OpenAI's Sam Altman to Brief UN Security Council Next Week",
+          "title_original": "OpenAI's Sam Altman to Brief UN Security Council Next Week",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=49779802",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-09-20T20:32:43Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5426,
+      "importance": 0.5426,
+      "importance_score": 0.5426,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9822,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-09-20T20:32:43Z",
+      "latest_at": "2026-09-20T20:32:43Z",
+      "primary_item": {
+        "id": "372ac4a7ae9fe28bbb4e3231f951d4cb6a0a9f35",
+        "title": "OpenAI's Sam Altman to Brief UN Security Council Next Week",
+        "title_zh": null,
+        "title_en": "OpenAI's Sam Altman to Brief UN Security Council Next Week",
+        "title_original": "OpenAI's Sam Altman to Brief UN Security Council Next Week",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://www.reuters.com/business/openais-sam-altman-to-brief-un-security-council-next-week-during-2026-09-18",
+        "source": "Hacker News",
+        "source_name": "TechURLs"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-09-20T21:56:26.981297Z"
       }
     },
     {
@@ -1702,15 +1894,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.538,
-      "importance": 0.538,
-      "importance_score": 0.538,
+      "score": 0.5355,
+      "importance": 0.5355,
+      "importance_score": 0.5355,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9567,
+        "recency": 0.943,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1735,117 +1927,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-20T20:55:14.155655Z"
-      }
-    },
-    {
-      "story_id": "story_8c6e00ff1c29",
-      "title": "Prompts Aren't Real",
-      "url": "https://evaluation.club",
-      "primary_url": "https://evaluation.club",
-      "source": "Hacker News",
-      "source_name": "TechURLs",
-      "sources": [
-        {
-          "id": "8c9907e389169edf39e60e8683d364dabc863112",
-          "title": "Prompts Aren't Real",
-          "title_zh": null,
-          "title_en": "Prompts Aren't Real",
-          "title_original": "Prompts Aren't Real",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://evaluation.club",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-09-20T15:59:25Z"
-        },
-        {
-          "id": "b54d61a4c036f1e894c1dd4ba999e672d9679d19",
-          "title": "Prompts aren’t Real",
-          "title_zh": null,
-          "title_en": "Prompts aren’t Real",
-          "title_original": "Prompts aren’t Real",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://evaluation.club",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-09-20T15:59:25Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News",
-        "Hacker News · 24h最热"
-      ],
-      "items": [
-        {
-          "id": "8c9907e389169edf39e60e8683d364dabc863112",
-          "title": "Prompts Aren't Real",
-          "title_zh": null,
-          "title_en": "Prompts Aren't Real",
-          "title_original": "Prompts Aren't Real",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://evaluation.club",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-09-20T15:59:25Z"
-        },
-        {
-          "id": "b54d61a4c036f1e894c1dd4ba999e672d9679d19",
-          "title": "Prompts aren’t Real",
-          "title_zh": null,
-          "title_en": "Prompts aren’t Real",
-          "title_original": "Prompts aren’t Real",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://evaluation.club",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-09-20T15:59:25Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5337,
-      "importance": 0.5337,
-      "importance_score": 0.5337,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.933,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-09-20T15:59:25Z",
-      "latest_at": "2026-09-20T15:59:25Z",
-      "primary_item": {
-        "id": "8c9907e389169edf39e60e8683d364dabc863112",
-        "title": "Prompts Aren't Real",
-        "title_zh": null,
-        "title_en": "Prompts Aren't Real",
-        "title_original": "Prompts Aren't Real",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://evaluation.club",
-        "source": "Hacker News",
-        "source_name": "TechURLs"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-09-20T20:55:14.155655Z"
+        "scored_at": "2026-09-20T21:56:26.981297Z"
       }
     },
     {
@@ -1921,15 +2003,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5337,
-      "importance": 0.5337,
-      "importance_score": 0.5337,
+      "score": 0.5313,
+      "importance": 0.5313,
+      "importance_score": 0.5313,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.933,
+        "recency": 0.9197,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1954,7 +2036,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-20T20:55:14.155655Z"
+        "scored_at": "2026-09-20T21:56:26.981297Z"
       }
     },
     {
@@ -2002,15 +2084,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7368,
-      "importance": 0.7368,
-      "importance_score": 0.7368,
+      "score": 0.7347,
+      "importance": 0.7347,
+      "importance_score": 0.7347,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8288,
+        "recency": 0.817,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -2035,117 +2117,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-20T20:55:14.155655Z"
-      }
-    },
-    {
-      "story_id": "story_d33cb89128f1",
-      "title": "如果人工智能编码降低了您的代码质量，那么您就没有正确管理质量 / If AI coding is lowering your code quality, you're not managing quality right",
-      "url": "https://www.i-kh.net/p/if-ai-coding-is-lowering-your-code",
-      "primary_url": "https://www.i-kh.net/p/if-ai-coding-is-lowering-your-code",
-      "source": "Hacker News · 24h最热",
-      "source_name": "Zeli",
-      "sources": [
-        {
-          "id": "313859eb459612551da88bd8a4d0cfffa9b411b2",
-          "title": "如果人工智能编码降低了您的代码质量，那么您就没有正确管理质量 / If AI coding is lowering your code quality, you're not managing quality right",
-          "title_zh": "如果人工智能编码降低了您的代码质量，那么您就没有正确管理质量",
-          "title_en": "If AI coding is lowering your code quality, you're not managing quality right",
-          "title_original": "If AI coding is lowering your code quality, you're not managing quality right",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.i-kh.net/p/if-ai-coding-is-lowering-your-code",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-09-20T11:37:10Z"
-        },
-        {
-          "id": "a0cc66d677a58ada0048da67d0529cb6cb96621a",
-          "title": "如果人工智能编码降低了您的代码质量，那么您就没有正确管理质量 / If AI coding is lowering your code quality, you're not managing quality right",
-          "title_zh": "如果人工智能编码降低了您的代码质量，那么您就没有正确管理质量",
-          "title_en": "If AI coding is lowering your code quality, you're not managing quality right",
-          "title_original": "If AI coding is lowering your code quality, you're not managing quality right",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=49774795",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-09-20T11:37:10Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News · 24h最热",
-        "hackernews"
-      ],
-      "items": [
-        {
-          "id": "313859eb459612551da88bd8a4d0cfffa9b411b2",
-          "title": "如果人工智能编码降低了您的代码质量，那么您就没有正确管理质量 / If AI coding is lowering your code quality, you're not managing quality right",
-          "title_zh": "如果人工智能编码降低了您的代码质量，那么您就没有正确管理质量",
-          "title_en": "If AI coding is lowering your code quality, you're not managing quality right",
-          "title_original": "If AI coding is lowering your code quality, you're not managing quality right",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.i-kh.net/p/if-ai-coding-is-lowering-your-code",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-09-20T11:37:10Z"
-        },
-        {
-          "id": "a0cc66d677a58ada0048da67d0529cb6cb96621a",
-          "title": "如果人工智能编码降低了您的代码质量，那么您就没有正确管理质量 / If AI coding is lowering your code quality, you're not managing quality right",
-          "title_zh": "如果人工智能编码降低了您的代码质量，那么您就没有正确管理质量",
-          "title_en": "If AI coding is lowering your code quality, you're not managing quality right",
-          "title_original": "If AI coding is lowering your code quality, you're not managing quality right",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=49774795",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-09-20T11:37:10Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5235,
-      "importance": 0.5235,
-      "importance_score": 0.5235,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.876,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-09-20T11:37:10Z",
-      "latest_at": "2026-09-20T11:37:10Z",
-      "primary_item": {
-        "id": "313859eb459612551da88bd8a4d0cfffa9b411b2",
-        "title": "如果人工智能编码降低了您的代码质量，那么您就没有正确管理质量 / If AI coding is lowering your code quality, you're not managing quality right",
-        "title_zh": "如果人工智能编码降低了您的代码质量，那么您就没有正确管理质量",
-        "title_en": "If AI coding is lowering your code quality, you're not managing quality right",
-        "title_original": "If AI coding is lowering your code quality, you're not managing quality right",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://www.i-kh.net/p/if-ai-coding-is-lowering-your-code",
-        "source": "Hacker News · 24h最热",
-        "source_name": "Zeli"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-09-20T20:55:14.155655Z"
+        "scored_at": "2026-09-20T21:56:26.981297Z"
       }
     }
   ]
