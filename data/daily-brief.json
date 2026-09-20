@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-20T07:47:21.620157Z",
+  "generated_at": "2026-09-20T08:47:24.747482Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -135,15 +135,15 @@
       ],
       "item_count": 4,
       "duplicate_count": 4,
-      "score": 0.8384,
-      "importance": 0.8384,
-      "importance_score": 0.8384,
+      "score": 0.8361,
+      "importance": 0.8361,
+      "importance_score": 0.8361,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.77,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8933,
+        "recency": 0.8804,
         "story_heat": 0.75
       },
       "category": "multi_source",
@@ -170,30 +170,30 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-20T07:48:08.050235Z"
+        "scored_at": "2026-09-20T08:48:05.586320Z"
       }
     },
     {
-      "story_id": "story_768e87b81386",
-      "title": "Anthropic 把 IPO 推到 11 月：2 万亿美元估值剑指 SpaceX 纪录，安全警告成上市前的\"护身符\"",
-      "url": "https://www.aibase.com/news/31199",
-      "primary_url": "https://www.aibase.com/news/31199",
+      "story_id": "story_f7f3d62fb233",
+      "title": "双节前后 10 多款大模型蓄势待发：GPT-6 全系、Opus 5.2、V4.1 Pro 领衔",
+      "url": "https://www.aibase.com/news/31200",
+      "primary_url": "https://www.aibase.com/news/31200",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "8c3b0e698ba2c868806c1f6f036ca6441eeec335",
-          "title": "Anthropic 把 IPO 推到 11 月：2 万亿美元估值剑指 SpaceX 纪录，安全警告成上市前的\"护身符\"",
-          "title_zh": "Anthropic 把 IPO 推到 11 月：2 万亿美元估值剑指 SpaceX 纪录，安全警告成上市前的\"护身符\"",
+          "id": "7be29bfd7f1017615f6e942036fdbc74db281ff1",
+          "title": "双节前后 10 多款大模型蓄势待发：GPT-6 全系、Opus 5.2、V4.1 Pro 领衔",
+          "title_zh": "双节前后 10 多款大模型蓄势待发：GPT-6 全系、Opus 5.2、V4.1 Pro 领衔",
           "title_en": null,
-          "title_original": "Anthropic 把 IPO 推到 11 月：2 万亿美元估值剑指 SpaceX 纪录，安全警告成上市前的\"护身符\"",
+          "title_original": "双节前后 10 多款大模型蓄势待发：GPT-6 全系、Opus 5.2、V4.1 Pro 领衔",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/31199",
+          "url": "https://www.aibase.com/news/31200",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-09-20T07:47:21.620157Z"
+          "published_at": "2026-09-20T08:47:24.747482Z"
         }
       ],
       "source_count": 1,
@@ -202,18 +202,18 @@
       ],
       "items": [
         {
-          "id": "8c3b0e698ba2c868806c1f6f036ca6441eeec335",
-          "title": "Anthropic 把 IPO 推到 11 月：2 万亿美元估值剑指 SpaceX 纪录，安全警告成上市前的\"护身符\"",
-          "title_zh": "Anthropic 把 IPO 推到 11 月：2 万亿美元估值剑指 SpaceX 纪录，安全警告成上市前的\"护身符\"",
+          "id": "7be29bfd7f1017615f6e942036fdbc74db281ff1",
+          "title": "双节前后 10 多款大模型蓄势待发：GPT-6 全系、Opus 5.2、V4.1 Pro 领衔",
+          "title_zh": "双节前后 10 多款大模型蓄势待发：GPT-6 全系、Opus 5.2、V4.1 Pro 领衔",
           "title_en": null,
-          "title_original": "Anthropic 把 IPO 推到 11 月：2 万亿美元估值剑指 SpaceX 纪录，安全警告成上市前的\"护身符\"",
+          "title_original": "双节前后 10 多款大模型蓄势待发：GPT-6 全系、Opus 5.2、V4.1 Pro 领衔",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/31199",
+          "url": "https://www.aibase.com/news/31200",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-09-20T07:47:21.620157Z"
+          "published_at": "2026-09-20T08:47:24.747482Z"
         }
       ],
       "item_count": 1,
@@ -234,17 +234,17 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-09-20T07:47:21.620157Z",
-      "latest_at": "2026-09-20T07:47:21.620157Z",
+      "earliest_at": "2026-09-20T08:47:24.747482Z",
+      "latest_at": "2026-09-20T08:47:24.747482Z",
       "primary_item": {
-        "id": "8c3b0e698ba2c868806c1f6f036ca6441eeec335",
-        "title": "Anthropic 把 IPO 推到 11 月：2 万亿美元估值剑指 SpaceX 纪录，安全警告成上市前的\"护身符\"",
-        "title_zh": "Anthropic 把 IPO 推到 11 月：2 万亿美元估值剑指 SpaceX 纪录，安全警告成上市前的\"护身符\"",
+        "id": "7be29bfd7f1017615f6e942036fdbc74db281ff1",
+        "title": "双节前后 10 多款大模型蓄势待发：GPT-6 全系、Opus 5.2、V4.1 Pro 领衔",
+        "title_zh": "双节前后 10 多款大模型蓄势待发：GPT-6 全系、Opus 5.2、V4.1 Pro 领衔",
         "title_en": null,
-        "title_original": "Anthropic 把 IPO 推到 11 月：2 万亿美元估值剑指 SpaceX 纪录，安全警告成上市前的\"护身符\"",
+        "title_original": "双节前后 10 多款大模型蓄势待发：GPT-6 全系、Opus 5.2、V4.1 Pro 领衔",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/31199",
+        "url": "https://www.aibase.com/news/31200",
         "source": "AIbase",
         "source_name": "AIbase"
       },
@@ -252,30 +252,30 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-20T07:48:08.050235Z"
+        "scored_at": "2026-09-20T08:48:05.586320Z"
       }
     },
     {
-      "story_id": "story_c8c3263ec134",
-      "title": "GPT-6 Astra 联手人类攻破重大进展级数学难题：AI 不再只是解题机，成了规律发现者",
-      "url": "https://www.aibase.com/news/31195",
-      "primary_url": "https://www.aibase.com/news/31195",
+      "story_id": "story_99589b68f290",
+      "title": "微信 AI 团队开源 WeKnora：知识库不再只“动嘴”，还能在沙箱里“动手”",
+      "url": "https://www.aibase.com/news/31201",
+      "primary_url": "https://www.aibase.com/news/31201",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "4e86e6d63db0480d4d8b1c50b780b041357d7fcc",
-          "title": "GPT-6 Astra 联手人类攻破重大进展级数学难题：AI 不再只是解题机，成了规律发现者",
-          "title_zh": "GPT-6 Astra 联手人类攻破重大进展级数学难题：AI 不再只是解题机，成了规律发现者",
+          "id": "a7bb536250fe75ec404679adc54fc1acaea83ed4",
+          "title": "微信 AI 团队开源 WeKnora：知识库不再只“动嘴”，还能在沙箱里“动手”",
+          "title_zh": "微信 AI 团队开源 WeKnora：知识库不再只“动嘴”，还能在沙箱里“动手”",
           "title_en": null,
-          "title_original": "GPT-6 Astra 联手人类攻破重大进展级数学难题：AI 不再只是解题机，成了规律发现者",
+          "title_original": "微信 AI 团队开源 WeKnora：知识库不再只“动嘴”，还能在沙箱里“动手”",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/31195",
+          "url": "https://www.aibase.com/news/31201",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-09-20T07:47:21.620157Z"
+          "published_at": "2026-09-20T08:47:24.747482Z"
         }
       ],
       "source_count": 1,
@@ -284,18 +284,18 @@
       ],
       "items": [
         {
-          "id": "4e86e6d63db0480d4d8b1c50b780b041357d7fcc",
-          "title": "GPT-6 Astra 联手人类攻破重大进展级数学难题：AI 不再只是解题机，成了规律发现者",
-          "title_zh": "GPT-6 Astra 联手人类攻破重大进展级数学难题：AI 不再只是解题机，成了规律发现者",
+          "id": "a7bb536250fe75ec404679adc54fc1acaea83ed4",
+          "title": "微信 AI 团队开源 WeKnora：知识库不再只“动嘴”，还能在沙箱里“动手”",
+          "title_zh": "微信 AI 团队开源 WeKnora：知识库不再只“动嘴”，还能在沙箱里“动手”",
           "title_en": null,
-          "title_original": "GPT-6 Astra 联手人类攻破重大进展级数学难题：AI 不再只是解题机，成了规律发现者",
+          "title_original": "微信 AI 团队开源 WeKnora：知识库不再只“动嘴”，还能在沙箱里“动手”",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/31195",
+          "url": "https://www.aibase.com/news/31201",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-09-20T07:47:21.620157Z"
+          "published_at": "2026-09-20T08:47:24.747482Z"
         }
       ],
       "item_count": 1,
@@ -316,17 +316,17 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-09-20T07:47:21.620157Z",
-      "latest_at": "2026-09-20T07:47:21.620157Z",
+      "earliest_at": "2026-09-20T08:47:24.747482Z",
+      "latest_at": "2026-09-20T08:47:24.747482Z",
       "primary_item": {
-        "id": "4e86e6d63db0480d4d8b1c50b780b041357d7fcc",
-        "title": "GPT-6 Astra 联手人类攻破重大进展级数学难题：AI 不再只是解题机，成了规律发现者",
-        "title_zh": "GPT-6 Astra 联手人类攻破重大进展级数学难题：AI 不再只是解题机，成了规律发现者",
+        "id": "a7bb536250fe75ec404679adc54fc1acaea83ed4",
+        "title": "微信 AI 团队开源 WeKnora：知识库不再只“动嘴”，还能在沙箱里“动手”",
+        "title_zh": "微信 AI 团队开源 WeKnora：知识库不再只“动嘴”，还能在沙箱里“动手”",
         "title_en": null,
-        "title_original": "GPT-6 Astra 联手人类攻破重大进展级数学难题：AI 不再只是解题机，成了规律发现者",
+        "title_original": "微信 AI 团队开源 WeKnora：知识库不再只“动嘴”，还能在沙箱里“动手”",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/31195",
+        "url": "https://www.aibase.com/news/31201",
         "source": "AIbase",
         "source_name": "AIbase"
       },
@@ -334,7 +334,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-20T07:48:08.050235Z"
+        "scored_at": "2026-09-20T08:48:05.586320Z"
       }
     },
     {
@@ -382,15 +382,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7352,
-      "importance": 0.7352,
-      "importance_score": 0.7352,
+      "score": 0.7328,
+      "importance": 0.7328,
+      "importance_score": 0.7328,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.66,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9198,
+        "recency": 0.9066,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -415,7 +415,171 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-20T07:48:08.050235Z"
+        "scored_at": "2026-09-20T08:48:05.586320Z"
+      }
+    },
+    {
+      "story_id": "story_768e87b81386",
+      "title": "Anthropic 把 IPO 推到 11 月：2 万亿美元估值剑指 SpaceX 纪录，安全警告成上市前的\"护身符\"",
+      "url": "https://www.aibase.com/news/31199",
+      "primary_url": "https://www.aibase.com/news/31199",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "8c3b0e698ba2c868806c1f6f036ca6441eeec335",
+          "title": "Anthropic 把 IPO 推到 11 月：2 万亿美元估值剑指 SpaceX 纪录，安全警告成上市前的\"护身符\"",
+          "title_zh": "Anthropic 把 IPO 推到 11 月：2 万亿美元估值剑指 SpaceX 纪录，安全警告成上市前的\"护身符\"",
+          "title_en": null,
+          "title_original": "Anthropic 把 IPO 推到 11 月：2 万亿美元估值剑指 SpaceX 纪录，安全警告成上市前的\"护身符\"",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/31199",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-09-20T07:47:21.620157Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "8c3b0e698ba2c868806c1f6f036ca6441eeec335",
+          "title": "Anthropic 把 IPO 推到 11 月：2 万亿美元估值剑指 SpaceX 纪录，安全警告成上市前的\"护身符\"",
+          "title_zh": "Anthropic 把 IPO 推到 11 月：2 万亿美元估值剑指 SpaceX 纪录，安全警告成上市前的\"护身符\"",
+          "title_en": null,
+          "title_original": "Anthropic 把 IPO 推到 11 月：2 万亿美元估值剑指 SpaceX 纪录，安全警告成上市前的\"护身符\"",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/31199",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-09-20T07:47:21.620157Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.765,
+      "importance": 0.765,
+      "importance_score": 0.765,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9857,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-20T07:47:21.620157Z",
+      "latest_at": "2026-09-20T07:47:21.620157Z",
+      "primary_item": {
+        "id": "8c3b0e698ba2c868806c1f6f036ca6441eeec335",
+        "title": "Anthropic 把 IPO 推到 11 月：2 万亿美元估值剑指 SpaceX 纪录，安全警告成上市前的\"护身符\"",
+        "title_zh": "Anthropic 把 IPO 推到 11 月：2 万亿美元估值剑指 SpaceX 纪录，安全警告成上市前的\"护身符\"",
+        "title_en": null,
+        "title_original": "Anthropic 把 IPO 推到 11 月：2 万亿美元估值剑指 SpaceX 纪录，安全警告成上市前的\"护身符\"",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://www.aibase.com/news/31199",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-09-20T08:48:05.586320Z"
+      }
+    },
+    {
+      "story_id": "story_c8c3263ec134",
+      "title": "GPT-6 Astra 联手人类攻破重大进展级数学难题：AI 不再只是解题机，成了规律发现者",
+      "url": "https://www.aibase.com/news/31195",
+      "primary_url": "https://www.aibase.com/news/31195",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "4e86e6d63db0480d4d8b1c50b780b041357d7fcc",
+          "title": "GPT-6 Astra 联手人类攻破重大进展级数学难题：AI 不再只是解题机，成了规律发现者",
+          "title_zh": "GPT-6 Astra 联手人类攻破重大进展级数学难题：AI 不再只是解题机，成了规律发现者",
+          "title_en": null,
+          "title_original": "GPT-6 Astra 联手人类攻破重大进展级数学难题：AI 不再只是解题机，成了规律发现者",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/31195",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-09-20T07:47:21.620157Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "4e86e6d63db0480d4d8b1c50b780b041357d7fcc",
+          "title": "GPT-6 Astra 联手人类攻破重大进展级数学难题：AI 不再只是解题机，成了规律发现者",
+          "title_zh": "GPT-6 Astra 联手人类攻破重大进展级数学难题：AI 不再只是解题机，成了规律发现者",
+          "title_en": null,
+          "title_original": "GPT-6 Astra 联手人类攻破重大进展级数学难题：AI 不再只是解题机，成了规律发现者",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/31195",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-09-20T07:47:21.620157Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.765,
+      "importance": 0.765,
+      "importance_score": 0.765,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9857,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-20T07:47:21.620157Z",
+      "latest_at": "2026-09-20T07:47:21.620157Z",
+      "primary_item": {
+        "id": "4e86e6d63db0480d4d8b1c50b780b041357d7fcc",
+        "title": "GPT-6 Astra 联手人类攻破重大进展级数学难题：AI 不再只是解题机，成了规律发现者",
+        "title_zh": "GPT-6 Astra 联手人类攻破重大进展级数学难题：AI 不再只是解题机，成了规律发现者",
+        "title_en": null,
+        "title_original": "GPT-6 Astra 联手人类攻破重大进展级数学难题：AI 不再只是解题机，成了规律发现者",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://www.aibase.com/news/31195",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-09-20T08:48:05.586320Z"
       }
     },
     {
@@ -463,15 +627,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7676,
-      "importance": 0.7676,
-      "importance_score": 0.7676,
+      "score": 0.765,
+      "importance": 0.765,
+      "importance_score": 0.765,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.9857,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -497,7 +661,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-20T07:48:08.050235Z"
+        "scored_at": "2026-09-20T08:48:05.586320Z"
       }
     },
     {
@@ -545,15 +709,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7676,
-      "importance": 0.7676,
-      "importance_score": 0.7676,
+      "score": 0.765,
+      "importance": 0.765,
+      "importance_score": 0.765,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.9857,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -579,171 +743,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-20T07:48:08.050235Z"
-      }
-    },
-    {
-      "story_id": "story_e7297f473296",
-      "title": "雷神首款 AI 移动工作站明日开售：64GB 内存驯服 120B 大模型，1.99 万元把数据中心装进背包",
-      "url": "https://www.aibase.com/news/31197",
-      "primary_url": "https://www.aibase.com/news/31197",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "e911ec89ea4fbded8d128d97c960893fbf1e1fc0",
-          "title": "雷神首款 AI 移动工作站明日开售：64GB 内存驯服 120B 大模型，1.99 万元把数据中心装进背包",
-          "title_zh": "雷神首款 AI 移动工作站明日开售：64GB 内存驯服 120B 大模型，1.99 万元把数据中心装进背包",
-          "title_en": null,
-          "title_original": "雷神首款 AI 移动工作站明日开售：64GB 内存驯服 120B 大模型，1.99 万元把数据中心装进背包",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/31197",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-09-20T07:47:21.620157Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "e911ec89ea4fbded8d128d97c960893fbf1e1fc0",
-          "title": "雷神首款 AI 移动工作站明日开售：64GB 内存驯服 120B 大模型，1.99 万元把数据中心装进背包",
-          "title_zh": "雷神首款 AI 移动工作站明日开售：64GB 内存驯服 120B 大模型，1.99 万元把数据中心装进背包",
-          "title_en": null,
-          "title_original": "雷神首款 AI 移动工作站明日开售：64GB 内存驯服 120B 大模型，1.99 万元把数据中心装进背包",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/31197",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-09-20T07:47:21.620157Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7676,
-      "importance": 0.7676,
-      "importance_score": 0.7676,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 1.0,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-20T07:47:21.620157Z",
-      "latest_at": "2026-09-20T07:47:21.620157Z",
-      "primary_item": {
-        "id": "e911ec89ea4fbded8d128d97c960893fbf1e1fc0",
-        "title": "雷神首款 AI 移动工作站明日开售：64GB 内存驯服 120B 大模型，1.99 万元把数据中心装进背包",
-        "title_zh": "雷神首款 AI 移动工作站明日开售：64GB 内存驯服 120B 大模型，1.99 万元把数据中心装进背包",
-        "title_en": null,
-        "title_original": "雷神首款 AI 移动工作站明日开售：64GB 内存驯服 120B 大模型，1.99 万元把数据中心装进背包",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/31197",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-09-20T07:48:08.050235Z"
-      }
-    },
-    {
-      "story_id": "story_ddac4dc50eac",
-      "title": "B 站上线“AI 无限竞技场”：百大模型同台 PK，GPT-6 Astra 暂居榜首",
-      "url": "https://www.aibase.com/news/31193",
-      "primary_url": "https://www.aibase.com/news/31193",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "a8bc0ebee88f1fa467aeb606ca5bdce3fbd99513",
-          "title": "B 站上线“AI 无限竞技场”：百大模型同台 PK，GPT-6 Astra 暂居榜首",
-          "title_zh": "B 站上线“AI 无限竞技场”：百大模型同台 PK，GPT-6 Astra 暂居榜首",
-          "title_en": null,
-          "title_original": "B 站上线“AI 无限竞技场”：百大模型同台 PK，GPT-6 Astra 暂居榜首",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/31193",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-09-20T06:47:16.478769Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "a8bc0ebee88f1fa467aeb606ca5bdce3fbd99513",
-          "title": "B 站上线“AI 无限竞技场”：百大模型同台 PK，GPT-6 Astra 暂居榜首",
-          "title_zh": "B 站上线“AI 无限竞技场”：百大模型同台 PK，GPT-6 Astra 暂居榜首",
-          "title_en": null,
-          "title_original": "B 站上线“AI 无限竞技场”：百大模型同台 PK，GPT-6 Astra 暂居榜首",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/31193",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-09-20T06:47:16.478769Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.765,
-      "importance": 0.765,
-      "importance_score": 0.765,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.9856,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-20T06:47:16.478769Z",
-      "latest_at": "2026-09-20T06:47:16.478769Z",
-      "primary_item": {
-        "id": "a8bc0ebee88f1fa467aeb606ca5bdce3fbd99513",
-        "title": "B 站上线“AI 无限竞技场”：百大模型同台 PK，GPT-6 Astra 暂居榜首",
-        "title_zh": "B 站上线“AI 无限竞技场”：百大模型同台 PK，GPT-6 Astra 暂居榜首",
-        "title_en": null,
-        "title_original": "B 站上线“AI 无限竞技场”：百大模型同台 PK，GPT-6 Astra 暂居榜首",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/31193",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-09-20T07:48:08.050235Z"
+        "scored_at": "2026-09-20T08:48:05.586320Z"
       }
     },
     {
@@ -906,15 +906,15 @@
       ],
       "item_count": 5,
       "duplicate_count": 5,
-      "score": 0.5928,
-      "importance": 0.5928,
-      "importance_score": 0.5928,
+      "score": 0.5906,
+      "importance": 0.5906,
+      "importance_score": 0.5906,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8442,
+        "recency": 0.8321,
         "story_heat": 1.0
       },
       "category": "multi_source",
@@ -939,7 +939,391 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-20T07:48:08.050235Z"
+        "scored_at": "2026-09-20T08:48:05.586320Z"
+      }
+    },
+    {
+      "story_id": "story_e7297f473296",
+      "title": "雷神首款 AI 移动工作站明日开售：64GB 内存驯服 120B 大模型，1.99 万元把数据中心装进背包",
+      "url": "https://www.aibase.com/news/31197",
+      "primary_url": "https://www.aibase.com/news/31197",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "e911ec89ea4fbded8d128d97c960893fbf1e1fc0",
+          "title": "雷神首款 AI 移动工作站明日开售：64GB 内存驯服 120B 大模型，1.99 万元把数据中心装进背包",
+          "title_zh": "雷神首款 AI 移动工作站明日开售：64GB 内存驯服 120B 大模型，1.99 万元把数据中心装进背包",
+          "title_en": null,
+          "title_original": "雷神首款 AI 移动工作站明日开售：64GB 内存驯服 120B 大模型，1.99 万元把数据中心装进背包",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/31197",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-09-20T07:47:21.620157Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "e911ec89ea4fbded8d128d97c960893fbf1e1fc0",
+          "title": "雷神首款 AI 移动工作站明日开售：64GB 内存驯服 120B 大模型，1.99 万元把数据中心装进背包",
+          "title_zh": "雷神首款 AI 移动工作站明日开售：64GB 内存驯服 120B 大模型，1.99 万元把数据中心装进背包",
+          "title_en": null,
+          "title_original": "雷神首款 AI 移动工作站明日开售：64GB 内存驯服 120B 大模型，1.99 万元把数据中心装进背包",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/31197",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-09-20T07:47:21.620157Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.765,
+      "importance": 0.765,
+      "importance_score": 0.765,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9857,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-20T07:47:21.620157Z",
+      "latest_at": "2026-09-20T07:47:21.620157Z",
+      "primary_item": {
+        "id": "e911ec89ea4fbded8d128d97c960893fbf1e1fc0",
+        "title": "雷神首款 AI 移动工作站明日开售：64GB 内存驯服 120B 大模型，1.99 万元把数据中心装进背包",
+        "title_zh": "雷神首款 AI 移动工作站明日开售：64GB 内存驯服 120B 大模型，1.99 万元把数据中心装进背包",
+        "title_en": null,
+        "title_original": "雷神首款 AI 移动工作站明日开售：64GB 内存驯服 120B 大模型，1.99 万元把数据中心装进背包",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://www.aibase.com/news/31197",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-09-20T08:48:05.586320Z"
+      }
+    },
+    {
+      "story_id": "story_ddac4dc50eac",
+      "title": "B 站上线“AI 无限竞技场”：百大模型同台 PK，GPT-6 Astra 暂居榜首",
+      "url": "https://www.aibase.com/news/31193",
+      "primary_url": "https://www.aibase.com/news/31193",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "a8bc0ebee88f1fa467aeb606ca5bdce3fbd99513",
+          "title": "B 站上线“AI 无限竞技场”：百大模型同台 PK，GPT-6 Astra 暂居榜首",
+          "title_zh": "B 站上线“AI 无限竞技场”：百大模型同台 PK，GPT-6 Astra 暂居榜首",
+          "title_en": null,
+          "title_original": "B 站上线“AI 无限竞技场”：百大模型同台 PK，GPT-6 Astra 暂居榜首",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/31193",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-09-20T06:47:16.478769Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "a8bc0ebee88f1fa467aeb606ca5bdce3fbd99513",
+          "title": "B 站上线“AI 无限竞技场”：百大模型同台 PK，GPT-6 Astra 暂居榜首",
+          "title_zh": "B 站上线“AI 无限竞技场”：百大模型同台 PK，GPT-6 Astra 暂居榜首",
+          "title_en": null,
+          "title_original": "B 站上线“AI 无限竞技场”：百大模型同台 PK，GPT-6 Astra 暂居榜首",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/31193",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-09-20T06:47:16.478769Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7625,
+      "importance": 0.7625,
+      "importance_score": 0.7625,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9715,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-20T06:47:16.478769Z",
+      "latest_at": "2026-09-20T06:47:16.478769Z",
+      "primary_item": {
+        "id": "a8bc0ebee88f1fa467aeb606ca5bdce3fbd99513",
+        "title": "B 站上线“AI 无限竞技场”：百大模型同台 PK，GPT-6 Astra 暂居榜首",
+        "title_zh": "B 站上线“AI 无限竞技场”：百大模型同台 PK，GPT-6 Astra 暂居榜首",
+        "title_en": null,
+        "title_original": "B 站上线“AI 无限竞技场”：百大模型同台 PK，GPT-6 Astra 暂居榜首",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://www.aibase.com/news/31193",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-09-20T08:48:05.586320Z"
+      }
+    },
+    {
+      "story_id": "story_2a34a5394301",
+      "title": "KDE 30 岁了，有人提出了 AI 原生桌面提案 / KDE turns 30 and someone's brought an AI-native desktop proposal",
+      "url": "https://www.theregister.com/software/2026/09/18/kde-turns-30-and-someones-brought-an-ai-native-desktop-proposal/5297282",
+      "primary_url": "https://www.theregister.com/software/2026/09/18/kde-turns-30-and-someones-brought-an-ai-native-desktop-proposal/5297282",
+      "source": "Hacker News",
+      "source_name": "TechURLs",
+      "sources": [
+        {
+          "id": "00cfbfd1df3d0c8f23a73ce6cc21dfd6d0e3f7b6",
+          "title": "KDE 30 岁了，有人提出了 AI 原生桌面提案 / KDE turns 30 and someone's brought an AI-native desktop proposal",
+          "title_zh": "KDE 30 岁了，有人提出了 AI 原生桌面提案",
+          "title_en": "KDE turns 30 and someone's brought an AI-native desktop proposal",
+          "title_original": "KDE turns 30 and someone's brought an AI-native desktop proposal",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.theregister.com/software/2026/09/18/kde-turns-30-and-someones-brought-an-ai-native-desktop-proposal/5297282",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-09-20T07:38:37Z"
+        },
+        {
+          "id": "bc21a632a40e1f97e732039b46c29ee009726253",
+          "title": "KDE 30 岁了，有人提出了 AI 原生桌面提案 / KDE turns 30 and someone's brought an AI-native desktop proposal",
+          "title_zh": "KDE 30 岁了，有人提出了 AI 原生桌面提案",
+          "title_en": "KDE turns 30 and someone's brought an AI-native desktop proposal",
+          "title_original": "KDE turns 30 and someone's brought an AI-native desktop proposal",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=49773439",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-09-20T07:38:37Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News",
+        "hackernews"
+      ],
+      "items": [
+        {
+          "id": "00cfbfd1df3d0c8f23a73ce6cc21dfd6d0e3f7b6",
+          "title": "KDE 30 岁了，有人提出了 AI 原生桌面提案 / KDE turns 30 and someone's brought an AI-native desktop proposal",
+          "title_zh": "KDE 30 岁了，有人提出了 AI 原生桌面提案",
+          "title_en": "KDE turns 30 and someone's brought an AI-native desktop proposal",
+          "title_original": "KDE turns 30 and someone's brought an AI-native desktop proposal",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.theregister.com/software/2026/09/18/kde-turns-30-and-someones-brought-an-ai-native-desktop-proposal/5297282",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-09-20T07:38:37Z"
+        },
+        {
+          "id": "bc21a632a40e1f97e732039b46c29ee009726253",
+          "title": "KDE 30 岁了，有人提出了 AI 原生桌面提案 / KDE turns 30 and someone's brought an AI-native desktop proposal",
+          "title_zh": "KDE 30 岁了，有人提出了 AI 原生桌面提案",
+          "title_en": "KDE turns 30 and someone's brought an AI-native desktop proposal",
+          "title_original": "KDE turns 30 and someone's brought an AI-native desktop proposal",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=49773439",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-09-20T07:38:37Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5428,
+      "importance": 0.5428,
+      "importance_score": 0.5428,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9836,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-09-20T07:38:37Z",
+      "latest_at": "2026-09-20T07:38:37Z",
+      "primary_item": {
+        "id": "00cfbfd1df3d0c8f23a73ce6cc21dfd6d0e3f7b6",
+        "title": "KDE 30 岁了，有人提出了 AI 原生桌面提案 / KDE turns 30 and someone's brought an AI-native desktop proposal",
+        "title_zh": "KDE 30 岁了，有人提出了 AI 原生桌面提案",
+        "title_en": "KDE turns 30 and someone's brought an AI-native desktop proposal",
+        "title_original": "KDE turns 30 and someone's brought an AI-native desktop proposal",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://www.theregister.com/software/2026/09/18/kde-turns-30-and-someones-brought-an-ai-native-desktop-proposal/5297282",
+        "source": "Hacker News",
+        "source_name": "TechURLs"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-09-20T08:48:05.586320Z"
+      }
+    },
+    {
+      "story_id": "story_79fe487188c4",
+      "title": "编排Claude代码代理：参谋长模式 / Orchestrating Claude Code Agents: The Chief of Staff Pattern",
+      "url": "https://asyncdot.com/blog/chief-of-staff-pattern-orchestrating-claude-code-sessions",
+      "primary_url": "https://asyncdot.com/blog/chief-of-staff-pattern-orchestrating-claude-code-sessions",
+      "source": "Hacker News (黑客新闻)",
+      "source_name": "Info Flow",
+      "sources": [
+        {
+          "id": "cb85605f720543421ef14000d6d9bcc9d20d7df0",
+          "title": "编排Claude代码代理：参谋长模式 / Orchestrating Claude Code Agents: The Chief of Staff Pattern",
+          "title_zh": "编排Claude代码代理：参谋长模式",
+          "title_en": "Orchestrating Claude Code Agents: The Chief of Staff Pattern",
+          "title_original": "Orchestrating Claude Code Agents: The Chief of Staff Pattern",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://asyncdot.com/blog/chief-of-staff-pattern-orchestrating-claude-code-sessions",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-09-20T05:46:19Z"
+        },
+        {
+          "id": "1e8cd5edc0205aacef8052cbbeb2e9f6a0a09ed5",
+          "title": "编排Claude代码代理：参谋长模式 / Orchestrating Claude Code Agents: The Chief of Staff Pattern",
+          "title_zh": "编排Claude代码代理：参谋长模式",
+          "title_en": "Orchestrating Claude Code Agents: The Chief of Staff Pattern",
+          "title_original": "Orchestrating Claude Code Agents: The Chief of Staff Pattern",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=49772806",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-09-20T05:46:19Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News (黑客新闻)",
+        "hackernews"
+      ],
+      "items": [
+        {
+          "id": "cb85605f720543421ef14000d6d9bcc9d20d7df0",
+          "title": "编排Claude代码代理：参谋长模式 / Orchestrating Claude Code Agents: The Chief of Staff Pattern",
+          "title_zh": "编排Claude代码代理：参谋长模式",
+          "title_en": "Orchestrating Claude Code Agents: The Chief of Staff Pattern",
+          "title_original": "Orchestrating Claude Code Agents: The Chief of Staff Pattern",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://asyncdot.com/blog/chief-of-staff-pattern-orchestrating-claude-code-sessions",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-09-20T05:46:19Z"
+        },
+        {
+          "id": "1e8cd5edc0205aacef8052cbbeb2e9f6a0a09ed5",
+          "title": "编排Claude代码代理：参谋长模式 / Orchestrating Claude Code Agents: The Chief of Staff Pattern",
+          "title_zh": "编排Claude代码代理：参谋长模式",
+          "title_en": "Orchestrating Claude Code Agents: The Chief of Staff Pattern",
+          "title_original": "Orchestrating Claude Code Agents: The Chief of Staff Pattern",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=49772806",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-09-20T05:46:19Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5381,
+      "importance": 0.5381,
+      "importance_score": 0.5381,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9574,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-09-20T05:46:19Z",
+      "latest_at": "2026-09-20T05:46:19Z",
+      "primary_item": {
+        "id": "cb85605f720543421ef14000d6d9bcc9d20d7df0",
+        "title": "编排Claude代码代理：参谋长模式 / Orchestrating Claude Code Agents: The Chief of Staff Pattern",
+        "title_zh": "编排Claude代码代理：参谋长模式",
+        "title_en": "Orchestrating Claude Code Agents: The Chief of Staff Pattern",
+        "title_original": "Orchestrating Claude Code Agents: The Chief of Staff Pattern",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://asyncdot.com/blog/chief-of-staff-pattern-orchestrating-claude-code-sessions",
+        "source": "Hacker News (黑客新闻)",
+        "source_name": "Info Flow"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-09-20T08:48:05.586320Z"
       }
     },
     {
@@ -987,15 +1371,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.765,
-      "importance": 0.765,
-      "importance_score": 0.765,
+      "score": 0.7625,
+      "importance": 0.7625,
+      "importance_score": 0.7625,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9856,
+        "recency": 0.9715,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1021,281 +1405,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-20T07:48:08.050235Z"
-      }
-    },
-    {
-      "story_id": "story_919e226efbae",
-      "title": "DeepSeek明确调休日计费规则，中秋国庆迎来十天\"半价窗口\"",
-      "url": "https://www.aibase.com/news/31191",
-      "primary_url": "https://www.aibase.com/news/31191",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "153c2fdd94c035054d3218ec0941a6dd0e4421f5",
-          "title": "DeepSeek明确调休日计费规则，中秋国庆迎来十天\"半价窗口\"",
-          "title_zh": "DeepSeek明确调休日计费规则，中秋国庆迎来十天\"半价窗口\"",
-          "title_en": null,
-          "title_original": "DeepSeek明确调休日计费规则，中秋国庆迎来十天\"半价窗口\"",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/31191",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-09-20T06:47:16.478769Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "153c2fdd94c035054d3218ec0941a6dd0e4421f5",
-          "title": "DeepSeek明确调休日计费规则，中秋国庆迎来十天\"半价窗口\"",
-          "title_zh": "DeepSeek明确调休日计费规则，中秋国庆迎来十天\"半价窗口\"",
-          "title_en": null,
-          "title_original": "DeepSeek明确调休日计费规则，中秋国庆迎来十天\"半价窗口\"",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/31191",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-09-20T06:47:16.478769Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.765,
-      "importance": 0.765,
-      "importance_score": 0.765,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.9856,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-20T06:47:16.478769Z",
-      "latest_at": "2026-09-20T06:47:16.478769Z",
-      "primary_item": {
-        "id": "153c2fdd94c035054d3218ec0941a6dd0e4421f5",
-        "title": "DeepSeek明确调休日计费规则，中秋国庆迎来十天\"半价窗口\"",
-        "title_zh": "DeepSeek明确调休日计费规则，中秋国庆迎来十天\"半价窗口\"",
-        "title_en": null,
-        "title_original": "DeepSeek明确调休日计费规则，中秋国庆迎来十天\"半价窗口\"",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/31191",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-09-20T07:48:08.050235Z"
-      }
-    },
-    {
-      "story_id": "story_4d5a6d10ba98",
-      "title": "Hugging Face黑客并不是人们所吹捧的那样 / The Hugging Face Hack Wasn't What It Was Cracked Up to Be",
-      "url": "https://www.wsj.com/opinion/the-hugging-face-hack-wasnt-what-it-was-cracked-up-to-be-e00cf3fa",
-      "primary_url": "https://www.wsj.com/opinion/the-hugging-face-hack-wasnt-what-it-was-cracked-up-to-be-e00cf3fa",
-      "source": "Hacker News",
-      "source_name": "TechURLs",
-      "sources": [
-        {
-          "id": "05e7b970736183dab048975f364a2f3efa52a9b3",
-          "title": "Hugging Face黑客并不是人们所吹捧的那样 / The Hugging Face Hack Wasn't What It Was Cracked Up to Be",
-          "title_zh": "Hugging Face黑客并不是人们所吹捧的那样",
-          "title_en": "The Hugging Face Hack Wasn't What It Was Cracked Up to Be",
-          "title_original": "The Hugging Face Hack Wasn't What It Was Cracked Up to Be",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.wsj.com/opinion/the-hugging-face-hack-wasnt-what-it-was-cracked-up-to-be-e00cf3fa",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-09-20T00:10:00Z"
-        },
-        {
-          "id": "a3076861303074c90ac40034f1e537d9856c694b",
-          "title": "Hugging Face黑客并不是人们所吹捧的那样 / The Hugging Face Hack Wasn't What It Was Cracked Up to Be",
-          "title_zh": "Hugging Face黑客并不是人们所吹捧的那样",
-          "title_en": "The Hugging Face Hack Wasn't What It Was Cracked Up to Be",
-          "title_original": "The Hugging Face Hack Wasn't What It Was Cracked Up to Be",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=49771266",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-09-20T00:10:00Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News",
-        "hackernews"
-      ],
-      "items": [
-        {
-          "id": "05e7b970736183dab048975f364a2f3efa52a9b3",
-          "title": "Hugging Face黑客并不是人们所吹捧的那样 / The Hugging Face Hack Wasn't What It Was Cracked Up to Be",
-          "title_zh": "Hugging Face黑客并不是人们所吹捧的那样",
-          "title_en": "The Hugging Face Hack Wasn't What It Was Cracked Up to Be",
-          "title_original": "The Hugging Face Hack Wasn't What It Was Cracked Up to Be",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.wsj.com/opinion/the-hugging-face-hack-wasnt-what-it-was-cracked-up-to-be-e00cf3fa",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-09-20T00:10:00Z"
-        },
-        {
-          "id": "a3076861303074c90ac40034f1e537d9856c694b",
-          "title": "Hugging Face黑客并不是人们所吹捧的那样 / The Hugging Face Hack Wasn't What It Was Cracked Up to Be",
-          "title_zh": "Hugging Face黑客并不是人们所吹捧的那样",
-          "title_en": "The Hugging Face Hack Wasn't What It Was Cracked Up to Be",
-          "title_original": "The Hugging Face Hack Wasn't What It Was Cracked Up to Be",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=49771266",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-09-20T00:10:00Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.527,
-      "importance": 0.527,
-      "importance_score": 0.527,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.8958,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-09-20T00:10:00Z",
-      "latest_at": "2026-09-20T00:10:00Z",
-      "primary_item": {
-        "id": "05e7b970736183dab048975f364a2f3efa52a9b3",
-        "title": "Hugging Face黑客并不是人们所吹捧的那样 / The Hugging Face Hack Wasn't What It Was Cracked Up to Be",
-        "title_zh": "Hugging Face黑客并不是人们所吹捧的那样",
-        "title_en": "The Hugging Face Hack Wasn't What It Was Cracked Up to Be",
-        "title_original": "The Hugging Face Hack Wasn't What It Was Cracked Up to Be",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://www.wsj.com/opinion/the-hugging-face-hack-wasnt-what-it-was-cracked-up-to-be-e00cf3fa",
-        "source": "Hacker News",
-        "source_name": "TechURLs"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-09-20T07:48:08.050235Z"
-      }
-    },
-    {
-      "story_id": "story_c096011f87e1",
-      "title": "启元机器人接入腾讯云WorkBuddy，AI首次从屏幕\"走\"进物理世界",
-      "url": "https://www.aibase.com/news/31190",
-      "primary_url": "https://www.aibase.com/news/31190",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "98862ac4c8266264c05c1198d2854645bba8210f",
-          "title": "启元机器人接入腾讯云WorkBuddy，AI首次从屏幕\"走\"进物理世界",
-          "title_zh": "启元机器人接入腾讯云WorkBuddy，AI首次从屏幕\"走\"进物理世界",
-          "title_en": null,
-          "title_original": "启元机器人接入腾讯云WorkBuddy，AI首次从屏幕\"走\"进物理世界",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/31190",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-09-20T06:47:16.478769Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "98862ac4c8266264c05c1198d2854645bba8210f",
-          "title": "启元机器人接入腾讯云WorkBuddy，AI首次从屏幕\"走\"进物理世界",
-          "title_zh": "启元机器人接入腾讯云WorkBuddy，AI首次从屏幕\"走\"进物理世界",
-          "title_en": null,
-          "title_original": "启元机器人接入腾讯云WorkBuddy，AI首次从屏幕\"走\"进物理世界",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/31190",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-09-20T06:47:16.478769Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.765,
-      "importance": 0.765,
-      "importance_score": 0.765,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.9856,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-20T06:47:16.478769Z",
-      "latest_at": "2026-09-20T06:47:16.478769Z",
-      "primary_item": {
-        "id": "98862ac4c8266264c05c1198d2854645bba8210f",
-        "title": "启元机器人接入腾讯云WorkBuddy，AI首次从屏幕\"走\"进物理世界",
-        "title_zh": "启元机器人接入腾讯云WorkBuddy，AI首次从屏幕\"走\"进物理世界",
-        "title_en": null,
-        "title_original": "启元机器人接入腾讯云WorkBuddy，AI首次从屏幕\"走\"进物理世界",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/31190",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-09-20T07:48:08.050235Z"
+        "scored_at": "2026-09-20T08:48:05.586320Z"
       }
     },
     {
@@ -1372,15 +1482,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5244,
-      "importance": 0.5244,
-      "importance_score": 0.5244,
+      "score": 0.5222,
+      "importance": 0.5222,
+      "importance_score": 0.5222,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8813,
+        "recency": 0.8687,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1405,7 +1515,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-20T07:48:08.050235Z"
+        "scored_at": "2026-09-20T08:48:05.586320Z"
       }
     },
     {
@@ -1511,15 +1621,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5239,
-      "importance": 0.5239,
-      "importance_score": 0.5239,
+      "score": 0.522,
+      "importance": 0.522,
+      "importance_score": 0.522,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7395,
+        "recency": 0.7289,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1544,44 +1654,44 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-20T07:48:08.050235Z"
+        "scored_at": "2026-09-20T08:48:05.586320Z"
       }
     },
     {
-      "story_id": "story_adc7678cfd9c",
-      "title": "Show HN：我创建了一个开源的本地可用的成熟人工智能平台 / Show HN: I created an open source locally usable full fledged AI platform",
-      "url": "https://github.com/theguysudo/ENZO",
-      "primary_url": "https://github.com/theguysudo/ENZO",
+      "story_id": "story_4d5a6d10ba98",
+      "title": "Hugging Face黑客并不是人们所吹捧的那样 / The Hugging Face Hack Wasn't What It Was Cracked Up to Be",
+      "url": "https://www.wsj.com/opinion/the-hugging-face-hack-wasnt-what-it-was-cracked-up-to-be-e00cf3fa",
+      "primary_url": "https://www.wsj.com/opinion/the-hugging-face-hack-wasnt-what-it-was-cracked-up-to-be-e00cf3fa",
       "source": "Hacker News",
       "source_name": "TechURLs",
       "sources": [
         {
-          "id": "b47217b4c029b973886670ffddeeb9a209d8a78c",
-          "title": "Show HN：我创建了一个开源的本地可用的成熟人工智能平台 / Show HN: I created an open source locally usable full fledged AI platform",
-          "title_zh": "Show HN：我创建了一个开源的本地可用的成熟人工智能平台",
-          "title_en": "Show HN: I created an open source locally usable full fledged AI platform",
-          "title_original": "Show HN: I created an open source locally usable full fledged AI platform",
+          "id": "05e7b970736183dab048975f364a2f3efa52a9b3",
+          "title": "Hugging Face黑客并不是人们所吹捧的那样 / The Hugging Face Hack Wasn't What It Was Cracked Up to Be",
+          "title_zh": "Hugging Face黑客并不是人们所吹捧的那样",
+          "title_en": "The Hugging Face Hack Wasn't What It Was Cracked Up to Be",
+          "title_original": "The Hugging Face Hack Wasn't What It Was Cracked Up to Be",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://github.com/theguysudo/ENZO",
+          "url": "https://www.wsj.com/opinion/the-hugging-face-hack-wasnt-what-it-was-cracked-up-to-be-e00cf3fa",
           "source": "Hacker News",
           "source_name": "TechURLs",
           "site_id": "techurls",
-          "published_at": "2026-09-19T23:47:35Z"
+          "published_at": "2026-09-20T00:10:00Z"
         },
         {
-          "id": "1693ba4b22de4899bb95f498140994964b3b5132",
-          "title": "Show HN：我创建了一个开源的本地可用的成熟人工智能平台 / Show HN: I created an open source locally usable full fledged AI platform",
-          "title_zh": "Show HN：我创建了一个开源的本地可用的成熟人工智能平台",
-          "title_en": "Show HN: I created an open source locally usable full fledged AI platform",
-          "title_original": "Show HN: I created an open source locally usable full fledged AI platform",
+          "id": "a3076861303074c90ac40034f1e537d9856c694b",
+          "title": "Hugging Face黑客并不是人们所吹捧的那样 / The Hugging Face Hack Wasn't What It Was Cracked Up to Be",
+          "title_zh": "Hugging Face黑客并不是人们所吹捧的那样",
+          "title_en": "The Hugging Face Hack Wasn't What It Was Cracked Up to Be",
+          "title_original": "The Hugging Face Hack Wasn't What It Was Cracked Up to Be",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=49771118",
+          "url": "https://news.ycombinator.com/item?id=49771266",
           "source": "hackernews",
           "source_name": "NewsNow",
           "site_id": "newsnow",
-          "published_at": "2026-09-19T23:47:35Z"
+          "published_at": "2026-09-20T00:10:00Z"
         }
       ],
       "source_count": 2,
@@ -1591,62 +1701,62 @@
       ],
       "items": [
         {
-          "id": "b47217b4c029b973886670ffddeeb9a209d8a78c",
-          "title": "Show HN：我创建了一个开源的本地可用的成熟人工智能平台 / Show HN: I created an open source locally usable full fledged AI platform",
-          "title_zh": "Show HN：我创建了一个开源的本地可用的成熟人工智能平台",
-          "title_en": "Show HN: I created an open source locally usable full fledged AI platform",
-          "title_original": "Show HN: I created an open source locally usable full fledged AI platform",
+          "id": "05e7b970736183dab048975f364a2f3efa52a9b3",
+          "title": "Hugging Face黑客并不是人们所吹捧的那样 / The Hugging Face Hack Wasn't What It Was Cracked Up to Be",
+          "title_zh": "Hugging Face黑客并不是人们所吹捧的那样",
+          "title_en": "The Hugging Face Hack Wasn't What It Was Cracked Up to Be",
+          "title_original": "The Hugging Face Hack Wasn't What It Was Cracked Up to Be",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://github.com/theguysudo/ENZO",
+          "url": "https://www.wsj.com/opinion/the-hugging-face-hack-wasnt-what-it-was-cracked-up-to-be-e00cf3fa",
           "source": "Hacker News",
           "source_name": "TechURLs",
           "site_id": "techurls",
-          "published_at": "2026-09-19T23:47:35Z"
+          "published_at": "2026-09-20T00:10:00Z"
         },
         {
-          "id": "1693ba4b22de4899bb95f498140994964b3b5132",
-          "title": "Show HN：我创建了一个开源的本地可用的成熟人工智能平台 / Show HN: I created an open source locally usable full fledged AI platform",
-          "title_zh": "Show HN：我创建了一个开源的本地可用的成熟人工智能平台",
-          "title_en": "Show HN: I created an open source locally usable full fledged AI platform",
-          "title_original": "Show HN: I created an open source locally usable full fledged AI platform",
+          "id": "a3076861303074c90ac40034f1e537d9856c694b",
+          "title": "Hugging Face黑客并不是人们所吹捧的那样 / The Hugging Face Hack Wasn't What It Was Cracked Up to Be",
+          "title_zh": "Hugging Face黑客并不是人们所吹捧的那样",
+          "title_en": "The Hugging Face Hack Wasn't What It Was Cracked Up to Be",
+          "title_original": "The Hugging Face Hack Wasn't What It Was Cracked Up to Be",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=49771118",
+          "url": "https://news.ycombinator.com/item?id=49771266",
           "source": "hackernews",
           "source_name": "NewsNow",
           "site_id": "newsnow",
-          "published_at": "2026-09-19T23:47:35Z"
+          "published_at": "2026-09-20T00:10:00Z"
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5262,
-      "importance": 0.5262,
-      "importance_score": 0.5262,
+      "score": 0.5247,
+      "importance": 0.5247,
+      "importance_score": 0.5247,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8909,
+        "recency": 0.8829,
         "story_heat": 0.25
       },
       "category": "watch",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-09-19T23:47:35Z",
-      "latest_at": "2026-09-19T23:47:35Z",
+      "earliest_at": "2026-09-20T00:10:00Z",
+      "latest_at": "2026-09-20T00:10:00Z",
       "primary_item": {
-        "id": "b47217b4c029b973886670ffddeeb9a209d8a78c",
-        "title": "Show HN：我创建了一个开源的本地可用的成熟人工智能平台 / Show HN: I created an open source locally usable full fledged AI platform",
-        "title_zh": "Show HN：我创建了一个开源的本地可用的成熟人工智能平台",
-        "title_en": "Show HN: I created an open source locally usable full fledged AI platform",
-        "title_original": "Show HN: I created an open source locally usable full fledged AI platform",
+        "id": "05e7b970736183dab048975f364a2f3efa52a9b3",
+        "title": "Hugging Face黑客并不是人们所吹捧的那样 / The Hugging Face Hack Wasn't What It Was Cracked Up to Be",
+        "title_zh": "Hugging Face黑客并不是人们所吹捧的那样",
+        "title_en": "The Hugging Face Hack Wasn't What It Was Cracked Up to Be",
+        "title_original": "The Hugging Face Hack Wasn't What It Was Cracked Up to Be",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://github.com/theguysudo/ENZO",
+        "url": "https://www.wsj.com/opinion/the-hugging-face-hack-wasnt-what-it-was-cracked-up-to-be-e00cf3fa",
         "source": "Hacker News",
         "source_name": "TechURLs"
       },
@@ -1654,26 +1764,26 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-20T07:48:08.050235Z"
+        "scored_at": "2026-09-20T08:48:05.586320Z"
       }
     },
     {
-      "story_id": "story_081fe103d7de",
-      "title": "阶跃星辰 Step 5 Preview 全量开放：600B 参数打平 K3 级性能，新用户最长白嫖 75 天",
-      "url": "https://www.aibase.com/news/31194",
-      "primary_url": "https://www.aibase.com/news/31194",
+      "story_id": "story_919e226efbae",
+      "title": "DeepSeek明确调休日计费规则，中秋国庆迎来十天\"半价窗口\"",
+      "url": "https://www.aibase.com/news/31191",
+      "primary_url": "https://www.aibase.com/news/31191",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "90e270371d0aabbc835e0962954fe0aaa65d57e9",
-          "title": "阶跃星辰 Step 5 Preview 全量开放：600B 参数打平 K3 级性能，新用户最长白嫖 75 天",
-          "title_zh": "阶跃星辰 Step 5 Preview 全量开放：600B 参数打平 K3 级性能，新用户最长白嫖 75 天",
+          "id": "153c2fdd94c035054d3218ec0941a6dd0e4421f5",
+          "title": "DeepSeek明确调休日计费规则，中秋国庆迎来十天\"半价窗口\"",
+          "title_zh": "DeepSeek明确调休日计费规则，中秋国庆迎来十天\"半价窗口\"",
           "title_en": null,
-          "title_original": "阶跃星辰 Step 5 Preview 全量开放：600B 参数打平 K3 级性能，新用户最长白嫖 75 天",
+          "title_original": "DeepSeek明确调休日计费规则，中秋国庆迎来十天\"半价窗口\"",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/31194",
+          "url": "https://www.aibase.com/news/31191",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
@@ -1686,14 +1796,14 @@
       ],
       "items": [
         {
-          "id": "90e270371d0aabbc835e0962954fe0aaa65d57e9",
-          "title": "阶跃星辰 Step 5 Preview 全量开放：600B 参数打平 K3 级性能，新用户最长白嫖 75 天",
-          "title_zh": "阶跃星辰 Step 5 Preview 全量开放：600B 参数打平 K3 级性能，新用户最长白嫖 75 天",
+          "id": "153c2fdd94c035054d3218ec0941a6dd0e4421f5",
+          "title": "DeepSeek明确调休日计费规则，中秋国庆迎来十天\"半价窗口\"",
+          "title_zh": "DeepSeek明确调休日计费规则，中秋国庆迎来十天\"半价窗口\"",
           "title_en": null,
-          "title_original": "阶跃星辰 Step 5 Preview 全量开放：600B 参数打平 K3 级性能，新用户最长白嫖 75 天",
+          "title_original": "DeepSeek明确调休日计费规则，中秋国庆迎来十天\"半价窗口\"",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/31194",
+          "url": "https://www.aibase.com/news/31191",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
@@ -1702,15 +1812,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.765,
-      "importance": 0.765,
-      "importance_score": 0.765,
+      "score": 0.7625,
+      "importance": 0.7625,
+      "importance_score": 0.7625,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9856,
+        "recency": 0.9715,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1721,14 +1831,14 @@
       "earliest_at": "2026-09-20T06:47:16.478769Z",
       "latest_at": "2026-09-20T06:47:16.478769Z",
       "primary_item": {
-        "id": "90e270371d0aabbc835e0962954fe0aaa65d57e9",
-        "title": "阶跃星辰 Step 5 Preview 全量开放：600B 参数打平 K3 级性能，新用户最长白嫖 75 天",
-        "title_zh": "阶跃星辰 Step 5 Preview 全量开放：600B 参数打平 K3 级性能，新用户最长白嫖 75 天",
+        "id": "153c2fdd94c035054d3218ec0941a6dd0e4421f5",
+        "title": "DeepSeek明确调休日计费规则，中秋国庆迎来十天\"半价窗口\"",
+        "title_zh": "DeepSeek明确调休日计费规则，中秋国庆迎来十天\"半价窗口\"",
         "title_en": null,
-        "title_original": "阶跃星辰 Step 5 Preview 全量开放：600B 参数打平 K3 级性能，新用户最长白嫖 75 天",
+        "title_original": "DeepSeek明确调休日计费规则，中秋国庆迎来十天\"半价窗口\"",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/31194",
+        "url": "https://www.aibase.com/news/31191",
         "source": "AIbase",
         "source_name": "AIbase"
       },
@@ -1736,7 +1846,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-20T07:48:08.050235Z"
+        "scored_at": "2026-09-20T08:48:05.586320Z"
       }
     },
     {
@@ -1813,15 +1923,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5176,
-      "importance": 0.5176,
-      "importance_score": 0.5176,
+      "score": 0.5154,
+      "importance": 0.5154,
+      "importance_score": 0.5154,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8434,
+        "recency": 0.8312,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1846,44 +1956,44 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-20T07:48:08.050235Z"
+        "scored_at": "2026-09-20T08:48:05.586320Z"
       }
     },
     {
-      "story_id": "story_60d9a7248980",
-      "title": "为什么人工智能无法拯救不理解数据的企业 / Why AI Cannot Save an Enterprise That Doesn't Understand Its Data",
-      "url": "https://architectureintel.com/why-ai-cannot-save-an-enterprise-that-doesnt-understand-its-data-83613f209317",
-      "primary_url": "https://architectureintel.com/why-ai-cannot-save-an-enterprise-that-doesnt-understand-its-data-83613f209317",
+      "story_id": "story_adc7678cfd9c",
+      "title": "Show HN：我创建了一个开源的本地可用的成熟人工智能平台 / Show HN: I created an open source locally usable full fledged AI platform",
+      "url": "https://github.com/theguysudo/ENZO",
+      "primary_url": "https://github.com/theguysudo/ENZO",
       "source": "Hacker News",
       "source_name": "TechURLs",
       "sources": [
         {
-          "id": "b3ca47b05c6a4ddfc765a6fb0942c7b8bbd90a5a",
-          "title": "为什么人工智能无法拯救不理解数据的企业 / Why AI Cannot Save an Enterprise That Doesn't Understand Its Data",
-          "title_zh": "为什么人工智能无法拯救不理解数据的企业",
-          "title_en": "Why AI Cannot Save an Enterprise That Doesn't Understand Its Data",
-          "title_original": "Why AI Cannot Save an Enterprise That Doesn't Understand Its Data",
+          "id": "b47217b4c029b973886670ffddeeb9a209d8a78c",
+          "title": "Show HN：我创建了一个开源的本地可用的成熟人工智能平台 / Show HN: I created an open source locally usable full fledged AI platform",
+          "title_zh": "Show HN：我创建了一个开源的本地可用的成熟人工智能平台",
+          "title_en": "Show HN: I created an open source locally usable full fledged AI platform",
+          "title_original": "Show HN: I created an open source locally usable full fledged AI platform",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://architectureintel.com/why-ai-cannot-save-an-enterprise-that-doesnt-understand-its-data-83613f209317",
+          "url": "https://github.com/theguysudo/ENZO",
           "source": "Hacker News",
           "source_name": "TechURLs",
           "site_id": "techurls",
-          "published_at": "2026-09-19T22:22:28Z"
+          "published_at": "2026-09-19T23:47:35Z"
         },
         {
-          "id": "7d71354a95bf86f529b8782d7f9d0898e6212ebf",
-          "title": "为什么人工智能无法拯救不理解数据的企业 / Why AI Cannot Save an Enterprise That Doesn't Understand Its Data",
-          "title_zh": "为什么人工智能无法拯救不理解数据的企业",
-          "title_en": "Why AI Cannot Save an Enterprise That Doesn't Understand Its Data",
-          "title_original": "Why AI Cannot Save an Enterprise That Doesn't Understand Its Data",
+          "id": "1693ba4b22de4899bb95f498140994964b3b5132",
+          "title": "Show HN：我创建了一个开源的本地可用的成熟人工智能平台 / Show HN: I created an open source locally usable full fledged AI platform",
+          "title_zh": "Show HN：我创建了一个开源的本地可用的成熟人工智能平台",
+          "title_en": "Show HN: I created an open source locally usable full fledged AI platform",
+          "title_original": "Show HN: I created an open source locally usable full fledged AI platform",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=49770580",
+          "url": "https://news.ycombinator.com/item?id=49771118",
           "source": "hackernews",
           "source_name": "NewsNow",
           "site_id": "newsnow",
-          "published_at": "2026-09-19T22:22:28Z"
+          "published_at": "2026-09-19T23:47:35Z"
         }
       ],
       "source_count": 2,
@@ -1893,62 +2003,62 @@
       ],
       "items": [
         {
-          "id": "b3ca47b05c6a4ddfc765a6fb0942c7b8bbd90a5a",
-          "title": "为什么人工智能无法拯救不理解数据的企业 / Why AI Cannot Save an Enterprise That Doesn't Understand Its Data",
-          "title_zh": "为什么人工智能无法拯救不理解数据的企业",
-          "title_en": "Why AI Cannot Save an Enterprise That Doesn't Understand Its Data",
-          "title_original": "Why AI Cannot Save an Enterprise That Doesn't Understand Its Data",
+          "id": "b47217b4c029b973886670ffddeeb9a209d8a78c",
+          "title": "Show HN：我创建了一个开源的本地可用的成熟人工智能平台 / Show HN: I created an open source locally usable full fledged AI platform",
+          "title_zh": "Show HN：我创建了一个开源的本地可用的成熟人工智能平台",
+          "title_en": "Show HN: I created an open source locally usable full fledged AI platform",
+          "title_original": "Show HN: I created an open source locally usable full fledged AI platform",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://architectureintel.com/why-ai-cannot-save-an-enterprise-that-doesnt-understand-its-data-83613f209317",
+          "url": "https://github.com/theguysudo/ENZO",
           "source": "Hacker News",
           "source_name": "TechURLs",
           "site_id": "techurls",
-          "published_at": "2026-09-19T22:22:28Z"
+          "published_at": "2026-09-19T23:47:35Z"
         },
         {
-          "id": "7d71354a95bf86f529b8782d7f9d0898e6212ebf",
-          "title": "为什么人工智能无法拯救不理解数据的企业 / Why AI Cannot Save an Enterprise That Doesn't Understand Its Data",
-          "title_zh": "为什么人工智能无法拯救不理解数据的企业",
-          "title_en": "Why AI Cannot Save an Enterprise That Doesn't Understand Its Data",
-          "title_original": "Why AI Cannot Save an Enterprise That Doesn't Understand Its Data",
+          "id": "1693ba4b22de4899bb95f498140994964b3b5132",
+          "title": "Show HN：我创建了一个开源的本地可用的成熟人工智能平台 / Show HN: I created an open source locally usable full fledged AI platform",
+          "title_zh": "Show HN：我创建了一个开源的本地可用的成熟人工智能平台",
+          "title_en": "Show HN: I created an open source locally usable full fledged AI platform",
+          "title_original": "Show HN: I created an open source locally usable full fledged AI platform",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=49770580",
+          "url": "https://news.ycombinator.com/item?id=49771118",
           "source": "hackernews",
           "source_name": "NewsNow",
           "site_id": "newsnow",
-          "published_at": "2026-09-19T22:22:28Z"
+          "published_at": "2026-09-19T23:47:35Z"
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5229,
-      "importance": 0.5229,
-      "importance_score": 0.5229,
+      "score": 0.5239,
+      "importance": 0.5239,
+      "importance_score": 0.5239,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8729,
+        "recency": 0.8782,
         "story_heat": 0.25
       },
       "category": "watch",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-09-19T22:22:28Z",
-      "latest_at": "2026-09-19T22:22:28Z",
+      "earliest_at": "2026-09-19T23:47:35Z",
+      "latest_at": "2026-09-19T23:47:35Z",
       "primary_item": {
-        "id": "b3ca47b05c6a4ddfc765a6fb0942c7b8bbd90a5a",
-        "title": "为什么人工智能无法拯救不理解数据的企业 / Why AI Cannot Save an Enterprise That Doesn't Understand Its Data",
-        "title_zh": "为什么人工智能无法拯救不理解数据的企业",
-        "title_en": "Why AI Cannot Save an Enterprise That Doesn't Understand Its Data",
-        "title_original": "Why AI Cannot Save an Enterprise That Doesn't Understand Its Data",
+        "id": "b47217b4c029b973886670ffddeeb9a209d8a78c",
+        "title": "Show HN：我创建了一个开源的本地可用的成熟人工智能平台 / Show HN: I created an open source locally usable full fledged AI platform",
+        "title_zh": "Show HN：我创建了一个开源的本地可用的成熟人工智能平台",
+        "title_en": "Show HN: I created an open source locally usable full fledged AI platform",
+        "title_original": "Show HN: I created an open source locally usable full fledged AI platform",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://architectureintel.com/why-ai-cannot-save-an-enterprise-that-doesnt-understand-its-data-83613f209317",
+        "url": "https://github.com/theguysudo/ENZO",
         "source": "Hacker News",
         "source_name": "TechURLs"
       },
@@ -1956,89 +2066,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-20T07:48:08.050235Z"
-      }
-    },
-    {
-      "story_id": "story_e1fd0d999371",
-      "title": "MiniMax 开源 Code CLI：命令行编程工具亮出 76.7% 通过率，把企业级 harness 摊在阳光下",
-      "url": "https://www.aibase.com/news/31189",
-      "primary_url": "https://www.aibase.com/news/31189",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "6dc2e713e964392dd9302c202f330a7e09070e0a",
-          "title": "MiniMax 开源 Code CLI：命令行编程工具亮出 76.7% 通过率，把企业级 harness 摊在阳光下",
-          "title_zh": "MiniMax 开源 Code CLI：命令行编程工具亮出 76.7% 通过率，把企业级 harness 摊在阳光下",
-          "title_en": null,
-          "title_original": "MiniMax 开源 Code CLI：命令行编程工具亮出 76.7% 通过率，把企业级 harness 摊在阳光下",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/31189",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-09-20T03:47:17.305522Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "6dc2e713e964392dd9302c202f330a7e09070e0a",
-          "title": "MiniMax 开源 Code CLI：命令行编程工具亮出 76.7% 通过率，把企业级 harness 摊在阳光下",
-          "title_zh": "MiniMax 开源 Code CLI：命令行编程工具亮出 76.7% 通过率，把企业级 harness 摊在阳光下",
-          "title_en": null,
-          "title_original": "MiniMax 开源 Code CLI：命令行编程工具亮出 76.7% 通过率，把企业级 harness 摊在阳光下",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/31189",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-09-20T03:47:17.305522Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7575,
-      "importance": 0.7575,
-      "importance_score": 0.7575,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.9439,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-20T03:47:17.305522Z",
-      "latest_at": "2026-09-20T03:47:17.305522Z",
-      "primary_item": {
-        "id": "6dc2e713e964392dd9302c202f330a7e09070e0a",
-        "title": "MiniMax 开源 Code CLI：命令行编程工具亮出 76.7% 通过率，把企业级 harness 摊在阳光下",
-        "title_zh": "MiniMax 开源 Code CLI：命令行编程工具亮出 76.7% 通过率，把企业级 harness 摊在阳光下",
-        "title_en": null,
-        "title_original": "MiniMax 开源 Code CLI：命令行编程工具亮出 76.7% 通过率，把企业级 harness 摊在阳光下",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/31189",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-09-20T07:48:08.050235Z"
+        "scored_at": "2026-09-20T08:48:05.586320Z"
       }
     }
   ]
