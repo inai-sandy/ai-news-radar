@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-20T18:47:18.020723Z",
+  "generated_at": "2026-09-20T19:47:20.437969Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -135,15 +135,15 @@
       ],
       "item_count": 4,
       "duplicate_count": 4,
-      "score": 0.8528,
-      "importance": 0.8528,
-      "importance_score": 0.8528,
+      "score": 0.8502,
+      "importance": 0.8502,
+      "importance_score": 0.8502,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.76,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.99,
+        "recency": 0.9758,
         "story_heat": 0.75
       },
       "category": "multi_source",
@@ -170,7 +170,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-20T18:47:59.564846Z"
+        "scored_at": "2026-09-20T19:48:04.916808Z"
       }
     },
     {
@@ -304,15 +304,15 @@
       ],
       "item_count": 4,
       "duplicate_count": 4,
-      "score": 0.8258,
-      "importance": 0.8258,
-      "importance_score": 0.8258,
+      "score": 0.8235,
+      "importance": 0.8235,
+      "importance_score": 0.8235,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9066,
+        "recency": 0.8936,
         "story_heat": 0.75
       },
       "category": "multi_source",
@@ -339,7 +339,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-20T18:47:59.564846Z"
+        "scored_at": "2026-09-20T19:48:04.916808Z"
       }
     },
     {
@@ -387,15 +387,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7463,
-      "importance": 0.7463,
-      "importance_score": 0.7463,
+      "score": 0.7439,
+      "importance": 0.7439,
+      "importance_score": 0.7439,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.69,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9315,
+        "recency": 0.9181,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -420,7 +420,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-20T18:47:59.564846Z"
+        "scored_at": "2026-09-20T19:48:04.916808Z"
       }
     },
     {
@@ -468,15 +468,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7457,
-      "importance": 0.7457,
-      "importance_score": 0.7457,
+      "score": 0.7434,
+      "importance": 0.7434,
+      "importance_score": 0.7434,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8781,
+        "recency": 0.8655,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -501,7 +501,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-20T18:47:59.564846Z"
+        "scored_at": "2026-09-20T19:48:04.916808Z"
       }
     },
     {
@@ -578,15 +578,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7648,
-      "importance": 0.7648,
-      "importance_score": 0.7648,
+      "score": 0.7628,
+      "importance": 0.7628,
+      "importance_score": 0.7628,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.77,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7621,
+        "recency": 0.7511,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -613,7 +613,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-20T18:47:59.564846Z"
+        "scored_at": "2026-09-20T19:48:04.916808Z"
       }
     },
     {
@@ -661,15 +661,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7457,
-      "importance": 0.7457,
-      "importance_score": 0.7457,
+      "score": 0.7434,
+      "importance": 0.7434,
+      "importance_score": 0.7434,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8781,
+        "recency": 0.8655,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -694,7 +694,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-20T18:47:59.564846Z"
+        "scored_at": "2026-09-20T19:48:04.916808Z"
       }
     },
     {
@@ -742,15 +742,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7457,
-      "importance": 0.7457,
-      "importance_score": 0.7457,
+      "score": 0.7434,
+      "importance": 0.7434,
+      "importance_score": 0.7434,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8781,
+        "recency": 0.8655,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -775,7 +775,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-20T18:47:59.564846Z"
+        "scored_at": "2026-09-20T19:48:04.916808Z"
       }
     },
     {
@@ -823,15 +823,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7457,
-      "importance": 0.7457,
-      "importance_score": 0.7457,
+      "score": 0.7434,
+      "importance": 0.7434,
+      "importance_score": 0.7434,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8781,
+        "recency": 0.8655,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -856,7 +856,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-20T18:47:59.564846Z"
+        "scored_at": "2026-09-20T19:48:04.916808Z"
       }
     },
     {
@@ -904,15 +904,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7434,
-      "importance": 0.7434,
-      "importance_score": 0.7434,
+      "score": 0.7412,
+      "importance": 0.7412,
+      "importance_score": 0.7412,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8656,
+        "recency": 0.8531,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -937,7 +937,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-20T18:47:59.564846Z"
+        "scored_at": "2026-09-20T19:48:04.916808Z"
       }
     },
     {
@@ -985,15 +985,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7434,
-      "importance": 0.7434,
-      "importance_score": 0.7434,
+      "score": 0.7412,
+      "importance": 0.7412,
+      "importance_score": 0.7412,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8656,
+        "recency": 0.8531,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1018,7 +1018,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-20T18:47:59.564846Z"
+        "scored_at": "2026-09-20T19:48:04.916808Z"
       }
     },
     {
@@ -1124,15 +1124,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5663,
-      "importance": 0.5663,
-      "importance_score": 0.5663,
+      "score": 0.5638,
+      "importance": 0.5638,
+      "importance_score": 0.5638,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9753,
+        "recency": 0.9613,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1157,7 +1157,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-20T18:47:59.564846Z"
+        "scored_at": "2026-09-20T19:48:04.916808Z"
       }
     },
     {
@@ -1263,15 +1263,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.563,
-      "importance": 0.563,
-      "importance_score": 0.563,
+      "score": 0.5606,
+      "importance": 0.5606,
+      "importance_score": 0.5606,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9569,
+        "recency": 0.9432,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1296,7 +1296,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-20T18:47:59.564846Z"
+        "scored_at": "2026-09-20T19:48:04.916808Z"
       }
     },
     {
@@ -1344,15 +1344,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7412,
-      "importance": 0.7412,
-      "importance_score": 0.7412,
+      "score": 0.739,
+      "importance": 0.739,
+      "importance_score": 0.739,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8531,
+        "recency": 0.8409,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1377,7 +1377,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-20T18:47:59.564846Z"
+        "scored_at": "2026-09-20T19:48:04.916808Z"
       }
     },
     {
@@ -1483,15 +1483,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.556,
-      "importance": 0.556,
-      "importance_score": 0.556,
+      "score": 0.5536,
+      "importance": 0.5536,
+      "importance_score": 0.5536,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9176,
+        "recency": 0.9045,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1516,7 +1516,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-20T18:47:59.564846Z"
+        "scored_at": "2026-09-20T19:48:04.916808Z"
       }
     },
     {
@@ -1593,15 +1593,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5431,
-      "importance": 0.5431,
-      "importance_score": 0.5431,
+      "score": 0.5405,
+      "importance": 0.5405,
+      "importance_score": 0.5405,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9848,
+        "recency": 0.9707,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1626,7 +1626,116 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-20T18:47:59.564846Z"
+        "scored_at": "2026-09-20T19:48:04.916808Z"
+      }
+    },
+    {
+      "story_id": "story_9cad91d21d37",
+      "title": "Prompts Aren't Real",
+      "url": "https://news.ycombinator.com/item?id=49777111",
+      "primary_url": "https://news.ycombinator.com/item?id=49777111",
+      "source": "hackernews",
+      "source_name": "NewsNow",
+      "sources": [
+        {
+          "id": "f7298785b732c26cf78359ba15c79c02b7896e2b",
+          "title": "Prompts Aren't Real",
+          "title_zh": null,
+          "title_en": "Prompts Aren't Real",
+          "title_original": "Prompts Aren't Real",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=49777111",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-09-20T15:59:25Z"
+        },
+        {
+          "id": "2e211c410fb3993b66e21663d8c152cfa1076e3b",
+          "title": "Prompts aren’t Real",
+          "title_zh": null,
+          "title_en": "Prompts aren’t Real",
+          "title_original": "Prompts aren’t Real",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=49777111",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-09-20T15:59:25Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "hackernews"
+      ],
+      "items": [
+        {
+          "id": "f7298785b732c26cf78359ba15c79c02b7896e2b",
+          "title": "Prompts Aren't Real",
+          "title_zh": null,
+          "title_en": "Prompts Aren't Real",
+          "title_original": "Prompts Aren't Real",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=49777111",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-09-20T15:59:25Z"
+        },
+        {
+          "id": "2e211c410fb3993b66e21663d8c152cfa1076e3b",
+          "title": "Prompts aren’t Real",
+          "title_zh": null,
+          "title_en": "Prompts aren’t Real",
+          "title_original": "Prompts aren’t Real",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=49777111",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-09-20T15:59:25Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5362,
+      "importance": 0.5362,
+      "importance_score": 0.5362,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9466,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-09-20T15:59:25Z",
+      "latest_at": "2026-09-20T15:59:25Z",
+      "primary_item": {
+        "id": "f7298785b732c26cf78359ba15c79c02b7896e2b",
+        "title": "Prompts Aren't Real",
+        "title_zh": null,
+        "title_en": "Prompts Aren't Real",
+        "title_original": "Prompts Aren't Real",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://news.ycombinator.com/item?id=49777111",
+        "source": "hackernews",
+        "source_name": "NewsNow"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-09-20T19:48:04.916808Z"
       }
     },
     {
@@ -1674,15 +1783,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7412,
-      "importance": 0.7412,
-      "importance_score": 0.7412,
+      "score": 0.739,
+      "importance": 0.739,
+      "importance_score": 0.739,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8531,
+        "recency": 0.8409,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1707,7 +1816,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-20T18:47:59.564846Z"
+        "scored_at": "2026-09-20T19:48:04.916808Z"
       }
     },
     {
@@ -1784,15 +1893,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5281,
-      "importance": 0.5281,
-      "importance_score": 0.5281,
+      "score": 0.5258,
+      "importance": 0.5258,
+      "importance_score": 0.5258,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9017,
+        "recency": 0.8887,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1817,7 +1926,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-20T18:47:59.564846Z"
+        "scored_at": "2026-09-20T19:48:04.916808Z"
       }
     },
     {
@@ -1894,15 +2003,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.515,
-      "importance": 0.515,
-      "importance_score": 0.515,
+      "score": 0.5128,
+      "importance": 0.5128,
+      "importance_score": 0.5128,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8286,
+        "recency": 0.8168,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1927,7 +2036,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-20T18:47:59.564846Z"
+        "scored_at": "2026-09-20T19:48:04.916808Z"
       }
     },
     {
@@ -2004,15 +2113,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5387,
-      "importance": 0.5387,
-      "importance_score": 0.5387,
+      "score": 0.5362,
+      "importance": 0.5362,
+      "importance_score": 0.5362,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9604,
+        "recency": 0.9466,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -2037,117 +2146,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-20T18:47:59.564846Z"
-      }
-    },
-    {
-      "story_id": "story_adc7678cfd9c",
-      "title": "Show HN：我创建了一个开源的本地可用的成熟人工智能平台 / Show HN: I created an open source locally usable full fledged AI platform",
-      "url": "https://github.com/theguysudo/ENZO",
-      "primary_url": "https://github.com/theguysudo/ENZO",
-      "source": "Hacker News",
-      "source_name": "TechURLs",
-      "sources": [
-        {
-          "id": "b47217b4c029b973886670ffddeeb9a209d8a78c",
-          "title": "Show HN：我创建了一个开源的本地可用的成熟人工智能平台 / Show HN: I created an open source locally usable full fledged AI platform",
-          "title_zh": "Show HN：我创建了一个开源的本地可用的成熟人工智能平台",
-          "title_en": "Show HN: I created an open source locally usable full fledged AI platform",
-          "title_original": "Show HN: I created an open source locally usable full fledged AI platform",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://github.com/theguysudo/ENZO",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-09-19T23:47:35Z"
-        },
-        {
-          "id": "1693ba4b22de4899bb95f498140994964b3b5132",
-          "title": "Show HN：我创建了一个开源的本地可用的成熟人工智能平台 / Show HN: I created an open source locally usable full fledged AI platform",
-          "title_zh": "Show HN：我创建了一个开源的本地可用的成熟人工智能平台",
-          "title_en": "Show HN: I created an open source locally usable full fledged AI platform",
-          "title_original": "Show HN: I created an open source locally usable full fledged AI platform",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=49771118",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-09-19T23:47:35Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News",
-        "hackernews"
-      ],
-      "items": [
-        {
-          "id": "b47217b4c029b973886670ffddeeb9a209d8a78c",
-          "title": "Show HN：我创建了一个开源的本地可用的成熟人工智能平台 / Show HN: I created an open source locally usable full fledged AI platform",
-          "title_zh": "Show HN：我创建了一个开源的本地可用的成熟人工智能平台",
-          "title_en": "Show HN: I created an open source locally usable full fledged AI platform",
-          "title_original": "Show HN: I created an open source locally usable full fledged AI platform",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://github.com/theguysudo/ENZO",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-09-19T23:47:35Z"
-        },
-        {
-          "id": "1693ba4b22de4899bb95f498140994964b3b5132",
-          "title": "Show HN：我创建了一个开源的本地可用的成熟人工智能平台 / Show HN: I created an open source locally usable full fledged AI platform",
-          "title_zh": "Show HN：我创建了一个开源的本地可用的成熟人工智能平台",
-          "title_en": "Show HN: I created an open source locally usable full fledged AI platform",
-          "title_original": "Show HN: I created an open source locally usable full fledged AI platform",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=49771118",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-09-19T23:47:35Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5026,
-      "importance": 0.5026,
-      "importance_score": 0.5026,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.7601,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-09-19T23:47:35Z",
-      "latest_at": "2026-09-19T23:47:35Z",
-      "primary_item": {
-        "id": "b47217b4c029b973886670ffddeeb9a209d8a78c",
-        "title": "Show HN：我创建了一个开源的本地可用的成熟人工智能平台 / Show HN: I created an open source locally usable full fledged AI platform",
-        "title_zh": "Show HN：我创建了一个开源的本地可用的成熟人工智能平台",
-        "title_en": "Show HN: I created an open source locally usable full fledged AI platform",
-        "title_original": "Show HN: I created an open source locally usable full fledged AI platform",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://github.com/theguysudo/ENZO",
-        "source": "Hacker News",
-        "source_name": "TechURLs"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-09-20T18:47:59.564846Z"
+        "scored_at": "2026-09-20T19:48:04.916808Z"
       }
     }
   ]
