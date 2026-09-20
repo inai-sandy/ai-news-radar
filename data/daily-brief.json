@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-20T16:47:16.327005Z",
+  "generated_at": "2026-09-20T17:47:20.397285Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -135,15 +135,15 @@
       ],
       "item_count": 4,
       "duplicate_count": 4,
-      "score": 0.8188,
-      "importance": 0.8188,
-      "importance_score": 0.8188,
+      "score": 0.8168,
+      "importance": 0.8168,
+      "importance_score": 0.8168,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.77,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7844,
+        "recency": 0.7731,
         "story_heat": 0.75
       },
       "category": "multi_source",
@@ -170,7 +170,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-20T16:47:54.470852Z"
+        "scored_at": "2026-09-20T17:48:04.647183Z"
       }
     },
     {
@@ -276,15 +276,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.8056,
-      "importance": 0.8056,
-      "importance_score": 0.8056,
+      "score": 0.8032,
+      "importance": 0.8032,
+      "importance_score": 0.8032,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9332,
+        "recency": 0.9198,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -311,7 +311,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-20T16:47:54.470852Z"
+        "scored_at": "2026-09-20T17:48:04.647183Z"
       }
     },
     {
@@ -359,21 +359,20 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7512,
-      "importance": 0.7512,
-      "importance_score": 0.7512,
+      "score": 0.7487,
+      "importance": 0.7487,
+      "importance_score": 0.7487,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.69,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9588,
+        "recency": 0.945,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-09-20T13:52:24Z",
       "latest_at": "2026-09-20T13:52:24Z",
@@ -393,7 +392,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-20T16:47:54.470852Z"
+        "scored_at": "2026-09-20T17:48:04.647183Z"
       }
     },
     {
@@ -441,21 +440,20 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7503,
-      "importance": 0.7503,
-      "importance_score": 0.7503,
+      "score": 0.748,
+      "importance": 0.748,
+      "importance_score": 0.748,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9039,
+        "recency": 0.8909,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-09-20T09:47:17.826916Z",
       "latest_at": "2026-09-20T09:47:17.826916Z",
@@ -475,7 +473,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-20T16:47:54.470852Z"
+        "scored_at": "2026-09-20T17:48:04.647183Z"
       }
     },
     {
@@ -523,21 +521,20 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7503,
-      "importance": 0.7503,
-      "importance_score": 0.7503,
+      "score": 0.748,
+      "importance": 0.748,
+      "importance_score": 0.748,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9039,
+        "recency": 0.8909,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-09-20T09:47:17.826916Z",
       "latest_at": "2026-09-20T09:47:17.826916Z",
@@ -557,7 +554,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-20T16:47:54.470852Z"
+        "scored_at": "2026-09-20T17:48:04.647183Z"
       }
     },
     {
@@ -605,21 +602,20 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7503,
-      "importance": 0.7503,
-      "importance_score": 0.7503,
+      "score": 0.748,
+      "importance": 0.748,
+      "importance_score": 0.748,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9039,
+        "recency": 0.8909,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-09-20T09:47:17.826916Z",
       "latest_at": "2026-09-20T09:47:17.826916Z",
@@ -639,7 +635,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-20T16:47:54.470852Z"
+        "scored_at": "2026-09-20T17:48:04.647183Z"
       }
     },
     {
@@ -687,21 +683,20 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7503,
-      "importance": 0.7503,
-      "importance_score": 0.7503,
+      "score": 0.748,
+      "importance": 0.748,
+      "importance_score": 0.748,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9039,
+        "recency": 0.8909,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-09-20T09:47:17.826916Z",
       "latest_at": "2026-09-20T09:47:17.826916Z",
@@ -721,7 +716,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-20T16:47:54.470852Z"
+        "scored_at": "2026-09-20T17:48:04.647183Z"
       }
     },
     {
@@ -769,15 +764,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.748,
-      "importance": 0.748,
-      "importance_score": 0.748,
+      "score": 0.7457,
+      "importance": 0.7457,
+      "importance_score": 0.7457,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8909,
+        "recency": 0.8781,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -802,7 +797,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-20T16:47:54.470852Z"
+        "scored_at": "2026-09-20T17:48:04.647183Z"
       }
     },
     {
@@ -850,15 +845,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.748,
-      "importance": 0.748,
-      "importance_score": 0.748,
+      "score": 0.7457,
+      "importance": 0.7457,
+      "importance_score": 0.7457,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8909,
+        "recency": 0.8781,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -883,7 +878,146 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-20T16:47:54.470852Z"
+        "scored_at": "2026-09-20T17:48:04.647183Z"
+      }
+    },
+    {
+      "story_id": "story_0486697449ca",
+      "title": "“海盗脸”拯救了大语言模型免遭删除",
+      "url": "https://pirateface.co",
+      "primary_url": "https://pirateface.co",
+      "source": "pirateface.co",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "33be31ed44086715beae3f63dc914c2171dba0be",
+          "title": "“海盗脸”拯救了大语言模型免遭删除",
+          "title_zh": "“海盗脸”拯救了大语言模型免遭删除",
+          "title_en": null,
+          "title_original": "“海盗脸”拯救了大语言模型免遭删除",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://pirateface.co",
+          "source": "pirateface.co",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-09-20T17:03:10.347000Z"
+        },
+        {
+          "id": "9522a76c98197316c216bac9e8c541d79e2b3ced",
+          "title": "“海盗脸”拯救了大语言模型免遭删除 / Pirate Face Rescues LLM Models from Deletion",
+          "title_zh": "“海盗脸”拯救了大语言模型免遭删除",
+          "title_en": "Pirate Face Rescues LLM Models from Deletion",
+          "title_original": "Pirate Face Rescues LLM Models from Deletion",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://pirateface.co",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-09-20T15:16:07Z"
+        },
+        {
+          "id": "f00eae3af316e417bd61c485ef96c97c02943eac",
+          "title": "海盗脸拯救了LLM模型免于被删除 / Pirate Face Rescues LLM Models from Deletion",
+          "title_zh": "海盗脸拯救了LLM模型免于被删除",
+          "title_en": "Pirate Face Rescues LLM Models from Deletion",
+          "title_original": "Pirate Face Rescues LLM Models from Deletion",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=49776699",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-09-20T15:16:07Z"
+        }
+      ],
+      "source_count": 3,
+      "source_names": [
+        "Hacker News (黑客新闻)",
+        "hackernews",
+        "pirateface.co"
+      ],
+      "items": [
+        {
+          "id": "33be31ed44086715beae3f63dc914c2171dba0be",
+          "title": "“海盗脸”拯救了大语言模型免遭删除",
+          "title_zh": "“海盗脸”拯救了大语言模型免遭删除",
+          "title_en": null,
+          "title_original": "“海盗脸”拯救了大语言模型免遭删除",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://pirateface.co",
+          "source": "pirateface.co",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-09-20T17:03:10.347000Z"
+        },
+        {
+          "id": "9522a76c98197316c216bac9e8c541d79e2b3ced",
+          "title": "“海盗脸”拯救了大语言模型免遭删除 / Pirate Face Rescues LLM Models from Deletion",
+          "title_zh": "“海盗脸”拯救了大语言模型免遭删除",
+          "title_en": "Pirate Face Rescues LLM Models from Deletion",
+          "title_original": "Pirate Face Rescues LLM Models from Deletion",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://pirateface.co",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-09-20T15:16:07Z"
+        },
+        {
+          "id": "f00eae3af316e417bd61c485ef96c97c02943eac",
+          "title": "海盗脸拯救了LLM模型免于被删除 / Pirate Face Rescues LLM Models from Deletion",
+          "title_zh": "海盗脸拯救了LLM模型免于被删除",
+          "title_en": "Pirate Face Rescues LLM Models from Deletion",
+          "title_original": "Pirate Face Rescues LLM Models from Deletion",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=49776699",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-09-20T15:16:07Z"
+        }
+      ],
+      "item_count": 3,
+      "duplicate_count": 3,
+      "score": 0.5689,
+      "importance": 0.5689,
+      "importance_score": 0.5689,
+      "importance_label": "多源热议",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9894,
+        "story_heat": 0.5
+      },
+      "category": "multi_source",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-09-20T15:16:07Z",
+      "latest_at": "2026-09-20T17:03:10.347000Z",
+      "primary_item": {
+        "id": "33be31ed44086715beae3f63dc914c2171dba0be",
+        "title": "“海盗脸”拯救了大语言模型免遭删除",
+        "title_zh": "“海盗脸”拯救了大语言模型免遭删除",
+        "title_en": null,
+        "title_original": "“海盗脸”拯救了大语言模型免遭删除",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://pirateface.co",
+        "source": "pirateface.co",
+        "source_name": "Buzzing"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-09-20T17:48:04.647183Z"
       }
     },
     {
@@ -989,15 +1123,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5681,
-      "importance": 0.5681,
-      "importance_score": 0.5681,
+      "score": 0.5655,
+      "importance": 0.5655,
+      "importance_score": 0.5655,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.985,
+        "recency": 0.9708,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1022,7 +1156,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-20T16:47:54.470852Z"
+        "scored_at": "2026-09-20T17:48:04.647183Z"
       }
     },
     {
@@ -1070,15 +1204,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7457,
-      "importance": 0.7457,
-      "importance_score": 0.7457,
+      "score": 0.7434,
+      "importance": 0.7434,
+      "importance_score": 0.7434,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8781,
+        "recency": 0.8655,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1103,7 +1237,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-20T16:47:54.470852Z"
+        "scored_at": "2026-09-20T17:48:04.647183Z"
       }
     },
     {
@@ -1209,15 +1343,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5608,
-      "importance": 0.5608,
-      "importance_score": 0.5608,
+      "score": 0.5584,
+      "importance": 0.5584,
+      "importance_score": 0.5584,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9445,
+        "recency": 0.931,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1242,117 +1376,117 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-20T16:47:54.470852Z"
+        "scored_at": "2026-09-20T17:48:04.647183Z"
       }
     },
     {
-      "story_id": "story_0486697449ca",
-      "title": "海盗脸拯救了LLM模型免于被删除 / Pirate Face Rescues LLM Models from Deletion",
-      "url": "https://pirateface.co",
-      "primary_url": "https://pirateface.co",
-      "source": "Hacker News (黑客新闻)",
-      "source_name": "Info Flow",
+      "story_id": "story_a682219ecb2e",
+      "title": "ChatGPT 现在通过广告收集器知道您在其他网站上做了什么 / ChatGPT now knows what you do on other websites via ad collector",
+      "url": "https://www.buchodi.com/chatgpt-now-knows-what-you-do-on-other-websites-via-ad-collector",
+      "primary_url": "https://www.buchodi.com/chatgpt-now-knows-what-you-do-on-other-websites-via-ad-collector",
+      "source": "Hacker News",
+      "source_name": "TechURLs",
       "sources": [
         {
-          "id": "9522a76c98197316c216bac9e8c541d79e2b3ced",
-          "title": "海盗脸拯救了LLM模型免于被删除 / Pirate Face Rescues LLM Models from Deletion",
-          "title_zh": "海盗脸拯救了LLM模型免于被删除",
-          "title_en": "Pirate Face Rescues LLM Models from Deletion",
-          "title_original": "Pirate Face Rescues LLM Models from Deletion",
+          "id": "ab4dd49f01223a9b4cce0964a27827350d8692f4",
+          "title": "ChatGPT 现在通过广告收集器知道您在其他网站上做了什么 / ChatGPT now knows what you do on other websites via ad collector",
+          "title_zh": "ChatGPT 现在通过广告收集器知道您在其他网站上做了什么",
+          "title_en": "ChatGPT now knows what you do on other websites via ad collector",
+          "title_original": "ChatGPT now knows what you do on other websites via ad collector",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://pirateface.co",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-09-20T15:16:07Z"
+          "url": "https://www.buchodi.com/chatgpt-now-knows-what-you-do-on-other-websites-via-ad-collector",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-09-20T15:18:44Z"
         },
         {
-          "id": "f00eae3af316e417bd61c485ef96c97c02943eac",
-          "title": "海盗脸拯救了LLM模型免于被删除 / Pirate Face Rescues LLM Models from Deletion",
-          "title_zh": "海盗脸拯救了LLM模型免于被删除",
-          "title_en": "Pirate Face Rescues LLM Models from Deletion",
-          "title_original": "Pirate Face Rescues LLM Models from Deletion",
+          "id": "7d18b5731ef9e28fff4e0ab0474ddc3c6c89b701",
+          "title": "ChatGPT 现在通过广告收集器知道您在其他网站上做了什么 / ChatGPT now knows what you do on other websites via ad collector",
+          "title_zh": "ChatGPT 现在通过广告收集器知道您在其他网站上做了什么",
+          "title_en": "ChatGPT now knows what you do on other websites via ad collector",
+          "title_original": "ChatGPT now knows what you do on other websites via ad collector",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=49776699",
+          "url": "https://news.ycombinator.com/item?id=49776729",
           "source": "hackernews",
           "source_name": "NewsNow",
           "site_id": "newsnow",
-          "published_at": "2026-09-20T15:16:07Z"
+          "published_at": "2026-09-20T15:18:44Z"
         }
       ],
       "source_count": 2,
       "source_names": [
-        "Hacker News (黑客新闻)",
+        "Hacker News",
         "hackernews"
       ],
       "items": [
         {
-          "id": "9522a76c98197316c216bac9e8c541d79e2b3ced",
-          "title": "海盗脸拯救了LLM模型免于被删除 / Pirate Face Rescues LLM Models from Deletion",
-          "title_zh": "海盗脸拯救了LLM模型免于被删除",
-          "title_en": "Pirate Face Rescues LLM Models from Deletion",
-          "title_original": "Pirate Face Rescues LLM Models from Deletion",
+          "id": "ab4dd49f01223a9b4cce0964a27827350d8692f4",
+          "title": "ChatGPT 现在通过广告收集器知道您在其他网站上做了什么 / ChatGPT now knows what you do on other websites via ad collector",
+          "title_zh": "ChatGPT 现在通过广告收集器知道您在其他网站上做了什么",
+          "title_en": "ChatGPT now knows what you do on other websites via ad collector",
+          "title_original": "ChatGPT now knows what you do on other websites via ad collector",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://pirateface.co",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-09-20T15:16:07Z"
+          "url": "https://www.buchodi.com/chatgpt-now-knows-what-you-do-on-other-websites-via-ad-collector",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-09-20T15:18:44Z"
         },
         {
-          "id": "f00eae3af316e417bd61c485ef96c97c02943eac",
-          "title": "海盗脸拯救了LLM模型免于被删除 / Pirate Face Rescues LLM Models from Deletion",
-          "title_zh": "海盗脸拯救了LLM模型免于被删除",
-          "title_en": "Pirate Face Rescues LLM Models from Deletion",
-          "title_original": "Pirate Face Rescues LLM Models from Deletion",
+          "id": "7d18b5731ef9e28fff4e0ab0474ddc3c6c89b701",
+          "title": "ChatGPT 现在通过广告收集器知道您在其他网站上做了什么 / ChatGPT now knows what you do on other websites via ad collector",
+          "title_zh": "ChatGPT 现在通过广告收集器知道您在其他网站上做了什么",
+          "title_en": "ChatGPT now knows what you do on other websites via ad collector",
+          "title_original": "ChatGPT now knows what you do on other websites via ad collector",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=49776699",
+          "url": "https://news.ycombinator.com/item?id=49776729",
           "source": "hackernews",
           "source_name": "NewsNow",
           "site_id": "newsnow",
-          "published_at": "2026-09-20T15:16:07Z"
+          "published_at": "2026-09-20T15:18:44Z"
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5419,
-      "importance": 0.5419,
-      "importance_score": 0.5419,
+      "score": 0.5395,
+      "importance": 0.5395,
+      "importance_score": 0.5395,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9783,
+        "recency": 0.9649,
         "story_heat": 0.25
       },
       "category": "watch",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-09-20T15:16:07Z",
-      "latest_at": "2026-09-20T15:16:07Z",
+      "earliest_at": "2026-09-20T15:18:44Z",
+      "latest_at": "2026-09-20T15:18:44Z",
       "primary_item": {
-        "id": "9522a76c98197316c216bac9e8c541d79e2b3ced",
-        "title": "海盗脸拯救了LLM模型免于被删除 / Pirate Face Rescues LLM Models from Deletion",
-        "title_zh": "海盗脸拯救了LLM模型免于被删除",
-        "title_en": "Pirate Face Rescues LLM Models from Deletion",
-        "title_original": "Pirate Face Rescues LLM Models from Deletion",
+        "id": "ab4dd49f01223a9b4cce0964a27827350d8692f4",
+        "title": "ChatGPT 现在通过广告收集器知道您在其他网站上做了什么 / ChatGPT now knows what you do on other websites via ad collector",
+        "title_zh": "ChatGPT 现在通过广告收集器知道您在其他网站上做了什么",
+        "title_en": "ChatGPT now knows what you do on other websites via ad collector",
+        "title_original": "ChatGPT now knows what you do on other websites via ad collector",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://pirateface.co",
-        "source": "Hacker News (黑客新闻)",
-        "source_name": "Info Flow"
+        "url": "https://www.buchodi.com/chatgpt-now-knows-what-you-do-on-other-websites-via-ad-collector",
+        "source": "Hacker News",
+        "source_name": "TechURLs"
       },
       "persona_id": "pragmatic",
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-20T16:47:54.470852Z"
+        "scored_at": "2026-09-20T17:48:04.647183Z"
       }
     },
     {
@@ -1400,15 +1534,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7457,
-      "importance": 0.7457,
-      "importance_score": 0.7457,
+      "score": 0.7434,
+      "importance": 0.7434,
+      "importance_score": 0.7434,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8781,
+        "recency": 0.8655,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1433,117 +1567,117 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-20T16:47:54.470852Z"
+        "scored_at": "2026-09-20T17:48:04.647183Z"
       }
     },
     {
-      "story_id": "story_d33cb89128f1",
-      "title": "如果人工智能编码降低了您的代码质量，那么您就没有正确管理质量 / If AI coding is lowering your code quality, you're not managing quality right",
-      "url": "https://www.i-kh.net/p/if-ai-coding-is-lowering-your-code",
-      "primary_url": "https://www.i-kh.net/p/if-ai-coding-is-lowering-your-code",
-      "source": "Hacker News",
-      "source_name": "TechURLs",
+      "story_id": "story_2a34a5394301",
+      "title": "KDE 30 岁了，有人提出了 AI 原生桌面提案 / KDE turns 30 and someone's brought an AI-native desktop proposal",
+      "url": "https://www.theregister.com/software/2026/09/18/kde-turns-30-and-someones-brought-an-ai-native-desktop-proposal/5297282",
+      "primary_url": "https://www.theregister.com/software/2026/09/18/kde-turns-30-and-someones-brought-an-ai-native-desktop-proposal/5297282",
+      "source": "Hacker News · 24h最热",
+      "source_name": "Zeli",
       "sources": [
         {
-          "id": "c7024b8c75b3bc78856d913f02bf0ed94317d5e3",
-          "title": "如果人工智能编码降低了您的代码质量，那么您就没有正确管理质量 / If AI coding is lowering your code quality, you're not managing quality right",
-          "title_zh": "如果人工智能编码降低了您的代码质量，那么您就没有正确管理质量",
-          "title_en": "If AI coding is lowering your code quality, you're not managing quality right",
-          "title_original": "If AI coding is lowering your code quality, you're not managing quality right",
+          "id": "6ce6a05bdc253dce9b785abf57b5fdde5a3bad38",
+          "title": "KDE 30 岁了，有人提出了 AI 原生桌面提案 / KDE turns 30 and someone's brought an AI-native desktop proposal",
+          "title_zh": "KDE 30 岁了，有人提出了 AI 原生桌面提案",
+          "title_en": "KDE turns 30 and someone's brought an AI-native desktop proposal",
+          "title_original": "KDE turns 30 and someone's brought an AI-native desktop proposal",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.i-kh.net/p/if-ai-coding-is-lowering-your-code",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-09-20T11:37:10Z"
+          "url": "https://www.theregister.com/software/2026/09/18/kde-turns-30-and-someones-brought-an-ai-native-desktop-proposal/5297282",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-09-20T07:38:37Z"
         },
         {
-          "id": "a0cc66d677a58ada0048da67d0529cb6cb96621a",
-          "title": "如果人工智能编码降低了您的代码质量，那么您就没有正确管理质量 / If AI coding is lowering your code quality, you're not managing quality right",
-          "title_zh": "如果人工智能编码降低了您的代码质量，那么您就没有正确管理质量",
-          "title_en": "If AI coding is lowering your code quality, you're not managing quality right",
-          "title_original": "If AI coding is lowering your code quality, you're not managing quality right",
+          "id": "bc21a632a40e1f97e732039b46c29ee009726253",
+          "title": "KDE 30 岁了，有人提出了 AI 原生桌面提案 / KDE turns 30 and someone's brought an AI-native desktop proposal",
+          "title_zh": "KDE 30 岁了，有人提出了 AI 原生桌面提案",
+          "title_en": "KDE turns 30 and someone's brought an AI-native desktop proposal",
+          "title_original": "KDE turns 30 and someone's brought an AI-native desktop proposal",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=49774795",
+          "url": "https://news.ycombinator.com/item?id=49773439",
           "source": "hackernews",
           "source_name": "NewsNow",
           "site_id": "newsnow",
-          "published_at": "2026-09-20T11:37:10Z"
+          "published_at": "2026-09-20T07:38:37Z"
         }
       ],
       "source_count": 2,
       "source_names": [
-        "Hacker News",
+        "Hacker News · 24h最热",
         "hackernews"
       ],
       "items": [
         {
-          "id": "c7024b8c75b3bc78856d913f02bf0ed94317d5e3",
-          "title": "如果人工智能编码降低了您的代码质量，那么您就没有正确管理质量 / If AI coding is lowering your code quality, you're not managing quality right",
-          "title_zh": "如果人工智能编码降低了您的代码质量，那么您就没有正确管理质量",
-          "title_en": "If AI coding is lowering your code quality, you're not managing quality right",
-          "title_original": "If AI coding is lowering your code quality, you're not managing quality right",
+          "id": "6ce6a05bdc253dce9b785abf57b5fdde5a3bad38",
+          "title": "KDE 30 岁了，有人提出了 AI 原生桌面提案 / KDE turns 30 and someone's brought an AI-native desktop proposal",
+          "title_zh": "KDE 30 岁了，有人提出了 AI 原生桌面提案",
+          "title_en": "KDE turns 30 and someone's brought an AI-native desktop proposal",
+          "title_original": "KDE turns 30 and someone's brought an AI-native desktop proposal",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.i-kh.net/p/if-ai-coding-is-lowering-your-code",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-09-20T11:37:10Z"
+          "url": "https://www.theregister.com/software/2026/09/18/kde-turns-30-and-someones-brought-an-ai-native-desktop-proposal/5297282",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-09-20T07:38:37Z"
         },
         {
-          "id": "a0cc66d677a58ada0048da67d0529cb6cb96621a",
-          "title": "如果人工智能编码降低了您的代码质量，那么您就没有正确管理质量 / If AI coding is lowering your code quality, you're not managing quality right",
-          "title_zh": "如果人工智能编码降低了您的代码质量，那么您就没有正确管理质量",
-          "title_en": "If AI coding is lowering your code quality, you're not managing quality right",
-          "title_original": "If AI coding is lowering your code quality, you're not managing quality right",
+          "id": "bc21a632a40e1f97e732039b46c29ee009726253",
+          "title": "KDE 30 岁了，有人提出了 AI 原生桌面提案 / KDE turns 30 and someone's brought an AI-native desktop proposal",
+          "title_zh": "KDE 30 岁了，有人提出了 AI 原生桌面提案",
+          "title_en": "KDE turns 30 and someone's brought an AI-native desktop proposal",
+          "title_original": "KDE turns 30 and someone's brought an AI-native desktop proposal",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=49774795",
+          "url": "https://news.ycombinator.com/item?id=49773439",
           "source": "hackernews",
           "source_name": "NewsNow",
           "site_id": "newsnow",
-          "published_at": "2026-09-20T11:37:10Z"
+          "published_at": "2026-09-20T07:38:37Z"
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5329,
-      "importance": 0.5329,
-      "importance_score": 0.5329,
+      "score": 0.5213,
+      "importance": 0.5213,
+      "importance_score": 0.5213,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9281,
+        "recency": 0.8637,
         "story_heat": 0.25
       },
       "category": "watch",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-09-20T11:37:10Z",
-      "latest_at": "2026-09-20T11:37:10Z",
+      "earliest_at": "2026-09-20T07:38:37Z",
+      "latest_at": "2026-09-20T07:38:37Z",
       "primary_item": {
-        "id": "c7024b8c75b3bc78856d913f02bf0ed94317d5e3",
-        "title": "如果人工智能编码降低了您的代码质量，那么您就没有正确管理质量 / If AI coding is lowering your code quality, you're not managing quality right",
-        "title_zh": "如果人工智能编码降低了您的代码质量，那么您就没有正确管理质量",
-        "title_en": "If AI coding is lowering your code quality, you're not managing quality right",
-        "title_original": "If AI coding is lowering your code quality, you're not managing quality right",
+        "id": "6ce6a05bdc253dce9b785abf57b5fdde5a3bad38",
+        "title": "KDE 30 岁了，有人提出了 AI 原生桌面提案 / KDE turns 30 and someone's brought an AI-native desktop proposal",
+        "title_zh": "KDE 30 岁了，有人提出了 AI 原生桌面提案",
+        "title_en": "KDE turns 30 and someone's brought an AI-native desktop proposal",
+        "title_original": "KDE turns 30 and someone's brought an AI-native desktop proposal",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://www.i-kh.net/p/if-ai-coding-is-lowering-your-code",
-        "source": "Hacker News",
-        "source_name": "TechURLs"
+        "url": "https://www.theregister.com/software/2026/09/18/kde-turns-30-and-someones-brought-an-ai-native-desktop-proposal/5297282",
+        "source": "Hacker News · 24h最热",
+        "source_name": "Zeli"
       },
       "persona_id": "pragmatic",
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-20T16:47:54.470852Z"
+        "scored_at": "2026-09-20T17:48:04.647183Z"
       }
     },
     {
@@ -1620,15 +1754,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5193,
-      "importance": 0.5193,
-      "importance_score": 0.5193,
+      "score": 0.5171,
+      "importance": 0.5171,
+      "importance_score": 0.5171,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8529,
+        "recency": 0.8407,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1653,7 +1787,198 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-20T16:47:54.470852Z"
+        "scored_at": "2026-09-20T17:48:04.647183Z"
+      }
+    },
+    {
+      "story_id": "story_2bc862ec5d7e",
+      "title": "消息称 Anthropic 拟在 IPO 前推出新模型，应对 GPT-6 Astra 冲击",
+      "url": "https://www.aibase.com/news/31198",
+      "primary_url": "https://www.aibase.com/news/31198",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "e66d3223fe840139ba719b619af347339d276b71",
+          "title": "消息称 Anthropic 拟在 IPO 前推出新模型，应对 GPT-6 Astra 冲击",
+          "title_zh": "消息称 Anthropic 拟在 IPO 前推出新模型，应对 GPT-6 Astra 冲击",
+          "title_en": null,
+          "title_original": "消息称 Anthropic 拟在 IPO 前推出新模型，应对 GPT-6 Astra 冲击",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/31198",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-09-20T07:47:21.620157Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "e66d3223fe840139ba719b619af347339d276b71",
+          "title": "消息称 Anthropic 拟在 IPO 前推出新模型，应对 GPT-6 Astra 冲击",
+          "title_zh": "消息称 Anthropic 拟在 IPO 前推出新模型，应对 GPT-6 Astra 冲击",
+          "title_en": null,
+          "title_original": "消息称 Anthropic 拟在 IPO 前推出新模型，应对 GPT-6 Astra 冲击",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/31198",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-09-20T07:47:21.620157Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7434,
+      "importance": 0.7434,
+      "importance_score": 0.7434,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.8655,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-09-20T07:47:21.620157Z",
+      "latest_at": "2026-09-20T07:47:21.620157Z",
+      "primary_item": {
+        "id": "e66d3223fe840139ba719b619af347339d276b71",
+        "title": "消息称 Anthropic 拟在 IPO 前推出新模型，应对 GPT-6 Astra 冲击",
+        "title_zh": "消息称 Anthropic 拟在 IPO 前推出新模型，应对 GPT-6 Astra 冲击",
+        "title_en": null,
+        "title_original": "消息称 Anthropic 拟在 IPO 前推出新模型，应对 GPT-6 Astra 冲击",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://www.aibase.com/news/31198",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-09-20T17:48:04.647183Z"
+      }
+    },
+    {
+      "story_id": "story_d33cb89128f1",
+      "title": "如果人工智能编码降低了您的代码质量，那么您就没有正确管理质量 / If AI coding is lowering your code quality, you're not managing quality right",
+      "url": "https://www.i-kh.net/p/if-ai-coding-is-lowering-your-code",
+      "primary_url": "https://www.i-kh.net/p/if-ai-coding-is-lowering-your-code",
+      "source": "Hacker News",
+      "source_name": "TechURLs",
+      "sources": [
+        {
+          "id": "c7024b8c75b3bc78856d913f02bf0ed94317d5e3",
+          "title": "如果人工智能编码降低了您的代码质量，那么您就没有正确管理质量 / If AI coding is lowering your code quality, you're not managing quality right",
+          "title_zh": "如果人工智能编码降低了您的代码质量，那么您就没有正确管理质量",
+          "title_en": "If AI coding is lowering your code quality, you're not managing quality right",
+          "title_original": "If AI coding is lowering your code quality, you're not managing quality right",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.i-kh.net/p/if-ai-coding-is-lowering-your-code",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-09-20T11:37:10Z"
+        },
+        {
+          "id": "a0cc66d677a58ada0048da67d0529cb6cb96621a",
+          "title": "如果人工智能编码降低了您的代码质量，那么您就没有正确管理质量 / If AI coding is lowering your code quality, you're not managing quality right",
+          "title_zh": "如果人工智能编码降低了您的代码质量，那么您就没有正确管理质量",
+          "title_en": "If AI coding is lowering your code quality, you're not managing quality right",
+          "title_original": "If AI coding is lowering your code quality, you're not managing quality right",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=49774795",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-09-20T11:37:10Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News",
+        "hackernews"
+      ],
+      "items": [
+        {
+          "id": "c7024b8c75b3bc78856d913f02bf0ed94317d5e3",
+          "title": "如果人工智能编码降低了您的代码质量，那么您就没有正确管理质量 / If AI coding is lowering your code quality, you're not managing quality right",
+          "title_zh": "如果人工智能编码降低了您的代码质量，那么您就没有正确管理质量",
+          "title_en": "If AI coding is lowering your code quality, you're not managing quality right",
+          "title_original": "If AI coding is lowering your code quality, you're not managing quality right",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.i-kh.net/p/if-ai-coding-is-lowering-your-code",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-09-20T11:37:10Z"
+        },
+        {
+          "id": "a0cc66d677a58ada0048da67d0529cb6cb96621a",
+          "title": "如果人工智能编码降低了您的代码质量，那么您就没有正确管理质量 / If AI coding is lowering your code quality, you're not managing quality right",
+          "title_zh": "如果人工智能编码降低了您的代码质量，那么您就没有正确管理质量",
+          "title_en": "If AI coding is lowering your code quality, you're not managing quality right",
+          "title_original": "If AI coding is lowering your code quality, you're not managing quality right",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=49774795",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-09-20T11:37:10Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5305,
+      "importance": 0.5305,
+      "importance_score": 0.5305,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9148,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-09-20T11:37:10Z",
+      "latest_at": "2026-09-20T11:37:10Z",
+      "primary_item": {
+        "id": "c7024b8c75b3bc78856d913f02bf0ed94317d5e3",
+        "title": "如果人工智能编码降低了您的代码质量，那么您就没有正确管理质量 / If AI coding is lowering your code quality, you're not managing quality right",
+        "title_zh": "如果人工智能编码降低了您的代码质量，那么您就没有正确管理质量",
+        "title_en": "If AI coding is lowering your code quality, you're not managing quality right",
+        "title_original": "If AI coding is lowering your code quality, you're not managing quality right",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://www.i-kh.net/p/if-ai-coding-is-lowering-your-code",
+        "source": "Hacker News",
+        "source_name": "TechURLs"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-09-20T17:48:04.647183Z"
       }
     },
     {
@@ -1730,15 +2055,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5074,
-      "importance": 0.5074,
-      "importance_score": 0.5074,
+      "score": 0.5054,
+      "importance": 0.5054,
+      "importance_score": 0.5054,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7866,
+        "recency": 0.7753,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1763,279 +2088,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-20T16:47:54.470852Z"
-      }
-    },
-    {
-      "story_id": "story_2bc862ec5d7e",
-      "title": "消息称 Anthropic 拟在 IPO 前推出新模型，应对 GPT-6 Astra 冲击",
-      "url": "https://www.aibase.com/news/31198",
-      "primary_url": "https://www.aibase.com/news/31198",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "e66d3223fe840139ba719b619af347339d276b71",
-          "title": "消息称 Anthropic 拟在 IPO 前推出新模型，应对 GPT-6 Astra 冲击",
-          "title_zh": "消息称 Anthropic 拟在 IPO 前推出新模型，应对 GPT-6 Astra 冲击",
-          "title_en": null,
-          "title_original": "消息称 Anthropic 拟在 IPO 前推出新模型，应对 GPT-6 Astra 冲击",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/31198",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-09-20T07:47:21.620157Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "e66d3223fe840139ba719b619af347339d276b71",
-          "title": "消息称 Anthropic 拟在 IPO 前推出新模型，应对 GPT-6 Astra 冲击",
-          "title_zh": "消息称 Anthropic 拟在 IPO 前推出新模型，应对 GPT-6 Astra 冲击",
-          "title_en": null,
-          "title_original": "消息称 Anthropic 拟在 IPO 前推出新模型，应对 GPT-6 Astra 冲击",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/31198",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-09-20T07:47:21.620157Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7457,
-      "importance": 0.7457,
-      "importance_score": 0.7457,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.8781,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-09-20T07:47:21.620157Z",
-      "latest_at": "2026-09-20T07:47:21.620157Z",
-      "primary_item": {
-        "id": "e66d3223fe840139ba719b619af347339d276b71",
-        "title": "消息称 Anthropic 拟在 IPO 前推出新模型，应对 GPT-6 Astra 冲击",
-        "title_zh": "消息称 Anthropic 拟在 IPO 前推出新模型，应对 GPT-6 Astra 冲击",
-        "title_en": null,
-        "title_original": "消息称 Anthropic 拟在 IPO 前推出新模型，应对 GPT-6 Astra 冲击",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/31198",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-09-20T16:47:54.470852Z"
-      }
-    },
-    {
-      "story_id": "story_524da8b990b7",
-      "title": "微软以 12 万美元的价格代理将 Copilot 运行时移植到 Rust / Microsoft agentically ports Copilot runtime to Rust for $120K",
-      "url": "https://www.theregister.com/devops/2026/09/18/microsoft-agentically-ports-copilot-runtime-to-rust-for-120k/5297549",
-      "primary_url": "https://www.theregister.com/devops/2026/09/18/microsoft-agentically-ports-copilot-runtime-to-rust-for-120k/5297549",
-      "source": "Hacker News",
-      "source_name": "TechURLs",
-      "sources": [
-        {
-          "id": "f633eb2e56064dab2021e8cf7d83f9caa5903bc4",
-          "title": "微软以 12 万美元的价格代理将 Copilot 运行时移植到 Rust / Microsoft agentically ports Copilot runtime to Rust for $120K",
-          "title_zh": "微软以 12 万美元的价格代理将 Copilot 运行时移植到 Rust",
-          "title_en": "Microsoft agentically ports Copilot runtime to Rust for $120K",
-          "title_original": "Microsoft agentically ports Copilot runtime to Rust for $120K",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.theregister.com/devops/2026/09/18/microsoft-agentically-ports-copilot-runtime-to-rust-for-120k/5297549",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-09-20T09:08:52Z"
-        },
-        {
-          "id": "01c828af03f8bdb45fe2ccd663e1b87231bd4055",
-          "title": "微软以 12 万美元的价格代理将 Copilot 运行时移植到 Rust / Microsoft agentically ports Copilot runtime to Rust for $120K",
-          "title_zh": "微软以 12 万美元的价格代理将 Copilot 运行时移植到 Rust",
-          "title_en": "Microsoft agentically ports Copilot runtime to Rust for $120K",
-          "title_original": "Microsoft agentically ports Copilot runtime to Rust for $120K",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=49773998",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-09-20T09:08:52Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News",
-        "hackernews"
-      ],
-      "items": [
-        {
-          "id": "f633eb2e56064dab2021e8cf7d83f9caa5903bc4",
-          "title": "微软以 12 万美元的价格代理将 Copilot 运行时移植到 Rust / Microsoft agentically ports Copilot runtime to Rust for $120K",
-          "title_zh": "微软以 12 万美元的价格代理将 Copilot 运行时移植到 Rust",
-          "title_en": "Microsoft agentically ports Copilot runtime to Rust for $120K",
-          "title_original": "Microsoft agentically ports Copilot runtime to Rust for $120K",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.theregister.com/devops/2026/09/18/microsoft-agentically-ports-copilot-runtime-to-rust-for-120k/5297549",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-09-20T09:08:52Z"
-        },
-        {
-          "id": "01c828af03f8bdb45fe2ccd663e1b87231bd4055",
-          "title": "微软以 12 万美元的价格代理将 Copilot 运行时移植到 Rust / Microsoft agentically ports Copilot runtime to Rust for $120K",
-          "title_zh": "微软以 12 万美元的价格代理将 Copilot 运行时移植到 Rust",
-          "title_en": "Microsoft agentically ports Copilot runtime to Rust for $120K",
-          "title_original": "Microsoft agentically ports Copilot runtime to Rust for $120K",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=49773998",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-09-20T09:08:52Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.527,
-      "importance": 0.527,
-      "importance_score": 0.527,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.8955,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-09-20T09:08:52Z",
-      "latest_at": "2026-09-20T09:08:52Z",
-      "primary_item": {
-        "id": "f633eb2e56064dab2021e8cf7d83f9caa5903bc4",
-        "title": "微软以 12 万美元的价格代理将 Copilot 运行时移植到 Rust / Microsoft agentically ports Copilot runtime to Rust for $120K",
-        "title_zh": "微软以 12 万美元的价格代理将 Copilot 运行时移植到 Rust",
-        "title_en": "Microsoft agentically ports Copilot runtime to Rust for $120K",
-        "title_original": "Microsoft agentically ports Copilot runtime to Rust for $120K",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://www.theregister.com/devops/2026/09/18/microsoft-agentically-ports-copilot-runtime-to-rust-for-120k/5297549",
-        "source": "Hacker News",
-        "source_name": "TechURLs"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-09-20T16:47:54.470852Z"
-      }
-    },
-    {
-      "story_id": "story_778df26cae62",
-      "title": "阶跃甩出 Step 5 Preview：600B 稀疏 MoE 只激活 27B，把开源旗舰的\"性价比边界\"往外推了一格",
-      "url": "https://www.aibase.com/news/31196",
-      "primary_url": "https://www.aibase.com/news/31196",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "1ab99c40c8c4f0be3f1dc859270c343dcc2802b3",
-          "title": "阶跃甩出 Step 5 Preview：600B 稀疏 MoE 只激活 27B，把开源旗舰的\"性价比边界\"往外推了一格",
-          "title_zh": "阶跃甩出 Step 5 Preview：600B 稀疏 MoE 只激活 27B，把开源旗舰的\"性价比边界\"往外推了一格",
-          "title_en": null,
-          "title_original": "阶跃甩出 Step 5 Preview：600B 稀疏 MoE 只激活 27B，把开源旗舰的\"性价比边界\"往外推了一格",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/31196",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-09-20T07:47:21.620157Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "1ab99c40c8c4f0be3f1dc859270c343dcc2802b3",
-          "title": "阶跃甩出 Step 5 Preview：600B 稀疏 MoE 只激活 27B，把开源旗舰的\"性价比边界\"往外推了一格",
-          "title_zh": "阶跃甩出 Step 5 Preview：600B 稀疏 MoE 只激活 27B，把开源旗舰的\"性价比边界\"往外推了一格",
-          "title_en": null,
-          "title_original": "阶跃甩出 Step 5 Preview：600B 稀疏 MoE 只激活 27B，把开源旗舰的\"性价比边界\"往外推了一格",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/31196",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-09-20T07:47:21.620157Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7457,
-      "importance": 0.7457,
-      "importance_score": 0.7457,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.8781,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-09-20T07:47:21.620157Z",
-      "latest_at": "2026-09-20T07:47:21.620157Z",
-      "primary_item": {
-        "id": "1ab99c40c8c4f0be3f1dc859270c343dcc2802b3",
-        "title": "阶跃甩出 Step 5 Preview：600B 稀疏 MoE 只激活 27B，把开源旗舰的\"性价比边界\"往外推了一格",
-        "title_zh": "阶跃甩出 Step 5 Preview：600B 稀疏 MoE 只激活 27B，把开源旗舰的\"性价比边界\"往外推了一格",
-        "title_en": null,
-        "title_original": "阶跃甩出 Step 5 Preview：600B 稀疏 MoE 只激活 27B，把开源旗舰的\"性价比边界\"往外推了一格",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/31196",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-09-20T16:47:54.470852Z"
+        "scored_at": "2026-09-20T17:48:04.647183Z"
       }
     }
   ]
