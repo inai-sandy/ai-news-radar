@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-20T19:47:20.437969Z",
+  "generated_at": "2026-09-20T20:47:22.925546Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -40,7 +40,7 @@
           "published_at": "2026-09-20T18:05:38.317000Z"
         },
         {
-          "id": "ab4dd49f01223a9b4cce0964a27827350d8692f4",
+          "id": "69eddc9e7361fefc5bf226eed7ff967c71a39fdf",
           "title": "独立调查：ChatGPT 的 __obi 跨站 Cookie 可将站外浏览行为关联到 ChatGPT 账号 / ChatGPT now knows what you do on other websites via ad collector",
           "title_zh": "独立调查：ChatGPT 的 __obi 跨站 Cookie 可将站外浏览行为关联到 ChatGPT 账号",
           "title_en": "ChatGPT now knows what you do on other websites via ad collector",
@@ -48,9 +48,9 @@
           "summary": null,
           "recommend_reason_zh": null,
           "url": "https://www.buchodi.com/chatgpt-now-knows-what-you-do-on-other-websites-via-ad-collector",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
           "published_at": "2026-09-20T15:18:44Z"
         },
         {
@@ -70,7 +70,7 @@
       ],
       "source_count": 4,
       "source_names": [
-        "Hacker News",
+        "Hacker News (黑客新闻)",
         "Hacker News 热门（buzzing.cc 中文翻译）",
         "hackernews",
         "www.buchodi.com"
@@ -105,7 +105,7 @@
           "published_at": "2026-09-20T18:05:38.317000Z"
         },
         {
-          "id": "ab4dd49f01223a9b4cce0964a27827350d8692f4",
+          "id": "69eddc9e7361fefc5bf226eed7ff967c71a39fdf",
           "title": "独立调查：ChatGPT 的 __obi 跨站 Cookie 可将站外浏览行为关联到 ChatGPT 账号 / ChatGPT now knows what you do on other websites via ad collector",
           "title_zh": "独立调查：ChatGPT 的 __obi 跨站 Cookie 可将站外浏览行为关联到 ChatGPT 账号",
           "title_en": "ChatGPT now knows what you do on other websites via ad collector",
@@ -113,9 +113,9 @@
           "summary": null,
           "recommend_reason_zh": null,
           "url": "https://www.buchodi.com/chatgpt-now-knows-what-you-do-on-other-websites-via-ad-collector",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
           "published_at": "2026-09-20T15:18:44Z"
         },
         {
@@ -135,15 +135,15 @@
       ],
       "item_count": 4,
       "duplicate_count": 4,
-      "score": 0.8502,
-      "importance": 0.8502,
-      "importance_score": 0.8502,
+      "score": 0.8477,
+      "importance": 0.8477,
+      "importance_score": 0.8477,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.76,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9758,
+        "recency": 0.9618,
         "story_heat": 0.75
       },
       "category": "multi_source",
@@ -170,7 +170,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-20T19:48:04.916808Z"
+        "scored_at": "2026-09-20T20:55:14.155655Z"
       }
     },
     {
@@ -304,15 +304,15 @@
       ],
       "item_count": 4,
       "duplicate_count": 4,
-      "score": 0.8235,
-      "importance": 0.8235,
-      "importance_score": 0.8235,
+      "score": 0.8211,
+      "importance": 0.8211,
+      "importance_score": 0.8211,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8936,
+        "recency": 0.8808,
         "story_heat": 0.75
       },
       "category": "multi_source",
@@ -339,7 +339,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-20T19:48:04.916808Z"
+        "scored_at": "2026-09-20T20:55:14.155655Z"
       }
     },
     {
@@ -387,15 +387,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7439,
-      "importance": 0.7439,
-      "importance_score": 0.7439,
+      "score": 0.7415,
+      "importance": 0.7415,
+      "importance_score": 0.7415,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.69,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9181,
+        "recency": 0.9049,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -420,7 +420,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-20T19:48:04.916808Z"
+        "scored_at": "2026-09-20T20:55:14.155655Z"
       }
     },
     {
@@ -468,15 +468,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7434,
-      "importance": 0.7434,
-      "importance_score": 0.7434,
+      "score": 0.7412,
+      "importance": 0.7412,
+      "importance_score": 0.7412,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8655,
+        "recency": 0.8531,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -501,7 +501,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-20T19:48:04.916808Z"
+        "scored_at": "2026-09-20T20:55:14.155655Z"
       }
     },
     {
@@ -578,15 +578,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7628,
-      "importance": 0.7628,
-      "importance_score": 0.7628,
+      "score": 0.7609,
+      "importance": 0.7609,
+      "importance_score": 0.7609,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.77,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7511,
+        "recency": 0.7404,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -613,7 +613,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-20T19:48:04.916808Z"
+        "scored_at": "2026-09-20T20:55:14.155655Z"
       }
     },
     {
@@ -661,15 +661,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7434,
-      "importance": 0.7434,
-      "importance_score": 0.7434,
+      "score": 0.7412,
+      "importance": 0.7412,
+      "importance_score": 0.7412,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8655,
+        "recency": 0.8531,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -694,7 +694,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-20T19:48:04.916808Z"
+        "scored_at": "2026-09-20T20:55:14.155655Z"
       }
     },
     {
@@ -742,15 +742,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7434,
-      "importance": 0.7434,
-      "importance_score": 0.7434,
+      "score": 0.7412,
+      "importance": 0.7412,
+      "importance_score": 0.7412,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8655,
+        "recency": 0.8531,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -775,7 +775,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-20T19:48:04.916808Z"
+        "scored_at": "2026-09-20T20:55:14.155655Z"
       }
     },
     {
@@ -823,15 +823,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7434,
-      "importance": 0.7434,
-      "importance_score": 0.7434,
+      "score": 0.7412,
+      "importance": 0.7412,
+      "importance_score": 0.7412,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8655,
+        "recency": 0.8531,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -856,7 +856,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-20T19:48:04.916808Z"
+        "scored_at": "2026-09-20T20:55:14.155655Z"
       }
     },
     {
@@ -904,15 +904,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7412,
-      "importance": 0.7412,
-      "importance_score": 0.7412,
+      "score": 0.739,
+      "importance": 0.739,
+      "importance_score": 0.739,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8531,
+        "recency": 0.8409,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -937,7 +937,116 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-20T19:48:04.916808Z"
+        "scored_at": "2026-09-20T20:55:14.155655Z"
+      }
+    },
+    {
+      "story_id": "story_2db69fbe8a5a",
+      "title": "英伟达 (Nvidia) 的黄仁勋 (Jensen Huang) 认为人工智能的担忧被夸大了，这一点没有人感到惊讶。 / No one is surprised that Nvidia&#8217;s Jensen Huang thinks AI fears are overblown.",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/997936/nvidia-jensen-huang-ai-fears-overblown",
+      "primary_url": "https://www.theverge.com/ai-artificial-intelligence/997936/nvidia-jensen-huang-ai-fears-overblown",
+      "source": "The Verge",
+      "source_name": "Curated Media",
+      "sources": [
+        {
+          "id": "df5714db5f11927567eba37aa2f0c9376686abb1",
+          "title": "英伟达 (Nvidia) 的黄仁勋 (Jensen Huang) 认为人工智能的担忧被夸大了，这一点没有人感到惊讶。 / No one is surprised that Nvidia&#8217;s Jensen Huang thinks AI fears are overblown.",
+          "title_zh": "英伟达 (Nvidia) 的黄仁勋 (Jensen Huang) 认为人工智能的担忧被夸大了，这一点没有人感到惊讶。",
+          "title_en": "No one is surprised that Nvidia&#8217;s Jensen Huang thinks AI fears are overblown.",
+          "title_original": "No one is surprised that Nvidia&#8217;s Jensen Huang thinks AI fears are overblown.",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.theverge.com/ai-artificial-intelligence/997936/nvidia-jensen-huang-ai-fears-overblown",
+          "source": "The Verge",
+          "source_name": "Curated Media",
+          "site_id": "curated_media",
+          "published_at": "2026-09-20T18:50:18Z"
+        },
+        {
+          "id": "4c2db2373e60e802256489099a61485b7afa431a",
+          "title": "No one is surprised that Nvidia’s Jensen Huang thinks AI fears are overblown.",
+          "title_zh": null,
+          "title_en": "No one is surprised that Nvidia’s Jensen Huang thinks AI fears are overblown.",
+          "title_original": "No one is surprised that Nvidia’s Jensen Huang thinks AI fears are overblown.",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.theverge.com/ai-artificial-intelligence/997936/nvidia-jensen-huang-ai-fears-overblown",
+          "source": "The Verge",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-09-20T18:50:18Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "The Verge"
+      ],
+      "items": [
+        {
+          "id": "df5714db5f11927567eba37aa2f0c9376686abb1",
+          "title": "英伟达 (Nvidia) 的黄仁勋 (Jensen Huang) 认为人工智能的担忧被夸大了，这一点没有人感到惊讶。 / No one is surprised that Nvidia&#8217;s Jensen Huang thinks AI fears are overblown.",
+          "title_zh": "英伟达 (Nvidia) 的黄仁勋 (Jensen Huang) 认为人工智能的担忧被夸大了，这一点没有人感到惊讶。",
+          "title_en": "No one is surprised that Nvidia&#8217;s Jensen Huang thinks AI fears are overblown.",
+          "title_original": "No one is surprised that Nvidia&#8217;s Jensen Huang thinks AI fears are overblown.",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.theverge.com/ai-artificial-intelligence/997936/nvidia-jensen-huang-ai-fears-overblown",
+          "source": "The Verge",
+          "source_name": "Curated Media",
+          "site_id": "curated_media",
+          "published_at": "2026-09-20T18:50:18Z"
+        },
+        {
+          "id": "4c2db2373e60e802256489099a61485b7afa431a",
+          "title": "No one is surprised that Nvidia’s Jensen Huang thinks AI fears are overblown.",
+          "title_zh": null,
+          "title_en": "No one is surprised that Nvidia’s Jensen Huang thinks AI fears are overblown.",
+          "title_original": "No one is surprised that Nvidia’s Jensen Huang thinks AI fears are overblown.",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.theverge.com/ai-artificial-intelligence/997936/nvidia-jensen-huang-ai-fears-overblown",
+          "source": "The Verge",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-09-20T18:50:18Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.6105,
+      "importance": 0.6105,
+      "importance_score": 0.6105,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.4896,
+        "source_tier": 0.58,
+        "ai_relevance": 0.68,
+        "recency": 0.9722,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-09-20T18:50:18Z",
+      "latest_at": "2026-09-20T18:50:18Z",
+      "primary_item": {
+        "id": "df5714db5f11927567eba37aa2f0c9376686abb1",
+        "title": "英伟达 (Nvidia) 的黄仁勋 (Jensen Huang) 认为人工智能的担忧被夸大了，这一点没有人感到惊讶。 / No one is surprised that Nvidia&#8217;s Jensen Huang thinks AI fears are overblown.",
+        "title_zh": "英伟达 (Nvidia) 的黄仁勋 (Jensen Huang) 认为人工智能的担忧被夸大了，这一点没有人感到惊讶。",
+        "title_en": "No one is surprised that Nvidia&#8217;s Jensen Huang thinks AI fears are overblown.",
+        "title_original": "No one is surprised that Nvidia&#8217;s Jensen Huang thinks AI fears are overblown.",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://www.theverge.com/ai-artificial-intelligence/997936/nvidia-jensen-huang-ai-fears-overblown",
+        "source": "The Verge",
+        "source_name": "Curated Media"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-09-20T20:55:14.155655Z"
       }
     },
     {
@@ -985,15 +1094,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7412,
-      "importance": 0.7412,
-      "importance_score": 0.7412,
+      "score": 0.739,
+      "importance": 0.739,
+      "importance_score": 0.739,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8531,
+        "recency": 0.8409,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1018,7 +1127,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-20T19:48:04.916808Z"
+        "scored_at": "2026-09-20T20:55:14.155655Z"
       }
     },
     {
@@ -1124,15 +1233,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5638,
-      "importance": 0.5638,
-      "importance_score": 0.5638,
+      "score": 0.5613,
+      "importance": 0.5613,
+      "importance_score": 0.5613,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9613,
+        "recency": 0.9475,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1157,7 +1266,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-20T19:48:04.916808Z"
+        "scored_at": "2026-09-20T20:55:14.155655Z"
       }
     },
     {
@@ -1263,15 +1372,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5606,
-      "importance": 0.5606,
-      "importance_score": 0.5606,
+      "score": 0.5581,
+      "importance": 0.5581,
+      "importance_score": 0.5581,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9432,
+        "recency": 0.9297,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1296,7 +1405,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-20T19:48:04.916808Z"
+        "scored_at": "2026-09-20T20:55:14.155655Z"
       }
     },
     {
@@ -1344,15 +1453,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.739,
-      "importance": 0.739,
-      "importance_score": 0.739,
+      "score": 0.7368,
+      "importance": 0.7368,
+      "importance_score": 0.7368,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8409,
+        "recency": 0.8288,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1377,7 +1486,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-20T19:48:04.916808Z"
+        "scored_at": "2026-09-20T20:55:14.155655Z"
       }
     },
     {
@@ -1483,15 +1592,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5536,
-      "importance": 0.5536,
-      "importance_score": 0.5536,
+      "score": 0.5513,
+      "importance": 0.5513,
+      "importance_score": 0.5513,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9045,
+        "recency": 0.8915,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1516,7 +1625,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-20T19:48:04.916808Z"
+        "scored_at": "2026-09-20T20:55:14.155655Z"
       }
     },
     {
@@ -1593,15 +1702,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5405,
-      "importance": 0.5405,
-      "importance_score": 0.5405,
+      "score": 0.538,
+      "importance": 0.538,
+      "importance_score": 0.538,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9707,
+        "recency": 0.9567,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1626,7 +1735,117 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-20T19:48:04.916808Z"
+        "scored_at": "2026-09-20T20:55:14.155655Z"
+      }
+    },
+    {
+      "story_id": "story_8c6e00ff1c29",
+      "title": "Prompts Aren't Real",
+      "url": "https://evaluation.club",
+      "primary_url": "https://evaluation.club",
+      "source": "Hacker News",
+      "source_name": "TechURLs",
+      "sources": [
+        {
+          "id": "8c9907e389169edf39e60e8683d364dabc863112",
+          "title": "Prompts Aren't Real",
+          "title_zh": null,
+          "title_en": "Prompts Aren't Real",
+          "title_original": "Prompts Aren't Real",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://evaluation.club",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-09-20T15:59:25Z"
+        },
+        {
+          "id": "b54d61a4c036f1e894c1dd4ba999e672d9679d19",
+          "title": "Prompts aren’t Real",
+          "title_zh": null,
+          "title_en": "Prompts aren’t Real",
+          "title_original": "Prompts aren’t Real",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://evaluation.club",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-09-20T15:59:25Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News",
+        "Hacker News · 24h最热"
+      ],
+      "items": [
+        {
+          "id": "8c9907e389169edf39e60e8683d364dabc863112",
+          "title": "Prompts Aren't Real",
+          "title_zh": null,
+          "title_en": "Prompts Aren't Real",
+          "title_original": "Prompts Aren't Real",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://evaluation.club",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-09-20T15:59:25Z"
+        },
+        {
+          "id": "b54d61a4c036f1e894c1dd4ba999e672d9679d19",
+          "title": "Prompts aren’t Real",
+          "title_zh": null,
+          "title_en": "Prompts aren’t Real",
+          "title_original": "Prompts aren’t Real",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://evaluation.club",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-09-20T15:59:25Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5337,
+      "importance": 0.5337,
+      "importance_score": 0.5337,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.933,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-09-20T15:59:25Z",
+      "latest_at": "2026-09-20T15:59:25Z",
+      "primary_item": {
+        "id": "8c9907e389169edf39e60e8683d364dabc863112",
+        "title": "Prompts Aren't Real",
+        "title_zh": null,
+        "title_en": "Prompts Aren't Real",
+        "title_original": "Prompts Aren't Real",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://evaluation.club",
+        "source": "Hacker News",
+        "source_name": "TechURLs"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-09-20T20:55:14.155655Z"
       }
     },
     {
@@ -1702,15 +1921,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5362,
-      "importance": 0.5362,
-      "importance_score": 0.5362,
+      "score": 0.5337,
+      "importance": 0.5337,
+      "importance_score": 0.5337,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9466,
+        "recency": 0.933,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1735,7 +1954,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-20T19:48:04.916808Z"
+        "scored_at": "2026-09-20T20:55:14.155655Z"
       }
     },
     {
@@ -1783,15 +2002,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.739,
-      "importance": 0.739,
-      "importance_score": 0.739,
+      "score": 0.7368,
+      "importance": 0.7368,
+      "importance_score": 0.7368,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8409,
+        "recency": 0.8288,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1816,7 +2035,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-20T19:48:04.916808Z"
+        "scored_at": "2026-09-20T20:55:14.155655Z"
       }
     },
     {
@@ -1893,15 +2112,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5258,
-      "importance": 0.5258,
-      "importance_score": 0.5258,
+      "score": 0.5235,
+      "importance": 0.5235,
+      "importance_score": 0.5235,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8887,
+        "recency": 0.876,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1926,227 +2145,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-20T19:48:04.916808Z"
-      }
-    },
-    {
-      "story_id": "story_79fe487188c4",
-      "title": "编排Claude代码代理：参谋长模式 / Orchestrating Claude Code Agents: The Chief of Staff Pattern",
-      "url": "https://asyncdot.com/blog/chief-of-staff-pattern-orchestrating-claude-code-sessions",
-      "primary_url": "https://asyncdot.com/blog/chief-of-staff-pattern-orchestrating-claude-code-sessions",
-      "source": "HN Algolia · AI 24h",
-      "source_name": "Hacker News",
-      "sources": [
-        {
-          "id": "11fe2dfd54c4275015fda1d3ba1d57f8c61f237d",
-          "title": "编排Claude代码代理：参谋长模式 / Orchestrating Claude Code Agents: The Chief of Staff Pattern",
-          "title_zh": "编排Claude代码代理：参谋长模式",
-          "title_en": "Orchestrating Claude Code Agents: The Chief of Staff Pattern",
-          "title_original": "Orchestrating Claude Code Agents: The Chief of Staff Pattern",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://asyncdot.com/blog/chief-of-staff-pattern-orchestrating-claude-code-sessions",
-          "source": "HN Algolia · AI 24h",
-          "source_name": "Hacker News",
-          "site_id": "hackernews",
-          "published_at": "2026-09-20T05:46:19Z"
-        },
-        {
-          "id": "1e8cd5edc0205aacef8052cbbeb2e9f6a0a09ed5",
-          "title": "编排Claude代码代理：参谋长模式 / Orchestrating Claude Code Agents: The Chief of Staff Pattern",
-          "title_zh": "编排Claude代码代理：参谋长模式",
-          "title_en": "Orchestrating Claude Code Agents: The Chief of Staff Pattern",
-          "title_original": "Orchestrating Claude Code Agents: The Chief of Staff Pattern",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=49772806",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-09-20T05:46:19Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "HN Algolia · AI 24h",
-        "hackernews"
-      ],
-      "items": [
-        {
-          "id": "11fe2dfd54c4275015fda1d3ba1d57f8c61f237d",
-          "title": "编排Claude代码代理：参谋长模式 / Orchestrating Claude Code Agents: The Chief of Staff Pattern",
-          "title_zh": "编排Claude代码代理：参谋长模式",
-          "title_en": "Orchestrating Claude Code Agents: The Chief of Staff Pattern",
-          "title_original": "Orchestrating Claude Code Agents: The Chief of Staff Pattern",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://asyncdot.com/blog/chief-of-staff-pattern-orchestrating-claude-code-sessions",
-          "source": "HN Algolia · AI 24h",
-          "source_name": "Hacker News",
-          "site_id": "hackernews",
-          "published_at": "2026-09-20T05:46:19Z"
-        },
-        {
-          "id": "1e8cd5edc0205aacef8052cbbeb2e9f6a0a09ed5",
-          "title": "编排Claude代码代理：参谋长模式 / Orchestrating Claude Code Agents: The Chief of Staff Pattern",
-          "title_zh": "编排Claude代码代理：参谋长模式",
-          "title_en": "Orchestrating Claude Code Agents: The Chief of Staff Pattern",
-          "title_original": "Orchestrating Claude Code Agents: The Chief of Staff Pattern",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=49772806",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-09-20T05:46:19Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5128,
-      "importance": 0.5128,
-      "importance_score": 0.5128,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.8168,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-09-20T05:46:19Z",
-      "latest_at": "2026-09-20T05:46:19Z",
-      "primary_item": {
-        "id": "11fe2dfd54c4275015fda1d3ba1d57f8c61f237d",
-        "title": "编排Claude代码代理：参谋长模式 / Orchestrating Claude Code Agents: The Chief of Staff Pattern",
-        "title_zh": "编排Claude代码代理：参谋长模式",
-        "title_en": "Orchestrating Claude Code Agents: The Chief of Staff Pattern",
-        "title_original": "Orchestrating Claude Code Agents: The Chief of Staff Pattern",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://asyncdot.com/blog/chief-of-staff-pattern-orchestrating-claude-code-sessions",
-        "source": "HN Algolia · AI 24h",
-        "source_name": "Hacker News"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-09-20T19:48:04.916808Z"
-      }
-    },
-    {
-      "story_id": "story_8c6e00ff1c29",
-      "title": "Prompts Aren't Real",
-      "url": "https://evaluation.club",
-      "primary_url": "https://evaluation.club",
-      "source": "Hacker News (黑客新闻)",
-      "source_name": "Info Flow",
-      "sources": [
-        {
-          "id": "6b6ceff8a6fd755d203be6a3edc2d947801071de",
-          "title": "Prompts Aren't Real",
-          "title_zh": null,
-          "title_en": "Prompts Aren't Real",
-          "title_original": "Prompts Aren't Real",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://evaluation.club",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-09-20T15:59:25Z"
-        },
-        {
-          "id": "b54d61a4c036f1e894c1dd4ba999e672d9679d19",
-          "title": "Prompts aren’t Real",
-          "title_zh": null,
-          "title_en": "Prompts aren’t Real",
-          "title_original": "Prompts aren’t Real",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://evaluation.club",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-09-20T15:59:25Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News (黑客新闻)",
-        "Hacker News · 24h最热"
-      ],
-      "items": [
-        {
-          "id": "6b6ceff8a6fd755d203be6a3edc2d947801071de",
-          "title": "Prompts Aren't Real",
-          "title_zh": null,
-          "title_en": "Prompts Aren't Real",
-          "title_original": "Prompts Aren't Real",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://evaluation.club",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-09-20T15:59:25Z"
-        },
-        {
-          "id": "b54d61a4c036f1e894c1dd4ba999e672d9679d19",
-          "title": "Prompts aren’t Real",
-          "title_zh": null,
-          "title_en": "Prompts aren’t Real",
-          "title_original": "Prompts aren’t Real",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://evaluation.club",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-09-20T15:59:25Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5362,
-      "importance": 0.5362,
-      "importance_score": 0.5362,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.9466,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-09-20T15:59:25Z",
-      "latest_at": "2026-09-20T15:59:25Z",
-      "primary_item": {
-        "id": "6b6ceff8a6fd755d203be6a3edc2d947801071de",
-        "title": "Prompts Aren't Real",
-        "title_zh": null,
-        "title_en": "Prompts Aren't Real",
-        "title_original": "Prompts Aren't Real",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://evaluation.club",
-        "source": "Hacker News (黑客新闻)",
-        "source_name": "Info Flow"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-09-20T19:48:04.916808Z"
+        "scored_at": "2026-09-20T20:55:14.155655Z"
       }
     }
   ]
