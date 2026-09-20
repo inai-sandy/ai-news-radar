@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-20T02:47:16.759158Z",
+  "generated_at": "2026-09-20T03:47:17.305522Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -135,15 +135,15 @@
       ],
       "item_count": 4,
       "duplicate_count": 4,
-      "score": 0.8504,
-      "importance": 0.8504,
-      "importance_score": 0.8504,
+      "score": 0.8479,
+      "importance": 0.8479,
+      "importance_score": 0.8479,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.77,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9602,
+        "recency": 0.9464,
         "story_heat": 0.75
       },
       "category": "multi_source",
@@ -170,30 +170,30 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-20T02:48:01.864163Z"
+        "scored_at": "2026-09-20T03:47:56.535238Z"
       }
     },
     {
-      "story_id": "story_d1c800dec247",
-      "title": "Anthropic考虑推出新模型，拟应对OpenAI GPT-6Astra竞争",
-      "url": "https://www.aibase.com/news/31180",
-      "primary_url": "https://www.aibase.com/news/31180",
+      "story_id": "story_e1fd0d999371",
+      "title": "MiniMax 开源 Code CLI：命令行编程工具亮出 76.7% 通过率，把企业级 harness 摊在阳光下",
+      "url": "https://www.aibase.com/news/31189",
+      "primary_url": "https://www.aibase.com/news/31189",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "97e0cc0aad5b39188ac19fd105397fe1e9575784",
-          "title": "Anthropic考虑推出新模型，拟应对OpenAI GPT-6Astra竞争",
-          "title_zh": "Anthropic考虑推出新模型，拟应对OpenAI GPT-6Astra竞争",
+          "id": "6dc2e713e964392dd9302c202f330a7e09070e0a",
+          "title": "MiniMax 开源 Code CLI：命令行编程工具亮出 76.7% 通过率，把企业级 harness 摊在阳光下",
+          "title_zh": "MiniMax 开源 Code CLI：命令行编程工具亮出 76.7% 通过率，把企业级 harness 摊在阳光下",
           "title_en": null,
-          "title_original": "Anthropic考虑推出新模型，拟应对OpenAI GPT-6Astra竞争",
+          "title_original": "MiniMax 开源 Code CLI：命令行编程工具亮出 76.7% 通过率，把企业级 harness 摊在阳光下",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/31180",
+          "url": "https://www.aibase.com/news/31189",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-09-20T02:47:16.759158Z"
+          "published_at": "2026-09-20T03:47:17.305522Z"
         }
       ],
       "source_count": 1,
@@ -202,18 +202,18 @@
       ],
       "items": [
         {
-          "id": "97e0cc0aad5b39188ac19fd105397fe1e9575784",
-          "title": "Anthropic考虑推出新模型，拟应对OpenAI GPT-6Astra竞争",
-          "title_zh": "Anthropic考虑推出新模型，拟应对OpenAI GPT-6Astra竞争",
+          "id": "6dc2e713e964392dd9302c202f330a7e09070e0a",
+          "title": "MiniMax 开源 Code CLI：命令行编程工具亮出 76.7% 通过率，把企业级 harness 摊在阳光下",
+          "title_zh": "MiniMax 开源 Code CLI：命令行编程工具亮出 76.7% 通过率，把企业级 harness 摊在阳光下",
           "title_en": null,
-          "title_original": "Anthropic考虑推出新模型，拟应对OpenAI GPT-6Astra竞争",
+          "title_original": "MiniMax 开源 Code CLI：命令行编程工具亮出 76.7% 通过率，把企业级 harness 摊在阳光下",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/31180",
+          "url": "https://www.aibase.com/news/31189",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-09-20T02:47:16.759158Z"
+          "published_at": "2026-09-20T03:47:17.305522Z"
         }
       ],
       "item_count": 1,
@@ -234,17 +234,17 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-09-20T02:47:16.759158Z",
-      "latest_at": "2026-09-20T02:47:16.759158Z",
+      "earliest_at": "2026-09-20T03:47:17.305522Z",
+      "latest_at": "2026-09-20T03:47:17.305522Z",
       "primary_item": {
-        "id": "97e0cc0aad5b39188ac19fd105397fe1e9575784",
-        "title": "Anthropic考虑推出新模型，拟应对OpenAI GPT-6Astra竞争",
-        "title_zh": "Anthropic考虑推出新模型，拟应对OpenAI GPT-6Astra竞争",
+        "id": "6dc2e713e964392dd9302c202f330a7e09070e0a",
+        "title": "MiniMax 开源 Code CLI：命令行编程工具亮出 76.7% 通过率，把企业级 harness 摊在阳光下",
+        "title_zh": "MiniMax 开源 Code CLI：命令行编程工具亮出 76.7% 通过率，把企业级 harness 摊在阳光下",
         "title_en": null,
-        "title_original": "Anthropic考虑推出新模型，拟应对OpenAI GPT-6Astra竞争",
+        "title_original": "MiniMax 开源 Code CLI：命令行编程工具亮出 76.7% 通过率，把企业级 harness 摊在阳光下",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/31180",
+        "url": "https://www.aibase.com/news/31189",
         "source": "AIbase",
         "source_name": "AIbase"
       },
@@ -252,7 +252,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-20T02:48:01.864163Z"
+        "scored_at": "2026-09-20T03:47:56.535238Z"
       }
     },
     {
@@ -300,21 +300,20 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7506,
-      "importance": 0.7506,
-      "importance_score": 0.7506,
+      "score": 0.7487,
+      "importance": 0.7487,
+      "importance_score": 0.7487,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.82,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7389,
+        "recency": 0.7283,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-09-19T05:50:11Z",
       "latest_at": "2026-09-19T05:50:11Z",
@@ -334,7 +333,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-20T02:48:01.864163Z"
+        "scored_at": "2026-09-20T03:47:56.535238Z"
       }
     },
     {
@@ -382,15 +381,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7476,
-      "importance": 0.7476,
-      "importance_score": 0.7476,
+      "score": 0.745,
+      "importance": 0.745,
+      "importance_score": 0.745,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.66,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9887,
+        "recency": 0.9745,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -415,7 +414,253 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-20T02:48:01.864163Z"
+        "scored_at": "2026-09-20T03:47:56.535238Z"
+      }
+    },
+    {
+      "story_id": "story_f4d7dbb9fffa",
+      "title": "Unity 官宣 Claude Code 与 Codex 插件：31 项开发技能把 AI 代理绑上游戏引擎",
+      "url": "https://www.aibase.com/news/31188",
+      "primary_url": "https://www.aibase.com/news/31188",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "e183d27ed4cc78b69a3f36ac35f6a633adb28374",
+          "title": "Unity 官宣 Claude Code 与 Codex 插件：31 项开发技能把 AI 代理绑上游戏引擎",
+          "title_zh": "Unity 官宣 Claude Code 与 Codex 插件：31 项开发技能把 AI 代理绑上游戏引擎",
+          "title_en": null,
+          "title_original": "Unity 官宣 Claude Code 与 Codex 插件：31 项开发技能把 AI 代理绑上游戏引擎",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/31188",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-09-20T03:47:17.305522Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "e183d27ed4cc78b69a3f36ac35f6a633adb28374",
+          "title": "Unity 官宣 Claude Code 与 Codex 插件：31 项开发技能把 AI 代理绑上游戏引擎",
+          "title_zh": "Unity 官宣 Claude Code 与 Codex 插件：31 项开发技能把 AI 代理绑上游戏引擎",
+          "title_en": null,
+          "title_original": "Unity 官宣 Claude Code 与 Codex 插件：31 项开发技能把 AI 代理绑上游戏引擎",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/31188",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-09-20T03:47:17.305522Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7676,
+      "importance": 0.7676,
+      "importance_score": 0.7676,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-20T03:47:17.305522Z",
+      "latest_at": "2026-09-20T03:47:17.305522Z",
+      "primary_item": {
+        "id": "e183d27ed4cc78b69a3f36ac35f6a633adb28374",
+        "title": "Unity 官宣 Claude Code 与 Codex 插件：31 项开发技能把 AI 代理绑上游戏引擎",
+        "title_zh": "Unity 官宣 Claude Code 与 Codex 插件：31 项开发技能把 AI 代理绑上游戏引擎",
+        "title_en": null,
+        "title_original": "Unity 官宣 Claude Code 与 Codex 插件：31 项开发技能把 AI 代理绑上游戏引擎",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://www.aibase.com/news/31188",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-09-20T03:47:56.535238Z"
+      }
+    },
+    {
+      "story_id": "story_5fd1d94a5a43",
+      "title": "阶跃星辰发布Step5Preview，单任务成本仅为Claude Opus5的1/8",
+      "url": "https://www.aibase.com/news/31187",
+      "primary_url": "https://www.aibase.com/news/31187",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "e622a50e2161652dc095545f41ed25067f8ab0a6",
+          "title": "阶跃星辰发布Step5Preview，单任务成本仅为Claude Opus5的1/8",
+          "title_zh": "阶跃星辰发布Step5Preview，单任务成本仅为Claude Opus5的1/8",
+          "title_en": null,
+          "title_original": "阶跃星辰发布Step5Preview，单任务成本仅为Claude Opus5的1/8",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/31187",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-09-20T03:47:17.305522Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "e622a50e2161652dc095545f41ed25067f8ab0a6",
+          "title": "阶跃星辰发布Step5Preview，单任务成本仅为Claude Opus5的1/8",
+          "title_zh": "阶跃星辰发布Step5Preview，单任务成本仅为Claude Opus5的1/8",
+          "title_en": null,
+          "title_original": "阶跃星辰发布Step5Preview，单任务成本仅为Claude Opus5的1/8",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/31187",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-09-20T03:47:17.305522Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7676,
+      "importance": 0.7676,
+      "importance_score": 0.7676,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-20T03:47:17.305522Z",
+      "latest_at": "2026-09-20T03:47:17.305522Z",
+      "primary_item": {
+        "id": "e622a50e2161652dc095545f41ed25067f8ab0a6",
+        "title": "阶跃星辰发布Step5Preview，单任务成本仅为Claude Opus5的1/8",
+        "title_zh": "阶跃星辰发布Step5Preview，单任务成本仅为Claude Opus5的1/8",
+        "title_en": null,
+        "title_original": "阶跃星辰发布Step5Preview，单任务成本仅为Claude Opus5的1/8",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://www.aibase.com/news/31187",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-09-20T03:47:56.535238Z"
+      }
+    },
+    {
+      "story_id": "story_d1c800dec247",
+      "title": "Anthropic考虑推出新模型，拟应对OpenAI GPT-6Astra竞争",
+      "url": "https://www.aibase.com/news/31180",
+      "primary_url": "https://www.aibase.com/news/31180",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "97e0cc0aad5b39188ac19fd105397fe1e9575784",
+          "title": "Anthropic考虑推出新模型，拟应对OpenAI GPT-6Astra竞争",
+          "title_zh": "Anthropic考虑推出新模型，拟应对OpenAI GPT-6Astra竞争",
+          "title_en": null,
+          "title_original": "Anthropic考虑推出新模型，拟应对OpenAI GPT-6Astra竞争",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/31180",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-09-20T02:47:16.759158Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "97e0cc0aad5b39188ac19fd105397fe1e9575784",
+          "title": "Anthropic考虑推出新模型，拟应对OpenAI GPT-6Astra竞争",
+          "title_zh": "Anthropic考虑推出新模型，拟应对OpenAI GPT-6Astra竞争",
+          "title_en": null,
+          "title_original": "Anthropic考虑推出新模型，拟应对OpenAI GPT-6Astra竞争",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/31180",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-09-20T02:47:16.759158Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.765,
+      "importance": 0.765,
+      "importance_score": 0.765,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9857,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-20T02:47:16.759158Z",
+      "latest_at": "2026-09-20T02:47:16.759158Z",
+      "primary_item": {
+        "id": "97e0cc0aad5b39188ac19fd105397fe1e9575784",
+        "title": "Anthropic考虑推出新模型，拟应对OpenAI GPT-6Astra竞争",
+        "title_zh": "Anthropic考虑推出新模型，拟应对OpenAI GPT-6Astra竞争",
+        "title_en": null,
+        "title_original": "Anthropic考虑推出新模型，拟应对OpenAI GPT-6Astra竞争",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://www.aibase.com/news/31180",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-09-20T03:47:56.535238Z"
       }
     },
     {
@@ -463,15 +708,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7676,
-      "importance": 0.7676,
-      "importance_score": 0.7676,
+      "score": 0.765,
+      "importance": 0.765,
+      "importance_score": 0.765,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.9857,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -497,7 +742,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-20T02:48:01.864163Z"
+        "scored_at": "2026-09-20T03:47:56.535238Z"
       }
     },
     {
@@ -545,15 +790,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7676,
-      "importance": 0.7676,
-      "importance_score": 0.7676,
+      "score": 0.765,
+      "importance": 0.765,
+      "importance_score": 0.765,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.9857,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -579,253 +824,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-20T02:48:01.864163Z"
-      }
-    },
-    {
-      "story_id": "story_2354f61307ce",
-      "title": "中国电信开源 Xing4.0-29B-A4B：从昇腾芯片到框架全栈国产，消费级显卡也能跑长上下文",
-      "url": "https://www.aibase.com/news/31179",
-      "primary_url": "https://www.aibase.com/news/31179",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "7f44ad952779b57076d0d3086a2e67e45fcba1ba",
-          "title": "中国电信开源 Xing4.0-29B-A4B：从昇腾芯片到框架全栈国产，消费级显卡也能跑长上下文",
-          "title_zh": "中国电信开源 Xing4.0-29B-A4B：从昇腾芯片到框架全栈国产，消费级显卡也能跑长上下文",
-          "title_en": null,
-          "title_original": "中国电信开源 Xing4.0-29B-A4B：从昇腾芯片到框架全栈国产，消费级显卡也能跑长上下文",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/31179",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-09-20T02:47:16.759158Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "7f44ad952779b57076d0d3086a2e67e45fcba1ba",
-          "title": "中国电信开源 Xing4.0-29B-A4B：从昇腾芯片到框架全栈国产，消费级显卡也能跑长上下文",
-          "title_zh": "中国电信开源 Xing4.0-29B-A4B：从昇腾芯片到框架全栈国产，消费级显卡也能跑长上下文",
-          "title_en": null,
-          "title_original": "中国电信开源 Xing4.0-29B-A4B：从昇腾芯片到框架全栈国产，消费级显卡也能跑长上下文",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/31179",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-09-20T02:47:16.759158Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7676,
-      "importance": 0.7676,
-      "importance_score": 0.7676,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 1.0,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-20T02:47:16.759158Z",
-      "latest_at": "2026-09-20T02:47:16.759158Z",
-      "primary_item": {
-        "id": "7f44ad952779b57076d0d3086a2e67e45fcba1ba",
-        "title": "中国电信开源 Xing4.0-29B-A4B：从昇腾芯片到框架全栈国产，消费级显卡也能跑长上下文",
-        "title_zh": "中国电信开源 Xing4.0-29B-A4B：从昇腾芯片到框架全栈国产，消费级显卡也能跑长上下文",
-        "title_en": null,
-        "title_original": "中国电信开源 Xing4.0-29B-A4B：从昇腾芯片到框架全栈国产，消费级显卡也能跑长上下文",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/31179",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-09-20T02:48:01.864163Z"
-      }
-    },
-    {
-      "story_id": "story_874b8a85f11d",
-      "title": "千问发布 Qwen3.8-LiveTranslate 同声传译大模型：原文译文同屏出，字均延迟压到 2.3 秒",
-      "url": "https://www.aibase.com/news/31181",
-      "primary_url": "https://www.aibase.com/news/31181",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "4b688ff41821d920cce657e199a68248e2d32044",
-          "title": "千问发布 Qwen3.8-LiveTranslate 同声传译大模型：原文译文同屏出，字均延迟压到 2.3 秒",
-          "title_zh": "千问发布 Qwen3.8-LiveTranslate 同声传译大模型：原文译文同屏出，字均延迟压到 2.3 秒",
-          "title_en": null,
-          "title_original": "千问发布 Qwen3.8-LiveTranslate 同声传译大模型：原文译文同屏出，字均延迟压到 2.3 秒",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/31181",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-09-20T02:47:16.759158Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "4b688ff41821d920cce657e199a68248e2d32044",
-          "title": "千问发布 Qwen3.8-LiveTranslate 同声传译大模型：原文译文同屏出，字均延迟压到 2.3 秒",
-          "title_zh": "千问发布 Qwen3.8-LiveTranslate 同声传译大模型：原文译文同屏出，字均延迟压到 2.3 秒",
-          "title_en": null,
-          "title_original": "千问发布 Qwen3.8-LiveTranslate 同声传译大模型：原文译文同屏出，字均延迟压到 2.3 秒",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/31181",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-09-20T02:47:16.759158Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7676,
-      "importance": 0.7676,
-      "importance_score": 0.7676,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 1.0,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-20T02:47:16.759158Z",
-      "latest_at": "2026-09-20T02:47:16.759158Z",
-      "primary_item": {
-        "id": "4b688ff41821d920cce657e199a68248e2d32044",
-        "title": "千问发布 Qwen3.8-LiveTranslate 同声传译大模型：原文译文同屏出，字均延迟压到 2.3 秒",
-        "title_zh": "千问发布 Qwen3.8-LiveTranslate 同声传译大模型：原文译文同屏出，字均延迟压到 2.3 秒",
-        "title_en": null,
-        "title_original": "千问发布 Qwen3.8-LiveTranslate 同声传译大模型：原文译文同屏出，字均延迟压到 2.3 秒",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/31181",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-09-20T02:48:01.864163Z"
-      }
-    },
-    {
-      "story_id": "story_cbc5606b5556",
-      "title": "特朗普宣布组建“人工智能部队”：AI 未来或占美国 GDP 的 25%",
-      "url": "https://www.aibase.com/news/31185",
-      "primary_url": "https://www.aibase.com/news/31185",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "43b44b72102fd1fd8062cd85ba9e43ac01fecb64",
-          "title": "特朗普宣布组建“人工智能部队”：AI 未来或占美国 GDP 的 25%",
-          "title_zh": "特朗普宣布组建“人工智能部队”：AI 未来或占美国 GDP 的 25%",
-          "title_en": null,
-          "title_original": "特朗普宣布组建“人工智能部队”：AI 未来或占美国 GDP 的 25%",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/31185",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-09-20T02:47:16.759158Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "43b44b72102fd1fd8062cd85ba9e43ac01fecb64",
-          "title": "特朗普宣布组建“人工智能部队”：AI 未来或占美国 GDP 的 25%",
-          "title_zh": "特朗普宣布组建“人工智能部队”：AI 未来或占美国 GDP 的 25%",
-          "title_en": null,
-          "title_original": "特朗普宣布组建“人工智能部队”：AI 未来或占美国 GDP 的 25%",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/31185",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-09-20T02:47:16.759158Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7676,
-      "importance": 0.7676,
-      "importance_score": 0.7676,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 1.0,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-20T02:47:16.759158Z",
-      "latest_at": "2026-09-20T02:47:16.759158Z",
-      "primary_item": {
-        "id": "43b44b72102fd1fd8062cd85ba9e43ac01fecb64",
-        "title": "特朗普宣布组建“人工智能部队”：AI 未来或占美国 GDP 的 25%",
-        "title_zh": "特朗普宣布组建“人工智能部队”：AI 未来或占美国 GDP 的 25%",
-        "title_en": null,
-        "title_original": "特朗普宣布组建“人工智能部队”：AI 未来或占美国 GDP 的 25%",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/31185",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-09-20T02:48:01.864163Z"
+        "scored_at": "2026-09-20T03:47:56.535238Z"
       }
     },
     {
@@ -988,15 +987,15 @@
       ],
       "item_count": 5,
       "duplicate_count": 5,
-      "score": 0.6041,
-      "importance": 0.6041,
-      "importance_score": 0.6041,
+      "score": 0.6018,
+      "importance": 0.6018,
+      "importance_score": 0.6018,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9074,
+        "recency": 0.8944,
         "story_heat": 1.0
       },
       "category": "multi_source",
@@ -1021,26 +1020,26 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-20T02:48:01.864163Z"
+        "scored_at": "2026-09-20T03:47:56.535238Z"
       }
     },
     {
-      "story_id": "story_1b17dd68341c",
-      "title": "迪士尼首设 CTO：挖来原 Character.AI CEO 阿南德，统管技术与 AI 平台",
-      "url": "https://www.aibase.com/news/31182",
-      "primary_url": "https://www.aibase.com/news/31182",
+      "story_id": "story_2354f61307ce",
+      "title": "中国电信开源 Xing4.0-29B-A4B：从昇腾芯片到框架全栈国产，消费级显卡也能跑长上下文",
+      "url": "https://www.aibase.com/news/31179",
+      "primary_url": "https://www.aibase.com/news/31179",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "6e8643c6fccd0cb00474e606fd42a6f6069d9b68",
-          "title": "迪士尼首设 CTO：挖来原 Character.AI CEO 阿南德，统管技术与 AI 平台",
-          "title_zh": "迪士尼首设 CTO：挖来原 Character.AI CEO 阿南德，统管技术与 AI 平台",
+          "id": "7f44ad952779b57076d0d3086a2e67e45fcba1ba",
+          "title": "中国电信开源 Xing4.0-29B-A4B：从昇腾芯片到框架全栈国产，消费级显卡也能跑长上下文",
+          "title_zh": "中国电信开源 Xing4.0-29B-A4B：从昇腾芯片到框架全栈国产，消费级显卡也能跑长上下文",
           "title_en": null,
-          "title_original": "迪士尼首设 CTO：挖来原 Character.AI CEO 阿南德，统管技术与 AI 平台",
+          "title_original": "中国电信开源 Xing4.0-29B-A4B：从昇腾芯片到框架全栈国产，消费级显卡也能跑长上下文",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/31182",
+          "url": "https://www.aibase.com/news/31179",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
@@ -1053,14 +1052,14 @@
       ],
       "items": [
         {
-          "id": "6e8643c6fccd0cb00474e606fd42a6f6069d9b68",
-          "title": "迪士尼首设 CTO：挖来原 Character.AI CEO 阿南德，统管技术与 AI 平台",
-          "title_zh": "迪士尼首设 CTO：挖来原 Character.AI CEO 阿南德，统管技术与 AI 平台",
+          "id": "7f44ad952779b57076d0d3086a2e67e45fcba1ba",
+          "title": "中国电信开源 Xing4.0-29B-A4B：从昇腾芯片到框架全栈国产，消费级显卡也能跑长上下文",
+          "title_zh": "中国电信开源 Xing4.0-29B-A4B：从昇腾芯片到框架全栈国产，消费级显卡也能跑长上下文",
           "title_en": null,
-          "title_original": "迪士尼首设 CTO：挖来原 Character.AI CEO 阿南德，统管技术与 AI 平台",
+          "title_original": "中国电信开源 Xing4.0-29B-A4B：从昇腾芯片到框架全栈国产，消费级显卡也能跑长上下文",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/31182",
+          "url": "https://www.aibase.com/news/31179",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
@@ -1069,15 +1068,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7676,
-      "importance": 0.7676,
-      "importance_score": 0.7676,
+      "score": 0.765,
+      "importance": 0.765,
+      "importance_score": 0.765,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.9857,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1088,14 +1087,14 @@
       "earliest_at": "2026-09-20T02:47:16.759158Z",
       "latest_at": "2026-09-20T02:47:16.759158Z",
       "primary_item": {
-        "id": "6e8643c6fccd0cb00474e606fd42a6f6069d9b68",
-        "title": "迪士尼首设 CTO：挖来原 Character.AI CEO 阿南德，统管技术与 AI 平台",
-        "title_zh": "迪士尼首设 CTO：挖来原 Character.AI CEO 阿南德，统管技术与 AI 平台",
+        "id": "7f44ad952779b57076d0d3086a2e67e45fcba1ba",
+        "title": "中国电信开源 Xing4.0-29B-A4B：从昇腾芯片到框架全栈国产，消费级显卡也能跑长上下文",
+        "title_zh": "中国电信开源 Xing4.0-29B-A4B：从昇腾芯片到框架全栈国产，消费级显卡也能跑长上下文",
         "title_en": null,
-        "title_original": "迪士尼首设 CTO：挖来原 Character.AI CEO 阿南德，统管技术与 AI 平台",
+        "title_original": "中国电信开源 Xing4.0-29B-A4B：从昇腾芯片到框架全栈国产，消费级显卡也能跑长上下文",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/31182",
+        "url": "https://www.aibase.com/news/31179",
         "source": "AIbase",
         "source_name": "AIbase"
       },
@@ -1103,26 +1102,26 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-20T02:48:01.864163Z"
+        "scored_at": "2026-09-20T03:47:56.535238Z"
       }
     },
     {
-      "story_id": "story_5b5176426bd1",
-      "title": "马斯克放豪言：AI 将使明年美国 GDP 增速翻番至 4%",
-      "url": "https://www.aibase.com/news/31186",
-      "primary_url": "https://www.aibase.com/news/31186",
+      "story_id": "story_874b8a85f11d",
+      "title": "千问发布 Qwen3.8-LiveTranslate 同声传译大模型：原文译文同屏出，字均延迟压到 2.3 秒",
+      "url": "https://www.aibase.com/news/31181",
+      "primary_url": "https://www.aibase.com/news/31181",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "68303a6971758585f07f1408e22a8638cad85174",
-          "title": "马斯克放豪言：AI 将使明年美国 GDP 增速翻番至 4%",
-          "title_zh": "马斯克放豪言：AI 将使明年美国 GDP 增速翻番至 4%",
+          "id": "4b688ff41821d920cce657e199a68248e2d32044",
+          "title": "千问发布 Qwen3.8-LiveTranslate 同声传译大模型：原文译文同屏出，字均延迟压到 2.3 秒",
+          "title_zh": "千问发布 Qwen3.8-LiveTranslate 同声传译大模型：原文译文同屏出，字均延迟压到 2.3 秒",
           "title_en": null,
-          "title_original": "马斯克放豪言：AI 将使明年美国 GDP 增速翻番至 4%",
+          "title_original": "千问发布 Qwen3.8-LiveTranslate 同声传译大模型：原文译文同屏出，字均延迟压到 2.3 秒",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/31186",
+          "url": "https://www.aibase.com/news/31181",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
@@ -1135,14 +1134,14 @@
       ],
       "items": [
         {
-          "id": "68303a6971758585f07f1408e22a8638cad85174",
-          "title": "马斯克放豪言：AI 将使明年美国 GDP 增速翻番至 4%",
-          "title_zh": "马斯克放豪言：AI 将使明年美国 GDP 增速翻番至 4%",
+          "id": "4b688ff41821d920cce657e199a68248e2d32044",
+          "title": "千问发布 Qwen3.8-LiveTranslate 同声传译大模型：原文译文同屏出，字均延迟压到 2.3 秒",
+          "title_zh": "千问发布 Qwen3.8-LiveTranslate 同声传译大模型：原文译文同屏出，字均延迟压到 2.3 秒",
           "title_en": null,
-          "title_original": "马斯克放豪言：AI 将使明年美国 GDP 增速翻番至 4%",
+          "title_original": "千问发布 Qwen3.8-LiveTranslate 同声传译大模型：原文译文同屏出，字均延迟压到 2.3 秒",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/31186",
+          "url": "https://www.aibase.com/news/31181",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
@@ -1151,15 +1150,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7676,
-      "importance": 0.7676,
-      "importance_score": 0.7676,
+      "score": 0.765,
+      "importance": 0.765,
+      "importance_score": 0.765,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.9857,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1170,14 +1169,14 @@
       "earliest_at": "2026-09-20T02:47:16.759158Z",
       "latest_at": "2026-09-20T02:47:16.759158Z",
       "primary_item": {
-        "id": "68303a6971758585f07f1408e22a8638cad85174",
-        "title": "马斯克放豪言：AI 将使明年美国 GDP 增速翻番至 4%",
-        "title_zh": "马斯克放豪言：AI 将使明年美国 GDP 增速翻番至 4%",
+        "id": "4b688ff41821d920cce657e199a68248e2d32044",
+        "title": "千问发布 Qwen3.8-LiveTranslate 同声传译大模型：原文译文同屏出，字均延迟压到 2.3 秒",
+        "title_zh": "千问发布 Qwen3.8-LiveTranslate 同声传译大模型：原文译文同屏出，字均延迟压到 2.3 秒",
         "title_en": null,
-        "title_original": "马斯克放豪言：AI 将使明年美国 GDP 增速翻番至 4%",
+        "title_original": "千问发布 Qwen3.8-LiveTranslate 同声传译大模型：原文译文同屏出，字均延迟压到 2.3 秒",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/31186",
+        "url": "https://www.aibase.com/news/31181",
         "source": "AIbase",
         "source_name": "AIbase"
       },
@@ -1185,7 +1184,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-20T02:48:01.864163Z"
+        "scored_at": "2026-09-20T03:47:56.535238Z"
       }
     },
     {
@@ -1262,15 +1261,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5391,
-      "importance": 0.5391,
-      "importance_score": 0.5391,
+      "score": 0.5366,
+      "importance": 0.5366,
+      "importance_score": 0.5366,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9629,
+        "recency": 0.949,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1295,117 +1294,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-20T02:48:01.864163Z"
-      }
-    },
-    {
-      "story_id": "story_a82a4cbb43d1",
-      "title": "Show HN：我创建了一个开源的本地可用的成熟人工智能平台 / Show HN: I created an open source locally usable full fledged AI platform",
-      "url": "https://news.ycombinator.com/item?id=49771118",
-      "primary_url": "https://news.ycombinator.com/item?id=49771118",
-      "source": "hackernews",
-      "source_name": "NewsNow",
-      "sources": [
-        {
-          "id": "1693ba4b22de4899bb95f498140994964b3b5132",
-          "title": "Show HN：我创建了一个开源的本地可用的成熟人工智能平台 / Show HN: I created an open source locally usable full fledged AI platform",
-          "title_zh": "Show HN：我创建了一个开源的本地可用的成熟人工智能平台",
-          "title_en": "Show HN: I created an open source locally usable full fledged AI platform",
-          "title_original": "Show HN: I created an open source locally usable full fledged AI platform",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=49771118",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-09-19T23:47:35Z"
-        },
-        {
-          "id": "b47217b4c029b973886670ffddeeb9a209d8a78c",
-          "title": "Show HN：我创建了一个开源的本地可用的成熟人工智能平台 / Show HN: I created an open source locally usable full fledged AI platform",
-          "title_zh": "Show HN：我创建了一个开源的本地可用的成熟人工智能平台",
-          "title_en": "Show HN: I created an open source locally usable full fledged AI platform",
-          "title_original": "Show HN: I created an open source locally usable full fledged AI platform",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://github.com/theguysudo/ENZO",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-09-19T23:47:35Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News",
-        "hackernews"
-      ],
-      "items": [
-        {
-          "id": "1693ba4b22de4899bb95f498140994964b3b5132",
-          "title": "Show HN：我创建了一个开源的本地可用的成熟人工智能平台 / Show HN: I created an open source locally usable full fledged AI platform",
-          "title_zh": "Show HN：我创建了一个开源的本地可用的成熟人工智能平台",
-          "title_en": "Show HN: I created an open source locally usable full fledged AI platform",
-          "title_original": "Show HN: I created an open source locally usable full fledged AI platform",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=49771118",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-09-19T23:47:35Z"
-        },
-        {
-          "id": "b47217b4c029b973886670ffddeeb9a209d8a78c",
-          "title": "Show HN：我创建了一个开源的本地可用的成熟人工智能平台 / Show HN: I created an open source locally usable full fledged AI platform",
-          "title_zh": "Show HN：我创建了一个开源的本地可用的成熟人工智能平台",
-          "title_en": "Show HN: I created an open source locally usable full fledged AI platform",
-          "title_original": "Show HN: I created an open source locally usable full fledged AI platform",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://github.com/theguysudo/ENZO",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-09-19T23:47:35Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5382,
-      "importance": 0.5382,
-      "importance_score": 0.5382,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.9577,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-09-19T23:47:35Z",
-      "latest_at": "2026-09-19T23:47:35Z",
-      "primary_item": {
-        "id": "1693ba4b22de4899bb95f498140994964b3b5132",
-        "title": "Show HN：我创建了一个开源的本地可用的成熟人工智能平台 / Show HN: I created an open source locally usable full fledged AI platform",
-        "title_zh": "Show HN：我创建了一个开源的本地可用的成熟人工智能平台",
-        "title_en": "Show HN: I created an open source locally usable full fledged AI platform",
-        "title_original": "Show HN: I created an open source locally usable full fledged AI platform",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://news.ycombinator.com/item?id=49771118",
-        "source": "hackernews",
-        "source_name": "NewsNow"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-09-20T02:48:01.864163Z"
+        "scored_at": "2026-09-20T03:47:56.535238Z"
       }
     },
     {
@@ -1413,11 +1302,11 @@
       "title": "你能说出哪些图像是人工智能生成的吗？ / Can you tell which images are AI-generated?",
       "url": "https://slop-sense.labtoagi.com/games/is-this-image-ai",
       "primary_url": "https://slop-sense.labtoagi.com/games/is-this-image-ai",
-      "source": "Hacker News (黑客新闻)",
-      "source_name": "Info Flow",
+      "source": "Hacker News · 24h最热",
+      "source_name": "Zeli",
       "sources": [
         {
-          "id": "88e377d7b77ac8808c3ab32b6049d649a96057ae",
+          "id": "9da649dafa4b5f5196ef314e323cfe253aa0fa62",
           "title": "你能说出哪些图像是人工智能生成的吗？ / Can you tell which images are AI-generated?",
           "title_zh": "你能说出哪些图像是人工智能生成的吗？",
           "title_en": "Can you tell which images are AI-generated?",
@@ -1425,9 +1314,9 @@
           "summary": null,
           "recommend_reason_zh": null,
           "url": "https://slop-sense.labtoagi.com/games/is-this-image-ai",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
           "published_at": "2026-09-19T23:02:34Z"
         },
         {
@@ -1447,12 +1336,12 @@
       ],
       "source_count": 2,
       "source_names": [
-        "Hacker News (黑客新闻)",
+        "Hacker News · 24h最热",
         "hackernews"
       ],
       "items": [
         {
-          "id": "88e377d7b77ac8808c3ab32b6049d649a96057ae",
+          "id": "9da649dafa4b5f5196ef314e323cfe253aa0fa62",
           "title": "你能说出哪些图像是人工智能生成的吗？ / Can you tell which images are AI-generated?",
           "title_zh": "你能说出哪些图像是人工智能生成的吗？",
           "title_en": "Can you tell which images are AI-generated?",
@@ -1460,9 +1349,9 @@
           "summary": null,
           "recommend_reason_zh": null,
           "url": "https://slop-sense.labtoagi.com/games/is-this-image-ai",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
           "published_at": "2026-09-19T23:02:34Z"
         },
         {
@@ -1482,15 +1371,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5363,
-      "importance": 0.5363,
-      "importance_score": 0.5363,
+      "score": 0.5339,
+      "importance": 0.5339,
+      "importance_score": 0.5339,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9474,
+        "recency": 0.9338,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1500,7 +1389,7 @@
       "earliest_at": "2026-09-19T23:02:34Z",
       "latest_at": "2026-09-19T23:02:34Z",
       "primary_item": {
-        "id": "88e377d7b77ac8808c3ab32b6049d649a96057ae",
+        "id": "9da649dafa4b5f5196ef314e323cfe253aa0fa62",
         "title": "你能说出哪些图像是人工智能生成的吗？ / Can you tell which images are AI-generated?",
         "title_zh": "你能说出哪些图像是人工智能生成的吗？",
         "title_en": "Can you tell which images are AI-generated?",
@@ -1508,14 +1397,14 @@
         "summary": null,
         "recommend_reason_zh": null,
         "url": "https://slop-sense.labtoagi.com/games/is-this-image-ai",
-        "source": "Hacker News (黑客新闻)",
-        "source_name": "Info Flow"
+        "source": "Hacker News · 24h最热",
+        "source_name": "Zeli"
       },
       "persona_id": "pragmatic",
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-20T02:48:01.864163Z"
+        "scored_at": "2026-09-20T03:47:56.535238Z"
       }
     },
     {
@@ -1621,15 +1510,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5339,
-      "importance": 0.5339,
-      "importance_score": 0.5339,
+      "score": 0.5318,
+      "importance": 0.5318,
+      "importance_score": 0.5318,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7948,
+        "recency": 0.7834,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1654,7 +1543,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-20T02:48:01.864163Z"
+        "scored_at": "2026-09-20T03:47:56.535238Z"
       }
     },
     {
@@ -1680,7 +1569,7 @@
           "published_at": "2026-09-19T09:35:29.529000Z"
         },
         {
-          "id": "975b8c98bbcca00a85963b74cd05080a30d68f9a",
+          "id": "71570bb5ea04b3f5039c32f2ff81c7f4bfc13ed1",
           "title": "GPT-6 Astra 破解了一段一战时期的德国无线电密文 / GPT-6 Astra Solves a WWI German Radio Cipher",
           "title_zh": "GPT-6 Astra 破解了一段一战时期的德国无线电密文",
           "title_en": "GPT-6 Astra Solves a WWI German Radio Cipher",
@@ -1688,9 +1577,9 @@
           "summary": null,
           "recommend_reason_zh": null,
           "url": "https://www.prinzai.com/p/gpt-6-astra-solves-a-wwi-german-radio",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
           "published_at": "2026-09-19T06:41:44Z"
         },
         {
@@ -1710,7 +1599,7 @@
       ],
       "source_count": 3,
       "source_names": [
-        "Hacker News (黑客新闻)",
+        "Hacker News · 24h最热",
         "hackernews",
         "www.prinzai.com"
       ],
@@ -1730,7 +1619,7 @@
           "published_at": "2026-09-19T09:35:29.529000Z"
         },
         {
-          "id": "975b8c98bbcca00a85963b74cd05080a30d68f9a",
+          "id": "71570bb5ea04b3f5039c32f2ff81c7f4bfc13ed1",
           "title": "GPT-6 Astra 破解了一段一战时期的德国无线电密文 / GPT-6 Astra Solves a WWI German Radio Cipher",
           "title_zh": "GPT-6 Astra 破解了一段一战时期的德国无线电密文",
           "title_en": "GPT-6 Astra Solves a WWI German Radio Cipher",
@@ -1738,9 +1627,9 @@
           "summary": null,
           "recommend_reason_zh": null,
           "url": "https://www.prinzai.com/p/gpt-6-astra-solves-a-wwi-german-radio",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
           "published_at": "2026-09-19T06:41:44Z"
         },
         {
@@ -1760,15 +1649,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5312,
-      "importance": 0.5312,
-      "importance_score": 0.5312,
+      "score": 0.5292,
+      "importance": 0.5292,
+      "importance_score": 0.5292,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7801,
+        "recency": 0.7689,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1793,7 +1682,199 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-20T02:48:01.864163Z"
+        "scored_at": "2026-09-20T03:47:56.535238Z"
+      }
+    },
+    {
+      "story_id": "story_cbc5606b5556",
+      "title": "特朗普宣布组建“人工智能部队”：AI 未来或占美国 GDP 的 25%",
+      "url": "https://www.aibase.com/news/31185",
+      "primary_url": "https://www.aibase.com/news/31185",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "43b44b72102fd1fd8062cd85ba9e43ac01fecb64",
+          "title": "特朗普宣布组建“人工智能部队”：AI 未来或占美国 GDP 的 25%",
+          "title_zh": "特朗普宣布组建“人工智能部队”：AI 未来或占美国 GDP 的 25%",
+          "title_en": null,
+          "title_original": "特朗普宣布组建“人工智能部队”：AI 未来或占美国 GDP 的 25%",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/31185",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-09-20T02:47:16.759158Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "43b44b72102fd1fd8062cd85ba9e43ac01fecb64",
+          "title": "特朗普宣布组建“人工智能部队”：AI 未来或占美国 GDP 的 25%",
+          "title_zh": "特朗普宣布组建“人工智能部队”：AI 未来或占美国 GDP 的 25%",
+          "title_en": null,
+          "title_original": "特朗普宣布组建“人工智能部队”：AI 未来或占美国 GDP 的 25%",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/31185",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-09-20T02:47:16.759158Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.765,
+      "importance": 0.765,
+      "importance_score": 0.765,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9857,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-20T02:47:16.759158Z",
+      "latest_at": "2026-09-20T02:47:16.759158Z",
+      "primary_item": {
+        "id": "43b44b72102fd1fd8062cd85ba9e43ac01fecb64",
+        "title": "特朗普宣布组建“人工智能部队”：AI 未来或占美国 GDP 的 25%",
+        "title_zh": "特朗普宣布组建“人工智能部队”：AI 未来或占美国 GDP 的 25%",
+        "title_en": null,
+        "title_original": "特朗普宣布组建“人工智能部队”：AI 未来或占美国 GDP 的 25%",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://www.aibase.com/news/31185",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-09-20T03:47:56.535238Z"
+      }
+    },
+    {
+      "story_id": "story_adc7678cfd9c",
+      "title": "Show HN：我创建了一个开源的本地可用的成熟人工智能平台 / Show HN: I created an open source locally usable full fledged AI platform",
+      "url": "https://github.com/theguysudo/ENZO",
+      "primary_url": "https://github.com/theguysudo/ENZO",
+      "source": "Hacker News",
+      "source_name": "TechURLs",
+      "sources": [
+        {
+          "id": "b47217b4c029b973886670ffddeeb9a209d8a78c",
+          "title": "Show HN：我创建了一个开源的本地可用的成熟人工智能平台 / Show HN: I created an open source locally usable full fledged AI platform",
+          "title_zh": "Show HN：我创建了一个开源的本地可用的成熟人工智能平台",
+          "title_en": "Show HN: I created an open source locally usable full fledged AI platform",
+          "title_original": "Show HN: I created an open source locally usable full fledged AI platform",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://github.com/theguysudo/ENZO",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-09-19T23:47:35Z"
+        },
+        {
+          "id": "1693ba4b22de4899bb95f498140994964b3b5132",
+          "title": "Show HN：我创建了一个开源的本地可用的成熟人工智能平台 / Show HN: I created an open source locally usable full fledged AI platform",
+          "title_zh": "Show HN：我创建了一个开源的本地可用的成熟人工智能平台",
+          "title_en": "Show HN: I created an open source locally usable full fledged AI platform",
+          "title_original": "Show HN: I created an open source locally usable full fledged AI platform",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=49771118",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-09-19T23:47:35Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News",
+        "hackernews"
+      ],
+      "items": [
+        {
+          "id": "b47217b4c029b973886670ffddeeb9a209d8a78c",
+          "title": "Show HN：我创建了一个开源的本地可用的成熟人工智能平台 / Show HN: I created an open source locally usable full fledged AI platform",
+          "title_zh": "Show HN：我创建了一个开源的本地可用的成熟人工智能平台",
+          "title_en": "Show HN: I created an open source locally usable full fledged AI platform",
+          "title_original": "Show HN: I created an open source locally usable full fledged AI platform",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://github.com/theguysudo/ENZO",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-09-19T23:47:35Z"
+        },
+        {
+          "id": "1693ba4b22de4899bb95f498140994964b3b5132",
+          "title": "Show HN：我创建了一个开源的本地可用的成熟人工智能平台 / Show HN: I created an open source locally usable full fledged AI platform",
+          "title_zh": "Show HN：我创建了一个开源的本地可用的成熟人工智能平台",
+          "title_en": "Show HN: I created an open source locally usable full fledged AI platform",
+          "title_original": "Show HN: I created an open source locally usable full fledged AI platform",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=49771118",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-09-19T23:47:35Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5357,
+      "importance": 0.5357,
+      "importance_score": 0.5357,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9439,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-09-19T23:47:35Z",
+      "latest_at": "2026-09-19T23:47:35Z",
+      "primary_item": {
+        "id": "b47217b4c029b973886670ffddeeb9a209d8a78c",
+        "title": "Show HN：我创建了一个开源的本地可用的成熟人工智能平台 / Show HN: I created an open source locally usable full fledged AI platform",
+        "title_zh": "Show HN：我创建了一个开源的本地可用的成熟人工智能平台",
+        "title_en": "Show HN: I created an open source locally usable full fledged AI platform",
+        "title_original": "Show HN: I created an open source locally usable full fledged AI platform",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://github.com/theguysudo/ENZO",
+        "source": "Hacker News",
+        "source_name": "TechURLs"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-09-20T03:47:56.535238Z"
       }
     },
     {
@@ -1870,15 +1951,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.529,
-      "importance": 0.529,
-      "importance_score": 0.529,
+      "score": 0.5266,
+      "importance": 0.5266,
+      "importance_score": 0.5266,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9065,
+        "recency": 0.8935,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1903,30 +1984,30 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-20T02:48:01.864163Z"
+        "scored_at": "2026-09-20T03:47:56.535238Z"
       }
     },
     {
-      "story_id": "story_d221c93d18a9",
-      "title": "Termexo v0.10.4 把 Grok Build 拽进 AI 编程工作台，顺手修掉\"会话改了半天却显示 0\"的尴尬",
-      "url": "https://www.aibase.com/news/31178",
-      "primary_url": "https://www.aibase.com/news/31178",
+      "story_id": "story_1b17dd68341c",
+      "title": "迪士尼首设 CTO：挖来原 Character.AI CEO 阿南德，统管技术与 AI 平台",
+      "url": "https://www.aibase.com/news/31182",
+      "primary_url": "https://www.aibase.com/news/31182",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "1633c9d186aff41414eab0127ec9fc4e51d65d0e",
-          "title": "Termexo v0.10.4 把 Grok Build 拽进 AI 编程工作台，顺手修掉\"会话改了半天却显示 0\"的尴尬",
-          "title_zh": "Termexo v0.10.4 把 Grok Build 拽进 AI 编程工作台，顺手修掉\"会话改了半天却显示 0\"的尴尬",
+          "id": "6e8643c6fccd0cb00474e606fd42a6f6069d9b68",
+          "title": "迪士尼首设 CTO：挖来原 Character.AI CEO 阿南德，统管技术与 AI 平台",
+          "title_zh": "迪士尼首设 CTO：挖来原 Character.AI CEO 阿南德，统管技术与 AI 平台",
           "title_en": null,
-          "title_original": "Termexo v0.10.4 把 Grok Build 拽进 AI 编程工作台，顺手修掉\"会话改了半天却显示 0\"的尴尬",
+          "title_original": "迪士尼首设 CTO：挖来原 Character.AI CEO 阿南德，统管技术与 AI 平台",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/31178",
+          "url": "https://www.aibase.com/news/31182",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-09-20T01:47:25.721206Z"
+          "published_at": "2026-09-20T02:47:16.759158Z"
         }
       ],
       "source_count": 1,
@@ -1935,18 +2016,18 @@
       ],
       "items": [
         {
-          "id": "1633c9d186aff41414eab0127ec9fc4e51d65d0e",
-          "title": "Termexo v0.10.4 把 Grok Build 拽进 AI 编程工作台，顺手修掉\"会话改了半天却显示 0\"的尴尬",
-          "title_zh": "Termexo v0.10.4 把 Grok Build 拽进 AI 编程工作台，顺手修掉\"会话改了半天却显示 0\"的尴尬",
+          "id": "6e8643c6fccd0cb00474e606fd42a6f6069d9b68",
+          "title": "迪士尼首设 CTO：挖来原 Character.AI CEO 阿南德，统管技术与 AI 平台",
+          "title_zh": "迪士尼首设 CTO：挖来原 Character.AI CEO 阿南德，统管技术与 AI 平台",
           "title_en": null,
-          "title_original": "Termexo v0.10.4 把 Grok Build 拽进 AI 编程工作台，顺手修掉\"会话改了半天却显示 0\"的尴尬",
+          "title_original": "迪士尼首设 CTO：挖来原 Character.AI CEO 阿南德，统管技术与 AI 平台",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/31178",
+          "url": "https://www.aibase.com/news/31182",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-09-20T01:47:25.721206Z"
+          "published_at": "2026-09-20T02:47:16.759158Z"
         }
       ],
       "item_count": 1,
@@ -1967,17 +2048,17 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-09-20T01:47:25.721206Z",
-      "latest_at": "2026-09-20T01:47:25.721206Z",
+      "earliest_at": "2026-09-20T02:47:16.759158Z",
+      "latest_at": "2026-09-20T02:47:16.759158Z",
       "primary_item": {
-        "id": "1633c9d186aff41414eab0127ec9fc4e51d65d0e",
-        "title": "Termexo v0.10.4 把 Grok Build 拽进 AI 编程工作台，顺手修掉\"会话改了半天却显示 0\"的尴尬",
-        "title_zh": "Termexo v0.10.4 把 Grok Build 拽进 AI 编程工作台，顺手修掉\"会话改了半天却显示 0\"的尴尬",
+        "id": "6e8643c6fccd0cb00474e606fd42a6f6069d9b68",
+        "title": "迪士尼首设 CTO：挖来原 Character.AI CEO 阿南德，统管技术与 AI 平台",
+        "title_zh": "迪士尼首设 CTO：挖来原 Character.AI CEO 阿南德，统管技术与 AI 平台",
         "title_en": null,
-        "title_original": "Termexo v0.10.4 把 Grok Build 拽进 AI 编程工作台，顺手修掉\"会话改了半天却显示 0\"的尴尬",
+        "title_original": "迪士尼首设 CTO：挖来原 Character.AI CEO 阿南德，统管技术与 AI 平台",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/31178",
+        "url": "https://www.aibase.com/news/31182",
         "source": "AIbase",
         "source_name": "AIbase"
       },
@@ -1985,117 +2066,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-20T02:48:01.864163Z"
-      }
-    },
-    {
-      "story_id": "story_60d9a7248980",
-      "title": "为什么人工智能无法拯救不理解数据的企业 / Why AI Cannot Save an Enterprise That Doesn't Understand Its Data",
-      "url": "https://architectureintel.com/why-ai-cannot-save-an-enterprise-that-doesnt-understand-its-data-83613f209317",
-      "primary_url": "https://architectureintel.com/why-ai-cannot-save-an-enterprise-that-doesnt-understand-its-data-83613f209317",
-      "source": "Hacker News",
-      "source_name": "TechURLs",
-      "sources": [
-        {
-          "id": "b3ca47b05c6a4ddfc765a6fb0942c7b8bbd90a5a",
-          "title": "为什么人工智能无法拯救不理解数据的企业 / Why AI Cannot Save an Enterprise That Doesn't Understand Its Data",
-          "title_zh": "为什么人工智能无法拯救不理解数据的企业",
-          "title_en": "Why AI Cannot Save an Enterprise That Doesn't Understand Its Data",
-          "title_original": "Why AI Cannot Save an Enterprise That Doesn't Understand Its Data",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://architectureintel.com/why-ai-cannot-save-an-enterprise-that-doesnt-understand-its-data-83613f209317",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-09-19T22:22:28Z"
-        },
-        {
-          "id": "7d71354a95bf86f529b8782d7f9d0898e6212ebf",
-          "title": "为什么人工智能无法拯救不理解数据的企业 / Why AI Cannot Save an Enterprise That Doesn't Understand Its Data",
-          "title_zh": "为什么人工智能无法拯救不理解数据的企业",
-          "title_en": "Why AI Cannot Save an Enterprise That Doesn't Understand Its Data",
-          "title_original": "Why AI Cannot Save an Enterprise That Doesn't Understand Its Data",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=49770580",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-09-19T22:22:28Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News",
-        "hackernews"
-      ],
-      "items": [
-        {
-          "id": "b3ca47b05c6a4ddfc765a6fb0942c7b8bbd90a5a",
-          "title": "为什么人工智能无法拯救不理解数据的企业 / Why AI Cannot Save an Enterprise That Doesn't Understand Its Data",
-          "title_zh": "为什么人工智能无法拯救不理解数据的企业",
-          "title_en": "Why AI Cannot Save an Enterprise That Doesn't Understand Its Data",
-          "title_original": "Why AI Cannot Save an Enterprise That Doesn't Understand Its Data",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://architectureintel.com/why-ai-cannot-save-an-enterprise-that-doesnt-understand-its-data-83613f209317",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-09-19T22:22:28Z"
-        },
-        {
-          "id": "7d71354a95bf86f529b8782d7f9d0898e6212ebf",
-          "title": "为什么人工智能无法拯救不理解数据的企业 / Why AI Cannot Save an Enterprise That Doesn't Understand Its Data",
-          "title_zh": "为什么人工智能无法拯救不理解数据的企业",
-          "title_en": "Why AI Cannot Save an Enterprise That Doesn't Understand Its Data",
-          "title_original": "Why AI Cannot Save an Enterprise That Doesn't Understand Its Data",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=49770580",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-09-19T22:22:28Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5347,
-      "importance": 0.5347,
-      "importance_score": 0.5347,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.9383,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-09-19T22:22:28Z",
-      "latest_at": "2026-09-19T22:22:28Z",
-      "primary_item": {
-        "id": "b3ca47b05c6a4ddfc765a6fb0942c7b8bbd90a5a",
-        "title": "为什么人工智能无法拯救不理解数据的企业 / Why AI Cannot Save an Enterprise That Doesn't Understand Its Data",
-        "title_zh": "为什么人工智能无法拯救不理解数据的企业",
-        "title_en": "Why AI Cannot Save an Enterprise That Doesn't Understand Its Data",
-        "title_original": "Why AI Cannot Save an Enterprise That Doesn't Understand Its Data",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://architectureintel.com/why-ai-cannot-save-an-enterprise-that-doesnt-understand-its-data-83613f209317",
-        "source": "Hacker News",
-        "source_name": "TechURLs"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-09-20T02:48:01.864163Z"
+        "scored_at": "2026-09-20T03:47:56.535238Z"
       }
     }
   ]
