@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-20T11:47:17.908135Z",
+  "generated_at": "2026-09-20T12:47:55.234845Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -135,15 +135,15 @@
       ],
       "item_count": 4,
       "duplicate_count": 4,
-      "score": 0.8294,
-      "importance": 0.8294,
-      "importance_score": 0.8294,
+      "score": 0.8272,
+      "importance": 0.8272,
+      "importance_score": 0.8272,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.77,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8431,
+        "recency": 0.8309,
         "story_heat": 0.75
       },
       "category": "multi_source",
@@ -170,7 +170,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-20T11:47:56.438066Z"
+        "scored_at": "2026-09-20T12:48:37.101191Z"
       }
     },
     {
@@ -218,15 +218,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7625,
-      "importance": 0.7625,
-      "importance_score": 0.7625,
+      "score": 0.7599,
+      "importance": 0.7599,
+      "importance_score": 0.7599,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9715,
+        "recency": 0.9575,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -252,7 +252,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-20T11:47:56.438066Z"
+        "scored_at": "2026-09-20T12:48:37.101191Z"
       }
     },
     {
@@ -300,15 +300,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7625,
-      "importance": 0.7625,
-      "importance_score": 0.7625,
+      "score": 0.7599,
+      "importance": 0.7599,
+      "importance_score": 0.7599,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9715,
+        "recency": 0.9575,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -334,7 +334,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-20T11:47:56.438066Z"
+        "scored_at": "2026-09-20T12:48:37.101191Z"
       }
     },
     {
@@ -382,15 +382,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7259,
-      "importance": 0.7259,
-      "importance_score": 0.7259,
+      "score": 0.7236,
+      "importance": 0.7236,
+      "importance_score": 0.7236,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.66,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8682,
+        "recency": 0.8556,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -415,7 +415,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-20T11:47:56.438066Z"
+        "scored_at": "2026-09-20T12:48:37.101191Z"
       }
     },
     {
@@ -463,15 +463,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7625,
-      "importance": 0.7625,
-      "importance_score": 0.7625,
+      "score": 0.7599,
+      "importance": 0.7599,
+      "importance_score": 0.7599,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9715,
+        "recency": 0.9575,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -497,7 +497,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-20T11:47:56.438066Z"
+        "scored_at": "2026-09-20T12:48:37.101191Z"
       }
     },
     {
@@ -545,15 +545,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7625,
-      "importance": 0.7625,
-      "importance_score": 0.7625,
+      "score": 0.7599,
+      "importance": 0.7599,
+      "importance_score": 0.7599,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9715,
+        "recency": 0.9575,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -579,7 +579,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-20T11:47:56.438066Z"
+        "scored_at": "2026-09-20T12:48:37.101191Z"
       }
     },
     {
@@ -627,15 +627,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.76,
-      "importance": 0.76,
-      "importance_score": 0.76,
+      "score": 0.7575,
+      "importance": 0.7575,
+      "importance_score": 0.7575,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9576,
+        "recency": 0.9438,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -661,7 +661,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-20T11:47:56.438066Z"
+        "scored_at": "2026-09-20T12:48:37.101191Z"
       }
     },
     {
@@ -709,15 +709,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.76,
-      "importance": 0.76,
-      "importance_score": 0.76,
+      "score": 0.7575,
+      "importance": 0.7575,
+      "importance_score": 0.7575,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9576,
+        "recency": 0.9438,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -743,7 +743,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-20T11:47:56.438066Z"
+        "scored_at": "2026-09-20T12:48:37.101191Z"
       }
     },
     {
@@ -906,15 +906,15 @@
       ],
       "item_count": 5,
       "duplicate_count": 5,
-      "score": 0.5842,
-      "importance": 0.5842,
-      "importance_score": 0.5842,
+      "score": 0.5821,
+      "importance": 0.5821,
+      "importance_score": 0.5821,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7968,
+        "recency": 0.7853,
         "story_heat": 1.0
       },
       "category": "multi_source",
@@ -939,7 +939,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-20T11:47:56.438066Z"
+        "scored_at": "2026-09-20T12:48:37.101191Z"
       }
     },
     {
@@ -987,15 +987,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7575,
-      "importance": 0.7575,
-      "importance_score": 0.7575,
+      "score": 0.755,
+      "importance": 0.755,
+      "importance_score": 0.755,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9439,
+        "recency": 0.9302,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1021,7 +1021,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-20T11:47:56.438066Z"
+        "scored_at": "2026-09-20T12:48:37.101191Z"
       }
     },
     {
@@ -1069,15 +1069,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7575,
-      "importance": 0.7575,
-      "importance_score": 0.7575,
+      "score": 0.755,
+      "importance": 0.755,
+      "importance_score": 0.755,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9439,
+        "recency": 0.9302,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1103,7 +1103,117 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-20T11:47:56.438066Z"
+        "scored_at": "2026-09-20T12:48:37.101191Z"
+      }
+    },
+    {
+      "story_id": "story_d33cb89128f1",
+      "title": "如果人工智能编码降低了您的代码质量，那么您就没有正确管理质量 / If AI coding is lowering your code quality, you're not managing quality right",
+      "url": "https://www.i-kh.net/p/if-ai-coding-is-lowering-your-code",
+      "primary_url": "https://www.i-kh.net/p/if-ai-coding-is-lowering-your-code",
+      "source": "Hacker News",
+      "source_name": "TechURLs",
+      "sources": [
+        {
+          "id": "c7024b8c75b3bc78856d913f02bf0ed94317d5e3",
+          "title": "如果人工智能编码降低了您的代码质量，那么您就没有正确管理质量 / If AI coding is lowering your code quality, you're not managing quality right",
+          "title_zh": "如果人工智能编码降低了您的代码质量，那么您就没有正确管理质量",
+          "title_en": "If AI coding is lowering your code quality, you're not managing quality right",
+          "title_original": "If AI coding is lowering your code quality, you're not managing quality right",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.i-kh.net/p/if-ai-coding-is-lowering-your-code",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-09-20T11:37:10Z"
+        },
+        {
+          "id": "a0cc66d677a58ada0048da67d0529cb6cb96621a",
+          "title": "如果人工智能编码降低了您的代码质量，那么您就没有正确管理质量 / If AI coding is lowering your code quality, you're not managing quality right",
+          "title_zh": "如果人工智能编码降低了您的代码质量，那么您就没有正确管理质量",
+          "title_en": "If AI coding is lowering your code quality, you're not managing quality right",
+          "title_original": "If AI coding is lowering your code quality, you're not managing quality right",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=49774795",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-09-20T11:37:10Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News",
+        "hackernews"
+      ],
+      "items": [
+        {
+          "id": "c7024b8c75b3bc78856d913f02bf0ed94317d5e3",
+          "title": "如果人工智能编码降低了您的代码质量，那么您就没有正确管理质量 / If AI coding is lowering your code quality, you're not managing quality right",
+          "title_zh": "如果人工智能编码降低了您的代码质量，那么您就没有正确管理质量",
+          "title_en": "If AI coding is lowering your code quality, you're not managing quality right",
+          "title_original": "If AI coding is lowering your code quality, you're not managing quality right",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.i-kh.net/p/if-ai-coding-is-lowering-your-code",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-09-20T11:37:10Z"
+        },
+        {
+          "id": "a0cc66d677a58ada0048da67d0529cb6cb96621a",
+          "title": "如果人工智能编码降低了您的代码质量，那么您就没有正确管理质量 / If AI coding is lowering your code quality, you're not managing quality right",
+          "title_zh": "如果人工智能编码降低了您的代码质量，那么您就没有正确管理质量",
+          "title_en": "If AI coding is lowering your code quality, you're not managing quality right",
+          "title_original": "If AI coding is lowering your code quality, you're not managing quality right",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=49774795",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-09-20T11:37:10Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5428,
+      "importance": 0.5428,
+      "importance_score": 0.5428,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9831,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-09-20T11:37:10Z",
+      "latest_at": "2026-09-20T11:37:10Z",
+      "primary_item": {
+        "id": "c7024b8c75b3bc78856d913f02bf0ed94317d5e3",
+        "title": "如果人工智能编码降低了您的代码质量，那么您就没有正确管理质量 / If AI coding is lowering your code quality, you're not managing quality right",
+        "title_zh": "如果人工智能编码降低了您的代码质量，那么您就没有正确管理质量",
+        "title_en": "If AI coding is lowering your code quality, you're not managing quality right",
+        "title_original": "If AI coding is lowering your code quality, you're not managing quality right",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://www.i-kh.net/p/if-ai-coding-is-lowering-your-code",
+        "source": "Hacker News",
+        "source_name": "TechURLs"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-09-20T12:48:37.101191Z"
       }
     },
     {
@@ -1180,15 +1290,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5415,
-      "importance": 0.5415,
-      "importance_score": 0.5415,
+      "score": 0.539,
+      "importance": 0.539,
+      "importance_score": 0.539,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9763,
+        "recency": 0.9622,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1213,117 +1323,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-20T11:47:56.438066Z"
-      }
-    },
-    {
-      "story_id": "story_2a34a5394301",
-      "title": "KDE 30 岁了，有人提出了 AI 原生桌面提案 / KDE turns 30 and someone's brought an AI-native desktop proposal",
-      "url": "https://www.theregister.com/software/2026/09/18/kde-turns-30-and-someones-brought-an-ai-native-desktop-proposal/5297282",
-      "primary_url": "https://www.theregister.com/software/2026/09/18/kde-turns-30-and-someones-brought-an-ai-native-desktop-proposal/5297282",
-      "source": "Hacker News",
-      "source_name": "TechURLs",
-      "sources": [
-        {
-          "id": "00cfbfd1df3d0c8f23a73ce6cc21dfd6d0e3f7b6",
-          "title": "KDE 30 岁了，有人提出了 AI 原生桌面提案 / KDE turns 30 and someone's brought an AI-native desktop proposal",
-          "title_zh": "KDE 30 岁了，有人提出了 AI 原生桌面提案",
-          "title_en": "KDE turns 30 and someone's brought an AI-native desktop proposal",
-          "title_original": "KDE turns 30 and someone's brought an AI-native desktop proposal",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.theregister.com/software/2026/09/18/kde-turns-30-and-someones-brought-an-ai-native-desktop-proposal/5297282",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-09-20T07:38:37Z"
-        },
-        {
-          "id": "bc21a632a40e1f97e732039b46c29ee009726253",
-          "title": "KDE 30 岁了，有人提出了 AI 原生桌面提案 / KDE turns 30 and someone's brought an AI-native desktop proposal",
-          "title_zh": "KDE 30 岁了，有人提出了 AI 原生桌面提案",
-          "title_en": "KDE turns 30 and someone's brought an AI-native desktop proposal",
-          "title_original": "KDE turns 30 and someone's brought an AI-native desktop proposal",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=49773439",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-09-20T07:38:37Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News",
-        "hackernews"
-      ],
-      "items": [
-        {
-          "id": "00cfbfd1df3d0c8f23a73ce6cc21dfd6d0e3f7b6",
-          "title": "KDE 30 岁了，有人提出了 AI 原生桌面提案 / KDE turns 30 and someone's brought an AI-native desktop proposal",
-          "title_zh": "KDE 30 岁了，有人提出了 AI 原生桌面提案",
-          "title_en": "KDE turns 30 and someone's brought an AI-native desktop proposal",
-          "title_original": "KDE turns 30 and someone's brought an AI-native desktop proposal",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.theregister.com/software/2026/09/18/kde-turns-30-and-someones-brought-an-ai-native-desktop-proposal/5297282",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-09-20T07:38:37Z"
-        },
-        {
-          "id": "bc21a632a40e1f97e732039b46c29ee009726253",
-          "title": "KDE 30 岁了，有人提出了 AI 原生桌面提案 / KDE turns 30 and someone's brought an AI-native desktop proposal",
-          "title_zh": "KDE 30 岁了，有人提出了 AI 原生桌面提案",
-          "title_en": "KDE turns 30 and someone's brought an AI-native desktop proposal",
-          "title_original": "KDE turns 30 and someone's brought an AI-native desktop proposal",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=49773439",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-09-20T07:38:37Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5353,
-      "importance": 0.5353,
-      "importance_score": 0.5353,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.9419,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-09-20T07:38:37Z",
-      "latest_at": "2026-09-20T07:38:37Z",
-      "primary_item": {
-        "id": "00cfbfd1df3d0c8f23a73ce6cc21dfd6d0e3f7b6",
-        "title": "KDE 30 岁了，有人提出了 AI 原生桌面提案 / KDE turns 30 and someone's brought an AI-native desktop proposal",
-        "title_zh": "KDE 30 岁了，有人提出了 AI 原生桌面提案",
-        "title_en": "KDE turns 30 and someone's brought an AI-native desktop proposal",
-        "title_original": "KDE turns 30 and someone's brought an AI-native desktop proposal",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://www.theregister.com/software/2026/09/18/kde-turns-30-and-someones-brought-an-ai-native-desktop-proposal/5297282",
-        "source": "Hacker News",
-        "source_name": "TechURLs"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-09-20T11:47:56.438066Z"
+        "scored_at": "2026-09-20T12:48:37.101191Z"
       }
     },
     {
@@ -1400,15 +1400,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5308,
-      "importance": 0.5308,
-      "importance_score": 0.5308,
+      "score": 0.5284,
+      "importance": 0.5284,
+      "importance_score": 0.5284,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9168,
+        "recency": 0.9035,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1433,7 +1433,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-20T11:47:56.438066Z"
+        "scored_at": "2026-09-20T12:48:37.101191Z"
       }
     },
     {
@@ -1481,15 +1481,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7575,
-      "importance": 0.7575,
-      "importance_score": 0.7575,
+      "score": 0.755,
+      "importance": 0.755,
+      "importance_score": 0.755,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9439,
+        "recency": 0.9302,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1515,7 +1515,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-20T11:47:56.438066Z"
+        "scored_at": "2026-09-20T12:48:37.101191Z"
       }
     },
     {
@@ -1592,15 +1592,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5155,
-      "importance": 0.5155,
-      "importance_score": 0.5155,
+      "score": 0.5134,
+      "importance": 0.5134,
+      "importance_score": 0.5134,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8319,
+        "recency": 0.8198,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1625,7 +1625,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-20T11:47:56.438066Z"
+        "scored_at": "2026-09-20T12:48:37.101191Z"
       }
     },
     {
@@ -1702,15 +1702,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5391,
-      "importance": 0.5391,
-      "importance_score": 0.5391,
+      "score": 0.5366,
+      "importance": 0.5366,
+      "importance_score": 0.5366,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9626,
+        "recency": 0.9486,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1735,44 +1735,44 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-20T11:47:56.438066Z"
+        "scored_at": "2026-09-20T12:48:37.101191Z"
       }
     },
     {
-      "story_id": "story_4d5a6d10ba98",
-      "title": "Hugging Face黑客并不是人们所吹捧的那样 / The Hugging Face Hack Wasn't What It Was Cracked Up to Be",
-      "url": "https://www.wsj.com/opinion/the-hugging-face-hack-wasnt-what-it-was-cracked-up-to-be-e00cf3fa",
-      "primary_url": "https://www.wsj.com/opinion/the-hugging-face-hack-wasnt-what-it-was-cracked-up-to-be-e00cf3fa",
+      "story_id": "story_2a34a5394301",
+      "title": "KDE 30 岁了，有人提出了 AI 原生桌面提案 / KDE turns 30 and someone's brought an AI-native desktop proposal",
+      "url": "https://www.theregister.com/software/2026/09/18/kde-turns-30-and-someones-brought-an-ai-native-desktop-proposal/5297282",
+      "primary_url": "https://www.theregister.com/software/2026/09/18/kde-turns-30-and-someones-brought-an-ai-native-desktop-proposal/5297282",
       "source": "Hacker News",
       "source_name": "TechURLs",
       "sources": [
         {
-          "id": "05e7b970736183dab048975f364a2f3efa52a9b3",
-          "title": "Hugging Face黑客并不是人们所吹捧的那样 / The Hugging Face Hack Wasn't What It Was Cracked Up to Be",
-          "title_zh": "Hugging Face黑客并不是人们所吹捧的那样",
-          "title_en": "The Hugging Face Hack Wasn't What It Was Cracked Up to Be",
-          "title_original": "The Hugging Face Hack Wasn't What It Was Cracked Up to Be",
+          "id": "00cfbfd1df3d0c8f23a73ce6cc21dfd6d0e3f7b6",
+          "title": "KDE 30 岁了，有人提出了 AI 原生桌面提案 / KDE turns 30 and someone's brought an AI-native desktop proposal",
+          "title_zh": "KDE 30 岁了，有人提出了 AI 原生桌面提案",
+          "title_en": "KDE turns 30 and someone's brought an AI-native desktop proposal",
+          "title_original": "KDE turns 30 and someone's brought an AI-native desktop proposal",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.wsj.com/opinion/the-hugging-face-hack-wasnt-what-it-was-cracked-up-to-be-e00cf3fa",
+          "url": "https://www.theregister.com/software/2026/09/18/kde-turns-30-and-someones-brought-an-ai-native-desktop-proposal/5297282",
           "source": "Hacker News",
           "source_name": "TechURLs",
           "site_id": "techurls",
-          "published_at": "2026-09-20T00:10:00Z"
+          "published_at": "2026-09-20T07:38:37Z"
         },
         {
-          "id": "a3076861303074c90ac40034f1e537d9856c694b",
-          "title": "Hugging Face黑客并不是人们所吹捧的那样 / The Hugging Face Hack Wasn't What It Was Cracked Up to Be",
-          "title_zh": "Hugging Face黑客并不是人们所吹捧的那样",
-          "title_en": "The Hugging Face Hack Wasn't What It Was Cracked Up to Be",
-          "title_original": "The Hugging Face Hack Wasn't What It Was Cracked Up to Be",
+          "id": "bc21a632a40e1f97e732039b46c29ee009726253",
+          "title": "KDE 30 岁了，有人提出了 AI 原生桌面提案 / KDE turns 30 and someone's brought an AI-native desktop proposal",
+          "title_zh": "KDE 30 岁了，有人提出了 AI 原生桌面提案",
+          "title_en": "KDE turns 30 and someone's brought an AI-native desktop proposal",
+          "title_original": "KDE turns 30 and someone's brought an AI-native desktop proposal",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=49771266",
+          "url": "https://news.ycombinator.com/item?id=49773439",
           "source": "hackernews",
           "source_name": "NewsNow",
           "site_id": "newsnow",
-          "published_at": "2026-09-20T00:10:00Z"
+          "published_at": "2026-09-20T07:38:37Z"
         }
       ],
       "source_count": 2,
@@ -1782,62 +1782,62 @@
       ],
       "items": [
         {
-          "id": "05e7b970736183dab048975f364a2f3efa52a9b3",
-          "title": "Hugging Face黑客并不是人们所吹捧的那样 / The Hugging Face Hack Wasn't What It Was Cracked Up to Be",
-          "title_zh": "Hugging Face黑客并不是人们所吹捧的那样",
-          "title_en": "The Hugging Face Hack Wasn't What It Was Cracked Up to Be",
-          "title_original": "The Hugging Face Hack Wasn't What It Was Cracked Up to Be",
+          "id": "00cfbfd1df3d0c8f23a73ce6cc21dfd6d0e3f7b6",
+          "title": "KDE 30 岁了，有人提出了 AI 原生桌面提案 / KDE turns 30 and someone's brought an AI-native desktop proposal",
+          "title_zh": "KDE 30 岁了，有人提出了 AI 原生桌面提案",
+          "title_en": "KDE turns 30 and someone's brought an AI-native desktop proposal",
+          "title_original": "KDE turns 30 and someone's brought an AI-native desktop proposal",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.wsj.com/opinion/the-hugging-face-hack-wasnt-what-it-was-cracked-up-to-be-e00cf3fa",
+          "url": "https://www.theregister.com/software/2026/09/18/kde-turns-30-and-someones-brought-an-ai-native-desktop-proposal/5297282",
           "source": "Hacker News",
           "source_name": "TechURLs",
           "site_id": "techurls",
-          "published_at": "2026-09-20T00:10:00Z"
+          "published_at": "2026-09-20T07:38:37Z"
         },
         {
-          "id": "a3076861303074c90ac40034f1e537d9856c694b",
-          "title": "Hugging Face黑客并不是人们所吹捧的那样 / The Hugging Face Hack Wasn't What It Was Cracked Up to Be",
-          "title_zh": "Hugging Face黑客并不是人们所吹捧的那样",
-          "title_en": "The Hugging Face Hack Wasn't What It Was Cracked Up to Be",
-          "title_original": "The Hugging Face Hack Wasn't What It Was Cracked Up to Be",
+          "id": "bc21a632a40e1f97e732039b46c29ee009726253",
+          "title": "KDE 30 岁了，有人提出了 AI 原生桌面提案 / KDE turns 30 and someone's brought an AI-native desktop proposal",
+          "title_zh": "KDE 30 岁了，有人提出了 AI 原生桌面提案",
+          "title_en": "KDE turns 30 and someone's brought an AI-native desktop proposal",
+          "title_original": "KDE turns 30 and someone's brought an AI-native desktop proposal",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=49771266",
+          "url": "https://news.ycombinator.com/item?id=49773439",
           "source": "hackernews",
           "source_name": "NewsNow",
           "site_id": "newsnow",
-          "published_at": "2026-09-20T00:10:00Z"
+          "published_at": "2026-09-20T07:38:37Z"
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.518,
-      "importance": 0.518,
-      "importance_score": 0.518,
+      "score": 0.5329,
+      "importance": 0.5329,
+      "importance_score": 0.5329,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8455,
+        "recency": 0.9283,
         "story_heat": 0.25
       },
       "category": "watch",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-09-20T00:10:00Z",
-      "latest_at": "2026-09-20T00:10:00Z",
+      "earliest_at": "2026-09-20T07:38:37Z",
+      "latest_at": "2026-09-20T07:38:37Z",
       "primary_item": {
-        "id": "05e7b970736183dab048975f364a2f3efa52a9b3",
-        "title": "Hugging Face黑客并不是人们所吹捧的那样 / The Hugging Face Hack Wasn't What It Was Cracked Up to Be",
-        "title_zh": "Hugging Face黑客并不是人们所吹捧的那样",
-        "title_en": "The Hugging Face Hack Wasn't What It Was Cracked Up to Be",
-        "title_original": "The Hugging Face Hack Wasn't What It Was Cracked Up to Be",
+        "id": "00cfbfd1df3d0c8f23a73ce6cc21dfd6d0e3f7b6",
+        "title": "KDE 30 岁了，有人提出了 AI 原生桌面提案 / KDE turns 30 and someone's brought an AI-native desktop proposal",
+        "title_zh": "KDE 30 岁了，有人提出了 AI 原生桌面提案",
+        "title_en": "KDE turns 30 and someone's brought an AI-native desktop proposal",
+        "title_original": "KDE turns 30 and someone's brought an AI-native desktop proposal",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://www.wsj.com/opinion/the-hugging-face-hack-wasnt-what-it-was-cracked-up-to-be-e00cf3fa",
+        "url": "https://www.theregister.com/software/2026/09/18/kde-turns-30-and-someones-brought-an-ai-native-desktop-proposal/5297282",
         "source": "Hacker News",
         "source_name": "TechURLs"
       },
@@ -1845,7 +1845,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-20T11:47:56.438066Z"
+        "scored_at": "2026-09-20T12:48:37.101191Z"
       }
     },
     {
@@ -1893,15 +1893,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7575,
-      "importance": 0.7575,
-      "importance_score": 0.7575,
+      "score": 0.755,
+      "importance": 0.755,
+      "importance_score": 0.755,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9439,
+        "recency": 0.9302,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1927,7 +1927,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-20T11:47:56.438066Z"
+        "scored_at": "2026-09-20T12:48:37.101191Z"
       }
     },
     {
@@ -2004,15 +2004,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5091,
-      "importance": 0.5091,
-      "importance_score": 0.5091,
+      "score": 0.507,
+      "importance": 0.507,
+      "importance_score": 0.507,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.796,
+        "recency": 0.7845,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -2037,7 +2037,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-20T11:47:56.438066Z"
+        "scored_at": "2026-09-20T12:48:37.101191Z"
       }
     }
   ]
