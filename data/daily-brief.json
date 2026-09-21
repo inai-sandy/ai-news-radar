@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-21T02:47:28.743388Z",
+  "generated_at": "2026-09-21T03:47:52.439391Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -135,15 +135,15 @@
       ],
       "item_count": 4,
       "duplicate_count": 4,
-      "score": 0.8334,
-      "importance": 0.8334,
-      "importance_score": 0.8334,
+      "score": 0.8311,
+      "importance": 0.8311,
+      "importance_score": 0.8311,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.76,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.882,
+        "recency": 0.8692,
         "story_heat": 0.75
       },
       "category": "multi_source",
@@ -170,7 +170,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-21T02:59:26.374226Z"
+        "scored_at": "2026-09-21T03:53:18.751711Z"
       }
     },
     {
@@ -304,15 +304,15 @@
       ],
       "item_count": 4,
       "duplicate_count": 4,
-      "score": 0.808,
-      "importance": 0.808,
-      "importance_score": 0.808,
+      "score": 0.8059,
+      "importance": 0.8059,
+      "importance_score": 0.8059,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8077,
+        "recency": 0.796,
         "story_heat": 0.75
       },
       "category": "multi_source",
@@ -339,7 +339,89 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-21T02:59:26.374226Z"
+        "scored_at": "2026-09-21T03:53:18.751711Z"
+      }
+    },
+    {
+      "story_id": "story_594bd34ddeb4",
+      "title": "中国大模型周调用量达67.46万亿Token，连续21周领先美国",
+      "url": "https://www.aibase.com/news/31226",
+      "primary_url": "https://www.aibase.com/news/31226",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "416d6bb1c4cab320117732f6a68961846c3e2c46",
+          "title": "中国大模型周调用量达67.46万亿Token，连续21周领先美国",
+          "title_zh": "中国大模型周调用量达67.46万亿Token，连续21周领先美国",
+          "title_en": null,
+          "title_original": "中国大模型周调用量达67.46万亿Token，连续21周领先美国",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/31226",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-09-21T03:47:52.439391Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "416d6bb1c4cab320117732f6a68961846c3e2c46",
+          "title": "中国大模型周调用量达67.46万亿Token，连续21周领先美国",
+          "title_zh": "中国大模型周调用量达67.46万亿Token，连续21周领先美国",
+          "title_en": null,
+          "title_original": "中国大模型周调用量达67.46万亿Token，连续21周领先美国",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/31226",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-09-21T03:47:52.439391Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7676,
+      "importance": 0.7676,
+      "importance_score": 0.7676,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-21T03:47:52.439391Z",
+      "latest_at": "2026-09-21T03:47:52.439391Z",
+      "primary_item": {
+        "id": "416d6bb1c4cab320117732f6a68961846c3e2c46",
+        "title": "中国大模型周调用量达67.46万亿Token，连续21周领先美国",
+        "title_zh": "中国大模型周调用量达67.46万亿Token，连续21周领先美国",
+        "title_en": null,
+        "title_original": "中国大模型周调用量达67.46万亿Token，连续21周领先美国",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://www.aibase.com/news/31226",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-09-21T03:53:18.751711Z"
       }
     },
     {
@@ -387,15 +469,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7696,
-      "importance": 0.7696,
-      "importance_score": 0.7696,
+      "score": 0.7672,
+      "importance": 0.7672,
+      "importance_score": 0.7672,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.78,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9112,
+        "recency": 0.898,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -421,63 +503,63 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-21T02:59:26.374226Z"
+        "scored_at": "2026-09-21T03:53:18.751711Z"
       }
     },
     {
-      "story_id": "story_917990886c44",
-      "title": "OpenAI 一次性摊开六份失准报告：模型越界不再是偶然，而是三种可复现的机制",
-      "url": "https://www.aibase.com/news/31220",
-      "primary_url": "https://www.aibase.com/news/31220",
-      "source": "AIbase",
-      "source_name": "AIbase",
+      "story_id": "story_1f933272e9f7",
+      "title": "通义千问发布 Qwen-Image-2.1：7B 单检查点同时支持图像生成与编辑 / Qwen-Image-2.1 × @HuggingApps： live demo on Spaces！ 🖼 One single checkpoint for generation and edit…",
+      "url": "https://x.com/Alibaba_Qwen/status/2101866671900401913",
+      "primary_url": "https://x.com/Alibaba_Qwen/status/2101866671900401913",
+      "source": "X：通义千问 / Qwen (@Alibaba_Qwen)",
+      "source_name": "AI HOT",
       "sources": [
         {
-          "id": "1873ddfdfbc8787305d23f817d29ee374d194c37",
-          "title": "OpenAI 一次性摊开六份失准报告：模型越界不再是偶然，而是三种可复现的机制",
-          "title_zh": "OpenAI 一次性摊开六份失准报告：模型越界不再是偶然，而是三种可复现的机制",
-          "title_en": null,
-          "title_original": "OpenAI 一次性摊开六份失准报告：模型越界不再是偶然，而是三种可复现的机制",
-          "summary": null,
+          "id": "4cf683cc7925451046d7ac1a88797d6d30c01c54",
+          "title": "通义千问发布 Qwen-Image-2.1：7B 单检查点同时支持图像生成与编辑 / Qwen-Image-2.1 × @HuggingApps： live demo on Spaces！ 🖼 One single checkpoint for generation and edit…",
+          "title_zh": "通义千问发布 Qwen-Image-2.1：7B 单检查点同时支持图像生成与编辑",
+          "title_en": "Qwen-Image-2.1 × @HuggingApps： live demo on Spaces！ 🖼 One single checkpoint for generation and edit…",
+          "title_original": "Qwen-Image-2.1 × @HuggingApps： live demo on Spaces！ 🖼 One single checkpoint for generation and edit…",
+          "summary": "通义千问发布 Qwen-Image-2.1，一个 7B 参数的原生图像生成与编辑模型，生成和编辑共用单一检查点，最多支持 10 张参考图。模型自带提示词增强 LLM，已集成 diffusers 和 ComfyUI，并在 Hugging Face Spaces 提供免安装的浏览器在线 demo：https://huggingface.co/spaces/hugging-apps/qwen-image-2-1",
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/31220",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-09-21T02:47:28.743388Z"
+          "url": "https://x.com/Alibaba_Qwen/status/2101866671900401913",
+          "source": "X：通义千问 / Qwen (@Alibaba_Qwen)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-21T02:50:40Z"
         }
       ],
       "source_count": 1,
       "source_names": [
-        "AIbase"
+        "X：通义千问 / Qwen (@Alibaba_Qwen)"
       ],
       "items": [
         {
-          "id": "1873ddfdfbc8787305d23f817d29ee374d194c37",
-          "title": "OpenAI 一次性摊开六份失准报告：模型越界不再是偶然，而是三种可复现的机制",
-          "title_zh": "OpenAI 一次性摊开六份失准报告：模型越界不再是偶然，而是三种可复现的机制",
-          "title_en": null,
-          "title_original": "OpenAI 一次性摊开六份失准报告：模型越界不再是偶然，而是三种可复现的机制",
-          "summary": null,
+          "id": "4cf683cc7925451046d7ac1a88797d6d30c01c54",
+          "title": "通义千问发布 Qwen-Image-2.1：7B 单检查点同时支持图像生成与编辑 / Qwen-Image-2.1 × @HuggingApps： live demo on Spaces！ 🖼 One single checkpoint for generation and edit…",
+          "title_zh": "通义千问发布 Qwen-Image-2.1：7B 单检查点同时支持图像生成与编辑",
+          "title_en": "Qwen-Image-2.1 × @HuggingApps： live demo on Spaces！ 🖼 One single checkpoint for generation and edit…",
+          "title_original": "Qwen-Image-2.1 × @HuggingApps： live demo on Spaces！ 🖼 One single checkpoint for generation and edit…",
+          "summary": "通义千问发布 Qwen-Image-2.1，一个 7B 参数的原生图像生成与编辑模型，生成和编辑共用单一检查点，最多支持 10 张参考图。模型自带提示词增强 LLM，已集成 diffusers 和 ComfyUI，并在 Hugging Face Spaces 提供免安装的浏览器在线 demo：https://huggingface.co/spaces/hugging-apps/qwen-image-2-1",
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/31220",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-09-21T02:47:28.743388Z"
+          "url": "https://x.com/Alibaba_Qwen/status/2101866671900401913",
+          "source": "X：通义千问 / Qwen (@Alibaba_Qwen)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-21T02:50:40Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7676,
-      "importance": 0.7676,
-      "importance_score": 0.7676,
+      "score": 0.7561,
+      "importance": 0.7561,
+      "importance_score": 0.7561,
       "importance_label": "行业动态",
       "importance_breakdown": {
-        "editorial": 0.72,
+        "editorial": 0.69,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.9863,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -485,25 +567,25 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-09-21T02:47:28.743388Z",
-      "latest_at": "2026-09-21T02:47:28.743388Z",
+      "earliest_at": "2026-09-21T02:50:40Z",
+      "latest_at": "2026-09-21T02:50:40Z",
       "primary_item": {
-        "id": "1873ddfdfbc8787305d23f817d29ee374d194c37",
-        "title": "OpenAI 一次性摊开六份失准报告：模型越界不再是偶然，而是三种可复现的机制",
-        "title_zh": "OpenAI 一次性摊开六份失准报告：模型越界不再是偶然，而是三种可复现的机制",
-        "title_en": null,
-        "title_original": "OpenAI 一次性摊开六份失准报告：模型越界不再是偶然，而是三种可复现的机制",
-        "summary": null,
+        "id": "4cf683cc7925451046d7ac1a88797d6d30c01c54",
+        "title": "通义千问发布 Qwen-Image-2.1：7B 单检查点同时支持图像生成与编辑 / Qwen-Image-2.1 × @HuggingApps： live demo on Spaces！ 🖼 One single checkpoint for generation and edit…",
+        "title_zh": "通义千问发布 Qwen-Image-2.1：7B 单检查点同时支持图像生成与编辑",
+        "title_en": "Qwen-Image-2.1 × @HuggingApps： live demo on Spaces！ 🖼 One single checkpoint for generation and edit…",
+        "title_original": "Qwen-Image-2.1 × @HuggingApps： live demo on Spaces！ 🖼 One single checkpoint for generation and edit…",
+        "summary": "通义千问发布 Qwen-Image-2.1，一个 7B 参数的原生图像生成与编辑模型，生成和编辑共用单一检查点，最多支持 10 张参考图。模型自带提示词增强 LLM，已集成 diffusers 和 ComfyUI，并在 Hugging Face Spaces 提供免安装的浏览器在线 demo：https://huggingface.co/spaces/hugging-apps/qwen-image-2-1",
         "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/31220",
-        "source": "AIbase",
-        "source_name": "AIbase"
+        "url": "https://x.com/Alibaba_Qwen/status/2101866671900401913",
+        "source": "X：通义千问 / Qwen (@Alibaba_Qwen)",
+        "source_name": "AI HOT"
       },
       "persona_id": "pragmatic",
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-21T02:59:26.374226Z"
+        "scored_at": "2026-09-21T03:53:18.751711Z"
       }
     },
     {
@@ -551,15 +633,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7473,
-      "importance": 0.7473,
-      "importance_score": 0.7473,
+      "score": 0.7447,
+      "importance": 0.7447,
+      "importance_score": 0.7447,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.66,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.987,
+        "recency": 0.9727,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -584,30 +666,30 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-21T02:59:26.374226Z"
+        "scored_at": "2026-09-21T03:53:18.751711Z"
       }
     },
     {
-      "story_id": "story_4cfa68fe6c38",
-      "title": "特斯拉得州超级工厂钢结构接近完工，Optimus产线建设加速",
-      "url": "https://www.aibase.com/news/31222",
-      "primary_url": "https://www.aibase.com/news/31222",
+      "story_id": "story_98838815cda3",
+      "title": "快手把直播字幕延迟砍到 500 毫秒内：自研端到端工程范式，把电商直播的字幕打成\"实时\"",
+      "url": "https://www.aibase.com/news/31224",
+      "primary_url": "https://www.aibase.com/news/31224",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "9f48104b2fcf4cc2e012993d0615cd31b5dfbb74",
-          "title": "特斯拉得州超级工厂钢结构接近完工，Optimus产线建设加速",
-          "title_zh": "特斯拉得州超级工厂钢结构接近完工，Optimus产线建设加速",
+          "id": "c83f612743d7d44dbb461c195a2e37852401f4ea",
+          "title": "快手把直播字幕延迟砍到 500 毫秒内：自研端到端工程范式，把电商直播的字幕打成\"实时\"",
+          "title_zh": "快手把直播字幕延迟砍到 500 毫秒内：自研端到端工程范式，把电商直播的字幕打成\"实时\"",
           "title_en": null,
-          "title_original": "特斯拉得州超级工厂钢结构接近完工，Optimus产线建设加速",
+          "title_original": "快手把直播字幕延迟砍到 500 毫秒内：自研端到端工程范式，把电商直播的字幕打成\"实时\"",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/31222",
+          "url": "https://www.aibase.com/news/31224",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-09-21T02:47:28.743388Z"
+          "published_at": "2026-09-21T03:47:52.439391Z"
         }
       ],
       "source_count": 1,
@@ -616,18 +698,18 @@
       ],
       "items": [
         {
-          "id": "9f48104b2fcf4cc2e012993d0615cd31b5dfbb74",
-          "title": "特斯拉得州超级工厂钢结构接近完工，Optimus产线建设加速",
-          "title_zh": "特斯拉得州超级工厂钢结构接近完工，Optimus产线建设加速",
+          "id": "c83f612743d7d44dbb461c195a2e37852401f4ea",
+          "title": "快手把直播字幕延迟砍到 500 毫秒内：自研端到端工程范式，把电商直播的字幕打成\"实时\"",
+          "title_zh": "快手把直播字幕延迟砍到 500 毫秒内：自研端到端工程范式，把电商直播的字幕打成\"实时\"",
           "title_en": null,
-          "title_original": "特斯拉得州超级工厂钢结构接近完工，Optimus产线建设加速",
+          "title_original": "快手把直播字幕延迟砍到 500 毫秒内：自研端到端工程范式，把电商直播的字幕打成\"实时\"",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/31222",
+          "url": "https://www.aibase.com/news/31224",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-09-21T02:47:28.743388Z"
+          "published_at": "2026-09-21T03:47:52.439391Z"
         }
       ],
       "item_count": 1,
@@ -648,17 +730,17 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-09-21T02:47:28.743388Z",
-      "latest_at": "2026-09-21T02:47:28.743388Z",
+      "earliest_at": "2026-09-21T03:47:52.439391Z",
+      "latest_at": "2026-09-21T03:47:52.439391Z",
       "primary_item": {
-        "id": "9f48104b2fcf4cc2e012993d0615cd31b5dfbb74",
-        "title": "特斯拉得州超级工厂钢结构接近完工，Optimus产线建设加速",
-        "title_zh": "特斯拉得州超级工厂钢结构接近完工，Optimus产线建设加速",
+        "id": "c83f612743d7d44dbb461c195a2e37852401f4ea",
+        "title": "快手把直播字幕延迟砍到 500 毫秒内：自研端到端工程范式，把电商直播的字幕打成\"实时\"",
+        "title_zh": "快手把直播字幕延迟砍到 500 毫秒内：自研端到端工程范式，把电商直播的字幕打成\"实时\"",
         "title_en": null,
-        "title_original": "特斯拉得州超级工厂钢结构接近完工，Optimus产线建设加速",
+        "title_original": "快手把直播字幕延迟砍到 500 毫秒内：自研端到端工程范式，把电商直播的字幕打成\"实时\"",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/31222",
+        "url": "https://www.aibase.com/news/31224",
         "source": "AIbase",
         "source_name": "AIbase"
       },
@@ -666,7 +748,89 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-21T02:59:26.374226Z"
+        "scored_at": "2026-09-21T03:53:18.751711Z"
+      }
+    },
+    {
+      "story_id": "story_8607bda673c1",
+      "title": "用 AI 造谣再收费删帖：自媒体博主敲诈科技企业 230 万元被抓",
+      "url": "https://www.aibase.com/news/31225",
+      "primary_url": "https://www.aibase.com/news/31225",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "af67cb8bc44d8a6ac398c7d0a3edd776e235e7b3",
+          "title": "用 AI 造谣再收费删帖：自媒体博主敲诈科技企业 230 万元被抓",
+          "title_zh": "用 AI 造谣再收费删帖：自媒体博主敲诈科技企业 230 万元被抓",
+          "title_en": null,
+          "title_original": "用 AI 造谣再收费删帖：自媒体博主敲诈科技企业 230 万元被抓",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/31225",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-09-21T03:47:52.439391Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "af67cb8bc44d8a6ac398c7d0a3edd776e235e7b3",
+          "title": "用 AI 造谣再收费删帖：自媒体博主敲诈科技企业 230 万元被抓",
+          "title_zh": "用 AI 造谣再收费删帖：自媒体博主敲诈科技企业 230 万元被抓",
+          "title_en": null,
+          "title_original": "用 AI 造谣再收费删帖：自媒体博主敲诈科技企业 230 万元被抓",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/31225",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-09-21T03:47:52.439391Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7676,
+      "importance": 0.7676,
+      "importance_score": 0.7676,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-21T03:47:52.439391Z",
+      "latest_at": "2026-09-21T03:47:52.439391Z",
+      "primary_item": {
+        "id": "af67cb8bc44d8a6ac398c7d0a3edd776e235e7b3",
+        "title": "用 AI 造谣再收费删帖：自媒体博主敲诈科技企业 230 万元被抓",
+        "title_zh": "用 AI 造谣再收费删帖：自媒体博主敲诈科技企业 230 万元被抓",
+        "title_en": null,
+        "title_original": "用 AI 造谣再收费删帖：自媒体博主敲诈科技企业 230 万元被抓",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://www.aibase.com/news/31225",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-09-21T03:53:18.751711Z"
       }
     },
     {
@@ -714,15 +878,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.728,
-      "importance": 0.728,
-      "importance_score": 0.728,
+      "score": 0.7258,
+      "importance": 0.7258,
+      "importance_score": 0.7258,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.69,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8298,
+        "recency": 0.8178,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -747,30 +911,30 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-21T02:59:26.374226Z"
+        "scored_at": "2026-09-21T03:53:18.751711Z"
       }
     },
     {
-      "story_id": "story_1fc9ae1f70ad",
-      "title": "用《我的世界》测 GPT-6 Astra：141 小时直播，一只苦力怕让 AI 陷入“种土豆”循环",
-      "url": "https://www.aibase.com/news/31219",
-      "primary_url": "https://www.aibase.com/news/31219",
+      "story_id": "story_9fb4f50b5f18",
+      "title": "阿里 70 亿参数图像模型Qwen-Image-2. 1 开源发布，号称以瘦身之躯叫板闭源巨头",
+      "url": "https://www.aibase.com/news/31227",
+      "primary_url": "https://www.aibase.com/news/31227",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "c14fc668a3c930153a9b31b69b580ff0383e6587",
-          "title": "用《我的世界》测 GPT-6 Astra：141 小时直播，一只苦力怕让 AI 陷入“种土豆”循环",
-          "title_zh": "用《我的世界》测 GPT-6 Astra：141 小时直播，一只苦力怕让 AI 陷入“种土豆”循环",
+          "id": "b48d7b82ff56111dc01651b15447ba4b0f5b0554",
+          "title": "阿里 70 亿参数图像模型Qwen-Image-2. 1 开源发布，号称以瘦身之躯叫板闭源巨头",
+          "title_zh": "阿里 70 亿参数图像模型Qwen-Image-2. 1 开源发布，号称以瘦身之躯叫板闭源巨头",
           "title_en": null,
-          "title_original": "用《我的世界》测 GPT-6 Astra：141 小时直播，一只苦力怕让 AI 陷入“种土豆”循环",
+          "title_original": "阿里 70 亿参数图像模型Qwen-Image-2. 1 开源发布，号称以瘦身之躯叫板闭源巨头",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/31219",
+          "url": "https://www.aibase.com/news/31227",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-09-21T02:47:28.743388Z"
+          "published_at": "2026-09-21T03:47:52.439391Z"
         }
       ],
       "source_count": 1,
@@ -779,18 +943,18 @@
       ],
       "items": [
         {
-          "id": "c14fc668a3c930153a9b31b69b580ff0383e6587",
-          "title": "用《我的世界》测 GPT-6 Astra：141 小时直播，一只苦力怕让 AI 陷入“种土豆”循环",
-          "title_zh": "用《我的世界》测 GPT-6 Astra：141 小时直播，一只苦力怕让 AI 陷入“种土豆”循环",
+          "id": "b48d7b82ff56111dc01651b15447ba4b0f5b0554",
+          "title": "阿里 70 亿参数图像模型Qwen-Image-2. 1 开源发布，号称以瘦身之躯叫板闭源巨头",
+          "title_zh": "阿里 70 亿参数图像模型Qwen-Image-2. 1 开源发布，号称以瘦身之躯叫板闭源巨头",
           "title_en": null,
-          "title_original": "用《我的世界》测 GPT-6 Astra：141 小时直播，一只苦力怕让 AI 陷入“种土豆”循环",
+          "title_original": "阿里 70 亿参数图像模型Qwen-Image-2. 1 开源发布，号称以瘦身之躯叫板闭源巨头",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/31219",
+          "url": "https://www.aibase.com/news/31227",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-09-21T02:47:28.743388Z"
+          "published_at": "2026-09-21T03:47:52.439391Z"
         }
       ],
       "item_count": 1,
@@ -811,17 +975,17 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-09-21T02:47:28.743388Z",
-      "latest_at": "2026-09-21T02:47:28.743388Z",
+      "earliest_at": "2026-09-21T03:47:52.439391Z",
+      "latest_at": "2026-09-21T03:47:52.439391Z",
       "primary_item": {
-        "id": "c14fc668a3c930153a9b31b69b580ff0383e6587",
-        "title": "用《我的世界》测 GPT-6 Astra：141 小时直播，一只苦力怕让 AI 陷入“种土豆”循环",
-        "title_zh": "用《我的世界》测 GPT-6 Astra：141 小时直播，一只苦力怕让 AI 陷入“种土豆”循环",
+        "id": "b48d7b82ff56111dc01651b15447ba4b0f5b0554",
+        "title": "阿里 70 亿参数图像模型Qwen-Image-2. 1 开源发布，号称以瘦身之躯叫板闭源巨头",
+        "title_zh": "阿里 70 亿参数图像模型Qwen-Image-2. 1 开源发布，号称以瘦身之躯叫板闭源巨头",
         "title_en": null,
-        "title_original": "用《我的世界》测 GPT-6 Astra：141 小时直播，一只苦力怕让 AI 陷入“种土豆”循环",
+        "title_original": "阿里 70 亿参数图像模型Qwen-Image-2. 1 开源发布，号称以瘦身之躯叫板闭源巨头",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/31219",
+        "url": "https://www.aibase.com/news/31227",
         "source": "AIbase",
         "source_name": "AIbase"
       },
@@ -829,26 +993,26 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-21T02:59:26.374226Z"
+        "scored_at": "2026-09-21T03:53:18.751711Z"
       }
     },
     {
-      "story_id": "story_d4e75d46cebf",
-      "title": "贾跃亭的 FF 一口气发布九款 EAI 机器人，最贵超 92 万元",
-      "url": "https://www.aibase.com/news/31223",
-      "primary_url": "https://www.aibase.com/news/31223",
+      "story_id": "story_917990886c44",
+      "title": "OpenAI 一次性摊开六份失准报告：模型越界不再是偶然，而是三种可复现的机制",
+      "url": "https://www.aibase.com/news/31220",
+      "primary_url": "https://www.aibase.com/news/31220",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "5e8da1ae0fa558405088efcd311713448d4d797f",
-          "title": "贾跃亭的 FF 一口气发布九款 EAI 机器人，最贵超 92 万元",
-          "title_zh": "贾跃亭的 FF 一口气发布九款 EAI 机器人，最贵超 92 万元",
+          "id": "1873ddfdfbc8787305d23f817d29ee374d194c37",
+          "title": "OpenAI 一次性摊开六份失准报告：模型越界不再是偶然，而是三种可复现的机制",
+          "title_zh": "OpenAI 一次性摊开六份失准报告：模型越界不再是偶然，而是三种可复现的机制",
           "title_en": null,
-          "title_original": "贾跃亭的 FF 一口气发布九款 EAI 机器人，最贵超 92 万元",
+          "title_original": "OpenAI 一次性摊开六份失准报告：模型越界不再是偶然，而是三种可复现的机制",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/31223",
+          "url": "https://www.aibase.com/news/31220",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
@@ -861,182 +1025,18 @@
       ],
       "items": [
         {
-          "id": "5e8da1ae0fa558405088efcd311713448d4d797f",
-          "title": "贾跃亭的 FF 一口气发布九款 EAI 机器人，最贵超 92 万元",
-          "title_zh": "贾跃亭的 FF 一口气发布九款 EAI 机器人，最贵超 92 万元",
+          "id": "1873ddfdfbc8787305d23f817d29ee374d194c37",
+          "title": "OpenAI 一次性摊开六份失准报告：模型越界不再是偶然，而是三种可复现的机制",
+          "title_zh": "OpenAI 一次性摊开六份失准报告：模型越界不再是偶然，而是三种可复现的机制",
           "title_en": null,
-          "title_original": "贾跃亭的 FF 一口气发布九款 EAI 机器人，最贵超 92 万元",
+          "title_original": "OpenAI 一次性摊开六份失准报告：模型越界不再是偶然，而是三种可复现的机制",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/31223",
+          "url": "https://www.aibase.com/news/31220",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
           "published_at": "2026-09-21T02:47:28.743388Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7676,
-      "importance": 0.7676,
-      "importance_score": 0.7676,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 1.0,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-21T02:47:28.743388Z",
-      "latest_at": "2026-09-21T02:47:28.743388Z",
-      "primary_item": {
-        "id": "5e8da1ae0fa558405088efcd311713448d4d797f",
-        "title": "贾跃亭的 FF 一口气发布九款 EAI 机器人，最贵超 92 万元",
-        "title_zh": "贾跃亭的 FF 一口气发布九款 EAI 机器人，最贵超 92 万元",
-        "title_en": null,
-        "title_original": "贾跃亭的 FF 一口气发布九款 EAI 机器人，最贵超 92 万元",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/31223",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-09-21T02:59:26.374226Z"
-      }
-    },
-    {
-      "story_id": "story_79ae8c479c24",
-      "title": "阶跃甩出 Step 5 Preview：600B 稀疏 MoE 只激活 27B，把开源旗舰的性价比边界往外推了一格",
-      "url": "https://www.aibase.com/news/31221",
-      "primary_url": "https://www.aibase.com/news/31221",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "3f57a5c1b8a2b69a911921cef1e7d178b941f1ad",
-          "title": "阶跃甩出 Step 5 Preview：600B 稀疏 MoE 只激活 27B，把开源旗舰的性价比边界往外推了一格",
-          "title_zh": "阶跃甩出 Step 5 Preview：600B 稀疏 MoE 只激活 27B，把开源旗舰的性价比边界往外推了一格",
-          "title_en": null,
-          "title_original": "阶跃甩出 Step 5 Preview：600B 稀疏 MoE 只激活 27B，把开源旗舰的性价比边界往外推了一格",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/31221",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-09-21T02:47:28.743388Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "3f57a5c1b8a2b69a911921cef1e7d178b941f1ad",
-          "title": "阶跃甩出 Step 5 Preview：600B 稀疏 MoE 只激活 27B，把开源旗舰的性价比边界往外推了一格",
-          "title_zh": "阶跃甩出 Step 5 Preview：600B 稀疏 MoE 只激活 27B，把开源旗舰的性价比边界往外推了一格",
-          "title_en": null,
-          "title_original": "阶跃甩出 Step 5 Preview：600B 稀疏 MoE 只激活 27B，把开源旗舰的性价比边界往外推了一格",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/31221",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-09-21T02:47:28.743388Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7676,
-      "importance": 0.7676,
-      "importance_score": 0.7676,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 1.0,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-21T02:47:28.743388Z",
-      "latest_at": "2026-09-21T02:47:28.743388Z",
-      "primary_item": {
-        "id": "3f57a5c1b8a2b69a911921cef1e7d178b941f1ad",
-        "title": "阶跃甩出 Step 5 Preview：600B 稀疏 MoE 只激活 27B，把开源旗舰的性价比边界往外推了一格",
-        "title_zh": "阶跃甩出 Step 5 Preview：600B 稀疏 MoE 只激活 27B，把开源旗舰的性价比边界往外推了一格",
-        "title_en": null,
-        "title_original": "阶跃甩出 Step 5 Preview：600B 稀疏 MoE 只激活 27B，把开源旗舰的性价比边界往外推了一格",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/31221",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-09-21T02:59:26.374226Z"
-      }
-    },
-    {
-      "story_id": "story_37d000e5ebed",
-      "title": "Gemini Notebook迎返校更新:讲座录音、AI复习和60秒视频一站完成",
-      "url": "https://www.aibase.com/news/31211",
-      "primary_url": "https://www.aibase.com/news/31211",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "2945aaee34f0d7cb727a7867bf948ff498635a73",
-          "title": "Gemini Notebook迎返校更新:讲座录音、AI复习和60秒视频一站完成",
-          "title_zh": "Gemini Notebook迎返校更新:讲座录音、AI复习和60秒视频一站完成",
-          "title_en": null,
-          "title_original": "Gemini Notebook迎返校更新:讲座录音、AI复习和60秒视频一站完成",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/31211",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-09-21T01:47:17.534724Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "2945aaee34f0d7cb727a7867bf948ff498635a73",
-          "title": "Gemini Notebook迎返校更新:讲座录音、AI复习和60秒视频一站完成",
-          "title_zh": "Gemini Notebook迎返校更新:讲座录音、AI复习和60秒视频一站完成",
-          "title_en": null,
-          "title_original": "Gemini Notebook迎返校更新:讲座录音、AI复习和60秒视频一站完成",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/31211",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-09-21T01:47:17.534724Z"
         }
       ],
       "item_count": 1,
@@ -1057,17 +1057,17 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-09-21T01:47:17.534724Z",
-      "latest_at": "2026-09-21T01:47:17.534724Z",
+      "earliest_at": "2026-09-21T02:47:28.743388Z",
+      "latest_at": "2026-09-21T02:47:28.743388Z",
       "primary_item": {
-        "id": "2945aaee34f0d7cb727a7867bf948ff498635a73",
-        "title": "Gemini Notebook迎返校更新:讲座录音、AI复习和60秒视频一站完成",
-        "title_zh": "Gemini Notebook迎返校更新:讲座录音、AI复习和60秒视频一站完成",
+        "id": "1873ddfdfbc8787305d23f817d29ee374d194c37",
+        "title": "OpenAI 一次性摊开六份失准报告：模型越界不再是偶然，而是三种可复现的机制",
+        "title_zh": "OpenAI 一次性摊开六份失准报告：模型越界不再是偶然，而是三种可复现的机制",
         "title_en": null,
-        "title_original": "Gemini Notebook迎返校更新:讲座录音、AI复习和60秒视频一站完成",
+        "title_original": "OpenAI 一次性摊开六份失准报告：模型越界不再是偶然，而是三种可复现的机制",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/31211",
+        "url": "https://www.aibase.com/news/31220",
         "source": "AIbase",
         "source_name": "AIbase"
       },
@@ -1075,7 +1075,89 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-21T02:59:26.374226Z"
+        "scored_at": "2026-09-21T03:53:18.751711Z"
+      }
+    },
+    {
+      "story_id": "story_4cfa68fe6c38",
+      "title": "特斯拉得州超级工厂钢结构接近完工，Optimus产线建设加速",
+      "url": "https://www.aibase.com/news/31222",
+      "primary_url": "https://www.aibase.com/news/31222",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "9f48104b2fcf4cc2e012993d0615cd31b5dfbb74",
+          "title": "特斯拉得州超级工厂钢结构接近完工，Optimus产线建设加速",
+          "title_zh": "特斯拉得州超级工厂钢结构接近完工，Optimus产线建设加速",
+          "title_en": null,
+          "title_original": "特斯拉得州超级工厂钢结构接近完工，Optimus产线建设加速",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/31222",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-09-21T02:47:28.743388Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "9f48104b2fcf4cc2e012993d0615cd31b5dfbb74",
+          "title": "特斯拉得州超级工厂钢结构接近完工，Optimus产线建设加速",
+          "title_zh": "特斯拉得州超级工厂钢结构接近完工，Optimus产线建设加速",
+          "title_en": null,
+          "title_original": "特斯拉得州超级工厂钢结构接近完工，Optimus产线建设加速",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/31222",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-09-21T02:47:28.743388Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.765,
+      "importance": 0.765,
+      "importance_score": 0.765,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9856,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-21T02:47:28.743388Z",
+      "latest_at": "2026-09-21T02:47:28.743388Z",
+      "primary_item": {
+        "id": "9f48104b2fcf4cc2e012993d0615cd31b5dfbb74",
+        "title": "特斯拉得州超级工厂钢结构接近完工，Optimus产线建设加速",
+        "title_zh": "特斯拉得州超级工厂钢结构接近完工，Optimus产线建设加速",
+        "title_en": null,
+        "title_original": "特斯拉得州超级工厂钢结构接近完工，Optimus产线建设加速",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://www.aibase.com/news/31222",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-09-21T03:53:18.751711Z"
       }
     },
     {
@@ -1151,15 +1233,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.596,
-      "importance": 0.596,
-      "importance_score": 0.596,
+      "score": 0.5936,
+      "importance": 0.5936,
+      "importance_score": 0.5936,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.4896,
         "source_tier": 0.58,
         "ai_relevance": 0.68,
-        "recency": 0.8915,
+        "recency": 0.8786,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1184,30 +1266,30 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-21T02:59:26.374226Z"
+        "scored_at": "2026-09-21T03:53:18.751711Z"
       }
     },
     {
-      "story_id": "story_924c1201d9fd",
-      "title": "Gemini 也\"越狱\"了：谷歌确认 5 月安全测试中闯入 3 家真实公司系统，同一家评估商的锅",
-      "url": "https://www.aibase.com/news/31217",
-      "primary_url": "https://www.aibase.com/news/31217",
+      "story_id": "story_1fc9ae1f70ad",
+      "title": "用《我的世界》测 GPT-6 Astra：141 小时直播，一只苦力怕让 AI 陷入“种土豆”循环",
+      "url": "https://www.aibase.com/news/31219",
+      "primary_url": "https://www.aibase.com/news/31219",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "4837935688fa63f80c68bc5260623a138f5af7bf",
-          "title": "Gemini 也\"越狱\"了：谷歌确认 5 月安全测试中闯入 3 家真实公司系统，同一家评估商的锅",
-          "title_zh": "Gemini 也\"越狱\"了：谷歌确认 5 月安全测试中闯入 3 家真实公司系统，同一家评估商的锅",
+          "id": "c14fc668a3c930153a9b31b69b580ff0383e6587",
+          "title": "用《我的世界》测 GPT-6 Astra：141 小时直播，一只苦力怕让 AI 陷入“种土豆”循环",
+          "title_zh": "用《我的世界》测 GPT-6 Astra：141 小时直播，一只苦力怕让 AI 陷入“种土豆”循环",
           "title_en": null,
-          "title_original": "Gemini 也\"越狱\"了：谷歌确认 5 月安全测试中闯入 3 家真实公司系统，同一家评估商的锅",
+          "title_original": "用《我的世界》测 GPT-6 Astra：141 小时直播，一只苦力怕让 AI 陷入“种土豆”循环",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/31217",
+          "url": "https://www.aibase.com/news/31219",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-09-21T01:47:17.534724Z"
+          "published_at": "2026-09-21T02:47:28.743388Z"
         }
       ],
       "source_count": 1,
@@ -1216,18 +1298,18 @@
       ],
       "items": [
         {
-          "id": "4837935688fa63f80c68bc5260623a138f5af7bf",
-          "title": "Gemini 也\"越狱\"了：谷歌确认 5 月安全测试中闯入 3 家真实公司系统，同一家评估商的锅",
-          "title_zh": "Gemini 也\"越狱\"了：谷歌确认 5 月安全测试中闯入 3 家真实公司系统，同一家评估商的锅",
+          "id": "c14fc668a3c930153a9b31b69b580ff0383e6587",
+          "title": "用《我的世界》测 GPT-6 Astra：141 小时直播，一只苦力怕让 AI 陷入“种土豆”循环",
+          "title_zh": "用《我的世界》测 GPT-6 Astra：141 小时直播，一只苦力怕让 AI 陷入“种土豆”循环",
           "title_en": null,
-          "title_original": "Gemini 也\"越狱\"了：谷歌确认 5 月安全测试中闯入 3 家真实公司系统，同一家评估商的锅",
+          "title_original": "用《我的世界》测 GPT-6 Astra：141 小时直播，一只苦力怕让 AI 陷入“种土豆”循环",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/31217",
+          "url": "https://www.aibase.com/news/31219",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-09-21T01:47:17.534724Z"
+          "published_at": "2026-09-21T02:47:28.743388Z"
         }
       ],
       "item_count": 1,
@@ -1248,17 +1330,17 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-09-21T01:47:17.534724Z",
-      "latest_at": "2026-09-21T01:47:17.534724Z",
+      "earliest_at": "2026-09-21T02:47:28.743388Z",
+      "latest_at": "2026-09-21T02:47:28.743388Z",
       "primary_item": {
-        "id": "4837935688fa63f80c68bc5260623a138f5af7bf",
-        "title": "Gemini 也\"越狱\"了：谷歌确认 5 月安全测试中闯入 3 家真实公司系统，同一家评估商的锅",
-        "title_zh": "Gemini 也\"越狱\"了：谷歌确认 5 月安全测试中闯入 3 家真实公司系统，同一家评估商的锅",
+        "id": "c14fc668a3c930153a9b31b69b580ff0383e6587",
+        "title": "用《我的世界》测 GPT-6 Astra：141 小时直播，一只苦力怕让 AI 陷入“种土豆”循环",
+        "title_zh": "用《我的世界》测 GPT-6 Astra：141 小时直播，一只苦力怕让 AI 陷入“种土豆”循环",
         "title_en": null,
-        "title_original": "Gemini 也\"越狱\"了：谷歌确认 5 月安全测试中闯入 3 家真实公司系统，同一家评估商的锅",
+        "title_original": "用《我的世界》测 GPT-6 Astra：141 小时直播，一只苦力怕让 AI 陷入“种土豆”循环",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/31217",
+        "url": "https://www.aibase.com/news/31219",
         "source": "AIbase",
         "source_name": "AIbase"
       },
@@ -1266,30 +1348,30 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-21T02:59:26.374226Z"
+        "scored_at": "2026-09-21T03:53:18.751711Z"
       }
     },
     {
-      "story_id": "story_91920f3fb92d",
-      "title": "OpenAI研究员放话\"物理断网也拦不住 AI\"：BitWhisper 用 CPU 温度传信，每小时只能淌 8 个比特",
-      "url": "https://www.aibase.com/news/31210",
-      "primary_url": "https://www.aibase.com/news/31210",
+      "story_id": "story_d4e75d46cebf",
+      "title": "贾跃亭的 FF 一口气发布九款 EAI 机器人，最贵超 92 万元",
+      "url": "https://www.aibase.com/news/31223",
+      "primary_url": "https://www.aibase.com/news/31223",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "79f3f2e83ddcb29996c0d130ccc4ec3e12aa7dff",
-          "title": "OpenAI研究员放话\"物理断网也拦不住 AI\"：BitWhisper 用 CPU 温度传信，每小时只能淌 8 个比特",
-          "title_zh": "OpenAI研究员放话\"物理断网也拦不住 AI\"：BitWhisper 用 CPU 温度传信，每小时只能淌 8 个比特",
+          "id": "5e8da1ae0fa558405088efcd311713448d4d797f",
+          "title": "贾跃亭的 FF 一口气发布九款 EAI 机器人，最贵超 92 万元",
+          "title_zh": "贾跃亭的 FF 一口气发布九款 EAI 机器人，最贵超 92 万元",
           "title_en": null,
-          "title_original": "OpenAI研究员放话\"物理断网也拦不住 AI\"：BitWhisper 用 CPU 温度传信，每小时只能淌 8 个比特",
+          "title_original": "贾跃亭的 FF 一口气发布九款 EAI 机器人，最贵超 92 万元",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/31210",
+          "url": "https://www.aibase.com/news/31223",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-09-21T01:47:17.534724Z"
+          "published_at": "2026-09-21T02:47:28.743388Z"
         }
       ],
       "source_count": 1,
@@ -1298,18 +1380,18 @@
       ],
       "items": [
         {
-          "id": "79f3f2e83ddcb29996c0d130ccc4ec3e12aa7dff",
-          "title": "OpenAI研究员放话\"物理断网也拦不住 AI\"：BitWhisper 用 CPU 温度传信，每小时只能淌 8 个比特",
-          "title_zh": "OpenAI研究员放话\"物理断网也拦不住 AI\"：BitWhisper 用 CPU 温度传信，每小时只能淌 8 个比特",
+          "id": "5e8da1ae0fa558405088efcd311713448d4d797f",
+          "title": "贾跃亭的 FF 一口气发布九款 EAI 机器人，最贵超 92 万元",
+          "title_zh": "贾跃亭的 FF 一口气发布九款 EAI 机器人，最贵超 92 万元",
           "title_en": null,
-          "title_original": "OpenAI研究员放话\"物理断网也拦不住 AI\"：BitWhisper 用 CPU 温度传信，每小时只能淌 8 个比特",
+          "title_original": "贾跃亭的 FF 一口气发布九款 EAI 机器人，最贵超 92 万元",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/31210",
+          "url": "https://www.aibase.com/news/31223",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-09-21T01:47:17.534724Z"
+          "published_at": "2026-09-21T02:47:28.743388Z"
         }
       ],
       "item_count": 1,
@@ -1330,17 +1412,17 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-09-21T01:47:17.534724Z",
-      "latest_at": "2026-09-21T01:47:17.534724Z",
+      "earliest_at": "2026-09-21T02:47:28.743388Z",
+      "latest_at": "2026-09-21T02:47:28.743388Z",
       "primary_item": {
-        "id": "79f3f2e83ddcb29996c0d130ccc4ec3e12aa7dff",
-        "title": "OpenAI研究员放话\"物理断网也拦不住 AI\"：BitWhisper 用 CPU 温度传信，每小时只能淌 8 个比特",
-        "title_zh": "OpenAI研究员放话\"物理断网也拦不住 AI\"：BitWhisper 用 CPU 温度传信，每小时只能淌 8 个比特",
+        "id": "5e8da1ae0fa558405088efcd311713448d4d797f",
+        "title": "贾跃亭的 FF 一口气发布九款 EAI 机器人，最贵超 92 万元",
+        "title_zh": "贾跃亭的 FF 一口气发布九款 EAI 机器人，最贵超 92 万元",
         "title_en": null,
-        "title_original": "OpenAI研究员放话\"物理断网也拦不住 AI\"：BitWhisper 用 CPU 温度传信，每小时只能淌 8 个比特",
+        "title_original": "贾跃亭的 FF 一口气发布九款 EAI 机器人，最贵超 92 万元",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/31210",
+        "url": "https://www.aibase.com/news/31223",
         "source": "AIbase",
         "source_name": "AIbase"
       },
@@ -1348,7 +1430,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-21T02:59:26.374226Z"
+        "scored_at": "2026-09-21T03:53:18.751711Z"
       }
     },
     {
@@ -1454,15 +1536,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5534,
-      "importance": 0.5534,
-      "importance_score": 0.5534,
+      "score": 0.551,
+      "importance": 0.551,
+      "importance_score": 0.551,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9032,
+        "recency": 0.8902,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1487,7 +1569,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-21T02:59:26.374226Z"
+        "scored_at": "2026-09-21T03:53:18.751711Z"
       }
     },
     {
@@ -1593,15 +1675,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5472,
-      "importance": 0.5472,
-      "importance_score": 0.5472,
+      "score": 0.5449,
+      "importance": 0.5449,
+      "importance_score": 0.5449,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8688,
+        "recency": 0.8563,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1626,7 +1708,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-21T02:59:26.374226Z"
+        "scored_at": "2026-09-21T03:53:18.751711Z"
       }
     },
     {
@@ -1703,15 +1785,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.544,
-      "importance": 0.544,
-      "importance_score": 0.544,
+      "score": 0.5414,
+      "importance": 0.5414,
+      "importance_score": 0.5414,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.99,
+        "recency": 0.9757,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1736,7 +1818,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-21T02:59:26.374226Z"
+        "scored_at": "2026-09-21T03:53:18.751711Z"
       }
     },
     {
@@ -1842,15 +1924,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5379,
-      "importance": 0.5379,
-      "importance_score": 0.5379,
+      "score": 0.5358,
+      "importance": 0.5358,
+      "importance_score": 0.5358,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8175,
+        "recency": 0.8057,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1875,30 +1957,30 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-21T02:59:26.374226Z"
+        "scored_at": "2026-09-21T03:53:18.751711Z"
       }
     },
     {
-      "story_id": "story_10f34a357915",
-      "title": "TypeSafe AI 推出决策专用模型 Jev：比大语言模型快 10 倍、成本仅十分之一",
-      "url": "https://www.aibase.com/news/31215",
-      "primary_url": "https://www.aibase.com/news/31215",
+      "story_id": "story_79ae8c479c24",
+      "title": "阶跃甩出 Step 5 Preview：600B 稀疏 MoE 只激活 27B，把开源旗舰的性价比边界往外推了一格",
+      "url": "https://www.aibase.com/news/31221",
+      "primary_url": "https://www.aibase.com/news/31221",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "a08c5d1168a8bd74ef5d1c96307cab24a8335362",
-          "title": "TypeSafe AI 推出决策专用模型 Jev：比大语言模型快 10 倍、成本仅十分之一",
-          "title_zh": "TypeSafe AI 推出决策专用模型 Jev：比大语言模型快 10 倍、成本仅十分之一",
+          "id": "3f57a5c1b8a2b69a911921cef1e7d178b941f1ad",
+          "title": "阶跃甩出 Step 5 Preview：600B 稀疏 MoE 只激活 27B，把开源旗舰的性价比边界往外推了一格",
+          "title_zh": "阶跃甩出 Step 5 Preview：600B 稀疏 MoE 只激活 27B，把开源旗舰的性价比边界往外推了一格",
           "title_en": null,
-          "title_original": "TypeSafe AI 推出决策专用模型 Jev：比大语言模型快 10 倍、成本仅十分之一",
+          "title_original": "阶跃甩出 Step 5 Preview：600B 稀疏 MoE 只激活 27B，把开源旗舰的性价比边界往外推了一格",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/31215",
+          "url": "https://www.aibase.com/news/31221",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-09-21T01:47:17.534724Z"
+          "published_at": "2026-09-21T02:47:28.743388Z"
         }
       ],
       "source_count": 1,
@@ -1907,18 +1989,18 @@
       ],
       "items": [
         {
-          "id": "a08c5d1168a8bd74ef5d1c96307cab24a8335362",
-          "title": "TypeSafe AI 推出决策专用模型 Jev：比大语言模型快 10 倍、成本仅十分之一",
-          "title_zh": "TypeSafe AI 推出决策专用模型 Jev：比大语言模型快 10 倍、成本仅十分之一",
+          "id": "3f57a5c1b8a2b69a911921cef1e7d178b941f1ad",
+          "title": "阶跃甩出 Step 5 Preview：600B 稀疏 MoE 只激活 27B，把开源旗舰的性价比边界往外推了一格",
+          "title_zh": "阶跃甩出 Step 5 Preview：600B 稀疏 MoE 只激活 27B，把开源旗舰的性价比边界往外推了一格",
           "title_en": null,
-          "title_original": "TypeSafe AI 推出决策专用模型 Jev：比大语言模型快 10 倍、成本仅十分之一",
+          "title_original": "阶跃甩出 Step 5 Preview：600B 稀疏 MoE 只激活 27B，把开源旗舰的性价比边界往外推了一格",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/31215",
+          "url": "https://www.aibase.com/news/31221",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-09-21T01:47:17.534724Z"
+          "published_at": "2026-09-21T02:47:28.743388Z"
         }
       ],
       "item_count": 1,
@@ -1939,17 +2021,17 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-09-21T01:47:17.534724Z",
-      "latest_at": "2026-09-21T01:47:17.534724Z",
+      "earliest_at": "2026-09-21T02:47:28.743388Z",
+      "latest_at": "2026-09-21T02:47:28.743388Z",
       "primary_item": {
-        "id": "a08c5d1168a8bd74ef5d1c96307cab24a8335362",
-        "title": "TypeSafe AI 推出决策专用模型 Jev：比大语言模型快 10 倍、成本仅十分之一",
-        "title_zh": "TypeSafe AI 推出决策专用模型 Jev：比大语言模型快 10 倍、成本仅十分之一",
+        "id": "3f57a5c1b8a2b69a911921cef1e7d178b941f1ad",
+        "title": "阶跃甩出 Step 5 Preview：600B 稀疏 MoE 只激活 27B，把开源旗舰的性价比边界往外推了一格",
+        "title_zh": "阶跃甩出 Step 5 Preview：600B 稀疏 MoE 只激活 27B，把开源旗舰的性价比边界往外推了一格",
         "title_en": null,
-        "title_original": "TypeSafe AI 推出决策专用模型 Jev：比大语言模型快 10 倍、成本仅十分之一",
+        "title_original": "阶跃甩出 Step 5 Preview：600B 稀疏 MoE 只激活 27B，把开源旗舰的性价比边界往外推了一格",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/31215",
+        "url": "https://www.aibase.com/news/31221",
         "source": "AIbase",
         "source_name": "AIbase"
       },
@@ -1957,117 +2039,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-21T02:59:26.374226Z"
-      }
-    },
-    {
-      "story_id": "story_eceffe99ef7d",
-      "title": "自托管推理编排器比较：LocalAI、exo、GPUStack、vLLM / Self-hosted inference orchestrators compared: LocalAI, exo, GPUStack, vLLM",
-      "url": "https://www.nexlab.net/articles/self-hosted-inference-orchestrators-compared-2026",
-      "primary_url": "https://www.nexlab.net/articles/self-hosted-inference-orchestrators-compared-2026",
-      "source": "Hacker News (黑客新闻)",
-      "source_name": "Info Flow",
-      "sources": [
-        {
-          "id": "74a9d196c35e66331767cdd2eff401ed7059089a",
-          "title": "自托管推理编排器比较：LocalAI、exo、GPUStack、vLLM / Self-hosted inference orchestrators compared: LocalAI, exo, GPUStack, vLLM",
-          "title_zh": "自托管推理编排器比较：LocalAI、exo、GPUStack、vLLM",
-          "title_en": "Self-hosted inference orchestrators compared: LocalAI, exo, GPUStack, vLLM",
-          "title_original": "Self-hosted inference orchestrators compared: LocalAI, exo, GPUStack, vLLM",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.nexlab.net/articles/self-hosted-inference-orchestrators-compared-2026",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-09-20T17:43:35Z"
-        },
-        {
-          "id": "72d4a2fee1a971c0a5df74789f9e44e4ed620a1b",
-          "title": "自托管推理编排器比较：LocalAI、exo、GPUStack、vLLM / Self-hosted inference orchestrators compared: LocalAI, exo, GPUStack, vLLM",
-          "title_zh": "自托管推理编排器比较：LocalAI、exo、GPUStack、vLLM",
-          "title_en": "Self-hosted inference orchestrators compared: LocalAI, exo, GPUStack, vLLM",
-          "title_original": "Self-hosted inference orchestrators compared: LocalAI, exo, GPUStack, vLLM",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=49778078",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-09-20T17:43:35Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News (黑客新闻)",
-        "hackernews"
-      ],
-      "items": [
-        {
-          "id": "74a9d196c35e66331767cdd2eff401ed7059089a",
-          "title": "自托管推理编排器比较：LocalAI、exo、GPUStack、vLLM / Self-hosted inference orchestrators compared: LocalAI, exo, GPUStack, vLLM",
-          "title_zh": "自托管推理编排器比较：LocalAI、exo、GPUStack、vLLM",
-          "title_en": "Self-hosted inference orchestrators compared: LocalAI, exo, GPUStack, vLLM",
-          "title_original": "Self-hosted inference orchestrators compared: LocalAI, exo, GPUStack, vLLM",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.nexlab.net/articles/self-hosted-inference-orchestrators-compared-2026",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-09-20T17:43:35Z"
-        },
-        {
-          "id": "72d4a2fee1a971c0a5df74789f9e44e4ed620a1b",
-          "title": "自托管推理编排器比较：LocalAI、exo、GPUStack、vLLM / Self-hosted inference orchestrators compared: LocalAI, exo, GPUStack, vLLM",
-          "title_zh": "自托管推理编排器比较：LocalAI、exo、GPUStack、vLLM",
-          "title_en": "Self-hosted inference orchestrators compared: LocalAI, exo, GPUStack, vLLM",
-          "title_original": "Self-hosted inference orchestrators compared: LocalAI, exo, GPUStack, vLLM",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=49778078",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-09-20T17:43:35Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5237,
-      "importance": 0.5237,
-      "importance_score": 0.5237,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.8773,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-09-20T17:43:35Z",
-      "latest_at": "2026-09-20T17:43:35Z",
-      "primary_item": {
-        "id": "74a9d196c35e66331767cdd2eff401ed7059089a",
-        "title": "自托管推理编排器比较：LocalAI、exo、GPUStack、vLLM / Self-hosted inference orchestrators compared: LocalAI, exo, GPUStack, vLLM",
-        "title_zh": "自托管推理编排器比较：LocalAI、exo、GPUStack、vLLM",
-        "title_en": "Self-hosted inference orchestrators compared: LocalAI, exo, GPUStack, vLLM",
-        "title_original": "Self-hosted inference orchestrators compared: LocalAI, exo, GPUStack, vLLM",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://www.nexlab.net/articles/self-hosted-inference-orchestrators-compared-2026",
-        "source": "Hacker News (黑客新闻)",
-        "source_name": "Info Flow"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-09-21T02:59:26.374226Z"
+        "scored_at": "2026-09-21T03:53:18.751711Z"
       }
     }
   ]
