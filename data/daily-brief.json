@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-21T03:47:52.439391Z",
+  "generated_at": "2026-09-21T04:47:22.649566Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -41,8 +41,8 @@
         },
         {
           "id": "69eddc9e7361fefc5bf226eed7ff967c71a39fdf",
-          "title": "独立调查：ChatGPT 的 __obi 跨站 Cookie 可将站外浏览行为关联到 ChatGPT 账号 / ChatGPT now knows what you do on other websites via ad collector",
-          "title_zh": "独立调查：ChatGPT 的 __obi 跨站 Cookie 可将站外浏览行为关联到 ChatGPT 账号",
+          "title": "ChatGPT 现在可以通过广告收集器了解你在其他网站上的行为 / ChatGPT now knows what you do on other websites via ad collector",
+          "title_zh": "ChatGPT 现在可以通过广告收集器了解你在其他网站上的行为",
           "title_en": "ChatGPT now knows what you do on other websites via ad collector",
           "title_original": "ChatGPT now knows what you do on other websites via ad collector",
           "summary": null,
@@ -106,8 +106,8 @@
         },
         {
           "id": "69eddc9e7361fefc5bf226eed7ff967c71a39fdf",
-          "title": "独立调查：ChatGPT 的 __obi 跨站 Cookie 可将站外浏览行为关联到 ChatGPT 账号 / ChatGPT now knows what you do on other websites via ad collector",
-          "title_zh": "独立调查：ChatGPT 的 __obi 跨站 Cookie 可将站外浏览行为关联到 ChatGPT 账号",
+          "title": "ChatGPT 现在可以通过广告收集器了解你在其他网站上的行为 / ChatGPT now knows what you do on other websites via ad collector",
+          "title_zh": "ChatGPT 现在可以通过广告收集器了解你在其他网站上的行为",
           "title_en": "ChatGPT now knows what you do on other websites via ad collector",
           "title_original": "ChatGPT now knows what you do on other websites via ad collector",
           "summary": null,
@@ -135,15 +135,15 @@
       ],
       "item_count": 4,
       "duplicate_count": 4,
-      "score": 0.8311,
-      "importance": 0.8311,
-      "importance_score": 0.8311,
+      "score": 0.8288,
+      "importance": 0.8288,
+      "importance_score": 0.8288,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.76,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8692,
+        "recency": 0.8569,
         "story_heat": 0.75
       },
       "category": "multi_source",
@@ -170,7 +170,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-21T03:53:18.751711Z"
+        "scored_at": "2026-09-21T04:48:05.546264Z"
       }
     },
     {
@@ -304,15 +304,15 @@
       ],
       "item_count": 4,
       "duplicate_count": 4,
-      "score": 0.8059,
-      "importance": 0.8059,
-      "importance_score": 0.8059,
+      "score": 0.8038,
+      "importance": 0.8038,
+      "importance_score": 0.8038,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.796,
+        "recency": 0.7847,
         "story_heat": 0.75
       },
       "category": "multi_source",
@@ -339,7 +339,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-21T03:53:18.751711Z"
+        "scored_at": "2026-09-21T04:48:05.546264Z"
       }
     },
     {
@@ -387,15 +387,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7676,
-      "importance": 0.7676,
-      "importance_score": 0.7676,
+      "score": 0.765,
+      "importance": 0.765,
+      "importance_score": 0.765,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.9858,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -421,7 +421,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-21T03:53:18.751711Z"
+        "scored_at": "2026-09-21T04:48:05.546264Z"
       }
     },
     {
@@ -469,15 +469,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7672,
-      "importance": 0.7672,
-      "importance_score": 0.7672,
+      "score": 0.7649,
+      "importance": 0.7649,
+      "importance_score": 0.7649,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.78,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.898,
+        "recency": 0.8852,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -503,7 +503,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-21T03:53:18.751711Z"
+        "scored_at": "2026-09-21T04:48:05.546264Z"
       }
     },
     {
@@ -551,15 +551,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7561,
-      "importance": 0.7561,
-      "importance_score": 0.7561,
+      "score": 0.7536,
+      "importance": 0.7536,
+      "importance_score": 0.7536,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.69,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9863,
+        "recency": 0.9723,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -585,7 +585,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-21T03:53:18.751711Z"
+        "scored_at": "2026-09-21T04:48:05.546264Z"
       }
     },
     {
@@ -633,15 +633,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7447,
-      "importance": 0.7447,
-      "importance_score": 0.7447,
+      "score": 0.7422,
+      "importance": 0.7422,
+      "importance_score": 0.7422,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.66,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9727,
+        "recency": 0.9589,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -666,7 +666,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-21T03:53:18.751711Z"
+        "scored_at": "2026-09-21T04:48:05.546264Z"
       }
     },
     {
@@ -714,15 +714,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7676,
-      "importance": 0.7676,
-      "importance_score": 0.7676,
+      "score": 0.765,
+      "importance": 0.765,
+      "importance_score": 0.765,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.9858,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -748,7 +748,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-21T03:53:18.751711Z"
+        "scored_at": "2026-09-21T04:48:05.546264Z"
       }
     },
     {
@@ -796,15 +796,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7676,
-      "importance": 0.7676,
-      "importance_score": 0.7676,
+      "score": 0.765,
+      "importance": 0.765,
+      "importance_score": 0.765,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.9858,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -830,7 +830,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-21T03:53:18.751711Z"
+        "scored_at": "2026-09-21T04:48:05.546264Z"
       }
     },
     {
@@ -878,15 +878,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7258,
-      "importance": 0.7258,
-      "importance_score": 0.7258,
+      "score": 0.7237,
+      "importance": 0.7237,
+      "importance_score": 0.7237,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.69,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8178,
+        "recency": 0.8062,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -911,7 +911,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-21T03:53:18.751711Z"
+        "scored_at": "2026-09-21T04:48:05.546264Z"
       }
     },
     {
@@ -959,15 +959,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7676,
-      "importance": 0.7676,
-      "importance_score": 0.7676,
+      "score": 0.765,
+      "importance": 0.765,
+      "importance_score": 0.765,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.9858,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -993,7 +993,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-21T03:53:18.751711Z"
+        "scored_at": "2026-09-21T04:48:05.546264Z"
       }
     },
     {
@@ -1041,15 +1041,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.765,
-      "importance": 0.765,
-      "importance_score": 0.765,
+      "score": 0.7625,
+      "importance": 0.7625,
+      "importance_score": 0.7625,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9856,
+        "recency": 0.9716,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1075,7 +1075,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-21T03:53:18.751711Z"
+        "scored_at": "2026-09-21T04:48:05.546264Z"
       }
     },
     {
@@ -1123,15 +1123,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.765,
-      "importance": 0.765,
-      "importance_score": 0.765,
+      "score": 0.7625,
+      "importance": 0.7625,
+      "importance_score": 0.7625,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9856,
+        "recency": 0.9716,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1157,7 +1157,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-21T03:53:18.751711Z"
+        "scored_at": "2026-09-21T04:48:05.546264Z"
       }
     },
     {
@@ -1184,8 +1184,8 @@
         },
         {
           "id": "4c2db2373e60e802256489099a61485b7afa431a",
-          "title": "No one is surprised that Nvidia’s Jensen Huang thinks AI fears are overblown.",
-          "title_zh": null,
+          "title": "英伟达 (Nvidia) 的黄仁勋 (Jensen Huang) 认为人工智能的担忧被夸大了，这一点没有人感到惊讶。 / No one is surprised that Nvidia’s Jensen Huang thinks AI fears are overblown.",
+          "title_zh": "英伟达 (Nvidia) 的黄仁勋 (Jensen Huang) 认为人工智能的担忧被夸大了，这一点没有人感到惊讶。",
           "title_en": "No one is surprised that Nvidia’s Jensen Huang thinks AI fears are overblown.",
           "title_original": "No one is surprised that Nvidia’s Jensen Huang thinks AI fears are overblown.",
           "summary": null,
@@ -1218,8 +1218,8 @@
         },
         {
           "id": "4c2db2373e60e802256489099a61485b7afa431a",
-          "title": "No one is surprised that Nvidia’s Jensen Huang thinks AI fears are overblown.",
-          "title_zh": null,
+          "title": "英伟达 (Nvidia) 的黄仁勋 (Jensen Huang) 认为人工智能的担忧被夸大了，这一点没有人感到惊讶。 / No one is surprised that Nvidia’s Jensen Huang thinks AI fears are overblown.",
+          "title_zh": "英伟达 (Nvidia) 的黄仁勋 (Jensen Huang) 认为人工智能的担忧被夸大了，这一点没有人感到惊讶。",
           "title_en": "No one is surprised that Nvidia’s Jensen Huang thinks AI fears are overblown.",
           "title_original": "No one is surprised that Nvidia’s Jensen Huang thinks AI fears are overblown.",
           "summary": null,
@@ -1233,15 +1233,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5936,
-      "importance": 0.5936,
-      "importance_score": 0.5936,
+      "score": 0.5914,
+      "importance": 0.5914,
+      "importance_score": 0.5914,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.4896,
         "source_tier": 0.58,
         "ai_relevance": 0.68,
-        "recency": 0.8786,
+        "recency": 0.8661,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1266,7 +1266,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-21T03:53:18.751711Z"
+        "scored_at": "2026-09-21T04:48:05.546264Z"
       }
     },
     {
@@ -1314,15 +1314,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.765,
-      "importance": 0.765,
-      "importance_score": 0.765,
+      "score": 0.7625,
+      "importance": 0.7625,
+      "importance_score": 0.7625,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9856,
+        "recency": 0.9716,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1348,7 +1348,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-21T03:53:18.751711Z"
+        "scored_at": "2026-09-21T04:48:05.546264Z"
       }
     },
     {
@@ -1396,15 +1396,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.765,
-      "importance": 0.765,
-      "importance_score": 0.765,
+      "score": 0.7625,
+      "importance": 0.7625,
+      "importance_score": 0.7625,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9856,
+        "recency": 0.9716,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1430,12 +1430,12 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-21T03:53:18.751711Z"
+        "scored_at": "2026-09-21T04:48:05.546264Z"
       }
     },
     {
       "story_id": "story_e9afee2fcdd7",
-      "title": "Why MCP Was Always a Bad Idea",
+      "title": "为什么 MCP 总是一个坏主意 / Why MCP Was Always a Bad Idea",
       "url": "https://maharship.com/blog/why-mcp-was-always-a-bad-idea",
       "primary_url": "https://maharship.com/blog/why-mcp-was-always-a-bad-idea",
       "source": "Hacker News",
@@ -1443,8 +1443,8 @@
       "sources": [
         {
           "id": "0416f96733a595a1066cc4cd48072b28784e9788",
-          "title": "Why MCP Was Always a Bad Idea",
-          "title_zh": null,
+          "title": "为什么 MCP 总是一个坏主意 / Why MCP Was Always a Bad Idea",
+          "title_zh": "为什么 MCP 总是一个坏主意",
           "title_en": "Why MCP Was Always a Bad Idea",
           "title_original": "Why MCP Was Always a Bad Idea",
           "summary": null,
@@ -1457,8 +1457,8 @@
         },
         {
           "id": "1d4e3c42ce482d25ff1ce9efa37d41542dccf189",
-          "title": "Why MCP Was Always a Bad Idea?",
-          "title_zh": null,
+          "title": "为什么 MCP 总是一个坏主意？ / Why MCP Was Always a Bad Idea?",
+          "title_zh": "为什么 MCP 总是一个坏主意？",
           "title_en": "Why MCP Was Always a Bad Idea?",
           "title_original": "Why MCP Was Always a Bad Idea?",
           "summary": null,
@@ -1471,8 +1471,8 @@
         },
         {
           "id": "af88af4c85be2a253dd6918a254573d13f9c8e87",
-          "title": "Why MCP Was Always a Bad Idea?",
-          "title_zh": null,
+          "title": "为什么 MCP 总是一个坏主意？ / Why MCP Was Always a Bad Idea?",
+          "title_zh": "为什么 MCP 总是一个坏主意？",
           "title_en": "Why MCP Was Always a Bad Idea?",
           "title_original": "Why MCP Was Always a Bad Idea?",
           "summary": null,
@@ -1493,8 +1493,8 @@
       "items": [
         {
           "id": "0416f96733a595a1066cc4cd48072b28784e9788",
-          "title": "Why MCP Was Always a Bad Idea",
-          "title_zh": null,
+          "title": "为什么 MCP 总是一个坏主意 / Why MCP Was Always a Bad Idea",
+          "title_zh": "为什么 MCP 总是一个坏主意",
           "title_en": "Why MCP Was Always a Bad Idea",
           "title_original": "Why MCP Was Always a Bad Idea",
           "summary": null,
@@ -1507,8 +1507,8 @@
         },
         {
           "id": "1d4e3c42ce482d25ff1ce9efa37d41542dccf189",
-          "title": "Why MCP Was Always a Bad Idea?",
-          "title_zh": null,
+          "title": "为什么 MCP 总是一个坏主意？ / Why MCP Was Always a Bad Idea?",
+          "title_zh": "为什么 MCP 总是一个坏主意？",
           "title_en": "Why MCP Was Always a Bad Idea?",
           "title_original": "Why MCP Was Always a Bad Idea?",
           "summary": null,
@@ -1521,8 +1521,8 @@
         },
         {
           "id": "af88af4c85be2a253dd6918a254573d13f9c8e87",
-          "title": "Why MCP Was Always a Bad Idea?",
-          "title_zh": null,
+          "title": "为什么 MCP 总是一个坏主意？ / Why MCP Was Always a Bad Idea?",
+          "title_zh": "为什么 MCP 总是一个坏主意？",
           "title_en": "Why MCP Was Always a Bad Idea?",
           "title_original": "Why MCP Was Always a Bad Idea?",
           "summary": null,
@@ -1536,15 +1536,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.551,
-      "importance": 0.551,
-      "importance_score": 0.551,
+      "score": 0.5488,
+      "importance": 0.5488,
+      "importance_score": 0.5488,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8902,
+        "recency": 0.8776,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1555,8 +1555,8 @@
       "latest_at": "2026-09-20T19:44:40Z",
       "primary_item": {
         "id": "0416f96733a595a1066cc4cd48072b28784e9788",
-        "title": "Why MCP Was Always a Bad Idea",
-        "title_zh": null,
+        "title": "为什么 MCP 总是一个坏主意 / Why MCP Was Always a Bad Idea",
+        "title_zh": "为什么 MCP 总是一个坏主意",
         "title_en": "Why MCP Was Always a Bad Idea",
         "title_original": "Why MCP Was Always a Bad Idea",
         "summary": null,
@@ -1569,7 +1569,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-21T03:53:18.751711Z"
+        "scored_at": "2026-09-21T04:48:05.546264Z"
       }
     },
     {
@@ -1675,15 +1675,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5449,
-      "importance": 0.5449,
-      "importance_score": 0.5449,
+      "score": 0.5427,
+      "importance": 0.5427,
+      "importance_score": 0.5427,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8563,
+        "recency": 0.8441,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1708,12 +1708,12 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-21T03:53:18.751711Z"
+        "scored_at": "2026-09-21T04:48:05.546264Z"
       }
     },
     {
       "story_id": "story_329dc8cc45ef",
-      "title": "Can I Let My AI Agent Run on Shabbat?",
+      "title": "我可以让我的 AI 代理在安息日运行吗？ / Can I Let My AI Agent Run on Shabbat?",
       "url": "https://www.chabad.org/library/article_cdo/aid/7288064/jewish/Can-I-Let-My-AI-Agent-Run-on-Shabbat.htm",
       "primary_url": "https://www.chabad.org/library/article_cdo/aid/7288064/jewish/Can-I-Let-My-AI-Agent-Run-on-Shabbat.htm",
       "source": "Hacker News · 24h最热",
@@ -1721,8 +1721,8 @@
       "sources": [
         {
           "id": "480336def6e44fd1f79b0ce2bf40370686f20e3b",
-          "title": "Can I Let My AI Agent Run on Shabbat?",
-          "title_zh": null,
+          "title": "我可以让我的 AI 代理在安息日运行吗？ / Can I Let My AI Agent Run on Shabbat?",
+          "title_zh": "我可以让我的 AI 代理在安息日运行吗？",
           "title_en": "Can I Let My AI Agent Run on Shabbat?",
           "title_original": "Can I Let My AI Agent Run on Shabbat?",
           "summary": null,
@@ -1735,8 +1735,8 @@
         },
         {
           "id": "4bba51db0c796d98d45197ea79b1fc899d5429e1",
-          "title": "Can I Let My AI Agent Run on Shabbat?",
-          "title_zh": null,
+          "title": "我可以让我的 AI 代理在安息日运行吗？ / Can I Let My AI Agent Run on Shabbat?",
+          "title_zh": "我可以让我的 AI 代理在安息日运行吗？",
           "title_en": "Can I Let My AI Agent Run on Shabbat?",
           "title_original": "Can I Let My AI Agent Run on Shabbat?",
           "summary": null,
@@ -1756,8 +1756,8 @@
       "items": [
         {
           "id": "480336def6e44fd1f79b0ce2bf40370686f20e3b",
-          "title": "Can I Let My AI Agent Run on Shabbat?",
-          "title_zh": null,
+          "title": "我可以让我的 AI 代理在安息日运行吗？ / Can I Let My AI Agent Run on Shabbat?",
+          "title_zh": "我可以让我的 AI 代理在安息日运行吗？",
           "title_en": "Can I Let My AI Agent Run on Shabbat?",
           "title_original": "Can I Let My AI Agent Run on Shabbat?",
           "summary": null,
@@ -1770,8 +1770,8 @@
         },
         {
           "id": "4bba51db0c796d98d45197ea79b1fc899d5429e1",
-          "title": "Can I Let My AI Agent Run on Shabbat?",
-          "title_zh": null,
+          "title": "我可以让我的 AI 代理在安息日运行吗？ / Can I Let My AI Agent Run on Shabbat?",
+          "title_zh": "我可以让我的 AI 代理在安息日运行吗？",
           "title_en": "Can I Let My AI Agent Run on Shabbat?",
           "title_original": "Can I Let My AI Agent Run on Shabbat?",
           "summary": null,
@@ -1785,15 +1785,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5414,
-      "importance": 0.5414,
-      "importance_score": 0.5414,
+      "score": 0.5389,
+      "importance": 0.5389,
+      "importance_score": 0.5389,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9757,
+        "recency": 0.9618,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1804,8 +1804,8 @@
       "latest_at": "2026-09-21T02:05:45Z",
       "primary_item": {
         "id": "480336def6e44fd1f79b0ce2bf40370686f20e3b",
-        "title": "Can I Let My AI Agent Run on Shabbat?",
-        "title_zh": null,
+        "title": "我可以让我的 AI 代理在安息日运行吗？ / Can I Let My AI Agent Run on Shabbat?",
+        "title_zh": "我可以让我的 AI 代理在安息日运行吗？",
         "title_en": "Can I Let My AI Agent Run on Shabbat?",
         "title_original": "Can I Let My AI Agent Run on Shabbat?",
         "summary": null,
@@ -1818,7 +1818,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-21T03:53:18.751711Z"
+        "scored_at": "2026-09-21T04:48:05.546264Z"
       }
     },
     {
@@ -1924,15 +1924,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5358,
-      "importance": 0.5358,
-      "importance_score": 0.5358,
+      "score": 0.5338,
+      "importance": 0.5338,
+      "importance_score": 0.5338,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8057,
+        "recency": 0.7942,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1957,7 +1957,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-21T03:53:18.751711Z"
+        "scored_at": "2026-09-21T04:48:05.546264Z"
       }
     },
     {
@@ -2005,15 +2005,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.765,
-      "importance": 0.765,
-      "importance_score": 0.765,
+      "score": 0.7625,
+      "importance": 0.7625,
+      "importance_score": 0.7625,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9856,
+        "recency": 0.9716,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -2039,7 +2039,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-21T03:53:18.751711Z"
+        "scored_at": "2026-09-21T04:48:05.546264Z"
       }
     }
   ]
