@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-21T08:47:36.404522Z",
+  "generated_at": "2026-09-21T09:47:24.989007Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -135,15 +135,15 @@
       ],
       "item_count": 4,
       "duplicate_count": 4,
-      "score": 0.8202,
-      "importance": 0.8202,
-      "importance_score": 0.8202,
+      "score": 0.8181,
+      "importance": 0.8181,
+      "importance_score": 0.8181,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.76,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8087,
+        "recency": 0.7972,
         "story_heat": 0.75
       },
       "category": "multi_source",
@@ -170,7 +170,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-21T08:58:25.956044Z"
+        "scored_at": "2026-09-21T09:48:27.883531Z"
       }
     },
     {
@@ -304,15 +304,15 @@
       ],
       "item_count": 4,
       "duplicate_count": 4,
-      "score": 0.7959,
-      "importance": 0.7959,
-      "importance_score": 0.7959,
+      "score": 0.794,
+      "importance": 0.794,
+      "importance_score": 0.794,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7406,
+        "recency": 0.73,
         "story_heat": 0.75
       },
       "category": "multi_source",
@@ -339,30 +339,30 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-21T08:58:25.956044Z"
+        "scored_at": "2026-09-21T09:48:27.883531Z"
       }
     },
     {
-      "story_id": "story_90a54adf640f",
-      "title": "Kimi Code 桌面客户端上线：macOS 与 Windows 同步开放",
-      "url": "https://www.aibase.com/news/31237",
-      "primary_url": "https://www.aibase.com/news/31237",
+      "story_id": "story_3550f9dee406",
+      "title": "Anthropic与字节扎堆AI制药，下一个Coding风口卡在了数据这道坎上",
+      "url": "https://www.aibase.com/news/31241",
+      "primary_url": "https://www.aibase.com/news/31241",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "3640cd9d3060a429f8ab12ff84262ac8d9d92ddc",
-          "title": "Kimi Code 桌面客户端上线：macOS 与 Windows 同步开放",
-          "title_zh": "Kimi Code 桌面客户端上线：macOS 与 Windows 同步开放",
+          "id": "1659a096004845fb17ae234e2b186092ad808ecc",
+          "title": "Anthropic与字节扎堆AI制药，下一个Coding风口卡在了数据这道坎上",
+          "title_zh": "Anthropic与字节扎堆AI制药，下一个Coding风口卡在了数据这道坎上",
           "title_en": null,
-          "title_original": "Kimi Code 桌面客户端上线：macOS 与 Windows 同步开放",
+          "title_original": "Anthropic与字节扎堆AI制药，下一个Coding风口卡在了数据这道坎上",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/31237",
+          "url": "https://www.aibase.com/news/31241",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-09-21T08:47:36.404522Z"
+          "published_at": "2026-09-21T09:47:24.989007Z"
         }
       ],
       "source_count": 1,
@@ -371,18 +371,18 @@
       ],
       "items": [
         {
-          "id": "3640cd9d3060a429f8ab12ff84262ac8d9d92ddc",
-          "title": "Kimi Code 桌面客户端上线：macOS 与 Windows 同步开放",
-          "title_zh": "Kimi Code 桌面客户端上线：macOS 与 Windows 同步开放",
+          "id": "1659a096004845fb17ae234e2b186092ad808ecc",
+          "title": "Anthropic与字节扎堆AI制药，下一个Coding风口卡在了数据这道坎上",
+          "title_zh": "Anthropic与字节扎堆AI制药，下一个Coding风口卡在了数据这道坎上",
           "title_en": null,
-          "title_original": "Kimi Code 桌面客户端上线：macOS 与 Windows 同步开放",
+          "title_original": "Anthropic与字节扎堆AI制药，下一个Coding风口卡在了数据这道坎上",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/31237",
+          "url": "https://www.aibase.com/news/31241",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-09-21T08:47:36.404522Z"
+          "published_at": "2026-09-21T09:47:24.989007Z"
         }
       ],
       "item_count": 1,
@@ -403,17 +403,17 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-09-21T08:47:36.404522Z",
-      "latest_at": "2026-09-21T08:47:36.404522Z",
+      "earliest_at": "2026-09-21T09:47:24.989007Z",
+      "latest_at": "2026-09-21T09:47:24.989007Z",
       "primary_item": {
-        "id": "3640cd9d3060a429f8ab12ff84262ac8d9d92ddc",
-        "title": "Kimi Code 桌面客户端上线：macOS 与 Windows 同步开放",
-        "title_zh": "Kimi Code 桌面客户端上线：macOS 与 Windows 同步开放",
+        "id": "1659a096004845fb17ae234e2b186092ad808ecc",
+        "title": "Anthropic与字节扎堆AI制药，下一个Coding风口卡在了数据这道坎上",
+        "title_zh": "Anthropic与字节扎堆AI制药，下一个Coding风口卡在了数据这道坎上",
         "title_en": null,
-        "title_original": "Kimi Code 桌面客户端上线：macOS 与 Windows 同步开放",
+        "title_original": "Anthropic与字节扎堆AI制药，下一个Coding风口卡在了数据这道坎上",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/31237",
+        "url": "https://www.aibase.com/news/31241",
         "source": "AIbase",
         "source_name": "AIbase"
       },
@@ -421,7 +421,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-21T08:58:25.956044Z"
+        "scored_at": "2026-09-21T09:48:27.883531Z"
       }
     },
     {
@@ -469,15 +469,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7623,
-      "importance": 0.7623,
-      "importance_score": 0.7623,
+      "score": 0.7598,
+      "importance": 0.7598,
+      "importance_score": 0.7598,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.71,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9873,
+        "recency": 0.9732,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -503,7 +503,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-21T08:58:25.956044Z"
+        "scored_at": "2026-09-21T09:48:27.883531Z"
       }
     },
     {
@@ -551,15 +551,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.756,
-      "importance": 0.756,
-      "importance_score": 0.756,
+      "score": 0.7538,
+      "importance": 0.7538,
+      "importance_score": 0.7538,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.78,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8355,
+        "recency": 0.8236,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -585,7 +585,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-21T08:58:25.956044Z"
+        "scored_at": "2026-09-21T09:48:27.883531Z"
       }
     },
     {
@@ -633,15 +633,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7438,
-      "importance": 0.7438,
-      "importance_score": 0.7438,
+      "score": 0.7414,
+      "importance": 0.7414,
+      "importance_score": 0.7414,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.69,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9177,
+        "recency": 0.9046,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -666,30 +666,30 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-21T08:58:25.956044Z"
+        "scored_at": "2026-09-21T09:48:27.883531Z"
       }
     },
     {
-      "story_id": "story_c3b75295ed35",
-      "title": "法国兴业银行押注 AI：预计最多省下 6 亿欧元成本",
-      "url": "https://www.aibase.com/news/31238",
-      "primary_url": "https://www.aibase.com/news/31238",
+      "story_id": "story_2e1912071185",
+      "title": "微软花 12 万美元让 AI 重写 Copilot 运行时：43 万行 TS 变 80 万行 Rust，快 15.9 倍",
+      "url": "https://www.aibase.com/news/31240",
+      "primary_url": "https://www.aibase.com/news/31240",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "c13bce901efc0375769d7bbc9909833cb32087d4",
-          "title": "法国兴业银行押注 AI：预计最多省下 6 亿欧元成本",
-          "title_zh": "法国兴业银行押注 AI：预计最多省下 6 亿欧元成本",
+          "id": "749e770d05615b34278e234511bee1d1d638c41f",
+          "title": "微软花 12 万美元让 AI 重写 Copilot 运行时：43 万行 TS 变 80 万行 Rust，快 15.9 倍",
+          "title_zh": "微软花 12 万美元让 AI 重写 Copilot 运行时：43 万行 TS 变 80 万行 Rust，快 15.9 倍",
           "title_en": null,
-          "title_original": "法国兴业银行押注 AI：预计最多省下 6 亿欧元成本",
+          "title_original": "微软花 12 万美元让 AI 重写 Copilot 运行时：43 万行 TS 变 80 万行 Rust，快 15.9 倍",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/31238",
+          "url": "https://www.aibase.com/news/31240",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-09-21T08:47:36.404522Z"
+          "published_at": "2026-09-21T09:47:24.989007Z"
         }
       ],
       "source_count": 1,
@@ -698,18 +698,18 @@
       ],
       "items": [
         {
-          "id": "c13bce901efc0375769d7bbc9909833cb32087d4",
-          "title": "法国兴业银行押注 AI：预计最多省下 6 亿欧元成本",
-          "title_zh": "法国兴业银行押注 AI：预计最多省下 6 亿欧元成本",
+          "id": "749e770d05615b34278e234511bee1d1d638c41f",
+          "title": "微软花 12 万美元让 AI 重写 Copilot 运行时：43 万行 TS 变 80 万行 Rust，快 15.9 倍",
+          "title_zh": "微软花 12 万美元让 AI 重写 Copilot 运行时：43 万行 TS 变 80 万行 Rust，快 15.9 倍",
           "title_en": null,
-          "title_original": "法国兴业银行押注 AI：预计最多省下 6 亿欧元成本",
+          "title_original": "微软花 12 万美元让 AI 重写 Copilot 运行时：43 万行 TS 变 80 万行 Rust，快 15.9 倍",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/31238",
+          "url": "https://www.aibase.com/news/31240",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-09-21T08:47:36.404522Z"
+          "published_at": "2026-09-21T09:47:24.989007Z"
         }
       ],
       "item_count": 1,
@@ -730,17 +730,17 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-09-21T08:47:36.404522Z",
-      "latest_at": "2026-09-21T08:47:36.404522Z",
+      "earliest_at": "2026-09-21T09:47:24.989007Z",
+      "latest_at": "2026-09-21T09:47:24.989007Z",
       "primary_item": {
-        "id": "c13bce901efc0375769d7bbc9909833cb32087d4",
-        "title": "法国兴业银行押注 AI：预计最多省下 6 亿欧元成本",
-        "title_zh": "法国兴业银行押注 AI：预计最多省下 6 亿欧元成本",
+        "id": "749e770d05615b34278e234511bee1d1d638c41f",
+        "title": "微软花 12 万美元让 AI 重写 Copilot 运行时：43 万行 TS 变 80 万行 Rust，快 15.9 倍",
+        "title_zh": "微软花 12 万美元让 AI 重写 Copilot 运行时：43 万行 TS 变 80 万行 Rust，快 15.9 倍",
         "title_en": null,
-        "title_original": "法国兴业银行押注 AI：预计最多省下 6 亿欧元成本",
+        "title_original": "微软花 12 万美元让 AI 重写 Copilot 运行时：43 万行 TS 变 80 万行 Rust，快 15.9 倍",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/31238",
+        "url": "https://www.aibase.com/news/31240",
         "source": "AIbase",
         "source_name": "AIbase"
       },
@@ -748,7 +748,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-21T08:58:25.956044Z"
+        "scored_at": "2026-09-21T09:48:27.883531Z"
       }
     },
     {
@@ -796,15 +796,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7325,
-      "importance": 0.7325,
-      "importance_score": 0.7325,
+      "score": 0.7302,
+      "importance": 0.7302,
+      "importance_score": 0.7302,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.66,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.905,
+        "recency": 0.8921,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -829,7 +829,253 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-21T08:58:25.956044Z"
+        "scored_at": "2026-09-21T09:48:27.883531Z"
+      }
+    },
+    {
+      "story_id": "story_92c2485576ea",
+      "title": "月之暗面推出Kimi Code Desktop桌面端，把AI编程Agent直接搬上macOS和Windows",
+      "url": "https://www.aibase.com/news/31239",
+      "primary_url": "https://www.aibase.com/news/31239",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "2837ab12cb645a3824255bffbad285d3e37c3619",
+          "title": "月之暗面推出Kimi Code Desktop桌面端，把AI编程Agent直接搬上macOS和Windows",
+          "title_zh": "月之暗面推出Kimi Code Desktop桌面端，把AI编程Agent直接搬上macOS和Windows",
+          "title_en": null,
+          "title_original": "月之暗面推出Kimi Code Desktop桌面端，把AI编程Agent直接搬上macOS和Windows",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/31239",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-09-21T09:47:24.989007Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "2837ab12cb645a3824255bffbad285d3e37c3619",
+          "title": "月之暗面推出Kimi Code Desktop桌面端，把AI编程Agent直接搬上macOS和Windows",
+          "title_zh": "月之暗面推出Kimi Code Desktop桌面端，把AI编程Agent直接搬上macOS和Windows",
+          "title_en": null,
+          "title_original": "月之暗面推出Kimi Code Desktop桌面端，把AI编程Agent直接搬上macOS和Windows",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/31239",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-09-21T09:47:24.989007Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7676,
+      "importance": 0.7676,
+      "importance_score": 0.7676,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-21T09:47:24.989007Z",
+      "latest_at": "2026-09-21T09:47:24.989007Z",
+      "primary_item": {
+        "id": "2837ab12cb645a3824255bffbad285d3e37c3619",
+        "title": "月之暗面推出Kimi Code Desktop桌面端，把AI编程Agent直接搬上macOS和Windows",
+        "title_zh": "月之暗面推出Kimi Code Desktop桌面端，把AI编程Agent直接搬上macOS和Windows",
+        "title_en": null,
+        "title_original": "月之暗面推出Kimi Code Desktop桌面端，把AI编程Agent直接搬上macOS和Windows",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://www.aibase.com/news/31239",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-09-21T09:48:27.883531Z"
+      }
+    },
+    {
+      "story_id": "story_90a54adf640f",
+      "title": "Kimi Code 桌面客户端上线：macOS 与 Windows 同步开放",
+      "url": "https://www.aibase.com/news/31237",
+      "primary_url": "https://www.aibase.com/news/31237",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "3640cd9d3060a429f8ab12ff84262ac8d9d92ddc",
+          "title": "Kimi Code 桌面客户端上线：macOS 与 Windows 同步开放",
+          "title_zh": "Kimi Code 桌面客户端上线：macOS 与 Windows 同步开放",
+          "title_en": null,
+          "title_original": "Kimi Code 桌面客户端上线：macOS 与 Windows 同步开放",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/31237",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-09-21T08:47:36.404522Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "3640cd9d3060a429f8ab12ff84262ac8d9d92ddc",
+          "title": "Kimi Code 桌面客户端上线：macOS 与 Windows 同步开放",
+          "title_zh": "Kimi Code 桌面客户端上线：macOS 与 Windows 同步开放",
+          "title_en": null,
+          "title_original": "Kimi Code 桌面客户端上线：macOS 与 Windows 同步开放",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/31237",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-09-21T08:47:36.404522Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.765,
+      "importance": 0.765,
+      "importance_score": 0.765,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9857,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-21T08:47:36.404522Z",
+      "latest_at": "2026-09-21T08:47:36.404522Z",
+      "primary_item": {
+        "id": "3640cd9d3060a429f8ab12ff84262ac8d9d92ddc",
+        "title": "Kimi Code 桌面客户端上线：macOS 与 Windows 同步开放",
+        "title_zh": "Kimi Code 桌面客户端上线：macOS 与 Windows 同步开放",
+        "title_en": null,
+        "title_original": "Kimi Code 桌面客户端上线：macOS 与 Windows 同步开放",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://www.aibase.com/news/31237",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-09-21T09:48:27.883531Z"
+      }
+    },
+    {
+      "story_id": "story_c3b75295ed35",
+      "title": "法国兴业银行押注 AI：预计最多省下 6 亿欧元成本",
+      "url": "https://www.aibase.com/news/31238",
+      "primary_url": "https://www.aibase.com/news/31238",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "c13bce901efc0375769d7bbc9909833cb32087d4",
+          "title": "法国兴业银行押注 AI：预计最多省下 6 亿欧元成本",
+          "title_zh": "法国兴业银行押注 AI：预计最多省下 6 亿欧元成本",
+          "title_en": null,
+          "title_original": "法国兴业银行押注 AI：预计最多省下 6 亿欧元成本",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/31238",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-09-21T08:47:36.404522Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "c13bce901efc0375769d7bbc9909833cb32087d4",
+          "title": "法国兴业银行押注 AI：预计最多省下 6 亿欧元成本",
+          "title_zh": "法国兴业银行押注 AI：预计最多省下 6 亿欧元成本",
+          "title_en": null,
+          "title_original": "法国兴业银行押注 AI：预计最多省下 6 亿欧元成本",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/31238",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-09-21T08:47:36.404522Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.765,
+      "importance": 0.765,
+      "importance_score": 0.765,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9857,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-21T08:47:36.404522Z",
+      "latest_at": "2026-09-21T08:47:36.404522Z",
+      "primary_item": {
+        "id": "c13bce901efc0375769d7bbc9909833cb32087d4",
+        "title": "法国兴业银行押注 AI：预计最多省下 6 亿欧元成本",
+        "title_zh": "法国兴业银行押注 AI：预计最多省下 6 亿欧元成本",
+        "title_en": null,
+        "title_original": "法国兴业银行押注 AI：预计最多省下 6 亿欧元成本",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://www.aibase.com/news/31238",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-09-21T09:48:27.883531Z"
       }
     },
     {
@@ -877,15 +1123,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.765,
-      "importance": 0.765,
-      "importance_score": 0.765,
+      "score": 0.7625,
+      "importance": 0.7625,
+      "importance_score": 0.7625,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9856,
+        "recency": 0.9715,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -911,253 +1157,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-21T08:58:25.956044Z"
-      }
-    },
-    {
-      "story_id": "story_d6fca3542f8f",
-      "title": "Claude Opus 5.5 已在内测：连跳两级直逼 GPT-6，价格还打骨折",
-      "url": "https://www.aibase.com/news/31232",
-      "primary_url": "https://www.aibase.com/news/31232",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "f9dc62836aace206bfaa30cd27980698c24d1644",
-          "title": "Claude Opus 5.5 已在内测：连跳两级直逼 GPT-6，价格还打骨折",
-          "title_zh": "Claude Opus 5.5 已在内测：连跳两级直逼 GPT-6，价格还打骨折",
-          "title_en": null,
-          "title_original": "Claude Opus 5.5 已在内测：连跳两级直逼 GPT-6，价格还打骨折",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/31232",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-09-21T07:47:19.080705Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "f9dc62836aace206bfaa30cd27980698c24d1644",
-          "title": "Claude Opus 5.5 已在内测：连跳两级直逼 GPT-6，价格还打骨折",
-          "title_zh": "Claude Opus 5.5 已在内测：连跳两级直逼 GPT-6，价格还打骨折",
-          "title_en": null,
-          "title_original": "Claude Opus 5.5 已在内测：连跳两级直逼 GPT-6，价格还打骨折",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/31232",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-09-21T07:47:19.080705Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.765,
-      "importance": 0.765,
-      "importance_score": 0.765,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.9856,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-21T07:47:19.080705Z",
-      "latest_at": "2026-09-21T07:47:19.080705Z",
-      "primary_item": {
-        "id": "f9dc62836aace206bfaa30cd27980698c24d1644",
-        "title": "Claude Opus 5.5 已在内测：连跳两级直逼 GPT-6，价格还打骨折",
-        "title_zh": "Claude Opus 5.5 已在内测：连跳两级直逼 GPT-6，价格还打骨折",
-        "title_en": null,
-        "title_original": "Claude Opus 5.5 已在内测：连跳两级直逼 GPT-6，价格还打骨折",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/31232",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-09-21T08:58:25.956044Z"
-      }
-    },
-    {
-      "story_id": "story_f9d9f69efbad",
-      "title": "开发者实锤OpenAI广告追踪链条：ChatGPT账号正悄悄绑定你的全网浏览足迹",
-      "url": "https://www.aibase.com/news/31234",
-      "primary_url": "https://www.aibase.com/news/31234",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "4905e79a756ec9f225547c1bb9f60b6ec2685b50",
-          "title": "开发者实锤OpenAI广告追踪链条：ChatGPT账号正悄悄绑定你的全网浏览足迹",
-          "title_zh": "开发者实锤OpenAI广告追踪链条：ChatGPT账号正悄悄绑定你的全网浏览足迹",
-          "title_en": null,
-          "title_original": "开发者实锤OpenAI广告追踪链条：ChatGPT账号正悄悄绑定你的全网浏览足迹",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/31234",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-09-21T07:47:19.080705Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "4905e79a756ec9f225547c1bb9f60b6ec2685b50",
-          "title": "开发者实锤OpenAI广告追踪链条：ChatGPT账号正悄悄绑定你的全网浏览足迹",
-          "title_zh": "开发者实锤OpenAI广告追踪链条：ChatGPT账号正悄悄绑定你的全网浏览足迹",
-          "title_en": null,
-          "title_original": "开发者实锤OpenAI广告追踪链条：ChatGPT账号正悄悄绑定你的全网浏览足迹",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/31234",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-09-21T07:47:19.080705Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.765,
-      "importance": 0.765,
-      "importance_score": 0.765,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.9856,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-21T07:47:19.080705Z",
-      "latest_at": "2026-09-21T07:47:19.080705Z",
-      "primary_item": {
-        "id": "4905e79a756ec9f225547c1bb9f60b6ec2685b50",
-        "title": "开发者实锤OpenAI广告追踪链条：ChatGPT账号正悄悄绑定你的全网浏览足迹",
-        "title_zh": "开发者实锤OpenAI广告追踪链条：ChatGPT账号正悄悄绑定你的全网浏览足迹",
-        "title_en": null,
-        "title_original": "开发者实锤OpenAI广告追踪链条：ChatGPT账号正悄悄绑定你的全网浏览足迹",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/31234",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-09-21T08:58:25.956044Z"
-      }
-    },
-    {
-      "story_id": "story_c3936f5cf99f",
-      "title": "百度文库网盘宣布AI办公出海，库库AI全球月活超4000万",
-      "url": "https://www.aibase.com/news/31236",
-      "primary_url": "https://www.aibase.com/news/31236",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "347b285ee3b2634946f60950a426ce43abf8850d",
-          "title": "百度文库网盘宣布AI办公出海，库库AI全球月活超4000万",
-          "title_zh": "百度文库网盘宣布AI办公出海，库库AI全球月活超4000万",
-          "title_en": null,
-          "title_original": "百度文库网盘宣布AI办公出海，库库AI全球月活超4000万",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/31236",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-09-21T07:47:19.080705Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "347b285ee3b2634946f60950a426ce43abf8850d",
-          "title": "百度文库网盘宣布AI办公出海，库库AI全球月活超4000万",
-          "title_zh": "百度文库网盘宣布AI办公出海，库库AI全球月活超4000万",
-          "title_en": null,
-          "title_original": "百度文库网盘宣布AI办公出海，库库AI全球月活超4000万",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/31236",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-09-21T07:47:19.080705Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.765,
-      "importance": 0.765,
-      "importance_score": 0.765,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.9856,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-21T07:47:19.080705Z",
-      "latest_at": "2026-09-21T07:47:19.080705Z",
-      "primary_item": {
-        "id": "347b285ee3b2634946f60950a426ce43abf8850d",
-        "title": "百度文库网盘宣布AI办公出海，库库AI全球月活超4000万",
-        "title_zh": "百度文库网盘宣布AI办公出海，库库AI全球月活超4000万",
-        "title_en": null,
-        "title_original": "百度文库网盘宣布AI办公出海，库库AI全球月活超4000万",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/31236",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-09-21T08:58:25.956044Z"
+        "scored_at": "2026-09-21T09:48:27.883531Z"
       }
     },
     {
@@ -1198,8 +1198,8 @@
         },
         {
           "id": "bf420e078f94036ff7501edd85d2459e390cdd8d",
-          "title": "MCP was always a bad idea?",
-          "title_zh": null,
+          "title": "MCP 总是一个坏主意？ / MCP was always a bad idea?",
+          "title_zh": "MCP 总是一个坏主意？",
           "title_en": "MCP was always a bad idea?",
           "title_original": "MCP was always a bad idea?",
           "summary": null,
@@ -1263,8 +1263,8 @@
         },
         {
           "id": "bf420e078f94036ff7501edd85d2459e390cdd8d",
-          "title": "MCP was always a bad idea?",
-          "title_zh": null,
+          "title": "MCP 总是一个坏主意？ / MCP was always a bad idea?",
+          "title_zh": "MCP 总是一个坏主意？",
           "title_en": "MCP was always a bad idea?",
           "title_original": "MCP was always a bad idea?",
           "summary": null,
@@ -1292,15 +1292,15 @@
       ],
       "item_count": 4,
       "duplicate_count": 4,
-      "score": 0.5898,
-      "importance": 0.5898,
-      "importance_score": 0.5898,
+      "score": 0.5873,
+      "importance": 0.5873,
+      "importance_score": 0.5873,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9668,
+        "recency": 0.953,
         "story_heat": 0.75
       },
       "category": "multi_source",
@@ -1325,26 +1325,26 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-21T08:58:25.956044Z"
+        "scored_at": "2026-09-21T09:48:27.883531Z"
       }
     },
     {
-      "story_id": "story_f485ddd18b49",
-      "title": "阿里换帅Qwen团队：刘大一恒接掌通义千问大模型，云栖大会前亮相",
-      "url": "https://www.aibase.com/news/31233",
-      "primary_url": "https://www.aibase.com/news/31233",
+      "story_id": "story_d6fca3542f8f",
+      "title": "Claude Opus 5.5 已在内测：连跳两级直逼 GPT-6，价格还打骨折",
+      "url": "https://www.aibase.com/news/31232",
+      "primary_url": "https://www.aibase.com/news/31232",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "c99022a8e711302a8fe0c74a40c171dfdb418003",
-          "title": "阿里换帅Qwen团队：刘大一恒接掌通义千问大模型，云栖大会前亮相",
-          "title_zh": "阿里换帅Qwen团队：刘大一恒接掌通义千问大模型，云栖大会前亮相",
+          "id": "f9dc62836aace206bfaa30cd27980698c24d1644",
+          "title": "Claude Opus 5.5 已在内测：连跳两级直逼 GPT-6，价格还打骨折",
+          "title_zh": "Claude Opus 5.5 已在内测：连跳两级直逼 GPT-6，价格还打骨折",
           "title_en": null,
-          "title_original": "阿里换帅Qwen团队：刘大一恒接掌通义千问大模型，云栖大会前亮相",
+          "title_original": "Claude Opus 5.5 已在内测：连跳两级直逼 GPT-6，价格还打骨折",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/31233",
+          "url": "https://www.aibase.com/news/31232",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
@@ -1357,14 +1357,14 @@
       ],
       "items": [
         {
-          "id": "c99022a8e711302a8fe0c74a40c171dfdb418003",
-          "title": "阿里换帅Qwen团队：刘大一恒接掌通义千问大模型，云栖大会前亮相",
-          "title_zh": "阿里换帅Qwen团队：刘大一恒接掌通义千问大模型，云栖大会前亮相",
+          "id": "f9dc62836aace206bfaa30cd27980698c24d1644",
+          "title": "Claude Opus 5.5 已在内测：连跳两级直逼 GPT-6，价格还打骨折",
+          "title_zh": "Claude Opus 5.5 已在内测：连跳两级直逼 GPT-6，价格还打骨折",
           "title_en": null,
-          "title_original": "阿里换帅Qwen团队：刘大一恒接掌通义千问大模型，云栖大会前亮相",
+          "title_original": "Claude Opus 5.5 已在内测：连跳两级直逼 GPT-6，价格还打骨折",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/31233",
+          "url": "https://www.aibase.com/news/31232",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
@@ -1373,15 +1373,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.765,
-      "importance": 0.765,
-      "importance_score": 0.765,
+      "score": 0.7625,
+      "importance": 0.7625,
+      "importance_score": 0.7625,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9856,
+        "recency": 0.9715,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1392,14 +1392,14 @@
       "earliest_at": "2026-09-21T07:47:19.080705Z",
       "latest_at": "2026-09-21T07:47:19.080705Z",
       "primary_item": {
-        "id": "c99022a8e711302a8fe0c74a40c171dfdb418003",
-        "title": "阿里换帅Qwen团队：刘大一恒接掌通义千问大模型，云栖大会前亮相",
-        "title_zh": "阿里换帅Qwen团队：刘大一恒接掌通义千问大模型，云栖大会前亮相",
+        "id": "f9dc62836aace206bfaa30cd27980698c24d1644",
+        "title": "Claude Opus 5.5 已在内测：连跳两级直逼 GPT-6，价格还打骨折",
+        "title_zh": "Claude Opus 5.5 已在内测：连跳两级直逼 GPT-6，价格还打骨折",
         "title_en": null,
-        "title_original": "阿里换帅Qwen团队：刘大一恒接掌通义千问大模型，云栖大会前亮相",
+        "title_original": "Claude Opus 5.5 已在内测：连跳两级直逼 GPT-6，价格还打骨折",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/31233",
+        "url": "https://www.aibase.com/news/31232",
         "source": "AIbase",
         "source_name": "AIbase"
       },
@@ -1407,7 +1407,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-21T08:58:25.956044Z"
+        "scored_at": "2026-09-21T09:48:27.883531Z"
       }
     },
     {
@@ -1483,15 +1483,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5826,
-      "importance": 0.5826,
-      "importance_score": 0.5826,
+      "score": 0.5805,
+      "importance": 0.5805,
+      "importance_score": 0.5805,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.4896,
         "source_tier": 0.58,
         "ai_relevance": 0.68,
-        "recency": 0.8175,
+        "recency": 0.8058,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1516,30 +1516,30 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-21T08:58:25.956044Z"
+        "scored_at": "2026-09-21T09:48:27.883531Z"
       }
     },
     {
-      "story_id": "story_214d4d19f8d1",
-      "title": "Siri AI 和解开放申请：符合条件的美国 iPhone 用户每台可领 25 美元",
-      "url": "https://www.aibase.com/news/31228",
-      "primary_url": "https://www.aibase.com/news/31228",
+      "story_id": "story_f9d9f69efbad",
+      "title": "开发者实锤OpenAI广告追踪链条：ChatGPT账号正悄悄绑定你的全网浏览足迹",
+      "url": "https://www.aibase.com/news/31234",
+      "primary_url": "https://www.aibase.com/news/31234",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "c03a6f692ec6e1e2ac3dd4e0046559506d369f27",
-          "title": "Siri AI 和解开放申请：符合条件的美国 iPhone 用户每台可领 25 美元",
-          "title_zh": "Siri AI 和解开放申请：符合条件的美国 iPhone 用户每台可领 25 美元",
+          "id": "4905e79a756ec9f225547c1bb9f60b6ec2685b50",
+          "title": "开发者实锤OpenAI广告追踪链条：ChatGPT账号正悄悄绑定你的全网浏览足迹",
+          "title_zh": "开发者实锤OpenAI广告追踪链条：ChatGPT账号正悄悄绑定你的全网浏览足迹",
           "title_en": null,
-          "title_original": "Siri AI 和解开放申请：符合条件的美国 iPhone 用户每台可领 25 美元",
+          "title_original": "开发者实锤OpenAI广告追踪链条：ChatGPT账号正悄悄绑定你的全网浏览足迹",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/31228",
+          "url": "https://www.aibase.com/news/31234",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-09-21T06:47:19.251611Z"
+          "published_at": "2026-09-21T07:47:19.080705Z"
         }
       ],
       "source_count": 1,
@@ -1548,18 +1548,18 @@
       ],
       "items": [
         {
-          "id": "c03a6f692ec6e1e2ac3dd4e0046559506d369f27",
-          "title": "Siri AI 和解开放申请：符合条件的美国 iPhone 用户每台可领 25 美元",
-          "title_zh": "Siri AI 和解开放申请：符合条件的美国 iPhone 用户每台可领 25 美元",
+          "id": "4905e79a756ec9f225547c1bb9f60b6ec2685b50",
+          "title": "开发者实锤OpenAI广告追踪链条：ChatGPT账号正悄悄绑定你的全网浏览足迹",
+          "title_zh": "开发者实锤OpenAI广告追踪链条：ChatGPT账号正悄悄绑定你的全网浏览足迹",
           "title_en": null,
-          "title_original": "Siri AI 和解开放申请：符合条件的美国 iPhone 用户每台可领 25 美元",
+          "title_original": "开发者实锤OpenAI广告追踪链条：ChatGPT账号正悄悄绑定你的全网浏览足迹",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/31228",
+          "url": "https://www.aibase.com/news/31234",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-09-21T06:47:19.251611Z"
+          "published_at": "2026-09-21T07:47:19.080705Z"
         }
       ],
       "item_count": 1,
@@ -1580,17 +1580,17 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-09-21T06:47:19.251611Z",
-      "latest_at": "2026-09-21T06:47:19.251611Z",
+      "earliest_at": "2026-09-21T07:47:19.080705Z",
+      "latest_at": "2026-09-21T07:47:19.080705Z",
       "primary_item": {
-        "id": "c03a6f692ec6e1e2ac3dd4e0046559506d369f27",
-        "title": "Siri AI 和解开放申请：符合条件的美国 iPhone 用户每台可领 25 美元",
-        "title_zh": "Siri AI 和解开放申请：符合条件的美国 iPhone 用户每台可领 25 美元",
+        "id": "4905e79a756ec9f225547c1bb9f60b6ec2685b50",
+        "title": "开发者实锤OpenAI广告追踪链条：ChatGPT账号正悄悄绑定你的全网浏览足迹",
+        "title_zh": "开发者实锤OpenAI广告追踪链条：ChatGPT账号正悄悄绑定你的全网浏览足迹",
         "title_en": null,
-        "title_original": "Siri AI 和解开放申请：符合条件的美国 iPhone 用户每台可领 25 美元",
+        "title_original": "开发者实锤OpenAI广告追踪链条：ChatGPT账号正悄悄绑定你的全网浏览足迹",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/31228",
+        "url": "https://www.aibase.com/news/31234",
         "source": "AIbase",
         "source_name": "AIbase"
       },
@@ -1598,12 +1598,12 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-21T08:58:25.956044Z"
+        "scored_at": "2026-09-21T09:48:27.883531Z"
       }
     },
     {
       "story_id": "story_a174f956e836",
-      "title": "In September, AI generated code has made up 17.25% of all Linux Kernel patches",
+      "title": "9 月份，AI 生成的代码占所有 Linux 内核补丁的 17.25% / In September, AI generated code has made up 17.25% of all Linux Kernel patches",
       "url": "https://twitter.com/LundukeJournal/status/2101841277432070210",
       "primary_url": "https://twitter.com/LundukeJournal/status/2101841277432070210",
       "source": "Hacker News (黑客新闻)",
@@ -1611,8 +1611,8 @@
       "sources": [
         {
           "id": "c46950eb4d577031047fe029fd3e6e18d2f7f524",
-          "title": "In September, AI generated code has made up 17.25% of all Linux Kernel patches",
-          "title_zh": null,
+          "title": "9 月份，AI 生成的代码占所有 Linux 内核补丁的 17.25% / In September, AI generated code has made up 17.25% of all Linux Kernel patches",
+          "title_zh": "9 月份，AI 生成的代码占所有 Linux 内核补丁的 17.25%",
           "title_en": "In September, AI generated code has made up 17.25% of all Linux Kernel patches",
           "title_original": "In September, AI generated code has made up 17.25% of all Linux Kernel patches",
           "summary": null,
@@ -1625,8 +1625,8 @@
         },
         {
           "id": "4cf847b3f03758828dcfffa050817f5a3b92f563",
-          "title": "In September, AI generated code has made up 17.25% of all Linux Kernel patches",
-          "title_zh": null,
+          "title": "9 月份，AI 生成的代码占所有 Linux 内核补丁的 17.25% / In September, AI generated code has made up 17.25% of all Linux Kernel patches",
+          "title_zh": "9 月份，AI 生成的代码占所有 Linux 内核补丁的 17.25%",
           "title_en": "In September, AI generated code has made up 17.25% of all Linux Kernel patches",
           "title_original": "In September, AI generated code has made up 17.25% of all Linux Kernel patches",
           "summary": null,
@@ -1646,8 +1646,8 @@
       "items": [
         {
           "id": "c46950eb4d577031047fe029fd3e6e18d2f7f524",
-          "title": "In September, AI generated code has made up 17.25% of all Linux Kernel patches",
-          "title_zh": null,
+          "title": "9 月份，AI 生成的代码占所有 Linux 内核补丁的 17.25% / In September, AI generated code has made up 17.25% of all Linux Kernel patches",
+          "title_zh": "9 月份，AI 生成的代码占所有 Linux 内核补丁的 17.25%",
           "title_en": "In September, AI generated code has made up 17.25% of all Linux Kernel patches",
           "title_original": "In September, AI generated code has made up 17.25% of all Linux Kernel patches",
           "summary": null,
@@ -1660,8 +1660,8 @@
         },
         {
           "id": "4cf847b3f03758828dcfffa050817f5a3b92f563",
-          "title": "In September, AI generated code has made up 17.25% of all Linux Kernel patches",
-          "title_zh": null,
+          "title": "9 月份，AI 生成的代码占所有 Linux 内核补丁的 17.25% / In September, AI generated code has made up 17.25% of all Linux Kernel patches",
+          "title_zh": "9 月份，AI 生成的代码占所有 Linux 内核补丁的 17.25%",
           "title_en": "In September, AI generated code has made up 17.25% of all Linux Kernel patches",
           "title_original": "In September, AI generated code has made up 17.25% of all Linux Kernel patches",
           "summary": null,
@@ -1675,15 +1675,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5437,
-      "importance": 0.5437,
-      "importance_score": 0.5437,
+      "score": 0.5412,
+      "importance": 0.5412,
+      "importance_score": 0.5412,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9884,
+        "recency": 0.9743,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1694,8 +1694,8 @@
       "latest_at": "2026-09-21T07:59:18Z",
       "primary_item": {
         "id": "c46950eb4d577031047fe029fd3e6e18d2f7f524",
-        "title": "In September, AI generated code has made up 17.25% of all Linux Kernel patches",
-        "title_zh": null,
+        "title": "9 月份，AI 生成的代码占所有 Linux 内核补丁的 17.25% / In September, AI generated code has made up 17.25% of all Linux Kernel patches",
+        "title_zh": "9 月份，AI 生成的代码占所有 Linux 内核补丁的 17.25%",
         "title_en": "In September, AI generated code has made up 17.25% of all Linux Kernel patches",
         "title_original": "In September, AI generated code has made up 17.25% of all Linux Kernel patches",
         "summary": null,
@@ -1708,7 +1708,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-21T08:58:25.956044Z"
+        "scored_at": "2026-09-21T09:48:27.883531Z"
       }
     },
     {
@@ -1814,15 +1814,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5342,
-      "importance": 0.5342,
-      "importance_score": 0.5342,
+      "score": 0.5322,
+      "importance": 0.5322,
+      "importance_score": 0.5322,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7967,
+        "recency": 0.7853,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1847,7 +1847,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-21T08:58:25.956044Z"
+        "scored_at": "2026-09-21T09:48:27.883531Z"
       }
     },
     {
@@ -1924,15 +1924,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5292,
-      "importance": 0.5292,
-      "importance_score": 0.5292,
+      "score": 0.5269,
+      "importance": 0.5269,
+      "importance_score": 0.5269,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9078,
+        "recency": 0.8948,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1957,7 +1957,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-21T08:58:25.956044Z"
+        "scored_at": "2026-09-21T09:48:27.883531Z"
       }
     },
     {
@@ -2063,15 +2063,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5257,
-      "importance": 0.5257,
-      "importance_score": 0.5257,
+      "score": 0.5238,
+      "importance": 0.5238,
+      "importance_score": 0.5238,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7496,
+        "recency": 0.7389,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -2096,7 +2096,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-21T08:58:25.956044Z"
+        "scored_at": "2026-09-21T09:48:27.883531Z"
       }
     }
   ]
