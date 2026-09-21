@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-21T07:47:19.080705Z",
+  "generated_at": "2026-09-21T08:47:36.404522Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -135,15 +135,15 @@
       ],
       "item_count": 4,
       "duplicate_count": 4,
-      "score": 0.8223,
-      "importance": 0.8223,
-      "importance_score": 0.8223,
+      "score": 0.8202,
+      "importance": 0.8202,
+      "importance_score": 0.8202,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.76,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8206,
+        "recency": 0.8087,
         "story_heat": 0.75
       },
       "category": "multi_source",
@@ -170,7 +170,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-21T07:56:40.933869Z"
+        "scored_at": "2026-09-21T08:58:25.956044Z"
       }
     },
     {
@@ -304,15 +304,15 @@
       ],
       "item_count": 4,
       "duplicate_count": 4,
-      "score": 0.7979,
-      "importance": 0.7979,
-      "importance_score": 0.7979,
+      "score": 0.7959,
+      "importance": 0.7959,
+      "importance_score": 0.7959,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7514,
+        "recency": 0.7406,
         "story_heat": 0.75
       },
       "category": "multi_source",
@@ -339,30 +339,30 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-21T07:56:40.933869Z"
+        "scored_at": "2026-09-21T08:58:25.956044Z"
       }
     },
     {
-      "story_id": "story_02e8ffac48ba",
-      "title": "Claude Opus 5. 5 疑遭内测泄露：跳级直冲GPT-6，百万Token价格腰斩至 4 美元",
-      "url": "https://www.aibase.com/news/31231",
-      "primary_url": "https://www.aibase.com/news/31231",
+      "story_id": "story_90a54adf640f",
+      "title": "Kimi Code 桌面客户端上线：macOS 与 Windows 同步开放",
+      "url": "https://www.aibase.com/news/31237",
+      "primary_url": "https://www.aibase.com/news/31237",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "f1528efce967282e3ffc899eb06e10ffa20c90eb",
-          "title": "Claude Opus 5. 5 疑遭内测泄露：跳级直冲GPT-6，百万Token价格腰斩至 4 美元",
-          "title_zh": "Claude Opus 5. 5 疑遭内测泄露：跳级直冲GPT-6，百万Token价格腰斩至 4 美元",
+          "id": "3640cd9d3060a429f8ab12ff84262ac8d9d92ddc",
+          "title": "Kimi Code 桌面客户端上线：macOS 与 Windows 同步开放",
+          "title_zh": "Kimi Code 桌面客户端上线：macOS 与 Windows 同步开放",
           "title_en": null,
-          "title_original": "Claude Opus 5. 5 疑遭内测泄露：跳级直冲GPT-6，百万Token价格腰斩至 4 美元",
+          "title_original": "Kimi Code 桌面客户端上线：macOS 与 Windows 同步开放",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/31231",
+          "url": "https://www.aibase.com/news/31237",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-09-21T07:47:19.080705Z"
+          "published_at": "2026-09-21T08:47:36.404522Z"
         }
       ],
       "source_count": 1,
@@ -371,18 +371,18 @@
       ],
       "items": [
         {
-          "id": "f1528efce967282e3ffc899eb06e10ffa20c90eb",
-          "title": "Claude Opus 5. 5 疑遭内测泄露：跳级直冲GPT-6，百万Token价格腰斩至 4 美元",
-          "title_zh": "Claude Opus 5. 5 疑遭内测泄露：跳级直冲GPT-6，百万Token价格腰斩至 4 美元",
+          "id": "3640cd9d3060a429f8ab12ff84262ac8d9d92ddc",
+          "title": "Kimi Code 桌面客户端上线：macOS 与 Windows 同步开放",
+          "title_zh": "Kimi Code 桌面客户端上线：macOS 与 Windows 同步开放",
           "title_en": null,
-          "title_original": "Claude Opus 5. 5 疑遭内测泄露：跳级直冲GPT-6，百万Token价格腰斩至 4 美元",
+          "title_original": "Kimi Code 桌面客户端上线：macOS 与 Windows 同步开放",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/31231",
+          "url": "https://www.aibase.com/news/31237",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-09-21T07:47:19.080705Z"
+          "published_at": "2026-09-21T08:47:36.404522Z"
         }
       ],
       "item_count": 1,
@@ -403,17 +403,17 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-09-21T07:47:19.080705Z",
-      "latest_at": "2026-09-21T07:47:19.080705Z",
+      "earliest_at": "2026-09-21T08:47:36.404522Z",
+      "latest_at": "2026-09-21T08:47:36.404522Z",
       "primary_item": {
-        "id": "f1528efce967282e3ffc899eb06e10ffa20c90eb",
-        "title": "Claude Opus 5. 5 疑遭内测泄露：跳级直冲GPT-6，百万Token价格腰斩至 4 美元",
-        "title_zh": "Claude Opus 5. 5 疑遭内测泄露：跳级直冲GPT-6，百万Token价格腰斩至 4 美元",
+        "id": "3640cd9d3060a429f8ab12ff84262ac8d9d92ddc",
+        "title": "Kimi Code 桌面客户端上线：macOS 与 Windows 同步开放",
+        "title_zh": "Kimi Code 桌面客户端上线：macOS 与 Windows 同步开放",
         "title_en": null,
-        "title_original": "Claude Opus 5. 5 疑遭内测泄露：跳级直冲GPT-6，百万Token价格腰斩至 4 美元",
+        "title_original": "Kimi Code 桌面客户端上线：macOS 与 Windows 同步开放",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/31231",
+        "url": "https://www.aibase.com/news/31237",
         "source": "AIbase",
         "source_name": "AIbase"
       },
@@ -421,7 +421,89 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-21T07:56:40.933869Z"
+        "scored_at": "2026-09-21T08:58:25.956044Z"
+      }
+    },
+    {
+      "story_id": "story_f20bbdeba1e2",
+      "title": "Kimi 发布 Kimi Code Desktop 1.0，macOS 与 Windows 版同步上线",
+      "url": "https://mp.weixin.qq.com/s?__biz=MzkzMTY4NTIyNA%3D%3D&mid=2247484344&idx=1&sn=047cf702ff02ab334e3ea2ba8e34b4a6",
+      "primary_url": "https://mp.weixin.qq.com/s?__biz=MzkzMTY4NTIyNA%3D%3D&mid=2247484344&idx=1&sn=047cf702ff02ab334e3ea2ba8e34b4a6",
+      "source": "公众号：月之暗面（Kimi）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "db5c34aadee5e59351366b04dbf21e0d4feb57ca",
+          "title": "Kimi 发布 Kimi Code Desktop 1.0，macOS 与 Windows 版同步上线",
+          "title_zh": "Kimi 发布 Kimi Code Desktop 1.0，macOS 与 Windows 版同步上线",
+          "title_en": null,
+          "title_original": "Kimi 发布 Kimi Code Desktop 1.0，macOS 与 Windows 版同步上线",
+          "summary": "Kimi（月之暗面）发布 Kimi Code Desktop 1.0，作为 Kimi Code 官方桌面客户端，macOS（Apple 与 Intel 芯片）和 Windows 版同步上线，下载地址为 kimi.com/code。",
+          "recommend_reason_zh": null,
+          "url": "https://mp.weixin.qq.com/s?__biz=MzkzMTY4NTIyNA%3D%3D&mid=2247484344&idx=1&sn=047cf702ff02ab334e3ea2ba8e34b4a6",
+          "source": "公众号：月之暗面（Kimi）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-21T07:54:32Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "公众号：月之暗面（Kimi）"
+      ],
+      "items": [
+        {
+          "id": "db5c34aadee5e59351366b04dbf21e0d4feb57ca",
+          "title": "Kimi 发布 Kimi Code Desktop 1.0，macOS 与 Windows 版同步上线",
+          "title_zh": "Kimi 发布 Kimi Code Desktop 1.0，macOS 与 Windows 版同步上线",
+          "title_en": null,
+          "title_original": "Kimi 发布 Kimi Code Desktop 1.0，macOS 与 Windows 版同步上线",
+          "summary": "Kimi（月之暗面）发布 Kimi Code Desktop 1.0，作为 Kimi Code 官方桌面客户端，macOS（Apple 与 Intel 芯片）和 Windows 版同步上线，下载地址为 kimi.com/code。",
+          "recommend_reason_zh": null,
+          "url": "https://mp.weixin.qq.com/s?__biz=MzkzMTY4NTIyNA%3D%3D&mid=2247484344&idx=1&sn=047cf702ff02ab334e3ea2ba8e34b4a6",
+          "source": "公众号：月之暗面（Kimi）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-21T07:54:32Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7623,
+      "importance": 0.7623,
+      "importance_score": 0.7623,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.71,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9873,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-21T07:54:32Z",
+      "latest_at": "2026-09-21T07:54:32Z",
+      "primary_item": {
+        "id": "db5c34aadee5e59351366b04dbf21e0d4feb57ca",
+        "title": "Kimi 发布 Kimi Code Desktop 1.0，macOS 与 Windows 版同步上线",
+        "title_zh": "Kimi 发布 Kimi Code Desktop 1.0，macOS 与 Windows 版同步上线",
+        "title_en": null,
+        "title_original": "Kimi 发布 Kimi Code Desktop 1.0，macOS 与 Windows 版同步上线",
+        "summary": "Kimi（月之暗面）发布 Kimi Code Desktop 1.0，作为 Kimi Code 官方桌面客户端，macOS（Apple 与 Intel 芯片）和 Windows 版同步上线，下载地址为 kimi.com/code。",
+        "recommend_reason_zh": null,
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkzMTY4NTIyNA%3D%3D&mid=2247484344&idx=1&sn=047cf702ff02ab334e3ea2ba8e34b4a6",
+        "source": "公众号：月之暗面（Kimi）",
+        "source_name": "AI HOT"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-09-21T08:58:25.956044Z"
       }
     },
     {
@@ -469,15 +551,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7582,
-      "importance": 0.7582,
-      "importance_score": 0.7582,
+      "score": 0.756,
+      "importance": 0.756,
+      "importance_score": 0.756,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.78,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8477,
+        "recency": 0.8355,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -503,7 +585,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-21T07:56:40.933869Z"
+        "scored_at": "2026-09-21T08:58:25.956044Z"
       }
     },
     {
@@ -551,15 +633,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7462,
-      "importance": 0.7462,
-      "importance_score": 0.7462,
+      "score": 0.7438,
+      "importance": 0.7438,
+      "importance_score": 0.7438,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.69,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9311,
+        "recency": 0.9177,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -584,30 +666,30 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-21T07:56:40.933869Z"
+        "scored_at": "2026-09-21T08:58:25.956044Z"
       }
     },
     {
-      "story_id": "story_d6fca3542f8f",
-      "title": "Claude Opus 5.5 已在内测：连跳两级直逼 GPT-6，价格还打骨折",
-      "url": "https://www.aibase.com/news/31232",
-      "primary_url": "https://www.aibase.com/news/31232",
+      "story_id": "story_c3b75295ed35",
+      "title": "法国兴业银行押注 AI：预计最多省下 6 亿欧元成本",
+      "url": "https://www.aibase.com/news/31238",
+      "primary_url": "https://www.aibase.com/news/31238",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "f9dc62836aace206bfaa30cd27980698c24d1644",
-          "title": "Claude Opus 5.5 已在内测：连跳两级直逼 GPT-6，价格还打骨折",
-          "title_zh": "Claude Opus 5.5 已在内测：连跳两级直逼 GPT-6，价格还打骨折",
+          "id": "c13bce901efc0375769d7bbc9909833cb32087d4",
+          "title": "法国兴业银行押注 AI：预计最多省下 6 亿欧元成本",
+          "title_zh": "法国兴业银行押注 AI：预计最多省下 6 亿欧元成本",
           "title_en": null,
-          "title_original": "Claude Opus 5.5 已在内测：连跳两级直逼 GPT-6，价格还打骨折",
+          "title_original": "法国兴业银行押注 AI：预计最多省下 6 亿欧元成本",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/31232",
+          "url": "https://www.aibase.com/news/31238",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-09-21T07:47:19.080705Z"
+          "published_at": "2026-09-21T08:47:36.404522Z"
         }
       ],
       "source_count": 1,
@@ -616,18 +698,18 @@
       ],
       "items": [
         {
-          "id": "f9dc62836aace206bfaa30cd27980698c24d1644",
-          "title": "Claude Opus 5.5 已在内测：连跳两级直逼 GPT-6，价格还打骨折",
-          "title_zh": "Claude Opus 5.5 已在内测：连跳两级直逼 GPT-6，价格还打骨折",
+          "id": "c13bce901efc0375769d7bbc9909833cb32087d4",
+          "title": "法国兴业银行押注 AI：预计最多省下 6 亿欧元成本",
+          "title_zh": "法国兴业银行押注 AI：预计最多省下 6 亿欧元成本",
           "title_en": null,
-          "title_original": "Claude Opus 5.5 已在内测：连跳两级直逼 GPT-6，价格还打骨折",
+          "title_original": "法国兴业银行押注 AI：预计最多省下 6 亿欧元成本",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/31232",
+          "url": "https://www.aibase.com/news/31238",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-09-21T07:47:19.080705Z"
+          "published_at": "2026-09-21T08:47:36.404522Z"
         }
       ],
       "item_count": 1,
@@ -648,17 +730,17 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-09-21T07:47:19.080705Z",
-      "latest_at": "2026-09-21T07:47:19.080705Z",
+      "earliest_at": "2026-09-21T08:47:36.404522Z",
+      "latest_at": "2026-09-21T08:47:36.404522Z",
       "primary_item": {
-        "id": "f9dc62836aace206bfaa30cd27980698c24d1644",
-        "title": "Claude Opus 5.5 已在内测：连跳两级直逼 GPT-6，价格还打骨折",
-        "title_zh": "Claude Opus 5.5 已在内测：连跳两级直逼 GPT-6，价格还打骨折",
+        "id": "c13bce901efc0375769d7bbc9909833cb32087d4",
+        "title": "法国兴业银行押注 AI：预计最多省下 6 亿欧元成本",
+        "title_zh": "法国兴业银行押注 AI：预计最多省下 6 亿欧元成本",
         "title_en": null,
-        "title_original": "Claude Opus 5.5 已在内测：连跳两级直逼 GPT-6，价格还打骨折",
+        "title_original": "法国兴业银行押注 AI：预计最多省下 6 亿欧元成本",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/31232",
+        "url": "https://www.aibase.com/news/31238",
         "source": "AIbase",
         "source_name": "AIbase"
       },
@@ -666,7 +748,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-21T07:56:40.933869Z"
+        "scored_at": "2026-09-21T08:58:25.956044Z"
       }
     },
     {
@@ -714,15 +796,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7349,
-      "importance": 0.7349,
-      "importance_score": 0.7349,
+      "score": 0.7325,
+      "importance": 0.7325,
+      "importance_score": 0.7325,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.66,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9182,
+        "recency": 0.905,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -747,7 +829,171 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-21T07:56:40.933869Z"
+        "scored_at": "2026-09-21T08:58:25.956044Z"
+      }
+    },
+    {
+      "story_id": "story_02e8ffac48ba",
+      "title": "Claude Opus 5. 5 疑遭内测泄露：跳级直冲GPT-6，百万Token价格腰斩至 4 美元",
+      "url": "https://www.aibase.com/news/31231",
+      "primary_url": "https://www.aibase.com/news/31231",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "f1528efce967282e3ffc899eb06e10ffa20c90eb",
+          "title": "Claude Opus 5. 5 疑遭内测泄露：跳级直冲GPT-6，百万Token价格腰斩至 4 美元",
+          "title_zh": "Claude Opus 5. 5 疑遭内测泄露：跳级直冲GPT-6，百万Token价格腰斩至 4 美元",
+          "title_en": null,
+          "title_original": "Claude Opus 5. 5 疑遭内测泄露：跳级直冲GPT-6，百万Token价格腰斩至 4 美元",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/31231",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-09-21T07:47:19.080705Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "f1528efce967282e3ffc899eb06e10ffa20c90eb",
+          "title": "Claude Opus 5. 5 疑遭内测泄露：跳级直冲GPT-6，百万Token价格腰斩至 4 美元",
+          "title_zh": "Claude Opus 5. 5 疑遭内测泄露：跳级直冲GPT-6，百万Token价格腰斩至 4 美元",
+          "title_en": null,
+          "title_original": "Claude Opus 5. 5 疑遭内测泄露：跳级直冲GPT-6，百万Token价格腰斩至 4 美元",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/31231",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-09-21T07:47:19.080705Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.765,
+      "importance": 0.765,
+      "importance_score": 0.765,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9856,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-21T07:47:19.080705Z",
+      "latest_at": "2026-09-21T07:47:19.080705Z",
+      "primary_item": {
+        "id": "f1528efce967282e3ffc899eb06e10ffa20c90eb",
+        "title": "Claude Opus 5. 5 疑遭内测泄露：跳级直冲GPT-6，百万Token价格腰斩至 4 美元",
+        "title_zh": "Claude Opus 5. 5 疑遭内测泄露：跳级直冲GPT-6，百万Token价格腰斩至 4 美元",
+        "title_en": null,
+        "title_original": "Claude Opus 5. 5 疑遭内测泄露：跳级直冲GPT-6，百万Token价格腰斩至 4 美元",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://www.aibase.com/news/31231",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-09-21T08:58:25.956044Z"
+      }
+    },
+    {
+      "story_id": "story_d6fca3542f8f",
+      "title": "Claude Opus 5.5 已在内测：连跳两级直逼 GPT-6，价格还打骨折",
+      "url": "https://www.aibase.com/news/31232",
+      "primary_url": "https://www.aibase.com/news/31232",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "f9dc62836aace206bfaa30cd27980698c24d1644",
+          "title": "Claude Opus 5.5 已在内测：连跳两级直逼 GPT-6，价格还打骨折",
+          "title_zh": "Claude Opus 5.5 已在内测：连跳两级直逼 GPT-6，价格还打骨折",
+          "title_en": null,
+          "title_original": "Claude Opus 5.5 已在内测：连跳两级直逼 GPT-6，价格还打骨折",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/31232",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-09-21T07:47:19.080705Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "f9dc62836aace206bfaa30cd27980698c24d1644",
+          "title": "Claude Opus 5.5 已在内测：连跳两级直逼 GPT-6，价格还打骨折",
+          "title_zh": "Claude Opus 5.5 已在内测：连跳两级直逼 GPT-6，价格还打骨折",
+          "title_en": null,
+          "title_original": "Claude Opus 5.5 已在内测：连跳两级直逼 GPT-6，价格还打骨折",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/31232",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-09-21T07:47:19.080705Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.765,
+      "importance": 0.765,
+      "importance_score": 0.765,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9856,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-21T07:47:19.080705Z",
+      "latest_at": "2026-09-21T07:47:19.080705Z",
+      "primary_item": {
+        "id": "f9dc62836aace206bfaa30cd27980698c24d1644",
+        "title": "Claude Opus 5.5 已在内测：连跳两级直逼 GPT-6，价格还打骨折",
+        "title_zh": "Claude Opus 5.5 已在内测：连跳两级直逼 GPT-6，价格还打骨折",
+        "title_en": null,
+        "title_original": "Claude Opus 5.5 已在内测：连跳两级直逼 GPT-6，价格还打骨折",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://www.aibase.com/news/31232",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-09-21T08:58:25.956044Z"
       }
     },
     {
@@ -795,15 +1041,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7676,
-      "importance": 0.7676,
-      "importance_score": 0.7676,
+      "score": 0.765,
+      "importance": 0.765,
+      "importance_score": 0.765,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.9856,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -829,7 +1075,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-21T07:56:40.933869Z"
+        "scored_at": "2026-09-21T08:58:25.956044Z"
       }
     },
     {
@@ -877,15 +1123,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7676,
-      "importance": 0.7676,
-      "importance_score": 0.7676,
+      "score": 0.765,
+      "importance": 0.765,
+      "importance_score": 0.765,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.9856,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -911,171 +1157,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-21T07:56:40.933869Z"
-      }
-    },
-    {
-      "story_id": "story_f485ddd18b49",
-      "title": "阿里换帅Qwen团队：刘大一恒接掌通义千问大模型，云栖大会前亮相",
-      "url": "https://www.aibase.com/news/31233",
-      "primary_url": "https://www.aibase.com/news/31233",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "c99022a8e711302a8fe0c74a40c171dfdb418003",
-          "title": "阿里换帅Qwen团队：刘大一恒接掌通义千问大模型，云栖大会前亮相",
-          "title_zh": "阿里换帅Qwen团队：刘大一恒接掌通义千问大模型，云栖大会前亮相",
-          "title_en": null,
-          "title_original": "阿里换帅Qwen团队：刘大一恒接掌通义千问大模型，云栖大会前亮相",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/31233",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-09-21T07:47:19.080705Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "c99022a8e711302a8fe0c74a40c171dfdb418003",
-          "title": "阿里换帅Qwen团队：刘大一恒接掌通义千问大模型，云栖大会前亮相",
-          "title_zh": "阿里换帅Qwen团队：刘大一恒接掌通义千问大模型，云栖大会前亮相",
-          "title_en": null,
-          "title_original": "阿里换帅Qwen团队：刘大一恒接掌通义千问大模型，云栖大会前亮相",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/31233",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-09-21T07:47:19.080705Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7676,
-      "importance": 0.7676,
-      "importance_score": 0.7676,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 1.0,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-21T07:47:19.080705Z",
-      "latest_at": "2026-09-21T07:47:19.080705Z",
-      "primary_item": {
-        "id": "c99022a8e711302a8fe0c74a40c171dfdb418003",
-        "title": "阿里换帅Qwen团队：刘大一恒接掌通义千问大模型，云栖大会前亮相",
-        "title_zh": "阿里换帅Qwen团队：刘大一恒接掌通义千问大模型，云栖大会前亮相",
-        "title_en": null,
-        "title_original": "阿里换帅Qwen团队：刘大一恒接掌通义千问大模型，云栖大会前亮相",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/31233",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-09-21T07:56:40.933869Z"
-      }
-    },
-    {
-      "story_id": "story_214d4d19f8d1",
-      "title": "Siri AI 和解开放申请：符合条件的美国 iPhone 用户每台可领 25 美元",
-      "url": "https://www.aibase.com/news/31228",
-      "primary_url": "https://www.aibase.com/news/31228",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "c03a6f692ec6e1e2ac3dd4e0046559506d369f27",
-          "title": "Siri AI 和解开放申请：符合条件的美国 iPhone 用户每台可领 25 美元",
-          "title_zh": "Siri AI 和解开放申请：符合条件的美国 iPhone 用户每台可领 25 美元",
-          "title_en": null,
-          "title_original": "Siri AI 和解开放申请：符合条件的美国 iPhone 用户每台可领 25 美元",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/31228",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-09-21T06:47:19.251611Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "c03a6f692ec6e1e2ac3dd4e0046559506d369f27",
-          "title": "Siri AI 和解开放申请：符合条件的美国 iPhone 用户每台可领 25 美元",
-          "title_zh": "Siri AI 和解开放申请：符合条件的美国 iPhone 用户每台可领 25 美元",
-          "title_en": null,
-          "title_original": "Siri AI 和解开放申请：符合条件的美国 iPhone 用户每台可领 25 美元",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/31228",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-09-21T06:47:19.251611Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.765,
-      "importance": 0.765,
-      "importance_score": 0.765,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.9857,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-21T06:47:19.251611Z",
-      "latest_at": "2026-09-21T06:47:19.251611Z",
-      "primary_item": {
-        "id": "c03a6f692ec6e1e2ac3dd4e0046559506d369f27",
-        "title": "Siri AI 和解开放申请：符合条件的美国 iPhone 用户每台可领 25 美元",
-        "title_zh": "Siri AI 和解开放申请：符合条件的美国 iPhone 用户每台可领 25 美元",
-        "title_en": null,
-        "title_original": "Siri AI 和解开放申请：符合条件的美国 iPhone 用户每台可领 25 美元",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/31228",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-09-21T07:56:40.933869Z"
+        "scored_at": "2026-09-21T08:58:25.956044Z"
       }
     },
     {
@@ -1210,15 +1292,15 @@
       ],
       "item_count": 4,
       "duplicate_count": 4,
-      "score": 0.5924,
-      "importance": 0.5924,
-      "importance_score": 0.5924,
+      "score": 0.5898,
+      "importance": 0.5898,
+      "importance_score": 0.5898,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9809,
+        "recency": 0.9668,
         "story_heat": 0.75
       },
       "category": "multi_source",
@@ -1243,30 +1325,30 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-21T07:56:40.933869Z"
+        "scored_at": "2026-09-21T08:58:25.956044Z"
       }
     },
     {
-      "story_id": "story_a6519ba96534",
-      "title": "登顶国际Data Agent榜单，OceanBase超过多项GPT、Claude方案",
-      "url": "https://www.aibase.com/news/31229",
-      "primary_url": "https://www.aibase.com/news/31229",
+      "story_id": "story_f485ddd18b49",
+      "title": "阿里换帅Qwen团队：刘大一恒接掌通义千问大模型，云栖大会前亮相",
+      "url": "https://www.aibase.com/news/31233",
+      "primary_url": "https://www.aibase.com/news/31233",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "bd5972df34780653a2f842a2f988750f6fcb4294",
-          "title": "登顶国际Data Agent榜单，OceanBase超过多项GPT、Claude方案",
-          "title_zh": "登顶国际Data Agent榜单，OceanBase超过多项GPT、Claude方案",
+          "id": "c99022a8e711302a8fe0c74a40c171dfdb418003",
+          "title": "阿里换帅Qwen团队：刘大一恒接掌通义千问大模型，云栖大会前亮相",
+          "title_zh": "阿里换帅Qwen团队：刘大一恒接掌通义千问大模型，云栖大会前亮相",
           "title_en": null,
-          "title_original": "登顶国际Data Agent榜单，OceanBase超过多项GPT、Claude方案",
+          "title_original": "阿里换帅Qwen团队：刘大一恒接掌通义千问大模型，云栖大会前亮相",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/31229",
+          "url": "https://www.aibase.com/news/31233",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-09-21T06:47:19.251611Z"
+          "published_at": "2026-09-21T07:47:19.080705Z"
         }
       ],
       "source_count": 1,
@@ -1275,18 +1357,18 @@
       ],
       "items": [
         {
-          "id": "bd5972df34780653a2f842a2f988750f6fcb4294",
-          "title": "登顶国际Data Agent榜单，OceanBase超过多项GPT、Claude方案",
-          "title_zh": "登顶国际Data Agent榜单，OceanBase超过多项GPT、Claude方案",
+          "id": "c99022a8e711302a8fe0c74a40c171dfdb418003",
+          "title": "阿里换帅Qwen团队：刘大一恒接掌通义千问大模型，云栖大会前亮相",
+          "title_zh": "阿里换帅Qwen团队：刘大一恒接掌通义千问大模型，云栖大会前亮相",
           "title_en": null,
-          "title_original": "登顶国际Data Agent榜单，OceanBase超过多项GPT、Claude方案",
+          "title_original": "阿里换帅Qwen团队：刘大一恒接掌通义千问大模型，云栖大会前亮相",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/31229",
+          "url": "https://www.aibase.com/news/31233",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-09-21T06:47:19.251611Z"
+          "published_at": "2026-09-21T07:47:19.080705Z"
         }
       ],
       "item_count": 1,
@@ -1299,7 +1381,7 @@
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9857,
+        "recency": 0.9856,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1307,17 +1389,17 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-09-21T06:47:19.251611Z",
-      "latest_at": "2026-09-21T06:47:19.251611Z",
+      "earliest_at": "2026-09-21T07:47:19.080705Z",
+      "latest_at": "2026-09-21T07:47:19.080705Z",
       "primary_item": {
-        "id": "bd5972df34780653a2f842a2f988750f6fcb4294",
-        "title": "登顶国际Data Agent榜单，OceanBase超过多项GPT、Claude方案",
-        "title_zh": "登顶国际Data Agent榜单，OceanBase超过多项GPT、Claude方案",
+        "id": "c99022a8e711302a8fe0c74a40c171dfdb418003",
+        "title": "阿里换帅Qwen团队：刘大一恒接掌通义千问大模型，云栖大会前亮相",
+        "title_zh": "阿里换帅Qwen团队：刘大一恒接掌通义千问大模型，云栖大会前亮相",
         "title_en": null,
-        "title_original": "登顶国际Data Agent榜单，OceanBase超过多项GPT、Claude方案",
+        "title_original": "阿里换帅Qwen团队：刘大一恒接掌通义千问大模型，云栖大会前亮相",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/31229",
+        "url": "https://www.aibase.com/news/31233",
         "source": "AIbase",
         "source_name": "AIbase"
       },
@@ -1325,7 +1407,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-21T07:56:40.933869Z"
+        "scored_at": "2026-09-21T08:58:25.956044Z"
       }
     },
     {
@@ -1401,15 +1483,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5848,
-      "importance": 0.5848,
-      "importance_score": 0.5848,
+      "score": 0.5826,
+      "importance": 0.5826,
+      "importance_score": 0.5826,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.4896,
         "source_tier": 0.58,
         "ai_relevance": 0.68,
-        "recency": 0.8294,
+        "recency": 0.8175,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1434,26 +1516,26 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-21T07:56:40.933869Z"
+        "scored_at": "2026-09-21T08:58:25.956044Z"
       }
     },
     {
-      "story_id": "story_58b31b736206",
-      "title": "阿宝上线「鱼来」摸鱼AI系统，将碎片化休息纳入智能管理",
-      "url": "https://www.aibase.com/news/31230",
-      "primary_url": "https://www.aibase.com/news/31230",
+      "story_id": "story_214d4d19f8d1",
+      "title": "Siri AI 和解开放申请：符合条件的美国 iPhone 用户每台可领 25 美元",
+      "url": "https://www.aibase.com/news/31228",
+      "primary_url": "https://www.aibase.com/news/31228",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "8b62bd45366c9263baf3e260fce92426deb0f8e3",
-          "title": "阿宝上线「鱼来」摸鱼AI系统，将碎片化休息纳入智能管理",
-          "title_zh": "阿宝上线「鱼来」摸鱼AI系统，将碎片化休息纳入智能管理",
+          "id": "c03a6f692ec6e1e2ac3dd4e0046559506d369f27",
+          "title": "Siri AI 和解开放申请：符合条件的美国 iPhone 用户每台可领 25 美元",
+          "title_zh": "Siri AI 和解开放申请：符合条件的美国 iPhone 用户每台可领 25 美元",
           "title_en": null,
-          "title_original": "阿宝上线「鱼来」摸鱼AI系统，将碎片化休息纳入智能管理",
+          "title_original": "Siri AI 和解开放申请：符合条件的美国 iPhone 用户每台可领 25 美元",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/31230",
+          "url": "https://www.aibase.com/news/31228",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
@@ -1466,14 +1548,14 @@
       ],
       "items": [
         {
-          "id": "8b62bd45366c9263baf3e260fce92426deb0f8e3",
-          "title": "阿宝上线「鱼来」摸鱼AI系统，将碎片化休息纳入智能管理",
-          "title_zh": "阿宝上线「鱼来」摸鱼AI系统，将碎片化休息纳入智能管理",
+          "id": "c03a6f692ec6e1e2ac3dd4e0046559506d369f27",
+          "title": "Siri AI 和解开放申请：符合条件的美国 iPhone 用户每台可领 25 美元",
+          "title_zh": "Siri AI 和解开放申请：符合条件的美国 iPhone 用户每台可领 25 美元",
           "title_en": null,
-          "title_original": "阿宝上线「鱼来」摸鱼AI系统，将碎片化休息纳入智能管理",
+          "title_original": "Siri AI 和解开放申请：符合条件的美国 iPhone 用户每台可领 25 美元",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/31230",
+          "url": "https://www.aibase.com/news/31228",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
@@ -1482,15 +1564,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.765,
-      "importance": 0.765,
-      "importance_score": 0.765,
+      "score": 0.7625,
+      "importance": 0.7625,
+      "importance_score": 0.7625,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9857,
+        "recency": 0.9715,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1501,14 +1583,14 @@
       "earliest_at": "2026-09-21T06:47:19.251611Z",
       "latest_at": "2026-09-21T06:47:19.251611Z",
       "primary_item": {
-        "id": "8b62bd45366c9263baf3e260fce92426deb0f8e3",
-        "title": "阿宝上线「鱼来」摸鱼AI系统，将碎片化休息纳入智能管理",
-        "title_zh": "阿宝上线「鱼来」摸鱼AI系统，将碎片化休息纳入智能管理",
+        "id": "c03a6f692ec6e1e2ac3dd4e0046559506d369f27",
+        "title": "Siri AI 和解开放申请：符合条件的美国 iPhone 用户每台可领 25 美元",
+        "title_zh": "Siri AI 和解开放申请：符合条件的美国 iPhone 用户每台可领 25 美元",
         "title_en": null,
-        "title_original": "阿宝上线「鱼来」摸鱼AI系统，将碎片化休息纳入智能管理",
+        "title_original": "Siri AI 和解开放申请：符合条件的美国 iPhone 用户每台可领 25 美元",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/31230",
+        "url": "https://www.aibase.com/news/31228",
         "source": "AIbase",
         "source_name": "AIbase"
       },
@@ -1516,44 +1598,44 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-21T07:56:40.933869Z"
+        "scored_at": "2026-09-21T08:58:25.956044Z"
       }
     },
     {
-      "story_id": "story_0478652bad4f",
-      "title": "人工智能聊天机器人“大多数时候”对财务查询给出错误答案 / AI chatbots give wrong answers to financial queries 'most of the time'",
-      "url": "https://www.ft.com/content/c0cd359d-df84-4208-a789-ffa864b43666",
-      "primary_url": "https://www.ft.com/content/c0cd359d-df84-4208-a789-ffa864b43666",
+      "story_id": "story_a174f956e836",
+      "title": "In September, AI generated code has made up 17.25% of all Linux Kernel patches",
+      "url": "https://twitter.com/LundukeJournal/status/2101841277432070210",
+      "primary_url": "https://twitter.com/LundukeJournal/status/2101841277432070210",
       "source": "Hacker News (黑客新闻)",
       "source_name": "Info Flow",
       "sources": [
         {
-          "id": "d3a7974573042d9e992828e30f173128e1e9c059",
-          "title": "人工智能聊天机器人“大多数时候”对财务查询给出错误答案 / AI chatbots give wrong answers to financial queries 'most of the time'",
-          "title_zh": "人工智能聊天机器人“大多数时候”对财务查询给出错误答案",
-          "title_en": "AI chatbots give wrong answers to financial queries 'most of the time'",
-          "title_original": "AI chatbots give wrong answers to financial queries 'most of the time'",
+          "id": "c46950eb4d577031047fe029fd3e6e18d2f7f524",
+          "title": "In September, AI generated code has made up 17.25% of all Linux Kernel patches",
+          "title_zh": null,
+          "title_en": "In September, AI generated code has made up 17.25% of all Linux Kernel patches",
+          "title_original": "In September, AI generated code has made up 17.25% of all Linux Kernel patches",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.ft.com/content/c0cd359d-df84-4208-a789-ffa864b43666",
+          "url": "https://twitter.com/LundukeJournal/status/2101841277432070210",
           "source": "Hacker News (黑客新闻)",
           "source_name": "Info Flow",
           "site_id": "iris",
-          "published_at": "2026-09-21T04:28:44Z"
+          "published_at": "2026-09-21T07:59:18Z"
         },
         {
-          "id": "9aee337f3dda4dab259e2663211a2da8ac17506b",
-          "title": "人工智能聊天机器人“大多数时候”对财务查询给出错误答案 / AI chatbots give wrong answers to financial queries 'most of the time'",
-          "title_zh": "人工智能聊天机器人“大多数时候”对财务查询给出错误答案",
-          "title_en": "AI chatbots give wrong answers to financial queries 'most of the time'",
-          "title_original": "AI chatbots give wrong answers to financial queries 'most of the time'",
+          "id": "4cf847b3f03758828dcfffa050817f5a3b92f563",
+          "title": "In September, AI generated code has made up 17.25% of all Linux Kernel patches",
+          "title_zh": null,
+          "title_en": "In September, AI generated code has made up 17.25% of all Linux Kernel patches",
+          "title_original": "In September, AI generated code has made up 17.25% of all Linux Kernel patches",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=49783062",
+          "url": "https://news.ycombinator.com/item?id=49784366",
           "source": "hackernews",
           "source_name": "NewsNow",
           "site_id": "newsnow",
-          "published_at": "2026-09-21T04:28:44Z"
+          "published_at": "2026-09-21T07:59:18Z"
         }
       ],
       "source_count": 2,
@@ -1563,62 +1645,62 @@
       ],
       "items": [
         {
-          "id": "d3a7974573042d9e992828e30f173128e1e9c059",
-          "title": "人工智能聊天机器人“大多数时候”对财务查询给出错误答案 / AI chatbots give wrong answers to financial queries 'most of the time'",
-          "title_zh": "人工智能聊天机器人“大多数时候”对财务查询给出错误答案",
-          "title_en": "AI chatbots give wrong answers to financial queries 'most of the time'",
-          "title_original": "AI chatbots give wrong answers to financial queries 'most of the time'",
+          "id": "c46950eb4d577031047fe029fd3e6e18d2f7f524",
+          "title": "In September, AI generated code has made up 17.25% of all Linux Kernel patches",
+          "title_zh": null,
+          "title_en": "In September, AI generated code has made up 17.25% of all Linux Kernel patches",
+          "title_original": "In September, AI generated code has made up 17.25% of all Linux Kernel patches",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.ft.com/content/c0cd359d-df84-4208-a789-ffa864b43666",
+          "url": "https://twitter.com/LundukeJournal/status/2101841277432070210",
           "source": "Hacker News (黑客新闻)",
           "source_name": "Info Flow",
           "site_id": "iris",
-          "published_at": "2026-09-21T04:28:44Z"
+          "published_at": "2026-09-21T07:59:18Z"
         },
         {
-          "id": "9aee337f3dda4dab259e2663211a2da8ac17506b",
-          "title": "人工智能聊天机器人“大多数时候”对财务查询给出错误答案 / AI chatbots give wrong answers to financial queries 'most of the time'",
-          "title_zh": "人工智能聊天机器人“大多数时候”对财务查询给出错误答案",
-          "title_en": "AI chatbots give wrong answers to financial queries 'most of the time'",
-          "title_original": "AI chatbots give wrong answers to financial queries 'most of the time'",
+          "id": "4cf847b3f03758828dcfffa050817f5a3b92f563",
+          "title": "In September, AI generated code has made up 17.25% of all Linux Kernel patches",
+          "title_zh": null,
+          "title_en": "In September, AI generated code has made up 17.25% of all Linux Kernel patches",
+          "title_original": "In September, AI generated code has made up 17.25% of all Linux Kernel patches",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=49783062",
+          "url": "https://news.ycombinator.com/item?id=49784366",
           "source": "hackernews",
           "source_name": "NewsNow",
           "site_id": "newsnow",
-          "published_at": "2026-09-21T04:28:44Z"
+          "published_at": "2026-09-21T07:59:18Z"
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5374,
-      "importance": 0.5374,
-      "importance_score": 0.5374,
+      "score": 0.5437,
+      "importance": 0.5437,
+      "importance_score": 0.5437,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9533,
+        "recency": 0.9884,
         "story_heat": 0.25
       },
       "category": "watch",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-09-21T04:28:44Z",
-      "latest_at": "2026-09-21T04:28:44Z",
+      "earliest_at": "2026-09-21T07:59:18Z",
+      "latest_at": "2026-09-21T07:59:18Z",
       "primary_item": {
-        "id": "d3a7974573042d9e992828e30f173128e1e9c059",
-        "title": "人工智能聊天机器人“大多数时候”对财务查询给出错误答案 / AI chatbots give wrong answers to financial queries 'most of the time'",
-        "title_zh": "人工智能聊天机器人“大多数时候”对财务查询给出错误答案",
-        "title_en": "AI chatbots give wrong answers to financial queries 'most of the time'",
-        "title_original": "AI chatbots give wrong answers to financial queries 'most of the time'",
+        "id": "c46950eb4d577031047fe029fd3e6e18d2f7f524",
+        "title": "In September, AI generated code has made up 17.25% of all Linux Kernel patches",
+        "title_zh": null,
+        "title_en": "In September, AI generated code has made up 17.25% of all Linux Kernel patches",
+        "title_original": "In September, AI generated code has made up 17.25% of all Linux Kernel patches",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://www.ft.com/content/c0cd359d-df84-4208-a789-ffa864b43666",
+        "url": "https://twitter.com/LundukeJournal/status/2101841277432070210",
         "source": "Hacker News (黑客新闻)",
         "source_name": "Info Flow"
       },
@@ -1626,7 +1708,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-21T07:56:40.933869Z"
+        "scored_at": "2026-09-21T08:58:25.956044Z"
       }
     },
     {
@@ -1652,7 +1734,7 @@
           "published_at": "2026-09-20T17:03:10.347000Z"
         },
         {
-          "id": "9522a76c98197316c216bac9e8c541d79e2b3ced",
+          "id": "8310af4959c7455ef20d6bf5c5f07ea8af43c3fa",
           "title": "“海盗脸”拯救了大语言模型免遭删除 / Pirate Face Rescues LLM Models from Deletion",
           "title_zh": "“海盗脸”拯救了大语言模型免遭删除",
           "title_en": "Pirate Face Rescues LLM Models from Deletion",
@@ -1660,9 +1742,9 @@
           "summary": null,
           "recommend_reason_zh": null,
           "url": "https://pirateface.co",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
           "published_at": "2026-09-20T15:16:07Z"
         },
         {
@@ -1682,7 +1764,7 @@
       ],
       "source_count": 3,
       "source_names": [
-        "Hacker News (黑客新闻)",
+        "Hacker News · 24h最热",
         "hackernews",
         "pirateface.co"
       ],
@@ -1702,7 +1784,7 @@
           "published_at": "2026-09-20T17:03:10.347000Z"
         },
         {
-          "id": "9522a76c98197316c216bac9e8c541d79e2b3ced",
+          "id": "8310af4959c7455ef20d6bf5c5f07ea8af43c3fa",
           "title": "“海盗脸”拯救了大语言模型免遭删除 / Pirate Face Rescues LLM Models from Deletion",
           "title_zh": "“海盗脸”拯救了大语言模型免遭删除",
           "title_en": "Pirate Face Rescues LLM Models from Deletion",
@@ -1710,9 +1792,9 @@
           "summary": null,
           "recommend_reason_zh": null,
           "url": "https://pirateface.co",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
           "published_at": "2026-09-20T15:16:07Z"
         },
         {
@@ -1732,15 +1814,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5363,
-      "importance": 0.5363,
-      "importance_score": 0.5363,
+      "score": 0.5342,
+      "importance": 0.5342,
+      "importance_score": 0.5342,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8083,
+        "recency": 0.7967,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1765,7 +1847,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-21T07:56:40.933869Z"
+        "scored_at": "2026-09-21T08:58:25.956044Z"
       }
     },
     {
@@ -1842,15 +1924,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5316,
-      "importance": 0.5316,
-      "importance_score": 0.5316,
+      "score": 0.5292,
+      "importance": 0.5292,
+      "importance_score": 0.5292,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9211,
+        "recency": 0.9078,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1875,7 +1957,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-21T07:56:40.933869Z"
+        "scored_at": "2026-09-21T08:58:25.956044Z"
       }
     },
     {
@@ -1981,15 +2063,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5277,
-      "importance": 0.5277,
-      "importance_score": 0.5277,
+      "score": 0.5257,
+      "importance": 0.5257,
+      "importance_score": 0.5257,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7606,
+        "recency": 0.7496,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -2014,117 +2096,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-21T07:56:40.933869Z"
-      }
-    },
-    {
-      "story_id": "story_b893485ca51b",
-      "title": "并非所有人工智能工作者都认为这项技术会杀死所有人 / Not all AI workers think the tech could kill everyone",
-      "url": "https://www.bbc.com/news/articles/cm5y7qj54klpo",
-      "primary_url": "https://www.bbc.com/news/articles/cm5y7qj54klpo",
-      "source": "Hacker News",
-      "source_name": "TechURLs",
-      "sources": [
-        {
-          "id": "5c38bfc59adbc4635d381a8ff82e043f57e003af",
-          "title": "并非所有人工智能工作者都认为这项技术会杀死所有人 / Not all AI workers think the tech could kill everyone",
-          "title_zh": "并非所有人工智能工作者都认为这项技术会杀死所有人",
-          "title_en": "Not all AI workers think the tech could kill everyone",
-          "title_original": "Not all AI workers think the tech could kill everyone",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.bbc.com/news/articles/cm5y7qj54klpo",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-09-20T22:22:16Z"
-        },
-        {
-          "id": "67ba33046e75f19987e8b6c2340f369c58ca0100",
-          "title": "并非所有人工智能工作者都认为这项技术会杀死所有人 / Not all AI workers think the tech could kill everyone",
-          "title_zh": "并非所有人工智能工作者都认为这项技术会杀死所有人",
-          "title_en": "Not all AI workers think the tech could kill everyone",
-          "title_original": "Not all AI workers think the tech could kill everyone",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=49780704",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-09-20T22:22:16Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News",
-        "hackernews"
-      ],
-      "items": [
-        {
-          "id": "5c38bfc59adbc4635d381a8ff82e043f57e003af",
-          "title": "并非所有人工智能工作者都认为这项技术会杀死所有人 / Not all AI workers think the tech could kill everyone",
-          "title_zh": "并非所有人工智能工作者都认为这项技术会杀死所有人",
-          "title_en": "Not all AI workers think the tech could kill everyone",
-          "title_original": "Not all AI workers think the tech could kill everyone",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.bbc.com/news/articles/cm5y7qj54klpo",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-09-20T22:22:16Z"
-        },
-        {
-          "id": "67ba33046e75f19987e8b6c2340f369c58ca0100",
-          "title": "并非所有人工智能工作者都认为这项技术会杀死所有人 / Not all AI workers think the tech could kill everyone",
-          "title_zh": "并非所有人工智能工作者都认为这项技术会杀死所有人",
-          "title_en": "Not all AI workers think the tech could kill everyone",
-          "title_original": "Not all AI workers think the tech could kill everyone",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=49780704",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-09-20T22:22:16Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5229,
-      "importance": 0.5229,
-      "importance_score": 0.5229,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.8728,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-09-20T22:22:16Z",
-      "latest_at": "2026-09-20T22:22:16Z",
-      "primary_item": {
-        "id": "5c38bfc59adbc4635d381a8ff82e043f57e003af",
-        "title": "并非所有人工智能工作者都认为这项技术会杀死所有人 / Not all AI workers think the tech could kill everyone",
-        "title_zh": "并非所有人工智能工作者都认为这项技术会杀死所有人",
-        "title_en": "Not all AI workers think the tech could kill everyone",
-        "title_original": "Not all AI workers think the tech could kill everyone",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://www.bbc.com/news/articles/cm5y7qj54klpo",
-        "source": "Hacker News",
-        "source_name": "TechURLs"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-09-21T07:56:40.933869Z"
+        "scored_at": "2026-09-21T08:58:25.956044Z"
       }
     }
   ]
