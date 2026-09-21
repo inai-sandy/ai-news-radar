@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-21T14:47:21.668228Z",
+  "generated_at": "2026-09-21T15:47:24.793763Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -48,15 +48,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8653,
-      "importance": 0.8653,
-      "importance_score": 0.8653,
+      "score": 0.8628,
+      "importance": 0.8628,
+      "importance_score": 0.8628,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.99,
-        "recency": 0.985,
+        "recency": 0.9709,
         "story_heat": 0.0
       },
       "category": "official",
@@ -83,7 +83,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-21T14:48:42.264433Z"
+        "scored_at": "2026-09-21T16:02:08.189143Z"
       }
     },
     {
@@ -131,15 +131,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8174,
-      "importance": 0.8174,
-      "importance_score": 0.8174,
+      "score": 0.8153,
+      "importance": 0.8153,
+      "importance_score": 0.8153,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.8077,
+        "recency": 0.7961,
         "story_heat": 0.0
       },
       "category": "official",
@@ -166,177 +166,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-21T14:48:42.264433Z"
-      }
-    },
-    {
-      "story_id": "story_a682219ecb2e",
-      "title": "独立调查：ChatGPT 的 __obi 跨站 Cookie 可将站外浏览行为关联到 ChatGPT 账号",
-      "url": "https://www.buchodi.com/chatgpt-now-knows-what-you-do-on-other-websites-via-ad-collector",
-      "primary_url": "https://www.buchodi.com/chatgpt-now-knows-what-you-do-on-other-websites-via-ad-collector",
-      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "844d7f12ef7fac27524e36cc5345e97f538ad2cc",
-          "title": "独立调查：ChatGPT 的 __obi 跨站 Cookie 可将站外浏览行为关联到 ChatGPT 账号",
-          "title_zh": "独立调查：ChatGPT 的 __obi 跨站 Cookie 可将站外浏览行为关联到 ChatGPT 账号",
-          "title_en": null,
-          "title_original": "独立调查：ChatGPT 的 __obi 跨站 Cookie 可将站外浏览行为关联到 ChatGPT 账号",
-          "summary": "作者通过自己手机上的流量捕获复现了 OpenAI 广告收集器机制：bzr.openai.com 在 .openai.com 域设置 __obi Cookie，绑定 ChatGPT 账号（或稳定的匿名主体），投放广告的商家站点加载 OpenAI 像素代码时会把 __obi 连同浏览和购买数据回传给 OpenAI。",
-          "recommend_reason_zh": null,
-          "url": "https://www.buchodi.com/chatgpt-now-knows-what-you-do-on-other-websites-via-ad-collector",
-          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-20T18:05:38.317000Z"
-        },
-        {
-          "id": "8a8492ac98d1392dfb3c8d3deb6f2957f4ba54ad",
-          "title": "ChatGPT 现在可以通过广告收集器了解你在其他网站上的行为",
-          "title_zh": "ChatGPT 现在可以通过广告收集器了解你在其他网站上的行为",
-          "title_en": null,
-          "title_original": "ChatGPT 现在可以通过广告收集器了解你在其他网站上的行为",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.buchodi.com/chatgpt-now-knows-what-you-do-on-other-websites-via-ad-collector",
-          "source": "www.buchodi.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-09-20T18:05:38.317000Z"
-        },
-        {
-          "id": "4ebf06811dff69eb75975c005a0f1b526fdcac85",
-          "title": "ChatGPT 现在可以通过广告收集器了解你在其他网站上的行为 / ChatGPT now knows what you do on other websites via ad collector",
-          "title_zh": "ChatGPT 现在可以通过广告收集器了解你在其他网站上的行为",
-          "title_en": "ChatGPT now knows what you do on other websites via ad collector",
-          "title_original": "ChatGPT now knows what you do on other websites via ad collector",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.buchodi.com/chatgpt-now-knows-what-you-do-on-other-websites-via-ad-collector",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-09-20T15:18:44Z"
-        },
-        {
-          "id": "7d18b5731ef9e28fff4e0ab0474ddc3c6c89b701",
-          "title": "ChatGPT 现在通过广告收集器知道您在其他网站上做了什么 / ChatGPT now knows what you do on other websites via ad collector",
-          "title_zh": "ChatGPT 现在通过广告收集器知道您在其他网站上做了什么",
-          "title_en": "ChatGPT now knows what you do on other websites via ad collector",
-          "title_original": "ChatGPT now knows what you do on other websites via ad collector",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=49776729",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-09-20T15:18:44Z"
-        }
-      ],
-      "source_count": 4,
-      "source_names": [
-        "Hacker News · 24h最热",
-        "Hacker News 热门（buzzing.cc 中文翻译）",
-        "hackernews",
-        "www.buchodi.com"
-      ],
-      "items": [
-        {
-          "id": "844d7f12ef7fac27524e36cc5345e97f538ad2cc",
-          "title": "独立调查：ChatGPT 的 __obi 跨站 Cookie 可将站外浏览行为关联到 ChatGPT 账号",
-          "title_zh": "独立调查：ChatGPT 的 __obi 跨站 Cookie 可将站外浏览行为关联到 ChatGPT 账号",
-          "title_en": null,
-          "title_original": "独立调查：ChatGPT 的 __obi 跨站 Cookie 可将站外浏览行为关联到 ChatGPT 账号",
-          "summary": "作者通过自己手机上的流量捕获复现了 OpenAI 广告收集器机制：bzr.openai.com 在 .openai.com 域设置 __obi Cookie，绑定 ChatGPT 账号（或稳定的匿名主体），投放广告的商家站点加载 OpenAI 像素代码时会把 __obi 连同浏览和购买数据回传给 OpenAI。",
-          "recommend_reason_zh": null,
-          "url": "https://www.buchodi.com/chatgpt-now-knows-what-you-do-on-other-websites-via-ad-collector",
-          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-20T18:05:38.317000Z"
-        },
-        {
-          "id": "8a8492ac98d1392dfb3c8d3deb6f2957f4ba54ad",
-          "title": "ChatGPT 现在可以通过广告收集器了解你在其他网站上的行为",
-          "title_zh": "ChatGPT 现在可以通过广告收集器了解你在其他网站上的行为",
-          "title_en": null,
-          "title_original": "ChatGPT 现在可以通过广告收集器了解你在其他网站上的行为",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.buchodi.com/chatgpt-now-knows-what-you-do-on-other-websites-via-ad-collector",
-          "source": "www.buchodi.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-09-20T18:05:38.317000Z"
-        },
-        {
-          "id": "4ebf06811dff69eb75975c005a0f1b526fdcac85",
-          "title": "ChatGPT 现在可以通过广告收集器了解你在其他网站上的行为 / ChatGPT now knows what you do on other websites via ad collector",
-          "title_zh": "ChatGPT 现在可以通过广告收集器了解你在其他网站上的行为",
-          "title_en": "ChatGPT now knows what you do on other websites via ad collector",
-          "title_original": "ChatGPT now knows what you do on other websites via ad collector",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.buchodi.com/chatgpt-now-knows-what-you-do-on-other-websites-via-ad-collector",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-09-20T15:18:44Z"
-        },
-        {
-          "id": "7d18b5731ef9e28fff4e0ab0474ddc3c6c89b701",
-          "title": "ChatGPT 现在通过广告收集器知道您在其他网站上做了什么 / ChatGPT now knows what you do on other websites via ad collector",
-          "title_zh": "ChatGPT 现在通过广告收集器知道您在其他网站上做了什么",
-          "title_en": "ChatGPT now knows what you do on other websites via ad collector",
-          "title_original": "ChatGPT now knows what you do on other websites via ad collector",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=49776729",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-09-20T15:18:44Z"
-        }
-      ],
-      "item_count": 4,
-      "duplicate_count": 4,
-      "score": 0.8081,
-      "importance": 0.8081,
-      "importance_score": 0.8081,
-      "importance_label": "多源热议",
-      "importance_breakdown": {
-        "editorial": 0.76,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7417,
-        "story_heat": 0.75
-      },
-      "category": "multi_source",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-20T15:18:44Z",
-      "latest_at": "2026-09-20T18:05:38.317000Z",
-      "primary_item": {
-        "id": "844d7f12ef7fac27524e36cc5345e97f538ad2cc",
-        "title": "独立调查：ChatGPT 的 __obi 跨站 Cookie 可将站外浏览行为关联到 ChatGPT 账号",
-        "title_zh": "独立调查：ChatGPT 的 __obi 跨站 Cookie 可将站外浏览行为关联到 ChatGPT 账号",
-        "title_en": null,
-        "title_original": "独立调查：ChatGPT 的 __obi 跨站 Cookie 可将站外浏览行为关联到 ChatGPT 账号",
-        "summary": "作者通过自己手机上的流量捕获复现了 OpenAI 广告收集器机制：bzr.openai.com 在 .openai.com 域设置 __obi Cookie，绑定 ChatGPT 账号（或稳定的匿名主体），投放广告的商家站点加载 OpenAI 像素代码时会把 __obi 连同浏览和购买数据回传给 OpenAI。",
-        "recommend_reason_zh": null,
-        "url": "https://www.buchodi.com/chatgpt-now-knows-what-you-do-on-other-websites-via-ad-collector",
-        "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-        "source_name": "AI HOT"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-09-21T14:48:42.264433Z"
+        "scored_at": "2026-09-21T16:02:08.189143Z"
       }
     },
     {
@@ -384,15 +214,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8254,
-      "importance": 0.8254,
-      "importance_score": 0.8254,
+      "score": 0.8233,
+      "importance": 0.8233,
+      "importance_score": 0.8233,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.8077,
+        "recency": 0.7961,
         "story_heat": 0.0
       },
       "category": "official",
@@ -419,7 +249,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-21T14:48:42.264433Z"
+        "scored_at": "2026-09-21T16:02:08.189143Z"
       }
     },
     {
@@ -467,15 +297,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7782,
-      "importance": 0.7782,
-      "importance_score": 0.7782,
+      "score": 0.7757,
+      "importance": 0.7757,
+      "importance_score": 0.7757,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.78,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9589,
+        "recency": 0.9451,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -501,7 +331,119 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-21T14:48:42.264433Z"
+        "scored_at": "2026-09-21T16:02:08.189143Z"
+      }
+    },
+    {
+      "story_id": "story_ea2fc58d2431",
+      "title": "独立调查：ChatGPT 的 __obi 跨站 Cookie 可将站外浏览行为关联到 ChatGPT 账号",
+      "url": "https://www.buchodi.com/chatgpt-now-knows-what-you-do-on-other-websites-via-ad-collector",
+      "primary_url": "https://www.buchodi.com/chatgpt-now-knows-what-you-do-on-other-websites-via-ad-collector",
+      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "844d7f12ef7fac27524e36cc5345e97f538ad2cc",
+          "title": "独立调查：ChatGPT 的 __obi 跨站 Cookie 可将站外浏览行为关联到 ChatGPT 账号",
+          "title_zh": "独立调查：ChatGPT 的 __obi 跨站 Cookie 可将站外浏览行为关联到 ChatGPT 账号",
+          "title_en": null,
+          "title_original": "独立调查：ChatGPT 的 __obi 跨站 Cookie 可将站外浏览行为关联到 ChatGPT 账号",
+          "summary": "作者通过自己手机上的流量捕获复现了 OpenAI 广告收集器机制：bzr.openai.com 在 .openai.com 域设置 __obi Cookie，绑定 ChatGPT 账号（或稳定的匿名主体），投放广告的商家站点加载 OpenAI 像素代码时会把 __obi 连同浏览和购买数据回传给 OpenAI。",
+          "recommend_reason_zh": null,
+          "url": "https://www.buchodi.com/chatgpt-now-knows-what-you-do-on-other-websites-via-ad-collector",
+          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-20T18:05:38.317000Z"
+        },
+        {
+          "id": "8a8492ac98d1392dfb3c8d3deb6f2957f4ba54ad",
+          "title": "ChatGPT 现在可以通过广告收集器了解你在其他网站上的行为",
+          "title_zh": "ChatGPT 现在可以通过广告收集器了解你在其他网站上的行为",
+          "title_en": null,
+          "title_original": "ChatGPT 现在可以通过广告收集器了解你在其他网站上的行为",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.buchodi.com/chatgpt-now-knows-what-you-do-on-other-websites-via-ad-collector",
+          "source": "www.buchodi.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-09-20T18:05:38.317000Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News 热门（buzzing.cc 中文翻译）",
+        "www.buchodi.com"
+      ],
+      "items": [
+        {
+          "id": "844d7f12ef7fac27524e36cc5345e97f538ad2cc",
+          "title": "独立调查：ChatGPT 的 __obi 跨站 Cookie 可将站外浏览行为关联到 ChatGPT 账号",
+          "title_zh": "独立调查：ChatGPT 的 __obi 跨站 Cookie 可将站外浏览行为关联到 ChatGPT 账号",
+          "title_en": null,
+          "title_original": "独立调查：ChatGPT 的 __obi 跨站 Cookie 可将站外浏览行为关联到 ChatGPT 账号",
+          "summary": "作者通过自己手机上的流量捕获复现了 OpenAI 广告收集器机制：bzr.openai.com 在 .openai.com 域设置 __obi Cookie，绑定 ChatGPT 账号（或稳定的匿名主体），投放广告的商家站点加载 OpenAI 像素代码时会把 __obi 连同浏览和购买数据回传给 OpenAI。",
+          "recommend_reason_zh": null,
+          "url": "https://www.buchodi.com/chatgpt-now-knows-what-you-do-on-other-websites-via-ad-collector",
+          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-20T18:05:38.317000Z"
+        },
+        {
+          "id": "8a8492ac98d1392dfb3c8d3deb6f2957f4ba54ad",
+          "title": "ChatGPT 现在可以通过广告收集器了解你在其他网站上的行为",
+          "title_zh": "ChatGPT 现在可以通过广告收集器了解你在其他网站上的行为",
+          "title_en": null,
+          "title_original": "ChatGPT 现在可以通过广告收集器了解你在其他网站上的行为",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.buchodi.com/chatgpt-now-knows-what-you-do-on-other-websites-via-ad-collector",
+          "source": "www.buchodi.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-09-20T18:05:38.317000Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.7562,
+      "importance": 0.7562,
+      "importance_score": 0.7562,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.76,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.731,
+        "story_heat": 0.25
+      },
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-20T18:05:38.317000Z",
+      "latest_at": "2026-09-20T18:05:38.317000Z",
+      "primary_item": {
+        "id": "844d7f12ef7fac27524e36cc5345e97f538ad2cc",
+        "title": "独立调查：ChatGPT 的 __obi 跨站 Cookie 可将站外浏览行为关联到 ChatGPT 账号",
+        "title_zh": "独立调查：ChatGPT 的 __obi 跨站 Cookie 可将站外浏览行为关联到 ChatGPT 账号",
+        "title_en": null,
+        "title_original": "独立调查：ChatGPT 的 __obi 跨站 Cookie 可将站外浏览行为关联到 ChatGPT 账号",
+        "summary": "作者通过自己手机上的流量捕获复现了 OpenAI 广告收集器机制：bzr.openai.com 在 .openai.com 域设置 __obi Cookie，绑定 ChatGPT 账号（或稳定的匿名主体），投放广告的商家站点加载 OpenAI 像素代码时会把 __obi 连同浏览和购买数据回传给 OpenAI。",
+        "recommend_reason_zh": null,
+        "url": "https://www.buchodi.com/chatgpt-now-knows-what-you-do-on-other-websites-via-ad-collector",
+        "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+        "source_name": "AI HOT"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-09-21T16:02:08.189143Z"
       }
     },
     {
@@ -549,15 +491,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7551,
-      "importance": 0.7551,
-      "importance_score": 0.7551,
+      "score": 0.7527,
+      "importance": 0.7527,
+      "importance_score": 0.7527,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9304,
+        "recency": 0.917,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -583,7 +525,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-21T14:48:42.264433Z"
+        "scored_at": "2026-09-21T16:02:08.189143Z"
       }
     },
     {
@@ -631,15 +573,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7476,
-      "importance": 0.7476,
-      "importance_score": 0.7476,
+      "score": 0.7452,
+      "importance": 0.7452,
+      "importance_score": 0.7452,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.71,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9054,
+        "recency": 0.8924,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -664,7 +606,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-21T14:48:42.264433Z"
+        "scored_at": "2026-09-21T16:02:08.189143Z"
       }
     },
     {
@@ -712,15 +654,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7435,
-      "importance": 0.7435,
-      "importance_score": 0.7435,
+      "score": 0.7415,
+      "importance": 0.7415,
+      "importance_score": 0.7415,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.78,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7662,
+        "recency": 0.7552,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -745,7 +687,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-21T14:48:42.264433Z"
+        "scored_at": "2026-09-21T16:02:08.189143Z"
       }
     },
     {
@@ -793,15 +735,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7301,
-      "importance": 0.7301,
-      "importance_score": 0.7301,
+      "score": 0.7279,
+      "importance": 0.7279,
+      "importance_score": 0.7279,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.69,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8416,
+        "recency": 0.8295,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -826,7 +768,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-21T14:48:42.264433Z"
+        "scored_at": "2026-09-21T16:02:08.189143Z"
       }
     },
     {
@@ -874,15 +816,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7551,
-      "importance": 0.7551,
-      "importance_score": 0.7551,
+      "score": 0.7527,
+      "importance": 0.7527,
+      "importance_score": 0.7527,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9304,
+        "recency": 0.917,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -908,7 +850,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-21T14:48:42.264433Z"
+        "scored_at": "2026-09-21T16:02:08.189143Z"
       }
     },
     {
@@ -956,15 +898,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7551,
-      "importance": 0.7551,
-      "importance_score": 0.7551,
+      "score": 0.7527,
+      "importance": 0.7527,
+      "importance_score": 0.7527,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9304,
+        "recency": 0.917,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -990,7 +932,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-21T14:48:42.264433Z"
+        "scored_at": "2026-09-21T16:02:08.189143Z"
       }
     },
     {
@@ -1038,15 +980,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7527,
-      "importance": 0.7527,
-      "importance_score": 0.7527,
+      "score": 0.7503,
+      "importance": 0.7503,
+      "importance_score": 0.7503,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9171,
+        "recency": 0.9039,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1072,7 +1014,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-21T14:48:42.264433Z"
+        "scored_at": "2026-09-21T16:02:08.189143Z"
       }
     },
     {
@@ -1120,15 +1062,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7527,
-      "importance": 0.7527,
-      "importance_score": 0.7527,
+      "score": 0.7503,
+      "importance": 0.7503,
+      "importance_score": 0.7503,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9171,
+        "recency": 0.9039,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1154,7 +1096,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-21T14:48:42.264433Z"
+        "scored_at": "2026-09-21T16:02:08.189143Z"
       }
     },
     {
@@ -1230,15 +1172,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.6125,
-      "importance": 0.6125,
-      "importance_score": 0.6125,
+      "score": 0.6099,
+      "importance": 0.6099,
+      "importance_score": 0.6099,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.4896,
         "source_tier": 0.58,
         "ai_relevance": 0.68,
-        "recency": 0.9832,
+        "recency": 0.9691,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1263,7 +1205,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-21T14:48:42.264433Z"
+        "scored_at": "2026-09-21T16:02:08.189143Z"
       }
     },
     {
@@ -1311,21 +1253,20 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7503,
-      "importance": 0.7503,
-      "importance_score": 0.7503,
+      "score": 0.748,
+      "importance": 0.748,
+      "importance_score": 0.748,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9038,
+        "recency": 0.8909,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-09-21T07:47:19.080705Z",
       "latest_at": "2026-09-21T07:47:19.080705Z",
@@ -1345,7 +1286,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-21T14:48:42.264433Z"
+        "scored_at": "2026-09-21T16:02:08.189143Z"
       }
     },
     {
@@ -1480,15 +1421,15 @@
       ],
       "item_count": 4,
       "duplicate_count": 4,
-      "score": 0.5754,
-      "importance": 0.5754,
-      "importance_score": 0.5754,
+      "score": 0.5731,
+      "importance": 0.5731,
+      "importance_score": 0.5731,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8866,
+        "recency": 0.8739,
         "story_heat": 0.75
       },
       "category": "multi_source",
@@ -1513,7 +1454,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-21T14:48:42.264433Z"
+        "scored_at": "2026-09-21T16:02:08.189143Z"
       }
     },
     {
@@ -1590,15 +1531,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.6019,
-      "importance": 0.6019,
-      "importance_score": 0.6019,
+      "score": 0.5995,
+      "importance": 0.5995,
+      "importance_score": 0.5995,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.4896,
         "source_tier": 0.58,
         "ai_relevance": 0.68,
-        "recency": 0.9246,
+        "recency": 0.9114,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1623,7 +1564,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-21T14:48:42.264433Z"
+        "scored_at": "2026-09-21T16:02:08.189143Z"
       }
     },
     {
@@ -1671,21 +1612,20 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7503,
-      "importance": 0.7503,
-      "importance_score": 0.7503,
+      "score": 0.748,
+      "importance": 0.748,
+      "importance_score": 0.748,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9038,
+        "recency": 0.8909,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-09-21T07:47:19.080705Z",
       "latest_at": "2026-09-21T07:47:19.080705Z",
@@ -1705,7 +1645,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-21T14:48:42.264433Z"
+        "scored_at": "2026-09-21T16:02:08.189143Z"
       }
     },
     {
@@ -1811,15 +1751,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5584,
-      "importance": 0.5584,
-      "importance_score": 0.5584,
+      "score": 0.556,
+      "importance": 0.556,
+      "importance_score": 0.556,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9313,
+        "recency": 0.9179,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1844,117 +1784,117 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-21T14:48:42.264433Z"
+        "scored_at": "2026-09-21T16:02:08.189143Z"
       }
     },
     {
-      "story_id": "story_339087913c65",
-      "title": "M5 Ultra Mac Studio 评测：本地 AI 代理的梦想 Mac / M5 Ultra Mac Studio Review: The Dream Mac for Local AI Agents",
-      "url": "https://www.macstories.net/stories/m5-ultra-mac-studio-review-the-dream-mac-for-local-ai-agents",
-      "primary_url": "https://www.macstories.net/stories/m5-ultra-mac-studio-review-the-dream-mac-for-local-ai-agents",
-      "source": "Hacker News (黑客新闻)",
-      "source_name": "Info Flow",
+      "story_id": "story_92bbb2d36215",
+      "title": "macOS 27: Workaround to avoid downloading AI models and save storage",
+      "url": "https://www.reddit.com/r/MacOSBeta/comments/1vlnf13/workaround_to_avoid_downloading_ai_models_and",
+      "primary_url": "https://www.reddit.com/r/MacOSBeta/comments/1vlnf13/workaround_to_avoid_downloading_ai_models_and",
+      "source": "Hacker News",
+      "source_name": "TechURLs",
       "sources": [
         {
-          "id": "54a4a9f8b0400221cea5de7316b68aa0366c57c1",
-          "title": "M5 Ultra Mac Studio 评测：本地 AI 代理的梦想 Mac / M5 Ultra Mac Studio Review: The Dream Mac for Local AI Agents",
-          "title_zh": "M5 Ultra Mac Studio 评测：本地 AI 代理的梦想 Mac",
-          "title_en": "M5 Ultra Mac Studio Review: The Dream Mac for Local AI Agents",
-          "title_original": "M5 Ultra Mac Studio Review: The Dream Mac for Local AI Agents",
+          "id": "2e5eccf353d874b8ae90aa0342fa73f62fc58d83",
+          "title": "macOS 27: Workaround to avoid downloading AI models and save storage",
+          "title_zh": null,
+          "title_en": "macOS 27: Workaround to avoid downloading AI models and save storage",
+          "title_original": "macOS 27: Workaround to avoid downloading AI models and save storage",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.macstories.net/stories/m5-ultra-mac-studio-review-the-dream-mac-for-local-ai-agents",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-09-21T13:53:27Z"
+          "url": "https://www.reddit.com/r/MacOSBeta/comments/1vlnf13/workaround_to_avoid_downloading_ai_models_and",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-09-21T14:10:49Z"
         },
         {
-          "id": "562b9b076d66935c4baae1a8537f638e033f294f",
-          "title": "M5 Ultra Mac Studio 评测：本地 AI 代理的梦想 Mac / M5 Ultra Mac Studio Review: The Dream Mac for Local AI Agents",
-          "title_zh": "M5 Ultra Mac Studio 评测：本地 AI 代理的梦想 Mac",
-          "title_en": "M5 Ultra Mac Studio Review: The Dream Mac for Local AI Agents",
-          "title_original": "M5 Ultra Mac Studio Review: The Dream Mac for Local AI Agents",
+          "id": "7e7e8330d2a41a8071357bef89144383d6d874f4",
+          "title": "macOS 27: Workaround to avoid downloading AI models and save storage",
+          "title_zh": null,
+          "title_en": "macOS 27: Workaround to avoid downloading AI models and save storage",
+          "title_original": "macOS 27: Workaround to avoid downloading AI models and save storage",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=49787313",
+          "url": "https://news.ycombinator.com/item?id=49787535",
           "source": "hackernews",
           "source_name": "NewsNow",
           "site_id": "newsnow",
-          "published_at": "2026-09-21T13:53:27Z"
+          "published_at": "2026-09-21T14:10:49Z"
         }
       ],
       "source_count": 2,
       "source_names": [
-        "Hacker News (黑客新闻)",
+        "Hacker News",
         "hackernews"
       ],
       "items": [
         {
-          "id": "54a4a9f8b0400221cea5de7316b68aa0366c57c1",
-          "title": "M5 Ultra Mac Studio 评测：本地 AI 代理的梦想 Mac / M5 Ultra Mac Studio Review: The Dream Mac for Local AI Agents",
-          "title_zh": "M5 Ultra Mac Studio 评测：本地 AI 代理的梦想 Mac",
-          "title_en": "M5 Ultra Mac Studio Review: The Dream Mac for Local AI Agents",
-          "title_original": "M5 Ultra Mac Studio Review: The Dream Mac for Local AI Agents",
+          "id": "2e5eccf353d874b8ae90aa0342fa73f62fc58d83",
+          "title": "macOS 27: Workaround to avoid downloading AI models and save storage",
+          "title_zh": null,
+          "title_en": "macOS 27: Workaround to avoid downloading AI models and save storage",
+          "title_original": "macOS 27: Workaround to avoid downloading AI models and save storage",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.macstories.net/stories/m5-ultra-mac-studio-review-the-dream-mac-for-local-ai-agents",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-09-21T13:53:27Z"
+          "url": "https://www.reddit.com/r/MacOSBeta/comments/1vlnf13/workaround_to_avoid_downloading_ai_models_and",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-09-21T14:10:49Z"
         },
         {
-          "id": "562b9b076d66935c4baae1a8537f638e033f294f",
-          "title": "M5 Ultra Mac Studio 评测：本地 AI 代理的梦想 Mac / M5 Ultra Mac Studio Review: The Dream Mac for Local AI Agents",
-          "title_zh": "M5 Ultra Mac Studio 评测：本地 AI 代理的梦想 Mac",
-          "title_en": "M5 Ultra Mac Studio Review: The Dream Mac for Local AI Agents",
-          "title_original": "M5 Ultra Mac Studio Review: The Dream Mac for Local AI Agents",
+          "id": "7e7e8330d2a41a8071357bef89144383d6d874f4",
+          "title": "macOS 27: Workaround to avoid downloading AI models and save storage",
+          "title_zh": null,
+          "title_en": "macOS 27: Workaround to avoid downloading AI models and save storage",
+          "title_original": "macOS 27: Workaround to avoid downloading AI models and save storage",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=49787313",
+          "url": "https://news.ycombinator.com/item?id=49787535",
           "source": "hackernews",
           "source_name": "NewsNow",
           "site_id": "newsnow",
-          "published_at": "2026-09-21T13:53:27Z"
+          "published_at": "2026-09-21T14:10:49Z"
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5435,
-      "importance": 0.5435,
-      "importance_score": 0.5435,
+      "score": 0.5417,
+      "importance": 0.5417,
+      "importance_score": 0.5417,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9871,
+        "recency": 0.977,
         "story_heat": 0.25
       },
       "category": "watch",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-09-21T13:53:27Z",
-      "latest_at": "2026-09-21T13:53:27Z",
+      "earliest_at": "2026-09-21T14:10:49Z",
+      "latest_at": "2026-09-21T14:10:49Z",
       "primary_item": {
-        "id": "54a4a9f8b0400221cea5de7316b68aa0366c57c1",
-        "title": "M5 Ultra Mac Studio 评测：本地 AI 代理的梦想 Mac / M5 Ultra Mac Studio Review: The Dream Mac for Local AI Agents",
-        "title_zh": "M5 Ultra Mac Studio 评测：本地 AI 代理的梦想 Mac",
-        "title_en": "M5 Ultra Mac Studio Review: The Dream Mac for Local AI Agents",
-        "title_original": "M5 Ultra Mac Studio Review: The Dream Mac for Local AI Agents",
+        "id": "2e5eccf353d874b8ae90aa0342fa73f62fc58d83",
+        "title": "macOS 27: Workaround to avoid downloading AI models and save storage",
+        "title_zh": null,
+        "title_en": "macOS 27: Workaround to avoid downloading AI models and save storage",
+        "title_original": "macOS 27: Workaround to avoid downloading AI models and save storage",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://www.macstories.net/stories/m5-ultra-mac-studio-review-the-dream-mac-for-local-ai-agents",
-        "source": "Hacker News (黑客新闻)",
-        "source_name": "Info Flow"
+        "url": "https://www.reddit.com/r/MacOSBeta/comments/1vlnf13/workaround_to_avoid_downloading_ai_models_and",
+        "source": "Hacker News",
+        "source_name": "TechURLs"
       },
       "persona_id": "pragmatic",
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-21T14:48:42.264433Z"
+        "scored_at": "2026-09-21T16:02:08.189143Z"
       }
     }
   ]
