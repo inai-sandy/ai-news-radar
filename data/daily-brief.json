@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-21T21:47:26.179008Z",
+  "generated_at": "2026-09-21T22:47:21.137278Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -48,15 +48,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8483,
-      "importance": 0.8483,
-      "importance_score": 0.8483,
+      "score": 0.846,
+      "importance": 0.846,
+      "importance_score": 0.846,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.99,
-        "recency": 0.8903,
+        "recency": 0.8775,
         "story_heat": 0.0
       },
       "category": "official",
@@ -83,7 +83,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-21T21:48:17.126904Z"
+        "scored_at": "2026-09-21T22:58:23.823266Z"
       }
     },
     {
@@ -131,15 +131,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.843,
-      "importance": 0.843,
-      "importance_score": 0.843,
+      "score": 0.8406,
+      "importance": 0.8406,
+      "importance_score": 0.8406,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.9053,
+        "recency": 0.8924,
         "story_heat": 0.0
       },
       "category": "official",
@@ -166,7 +166,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-21T21:48:17.126904Z"
+        "scored_at": "2026-09-21T22:58:23.823266Z"
       }
     },
     {
@@ -214,15 +214,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8363,
-      "importance": 0.8363,
-      "importance_score": 0.8363,
+      "score": 0.834,
+      "importance": 0.834,
+      "importance_score": 0.834,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.8682,
+        "recency": 0.8557,
         "story_heat": 0.0
       },
       "category": "official",
@@ -249,7 +249,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-21T21:48:17.126904Z"
+        "scored_at": "2026-09-21T22:58:23.823266Z"
       }
     },
     {
@@ -297,15 +297,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8425,
-      "importance": 0.8425,
-      "importance_score": 0.8425,
+      "score": 0.84,
+      "importance": 0.84,
+      "importance_score": 0.84,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.9918,
+        "recency": 0.9776,
         "story_heat": 0.0
       },
       "category": "official",
@@ -332,7 +332,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-21T21:48:17.126904Z"
+        "scored_at": "2026-09-21T22:58:23.823266Z"
       }
     },
     {
@@ -380,15 +380,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8238,
-      "importance": 0.8238,
-      "importance_score": 0.8238,
+      "score": 0.8216,
+      "importance": 0.8216,
+      "importance_score": 0.8216,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.8434,
+        "recency": 0.8314,
         "story_heat": 0.0
       },
       "category": "official",
@@ -415,89 +415,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-21T21:48:17.126904Z"
-      }
-    },
-    {
-      "story_id": "story_666ff01c3033",
-      "title": "不列颠哥伦比亚省起诉 OpenAI，指其未在枪击案前将 flagged ChatGPT 活动转介警方 / Bloomberg： British Columbia sued OpenAI in California， alleging flagged ChatGPT activity should have…",
-      "url": "https://x.com/rohanpaul_ai/status/2102128625126605059",
-      "primary_url": "https://x.com/rohanpaul_ai/status/2102128625126605059",
-      "source": "X：Rohan Paul (@rohanpaul_ai)",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "6ba024751c1ae221c9aafc1b82e29d4dfd669b2f",
-          "title": "不列颠哥伦比亚省起诉 OpenAI，指其未在枪击案前将 flagged ChatGPT 活动转介警方 / Bloomberg： British Columbia sued OpenAI in California， alleging flagged ChatGPT activity should have…",
-          "title_zh": "不列颠哥伦比亚省起诉 OpenAI，指其未在枪击案前将 flagged ChatGPT 活动转介警方",
-          "title_en": "Bloomberg： British Columbia sued OpenAI in California， alleging flagged ChatGPT activity should have…",
-          "title_original": "Bloomberg： British Columbia sued OpenAI in California， alleging flagged ChatGPT activity should have…",
-          "summary": "不列颠哥伦比亚省在加州起诉 OpenAI，指 flagged 的 ChatGPT 活动本应在 2026 年 2 月 10 日 Tumbler Ridge 枪击案前通报警方，该案致 8 人死亡（含 5 名儿童和一名教育工作者）、27 人受伤。",
-          "recommend_reason_zh": null,
-          "url": "https://x.com/rohanpaul_ai/status/2102128625126605059",
-          "source": "X：Rohan Paul (@rohanpaul_ai)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-21T20:11:34Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "X：Rohan Paul (@rohanpaul_ai)"
-      ],
-      "items": [
-        {
-          "id": "6ba024751c1ae221c9aafc1b82e29d4dfd669b2f",
-          "title": "不列颠哥伦比亚省起诉 OpenAI，指其未在枪击案前将 flagged ChatGPT 活动转介警方 / Bloomberg： British Columbia sued OpenAI in California， alleging flagged ChatGPT activity should have…",
-          "title_zh": "不列颠哥伦比亚省起诉 OpenAI，指其未在枪击案前将 flagged ChatGPT 活动转介警方",
-          "title_en": "Bloomberg： British Columbia sued OpenAI in California， alleging flagged ChatGPT activity should have…",
-          "title_original": "Bloomberg： British Columbia sued OpenAI in California， alleging flagged ChatGPT activity should have…",
-          "summary": "不列颠哥伦比亚省在加州起诉 OpenAI，指 flagged 的 ChatGPT 活动本应在 2026 年 2 月 10 日 Tumbler Ridge 枪击案前通报警方，该案致 8 人死亡（含 5 名儿童和一名教育工作者）、27 人受伤。",
-          "recommend_reason_zh": null,
-          "url": "https://x.com/rohanpaul_ai/status/2102128625126605059",
-          "source": "X：Rohan Paul (@rohanpaul_ai)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-21T20:11:34Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7815,
-      "importance": 0.7815,
-      "importance_score": 0.7815,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.78,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.9772,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-21T20:11:34Z",
-      "latest_at": "2026-09-21T20:11:34Z",
-      "primary_item": {
-        "id": "6ba024751c1ae221c9aafc1b82e29d4dfd669b2f",
-        "title": "不列颠哥伦比亚省起诉 OpenAI，指其未在枪击案前将 flagged ChatGPT 活动转介警方 / Bloomberg： British Columbia sued OpenAI in California， alleging flagged ChatGPT activity should have…",
-        "title_zh": "不列颠哥伦比亚省起诉 OpenAI，指其未在枪击案前将 flagged ChatGPT 活动转介警方",
-        "title_en": "Bloomberg： British Columbia sued OpenAI in California， alleging flagged ChatGPT activity should have…",
-        "title_original": "Bloomberg： British Columbia sued OpenAI in California， alleging flagged ChatGPT activity should have…",
-        "summary": "不列颠哥伦比亚省在加州起诉 OpenAI，指 flagged 的 ChatGPT 活动本应在 2026 年 2 月 10 日 Tumbler Ridge 枪击案前通报警方，该案致 8 人死亡（含 5 名儿童和一名教育工作者）、27 人受伤。",
-        "recommend_reason_zh": null,
-        "url": "https://x.com/rohanpaul_ai/status/2102128625126605059",
-        "source": "X：Rohan Paul (@rohanpaul_ai)",
-        "source_name": "AI HOT"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-09-21T21:48:17.126904Z"
+        "scored_at": "2026-09-21T22:58:23.823266Z"
       }
     },
     {
@@ -545,15 +463,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8114,
-      "importance": 0.8114,
-      "importance_score": 0.8114,
+      "score": 0.8095,
+      "importance": 0.8095,
+      "importance_score": 0.8095,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.73,
+        "recency": 0.7196,
         "story_heat": 0.0
       },
       "category": "official",
@@ -580,7 +498,89 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-21T21:48:17.126904Z"
+        "scored_at": "2026-09-21T22:58:23.823266Z"
+      }
+    },
+    {
+      "story_id": "story_666ff01c3033",
+      "title": "不列颠哥伦比亚省起诉 OpenAI，指其未在枪击案前将 flagged ChatGPT 活动转介警方 / Bloomberg： British Columbia sued OpenAI in California， alleging flagged ChatGPT activity should have…",
+      "url": "https://x.com/rohanpaul_ai/status/2102128625126605059",
+      "primary_url": "https://x.com/rohanpaul_ai/status/2102128625126605059",
+      "source": "X：Rohan Paul (@rohanpaul_ai)",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "6ba024751c1ae221c9aafc1b82e29d4dfd669b2f",
+          "title": "不列颠哥伦比亚省起诉 OpenAI，指其未在枪击案前将 flagged ChatGPT 活动转介警方 / Bloomberg： British Columbia sued OpenAI in California， alleging flagged ChatGPT activity should have…",
+          "title_zh": "不列颠哥伦比亚省起诉 OpenAI，指其未在枪击案前将 flagged ChatGPT 活动转介警方",
+          "title_en": "Bloomberg： British Columbia sued OpenAI in California， alleging flagged ChatGPT activity should have…",
+          "title_original": "Bloomberg： British Columbia sued OpenAI in California， alleging flagged ChatGPT activity should have…",
+          "summary": "不列颠哥伦比亚省在加州起诉 OpenAI，指 flagged 的 ChatGPT 活动本应在 2026 年 2 月 10 日 Tumbler Ridge 枪击案前通报警方，该案致 8 人死亡（含 5 名儿童和一名教育工作者）、27 人受伤。",
+          "recommend_reason_zh": null,
+          "url": "https://x.com/rohanpaul_ai/status/2102128625126605059",
+          "source": "X：Rohan Paul (@rohanpaul_ai)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-21T20:11:34Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "X：Rohan Paul (@rohanpaul_ai)"
+      ],
+      "items": [
+        {
+          "id": "6ba024751c1ae221c9aafc1b82e29d4dfd669b2f",
+          "title": "不列颠哥伦比亚省起诉 OpenAI，指其未在枪击案前将 flagged ChatGPT 活动转介警方 / Bloomberg： British Columbia sued OpenAI in California， alleging flagged ChatGPT activity should have…",
+          "title_zh": "不列颠哥伦比亚省起诉 OpenAI，指其未在枪击案前将 flagged ChatGPT 活动转介警方",
+          "title_en": "Bloomberg： British Columbia sued OpenAI in California， alleging flagged ChatGPT activity should have…",
+          "title_original": "Bloomberg： British Columbia sued OpenAI in California， alleging flagged ChatGPT activity should have…",
+          "summary": "不列颠哥伦比亚省在加州起诉 OpenAI，指 flagged 的 ChatGPT 活动本应在 2026 年 2 月 10 日 Tumbler Ridge 枪击案前通报警方，该案致 8 人死亡（含 5 名儿童和一名教育工作者）、27 人受伤。",
+          "recommend_reason_zh": null,
+          "url": "https://x.com/rohanpaul_ai/status/2102128625126605059",
+          "source": "X：Rohan Paul (@rohanpaul_ai)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-21T20:11:34Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.779,
+      "importance": 0.779,
+      "importance_score": 0.779,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.78,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9632,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-21T20:11:34Z",
+      "latest_at": "2026-09-21T20:11:34Z",
+      "primary_item": {
+        "id": "6ba024751c1ae221c9aafc1b82e29d4dfd669b2f",
+        "title": "不列颠哥伦比亚省起诉 OpenAI，指其未在枪击案前将 flagged ChatGPT 活动转介警方 / Bloomberg： British Columbia sued OpenAI in California， alleging flagged ChatGPT activity should have…",
+        "title_zh": "不列颠哥伦比亚省起诉 OpenAI，指其未在枪击案前将 flagged ChatGPT 活动转介警方",
+        "title_en": "Bloomberg： British Columbia sued OpenAI in California， alleging flagged ChatGPT activity should have…",
+        "title_original": "Bloomberg： British Columbia sued OpenAI in California， alleging flagged ChatGPT activity should have…",
+        "summary": "不列颠哥伦比亚省在加州起诉 OpenAI，指 flagged 的 ChatGPT 活动本应在 2026 年 2 月 10 日 Tumbler Ridge 枪击案前通报警方，该案致 8 人死亡（含 5 名儿童和一名教育工作者）、27 人受伤。",
+        "recommend_reason_zh": null,
+        "url": "https://x.com/rohanpaul_ai/status/2102128625126605059",
+        "source": "X：Rohan Paul (@rohanpaul_ai)",
+        "source_name": "AI HOT"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-09-21T22:58:23.823266Z"
       }
     },
     {
@@ -628,15 +628,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7698,
-      "importance": 0.7698,
-      "importance_score": 0.7698,
+      "score": 0.7673,
+      "importance": 0.7673,
+      "importance_score": 0.7673,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.74,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9789,
+        "recency": 0.9649,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -662,7 +662,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-21T21:48:17.126904Z"
+        "scored_at": "2026-09-21T22:58:23.823266Z"
       }
     },
     {
@@ -710,15 +710,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7682,
-      "importance": 0.7682,
-      "importance_score": 0.7682,
+      "score": 0.7656,
+      "importance": 0.7656,
+      "importance_score": 0.7656,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.73,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9865,
+        "recency": 0.9724,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -744,7 +744,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-21T21:48:17.126904Z"
+        "scored_at": "2026-09-21T22:58:23.823266Z"
       }
     },
     {
@@ -792,15 +792,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7616,
-      "importance": 0.7616,
-      "importance_score": 0.7616,
+      "score": 0.7594,
+      "importance": 0.7594,
+      "importance_score": 0.7594,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.78,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8667,
+        "recency": 0.8543,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -826,7 +826,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-21T21:48:17.126904Z"
+        "scored_at": "2026-09-21T22:58:23.823266Z"
       }
     },
     {
@@ -874,15 +874,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8174,
-      "importance": 0.8174,
-      "importance_score": 0.8174,
+      "score": 0.8153,
+      "importance": 0.8153,
+      "importance_score": 0.8153,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.8077,
+        "recency": 0.7961,
         "story_heat": 0.0
       },
       "category": "official",
@@ -909,7 +909,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-21T21:48:17.126904Z"
+        "scored_at": "2026-09-21T22:58:23.823266Z"
       }
     },
     {
@@ -957,15 +957,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7567,
-      "importance": 0.7567,
-      "importance_score": 0.7567,
+      "score": 0.7542,
+      "importance": 0.7542,
+      "importance_score": 0.7542,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.69,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9896,
+        "recency": 0.9754,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -991,7 +991,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-21T21:48:17.126904Z"
+        "scored_at": "2026-09-21T22:58:23.823266Z"
       }
     },
     {
@@ -1039,15 +1039,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7479,
-      "importance": 0.7479,
-      "importance_score": 0.7479,
+      "score": 0.7454,
+      "importance": 0.7454,
+      "importance_score": 0.7454,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.66,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9906,
+        "recency": 0.9765,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1072,88 +1072,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-21T21:48:17.126904Z"
-      }
-    },
-    {
-      "story_id": "story_ae766cda486d",
-      "title": "Artificial Analysis 评测 Grok 4.7：智能体知识工作跻身前沿，编码代理得分升至 56 / Benchmarking Grok 4.7",
-      "url": "https://artificialanalysis.ai/articles/benchmarking-grok-4-7",
-      "primary_url": "https://artificialanalysis.ai/articles/benchmarking-grok-4-7",
-      "source": "Artificial Analysis 完整文章（网页）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "6f3c506835fb8b8b31e458bd1655b7e8a7b999d6",
-          "title": "Artificial Analysis 评测 Grok 4.7：智能体知识工作跻身前沿，编码代理得分升至 56 / Benchmarking Grok 4.7",
-          "title_zh": "Artificial Analysis 评测 Grok 4.7：智能体知识工作跻身前沿，编码代理得分升至 56",
-          "title_en": "Benchmarking Grok 4.7",
-          "title_original": "Benchmarking Grok 4.7",
-          "summary": "Artificial Analysis 发布 Grok 4.7 评测，该模型在 Intelligence Index 得 46 分，较 Grok 4.6 高 2 分，AA-Briefcase 得 1657 Elo（+111），仅次于 Claude Opus 5 和 Claude Fable 5.1。",
-          "recommend_reason_zh": null,
-          "url": "https://artificialanalysis.ai/articles/benchmarking-grok-4-7",
-          "source": "Artificial Analysis 完整文章（网页）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-21T19:41:25.079000Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Artificial Analysis 完整文章（网页）"
-      ],
-      "items": [
-        {
-          "id": "6f3c506835fb8b8b31e458bd1655b7e8a7b999d6",
-          "title": "Artificial Analysis 评测 Grok 4.7：智能体知识工作跻身前沿，编码代理得分升至 56 / Benchmarking Grok 4.7",
-          "title_zh": "Artificial Analysis 评测 Grok 4.7：智能体知识工作跻身前沿，编码代理得分升至 56",
-          "title_en": "Benchmarking Grok 4.7",
-          "title_original": "Benchmarking Grok 4.7",
-          "summary": "Artificial Analysis 发布 Grok 4.7 评测，该模型在 Intelligence Index 得 46 分，较 Grok 4.6 高 2 分，AA-Briefcase 得 1657 Elo（+111），仅次于 Claude Opus 5 和 Claude Fable 5.1。",
-          "recommend_reason_zh": null,
-          "url": "https://artificialanalysis.ai/articles/benchmarking-grok-4-7",
-          "source": "Artificial Analysis 完整文章（网页）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-21T19:41:25.079000Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7472,
-      "importance": 0.7472,
-      "importance_score": 0.7472,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.67,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.9701,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-09-21T19:41:25.079000Z",
-      "latest_at": "2026-09-21T19:41:25.079000Z",
-      "primary_item": {
-        "id": "6f3c506835fb8b8b31e458bd1655b7e8a7b999d6",
-        "title": "Artificial Analysis 评测 Grok 4.7：智能体知识工作跻身前沿，编码代理得分升至 56 / Benchmarking Grok 4.7",
-        "title_zh": "Artificial Analysis 评测 Grok 4.7：智能体知识工作跻身前沿，编码代理得分升至 56",
-        "title_en": "Benchmarking Grok 4.7",
-        "title_original": "Benchmarking Grok 4.7",
-        "summary": "Artificial Analysis 发布 Grok 4.7 评测，该模型在 Intelligence Index 得 46 分，较 Grok 4.6 高 2 分，AA-Briefcase 得 1657 Elo（+111），仅次于 Claude Opus 5 和 Claude Fable 5.1。",
-        "recommend_reason_zh": null,
-        "url": "https://artificialanalysis.ai/articles/benchmarking-grok-4-7",
-        "source": "Artificial Analysis 完整文章（网页）",
-        "source_name": "AI HOT"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-09-21T21:48:17.126904Z"
+        "scored_at": "2026-09-21T22:58:23.823266Z"
       }
     },
     {
@@ -1230,15 +1149,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.747,
-      "importance": 0.747,
-      "importance_score": 0.747,
+      "score": 0.7451,
+      "importance": 0.7451,
+      "importance_score": 0.7451,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.73,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.73,
+        "recency": 0.7196,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -1264,7 +1183,88 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-21T21:48:17.126904Z"
+        "scored_at": "2026-09-21T22:58:23.823266Z"
+      }
+    },
+    {
+      "story_id": "story_ae766cda486d",
+      "title": "Artificial Analysis 评测 Grok 4.7：智能体知识工作跻身前沿，编码代理得分升至 56 / Benchmarking Grok 4.7",
+      "url": "https://artificialanalysis.ai/articles/benchmarking-grok-4-7",
+      "primary_url": "https://artificialanalysis.ai/articles/benchmarking-grok-4-7",
+      "source": "Artificial Analysis 完整文章（网页）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "6f3c506835fb8b8b31e458bd1655b7e8a7b999d6",
+          "title": "Artificial Analysis 评测 Grok 4.7：智能体知识工作跻身前沿，编码代理得分升至 56 / Benchmarking Grok 4.7",
+          "title_zh": "Artificial Analysis 评测 Grok 4.7：智能体知识工作跻身前沿，编码代理得分升至 56",
+          "title_en": "Benchmarking Grok 4.7",
+          "title_original": "Benchmarking Grok 4.7",
+          "summary": "Artificial Analysis 发布 Grok 4.7 评测，该模型在 Intelligence Index 得 46 分，较 Grok 4.6 高 2 分，AA-Briefcase 得 1657 Elo（+111），仅次于 Claude Opus 5 和 Claude Fable 5.1。",
+          "recommend_reason_zh": null,
+          "url": "https://artificialanalysis.ai/articles/benchmarking-grok-4-7",
+          "source": "Artificial Analysis 完整文章（网页）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-21T19:41:25.079000Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Artificial Analysis 完整文章（网页）"
+      ],
+      "items": [
+        {
+          "id": "6f3c506835fb8b8b31e458bd1655b7e8a7b999d6",
+          "title": "Artificial Analysis 评测 Grok 4.7：智能体知识工作跻身前沿，编码代理得分升至 56 / Benchmarking Grok 4.7",
+          "title_zh": "Artificial Analysis 评测 Grok 4.7：智能体知识工作跻身前沿，编码代理得分升至 56",
+          "title_en": "Benchmarking Grok 4.7",
+          "title_original": "Benchmarking Grok 4.7",
+          "summary": "Artificial Analysis 发布 Grok 4.7 评测，该模型在 Intelligence Index 得 46 分，较 Grok 4.6 高 2 分，AA-Briefcase 得 1657 Elo（+111），仅次于 Claude Opus 5 和 Claude Fable 5.1。",
+          "recommend_reason_zh": null,
+          "url": "https://artificialanalysis.ai/articles/benchmarking-grok-4-7",
+          "source": "Artificial Analysis 完整文章（网页）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-21T19:41:25.079000Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7447,
+      "importance": 0.7447,
+      "importance_score": 0.7447,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.67,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9562,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-09-21T19:41:25.079000Z",
+      "latest_at": "2026-09-21T19:41:25.079000Z",
+      "primary_item": {
+        "id": "6f3c506835fb8b8b31e458bd1655b7e8a7b999d6",
+        "title": "Artificial Analysis 评测 Grok 4.7：智能体知识工作跻身前沿，编码代理得分升至 56 / Benchmarking Grok 4.7",
+        "title_zh": "Artificial Analysis 评测 Grok 4.7：智能体知识工作跻身前沿，编码代理得分升至 56",
+        "title_en": "Benchmarking Grok 4.7",
+        "title_original": "Benchmarking Grok 4.7",
+        "summary": "Artificial Analysis 发布 Grok 4.7 评测，该模型在 Intelligence Index 得 46 分，较 Grok 4.6 高 2 分，AA-Briefcase 得 1657 Elo（+111），仅次于 Claude Opus 5 和 Claude Fable 5.1。",
+        "recommend_reason_zh": null,
+        "url": "https://artificialanalysis.ai/articles/benchmarking-grok-4-7",
+        "source": "Artificial Analysis 完整文章（网页）",
+        "source_name": "AI HOT"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-09-21T22:58:23.823266Z"
       }
     },
     {
@@ -1312,15 +1312,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7468,
-      "importance": 0.7468,
-      "importance_score": 0.7468,
+      "score": 0.7444,
+      "importance": 0.7444,
+      "importance_score": 0.7444,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.69,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9346,
+        "recency": 0.9212,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1345,7 +1345,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-21T21:48:17.126904Z"
+        "scored_at": "2026-09-21T22:58:23.823266Z"
       }
     },
     {
@@ -1393,15 +1393,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7425,
-      "importance": 0.7425,
-      "importance_score": 0.7425,
+      "score": 0.74,
+      "importance": 0.74,
+      "importance_score": 0.74,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.65,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9771,
+        "recency": 0.9631,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1426,7 +1426,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-21T21:48:17.126904Z"
+        "scored_at": "2026-09-21T22:58:23.823266Z"
       }
     },
     {
@@ -1503,15 +1503,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7398,
-      "importance": 0.7398,
-      "importance_score": 0.7398,
+      "score": 0.7376,
+      "importance": 0.7376,
+      "importance_score": 0.7376,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.62,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8736,
+        "recency": 0.8611,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -1537,7 +1537,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-21T21:48:17.126904Z"
+        "scored_at": "2026-09-21T22:58:23.823266Z"
       }
     },
     {
@@ -1585,15 +1585,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.739,
-      "importance": 0.739,
-      "importance_score": 0.739,
+      "score": 0.7368,
+      "importance": 0.7368,
+      "importance_score": 0.7368,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8409,
+        "recency": 0.8289,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1618,7 +1618,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-21T21:48:17.126904Z"
+        "scored_at": "2026-09-21T22:58:23.823266Z"
       }
     },
     {
@@ -1666,15 +1666,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7348,
-      "importance": 0.7348,
-      "importance_score": 0.7348,
+      "score": 0.7325,
+      "importance": 0.7325,
+      "importance_score": 0.7325,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.69,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8675,
+        "recency": 0.8551,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1699,7 +1699,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-21T21:48:17.126904Z"
+        "scored_at": "2026-09-21T22:58:23.823266Z"
       }
     }
   ]
