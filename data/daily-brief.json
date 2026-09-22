@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-22T17:47:24.237836Z",
+  "generated_at": "2026-09-22T18:47:19.752692Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -48,15 +48,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8584,
-      "importance": 0.8584,
-      "importance_score": 0.8584,
+      "score": 0.8558,
+      "importance": 0.8558,
+      "importance_score": 0.8558,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.9911,
+        "recency": 0.9769,
         "story_heat": 0.0
       },
       "category": "official",
@@ -83,7 +83,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-22T17:48:16.379602Z"
+        "scored_at": "2026-09-22T19:03:22.649533Z"
       }
     },
     {
@@ -131,15 +131,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8557,
-      "importance": 0.8557,
-      "importance_score": 0.8557,
+      "score": 0.8531,
+      "importance": 0.8531,
+      "importance_score": 0.8531,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.86,
         "source_tier": 1.0,
         "ai_relevance": 1.0,
-        "recency": 0.9871,
+        "recency": 0.973,
         "story_heat": 0.0
       },
       "category": "official",
@@ -165,7 +165,119 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-22T17:48:16.379602Z"
+        "scored_at": "2026-09-22T19:03:22.649533Z"
+      }
+    },
+    {
+      "story_id": "story_dd6c00c25605",
+      "title": "Claude Opus 5.5 登顶 Artificial Analysis 智能指数，得分 58 / Claude Opus 5.5 takes the top spot on the Artificial Analysis Intelligence Index",
+      "url": "https://artificialanalysis.ai/articles/claude-opus-5-5",
+      "primary_url": "https://artificialanalysis.ai/articles/claude-opus-5-5",
+      "source": "Artificial Analysis 完整文章（网页）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "1541abae265f3c9579c862d5b6440dd57020c3bc",
+          "title": "Claude Opus 5.5 登顶 Artificial Analysis 智能指数，得分 58 / Claude Opus 5.5 takes the top spot on the Artificial Analysis Intelligence Index",
+          "title_zh": "Claude Opus 5.5 登顶 Artificial Analysis 智能指数，得分 58",
+          "title_en": "Claude Opus 5.5 takes the top spot on the Artificial Analysis Intelligence Index",
+          "title_original": "Claude Opus 5.5 takes the top spot on the Artificial Analysis Intelligence Index",
+          "summary": "Artificial Analysis 评测显示 Claude Opus 5.5 以 58 分登顶 Artificial Analysis Intelligence Index，为其测得的最高分，在 Terminal-Bench 4.0 上与 GPT-6 Astra 持平（59.6%）。",
+          "recommend_reason_zh": null,
+          "url": "https://artificialanalysis.ai/articles/claude-opus-5-5",
+          "source": "Artificial Analysis 完整文章（网页）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-22T17:41:36.934000Z"
+        },
+        {
+          "id": "6a8ca796a816ed8176056297a444a3d87cc9ef3d",
+          "title": "Claude Opus 5.5 登顶 Artificial Analysis Intelligence Index，并降价 20% / Claude Opus 5.5 takes the top spot on the Artificial Analysis Intelligence Index， along with a 20% p…",
+          "title_zh": "Claude Opus 5.5 登顶 Artificial Analysis Intelligence Index，并降价 20%",
+          "title_en": "Claude Opus 5.5 takes the top spot on the Artificial Analysis Intelligence Index， along with a 20% p…",
+          "title_original": "Claude Opus 5.5 takes the top spot on the Artificial Analysis Intelligence Index， along with a 20% p…",
+          "summary": "Artificial Analysis 评测显示 Claude Opus 5.5 以 58 分登顶 Artificial Analysis Intelligence Index，为其实测最高分。",
+          "recommend_reason_zh": null,
+          "url": "https://x.com/ArtificialAnlys/status/2102438210798514391",
+          "source": "X：Artificial Analysis (@ArtificialAnlys)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-22T16:41:45Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Artificial Analysis 完整文章（网页）",
+        "X：Artificial Analysis (@ArtificialAnlys)"
+      ],
+      "items": [
+        {
+          "id": "1541abae265f3c9579c862d5b6440dd57020c3bc",
+          "title": "Claude Opus 5.5 登顶 Artificial Analysis 智能指数，得分 58 / Claude Opus 5.5 takes the top spot on the Artificial Analysis Intelligence Index",
+          "title_zh": "Claude Opus 5.5 登顶 Artificial Analysis 智能指数，得分 58",
+          "title_en": "Claude Opus 5.5 takes the top spot on the Artificial Analysis Intelligence Index",
+          "title_original": "Claude Opus 5.5 takes the top spot on the Artificial Analysis Intelligence Index",
+          "summary": "Artificial Analysis 评测显示 Claude Opus 5.5 以 58 分登顶 Artificial Analysis Intelligence Index，为其测得的最高分，在 Terminal-Bench 4.0 上与 GPT-6 Astra 持平（59.6%）。",
+          "recommend_reason_zh": null,
+          "url": "https://artificialanalysis.ai/articles/claude-opus-5-5",
+          "source": "Artificial Analysis 完整文章（网页）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-22T17:41:36.934000Z"
+        },
+        {
+          "id": "6a8ca796a816ed8176056297a444a3d87cc9ef3d",
+          "title": "Claude Opus 5.5 登顶 Artificial Analysis Intelligence Index，并降价 20% / Claude Opus 5.5 takes the top spot on the Artificial Analysis Intelligence Index， along with a 20% p…",
+          "title_zh": "Claude Opus 5.5 登顶 Artificial Analysis Intelligence Index，并降价 20%",
+          "title_en": "Claude Opus 5.5 takes the top spot on the Artificial Analysis Intelligence Index， along with a 20% p…",
+          "title_original": "Claude Opus 5.5 takes the top spot on the Artificial Analysis Intelligence Index， along with a 20% p…",
+          "summary": "Artificial Analysis 评测显示 Claude Opus 5.5 以 58 分登顶 Artificial Analysis Intelligence Index，为其实测最高分。",
+          "recommend_reason_zh": null,
+          "url": "https://x.com/ArtificialAnlys/status/2102438210798514391",
+          "source": "X：Artificial Analysis (@ArtificialAnlys)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-22T16:41:45Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.8288,
+      "importance": 0.8288,
+      "importance_score": 0.8288,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.85,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9843,
+        "story_heat": 0.25
+      },
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-22T16:41:45Z",
+      "latest_at": "2026-09-22T17:41:36.934000Z",
+      "primary_item": {
+        "id": "1541abae265f3c9579c862d5b6440dd57020c3bc",
+        "title": "Claude Opus 5.5 登顶 Artificial Analysis 智能指数，得分 58 / Claude Opus 5.5 takes the top spot on the Artificial Analysis Intelligence Index",
+        "title_zh": "Claude Opus 5.5 登顶 Artificial Analysis 智能指数，得分 58",
+        "title_en": "Claude Opus 5.5 takes the top spot on the Artificial Analysis Intelligence Index",
+        "title_original": "Claude Opus 5.5 takes the top spot on the Artificial Analysis Intelligence Index",
+        "summary": "Artificial Analysis 评测显示 Claude Opus 5.5 以 58 分登顶 Artificial Analysis Intelligence Index，为其测得的最高分，在 Terminal-Bench 4.0 上与 GPT-6 Astra 持平（59.6%）。",
+        "recommend_reason_zh": null,
+        "url": "https://artificialanalysis.ai/articles/claude-opus-5-5",
+        "source": "Artificial Analysis 完整文章（网页）",
+        "source_name": "AI HOT"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-09-22T19:03:22.649533Z"
       }
     },
     {
@@ -242,15 +354,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.8312,
-      "importance": 0.8312,
-      "importance_score": 0.8312,
+      "score": 0.8287,
+      "importance": 0.8287,
+      "importance_score": 0.8287,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.86,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9813,
+        "recency": 0.9673,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -277,7 +389,90 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-22T17:48:16.379602Z"
+        "scored_at": "2026-09-22T19:03:22.649533Z"
+      }
+    },
+    {
+      "story_id": "story_3de84024ac7c",
+      "title": "GPT-6 Sol and Luna in Codex and ChatGPT Work",
+      "url": "https://developers.openai.com/codex/changelog",
+      "primary_url": "https://developers.openai.com/codex/changelog",
+      "source": "OpenAI Codex Changelog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "aa41c270e9d5431219a2c0938a23890bfb0e9678",
+          "title": "GPT-6 Sol and Luna in Codex and ChatGPT Work",
+          "title_zh": null,
+          "title_en": "GPT-6 Sol and Luna in Codex and ChatGPT Work",
+          "title_original": "GPT-6 Sol and Luna in Codex and ChatGPT Work",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://developers.openai.com/codex/changelog",
+          "source": "OpenAI Codex Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-09-22T00:00:00Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "OpenAI Codex Changelog"
+      ],
+      "items": [
+        {
+          "id": "aa41c270e9d5431219a2c0938a23890bfb0e9678",
+          "title": "GPT-6 Sol and Luna in Codex and ChatGPT Work",
+          "title_zh": null,
+          "title_en": "GPT-6 Sol and Luna in Codex and ChatGPT Work",
+          "title_original": "GPT-6 Sol and Luna in Codex and ChatGPT Work",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://developers.openai.com/codex/changelog",
+          "source": "OpenAI Codex Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-09-22T00:00:00Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8272,
+      "importance": 0.8272,
+      "importance_score": 0.8272,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 1.0,
+        "recency": 0.7624,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-22T00:00:00Z",
+      "latest_at": "2026-09-22T00:00:00Z",
+      "primary_item": {
+        "id": "aa41c270e9d5431219a2c0938a23890bfb0e9678",
+        "title": "GPT-6 Sol and Luna in Codex and ChatGPT Work",
+        "title_zh": null,
+        "title_en": "GPT-6 Sol and Luna in Codex and ChatGPT Work",
+        "title_original": "GPT-6 Sol and Luna in Codex and ChatGPT Work",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://developers.openai.com/codex/changelog",
+        "source": "OpenAI Codex Changelog",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-09-22T19:03:22.649533Z"
       }
     },
     {
@@ -325,15 +520,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8292,
-      "importance": 0.8292,
-      "importance_score": 0.8292,
+      "score": 0.8272,
+      "importance": 0.8272,
+      "importance_score": 0.8272,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 1.0,
-        "recency": 0.7734,
+        "recency": 0.7624,
         "story_heat": 0.0
       },
       "category": "official",
@@ -360,7 +555,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-22T17:48:16.379602Z"
+        "scored_at": "2026-09-22T19:03:22.649533Z"
       }
     },
     {
@@ -437,15 +632,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.826,
-      "importance": 0.826,
-      "importance_score": 0.826,
+      "score": 0.8235,
+      "importance": 0.8235,
+      "importance_score": 0.8235,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.68,
         "source_tier": 1.0,
         "ai_relevance": 1.0,
-        "recency": 0.9835,
+        "recency": 0.9694,
         "story_heat": 0.25
       },
       "category": "official",
@@ -472,7 +667,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-22T17:48:16.379602Z"
+        "scored_at": "2026-09-22T19:03:22.649533Z"
       }
     },
     {
@@ -520,15 +715,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8112,
-      "importance": 0.8112,
-      "importance_score": 0.8112,
+      "score": 0.8092,
+      "importance": 0.8092,
+      "importance_score": 0.8092,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.7734,
+        "recency": 0.7624,
         "story_heat": 0.0
       },
       "category": "official",
@@ -555,63 +750,63 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-22T17:48:16.379602Z"
+        "scored_at": "2026-09-22T19:03:22.649533Z"
       }
     },
     {
-      "story_id": "story_cd9dba942535",
-      "title": "Anthropic 发布 Claude Opus 5.5，成本降低 40% 且速度提升 30% / Claude Opus 5.5 is here. More capable， faster， and substantially cheaper. @AnthropicAI keeps pushing…",
-      "url": "https://x.com/mark_k/status/2102437510731219218",
-      "primary_url": "https://x.com/mark_k/status/2102437510731219218",
-      "source": "@mark_k",
+      "story_id": "story_366b9b129591",
+      "title": "Artificial Analysis 评测 GPT-6 Sol 与 Luna：成本减半，智能指数持平 / GPT-6 Sol and Luna push the cost efficiency frontier by halving cost relative to GPT-5.6 Sol and Lun…",
+      "url": "https://x.com/ArtificialAnlys/status/2102462962758033624",
+      "primary_url": "https://x.com/ArtificialAnlys/status/2102462962758033624",
+      "source": "X：Artificial Analysis (@ArtificialAnlys)",
       "source_name": "AI HOT",
       "sources": [
         {
-          "id": "f954331306c3da6009c3265f549120d3121642d6",
-          "title": "Anthropic 发布 Claude Opus 5.5，成本降低 40% 且速度提升 30% / Claude Opus 5.5 is here. More capable， faster， and substantially cheaper. @AnthropicAI keeps pushing…",
-          "title_zh": "Anthropic 发布 Claude Opus 5.5，成本降低 40% 且速度提升 30%",
-          "title_en": "Claude Opus 5.5 is here. More capable， faster， and substantially cheaper. @AnthropicAI keeps pushing…",
-          "title_original": "Claude Opus 5.5 is here. More capable， faster， and substantially cheaper. @AnthropicAI keeps pushing…",
-          "summary": "Anthropic 发布 Claude Opus 5.5，官方称典型工作负载成本比 Opus 5 低 40%，输出速度提升超 30%。",
+          "id": "06918dd83ad05a0b9db226a2f6b110d410e23103",
+          "title": "Artificial Analysis 评测 GPT-6 Sol 与 Luna：成本减半，智能指数持平 / GPT-6 Sol and Luna push the cost efficiency frontier by halving cost relative to GPT-5.6 Sol and Lun…",
+          "title_zh": "Artificial Analysis 评测 GPT-6 Sol 与 Luna：成本减半，智能指数持平",
+          "title_en": "GPT-6 Sol and Luna push the cost efficiency frontier by halving cost relative to GPT-5.6 Sol and Lun…",
+          "title_original": "GPT-6 Sol and Luna push the cost efficiency frontier by halving cost relative to GPT-5.6 Sol and Lun…",
+          "summary": "Artificial Analysis 评测 GPT-6 Sol 和 Luna，两模型价格约为 GPT-5.6 对应版本一半，Sol 定价 $2/$10、Luna $0.10/$0.50 每百万输入/输出 token，Intelligence Index 与 GPT-5.6 持平。",
           "recommend_reason_zh": null,
-          "url": "https://x.com/mark_k/status/2102437510731219218",
-          "source": "@mark_k",
+          "url": "https://x.com/ArtificialAnlys/status/2102462962758033624",
+          "source": "X：Artificial Analysis (@ArtificialAnlys)",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-09-22T16:38:58Z"
+          "published_at": "2026-09-22T18:20:06Z"
         }
       ],
       "source_count": 1,
       "source_names": [
-        "@mark_k"
+        "X：Artificial Analysis (@ArtificialAnlys)"
       ],
       "items": [
         {
-          "id": "f954331306c3da6009c3265f549120d3121642d6",
-          "title": "Anthropic 发布 Claude Opus 5.5，成本降低 40% 且速度提升 30% / Claude Opus 5.5 is here. More capable， faster， and substantially cheaper. @AnthropicAI keeps pushing…",
-          "title_zh": "Anthropic 发布 Claude Opus 5.5，成本降低 40% 且速度提升 30%",
-          "title_en": "Claude Opus 5.5 is here. More capable， faster， and substantially cheaper. @AnthropicAI keeps pushing…",
-          "title_original": "Claude Opus 5.5 is here. More capable， faster， and substantially cheaper. @AnthropicAI keeps pushing…",
-          "summary": "Anthropic 发布 Claude Opus 5.5，官方称典型工作负载成本比 Opus 5 低 40%，输出速度提升超 30%。",
+          "id": "06918dd83ad05a0b9db226a2f6b110d410e23103",
+          "title": "Artificial Analysis 评测 GPT-6 Sol 与 Luna：成本减半，智能指数持平 / GPT-6 Sol and Luna push the cost efficiency frontier by halving cost relative to GPT-5.6 Sol and Lun…",
+          "title_zh": "Artificial Analysis 评测 GPT-6 Sol 与 Luna：成本减半，智能指数持平",
+          "title_en": "GPT-6 Sol and Luna push the cost efficiency frontier by halving cost relative to GPT-5.6 Sol and Lun…",
+          "title_original": "GPT-6 Sol and Luna push the cost efficiency frontier by halving cost relative to GPT-5.6 Sol and Lun…",
+          "summary": "Artificial Analysis 评测 GPT-6 Sol 和 Luna，两模型价格约为 GPT-5.6 对应版本一半，Sol 定价 $2/$10、Luna $0.10/$0.50 每百万输入/输出 token，Intelligence Index 与 GPT-5.6 持平。",
           "recommend_reason_zh": null,
-          "url": "https://x.com/mark_k/status/2102437510731219218",
-          "source": "@mark_k",
+          "url": "https://x.com/ArtificialAnlys/status/2102462962758033624",
+          "source": "X：Artificial Analysis (@ArtificialAnlys)",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-09-22T16:38:58Z"
+          "published_at": "2026-09-22T18:20:06Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7977,
-      "importance": 0.7977,
-      "importance_score": 0.7977,
+      "score": 0.8024,
+      "importance": 0.8024,
+      "importance_score": 0.8024,
       "importance_label": "行业动态",
       "importance_breakdown": {
-        "editorial": 0.83,
+        "editorial": 0.84,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9837,
+        "recency": 0.9935,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -619,25 +814,25 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-09-22T16:38:58Z",
-      "latest_at": "2026-09-22T16:38:58Z",
+      "earliest_at": "2026-09-22T18:20:06Z",
+      "latest_at": "2026-09-22T18:20:06Z",
       "primary_item": {
-        "id": "f954331306c3da6009c3265f549120d3121642d6",
-        "title": "Anthropic 发布 Claude Opus 5.5，成本降低 40% 且速度提升 30% / Claude Opus 5.5 is here. More capable， faster， and substantially cheaper. @AnthropicAI keeps pushing…",
-        "title_zh": "Anthropic 发布 Claude Opus 5.5，成本降低 40% 且速度提升 30%",
-        "title_en": "Claude Opus 5.5 is here. More capable， faster， and substantially cheaper. @AnthropicAI keeps pushing…",
-        "title_original": "Claude Opus 5.5 is here. More capable， faster， and substantially cheaper. @AnthropicAI keeps pushing…",
-        "summary": "Anthropic 发布 Claude Opus 5.5，官方称典型工作负载成本比 Opus 5 低 40%，输出速度提升超 30%。",
+        "id": "06918dd83ad05a0b9db226a2f6b110d410e23103",
+        "title": "Artificial Analysis 评测 GPT-6 Sol 与 Luna：成本减半，智能指数持平 / GPT-6 Sol and Luna push the cost efficiency frontier by halving cost relative to GPT-5.6 Sol and Lun…",
+        "title_zh": "Artificial Analysis 评测 GPT-6 Sol 与 Luna：成本减半，智能指数持平",
+        "title_en": "GPT-6 Sol and Luna push the cost efficiency frontier by halving cost relative to GPT-5.6 Sol and Lun…",
+        "title_original": "GPT-6 Sol and Luna push the cost efficiency frontier by halving cost relative to GPT-5.6 Sol and Lun…",
+        "summary": "Artificial Analysis 评测 GPT-6 Sol 和 Luna，两模型价格约为 GPT-5.6 对应版本一半，Sol 定价 $2/$10、Luna $0.10/$0.50 每百万输入/输出 token，Intelligence Index 与 GPT-5.6 持平。",
         "recommend_reason_zh": null,
-        "url": "https://x.com/mark_k/status/2102437510731219218",
-        "source": "@mark_k",
+        "url": "https://x.com/ArtificialAnlys/status/2102462962758033624",
+        "source": "X：Artificial Analysis (@ArtificialAnlys)",
         "source_name": "AI HOT"
       },
       "persona_id": "pragmatic",
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-22T17:48:16.379602Z"
+        "scored_at": "2026-09-22T19:03:22.649533Z"
       }
     },
     {
@@ -685,15 +880,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8272,
-      "importance": 0.8272,
-      "importance_score": 0.8272,
+      "score": 0.8252,
+      "importance": 0.8252,
+      "importance_score": 0.8252,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.99,
-        "recency": 0.7734,
+        "recency": 0.7624,
         "story_heat": 0.0
       },
       "category": "official",
@@ -720,7 +915,89 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-22T17:48:16.379602Z"
+        "scored_at": "2026-09-22T19:03:22.649533Z"
+      }
+    },
+    {
+      "story_id": "story_cd9dba942535",
+      "title": "Anthropic 发布 Claude Opus 5.5，成本降低 40% 且速度提升 30% / Claude Opus 5.5 is here. More capable， faster， and substantially cheaper. @AnthropicAI keeps pushing…",
+      "url": "https://x.com/mark_k/status/2102437510731219218",
+      "primary_url": "https://x.com/mark_k/status/2102437510731219218",
+      "source": "@mark_k",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "f954331306c3da6009c3265f549120d3121642d6",
+          "title": "Anthropic 发布 Claude Opus 5.5，成本降低 40% 且速度提升 30% / Claude Opus 5.5 is here. More capable， faster， and substantially cheaper. @AnthropicAI keeps pushing…",
+          "title_zh": "Anthropic 发布 Claude Opus 5.5，成本降低 40% 且速度提升 30%",
+          "title_en": "Claude Opus 5.5 is here. More capable， faster， and substantially cheaper. @AnthropicAI keeps pushing…",
+          "title_original": "Claude Opus 5.5 is here. More capable， faster， and substantially cheaper. @AnthropicAI keeps pushing…",
+          "summary": "Anthropic 发布 Claude Opus 5.5，官方称典型工作负载成本比 Opus 5 低 40%，输出速度提升超 30%。",
+          "recommend_reason_zh": null,
+          "url": "https://x.com/mark_k/status/2102437510731219218",
+          "source": "@mark_k",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-22T16:38:58Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "@mark_k"
+      ],
+      "items": [
+        {
+          "id": "f954331306c3da6009c3265f549120d3121642d6",
+          "title": "Anthropic 发布 Claude Opus 5.5，成本降低 40% 且速度提升 30% / Claude Opus 5.5 is here. More capable， faster， and substantially cheaper. @AnthropicAI keeps pushing…",
+          "title_zh": "Anthropic 发布 Claude Opus 5.5，成本降低 40% 且速度提升 30%",
+          "title_en": "Claude Opus 5.5 is here. More capable， faster， and substantially cheaper. @AnthropicAI keeps pushing…",
+          "title_original": "Claude Opus 5.5 is here. More capable， faster， and substantially cheaper. @AnthropicAI keeps pushing…",
+          "summary": "Anthropic 发布 Claude Opus 5.5，官方称典型工作负载成本比 Opus 5 低 40%，输出速度提升超 30%。",
+          "recommend_reason_zh": null,
+          "url": "https://x.com/mark_k/status/2102437510731219218",
+          "source": "@mark_k",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-22T16:38:58Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7951,
+      "importance": 0.7951,
+      "importance_score": 0.7951,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.83,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9696,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-22T16:38:58Z",
+      "latest_at": "2026-09-22T16:38:58Z",
+      "primary_item": {
+        "id": "f954331306c3da6009c3265f549120d3121642d6",
+        "title": "Anthropic 发布 Claude Opus 5.5，成本降低 40% 且速度提升 30% / Claude Opus 5.5 is here. More capable， faster， and substantially cheaper. @AnthropicAI keeps pushing…",
+        "title_zh": "Anthropic 发布 Claude Opus 5.5，成本降低 40% 且速度提升 30%",
+        "title_en": "Claude Opus 5.5 is here. More capable， faster， and substantially cheaper. @AnthropicAI keeps pushing…",
+        "title_original": "Claude Opus 5.5 is here. More capable， faster， and substantially cheaper. @AnthropicAI keeps pushing…",
+        "summary": "Anthropic 发布 Claude Opus 5.5，官方称典型工作负载成本比 Opus 5 低 40%，输出速度提升超 30%。",
+        "recommend_reason_zh": null,
+        "url": "https://x.com/mark_k/status/2102437510731219218",
+        "source": "@mark_k",
+        "source_name": "AI HOT"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-09-22T19:03:22.649533Z"
       }
     },
     {
@@ -768,15 +1045,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8233,
-      "importance": 0.8233,
-      "importance_score": 0.8233,
+      "score": 0.8211,
+      "importance": 0.8211,
+      "importance_score": 0.8211,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.8853,
+        "recency": 0.8726,
         "story_heat": 0.0
       },
       "category": "official",
@@ -803,7 +1080,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-22T17:48:16.379602Z"
+        "scored_at": "2026-09-22T19:03:22.649533Z"
       }
     },
     {
@@ -909,15 +1186,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.8215,
-      "importance": 0.8215,
-      "importance_score": 0.8215,
+      "score": 0.819,
+      "importance": 0.819,
+      "importance_score": 0.819,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.76,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9548,
+        "recency": 0.9411,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -944,63 +1221,63 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-22T17:48:16.379602Z"
+        "scored_at": "2026-09-22T19:03:22.649533Z"
       }
     },
     {
-      "story_id": "story_dd6c00c25605",
-      "title": "Claude Opus 5.5 登顶 Artificial Analysis Intelligence Index，并降价 20% / Claude Opus 5.5 takes the top spot on the Artificial Analysis Intelligence Index， along with a 20% p…",
-      "url": "https://x.com/ArtificialAnlys/status/2102438210798514391",
-      "primary_url": "https://x.com/ArtificialAnlys/status/2102438210798514391",
-      "source": "X：Artificial Analysis (@ArtificialAnlys)",
+      "story_id": "story_a4d49cf0b546",
+      "title": "GPT-6 Sol 与 GPT-6 Luna 在 ChatGPT Work 和 Codex 中推送 / GPT-6 Sol and GPT-6 Luna， it's your time to shine. Rolling out today in ChatGPT Work and Codex for …",
+      "url": "https://x.com/ChatGPT/status/2102462020339613966",
+      "primary_url": "https://x.com/ChatGPT/status/2102462020339613966",
+      "source": "X：ChatGPT (@ChatGPT)",
       "source_name": "AI HOT",
       "sources": [
         {
-          "id": "6a8ca796a816ed8176056297a444a3d87cc9ef3d",
-          "title": "Claude Opus 5.5 登顶 Artificial Analysis Intelligence Index，并降价 20% / Claude Opus 5.5 takes the top spot on the Artificial Analysis Intelligence Index， along with a 20% p…",
-          "title_zh": "Claude Opus 5.5 登顶 Artificial Analysis Intelligence Index，并降价 20%",
-          "title_en": "Claude Opus 5.5 takes the top spot on the Artificial Analysis Intelligence Index， along with a 20% p…",
-          "title_original": "Claude Opus 5.5 takes the top spot on the Artificial Analysis Intelligence Index， along with a 20% p…",
-          "summary": "Artificial Analysis 评测显示 Claude Opus 5.5 以 58 分登顶 Artificial Analysis Intelligence Index，为其实测最高分。",
+          "id": "c942be01e1874da3049cd300815d62f60121508f",
+          "title": "GPT-6 Sol 与 GPT-6 Luna 在 ChatGPT Work 和 Codex 中推送 / GPT-6 Sol and GPT-6 Luna， it's your time to shine. Rolling out today in ChatGPT Work and Codex for …",
+          "title_zh": "GPT-6 Sol 与 GPT-6 Luna 在 ChatGPT Work 和 Codex 中推送",
+          "title_en": "GPT-6 Sol and GPT-6 Luna， it's your time to shine. Rolling out today in ChatGPT Work and Codex for …",
+          "title_original": "GPT-6 Sol and GPT-6 Luna， it's your time to shine. Rolling out today in ChatGPT Work and Codex for …",
+          "summary": "OpenAI 的 ChatGPT 官方账号宣布 GPT-6 Sol 和 GPT-6 Luna 两款模型即日起推送，面向 Plus、Pro、Business、Enterprise 和 Edu 用户，可在 ChatGPT Work 和 Codex 中使用。",
           "recommend_reason_zh": null,
-          "url": "https://x.com/ArtificialAnlys/status/2102438210798514391",
-          "source": "X：Artificial Analysis (@ArtificialAnlys)",
+          "url": "https://x.com/ChatGPT/status/2102462020339613966",
+          "source": "X：ChatGPT (@ChatGPT)",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-09-22T16:41:45Z"
+          "published_at": "2026-09-22T18:16:22Z"
         }
       ],
       "source_count": 1,
       "source_names": [
-        "X：Artificial Analysis (@ArtificialAnlys)"
+        "X：ChatGPT (@ChatGPT)"
       ],
       "items": [
         {
-          "id": "6a8ca796a816ed8176056297a444a3d87cc9ef3d",
-          "title": "Claude Opus 5.5 登顶 Artificial Analysis Intelligence Index，并降价 20% / Claude Opus 5.5 takes the top spot on the Artificial Analysis Intelligence Index， along with a 20% p…",
-          "title_zh": "Claude Opus 5.5 登顶 Artificial Analysis Intelligence Index，并降价 20%",
-          "title_en": "Claude Opus 5.5 takes the top spot on the Artificial Analysis Intelligence Index， along with a 20% p…",
-          "title_original": "Claude Opus 5.5 takes the top spot on the Artificial Analysis Intelligence Index， along with a 20% p…",
-          "summary": "Artificial Analysis 评测显示 Claude Opus 5.5 以 58 分登顶 Artificial Analysis Intelligence Index，为其实测最高分。",
+          "id": "c942be01e1874da3049cd300815d62f60121508f",
+          "title": "GPT-6 Sol 与 GPT-6 Luna 在 ChatGPT Work 和 Codex 中推送 / GPT-6 Sol and GPT-6 Luna， it's your time to shine. Rolling out today in ChatGPT Work and Codex for …",
+          "title_zh": "GPT-6 Sol 与 GPT-6 Luna 在 ChatGPT Work 和 Codex 中推送",
+          "title_en": "GPT-6 Sol and GPT-6 Luna， it's your time to shine. Rolling out today in ChatGPT Work and Codex for …",
+          "title_original": "GPT-6 Sol and GPT-6 Luna， it's your time to shine. Rolling out today in ChatGPT Work and Codex for …",
+          "summary": "OpenAI 的 ChatGPT 官方账号宣布 GPT-6 Sol 和 GPT-6 Luna 两款模型即日起推送，面向 Plus、Pro、Business、Enterprise 和 Edu 用户，可在 ChatGPT Work 和 Codex 中使用。",
           "recommend_reason_zh": null,
-          "url": "https://x.com/ArtificialAnlys/status/2102438210798514391",
-          "source": "X：Artificial Analysis (@ArtificialAnlys)",
+          "url": "https://x.com/ChatGPT/status/2102462020339613966",
+          "source": "X：ChatGPT (@ChatGPT)",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-09-22T16:41:45Z"
+          "published_at": "2026-09-22T18:16:22Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7858,
-      "importance": 0.7858,
-      "importance_score": 0.7858,
+      "score": 0.7813,
+      "importance": 0.7813,
+      "importance_score": 0.7813,
       "importance_label": "行业动态",
       "importance_breakdown": {
-        "editorial": 0.79,
+        "editorial": 0.77,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9843,
+        "recency": 0.9926,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1008,25 +1285,25 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-09-22T16:41:45Z",
-      "latest_at": "2026-09-22T16:41:45Z",
+      "earliest_at": "2026-09-22T18:16:22Z",
+      "latest_at": "2026-09-22T18:16:22Z",
       "primary_item": {
-        "id": "6a8ca796a816ed8176056297a444a3d87cc9ef3d",
-        "title": "Claude Opus 5.5 登顶 Artificial Analysis Intelligence Index，并降价 20% / Claude Opus 5.5 takes the top spot on the Artificial Analysis Intelligence Index， along with a 20% p…",
-        "title_zh": "Claude Opus 5.5 登顶 Artificial Analysis Intelligence Index，并降价 20%",
-        "title_en": "Claude Opus 5.5 takes the top spot on the Artificial Analysis Intelligence Index， along with a 20% p…",
-        "title_original": "Claude Opus 5.5 takes the top spot on the Artificial Analysis Intelligence Index， along with a 20% p…",
-        "summary": "Artificial Analysis 评测显示 Claude Opus 5.5 以 58 分登顶 Artificial Analysis Intelligence Index，为其实测最高分。",
+        "id": "c942be01e1874da3049cd300815d62f60121508f",
+        "title": "GPT-6 Sol 与 GPT-6 Luna 在 ChatGPT Work 和 Codex 中推送 / GPT-6 Sol and GPT-6 Luna， it's your time to shine. Rolling out today in ChatGPT Work and Codex for …",
+        "title_zh": "GPT-6 Sol 与 GPT-6 Luna 在 ChatGPT Work 和 Codex 中推送",
+        "title_en": "GPT-6 Sol and GPT-6 Luna， it's your time to shine. Rolling out today in ChatGPT Work and Codex for …",
+        "title_original": "GPT-6 Sol and GPT-6 Luna， it's your time to shine. Rolling out today in ChatGPT Work and Codex for …",
+        "summary": "OpenAI 的 ChatGPT 官方账号宣布 GPT-6 Sol 和 GPT-6 Luna 两款模型即日起推送，面向 Plus、Pro、Business、Enterprise 和 Edu 用户，可在 ChatGPT Work 和 Codex 中使用。",
         "recommend_reason_zh": null,
-        "url": "https://x.com/ArtificialAnlys/status/2102438210798514391",
-        "source": "X：Artificial Analysis (@ArtificialAnlys)",
+        "url": "https://x.com/ChatGPT/status/2102462020339613966",
+        "source": "X：ChatGPT (@ChatGPT)",
         "source_name": "AI HOT"
       },
       "persona_id": "pragmatic",
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-22T17:48:16.379602Z"
+        "scored_at": "2026-09-22T19:03:22.649533Z"
       }
     },
     {
@@ -1074,15 +1351,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7826,
-      "importance": 0.7826,
-      "importance_score": 0.7826,
+      "score": 0.78,
+      "importance": 0.78,
+      "importance_score": 0.78,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.78,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9832,
+        "recency": 0.9692,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1108,7 +1385,171 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-22T17:48:16.379602Z"
+        "scored_at": "2026-09-22T19:03:22.649533Z"
+      }
+    },
+    {
+      "story_id": "story_f1545268658e",
+      "title": "OpenAI 发布 GPT-6 Sol 和 GPT-6 Luna，API 价格比 GPT-5.6 促销价低 50% / GPT-6 Sol and Luna are great models but also these characters are so cute",
+      "url": "https://x.com/sama/status/2102464201335984392",
+      "primary_url": "https://x.com/sama/status/2102464201335984392",
+      "source": "X：Sam Altman (@sama)",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "e88a485535a69f331d23133204af51b26e002bc8",
+          "title": "OpenAI 发布 GPT-6 Sol 和 GPT-6 Luna，API 价格比 GPT-5.6 促销价低 50% / GPT-6 Sol and Luna are great models but also these characters are so cute",
+          "title_zh": "OpenAI 发布 GPT-6 Sol 和 GPT-6 Luna，API 价格比 GPT-5.6 促销价低 50%",
+          "title_en": "GPT-6 Sol and Luna are great models but also these characters are so cute",
+          "title_original": "GPT-6 Sol and Luna are great models but also these characters are so cute",
+          "summary": "OpenAI 推出 GPT-6 Sol 和 GPT-6 Luna，基于 GPT-6 Astra 的技术，以更快、更实惠的模型支持大规模工作。两款模型通过更高效的缓存和推理降低成本，API 价格比 GPT-5.6 促销定价低 50%。Sam Altman 转发该公告并称这些角色形象很可爱。",
+          "recommend_reason_zh": null,
+          "url": "https://x.com/sama/status/2102464201335984392",
+          "source": "X：Sam Altman (@sama)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-22T18:25:02Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "X：Sam Altman (@sama)"
+      ],
+      "items": [
+        {
+          "id": "e88a485535a69f331d23133204af51b26e002bc8",
+          "title": "OpenAI 发布 GPT-6 Sol 和 GPT-6 Luna，API 价格比 GPT-5.6 促销价低 50% / GPT-6 Sol and Luna are great models but also these characters are so cute",
+          "title_zh": "OpenAI 发布 GPT-6 Sol 和 GPT-6 Luna，API 价格比 GPT-5.6 促销价低 50%",
+          "title_en": "GPT-6 Sol and Luna are great models but also these characters are so cute",
+          "title_original": "GPT-6 Sol and Luna are great models but also these characters are so cute",
+          "summary": "OpenAI 推出 GPT-6 Sol 和 GPT-6 Luna，基于 GPT-6 Astra 的技术，以更快、更实惠的模型支持大规模工作。两款模型通过更高效的缓存和推理降低成本，API 价格比 GPT-5.6 促销定价低 50%。Sam Altman 转发该公告并称这些角色形象很可爱。",
+          "recommend_reason_zh": null,
+          "url": "https://x.com/sama/status/2102464201335984392",
+          "source": "X：Sam Altman (@sama)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-22T18:25:02Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7666,
+      "importance": 0.7666,
+      "importance_score": 0.7666,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9946,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-22T18:25:02Z",
+      "latest_at": "2026-09-22T18:25:02Z",
+      "primary_item": {
+        "id": "e88a485535a69f331d23133204af51b26e002bc8",
+        "title": "OpenAI 发布 GPT-6 Sol 和 GPT-6 Luna，API 价格比 GPT-5.6 促销价低 50% / GPT-6 Sol and Luna are great models but also these characters are so cute",
+        "title_zh": "OpenAI 发布 GPT-6 Sol 和 GPT-6 Luna，API 价格比 GPT-5.6 促销价低 50%",
+        "title_en": "GPT-6 Sol and Luna are great models but also these characters are so cute",
+        "title_original": "GPT-6 Sol and Luna are great models but also these characters are so cute",
+        "summary": "OpenAI 推出 GPT-6 Sol 和 GPT-6 Luna，基于 GPT-6 Astra 的技术，以更快、更实惠的模型支持大规模工作。两款模型通过更高效的缓存和推理降低成本，API 价格比 GPT-5.6 促销定价低 50%。Sam Altman 转发该公告并称这些角色形象很可爱。",
+        "recommend_reason_zh": null,
+        "url": "https://x.com/sama/status/2102464201335984392",
+        "source": "X：Sam Altman (@sama)",
+        "source_name": "AI HOT"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-09-22T19:03:22.649533Z"
+      }
+    },
+    {
+      "story_id": "story_beeb9d5822be",
+      "title": "Claude Opus 5.5 上架 Arena 的 Agent Arena 与 Battle Mode / Claude Opus 5.5 by @AnthropicAI is now in the Agent Arena！ Your votes drive the @arena leaderboards…",
+      "url": "https://x.com/arena/status/2102454952576868638",
+      "primary_url": "https://x.com/arena/status/2102454952576868638",
+      "source": "X：Arena (@arena)",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "0fd214e4f72453ef7c9fa61303455d67e6f03f6e",
+          "title": "Claude Opus 5.5 上架 Arena 的 Agent Arena 与 Battle Mode / Claude Opus 5.5 by @AnthropicAI is now in the Agent Arena！ Your votes drive the @arena leaderboards…",
+          "title_zh": "Claude Opus 5.5 上架 Arena 的 Agent Arena 与 Battle Mode",
+          "title_en": "Claude Opus 5.5 by @AnthropicAI is now in the Agent Arena！ Your votes drive the @arena leaderboards…",
+          "title_original": "Claude Opus 5.5 by @AnthropicAI is now in the Agent Arena！ Your votes drive the @arena leaderboards…",
+          "summary": "Arena 宣布 Anthropic 的 Claude Opus 5.5 已进入 Agent Arena，用户可通过投票驱动排行榜。Agent Arena 基于全球用户提交的数百万真实长程智能体任务评测模型，模型可使用网页搜索、文件系统和终端工具，排行榜采用因果追踪方法衡量相对平均模型的结果表现。",
+          "recommend_reason_zh": null,
+          "url": "https://x.com/arena/status/2102454952576868638",
+          "source": "X：Arena (@arena)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-22T17:48:17Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "X：Arena (@arena)"
+      ],
+      "items": [
+        {
+          "id": "0fd214e4f72453ef7c9fa61303455d67e6f03f6e",
+          "title": "Claude Opus 5.5 上架 Arena 的 Agent Arena 与 Battle Mode / Claude Opus 5.5 by @AnthropicAI is now in the Agent Arena！ Your votes drive the @arena leaderboards…",
+          "title_zh": "Claude Opus 5.5 上架 Arena 的 Agent Arena 与 Battle Mode",
+          "title_en": "Claude Opus 5.5 by @AnthropicAI is now in the Agent Arena！ Your votes drive the @arena leaderboards…",
+          "title_original": "Claude Opus 5.5 by @AnthropicAI is now in the Agent Arena！ Your votes drive the @arena leaderboards…",
+          "summary": "Arena 宣布 Anthropic 的 Claude Opus 5.5 已进入 Agent Arena，用户可通过投票驱动排行榜。Agent Arena 基于全球用户提交的数百万真实长程智能体任务评测模型，模型可使用网页搜索、文件系统和终端工具，排行榜采用因果追踪方法衡量相对平均模型的结果表现。",
+          "recommend_reason_zh": null,
+          "url": "https://x.com/arena/status/2102454952576868638",
+          "source": "X：Arena (@arena)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-22T17:48:17Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7651,
+      "importance": 0.7651,
+      "importance_score": 0.7651,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9859,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-22T17:48:17Z",
+      "latest_at": "2026-09-22T17:48:17Z",
+      "primary_item": {
+        "id": "0fd214e4f72453ef7c9fa61303455d67e6f03f6e",
+        "title": "Claude Opus 5.5 上架 Arena 的 Agent Arena 与 Battle Mode / Claude Opus 5.5 by @AnthropicAI is now in the Agent Arena！ Your votes drive the @arena leaderboards…",
+        "title_zh": "Claude Opus 5.5 上架 Arena 的 Agent Arena 与 Battle Mode",
+        "title_en": "Claude Opus 5.5 by @AnthropicAI is now in the Agent Arena！ Your votes drive the @arena leaderboards…",
+        "title_original": "Claude Opus 5.5 by @AnthropicAI is now in the Agent Arena！ Your votes drive the @arena leaderboards…",
+        "summary": "Arena 宣布 Anthropic 的 Claude Opus 5.5 已进入 Agent Arena，用户可通过投票驱动排行榜。Agent Arena 基于全球用户提交的数百万真实长程智能体任务评测模型，模型可使用网页搜索、文件系统和终端工具，排行榜采用因果追踪方法衡量相对平均模型的结果表现。",
+        "recommend_reason_zh": null,
+        "url": "https://x.com/arena/status/2102454952576868638",
+        "source": "X：Arena (@arena)",
+        "source_name": "AI HOT"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-09-22T19:03:22.649533Z"
       }
     },
     {
@@ -1156,15 +1597,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7649,
-      "importance": 0.7649,
-      "importance_score": 0.7649,
+      "score": 0.7624,
+      "importance": 0.7624,
+      "importance_score": 0.7624,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.985,
+        "recency": 0.9709,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1190,7 +1631,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-22T17:48:16.379602Z"
+        "scored_at": "2026-09-22T19:03:22.649533Z"
       }
     },
     {
@@ -1238,15 +1679,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7619,
-      "importance": 0.7619,
-      "importance_score": 0.7619,
+      "score": 0.7594,
+      "importance": 0.7594,
+      "importance_score": 0.7594,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.71,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9851,
+        "recency": 0.971,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1272,89 +1713,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-22T17:48:16.379602Z"
-      }
-    },
-    {
-      "story_id": "story_8f58046896f1",
-      "title": "Qwen-Image-2.1 开源发布，登顶 Arena 图像编辑榜开源第一 / Qwen-Image-2.1 by @Alibaba_Qwen just landed as the #1 open source model in the Image Edit Arena and …",
-      "url": "https://x.com/arena/status/2102416020678008986",
-      "primary_url": "https://x.com/arena/status/2102416020678008986",
-      "source": "X：Arena (@arena)",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "fca008f06bf1a076492eb09ceb87439522b46b0c",
-          "title": "Qwen-Image-2.1 开源发布，登顶 Arena 图像编辑榜开源第一 / Qwen-Image-2.1 by @Alibaba_Qwen just landed as the #1 open source model in the Image Edit Arena and …",
-          "title_zh": "Qwen-Image-2.1 开源发布，登顶 Arena 图像编辑榜开源第一",
-          "title_en": "Qwen-Image-2.1 by @Alibaba_Qwen just landed as the #1 open source model in the Image Edit Arena and …",
-          "title_original": "Qwen-Image-2.1 by @Alibaba_Qwen just landed as the #1 open source model in the Image Edit Arena and …",
-          "summary": "通义千问发布 Qwen-Image-2.1，开放权重，在 Arena Image Edit Arena 以 1367 分位列开源第一、总榜第 16，距第 15 名 GPT-Image-1.5-high-fidelity 仅 3 分，同时登上 Text-to-Image Arena 开源第一。",
-          "recommend_reason_zh": null,
-          "url": "https://x.com/arena/status/2102416020678008986",
-          "source": "X：Arena (@arena)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-22T15:13:34Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "X：Arena (@arena)"
-      ],
-      "items": [
-        {
-          "id": "fca008f06bf1a076492eb09ceb87439522b46b0c",
-          "title": "Qwen-Image-2.1 开源发布，登顶 Arena 图像编辑榜开源第一 / Qwen-Image-2.1 by @Alibaba_Qwen just landed as the #1 open source model in the Image Edit Arena and …",
-          "title_zh": "Qwen-Image-2.1 开源发布，登顶 Arena 图像编辑榜开源第一",
-          "title_en": "Qwen-Image-2.1 by @Alibaba_Qwen just landed as the #1 open source model in the Image Edit Arena and …",
-          "title_original": "Qwen-Image-2.1 by @Alibaba_Qwen just landed as the #1 open source model in the Image Edit Arena and …",
-          "summary": "通义千问发布 Qwen-Image-2.1，开放权重，在 Arena Image Edit Arena 以 1367 分位列开源第一、总榜第 16，距第 15 名 GPT-Image-1.5-high-fidelity 仅 3 分，同时登上 Text-to-Image Arena 开源第一。",
-          "recommend_reason_zh": null,
-          "url": "https://x.com/arena/status/2102416020678008986",
-          "source": "X：Arena (@arena)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-22T15:13:34Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7611,
-      "importance": 0.7611,
-      "importance_score": 0.7611,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.9637,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-22T15:13:34Z",
-      "latest_at": "2026-09-22T15:13:34Z",
-      "primary_item": {
-        "id": "fca008f06bf1a076492eb09ceb87439522b46b0c",
-        "title": "Qwen-Image-2.1 开源发布，登顶 Arena 图像编辑榜开源第一 / Qwen-Image-2.1 by @Alibaba_Qwen just landed as the #1 open source model in the Image Edit Arena and …",
-        "title_zh": "Qwen-Image-2.1 开源发布，登顶 Arena 图像编辑榜开源第一",
-        "title_en": "Qwen-Image-2.1 by @Alibaba_Qwen just landed as the #1 open source model in the Image Edit Arena and …",
-        "title_original": "Qwen-Image-2.1 by @Alibaba_Qwen just landed as the #1 open source model in the Image Edit Arena and …",
-        "summary": "通义千问发布 Qwen-Image-2.1，开放权重，在 Arena Image Edit Arena 以 1367 分位列开源第一、总榜第 16，距第 15 名 GPT-Image-1.5-high-fidelity 仅 3 分，同时登上 Text-to-Image Arena 开源第一。",
-        "recommend_reason_zh": null,
-        "url": "https://x.com/arena/status/2102416020678008986",
-        "source": "X：Arena (@arena)",
-        "source_name": "AI HOT"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-09-22T17:48:16.379602Z"
+        "scored_at": "2026-09-22T19:03:22.649533Z"
       }
     },
     {
@@ -1402,15 +1761,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8192,
-      "importance": 0.8192,
-      "importance_score": 0.8192,
+      "score": 0.8172,
+      "importance": 0.8172,
+      "importance_score": 0.8172,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.7734,
+        "recency": 0.7624,
         "story_heat": 0.0
       },
       "category": "official",
@@ -1437,335 +1796,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-22T17:48:16.379602Z"
-      }
-    },
-    {
-      "story_id": "story_d55a152b616f",
-      "title": "Anthropic 发布 Claude Opus 5.5，Claude 5.5 系列首个模型 / Introducing Claude Opus 5.5， the first model in our new Claude 5.5 family. It performs at the level…",
-      "url": "https://x.com/claudeai/status/2102435511222890900",
-      "primary_url": "https://x.com/claudeai/status/2102435511222890900",
-      "source": "X：Claude (@claudeai)",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "aa9d73d1a7f42cad7f0e52843e35b82a9eade57a",
-          "title": "Anthropic 发布 Claude Opus 5.5，Claude 5.5 系列首个模型 / Introducing Claude Opus 5.5， the first model in our new Claude 5.5 family. It performs at the level…",
-          "title_zh": "Anthropic 发布 Claude Opus 5.5，Claude 5.5 系列首个模型",
-          "title_en": "Introducing Claude Opus 5.5， the first model in our new Claude 5.5 family. It performs at the level…",
-          "title_original": "Introducing Claude Opus 5.5， the first model in our new Claude 5.5 family. It performs at the level…",
-          "summary": "Anthropic 发布 Claude Opus 5.5，是 Claude 5.5 系列的首个模型。官方称其在多数任务上达到 Claude Fable 5.1 的水平，运行成本比 Opus 5 低 40%。",
-          "recommend_reason_zh": null,
-          "url": "https://x.com/claudeai/status/2102435511222890900",
-          "source": "X：Claude (@claudeai)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-22T16:31:01Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "X：Claude (@claudeai)"
-      ],
-      "items": [
-        {
-          "id": "aa9d73d1a7f42cad7f0e52843e35b82a9eade57a",
-          "title": "Anthropic 发布 Claude Opus 5.5，Claude 5.5 系列首个模型 / Introducing Claude Opus 5.5， the first model in our new Claude 5.5 family. It performs at the level…",
-          "title_zh": "Anthropic 发布 Claude Opus 5.5，Claude 5.5 系列首个模型",
-          "title_en": "Introducing Claude Opus 5.5， the first model in our new Claude 5.5 family. It performs at the level…",
-          "title_original": "Introducing Claude Opus 5.5， the first model in our new Claude 5.5 family. It performs at the level…",
-          "summary": "Anthropic 发布 Claude Opus 5.5，是 Claude 5.5 系列的首个模型。官方称其在多数任务上达到 Claude Fable 5.1 的水平，运行成本比 Opus 5 低 40%。",
-          "recommend_reason_zh": null,
-          "url": "https://x.com/claudeai/status/2102435511222890900",
-          "source": "X：Claude (@claudeai)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-22T16:31:01Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7583,
-      "importance": 0.7583,
-      "importance_score": 0.7583,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.7,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.9818,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-22T16:31:01Z",
-      "latest_at": "2026-09-22T16:31:01Z",
-      "primary_item": {
-        "id": "aa9d73d1a7f42cad7f0e52843e35b82a9eade57a",
-        "title": "Anthropic 发布 Claude Opus 5.5，Claude 5.5 系列首个模型 / Introducing Claude Opus 5.5， the first model in our new Claude 5.5 family. It performs at the level…",
-        "title_zh": "Anthropic 发布 Claude Opus 5.5，Claude 5.5 系列首个模型",
-        "title_en": "Introducing Claude Opus 5.5， the first model in our new Claude 5.5 family. It performs at the level…",
-        "title_original": "Introducing Claude Opus 5.5， the first model in our new Claude 5.5 family. It performs at the level…",
-        "summary": "Anthropic 发布 Claude Opus 5.5，是 Claude 5.5 系列的首个模型。官方称其在多数任务上达到 Claude Fable 5.1 的水平，运行成本比 Opus 5 低 40%。",
-        "recommend_reason_zh": null,
-        "url": "https://x.com/claudeai/status/2102435511222890900",
-        "source": "X：Claude (@claudeai)",
-        "source_name": "AI HOT"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-09-22T17:48:16.379602Z"
-      }
-    },
-    {
-      "story_id": "story_9dd455633b21",
-      "title": "办公桌上的 AI 新物种！阿里千问办公首款桌面机器人 QwenNote Eva 正式发布，售价 899 元",
-      "url": "https://www.aibase.com/news/31276",
-      "primary_url": "https://www.aibase.com/news/31276",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "52084fe5d7c17f0b4e8c558ab21ec21345b64d68",
-          "title": "办公桌上的 AI 新物种！阿里千问办公首款桌面机器人 QwenNote Eva 正式发布，售价 899 元",
-          "title_zh": "办公桌上的 AI 新物种！阿里千问办公首款桌面机器人 QwenNote Eva 正式发布，售价 899 元",
-          "title_en": null,
-          "title_original": "办公桌上的 AI 新物种！阿里千问办公首款桌面机器人 QwenNote Eva 正式发布，售价 899 元",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/31276",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-09-22T10:47:49.275774Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "52084fe5d7c17f0b4e8c558ab21ec21345b64d68",
-          "title": "办公桌上的 AI 新物种！阿里千问办公首款桌面机器人 QwenNote Eva 正式发布，售价 899 元",
-          "title_zh": "办公桌上的 AI 新物种！阿里千问办公首款桌面机器人 QwenNote Eva 正式发布，售价 899 元",
-          "title_en": null,
-          "title_original": "办公桌上的 AI 新物种！阿里千问办公首款桌面机器人 QwenNote Eva 正式发布，售价 899 元",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/31276",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-09-22T10:47:49.275774Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7503,
-      "importance": 0.7503,
-      "importance_score": 0.7503,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.9039,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-22T10:47:49.275774Z",
-      "latest_at": "2026-09-22T10:47:49.275774Z",
-      "primary_item": {
-        "id": "52084fe5d7c17f0b4e8c558ab21ec21345b64d68",
-        "title": "办公桌上的 AI 新物种！阿里千问办公首款桌面机器人 QwenNote Eva 正式发布，售价 899 元",
-        "title_zh": "办公桌上的 AI 新物种！阿里千问办公首款桌面机器人 QwenNote Eva 正式发布，售价 899 元",
-        "title_en": null,
-        "title_original": "办公桌上的 AI 新物种！阿里千问办公首款桌面机器人 QwenNote Eva 正式发布，售价 899 元",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/31276",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-09-22T17:48:16.379602Z"
-      }
-    },
-    {
-      "story_id": "story_c1fb35598aba",
-      "title": "刷新的代码仓库拉取请求页面现已可用 / Refreshed repository pull requests page generally available",
-      "url": "https://github.blog/changelog/2026-09-21-refreshed-repository-pull-requests-page-generally-available",
-      "primary_url": "https://github.blog/changelog/2026-09-21-refreshed-repository-pull-requests-page-generally-available",
-      "source": "GitHub Changelog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "1d7449a96d5b3fac40aea1fe9334626568c41059",
-          "title": "刷新的代码仓库拉取请求页面现已可用 / Refreshed repository pull requests page generally available",
-          "title_zh": "刷新的代码仓库拉取请求页面现已可用",
-          "title_en": "Refreshed repository pull requests page generally available",
-          "title_original": "Refreshed repository pull requests page generally available",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-09-21-refreshed-repository-pull-requests-page-generally-available",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-09-22T01:25:53Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "GitHub Changelog"
-      ],
-      "items": [
-        {
-          "id": "1d7449a96d5b3fac40aea1fe9334626568c41059",
-          "title": "刷新的代码仓库拉取请求页面现已可用 / Refreshed repository pull requests page generally available",
-          "title_zh": "刷新的代码仓库拉取请求页面现已可用",
-          "title_en": "Refreshed repository pull requests page generally available",
-          "title_original": "Refreshed repository pull requests page generally available",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-09-21-refreshed-repository-pull-requests-page-generally-available",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-09-22T01:25:53Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8061,
-      "importance": 0.8061,
-      "importance_score": 0.8061,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.87,
-        "recency": 0.7896,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-22T01:25:53Z",
-      "latest_at": "2026-09-22T01:25:53Z",
-      "primary_item": {
-        "id": "1d7449a96d5b3fac40aea1fe9334626568c41059",
-        "title": "刷新的代码仓库拉取请求页面现已可用 / Refreshed repository pull requests page generally available",
-        "title_zh": "刷新的代码仓库拉取请求页面现已可用",
-        "title_en": "Refreshed repository pull requests page generally available",
-        "title_original": "Refreshed repository pull requests page generally available",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://github.blog/changelog/2026-09-21-refreshed-repository-pull-requests-page-generally-available",
-        "source": "GitHub Changelog",
-        "source_name": "Official AI Updates"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-09-22T17:48:16.379602Z"
-      }
-    },
-    {
-      "story_id": "story_d28e7788d36a",
-      "title": "何夕2077 AI 深度信号周报 2026 W38",
-      "url": "https://hex2077.dev/zh-CN/blog/weekly/2026-09-20-ai-weekly-2026-w38",
-      "primary_url": "https://hex2077.dev/zh-CN/blog/weekly/2026-09-20-ai-weekly-2026-w38",
-      "source": "Daily Digest",
-      "source_name": "AI HubToday",
-      "sources": [
-        {
-          "id": "724b1642ab93d6bde79e43f35c4d874e6ae65c67",
-          "title": "何夕2077 AI 深度信号周报 2026 W38",
-          "title_zh": "何夕2077 AI 深度信号周报 2026 W38",
-          "title_en": null,
-          "title_original": "何夕2077 AI 深度信号周报 2026 W38",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://hex2077.dev/zh-CN/blog/weekly/2026-09-20-ai-weekly-2026-w38",
-          "source": "Daily Digest",
-          "source_name": "AI HubToday",
-          "site_id": "aihubtoday",
-          "published_at": "2026-09-22T07:16:08Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Daily Digest"
-      ],
-      "items": [
-        {
-          "id": "724b1642ab93d6bde79e43f35c4d874e6ae65c67",
-          "title": "何夕2077 AI 深度信号周报 2026 W38",
-          "title_zh": "何夕2077 AI 深度信号周报 2026 W38",
-          "title_en": null,
-          "title_original": "何夕2077 AI 深度信号周报 2026 W38",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://hex2077.dev/zh-CN/blog/weekly/2026-09-20-ai-weekly-2026-w38",
-          "source": "Daily Digest",
-          "source_name": "AI HubToday",
-          "site_id": "aihubtoday",
-          "published_at": "2026-09-22T07:16:08Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7422,
-      "importance": 0.7422,
-      "importance_score": 0.7422,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.859,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-09-22T07:16:08Z",
-      "latest_at": "2026-09-22T07:16:08Z",
-      "primary_item": {
-        "id": "724b1642ab93d6bde79e43f35c4d874e6ae65c67",
-        "title": "何夕2077 AI 深度信号周报 2026 W38",
-        "title_zh": "何夕2077 AI 深度信号周报 2026 W38",
-        "title_en": null,
-        "title_original": "何夕2077 AI 深度信号周报 2026 W38",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://hex2077.dev/zh-CN/blog/weekly/2026-09-20-ai-weekly-2026-w38",
-        "source": "Daily Digest",
-        "source_name": "AI HubToday"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-09-22T17:48:16.379602Z"
+        "scored_at": "2026-09-22T19:03:22.649533Z"
       }
     }
   ]
