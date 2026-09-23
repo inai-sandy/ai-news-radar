@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-23T02:47:19.175383Z",
+  "generated_at": "2026-09-23T03:47:32.839629Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -220,15 +220,15 @@
       ],
       "item_count": 7,
       "duplicate_count": 7,
-      "score": 0.8906,
-      "importance": 0.8906,
-      "importance_score": 0.8906,
+      "score": 0.8883,
+      "importance": 0.8883,
+      "importance_score": 0.8883,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.86,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8944,
+        "recency": 0.8815,
         "story_heat": 1.0
       },
       "category": "multi_source",
@@ -255,7 +255,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-23T02:48:18.873000Z"
+        "scored_at": "2026-09-23T03:49:48.874919Z"
       }
     },
     {
@@ -361,15 +361,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.8885,
-      "importance": 0.8885,
-      "importance_score": 0.8885,
+      "score": 0.8863,
+      "importance": 0.8863,
+      "importance_score": 0.8863,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.8808,
+        "recency": 0.8681,
         "story_heat": 0.5
       },
       "category": "official",
@@ -397,7 +397,90 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-23T02:48:18.873000Z"
+        "scored_at": "2026-09-23T03:49:48.874919Z"
+      }
+    },
+    {
+      "story_id": "story_bf530929af3e",
+      "title": "Codex CLI 0.156.1",
+      "url": "https://developers.openai.com/codex/changelog",
+      "primary_url": "https://developers.openai.com/codex/changelog",
+      "source": "OpenAI Codex Changelog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "1673cf098377ad515b7921904f29c746b731cb0a",
+          "title": "Codex CLI 0.156.1",
+          "title_zh": null,
+          "title_en": "Codex CLI 0.156.1",
+          "title_original": "Codex CLI 0.156.1",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://developers.openai.com/codex/changelog",
+          "source": "OpenAI Codex Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-09-23T00:00:00Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "OpenAI Codex Changelog"
+      ],
+      "items": [
+        {
+          "id": "1673cf098377ad515b7921904f29c746b731cb0a",
+          "title": "Codex CLI 0.156.1",
+          "title_zh": null,
+          "title_en": "Codex CLI 0.156.1",
+          "title_original": "Codex CLI 0.156.1",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://developers.openai.com/codex/changelog",
+          "source": "OpenAI Codex Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-09-23T00:00:00Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8564,
+      "importance": 0.8564,
+      "importance_score": 0.8564,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.98,
+        "recency": 0.9467,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-23T00:00:00Z",
+      "latest_at": "2026-09-23T00:00:00Z",
+      "primary_item": {
+        "id": "1673cf098377ad515b7921904f29c746b731cb0a",
+        "title": "Codex CLI 0.156.1",
+        "title_zh": null,
+        "title_en": "Codex CLI 0.156.1",
+        "title_original": "Codex CLI 0.156.1",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://developers.openai.com/codex/changelog",
+        "source": "OpenAI Codex Changelog",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-09-23T03:49:48.874919Z"
       }
     },
     {
@@ -445,15 +528,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8506,
-      "importance": 0.8506,
-      "importance_score": 0.8506,
+      "score": 0.848,
+      "importance": 0.848,
+      "importance_score": 0.848,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.9922,
+        "recency": 0.9779,
         "story_heat": 0.0
       },
       "category": "official",
@@ -480,7 +563,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-23T02:48:18.873000Z"
+        "scored_at": "2026-09-23T03:49:48.874919Z"
       }
     },
     {
@@ -528,15 +611,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.834,
-      "importance": 0.834,
-      "importance_score": 0.834,
+      "score": 0.8318,
+      "importance": 0.8318,
+      "importance_score": 0.8318,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.86,
         "source_tier": 1.0,
         "ai_relevance": 1.0,
-        "recency": 0.8668,
+        "recency": 0.8544,
         "story_heat": 0.0
       },
       "category": "official",
@@ -562,7 +645,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-23T02:48:18.873000Z"
+        "scored_at": "2026-09-23T03:49:48.874919Z"
       }
     },
     {
@@ -610,15 +693,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8536,
-      "importance": 0.8536,
-      "importance_score": 0.8536,
+      "score": 0.8512,
+      "importance": 0.8512,
+      "importance_score": 0.8512,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.99,
-        "recency": 0.9198,
+        "recency": 0.9066,
         "story_heat": 0.0
       },
       "category": "official",
@@ -645,7 +728,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-23T02:48:18.873000Z"
+        "scored_at": "2026-09-23T03:49:48.874919Z"
       }
     },
     {
@@ -693,15 +776,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8463,
-      "importance": 0.8463,
-      "importance_score": 0.8463,
+      "score": 0.8438,
+      "importance": 0.8438,
+      "importance_score": 0.8438,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.9685,
+        "recency": 0.9546,
         "story_heat": 0.0
       },
       "category": "official",
@@ -728,7 +811,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-23T02:48:18.873000Z"
+        "scored_at": "2026-09-23T03:49:48.874919Z"
       }
     },
     {
@@ -805,15 +888,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.8119,
-      "importance": 0.8119,
-      "importance_score": 0.8119,
+      "score": 0.8095,
+      "importance": 0.8095,
+      "importance_score": 0.8095,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.81,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9575,
+        "recency": 0.9437,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -840,7 +923,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-23T02:48:18.873000Z"
+        "scored_at": "2026-09-23T03:49:48.874919Z"
       }
     },
     {
@@ -917,15 +1000,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.8094,
-      "importance": 0.8094,
-      "importance_score": 0.8094,
+      "score": 0.8072,
+      "importance": 0.8072,
+      "importance_score": 0.8072,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.85,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8769,
+        "recency": 0.8643,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -952,7 +1035,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-23T02:48:18.873000Z"
+        "scored_at": "2026-09-23T03:49:48.874919Z"
       }
     },
     {
@@ -1029,15 +1112,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.8045,
-      "importance": 0.8045,
-      "importance_score": 0.8045,
+      "score": 0.8022,
+      "importance": 0.8022,
+      "importance_score": 0.8022,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.68,
         "source_tier": 1.0,
         "ai_relevance": 1.0,
-        "recency": 0.8636,
+        "recency": 0.8512,
         "story_heat": 0.25
       },
       "category": "official",
@@ -1064,7 +1147,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-23T02:48:18.873000Z"
+        "scored_at": "2026-09-23T03:49:48.874919Z"
       }
     },
     {
@@ -1112,15 +1195,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7844,
-      "importance": 0.7844,
-      "importance_score": 0.7844,
+      "score": 0.7821,
+      "importance": 0.7821,
+      "importance_score": 0.7821,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.84,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8935,
+        "recency": 0.8807,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1146,7 +1229,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-23T02:48:18.873000Z"
+        "scored_at": "2026-09-23T03:49:48.874919Z"
       }
     },
     {
@@ -1194,15 +1277,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7829,
-      "importance": 0.7829,
-      "importance_score": 0.7829,
+      "score": 0.7806,
+      "importance": 0.7806,
+      "importance_score": 0.7806,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.84,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8851,
+        "recency": 0.8723,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1228,7 +1311,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-23T02:48:18.873000Z"
+        "scored_at": "2026-09-23T03:49:48.874919Z"
       }
     },
     {
@@ -1305,15 +1388,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.8097,
-      "importance": 0.8097,
-      "importance_score": 0.8097,
+      "score": 0.8075,
+      "importance": 0.8075,
+      "importance_score": 0.8075,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.86,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8617,
+        "recency": 0.8493,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -1340,7 +1423,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-23T02:48:18.873000Z"
+        "scored_at": "2026-09-23T03:49:48.874919Z"
       }
     },
     {
@@ -1388,15 +1471,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8367,
-      "importance": 0.8367,
-      "importance_score": 0.8367,
+      "score": 0.8344,
+      "importance": 0.8344,
+      "importance_score": 0.8344,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.8704,
+        "recency": 0.8578,
         "story_heat": 0.0
       },
       "category": "official",
@@ -1423,7 +1506,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-23T02:48:18.873000Z"
+        "scored_at": "2026-09-23T03:49:48.874919Z"
       }
     },
     {
@@ -1471,15 +1554,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7761,
-      "importance": 0.7761,
-      "importance_score": 0.7761,
+      "score": 0.7738,
+      "importance": 0.7738,
+      "importance_score": 0.7738,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.83,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8638,
+        "recency": 0.8514,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1505,7 +1588,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-23T02:48:18.873000Z"
+        "scored_at": "2026-09-23T03:49:48.874919Z"
       }
     },
     {
@@ -1553,15 +1636,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7706,
-      "importance": 0.7706,
-      "importance_score": 0.7706,
+      "score": 0.7683,
+      "importance": 0.7683,
+      "importance_score": 0.7683,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.79,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9001,
+        "recency": 0.8871,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1587,30 +1670,30 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-23T02:48:18.873000Z"
+        "scored_at": "2026-09-23T03:49:48.874919Z"
       }
     },
     {
-      "story_id": "story_5783866a540c",
-      "title": "OpenRouter发布 2026 嵌入模型选型指南：实测 19 款、 37 个目录条目，按场景把最佳候选摆上桌",
-      "url": "https://www.aibase.com/news/31291",
-      "primary_url": "https://www.aibase.com/news/31291",
+      "story_id": "story_2cd65f3d29da",
+      "title": "Claude Code v2.1. 280 落地：Opus 5. 5 正式接棒默认王座，百万上下文配 4 美元骨折价把账单压进地心",
+      "url": "https://www.aibase.com/news/31294",
+      "primary_url": "https://www.aibase.com/news/31294",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "2e9e100dcf676be227106ebbe7fe9595e37d9a7c",
-          "title": "OpenRouter发布 2026 嵌入模型选型指南：实测 19 款、 37 个目录条目，按场景把最佳候选摆上桌",
-          "title_zh": "OpenRouter发布 2026 嵌入模型选型指南：实测 19 款、 37 个目录条目，按场景把最佳候选摆上桌",
+          "id": "04911bd33577cdc6c709b1c82d55379239892a34",
+          "title": "Claude Code v2.1. 280 落地：Opus 5. 5 正式接棒默认王座，百万上下文配 4 美元骨折价把账单压进地心",
+          "title_zh": "Claude Code v2.1. 280 落地：Opus 5. 5 正式接棒默认王座，百万上下文配 4 美元骨折价把账单压进地心",
           "title_en": null,
-          "title_original": "OpenRouter发布 2026 嵌入模型选型指南：实测 19 款、 37 个目录条目，按场景把最佳候选摆上桌",
+          "title_original": "Claude Code v2.1. 280 落地：Opus 5. 5 正式接棒默认王座，百万上下文配 4 美元骨折价把账单压进地心",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/31291",
+          "url": "https://www.aibase.com/news/31294",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-09-23T02:47:19.175383Z"
+          "published_at": "2026-09-23T03:47:32.839629Z"
         }
       ],
       "source_count": 1,
@@ -1619,18 +1702,18 @@
       ],
       "items": [
         {
-          "id": "2e9e100dcf676be227106ebbe7fe9595e37d9a7c",
-          "title": "OpenRouter发布 2026 嵌入模型选型指南：实测 19 款、 37 个目录条目，按场景把最佳候选摆上桌",
-          "title_zh": "OpenRouter发布 2026 嵌入模型选型指南：实测 19 款、 37 个目录条目，按场景把最佳候选摆上桌",
+          "id": "04911bd33577cdc6c709b1c82d55379239892a34",
+          "title": "Claude Code v2.1. 280 落地：Opus 5. 5 正式接棒默认王座，百万上下文配 4 美元骨折价把账单压进地心",
+          "title_zh": "Claude Code v2.1. 280 落地：Opus 5. 5 正式接棒默认王座，百万上下文配 4 美元骨折价把账单压进地心",
           "title_en": null,
-          "title_original": "OpenRouter发布 2026 嵌入模型选型指南：实测 19 款、 37 个目录条目，按场景把最佳候选摆上桌",
+          "title_original": "Claude Code v2.1. 280 落地：Opus 5. 5 正式接棒默认王座，百万上下文配 4 美元骨折价把账单压进地心",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/31291",
+          "url": "https://www.aibase.com/news/31294",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-09-23T02:47:19.175383Z"
+          "published_at": "2026-09-23T03:47:32.839629Z"
         }
       ],
       "item_count": 1,
@@ -1651,17 +1734,17 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-09-23T02:47:19.175383Z",
-      "latest_at": "2026-09-23T02:47:19.175383Z",
+      "earliest_at": "2026-09-23T03:47:32.839629Z",
+      "latest_at": "2026-09-23T03:47:32.839629Z",
       "primary_item": {
-        "id": "2e9e100dcf676be227106ebbe7fe9595e37d9a7c",
-        "title": "OpenRouter发布 2026 嵌入模型选型指南：实测 19 款、 37 个目录条目，按场景把最佳候选摆上桌",
-        "title_zh": "OpenRouter发布 2026 嵌入模型选型指南：实测 19 款、 37 个目录条目，按场景把最佳候选摆上桌",
+        "id": "04911bd33577cdc6c709b1c82d55379239892a34",
+        "title": "Claude Code v2.1. 280 落地：Opus 5. 5 正式接棒默认王座，百万上下文配 4 美元骨折价把账单压进地心",
+        "title_zh": "Claude Code v2.1. 280 落地：Opus 5. 5 正式接棒默认王座，百万上下文配 4 美元骨折价把账单压进地心",
         "title_en": null,
-        "title_original": "OpenRouter发布 2026 嵌入模型选型指南：实测 19 款、 37 个目录条目，按场景把最佳候选摆上桌",
+        "title_original": "Claude Code v2.1. 280 落地：Opus 5. 5 正式接棒默认王座，百万上下文配 4 美元骨折价把账单压进地心",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/31291",
+        "url": "https://www.aibase.com/news/31294",
         "source": "AIbase",
         "source_name": "AIbase"
       },
@@ -1669,7 +1752,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-23T02:48:18.873000Z"
+        "scored_at": "2026-09-23T03:49:48.874919Z"
       }
     },
     {
@@ -1717,15 +1800,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7663,
-      "importance": 0.7663,
-      "importance_score": 0.7663,
+      "score": 0.7639,
+      "importance": 0.7639,
+      "importance_score": 0.7639,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.77,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9094,
+        "recency": 0.8963,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1751,7 +1834,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-23T02:48:18.873000Z"
+        "scored_at": "2026-09-23T03:49:48.874919Z"
       }
     },
     {
@@ -1799,15 +1882,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8254,
-      "importance": 0.8254,
-      "importance_score": 0.8254,
+      "score": 0.8233,
+      "importance": 0.8233,
+      "importance_score": 0.8233,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.8077,
+        "recency": 0.7961,
         "story_heat": 0.0
       },
       "category": "official",
@@ -1834,7 +1917,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-23T02:48:18.873000Z"
+        "scored_at": "2026-09-23T03:49:48.874919Z"
       }
     },
     {
@@ -1882,15 +1965,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.762,
-      "importance": 0.762,
-      "importance_score": 0.762,
+      "score": 0.7598,
+      "importance": 0.7598,
+      "importance_score": 0.7598,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.77,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8858,
+        "recency": 0.8731,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1916,89 +1999,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-23T02:48:18.873000Z"
-      }
-    },
-    {
-      "story_id": "story_73d2d693822d",
-      "title": "GPT-6 Sol 与 Luna 发布，API 价格比 GPT-5.6 低 50% / GPT-6 Luna is $0.10 / $0.50 per 1M tokens！ We're soon going to have to switch to per billion token…",
-      "url": "https://x.com/sherwinwu/status/2102462783707344907",
-      "primary_url": "https://x.com/sherwinwu/status/2102462783707344907",
-      "source": "X：Sherwin Wu（@sherwinwu）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "256a8b6195b5278f7cf4a57f5abf587403338648",
-          "title": "GPT-6 Sol 与 Luna 发布，API 价格比 GPT-5.6 低 50% / GPT-6 Luna is $0.10 / $0.50 per 1M tokens！ We're soon going to have to switch to per billion token…",
-          "title_zh": "GPT-6 Sol 与 Luna 发布，API 价格比 GPT-5.6 低 50%",
-          "title_en": "GPT-6 Luna is $0.10 / $0.50 per 1M tokens！ We're soon going to have to switch to per billion token…",
-          "title_original": "GPT-6 Luna is $0.10 / $0.50 per 1M tokens！ We're soon going to have to switch to per billion token…",
-          "summary": "OpenAI 开发者账号宣布 GPT-6 Sol 和 Luna 发布，两者 API 定价比 GPT-5.6 低 50%。Sherwin Wu 补充 GPT-6 Luna 定价为每 1M tokens 输入 $0.10、输出 $0.50，并称价格很快需要改按每十亿 tokens 计价。",
-          "recommend_reason_zh": null,
-          "url": "https://x.com/sherwinwu/status/2102462783707344907",
-          "source": "X：Sherwin Wu（@sherwinwu）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-22T18:19:24Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "X：Sherwin Wu（@sherwinwu）"
-      ],
-      "items": [
-        {
-          "id": "256a8b6195b5278f7cf4a57f5abf587403338648",
-          "title": "GPT-6 Sol 与 Luna 发布，API 价格比 GPT-5.6 低 50% / GPT-6 Luna is $0.10 / $0.50 per 1M tokens！ We're soon going to have to switch to per billion token…",
-          "title_zh": "GPT-6 Sol 与 Luna 发布，API 价格比 GPT-5.6 低 50%",
-          "title_en": "GPT-6 Luna is $0.10 / $0.50 per 1M tokens！ We're soon going to have to switch to per billion token…",
-          "title_original": "GPT-6 Luna is $0.10 / $0.50 per 1M tokens！ We're soon going to have to switch to per billion token…",
-          "summary": "OpenAI 开发者账号宣布 GPT-6 Sol 和 Luna 发布，两者 API 定价比 GPT-5.6 低 50%。Sherwin Wu 补充 GPT-6 Luna 定价为每 1M tokens 输入 $0.10、输出 $0.50，并称价格很快需要改按每十亿 tokens 计价。",
-          "recommend_reason_zh": null,
-          "url": "https://x.com/sherwinwu/status/2102462783707344907",
-          "source": "X：Sherwin Wu（@sherwinwu）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-22T18:19:24Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7619,
-      "importance": 0.7619,
-      "importance_score": 0.7619,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.77,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.8849,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-22T18:19:24Z",
-      "latest_at": "2026-09-22T18:19:24Z",
-      "primary_item": {
-        "id": "256a8b6195b5278f7cf4a57f5abf587403338648",
-        "title": "GPT-6 Sol 与 Luna 发布，API 价格比 GPT-5.6 低 50% / GPT-6 Luna is $0.10 / $0.50 per 1M tokens！ We're soon going to have to switch to per billion token…",
-        "title_zh": "GPT-6 Sol 与 Luna 发布，API 价格比 GPT-5.6 低 50%",
-        "title_en": "GPT-6 Luna is $0.10 / $0.50 per 1M tokens！ We're soon going to have to switch to per billion token…",
-        "title_original": "GPT-6 Luna is $0.10 / $0.50 per 1M tokens！ We're soon going to have to switch to per billion token…",
-        "summary": "OpenAI 开发者账号宣布 GPT-6 Sol 和 Luna 发布，两者 API 定价比 GPT-5.6 低 50%。Sherwin Wu 补充 GPT-6 Luna 定价为每 1M tokens 输入 $0.10、输出 $0.50，并称价格很快需要改按每十亿 tokens 计价。",
-        "recommend_reason_zh": null,
-        "url": "https://x.com/sherwinwu/status/2102462783707344907",
-        "source": "X：Sherwin Wu（@sherwinwu）",
-        "source_name": "AI HOT"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-09-23T02:48:18.873000Z"
+        "scored_at": "2026-09-23T03:49:48.874919Z"
       }
     }
   ]
