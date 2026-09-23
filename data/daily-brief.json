@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-23T19:47:19.725109Z",
+  "generated_at": "2026-09-23T20:47:17.564013Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -41,8 +41,8 @@
         },
         {
           "id": "6862ceede8befef86c8d6fb7ddfcb4b00f35e85a",
-          "title": "Claude discovers a novel enzyme system with CRISPR-like repeats",
-          "title_zh": null,
+          "title": "Claude发现了一种具有类似 CRISPR 重复序列的新型酶系统 / Claude discovers a novel enzyme system with CRISPR-like repeats",
+          "title_zh": "Claude发现了一种具有类似 CRISPR 重复序列的新型酶系统",
           "title_en": "Claude discovers a novel enzyme system with CRISPR-like repeats",
           "title_original": "Claude discovers a novel enzyme system with CRISPR-like repeats",
           "summary": null,
@@ -91,8 +91,8 @@
         },
         {
           "id": "6862ceede8befef86c8d6fb7ddfcb4b00f35e85a",
-          "title": "Claude discovers a novel enzyme system with CRISPR-like repeats",
-          "title_zh": null,
+          "title": "Claude发现了一种具有类似 CRISPR 重复序列的新型酶系统 / Claude discovers a novel enzyme system with CRISPR-like repeats",
+          "title_zh": "Claude发现了一种具有类似 CRISPR 重复序列的新型酶系统",
           "title_en": "Claude discovers a novel enzyme system with CRISPR-like repeats",
           "title_original": "Claude discovers a novel enzyme system with CRISPR-like repeats",
           "summary": null,
@@ -106,15 +106,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.8836,
-      "importance": 0.8836,
-      "importance_score": 0.8836,
+      "score": 0.881,
+      "importance": 0.881,
+      "importance_score": 0.881,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.79,
         "source_tier": 1.0,
         "ai_relevance": 1.0,
-        "recency": 0.981,
+        "recency": 0.9669,
         "story_heat": 0.5
       },
       "category": "official",
@@ -141,12 +141,12 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-23T20:26:49.424263Z"
+        "scored_at": "2026-09-23T20:48:11.651191Z"
       }
     },
     {
       "story_id": "story_4b75c8247471",
-      "title": "How to Use NVIDIA Warp and MjWarp to Accelerate Robotics Simulation and Learning Workflows",
+      "title": "如何使用 NVIDIA Warp 和 MjWarp 加速机器人模拟和学习工作流程 / How to Use NVIDIA Warp and MjWarp to Accelerate Robotics Simulation and Learning Workflows",
       "url": "https://huggingface.co/blog/nvidia/how-to-use-nvidia-warp-and-mjwarp",
       "primary_url": "https://huggingface.co/blog/nvidia/how-to-use-nvidia-warp-and-mjwarp",
       "source": "Hugging Face Blog",
@@ -154,8 +154,8 @@
       "sources": [
         {
           "id": "fa1a1032abd968ef29f2bcbad9ef16b802c9ea8a",
-          "title": "How to Use NVIDIA Warp and MjWarp to Accelerate Robotics Simulation and Learning Workflows",
-          "title_zh": null,
+          "title": "如何使用 NVIDIA Warp 和 MjWarp 加速机器人模拟和学习工作流程 / How to Use NVIDIA Warp and MjWarp to Accelerate Robotics Simulation and Learning Workflows",
+          "title_zh": "如何使用 NVIDIA Warp 和 MjWarp 加速机器人模拟和学习工作流程",
           "title_en": "How to Use NVIDIA Warp and MjWarp to Accelerate Robotics Simulation and Learning Workflows",
           "title_original": "How to Use NVIDIA Warp and MjWarp to Accelerate Robotics Simulation and Learning Workflows",
           "summary": null,
@@ -174,8 +174,8 @@
       "items": [
         {
           "id": "fa1a1032abd968ef29f2bcbad9ef16b802c9ea8a",
-          "title": "How to Use NVIDIA Warp and MjWarp to Accelerate Robotics Simulation and Learning Workflows",
-          "title_zh": null,
+          "title": "如何使用 NVIDIA Warp 和 MjWarp 加速机器人模拟和学习工作流程 / How to Use NVIDIA Warp and MjWarp to Accelerate Robotics Simulation and Learning Workflows",
+          "title_zh": "如何使用 NVIDIA Warp 和 MjWarp 加速机器人模拟和学习工作流程",
           "title_en": "How to Use NVIDIA Warp and MjWarp to Accelerate Robotics Simulation and Learning Workflows",
           "title_original": "How to Use NVIDIA Warp and MjWarp to Accelerate Robotics Simulation and Learning Workflows",
           "summary": null,
@@ -189,15 +189,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8672,
-      "importance": 0.8672,
-      "importance_score": 0.8672,
+      "score": 0.8646,
+      "importance": 0.8646,
+      "importance_score": 0.8646,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 1.0,
-        "recency": 0.9843,
+        "recency": 0.9702,
         "story_heat": 0.0
       },
       "category": "official",
@@ -210,8 +210,8 @@
       "latest_at": "2026-09-23T18:41:40Z",
       "primary_item": {
         "id": "fa1a1032abd968ef29f2bcbad9ef16b802c9ea8a",
-        "title": "How to Use NVIDIA Warp and MjWarp to Accelerate Robotics Simulation and Learning Workflows",
-        "title_zh": null,
+        "title": "如何使用 NVIDIA Warp 和 MjWarp 加速机器人模拟和学习工作流程 / How to Use NVIDIA Warp and MjWarp to Accelerate Robotics Simulation and Learning Workflows",
+        "title_zh": "如何使用 NVIDIA Warp 和 MjWarp 加速机器人模拟和学习工作流程",
         "title_en": "How to Use NVIDIA Warp and MjWarp to Accelerate Robotics Simulation and Learning Workflows",
         "title_original": "How to Use NVIDIA Warp and MjWarp to Accelerate Robotics Simulation and Learning Workflows",
         "summary": null,
@@ -224,7 +224,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-23T20:26:49.424263Z"
+        "scored_at": "2026-09-23T20:48:11.651191Z"
       }
     },
     {
@@ -251,8 +251,8 @@
         },
         {
           "id": "9811fef985a6515daae09535331196c75370e63d",
-          "title": "Gemini 3.8 text-to-speech says hello",
-          "title_zh": null,
+          "title": "Gemini 3.8 文字转语音说你好 / Gemini 3.8 text-to-speech says hello",
+          "title_zh": "Gemini 3.8 文字转语音说你好",
           "title_en": "Gemini 3.8 text-to-speech says hello",
           "title_original": "Gemini 3.8 text-to-speech says hello",
           "summary": null,
@@ -286,8 +286,8 @@
         },
         {
           "id": "9811fef985a6515daae09535331196c75370e63d",
-          "title": "Gemini 3.8 text-to-speech says hello",
-          "title_zh": null,
+          "title": "Gemini 3.8 文字转语音说你好 / Gemini 3.8 text-to-speech says hello",
+          "title_zh": "Gemini 3.8 文字转语音说你好",
           "title_en": "Gemini 3.8 text-to-speech says hello",
           "title_original": "Gemini 3.8 text-to-speech says hello",
           "summary": null,
@@ -301,15 +301,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.866,
-      "importance": 0.866,
-      "importance_score": 0.866,
+      "score": 0.8636,
+      "importance": 0.8636,
+      "importance_score": 0.8636,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.9389,
+        "recency": 0.9254,
         "story_heat": 0.25
       },
       "category": "official",
@@ -337,12 +337,12 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-23T20:26:49.424263Z"
+        "scored_at": "2026-09-23T20:48:11.651191Z"
       }
     },
     {
       "story_id": "story_d5568a9a87d3",
-      "title": "Ringg’s AI agents resolve up to 65% of customer calls with OpenAI",
+      "title": "Ringg 的 AI 代理通过 OpenAI 解决了高达 65% 的客户呼叫 / Ringg’s AI agents resolve up to 65% of customer calls with OpenAI",
       "url": "https://openai.com/index/ringg",
       "primary_url": "https://openai.com/index/ringg",
       "source": "OpenAI News",
@@ -350,8 +350,8 @@
       "sources": [
         {
           "id": "48e7e143951a807062656727fb44afb909b365f9",
-          "title": "Ringg’s AI agents resolve up to 65% of customer calls with OpenAI",
-          "title_zh": null,
+          "title": "Ringg 的 AI 代理通过 OpenAI 解决了高达 65% 的客户呼叫 / Ringg’s AI agents resolve up to 65% of customer calls with OpenAI",
+          "title_zh": "Ringg 的 AI 代理通过 OpenAI 解决了高达 65% 的客户呼叫",
           "title_en": "Ringg’s AI agents resolve up to 65% of customer calls with OpenAI",
           "title_original": "Ringg’s AI agents resolve up to 65% of customer calls with OpenAI",
           "summary": null,
@@ -370,8 +370,8 @@
       "items": [
         {
           "id": "48e7e143951a807062656727fb44afb909b365f9",
-          "title": "Ringg’s AI agents resolve up to 65% of customer calls with OpenAI",
-          "title_zh": null,
+          "title": "Ringg 的 AI 代理通过 OpenAI 解决了高达 65% 的客户呼叫 / Ringg’s AI agents resolve up to 65% of customer calls with OpenAI",
+          "title_zh": "Ringg 的 AI 代理通过 OpenAI 解决了高达 65% 的客户呼叫",
           "title_en": "Ringg’s AI agents resolve up to 65% of customer calls with OpenAI",
           "title_original": "Ringg’s AI agents resolve up to 65% of customer calls with OpenAI",
           "summary": null,
@@ -402,12 +402,12 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-09-23T19:47:19.725109Z",
-      "latest_at": "2026-09-23T19:47:19.725109Z",
+      "earliest_at": "2026-09-23T20:47:17.564013Z",
+      "latest_at": "2026-09-23T20:47:17.564013Z",
       "primary_item": {
         "id": "48e7e143951a807062656727fb44afb909b365f9",
-        "title": "Ringg’s AI agents resolve up to 65% of customer calls with OpenAI",
-        "title_zh": null,
+        "title": "Ringg 的 AI 代理通过 OpenAI 解决了高达 65% 的客户呼叫 / Ringg’s AI agents resolve up to 65% of customer calls with OpenAI",
+        "title_zh": "Ringg 的 AI 代理通过 OpenAI 解决了高达 65% 的客户呼叫",
         "title_en": "Ringg’s AI agents resolve up to 65% of customer calls with OpenAI",
         "title_original": "Ringg’s AI agents resolve up to 65% of customer calls with OpenAI",
         "summary": null,
@@ -420,12 +420,12 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-23T20:26:49.424263Z"
+        "scored_at": "2026-09-23T20:48:11.651191Z"
       }
     },
     {
       "story_id": "story_a6ca8561303e",
-      "title": "Rendering huge pull requests in the GitHub Copilot app",
+      "title": "在 GitHub Copilot 应用程序中呈现巨大的拉取请求 / Rendering huge pull requests in the GitHub Copilot app",
       "url": "https://github.blog/engineering/user-experience/rendering-huge-pull-requests-in-the-github-copilot-app",
       "primary_url": "https://github.blog/engineering/user-experience/rendering-huge-pull-requests-in-the-github-copilot-app",
       "source": "GitHub AI & ML",
@@ -433,8 +433,8 @@
       "sources": [
         {
           "id": "59f0c9db98c7052e955a993862c622cb6e606454",
-          "title": "Rendering huge pull requests in the GitHub Copilot app",
-          "title_zh": null,
+          "title": "在 GitHub Copilot 应用程序中呈现巨大的拉取请求 / Rendering huge pull requests in the GitHub Copilot app",
+          "title_zh": "在 GitHub Copilot 应用程序中呈现巨大的拉取请求",
           "title_en": "Rendering huge pull requests in the GitHub Copilot app",
           "title_original": "Rendering huge pull requests in the GitHub Copilot app",
           "summary": null,
@@ -453,8 +453,8 @@
       "items": [
         {
           "id": "59f0c9db98c7052e955a993862c622cb6e606454",
-          "title": "Rendering huge pull requests in the GitHub Copilot app",
-          "title_zh": null,
+          "title": "在 GitHub Copilot 应用程序中呈现巨大的拉取请求 / Rendering huge pull requests in the GitHub Copilot app",
+          "title_zh": "在 GitHub Copilot 应用程序中呈现巨大的拉取请求",
           "title_en": "Rendering huge pull requests in the GitHub Copilot app",
           "title_original": "Rendering huge pull requests in the GitHub Copilot app",
           "summary": null,
@@ -468,15 +468,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8487,
-      "importance": 0.8487,
-      "importance_score": 0.8487,
+      "score": 0.8461,
+      "importance": 0.8461,
+      "importance_score": 0.8461,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.9815,
+        "recency": 0.9675,
         "story_heat": 0.0
       },
       "category": "official",
@@ -489,8 +489,8 @@
       "latest_at": "2026-09-23T18:29:49Z",
       "primary_item": {
         "id": "59f0c9db98c7052e955a993862c622cb6e606454",
-        "title": "Rendering huge pull requests in the GitHub Copilot app",
-        "title_zh": null,
+        "title": "在 GitHub Copilot 应用程序中呈现巨大的拉取请求 / Rendering huge pull requests in the GitHub Copilot app",
+        "title_zh": "在 GitHub Copilot 应用程序中呈现巨大的拉取请求",
         "title_en": "Rendering huge pull requests in the GitHub Copilot app",
         "title_original": "Rendering huge pull requests in the GitHub Copilot app",
         "summary": null,
@@ -503,12 +503,12 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-23T20:26:49.424263Z"
+        "scored_at": "2026-09-23T20:48:11.651191Z"
       }
     },
     {
       "story_id": "story_4784460ec311",
-      "title": "Local sandboxing in the GitHub Copilot app",
+      "title": "GitHub Copilot 应用程序中的本地沙箱 / Local sandboxing in the GitHub Copilot app",
       "url": "https://github.blog/changelog/2026-09-23-local-sandboxing-in-the-github-copilot-app",
       "primary_url": "https://github.blog/changelog/2026-09-23-local-sandboxing-in-the-github-copilot-app",
       "source": "GitHub Changelog",
@@ -516,8 +516,8 @@
       "sources": [
         {
           "id": "0121837d0ed77c1ea34f904c3968f1538e274816",
-          "title": "Local sandboxing in the GitHub Copilot app",
-          "title_zh": null,
+          "title": "GitHub Copilot 应用程序中的本地沙箱 / Local sandboxing in the GitHub Copilot app",
+          "title_zh": "GitHub Copilot 应用程序中的本地沙箱",
           "title_en": "Local sandboxing in the GitHub Copilot app",
           "title_original": "Local sandboxing in the GitHub Copilot app",
           "summary": null,
@@ -536,8 +536,8 @@
       "items": [
         {
           "id": "0121837d0ed77c1ea34f904c3968f1538e274816",
-          "title": "Local sandboxing in the GitHub Copilot app",
-          "title_zh": null,
+          "title": "GitHub Copilot 应用程序中的本地沙箱 / Local sandboxing in the GitHub Copilot app",
+          "title_zh": "GitHub Copilot 应用程序中的本地沙箱",
           "title_en": "Local sandboxing in the GitHub Copilot app",
           "title_original": "Local sandboxing in the GitHub Copilot app",
           "summary": null,
@@ -551,15 +551,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.846,
-      "importance": 0.846,
-      "importance_score": 0.846,
+      "score": 0.8436,
+      "importance": 0.8436,
+      "importance_score": 0.8436,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.94,
-        "recency": 0.9334,
+        "recency": 0.92,
         "story_heat": 0.0
       },
       "category": "official",
@@ -572,8 +572,8 @@
       "latest_at": "2026-09-23T15:00:57Z",
       "primary_item": {
         "id": "0121837d0ed77c1ea34f904c3968f1538e274816",
-        "title": "Local sandboxing in the GitHub Copilot app",
-        "title_zh": null,
+        "title": "GitHub Copilot 应用程序中的本地沙箱 / Local sandboxing in the GitHub Copilot app",
+        "title_zh": "GitHub Copilot 应用程序中的本地沙箱",
         "title_en": "Local sandboxing in the GitHub Copilot app",
         "title_original": "Local sandboxing in the GitHub Copilot app",
         "summary": null,
@@ -586,12 +586,12 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-23T20:26:49.424263Z"
+        "scored_at": "2026-09-23T20:48:11.651191Z"
       }
     },
     {
       "story_id": "story_3afb84085368",
-      "title": "Google Beam expands with new regions, partners, and customers",
+      "title": "Google Beam 不断拓展新的地区、合作伙伴和客户 / Google Beam expands with new regions, partners, and customers",
       "url": "https://blog.google/innovation-and-ai/technology/research/google-beam-expansion",
       "primary_url": "https://blog.google/innovation-and-ai/technology/research/google-beam-expansion",
       "source": "Google AI Blog",
@@ -599,8 +599,8 @@
       "sources": [
         {
           "id": "23eea2ed4b9bcffb5d6058b5e87da02bab68869b",
-          "title": "Google Beam expands with new regions, partners, and customers",
-          "title_zh": null,
+          "title": "Google Beam 不断拓展新的地区、合作伙伴和客户 / Google Beam expands with new regions, partners, and customers",
+          "title_zh": "Google Beam 不断拓展新的地区、合作伙伴和客户",
           "title_en": "Google Beam expands with new regions, partners, and customers",
           "title_original": "Google Beam expands with new regions, partners, and customers",
           "summary": null,
@@ -619,8 +619,8 @@
       "items": [
         {
           "id": "23eea2ed4b9bcffb5d6058b5e87da02bab68869b",
-          "title": "Google Beam expands with new regions, partners, and customers",
-          "title_zh": null,
+          "title": "Google Beam 不断拓展新的地区、合作伙伴和客户 / Google Beam expands with new regions, partners, and customers",
+          "title_zh": "Google Beam 不断拓展新的地区、合作伙伴和客户",
           "title_en": "Google Beam expands with new regions, partners, and customers",
           "title_original": "Google Beam expands with new regions, partners, and customers",
           "summary": null,
@@ -634,15 +634,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8394,
-      "importance": 0.8394,
-      "importance_score": 0.8394,
+      "score": 0.8369,
+      "importance": 0.8369,
+      "importance_score": 0.8369,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.9745,
+        "recency": 0.9605,
         "story_heat": 0.0
       },
       "category": "official",
@@ -655,8 +655,8 @@
       "latest_at": "2026-09-23T18:00:00Z",
       "primary_item": {
         "id": "23eea2ed4b9bcffb5d6058b5e87da02bab68869b",
-        "title": "Google Beam expands with new regions, partners, and customers",
-        "title_zh": null,
+        "title": "Google Beam 不断拓展新的地区、合作伙伴和客户 / Google Beam expands with new regions, partners, and customers",
+        "title_zh": "Google Beam 不断拓展新的地区、合作伙伴和客户",
         "title_en": "Google Beam expands with new regions, partners, and customers",
         "title_original": "Google Beam expands with new regions, partners, and customers",
         "summary": null,
@@ -669,7 +669,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-23T20:26:49.424263Z"
+        "scored_at": "2026-09-23T20:48:11.651191Z"
       }
     },
     {
@@ -717,15 +717,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8213,
-      "importance": 0.8213,
-      "importance_score": 0.8213,
+      "score": 0.8193,
+      "importance": 0.8193,
+      "importance_score": 0.8193,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.98,
-        "recency": 0.7514,
+        "recency": 0.7407,
         "story_heat": 0.0
       },
       "category": "official",
@@ -752,7 +752,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-23T20:26:49.424263Z"
+        "scored_at": "2026-09-23T20:48:11.651191Z"
       }
     },
     {
@@ -800,15 +800,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8469,
-      "importance": 0.8469,
-      "importance_score": 0.8469,
+      "score": 0.8445,
+      "importance": 0.8445,
+      "importance_score": 0.8445,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.98,
-        "recency": 0.8936,
+        "recency": 0.8808,
         "story_heat": 0.0
       },
       "category": "official",
@@ -835,12 +835,12 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-23T20:26:49.424263Z"
+        "scored_at": "2026-09-23T20:48:11.651191Z"
       }
     },
     {
       "story_id": "story_e8d7d86b4448",
-      "title": "**Know Who Spoke When: Build Real-Time, Multi-Speaker AI with NVIDIA Nemotron 3 Diarization**",
+      "title": "**了解谁在何时说话：使用 NVIDIA Nemotron 3 Diarization 构建实时多说话者 AI** / **Know Who Spoke When: Build Real-Time, Multi-Speaker AI with NVIDIA Nemotron 3 Diarization**",
       "url": "https://huggingface.co/blog/nvidia/nemotron-diarization",
       "primary_url": "https://huggingface.co/blog/nvidia/nemotron-diarization",
       "source": "Hugging Face Blog",
@@ -848,8 +848,8 @@
       "sources": [
         {
           "id": "23cce1b2008384ca31fa4e48dfdf1e5411098536",
-          "title": "**Know Who Spoke When: Build Real-Time, Multi-Speaker AI with NVIDIA Nemotron 3 Diarization**",
-          "title_zh": null,
+          "title": "**了解谁在何时说话：使用 NVIDIA Nemotron 3 Diarization 构建实时多说话者 AI** / **Know Who Spoke When: Build Real-Time, Multi-Speaker AI with NVIDIA Nemotron 3 Diarization**",
+          "title_zh": "**了解谁在何时说话：使用 NVIDIA Nemotron 3 Diarization 构建实时多说话者 AI**",
           "title_en": "**Know Who Spoke When: Build Real-Time, Multi-Speaker AI with NVIDIA Nemotron 3 Diarization**",
           "title_original": "**Know Who Spoke When: Build Real-Time, Multi-Speaker AI with NVIDIA Nemotron 3 Diarization**",
           "summary": null,
@@ -868,8 +868,8 @@
       "items": [
         {
           "id": "23cce1b2008384ca31fa4e48dfdf1e5411098536",
-          "title": "**Know Who Spoke When: Build Real-Time, Multi-Speaker AI with NVIDIA Nemotron 3 Diarization**",
-          "title_zh": null,
+          "title": "**了解谁在何时说话：使用 NVIDIA Nemotron 3 Diarization 构建实时多说话者 AI** / **Know Who Spoke When: Build Real-Time, Multi-Speaker AI with NVIDIA Nemotron 3 Diarization**",
+          "title_zh": "**了解谁在何时说话：使用 NVIDIA Nemotron 3 Diarization 构建实时多说话者 AI**",
           "title_en": "**Know Who Spoke When: Build Real-Time, Multi-Speaker AI with NVIDIA Nemotron 3 Diarization**",
           "title_original": "**Know Who Spoke When: Build Real-Time, Multi-Speaker AI with NVIDIA Nemotron 3 Diarization**",
           "summary": null,
@@ -883,15 +883,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8439,
-      "importance": 0.8439,
-      "importance_score": 0.8439,
+      "score": 0.8415,
+      "importance": 0.8415,
+      "importance_score": 0.8415,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.9103,
+        "recency": 0.8973,
         "story_heat": 0.0
       },
       "category": "official",
@@ -904,8 +904,8 @@
       "latest_at": "2026-09-23T13:17:01Z",
       "primary_item": {
         "id": "23cce1b2008384ca31fa4e48dfdf1e5411098536",
-        "title": "**Know Who Spoke When: Build Real-Time, Multi-Speaker AI with NVIDIA Nemotron 3 Diarization**",
-        "title_zh": null,
+        "title": "**了解谁在何时说话：使用 NVIDIA Nemotron 3 Diarization 构建实时多说话者 AI** / **Know Who Spoke When: Build Real-Time, Multi-Speaker AI with NVIDIA Nemotron 3 Diarization**",
+        "title_zh": "**了解谁在何时说话：使用 NVIDIA Nemotron 3 Diarization 构建实时多说话者 AI**",
         "title_en": "**Know Who Spoke When: Build Real-Time, Multi-Speaker AI with NVIDIA Nemotron 3 Diarization**",
         "title_original": "**Know Who Spoke When: Build Real-Time, Multi-Speaker AI with NVIDIA Nemotron 3 Diarization**",
         "summary": null,
@@ -918,12 +918,124 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-23T20:26:49.424263Z"
+        "scored_at": "2026-09-23T20:48:11.651191Z"
+      }
+    },
+    {
+      "story_id": "story_acfff9ac525d",
+      "title": "Anthropic 团队详解如何用 Claude 在两周内把 claude.ai 提速约 3 倍 / How we made claude.ai 3x faster in two weeks",
+      "url": "https://claude.dev/blog/how-we-made-claude-ai-faster",
+      "primary_url": "https://claude.dev/blog/how-we-made-claude-ai-faster",
+      "source": "Hacker News：AI 热帖",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "e08f17337931db3bdac610517c7dfe1010beb7db",
+          "title": "Anthropic 团队详解如何用 Claude 在两周内把 claude.ai 提速约 3 倍 / How we made claude.ai 3x faster in two weeks",
+          "title_zh": "Anthropic 团队详解如何用 Claude 在两周内把 claude.ai 提速约 3 倍",
+          "title_en": "How we made claude.ai 3x faster in two weeks",
+          "title_original": "How we made claude.ai 3x faster in two weeks",
+          "summary": "Anthropic 团队发文详解今年 8 月通过两周冲刺让 claude.ai 和桌面端核心体验提速约 3 倍的过程：聚焦覆盖 95% 用户活动的四条旅程，75 分位首屏可输入时间从 3.1 秒降到 0.55 秒，合并超过三千个变更且无一次面向用户的事故。",
+          "recommend_reason_zh": null,
+          "url": "https://claude.dev/blog/how-we-made-claude-ai-faster",
+          "source": "Hacker News：AI 热帖",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-23T19:23:40Z"
+        },
+        {
+          "id": "860b4588e074aa4b626d661254f341d858698dcc",
+          "title": "我们如何在两周内使 claude.ai 速度提高 3 倍 / How we made claude.ai 3x faster in two weeks",
+          "title_zh": "我们如何在两周内使 claude.ai 速度提高 3 倍",
+          "title_en": "How we made claude.ai 3x faster in two weeks",
+          "title_original": "How we made claude.ai 3x faster in two weeks",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=49821196",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-09-23T19:23:40Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News：AI 热帖",
+        "hackernews"
+      ],
+      "items": [
+        {
+          "id": "e08f17337931db3bdac610517c7dfe1010beb7db",
+          "title": "Anthropic 团队详解如何用 Claude 在两周内把 claude.ai 提速约 3 倍 / How we made claude.ai 3x faster in two weeks",
+          "title_zh": "Anthropic 团队详解如何用 Claude 在两周内把 claude.ai 提速约 3 倍",
+          "title_en": "How we made claude.ai 3x faster in two weeks",
+          "title_original": "How we made claude.ai 3x faster in two weeks",
+          "summary": "Anthropic 团队发文详解今年 8 月通过两周冲刺让 claude.ai 和桌面端核心体验提速约 3 倍的过程：聚焦覆盖 95% 用户活动的四条旅程，75 分位首屏可输入时间从 3.1 秒降到 0.55 秒，合并超过三千个变更且无一次面向用户的事故。",
+          "recommend_reason_zh": null,
+          "url": "https://claude.dev/blog/how-we-made-claude-ai-faster",
+          "source": "Hacker News：AI 热帖",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-23T19:23:40Z"
+        },
+        {
+          "id": "860b4588e074aa4b626d661254f341d858698dcc",
+          "title": "我们如何在两周内使 claude.ai 速度提高 3 倍 / How we made claude.ai 3x faster in two weeks",
+          "title_zh": "我们如何在两周内使 claude.ai 速度提高 3 倍",
+          "title_en": "How we made claude.ai 3x faster in two weeks",
+          "title_original": "How we made claude.ai 3x faster in two weeks",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=49821196",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-09-23T19:23:40Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.804,
+      "importance": 0.804,
+      "importance_score": 0.804,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.77,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9801,
+        "story_heat": 0.25
+      },
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-23T19:23:40Z",
+      "latest_at": "2026-09-23T19:23:40Z",
+      "primary_item": {
+        "id": "e08f17337931db3bdac610517c7dfe1010beb7db",
+        "title": "Anthropic 团队详解如何用 Claude 在两周内把 claude.ai 提速约 3 倍 / How we made claude.ai 3x faster in two weeks",
+        "title_zh": "Anthropic 团队详解如何用 Claude 在两周内把 claude.ai 提速约 3 倍",
+        "title_en": "How we made claude.ai 3x faster in two weeks",
+        "title_original": "How we made claude.ai 3x faster in two weeks",
+        "summary": "Anthropic 团队发文详解今年 8 月通过两周冲刺让 claude.ai 和桌面端核心体验提速约 3 倍的过程：聚焦覆盖 95% 用户活动的四条旅程，75 分位首屏可输入时间从 3.1 秒降到 0.55 秒，合并超过三千个变更且无一次面向用户的事故。",
+        "recommend_reason_zh": null,
+        "url": "https://claude.dev/blog/how-we-made-claude-ai-faster",
+        "source": "Hacker News：AI 热帖",
+        "source_name": "AI HOT"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-09-23T20:48:11.651191Z"
       }
     },
     {
       "story_id": "story_9326fab27bb2",
-      "title": "Advancing Private AI Compute with secure, server-side memory",
+      "title": "通过安全的服务器端内存推进私有人工智能计算 / Advancing Private AI Compute with secure, server-side memory",
       "url": "https://deepmind.google/blog/advancing-private-ai-compute-with-secure-server-side-memory",
       "primary_url": "https://deepmind.google/blog/advancing-private-ai-compute-with-secure-server-side-memory",
       "source": "Google DeepMind",
@@ -931,8 +1043,8 @@
       "sources": [
         {
           "id": "1076f771e7361676a84c00d4d0f97e44d0ab979e",
-          "title": "Advancing Private AI Compute with secure, server-side memory",
-          "title_zh": null,
+          "title": "通过安全的服务器端内存推进私有人工智能计算 / Advancing Private AI Compute with secure, server-side memory",
+          "title_zh": "通过安全的服务器端内存推进私有人工智能计算",
           "title_en": "Advancing Private AI Compute with secure, server-side memory",
           "title_original": "Advancing Private AI Compute with secure, server-side memory",
           "summary": null,
@@ -951,8 +1063,8 @@
       "items": [
         {
           "id": "1076f771e7361676a84c00d4d0f97e44d0ab979e",
-          "title": "Advancing Private AI Compute with secure, server-side memory",
-          "title_zh": null,
+          "title": "通过安全的服务器端内存推进私有人工智能计算 / Advancing Private AI Compute with secure, server-side memory",
+          "title_zh": "通过安全的服务器端内存推进私有人工智能计算",
           "title_en": "Advancing Private AI Compute with secure, server-side memory",
           "title_original": "Advancing Private AI Compute with secure, server-side memory",
           "summary": null,
@@ -966,15 +1078,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8345,
-      "importance": 0.8345,
-      "importance_score": 0.8345,
+      "score": 0.832,
+      "importance": 0.832,
+      "importance_score": 0.832,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.947,
+        "recency": 0.9334,
         "story_heat": 0.0
       },
       "category": "official",
@@ -987,8 +1099,8 @@
       "latest_at": "2026-09-23T16:00:57Z",
       "primary_item": {
         "id": "1076f771e7361676a84c00d4d0f97e44d0ab979e",
-        "title": "Advancing Private AI Compute with secure, server-side memory",
-        "title_zh": null,
+        "title": "通过安全的服务器端内存推进私有人工智能计算 / Advancing Private AI Compute with secure, server-side memory",
+        "title_zh": "通过安全的服务器端内存推进私有人工智能计算",
         "title_en": "Advancing Private AI Compute with secure, server-side memory",
         "title_original": "Advancing Private AI Compute with secure, server-side memory",
         "summary": null,
@@ -1001,7 +1113,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-23T20:26:49.424263Z"
+        "scored_at": "2026-09-23T20:48:11.651191Z"
       }
     },
     {
@@ -1049,15 +1161,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8033,
-      "importance": 0.8033,
-      "importance_score": 0.8033,
+      "score": 0.8008,
+      "importance": 0.8008,
+      "importance_score": 0.8008,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.7,
         "source_tier": 1.0,
         "ai_relevance": 1.0,
-        "recency": 0.9626,
+        "recency": 0.9488,
         "story_heat": 0.0
       },
       "category": "official",
@@ -1083,7 +1195,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-23T20:26:49.424263Z"
+        "scored_at": "2026-09-23T20:48:11.651191Z"
       }
     },
     {
@@ -1131,15 +1243,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.792,
-      "importance": 0.792,
-      "importance_score": 0.792,
+      "score": 0.7895,
+      "importance": 0.7895,
+      "importance_score": 0.7895,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.81,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9855,
+        "recency": 0.9714,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1165,7 +1277,89 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-23T20:26:49.424263Z"
+        "scored_at": "2026-09-23T20:48:11.651191Z"
+      }
+    },
+    {
+      "story_id": "story_76e284c5a332",
+      "title": "团队分享提升 Agent Harness Token 效率的提示词 / here's a prompt to improve your agent harness based on what we've learned at cursor. enjoy # Improv…",
+      "url": "https://x.com/ericzakariasson/status/2102853511637774551",
+      "primary_url": "https://x.com/ericzakariasson/status/2102853511637774551",
+      "source": "X：Eric Zakariasson (@ericzakariasson)",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "39e65b238e8b2c16e0a6b4204234979ad4753e74",
+          "title": "团队分享提升 Agent Harness Token 效率的提示词 / here's a prompt to improve your agent harness based on what we've learned at cursor. enjoy # Improv…",
+          "title_zh": "团队分享提升 Agent Harness Token 效率的提示词",
+          "title_en": "here's a prompt to improve your agent harness based on what we've learned at cursor. enjoy # Improv…",
+          "title_original": "here's a prompt to improve your agent harness based on what we've learned at cursor. enjoy # Improv…",
+          "summary": "一份公开提示词用于优化 LLM Agent Harness，目标是在不降低任务质量的前提下降低每任务的价格加权 token 成本。某团队一轮改动（提示词精简、工具卸载、缓存布局、稀疏行号、子智能体调优）将整体 token 成本降低约 7%，且质量无损。提示词强调按任务而非按请求计量，并建议先映射 harness、测量基线，再按优先级实施改动。",
+          "recommend_reason_zh": null,
+          "url": "https://x.com/ericzakariasson/status/2102853511637774551",
+          "source": "X：Eric Zakariasson (@ericzakariasson)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-23T20:12:00Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "X：Eric Zakariasson (@ericzakariasson)"
+      ],
+      "items": [
+        {
+          "id": "39e65b238e8b2c16e0a6b4204234979ad4753e74",
+          "title": "团队分享提升 Agent Harness Token 效率的提示词 / here's a prompt to improve your agent harness based on what we've learned at cursor. enjoy # Improv…",
+          "title_zh": "团队分享提升 Agent Harness Token 效率的提示词",
+          "title_en": "here's a prompt to improve your agent harness based on what we've learned at cursor. enjoy # Improv…",
+          "title_original": "here's a prompt to improve your agent harness based on what we've learned at cursor. enjoy # Improv…",
+          "summary": "一份公开提示词用于优化 LLM Agent Harness，目标是在不降低任务质量的前提下降低每任务的价格加权 token 成本。某团队一轮改动（提示词精简、工具卸载、缓存布局、稀疏行号、子智能体调优）将整体 token 成本降低约 7%，且质量无损。提示词强调按任务而非按请求计量，并建议先映射 harness、测量基线，再按优先级实施改动。",
+          "recommend_reason_zh": null,
+          "url": "https://x.com/ericzakariasson/status/2102853511637774551",
+          "source": "X：Eric Zakariasson (@ericzakariasson)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-23T20:12:00Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7811,
+      "importance": 0.7811,
+      "importance_score": 0.7811,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.77,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9915,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-23T20:12:00Z",
+      "latest_at": "2026-09-23T20:12:00Z",
+      "primary_item": {
+        "id": "39e65b238e8b2c16e0a6b4204234979ad4753e74",
+        "title": "团队分享提升 Agent Harness Token 效率的提示词 / here's a prompt to improve your agent harness based on what we've learned at cursor. enjoy # Improv…",
+        "title_zh": "团队分享提升 Agent Harness Token 效率的提示词",
+        "title_en": "here's a prompt to improve your agent harness based on what we've learned at cursor. enjoy # Improv…",
+        "title_original": "here's a prompt to improve your agent harness based on what we've learned at cursor. enjoy # Improv…",
+        "summary": "一份公开提示词用于优化 LLM Agent Harness，目标是在不降低任务质量的前提下降低每任务的价格加权 token 成本。某团队一轮改动（提示词精简、工具卸载、缓存布局、稀疏行号、子智能体调优）将整体 token 成本降低约 7%，且质量无损。提示词强调按任务而非按请求计量，并建议先映射 harness、测量基线，再按优先级实施改动。",
+        "recommend_reason_zh": null,
+        "url": "https://x.com/ericzakariasson/status/2102853511637774551",
+        "source": "X：Eric Zakariasson (@ericzakariasson)",
+        "source_name": "AI HOT"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-09-23T20:48:11.651191Z"
       }
     },
     {
@@ -1213,15 +1407,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8424,
-      "importance": 0.8424,
-      "importance_score": 0.8424,
+      "score": 0.84,
+      "importance": 0.84,
+      "importance_score": 0.84,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.9468,
+        "recency": 0.9332,
         "story_heat": 0.0
       },
       "category": "official",
@@ -1248,7 +1442,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-23T20:26:49.424263Z"
+        "scored_at": "2026-09-23T20:48:11.651191Z"
       }
     },
     {
@@ -1296,15 +1490,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8117,
-      "importance": 0.8117,
-      "importance_score": 0.8117,
+      "score": 0.8097,
+      "importance": 0.8097,
+      "importance_score": 0.8097,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.7762,
+        "recency": 0.7651,
         "story_heat": 0.0
       },
       "category": "official",
@@ -1331,7 +1525,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-23T20:26:49.424263Z"
+        "scored_at": "2026-09-23T20:48:11.651191Z"
       }
     },
     {
@@ -1379,15 +1573,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7752,
-      "importance": 0.7752,
-      "importance_score": 0.7752,
+      "score": 0.7727,
+      "importance": 0.7727,
+      "importance_score": 0.7727,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.76,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9758,
+        "recency": 0.9618,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1413,7 +1607,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-23T20:26:49.424263Z"
+        "scored_at": "2026-09-23T20:48:11.651191Z"
       }
     },
     {
@@ -1490,15 +1684,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7744,
-      "importance": 0.7744,
-      "importance_score": 0.7744,
+      "score": 0.7725,
+      "importance": 0.7725,
+      "importance_score": 0.7725,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.81,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.749,
+        "recency": 0.7383,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -1525,7 +1719,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-23T20:26:49.424263Z"
+        "scored_at": "2026-09-23T20:48:11.651191Z"
       }
     },
     {
@@ -1573,15 +1767,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7697,
-      "importance": 0.7697,
-      "importance_score": 0.7697,
+      "score": 0.7672,
+      "importance": 0.7672,
+      "importance_score": 0.7672,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.75,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9618,
+        "recency": 0.948,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1607,171 +1801,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-23T20:26:49.424263Z"
-      }
-    },
-    {
-      "story_id": "story_1d4792ab4cc7",
-      "title": "ChatGPT Voice 升级：可调用邮件、日历、Slack 插件并由 GPT-6 Astra、Sol、Luna 驱动 / Voice！ I've gotten so used to just call ChatGPT and talk about all the work， check on emails， do som…",
-      "url": "https://x.com/thsottiaux/status/2102814202117411196",
-      "primary_url": "https://x.com/thsottiaux/status/2102814202117411196",
-      "source": "X：Tibo (@thsottiaux)",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "db8c42bb2bad0c837005bf9097cedb37e8ee34cf",
-          "title": "ChatGPT Voice 升级：可调用邮件、日历、Slack 插件并由 GPT-6 Astra、Sol、Luna 驱动 / Voice！ I've gotten so used to just call ChatGPT and talk about all the work， check on emails， do som…",
-          "title_zh": "ChatGPT Voice 升级：可调用邮件、日历、Slack 插件并由 GPT-6 Astra、Sol、Luna 驱动",
-          "title_en": "Voice！ I've gotten so used to just call ChatGPT and talk about all the work， check on emails， do som…",
-          "title_original": "Voice！ I've gotten so used to just call ChatGPT and talk about all the work， check on emails， do som…",
-          "summary": "OpenAI 宣布 ChatGPT Voice 升级，可使用邮件、日历和 Slack 等插件，并由 GPT-6 Astra、Sol、Luna 驱动。语音现已支持 ChatGPT Work 的 web 和移动端，可在浏览器中仅通过说话创建 docs、decks、sites 和 spreadsheets 或处理复杂任务，当天起在全球最新版应用中推出。",
-          "recommend_reason_zh": null,
-          "url": "https://x.com/thsottiaux/status/2102814202117411196",
-          "source": "X：Tibo (@thsottiaux)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-23T17:35:48Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "X：Tibo (@thsottiaux)"
-      ],
-      "items": [
-        {
-          "id": "db8c42bb2bad0c837005bf9097cedb37e8ee34cf",
-          "title": "ChatGPT Voice 升级：可调用邮件、日历、Slack 插件并由 GPT-6 Astra、Sol、Luna 驱动 / Voice！ I've gotten so used to just call ChatGPT and talk about all the work， check on emails， do som…",
-          "title_zh": "ChatGPT Voice 升级：可调用邮件、日历、Slack 插件并由 GPT-6 Astra、Sol、Luna 驱动",
-          "title_en": "Voice！ I've gotten so used to just call ChatGPT and talk about all the work， check on emails， do som…",
-          "title_original": "Voice！ I've gotten so used to just call ChatGPT and talk about all the work， check on emails， do som…",
-          "summary": "OpenAI 宣布 ChatGPT Voice 升级，可使用邮件、日历和 Slack 等插件，并由 GPT-6 Astra、Sol、Luna 驱动。语音现已支持 ChatGPT Work 的 web 和移动端，可在浏览器中仅通过说话创建 docs、decks、sites 和 spreadsheets 或处理复杂任务，当天起在全球最新版应用中推出。",
-          "recommend_reason_zh": null,
-          "url": "https://x.com/thsottiaux/status/2102814202117411196",
-          "source": "X：Tibo (@thsottiaux)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-23T17:35:48Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.762,
-      "importance": 0.762,
-      "importance_score": 0.762,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.9688,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-23T17:35:48Z",
-      "latest_at": "2026-09-23T17:35:48Z",
-      "primary_item": {
-        "id": "db8c42bb2bad0c837005bf9097cedb37e8ee34cf",
-        "title": "ChatGPT Voice 升级：可调用邮件、日历、Slack 插件并由 GPT-6 Astra、Sol、Luna 驱动 / Voice！ I've gotten so used to just call ChatGPT and talk about all the work， check on emails， do som…",
-        "title_zh": "ChatGPT Voice 升级：可调用邮件、日历、Slack 插件并由 GPT-6 Astra、Sol、Luna 驱动",
-        "title_en": "Voice！ I've gotten so used to just call ChatGPT and talk about all the work， check on emails， do som…",
-        "title_original": "Voice！ I've gotten so used to just call ChatGPT and talk about all the work， check on emails， do som…",
-        "summary": "OpenAI 宣布 ChatGPT Voice 升级，可使用邮件、日历和 Slack 等插件，并由 GPT-6 Astra、Sol、Luna 驱动。语音现已支持 ChatGPT Work 的 web 和移动端，可在浏览器中仅通过说话创建 docs、decks、sites 和 spreadsheets 或处理复杂任务，当天起在全球最新版应用中推出。",
-        "recommend_reason_zh": null,
-        "url": "https://x.com/thsottiaux/status/2102814202117411196",
-        "source": "X：Tibo (@thsottiaux)",
-        "source_name": "AI HOT"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-09-23T20:26:49.424263Z"
-      }
-    },
-    {
-      "story_id": "story_8270efdbfdab",
-      "title": "OpenAI 发布 GPT-6 Sol 与 Luna，API 定价降至五折并公布基准成绩 / OpenAI Releases GPT-6 Sol and Luna： 50% Cheaper API Pricing and Benchmarks",
-      "url": "https://www.marktechpost.com/2026/09/22/openai-releases-gpt-6-sol-and-luna-50-cheaper-api-pricing-and-benchmarks",
-      "primary_url": "https://www.marktechpost.com/2026/09/22/openai-releases-gpt-6-sol-and-luna-50-cheaper-api-pricing-and-benchmarks",
-      "source": "MarkTechPost（RSS）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "46ab56f051cd2fb216ac50b26897f251f6a547d6",
-          "title": "OpenAI 发布 GPT-6 Sol 与 Luna，API 定价降至五折并公布基准成绩 / OpenAI Releases GPT-6 Sol and Luna： 50% Cheaper API Pricing and Benchmarks",
-          "title_zh": "OpenAI 发布 GPT-6 Sol 与 Luna，API 定价降至五折并公布基准成绩",
-          "title_en": "OpenAI Releases GPT-6 Sol and Luna： 50% Cheaper API Pricing and Benchmarks",
-          "title_original": "OpenAI Releases GPT-6 Sol and Luna： 50% Cheaper API Pricing and Benchmarks",
-          "summary": "OpenAI 发布 GPT-6 系列两款新模型 GPT-6 Sol 与 Luna，API 定价相比 GPT-5.6 促销价下调约 50%，Sol 为每 1M tokens 输入 $2、输出 $10，Luna 为 $0.10、$0.50，两者已上线 API。",
-          "recommend_reason_zh": null,
-          "url": "https://www.marktechpost.com/2026/09/22/openai-releases-gpt-6-sol-and-luna-50-cheaper-api-pricing-and-benchmarks",
-          "source": "MarkTechPost（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-23T05:18:36Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "MarkTechPost（RSS）"
-      ],
-      "items": [
-        {
-          "id": "46ab56f051cd2fb216ac50b26897f251f6a547d6",
-          "title": "OpenAI 发布 GPT-6 Sol 与 Luna，API 定价降至五折并公布基准成绩 / OpenAI Releases GPT-6 Sol and Luna： 50% Cheaper API Pricing and Benchmarks",
-          "title_zh": "OpenAI 发布 GPT-6 Sol 与 Luna，API 定价降至五折并公布基准成绩",
-          "title_en": "OpenAI Releases GPT-6 Sol and Luna： 50% Cheaper API Pricing and Benchmarks",
-          "title_original": "OpenAI Releases GPT-6 Sol and Luna： 50% Cheaper API Pricing and Benchmarks",
-          "summary": "OpenAI 发布 GPT-6 系列两款新模型 GPT-6 Sol 与 Luna，API 定价相比 GPT-5.6 促销价下调约 50%，Sol 为每 1M tokens 输入 $2、输出 $10，Luna 为 $0.10、$0.50，两者已上线 API。",
-          "recommend_reason_zh": null,
-          "url": "https://www.marktechpost.com/2026/09/22/openai-releases-gpt-6-sol-and-luna-50-cheaper-api-pricing-and-benchmarks",
-          "source": "MarkTechPost（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-23T05:18:36Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7606,
-      "importance": 0.7606,
-      "importance_score": 0.7606,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.81,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.8113,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-23T05:18:36Z",
-      "latest_at": "2026-09-23T05:18:36Z",
-      "primary_item": {
-        "id": "46ab56f051cd2fb216ac50b26897f251f6a547d6",
-        "title": "OpenAI 发布 GPT-6 Sol 与 Luna，API 定价降至五折并公布基准成绩 / OpenAI Releases GPT-6 Sol and Luna： 50% Cheaper API Pricing and Benchmarks",
-        "title_zh": "OpenAI 发布 GPT-6 Sol 与 Luna，API 定价降至五折并公布基准成绩",
-        "title_en": "OpenAI Releases GPT-6 Sol and Luna： 50% Cheaper API Pricing and Benchmarks",
-        "title_original": "OpenAI Releases GPT-6 Sol and Luna： 50% Cheaper API Pricing and Benchmarks",
-        "summary": "OpenAI 发布 GPT-6 系列两款新模型 GPT-6 Sol 与 Luna，API 定价相比 GPT-5.6 促销价下调约 50%，Sol 为每 1M tokens 输入 $2、输出 $10，Luna 为 $0.10、$0.50，两者已上线 API。",
-        "recommend_reason_zh": null,
-        "url": "https://www.marktechpost.com/2026/09/22/openai-releases-gpt-6-sol-and-luna-50-cheaper-api-pricing-and-benchmarks",
-        "source": "MarkTechPost（RSS）",
-        "source_name": "AI HOT"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-09-23T20:26:49.424263Z"
+        "scored_at": "2026-09-23T20:48:11.651191Z"
       }
     }
   ]
