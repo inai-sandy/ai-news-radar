@@ -1,36 +1,8 @@
 {
-  "generated_at": "2026-09-23T12:47:18.646466Z",
+  "generated_at": "2026-09-23T13:47:21.584814Z",
   "merge_strategy": "url_or_title_similarity_v0_6",
-  "total_events": 35,
+  "total_events": 34,
   "events": [
-    {
-      "story_id": "story_5d9480b17019",
-      "item_id": "75db0e2b8fb30778242e14ba93e76eef9b7dea4d",
-      "merged_into": "story_5d9480b17019",
-      "reason": "title_similarity",
-      "similarity": 1.0
-    },
-    {
-      "story_id": "story_5d9480b17019",
-      "item_id": "a805e9f5e8044818d81f9fc3a00bd0bd303a2991",
-      "merged_into": "story_5d9480b17019",
-      "reason": "canonical_url",
-      "similarity": 1.0
-    },
-    {
-      "story_id": "story_5d9480b17019",
-      "item_id": "a5807320abbf666326b74436a621ed7bb6245542",
-      "merged_into": "story_5d9480b17019",
-      "reason": "canonical_url",
-      "similarity": 1.0
-    },
-    {
-      "story_id": "story_5666f86a0d6f",
-      "item_id": "2da7dd306d5ec3a6a927383d7f2ae2274c15ab23",
-      "merged_into": "story_5666f86a0d6f",
-      "reason": "title_similarity",
-      "similarity": 1.0
-    },
     {
       "story_id": "story_faa225db3b35",
       "item_id": "a7b80e91eda4abf866a54e54f158c1c405cddaa7",
@@ -246,6 +218,27 @@
       "item_id": "c630ed3735b0baca87c0a5ac2b469c82cea1486c",
       "merged_into": "story_678c51ea4994",
       "reason": "title_similarity",
+      "similarity": 1.0
+    },
+    {
+      "story_id": "story_68175f272080",
+      "item_id": "4a1ab2f02176695e0a1bdd1c77cb7fb1290f62cf",
+      "merged_into": "story_68175f272080",
+      "reason": "title_similarity",
+      "similarity": 1.0
+    },
+    {
+      "story_id": "story_714efdf82e88",
+      "item_id": "1cecd9177c5d13b1ef639a2bf7941d93fc60c565",
+      "merged_into": "story_714efdf82e88",
+      "reason": "title_similarity",
+      "similarity": 1.0
+    },
+    {
+      "story_id": "story_33a5a294e9b6",
+      "item_id": "309bdb435f8e3fdaea95284a021f504af63b453b",
+      "merged_into": "story_33a5a294e9b6",
+      "reason": "canonical_url",
       "similarity": 1.0
     }
   ]
