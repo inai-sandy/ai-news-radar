@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-23T11:47:18.535990Z",
+  "generated_at": "2026-09-23T12:47:18.646466Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -220,15 +220,15 @@
       ],
       "item_count": 7,
       "duplicate_count": 7,
-      "score": 0.871,
-      "importance": 0.871,
-      "importance_score": 0.871,
+      "score": 0.8689,
+      "importance": 0.8689,
+      "importance_score": 0.8689,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.86,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7854,
+        "recency": 0.7741,
         "story_heat": 1.0
       },
       "category": "multi_source",
@@ -255,7 +255,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-23T12:06:29.084517Z"
+        "scored_at": "2026-09-23T12:56:46.997645Z"
       }
     },
     {
@@ -361,15 +361,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.8692,
-      "importance": 0.8692,
-      "importance_score": 0.8692,
+      "score": 0.8672,
+      "importance": 0.8672,
+      "importance_score": 0.8672,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.7735,
+        "recency": 0.7624,
         "story_heat": 0.5
       },
       "category": "official",
@@ -397,7 +397,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-23T12:06:29.084517Z"
+        "scored_at": "2026-09-23T12:56:46.997645Z"
       }
     },
     {
@@ -445,15 +445,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8378,
-      "importance": 0.8378,
-      "importance_score": 0.8378,
+      "score": 0.8356,
+      "importance": 0.8356,
+      "importance_score": 0.8356,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.98,
-        "recency": 0.8435,
+        "recency": 0.8314,
         "story_heat": 0.0
       },
       "category": "official",
@@ -480,7 +480,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-23T12:06:29.084517Z"
+        "scored_at": "2026-09-23T12:56:46.997645Z"
       }
     },
     {
@@ -528,15 +528,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8288,
-      "importance": 0.8288,
-      "importance_score": 0.8288,
+      "score": 0.8266,
+      "importance": 0.8266,
+      "importance_score": 0.8266,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.8713,
+        "recency": 0.8588,
         "story_heat": 0.0
       },
       "category": "official",
@@ -563,7 +563,90 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-23T12:06:29.084517Z"
+        "scored_at": "2026-09-23T12:56:46.997645Z"
+      }
+    },
+    {
+      "story_id": "story_ee51f7ca8c9e",
+      "title": "OpenAI 向乌克兰政府开放 Daybreak 网络防御计划 / OpenAI extends cyber access to Ukraine for civilian defense",
+      "url": "https://openai.com/index/openai-extends-cyber-access-to-ukraine-for-civilian-defense",
+      "primary_url": "https://openai.com/index/openai-extends-cyber-access-to-ukraine-for-civilian-defense",
+      "source": "OpenAI News",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "f3c68e810eb47bffbff9270c36c9e9b851f2b3d7",
+          "title": "OpenAI 向乌克兰政府开放 Daybreak 网络防御计划 / OpenAI extends cyber access to Ukraine for civilian defense",
+          "title_zh": "OpenAI 向乌克兰政府开放 Daybreak 网络防御计划",
+          "title_en": "OpenAI extends cyber access to Ukraine for civilian defense",
+          "title_original": "OpenAI extends cyber access to Ukraine for civilian defense",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://openai.com/index/openai-extends-cyber-access-to-ukraine-for-civilian-defense",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-09-23T13:00:00Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "OpenAI News"
+      ],
+      "items": [
+        {
+          "id": "f3c68e810eb47bffbff9270c36c9e9b851f2b3d7",
+          "title": "OpenAI 向乌克兰政府开放 Daybreak 网络防御计划 / OpenAI extends cyber access to Ukraine for civilian defense",
+          "title_zh": "OpenAI 向乌克兰政府开放 Daybreak 网络防御计划",
+          "title_en": "OpenAI extends cyber access to Ukraine for civilian defense",
+          "title_original": "OpenAI extends cyber access to Ukraine for civilian defense",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://openai.com/index/openai-extends-cyber-access-to-ukraine-for-civilian-defense",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-09-23T13:00:00Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.852,
+      "importance": 0.852,
+      "importance_score": 0.852,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.91,
+        "recency": 1.0,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-23T12:47:18.646466Z",
+      "latest_at": "2026-09-23T12:47:18.646466Z",
+      "primary_item": {
+        "id": "f3c68e810eb47bffbff9270c36c9e9b851f2b3d7",
+        "title": "OpenAI 向乌克兰政府开放 Daybreak 网络防御计划 / OpenAI extends cyber access to Ukraine for civilian defense",
+        "title_zh": "OpenAI 向乌克兰政府开放 Daybreak 网络防御计划",
+        "title_en": "OpenAI extends cyber access to Ukraine for civilian defense",
+        "title_original": "OpenAI extends cyber access to Ukraine for civilian defense",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://openai.com/index/openai-extends-cyber-access-to-ukraine-for-civilian-defense",
+        "source": "OpenAI News",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-09-23T12:56:46.997645Z"
       }
     },
     {
@@ -611,15 +694,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.815,
-      "importance": 0.815,
-      "importance_score": 0.815,
+      "score": 0.813,
+      "importance": 0.813,
+      "importance_score": 0.813,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.86,
         "source_tier": 1.0,
         "ai_relevance": 1.0,
-        "recency": 0.7612,
+        "recency": 0.7503,
         "story_heat": 0.0
       },
       "category": "official",
@@ -645,90 +728,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-23T12:06:29.084517Z"
-      }
-    },
-    {
-      "story_id": "story_a809a02e7e68",
-      "title": "OpenAI 为 GPT-6 推出改进的提示词缓存系统与诊断工具 / Better prompt caching for GPT-6",
-      "url": "https://openai.com/index/better-prompt-caching-for-gpt-6",
-      "primary_url": "https://openai.com/index/better-prompt-caching-for-gpt-6",
-      "source": "OpenAI News",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "9c4b7dba4540465b2660049cbcad88b45ffefc48",
-          "title": "OpenAI 为 GPT-6 推出改进的提示词缓存系统与诊断工具 / Better prompt caching for GPT-6",
-          "title_zh": "OpenAI 为 GPT-6 推出改进的提示词缓存系统与诊断工具",
-          "title_en": "Better prompt caching for GPT-6",
-          "title_original": "Better prompt caching for GPT-6",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://openai.com/index/better-prompt-caching-for-gpt-6",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-09-22T21:00:00Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "OpenAI News"
-      ],
-      "items": [
-        {
-          "id": "9c4b7dba4540465b2660049cbcad88b45ffefc48",
-          "title": "OpenAI 为 GPT-6 推出改进的提示词缓存系统与诊断工具 / Better prompt caching for GPT-6",
-          "title_zh": "OpenAI 为 GPT-6 推出改进的提示词缓存系统与诊断工具",
-          "title_en": "Better prompt caching for GPT-6",
-          "title_original": "Better prompt caching for GPT-6",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://openai.com/index/better-prompt-caching-for-gpt-6",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-09-22T21:00:00Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8334,
-      "importance": 0.8334,
-      "importance_score": 0.8334,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.99,
-        "recency": 0.8077,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-22T21:00:00Z",
-      "latest_at": "2026-09-22T21:00:00Z",
-      "primary_item": {
-        "id": "9c4b7dba4540465b2660049cbcad88b45ffefc48",
-        "title": "OpenAI 为 GPT-6 推出改进的提示词缓存系统与诊断工具 / Better prompt caching for GPT-6",
-        "title_zh": "OpenAI 为 GPT-6 推出改进的提示词缓存系统与诊断工具",
-        "title_en": "Better prompt caching for GPT-6",
-        "title_original": "Better prompt caching for GPT-6",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://openai.com/index/better-prompt-caching-for-gpt-6",
-        "source": "OpenAI News",
-        "source_name": "Official AI Updates"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-09-23T12:06:29.084517Z"
+        "scored_at": "2026-09-23T12:56:46.997645Z"
       }
     },
     {
@@ -776,15 +776,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8251,
-      "importance": 0.8251,
-      "importance_score": 0.8251,
+      "score": 0.8229,
+      "importance": 0.8229,
+      "importance_score": 0.8229,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.8505,
+        "recency": 0.8383,
         "story_heat": 0.0
       },
       "category": "official",
@@ -811,7 +811,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-23T12:06:29.084517Z"
+        "scored_at": "2026-09-23T12:56:46.997645Z"
       }
     },
     {
@@ -888,15 +888,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7909,
-      "importance": 0.7909,
-      "importance_score": 0.7909,
+      "score": 0.7888,
+      "importance": 0.7888,
+      "importance_score": 0.7888,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.81,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8408,
+        "recency": 0.8287,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -923,7 +923,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-23T12:06:29.084517Z"
+        "scored_at": "2026-09-23T12:56:46.997645Z"
       }
     },
     {
@@ -1000,15 +1000,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7902,
-      "importance": 0.7902,
-      "importance_score": 0.7902,
+      "score": 0.7882,
+      "importance": 0.7882,
+      "importance_score": 0.7882,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.85,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.77,
+        "recency": 0.759,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -1035,7 +1035,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-23T12:06:29.084517Z"
+        "scored_at": "2026-09-23T12:56:46.997645Z"
       }
     },
     {
@@ -1112,15 +1112,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7855,
-      "importance": 0.7855,
-      "importance_score": 0.7855,
+      "score": 0.7836,
+      "importance": 0.7836,
+      "importance_score": 0.7836,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.68,
         "source_tier": 1.0,
         "ai_relevance": 1.0,
-        "recency": 0.7584,
+        "recency": 0.7475,
         "story_heat": 0.25
       },
       "category": "official",
@@ -1147,7 +1147,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-23T12:06:29.084517Z"
+        "scored_at": "2026-09-23T12:56:46.997645Z"
       }
     },
     {
@@ -1195,15 +1195,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7785,
-      "importance": 0.7785,
-      "importance_score": 0.7785,
+      "score": 0.7762,
+      "importance": 0.7762,
+      "importance_score": 0.7762,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.81,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9107,
+        "recency": 0.8976,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1229,7 +1229,90 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-23T12:06:29.084517Z"
+        "scored_at": "2026-09-23T12:56:46.997645Z"
+      }
+    },
+    {
+      "story_id": "story_a809a02e7e68",
+      "title": "OpenAI 为 GPT-6 推出改进的提示词缓存系统与诊断工具 / Better prompt caching for GPT-6",
+      "url": "https://openai.com/index/better-prompt-caching-for-gpt-6",
+      "primary_url": "https://openai.com/index/better-prompt-caching-for-gpt-6",
+      "source": "OpenAI News",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "9c4b7dba4540465b2660049cbcad88b45ffefc48",
+          "title": "OpenAI 为 GPT-6 推出改进的提示词缓存系统与诊断工具 / Better prompt caching for GPT-6",
+          "title_zh": "OpenAI 为 GPT-6 推出改进的提示词缓存系统与诊断工具",
+          "title_en": "Better prompt caching for GPT-6",
+          "title_original": "Better prompt caching for GPT-6",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://openai.com/index/better-prompt-caching-for-gpt-6",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-09-22T21:00:00Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "OpenAI News"
+      ],
+      "items": [
+        {
+          "id": "9c4b7dba4540465b2660049cbcad88b45ffefc48",
+          "title": "OpenAI 为 GPT-6 推出改进的提示词缓存系统与诊断工具 / Better prompt caching for GPT-6",
+          "title_zh": "OpenAI 为 GPT-6 推出改进的提示词缓存系统与诊断工具",
+          "title_en": "Better prompt caching for GPT-6",
+          "title_original": "Better prompt caching for GPT-6",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://openai.com/index/better-prompt-caching-for-gpt-6",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-09-22T21:00:00Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8313,
+      "importance": 0.8313,
+      "importance_score": 0.8313,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.99,
+        "recency": 0.7961,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-22T21:00:00Z",
+      "latest_at": "2026-09-22T21:00:00Z",
+      "primary_item": {
+        "id": "9c4b7dba4540465b2660049cbcad88b45ffefc48",
+        "title": "OpenAI 为 GPT-6 推出改进的提示词缓存系统与诊断工具 / Better prompt caching for GPT-6",
+        "title_zh": "OpenAI 为 GPT-6 推出改进的提示词缓存系统与诊断工具",
+        "title_en": "Better prompt caching for GPT-6",
+        "title_original": "Better prompt caching for GPT-6",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://openai.com/index/better-prompt-caching-for-gpt-6",
+        "source": "OpenAI News",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-09-23T12:56:46.997645Z"
       }
     },
     {
@@ -1277,15 +1360,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.765,
-      "importance": 0.765,
-      "importance_score": 0.765,
+      "score": 0.7625,
+      "importance": 0.7625,
+      "importance_score": 0.7625,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9857,
+        "recency": 0.9715,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1311,90 +1394,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-23T12:06:29.084517Z"
-      }
-    },
-    {
-      "story_id": "story_52b87179db37",
-      "title": "Grab and OpenAI bring practical AI skills to Southeast Asia",
-      "url": "https://openai.com/index/grab-openai-ai-skills-southeast-asia",
-      "primary_url": "https://openai.com/index/grab-openai-ai-skills-southeast-asia",
-      "source": "OpenAI News",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "86f6a265686a0a48999957469e8809e5d57ed257",
-          "title": "Grab and OpenAI bring practical AI skills to Southeast Asia",
-          "title_zh": null,
-          "title_en": "Grab and OpenAI bring practical AI skills to Southeast Asia",
-          "title_original": "Grab and OpenAI bring practical AI skills to Southeast Asia",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://openai.com/index/grab-openai-ai-skills-southeast-asia",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-09-23T00:00:00Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "OpenAI News"
-      ],
-      "items": [
-        {
-          "id": "86f6a265686a0a48999957469e8809e5d57ed257",
-          "title": "Grab and OpenAI bring practical AI skills to Southeast Asia",
-          "title_zh": null,
-          "title_en": "Grab and OpenAI bring practical AI skills to Southeast Asia",
-          "title_original": "Grab and OpenAI bring practical AI skills to Southeast Asia",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://openai.com/index/grab-openai-ai-skills-southeast-asia",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-09-23T00:00:00Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8238,
-      "importance": 0.8238,
-      "importance_score": 0.8238,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.91,
-        "recency": 0.8435,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-23T00:00:00Z",
-      "latest_at": "2026-09-23T00:00:00Z",
-      "primary_item": {
-        "id": "86f6a265686a0a48999957469e8809e5d57ed257",
-        "title": "Grab and OpenAI bring practical AI skills to Southeast Asia",
-        "title_zh": null,
-        "title_en": "Grab and OpenAI bring practical AI skills to Southeast Asia",
-        "title_original": "Grab and OpenAI bring practical AI skills to Southeast Asia",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://openai.com/index/grab-openai-ai-skills-southeast-asia",
-        "source": "OpenAI News",
-        "source_name": "Official AI Updates"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-09-23T12:06:29.084517Z"
+        "scored_at": "2026-09-23T12:56:46.997645Z"
       }
     },
     {
@@ -1442,15 +1442,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7635,
-      "importance": 0.7635,
-      "importance_score": 0.7635,
+      "score": 0.7615,
+      "importance": 0.7615,
+      "importance_score": 0.7615,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.84,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7772,
+        "recency": 0.7661,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1476,7 +1476,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-23T12:06:29.084517Z"
+        "scored_at": "2026-09-23T12:56:46.997645Z"
       }
     },
     {
@@ -1553,15 +1553,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7908,
-      "importance": 0.7908,
-      "importance_score": 0.7908,
+      "score": 0.7889,
+      "importance": 0.7889,
+      "importance_score": 0.7889,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.86,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7567,
+        "recency": 0.7459,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -1588,7 +1588,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-23T12:06:29.084517Z"
+        "scored_at": "2026-09-23T12:56:46.997645Z"
       }
     },
     {
@@ -1636,15 +1636,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8176,
-      "importance": 0.8176,
-      "importance_score": 0.8176,
+      "score": 0.8156,
+      "importance": 0.8156,
+      "importance_score": 0.8156,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.7643,
+        "recency": 0.7533,
         "story_heat": 0.0
       },
       "category": "official",
@@ -1671,7 +1671,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-23T12:06:29.084517Z"
+        "scored_at": "2026-09-23T12:56:46.997645Z"
       }
     },
     {
@@ -1719,15 +1719,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7571,
-      "importance": 0.7571,
-      "importance_score": 0.7571,
+      "score": 0.7552,
+      "importance": 0.7552,
+      "importance_score": 0.7552,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.83,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7585,
+        "recency": 0.7477,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1753,7 +1753,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-23T12:06:29.084517Z"
+        "scored_at": "2026-09-23T12:56:46.997645Z"
       }
     },
     {
@@ -1801,21 +1801,20 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7509,
-      "importance": 0.7509,
-      "importance_score": 0.7509,
+      "score": 0.7488,
+      "importance": 0.7488,
+      "importance_score": 0.7488,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.79,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7904,
+        "recency": 0.779,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-09-22T19:29:49.288000Z",
       "latest_at": "2026-09-22T19:29:49.288000Z",
@@ -1835,7 +1834,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-23T12:06:29.084517Z"
+        "scored_at": "2026-09-23T12:56:46.997645Z"
       }
     },
     {
@@ -1883,15 +1882,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7463,
-      "importance": 0.7463,
-      "importance_score": 0.7463,
+      "score": 0.7443,
+      "importance": 0.7443,
+      "importance_score": 0.7443,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.77,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7985,
+        "recency": 0.7871,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1916,7 +1915,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-23T12:06:29.084517Z"
+        "scored_at": "2026-09-23T12:56:46.997645Z"
       }
     },
     {
@@ -1964,15 +1963,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.746,
-      "importance": 0.746,
-      "importance_score": 0.746,
+      "score": 0.7435,
+      "importance": 0.7435,
+      "importance_score": 0.7435,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.67,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9632,
+        "recency": 0.9494,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1997,7 +1996,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-23T12:06:29.084517Z"
+        "scored_at": "2026-09-23T12:56:46.997645Z"
       }
     }
   ]
