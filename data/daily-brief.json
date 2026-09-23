@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-23T21:47:23.433377Z",
+  "generated_at": "2026-09-23T22:47:20.604414Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -106,15 +106,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.8785,
-      "importance": 0.8785,
-      "importance_score": 0.8785,
+      "score": 0.8761,
+      "importance": 0.8761,
+      "importance_score": 0.8761,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.79,
         "source_tier": 1.0,
         "ai_relevance": 1.0,
-        "recency": 0.953,
+        "recency": 0.9394,
         "story_heat": 0.5
       },
       "category": "official",
@@ -141,7 +141,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-23T22:04:10.109632Z"
+        "scored_at": "2026-09-23T23:08:25.744025Z"
       }
     },
     {
@@ -304,15 +304,15 @@
       ],
       "item_count": 5,
       "duplicate_count": 5,
-      "score": 0.8765,
-      "importance": 0.8765,
-      "importance_score": 0.8765,
+      "score": 0.874,
+      "importance": 0.874,
+      "importance_score": 0.874,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.77,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.966,
+        "recency": 0.9522,
         "story_heat": 1.0
       },
       "category": "multi_source",
@@ -339,7 +339,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-23T22:04:10.109632Z"
+        "scored_at": "2026-09-23T23:08:25.744025Z"
       }
     },
     {
@@ -387,15 +387,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8621,
-      "importance": 0.8621,
-      "importance_score": 0.8621,
+      "score": 0.8597,
+      "importance": 0.8597,
+      "importance_score": 0.8597,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 1.0,
-        "recency": 0.9563,
+        "recency": 0.9426,
         "story_heat": 0.0
       },
       "category": "official",
@@ -422,7 +422,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-23T22:04:10.109632Z"
+        "scored_at": "2026-09-23T23:08:25.744025Z"
       }
     },
     {
@@ -499,15 +499,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.8612,
-      "importance": 0.8612,
-      "importance_score": 0.8612,
+      "score": 0.8588,
+      "importance": 0.8588,
+      "importance_score": 0.8588,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.9121,
+        "recency": 0.8991,
         "story_heat": 0.25
       },
       "category": "official",
@@ -535,7 +535,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-23T22:04:10.109632Z"
+        "scored_at": "2026-09-23T23:08:25.744025Z"
       }
     },
     {
@@ -600,8 +600,8 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-09-23T21:47:23.433377Z",
-      "latest_at": "2026-09-23T21:47:23.433377Z",
+      "earliest_at": "2026-09-23T22:47:20.604414Z",
+      "latest_at": "2026-09-23T22:47:20.604414Z",
       "primary_item": {
         "id": "48e7e143951a807062656727fb44afb909b365f9",
         "title": "Ringg 的 AI 代理通过 OpenAI 解决了高达 65% 的客户呼叫 / Ringg’s AI agents resolve up to 65% of customer calls with OpenAI",
@@ -618,7 +618,90 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-23T22:04:10.109632Z"
+        "scored_at": "2026-09-23T23:08:25.744025Z"
+      }
+    },
+    {
+      "story_id": "story_a34e63681a0b",
+      "title": "More ways to request and configure Copilot code reviews",
+      "url": "https://github.blog/changelog/2026-09-23-copilot-code-review-more-ways-to-request-and-configure-reviews",
+      "primary_url": "https://github.blog/changelog/2026-09-23-copilot-code-review-more-ways-to-request-and-configure-reviews",
+      "source": "GitHub Changelog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "1d2307fb38e0ac455dec578ef2b8ab1ca5ce8b15",
+          "title": "More ways to request and configure Copilot code reviews",
+          "title_zh": null,
+          "title_en": "More ways to request and configure Copilot code reviews",
+          "title_original": "More ways to request and configure Copilot code reviews",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://github.blog/changelog/2026-09-23-copilot-code-review-more-ways-to-request-and-configure-reviews",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-09-23T21:25:58Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "GitHub Changelog"
+      ],
+      "items": [
+        {
+          "id": "1d2307fb38e0ac455dec578ef2b8ab1ca5ce8b15",
+          "title": "More ways to request and configure Copilot code reviews",
+          "title_zh": null,
+          "title_en": "More ways to request and configure Copilot code reviews",
+          "title_original": "More ways to request and configure Copilot code reviews",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://github.blog/changelog/2026-09-23-copilot-code-review-more-ways-to-request-and-configure-reviews",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-09-23T21:25:58Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8485,
+      "importance": 0.8485,
+      "importance_score": 0.8485,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.91,
+        "recency": 0.9806,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-23T21:25:58Z",
+      "latest_at": "2026-09-23T21:25:58Z",
+      "primary_item": {
+        "id": "1d2307fb38e0ac455dec578ef2b8ab1ca5ce8b15",
+        "title": "More ways to request and configure Copilot code reviews",
+        "title_zh": null,
+        "title_en": "More ways to request and configure Copilot code reviews",
+        "title_original": "More ways to request and configure Copilot code reviews",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://github.blog/changelog/2026-09-23-copilot-code-review-more-ways-to-request-and-configure-reviews",
+        "source": "GitHub Changelog",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-09-23T23:08:25.744025Z"
       }
     },
     {
@@ -666,15 +749,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8436,
-      "importance": 0.8436,
-      "importance_score": 0.8436,
+      "score": 0.8412,
+      "importance": 0.8412,
+      "importance_score": 0.8412,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.9536,
+        "recency": 0.9399,
         "story_heat": 0.0
       },
       "category": "official",
@@ -701,90 +784,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-23T22:04:10.109632Z"
-      }
-    },
-    {
-      "story_id": "story_e8c6ef86f111",
-      "title": "Node 20 is no longer available in GitHub Actions",
-      "url": "https://github.blog/changelog/2026-09-23-node-20-is-no-longer-available-in-github-actions",
-      "primary_url": "https://github.blog/changelog/2026-09-23-node-20-is-no-longer-available-in-github-actions",
-      "source": "GitHub Changelog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "ccaf1e0ce4a4bf18912deed0c4fb6e55e2a3c23b",
-          "title": "Node 20 is no longer available in GitHub Actions",
-          "title_zh": null,
-          "title_en": "Node 20 is no longer available in GitHub Actions",
-          "title_original": "Node 20 is no longer available in GitHub Actions",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-09-23-node-20-is-no-longer-available-in-github-actions",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-09-23T20:46:07Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "GitHub Changelog"
-      ],
-      "items": [
-        {
-          "id": "ccaf1e0ce4a4bf18912deed0c4fb6e55e2a3c23b",
-          "title": "Node 20 is no longer available in GitHub Actions",
-          "title_zh": null,
-          "title_en": "Node 20 is no longer available in GitHub Actions",
-          "title_original": "Node 20 is no longer available in GitHub Actions",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-09-23-node-20-is-no-longer-available-in-github-actions",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-09-23T20:46:07Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8414,
-      "importance": 0.8414,
-      "importance_score": 0.8414,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.87,
-        "recency": 0.9854,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-23T20:46:07Z",
-      "latest_at": "2026-09-23T20:46:07Z",
-      "primary_item": {
-        "id": "ccaf1e0ce4a4bf18912deed0c4fb6e55e2a3c23b",
-        "title": "Node 20 is no longer available in GitHub Actions",
-        "title_zh": null,
-        "title_en": "Node 20 is no longer available in GitHub Actions",
-        "title_original": "Node 20 is no longer available in GitHub Actions",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://github.blog/changelog/2026-09-23-node-20-is-no-longer-available-in-github-actions",
-        "source": "GitHub Changelog",
-        "source_name": "Official AI Updates"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-09-23T22:04:10.109632Z"
+        "scored_at": "2026-09-23T23:08:25.744025Z"
       }
     },
     {
@@ -832,15 +832,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8344,
-      "importance": 0.8344,
-      "importance_score": 0.8344,
+      "score": 0.832,
+      "importance": 0.832,
+      "importance_score": 0.832,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.9467,
+        "recency": 0.9332,
         "story_heat": 0.0
       },
       "category": "official",
@@ -867,7 +867,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-23T22:04:10.109632Z"
+        "scored_at": "2026-09-23T23:08:25.744025Z"
       }
     },
     {
@@ -915,15 +915,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8174,
-      "importance": 0.8174,
-      "importance_score": 0.8174,
+      "score": 0.8155,
+      "importance": 0.8155,
+      "importance_score": 0.8155,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.98,
-        "recency": 0.73,
+        "recency": 0.7196,
         "story_heat": 0.0
       },
       "category": "official",
@@ -950,7 +950,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-23T22:04:10.109632Z"
+        "scored_at": "2026-09-23T23:08:25.744025Z"
       }
     },
     {
@@ -998,15 +998,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8423,
-      "importance": 0.8423,
-      "importance_score": 0.8423,
+      "score": 0.84,
+      "importance": 0.84,
+      "importance_score": 0.84,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.98,
-        "recency": 0.8682,
+        "recency": 0.8557,
         "story_heat": 0.0
       },
       "category": "official",
@@ -1033,7 +1033,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-23T22:04:10.109632Z"
+        "scored_at": "2026-09-23T23:08:25.744025Z"
       }
     },
     {
@@ -1081,15 +1081,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8412,
-      "importance": 0.8412,
-      "importance_score": 0.8412,
+      "score": 0.8389,
+      "importance": 0.8389,
+      "importance_score": 0.8389,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.94,
-        "recency": 0.9068,
+        "recency": 0.8938,
         "story_heat": 0.0
       },
       "category": "official",
@@ -1116,7 +1116,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-23T22:04:10.109632Z"
+        "scored_at": "2026-09-23T23:08:25.744025Z"
       }
     },
     {
@@ -1164,15 +1164,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8392,
-      "importance": 0.8392,
-      "importance_score": 0.8392,
+      "score": 0.8369,
+      "importance": 0.8369,
+      "importance_score": 0.8369,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.8844,
+        "recency": 0.8717,
         "story_heat": 0.0
       },
       "category": "official",
@@ -1199,7 +1199,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-23T22:04:10.109632Z"
+        "scored_at": "2026-09-23T23:08:25.744025Z"
       }
     },
     {
@@ -1247,15 +1247,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8296,
-      "importance": 0.8296,
-      "importance_score": 0.8296,
+      "score": 0.8272,
+      "importance": 0.8272,
+      "importance_score": 0.8272,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.92,
+        "recency": 0.9068,
         "story_heat": 0.0
       },
       "category": "official",
@@ -1282,7 +1282,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-23T22:04:10.109632Z"
+        "scored_at": "2026-09-23T23:08:25.744025Z"
       }
     },
     {
@@ -1330,15 +1330,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7983,
-      "importance": 0.7983,
-      "importance_score": 0.7983,
+      "score": 0.7959,
+      "importance": 0.7959,
+      "importance_score": 0.7959,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.7,
         "source_tier": 1.0,
         "ai_relevance": 1.0,
-        "recency": 0.9352,
+        "recency": 0.9218,
         "story_heat": 0.0
       },
       "category": "official",
@@ -1364,7 +1364,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-23T22:04:10.109632Z"
+        "scored_at": "2026-09-23T23:08:25.744025Z"
       }
     },
     {
@@ -1412,15 +1412,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7869,
-      "importance": 0.7869,
-      "importance_score": 0.7869,
+      "score": 0.7845,
+      "importance": 0.7845,
+      "importance_score": 0.7845,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.81,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9575,
+        "recency": 0.9438,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1446,7 +1446,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-23T22:04:10.109632Z"
+        "scored_at": "2026-09-23T23:08:25.744025Z"
       }
     },
     {
@@ -1494,15 +1494,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7847,
-      "importance": 0.7847,
-      "importance_score": 0.7847,
+      "score": 0.7821,
+      "importance": 0.7821,
+      "importance_score": 0.7821,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.78,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9949,
+        "recency": 0.9806,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1528,7 +1528,90 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-23T22:04:10.109632Z"
+        "scored_at": "2026-09-23T23:08:25.744025Z"
+      }
+    },
+    {
+      "story_id": "story_e8c6ef86f111",
+      "title": "Node 20 is no longer available in GitHub Actions",
+      "url": "https://github.blog/changelog/2026-09-23-node-20-is-no-longer-available-in-github-actions",
+      "primary_url": "https://github.blog/changelog/2026-09-23-node-20-is-no-longer-available-in-github-actions",
+      "source": "GitHub Changelog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "ccaf1e0ce4a4bf18912deed0c4fb6e55e2a3c23b",
+          "title": "Node 20 is no longer available in GitHub Actions",
+          "title_zh": null,
+          "title_en": "Node 20 is no longer available in GitHub Actions",
+          "title_original": "Node 20 is no longer available in GitHub Actions",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://github.blog/changelog/2026-09-23-node-20-is-no-longer-available-in-github-actions",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-09-23T20:46:07Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "GitHub Changelog"
+      ],
+      "items": [
+        {
+          "id": "ccaf1e0ce4a4bf18912deed0c4fb6e55e2a3c23b",
+          "title": "Node 20 is no longer available in GitHub Actions",
+          "title_zh": null,
+          "title_en": "Node 20 is no longer available in GitHub Actions",
+          "title_original": "Node 20 is no longer available in GitHub Actions",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://github.blog/changelog/2026-09-23-node-20-is-no-longer-available-in-github-actions",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-09-23T20:46:07Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8388,
+      "importance": 0.8388,
+      "importance_score": 0.8388,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.87,
+        "recency": 0.9712,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-23T20:46:07Z",
+      "latest_at": "2026-09-23T20:46:07Z",
+      "primary_item": {
+        "id": "ccaf1e0ce4a4bf18912deed0c4fb6e55e2a3c23b",
+        "title": "Node 20 is no longer available in GitHub Actions",
+        "title_zh": null,
+        "title_en": "Node 20 is no longer available in GitHub Actions",
+        "title_original": "Node 20 is no longer available in GitHub Actions",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://github.blog/changelog/2026-09-23-node-20-is-no-longer-available-in-github-actions",
+        "source": "GitHub Changelog",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-09-23T23:08:25.744025Z"
       }
     },
     {
@@ -1576,15 +1659,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7785,
-      "importance": 0.7785,
-      "importance_score": 0.7785,
+      "score": 0.776,
+      "importance": 0.776,
+      "importance_score": 0.776,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.77,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9773,
+        "recency": 0.9633,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1610,7 +1693,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-23T22:04:10.109632Z"
+        "scored_at": "2026-09-23T23:08:25.744025Z"
       }
     },
     {
@@ -1658,15 +1741,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8376,
-      "importance": 0.8376,
-      "importance_score": 0.8376,
+      "score": 0.8352,
+      "importance": 0.8352,
+      "importance_score": 0.8352,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.9198,
+        "recency": 0.9066,
         "story_heat": 0.0
       },
       "category": "official",
@@ -1693,7 +1776,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-23T22:04:10.109632Z"
+        "scored_at": "2026-09-23T23:08:25.744025Z"
       }
     },
     {
@@ -1770,15 +1853,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7706,
-      "importance": 0.7706,
-      "importance_score": 0.7706,
+      "score": 0.7687,
+      "importance": 0.7687,
+      "importance_score": 0.7687,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.81,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7277,
+        "recency": 0.7173,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -1805,89 +1888,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-23T22:04:10.109632Z"
-      }
-    },
-    {
-      "story_id": "story_32fa53d31fc4",
-      "title": "Greg Brockman 宣布 GPT Voice 大幅升级，支持使用工具并登陆 ChatGPT Work / mega upgrade for GPT Voice， which can now use tools and is available in Work：",
-      "url": "https://x.com/gdb/status/2102821706041819401",
-      "primary_url": "https://x.com/gdb/status/2102821706041819401",
-      "source": "X：Greg Brockman (@gdb)",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "113abeb398e7a645a6c8a59ec5537868d007c9ef",
-          "title": "Greg Brockman 宣布 GPT Voice 大幅升级，支持使用工具并登陆 ChatGPT Work / mega upgrade for GPT Voice， which can now use tools and is available in Work：",
-          "title_zh": "Greg Brockman 宣布 GPT Voice 大幅升级，支持使用工具并登陆 ChatGPT Work",
-          "title_en": "mega upgrade for GPT Voice， which can now use tools and is available in Work：",
-          "title_original": "mega upgrade for GPT Voice， which can now use tools and is available in Work：",
-          "summary": "GPT Voice 获得重大升级，现在可以使用邮箱、日历、Slack 等工具，并由 GPT-6 Astra、Sol 和 Luna 驱动。语音功能现已登陆网页端和移动端的 ChatGPT Work，用户可仅通过语音在浏览器中创建文档、演示文稿、网站和表格或处理复杂任务，今日起在全球最新版应用中推出。",
-          "recommend_reason_zh": null,
-          "url": "https://x.com/gdb/status/2102821706041819401",
-          "source": "X：Greg Brockman (@gdb)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-23T18:05:37Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "X：Greg Brockman (@gdb)"
-      ],
-      "items": [
-        {
-          "id": "113abeb398e7a645a6c8a59ec5537868d007c9ef",
-          "title": "Greg Brockman 宣布 GPT Voice 大幅升级，支持使用工具并登陆 ChatGPT Work / mega upgrade for GPT Voice， which can now use tools and is available in Work：",
-          "title_zh": "Greg Brockman 宣布 GPT Voice 大幅升级，支持使用工具并登陆 ChatGPT Work",
-          "title_en": "mega upgrade for GPT Voice， which can now use tools and is available in Work：",
-          "title_original": "mega upgrade for GPT Voice， which can now use tools and is available in Work：",
-          "summary": "GPT Voice 获得重大升级，现在可以使用邮箱、日历、Slack 等工具，并由 GPT-6 Astra、Sol 和 Luna 驱动。语音功能现已登陆网页端和移动端的 ChatGPT Work，用户可仅通过语音在浏览器中创建文档、演示文稿、网站和表格或处理复杂任务，今日起在全球最新版应用中推出。",
-          "recommend_reason_zh": null,
-          "url": "https://x.com/gdb/status/2102821706041819401",
-          "source": "X：Greg Brockman (@gdb)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-23T18:05:37Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7702,
-      "importance": 0.7702,
-      "importance_score": 0.7702,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.76,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.948,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-23T18:05:37Z",
-      "latest_at": "2026-09-23T18:05:37Z",
-      "primary_item": {
-        "id": "113abeb398e7a645a6c8a59ec5537868d007c9ef",
-        "title": "Greg Brockman 宣布 GPT Voice 大幅升级，支持使用工具并登陆 ChatGPT Work / mega upgrade for GPT Voice， which can now use tools and is available in Work：",
-        "title_zh": "Greg Brockman 宣布 GPT Voice 大幅升级，支持使用工具并登陆 ChatGPT Work",
-        "title_en": "mega upgrade for GPT Voice， which can now use tools and is available in Work：",
-        "title_original": "mega upgrade for GPT Voice， which can now use tools and is available in Work：",
-        "summary": "GPT Voice 获得重大升级，现在可以使用邮箱、日历、Slack 等工具，并由 GPT-6 Astra、Sol 和 Luna 驱动。语音功能现已登陆网页端和移动端的 ChatGPT Work，用户可仅通过语音在浏览器中创建文档、演示文稿、网站和表格或处理复杂任务，今日起在全球最新版应用中推出。",
-        "recommend_reason_zh": null,
-        "url": "https://x.com/gdb/status/2102821706041819401",
-        "source": "X：Greg Brockman (@gdb)",
-        "source_name": "AI HOT"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-09-23T22:04:10.109632Z"
+        "scored_at": "2026-09-23T23:08:25.744025Z"
       }
     }
   ]
