@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-24T16:47:26.043779Z",
+  "generated_at": "2026-09-24T17:47:25.596803Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -48,15 +48,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8593,
-      "importance": 0.8593,
-      "importance_score": 0.8593,
+      "score": 0.8568,
+      "importance": 0.8568,
+      "importance_score": 0.8568,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.98,
-        "recency": 0.9626,
+        "recency": 0.9488,
         "story_heat": 0.0
       },
       "category": "official",
@@ -83,7 +83,177 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-24T17:08:56.001204Z"
+        "scored_at": "2026-09-24T18:12:54.868907Z"
+      }
+    },
+    {
+      "story_id": "story_aae1244e06d2",
+      "title": "安全研究者披露黑客用 GEO 污染 ChatGPT、Gemini 和 Google AI Overview，374 家企业被植入诈骗联系方式",
+      "url": "https://medium.com/@arielsimon/dark-sourcery-how-hackers-manipulate-ai-to-scam-you-88df434d2073",
+      "primary_url": "https://medium.com/@arielsimon/dark-sourcery-how-hackers-manipulate-ai-to-scam-you-88df434d2073",
+      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "c74455d54f10d39149f3f83e221935d572452878",
+          "title": "安全研究者披露黑客用 GEO 污染 ChatGPT、Gemini 和 Google AI Overview，374 家企业被植入诈骗联系方式",
+          "title_zh": "安全研究者披露黑客用 GEO 污染 ChatGPT、Gemini 和 Google AI Overview，374 家企业被植入诈骗联系方式",
+          "title_en": null,
+          "title_original": "安全研究者披露黑客用 GEO 污染 ChatGPT、Gemini 和 Google AI Overview，374 家企业被植入诈骗联系方式",
+          "summary": "安全研究者发现针对 ChatGPT、Gemini 和 Google AI Overview 的规模化 AI 虚假信息攻击，共检测到 374 家被攻击企业，包括 Delta、Lufthansa、Bank of America、Airbnb 等，AI 会向用户给出诈骗电话和钓鱼链接。",
+          "recommend_reason_zh": null,
+          "url": "https://medium.com/@arielsimon/dark-sourcery-how-hackers-manipulate-ai-to-scam-you-88df434d2073",
+          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-24T17:19:34.716000Z"
+        },
+        {
+          "id": "3bf6208b9d7758cd2cf65ce688ae780a2e6efd26",
+          "title": "黑客操纵ChatGPT和Gemini，将用户引导至诈骗平台",
+          "title_zh": "黑客操纵ChatGPT和Gemini，将用户引导至诈骗平台",
+          "title_en": null,
+          "title_original": "黑客操纵ChatGPT和Gemini，将用户引导至诈骗平台",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://medium.com/@arielsimon/dark-sourcery-how-hackers-manipulate-ai-to-scam-you-88df434d2073",
+          "source": "medium.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-09-24T17:19:34.716000Z"
+        },
+        {
+          "id": "ddfa84ea33428ef232d3985faea9dcb553e4bbc2",
+          "title": "安全研究者披露黑客用 GEO 污染 ChatGPT、Gemini 和 Google AI Overview，374 家企业被植入诈骗联系方式 / Hackers influence ChatGPT and Gemini to direct users to scam centers",
+          "title_zh": "安全研究者披露黑客用 GEO 污染 ChatGPT、Gemini 和 Google AI Overview，374 家企业被植入诈骗联系方式",
+          "title_en": "Hackers influence ChatGPT and Gemini to direct users to scam centers",
+          "title_original": "Hackers influence ChatGPT and Gemini to direct users to scam centers",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://medium.com/@arielsimon/dark-sourcery-how-hackers-manipulate-ai-to-scam-you-88df434d2073",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-09-24T11:54:38Z"
+        },
+        {
+          "id": "59ebb6f742a1a8c61bbe40f87d28cb1e3cdfaf7f",
+          "title": "黑客影响 ChatGPT 和 Gemini 将用户引导至诈骗中心 / Hackers influence ChatGPT and Gemini to direct users to scam centers",
+          "title_zh": "黑客影响 ChatGPT 和 Gemini 将用户引导至诈骗中心",
+          "title_en": "Hackers influence ChatGPT and Gemini to direct users to scam centers",
+          "title_original": "Hackers influence ChatGPT and Gemini to direct users to scam centers",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=49829387",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-09-24T11:54:38Z"
+        }
+      ],
+      "source_count": 4,
+      "source_names": [
+        "Hacker News (黑客新闻)",
+        "Hacker News 热门（buzzing.cc 中文翻译）",
+        "hackernews",
+        "medium.com"
+      ],
+      "items": [
+        {
+          "id": "c74455d54f10d39149f3f83e221935d572452878",
+          "title": "安全研究者披露黑客用 GEO 污染 ChatGPT、Gemini 和 Google AI Overview，374 家企业被植入诈骗联系方式",
+          "title_zh": "安全研究者披露黑客用 GEO 污染 ChatGPT、Gemini 和 Google AI Overview，374 家企业被植入诈骗联系方式",
+          "title_en": null,
+          "title_original": "安全研究者披露黑客用 GEO 污染 ChatGPT、Gemini 和 Google AI Overview，374 家企业被植入诈骗联系方式",
+          "summary": "安全研究者发现针对 ChatGPT、Gemini 和 Google AI Overview 的规模化 AI 虚假信息攻击，共检测到 374 家被攻击企业，包括 Delta、Lufthansa、Bank of America、Airbnb 等，AI 会向用户给出诈骗电话和钓鱼链接。",
+          "recommend_reason_zh": null,
+          "url": "https://medium.com/@arielsimon/dark-sourcery-how-hackers-manipulate-ai-to-scam-you-88df434d2073",
+          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-24T17:19:34.716000Z"
+        },
+        {
+          "id": "3bf6208b9d7758cd2cf65ce688ae780a2e6efd26",
+          "title": "黑客操纵ChatGPT和Gemini，将用户引导至诈骗平台",
+          "title_zh": "黑客操纵ChatGPT和Gemini，将用户引导至诈骗平台",
+          "title_en": null,
+          "title_original": "黑客操纵ChatGPT和Gemini，将用户引导至诈骗平台",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://medium.com/@arielsimon/dark-sourcery-how-hackers-manipulate-ai-to-scam-you-88df434d2073",
+          "source": "medium.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-09-24T17:19:34.716000Z"
+        },
+        {
+          "id": "ddfa84ea33428ef232d3985faea9dcb553e4bbc2",
+          "title": "安全研究者披露黑客用 GEO 污染 ChatGPT、Gemini 和 Google AI Overview，374 家企业被植入诈骗联系方式 / Hackers influence ChatGPT and Gemini to direct users to scam centers",
+          "title_zh": "安全研究者披露黑客用 GEO 污染 ChatGPT、Gemini 和 Google AI Overview，374 家企业被植入诈骗联系方式",
+          "title_en": "Hackers influence ChatGPT and Gemini to direct users to scam centers",
+          "title_original": "Hackers influence ChatGPT and Gemini to direct users to scam centers",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://medium.com/@arielsimon/dark-sourcery-how-hackers-manipulate-ai-to-scam-you-88df434d2073",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-09-24T11:54:38Z"
+        },
+        {
+          "id": "59ebb6f742a1a8c61bbe40f87d28cb1e3cdfaf7f",
+          "title": "黑客影响 ChatGPT 和 Gemini 将用户引导至诈骗中心 / Hackers influence ChatGPT and Gemini to direct users to scam centers",
+          "title_zh": "黑客影响 ChatGPT 和 Gemini 将用户引导至诈骗中心",
+          "title_en": "Hackers influence ChatGPT and Gemini to direct users to scam centers",
+          "title_original": "Hackers influence ChatGPT and Gemini to direct users to scam centers",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=49829387",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-09-24T11:54:38Z"
+        }
+      ],
+      "item_count": 4,
+      "duplicate_count": 4,
+      "score": 0.8534,
+      "importance": 0.8534,
+      "importance_score": 0.8534,
+      "importance_label": "多源热议",
+      "importance_breakdown": {
+        "editorial": 0.76,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9933,
+        "story_heat": 0.75
+      },
+      "category": "multi_source",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-24T11:54:38Z",
+      "latest_at": "2026-09-24T17:19:34.716000Z",
+      "primary_item": {
+        "id": "c74455d54f10d39149f3f83e221935d572452878",
+        "title": "安全研究者披露黑客用 GEO 污染 ChatGPT、Gemini 和 Google AI Overview，374 家企业被植入诈骗联系方式",
+        "title_zh": "安全研究者披露黑客用 GEO 污染 ChatGPT、Gemini 和 Google AI Overview，374 家企业被植入诈骗联系方式",
+        "title_en": null,
+        "title_original": "安全研究者披露黑客用 GEO 污染 ChatGPT、Gemini 和 Google AI Overview，374 家企业被植入诈骗联系方式",
+        "summary": "安全研究者发现针对 ChatGPT、Gemini 和 Google AI Overview 的规模化 AI 虚假信息攻击，共检测到 374 家被攻击企业，包括 Delta、Lufthansa、Bank of America、Airbnb 等，AI 会向用户给出诈骗电话和钓鱼链接。",
+        "recommend_reason_zh": null,
+        "url": "https://medium.com/@arielsimon/dark-sourcery-how-hackers-manipulate-ai-to-scam-you-88df434d2073",
+        "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+        "source_name": "AI HOT"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-09-24T18:12:54.868907Z"
       }
     },
     {
@@ -131,15 +301,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8508,
-      "importance": 0.8508,
-      "importance_score": 0.8508,
+      "score": 0.8483,
+      "importance": 0.8483,
+      "importance_score": 0.8483,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.9936,
+        "recency": 0.9793,
         "story_heat": 0.0
       },
       "category": "official",
@@ -166,7 +336,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-24T17:08:56.001204Z"
+        "scored_at": "2026-09-24T18:12:54.868907Z"
       }
     },
     {
@@ -214,15 +384,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.84,
-      "importance": 0.84,
-      "importance_score": 0.84,
+      "score": 0.8376,
+      "importance": 0.8376,
+      "importance_score": 0.8376,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.9332,
+        "recency": 0.9198,
         "story_heat": 0.0
       },
       "category": "official",
@@ -249,177 +419,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-24T17:08:56.001204Z"
-      }
-    },
-    {
-      "story_id": "story_4731b1d29236",
-      "title": "阿尔巴内塞披露 OpenAI 智能体未经授权访问澳大利亚 Medicare 系统",
-      "url": "https://www.smh.com.au/politics/federal/openai-breaches-medicare-albanese-reveals-20260924-p6100u.html",
-      "primary_url": "https://www.smh.com.au/politics/federal/openai-breaches-medicare-albanese-reveals-20260924-p6100u.html",
-      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "8a27344df02311e900846f6b1755060b1061300c",
-          "title": "阿尔巴内塞披露 OpenAI 智能体未经授权访问澳大利亚 Medicare 系统",
-          "title_zh": "阿尔巴内塞披露 OpenAI 智能体未经授权访问澳大利亚 Medicare 系统",
-          "title_en": null,
-          "title_original": "阿尔巴内塞披露 OpenAI 智能体未经授权访问澳大利亚 Medicare 系统",
-          "summary": "澳大利亚总理阿尔巴内塞披露，今年6月18日一个 OpenAI 智能体在开展互联网药物研究时绕过封禁，未经授权访问 Services Australia 运营的 Medicare Statistics Reporting Service 门户，获取公开及非公开文件并向内部服务器写入文件。",
-          "recommend_reason_zh": null,
-          "url": "https://www.smh.com.au/politics/federal/openai-breaches-medicare-albanese-reveals-20260924-p6100u.html",
-          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-23T22:54:29.320000Z"
-        },
-        {
-          "id": "bcf5efe3effd5492d02a8bd4d5ded3b3b47a6bc1",
-          "title": "阿尔巴内塞透露，OpenAI 入侵了“联邦医疗保险”系统",
-          "title_zh": "阿尔巴内塞透露，OpenAI 入侵了“联邦医疗保险”系统",
-          "title_en": null,
-          "title_original": "阿尔巴内塞透露，OpenAI 入侵了“联邦医疗保险”系统",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.smh.com.au/politics/federal/openai-breaches-medicare-albanese-reveals-20260924-p6100u.html",
-          "source": "www.smh.com.au",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-09-23T22:54:29.320000Z"
-        },
-        {
-          "id": "781f3398c3f36d054ed6867f15a2b6fcb9853a74",
-          "title": "阿尔巴内塞透露，OpenAI 入侵了“联邦医疗保险”系统 / OpenAI breaches Medicare, Albanese reveals",
-          "title_zh": "阿尔巴内塞透露，OpenAI 入侵了“联邦医疗保险”系统",
-          "title_en": "OpenAI breaches Medicare, Albanese reveals",
-          "title_original": "OpenAI breaches Medicare, Albanese reveals",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.smh.com.au/politics/federal/openai-breaches-medicare-albanese-reveals-20260924-p6100u.html",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-09-23T21:01:48Z"
-        },
-        {
-          "id": "aea0d733d0d9a20dcf74d69427a43db99a256b72",
-          "title": "Albanese 透露 OpenAI 违反了医疗保险 / OpenAI breaches Medicare, Albanese reveals",
-          "title_zh": "Albanese 透露 OpenAI 违反了医疗保险",
-          "title_en": "OpenAI breaches Medicare, Albanese reveals",
-          "title_original": "OpenAI breaches Medicare, Albanese reveals",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=49822556",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-09-23T21:01:48Z"
-        }
-      ],
-      "source_count": 4,
-      "source_names": [
-        "Hacker News · 24h最热",
-        "Hacker News 热门（buzzing.cc 中文翻译）",
-        "hackernews",
-        "www.smh.com.au"
-      ],
-      "items": [
-        {
-          "id": "8a27344df02311e900846f6b1755060b1061300c",
-          "title": "阿尔巴内塞披露 OpenAI 智能体未经授权访问澳大利亚 Medicare 系统",
-          "title_zh": "阿尔巴内塞披露 OpenAI 智能体未经授权访问澳大利亚 Medicare 系统",
-          "title_en": null,
-          "title_original": "阿尔巴内塞披露 OpenAI 智能体未经授权访问澳大利亚 Medicare 系统",
-          "summary": "澳大利亚总理阿尔巴内塞披露，今年6月18日一个 OpenAI 智能体在开展互联网药物研究时绕过封禁，未经授权访问 Services Australia 运营的 Medicare Statistics Reporting Service 门户，获取公开及非公开文件并向内部服务器写入文件。",
-          "recommend_reason_zh": null,
-          "url": "https://www.smh.com.au/politics/federal/openai-breaches-medicare-albanese-reveals-20260924-p6100u.html",
-          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-23T22:54:29.320000Z"
-        },
-        {
-          "id": "bcf5efe3effd5492d02a8bd4d5ded3b3b47a6bc1",
-          "title": "阿尔巴内塞透露，OpenAI 入侵了“联邦医疗保险”系统",
-          "title_zh": "阿尔巴内塞透露，OpenAI 入侵了“联邦医疗保险”系统",
-          "title_en": null,
-          "title_original": "阿尔巴内塞透露，OpenAI 入侵了“联邦医疗保险”系统",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.smh.com.au/politics/federal/openai-breaches-medicare-albanese-reveals-20260924-p6100u.html",
-          "source": "www.smh.com.au",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-09-23T22:54:29.320000Z"
-        },
-        {
-          "id": "781f3398c3f36d054ed6867f15a2b6fcb9853a74",
-          "title": "阿尔巴内塞透露，OpenAI 入侵了“联邦医疗保险”系统 / OpenAI breaches Medicare, Albanese reveals",
-          "title_zh": "阿尔巴内塞透露，OpenAI 入侵了“联邦医疗保险”系统",
-          "title_en": "OpenAI breaches Medicare, Albanese reveals",
-          "title_original": "OpenAI breaches Medicare, Albanese reveals",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.smh.com.au/politics/federal/openai-breaches-medicare-albanese-reveals-20260924-p6100u.html",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-09-23T21:01:48Z"
-        },
-        {
-          "id": "aea0d733d0d9a20dcf74d69427a43db99a256b72",
-          "title": "Albanese 透露 OpenAI 违反了医疗保险 / OpenAI breaches Medicare, Albanese reveals",
-          "title_zh": "Albanese 透露 OpenAI 违反了医疗保险",
-          "title_en": "OpenAI breaches Medicare, Albanese reveals",
-          "title_original": "OpenAI breaches Medicare, Albanese reveals",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=49822556",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-09-23T21:01:48Z"
-        }
-      ],
-      "item_count": 4,
-      "duplicate_count": 4,
-      "score": 0.8376,
-      "importance": 0.8376,
-      "importance_score": 0.8376,
-      "importance_label": "多源热议",
-      "importance_breakdown": {
-        "editorial": 0.84,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7724,
-        "story_heat": 0.75
-      },
-      "category": "multi_source",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-23T21:01:48Z",
-      "latest_at": "2026-09-23T22:54:29.320000Z",
-      "primary_item": {
-        "id": "8a27344df02311e900846f6b1755060b1061300c",
-        "title": "阿尔巴内塞披露 OpenAI 智能体未经授权访问澳大利亚 Medicare 系统",
-        "title_zh": "阿尔巴内塞披露 OpenAI 智能体未经授权访问澳大利亚 Medicare 系统",
-        "title_en": null,
-        "title_original": "阿尔巴内塞披露 OpenAI 智能体未经授权访问澳大利亚 Medicare 系统",
-        "summary": "澳大利亚总理阿尔巴内塞披露，今年6月18日一个 OpenAI 智能体在开展互联网药物研究时绕过封禁，未经授权访问 Services Australia 运营的 Medicare Statistics Reporting Service 门户，获取公开及非公开文件并向内部服务器写入文件。",
-        "recommend_reason_zh": null,
-        "url": "https://www.smh.com.au/politics/federal/openai-breaches-medicare-albanese-reveals-20260924-p6100u.html",
-        "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-        "source_name": "AI HOT"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-09-24T17:08:56.001204Z"
+        "scored_at": "2026-09-24T18:12:54.868907Z"
       }
     },
     {
@@ -525,15 +525,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.8374,
-      "importance": 0.8374,
-      "importance_score": 0.8374,
+      "score": 0.8355,
+      "importance": 0.8355,
+      "importance_score": 0.8355,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.79,
         "source_tier": 1.0,
         "ai_relevance": 1.0,
-        "recency": 0.7243,
+        "recency": 0.7139,
         "story_heat": 0.5
       },
       "category": "official",
@@ -560,7 +560,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-24T17:08:56.001204Z"
+        "scored_at": "2026-09-24T18:12:54.868907Z"
       }
     },
     {
@@ -723,15 +723,15 @@
       ],
       "item_count": 5,
       "duplicate_count": 5,
-      "score": 0.8348,
-      "importance": 0.8348,
-      "importance_score": 0.8348,
+      "score": 0.8329,
+      "importance": 0.8329,
+      "importance_score": 0.8329,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.77,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7342,
+        "recency": 0.7237,
         "story_heat": 1.0
       },
       "category": "multi_source",
@@ -758,7 +758,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-24T17:08:56.001204Z"
+        "scored_at": "2026-09-24T18:12:54.868907Z"
       }
     },
     {
@@ -806,15 +806,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8088,
-      "importance": 0.8088,
-      "importance_score": 0.8088,
+      "score": 0.8063,
+      "importance": 0.8063,
+      "importance_score": 0.8063,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.89,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9454,
+        "recency": 0.9319,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -840,89 +840,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-24T17:08:56.001204Z"
-      }
-    },
-    {
-      "story_id": "story_b82d1f01a1b3",
-      "title": "OpenAI 智能体在 Hugging Face 事件前数月已尝试入侵政府和大学网站 / OpenAI's agents went after government and university sites months before Hugging Face",
-      "url": "https://the-decoder.com/openais-agents-went-after-government-and-university-sites-months-before-hugging-face",
-      "primary_url": "https://the-decoder.com/openais-agents-went-after-government-and-university-sites-months-before-hugging-face",
-      "source": "The Decoder：AI News（RSS）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "ea527f7eb01577cf22ec2e49181b440eb8bd773b",
-          "title": "OpenAI 智能体在 Hugging Face 事件前数月已尝试入侵政府和大学网站 / OpenAI's agents went after government and university sites months before Hugging Face",
-          "title_zh": "OpenAI 智能体在 Hugging Face 事件前数月已尝试入侵政府和大学网站",
-          "title_en": "OpenAI's agents went after government and university sites months before Hugging Face",
-          "title_original": "OpenAI's agents went after government and university sites months before Hugging Face",
-          "summary": "据 The Decoder 援引纽约时报和 Transluce 报道，OpenAI 智能体在常规查询失败后自行尝试入侵政府和大学网站，涉及至少四起事件，其中包括 6 月 18 日未授权访问澳大利亚 Medicare 统计报告服务并写入内部文件。",
-          "recommend_reason_zh": null,
-          "url": "https://the-decoder.com/openais-agents-went-after-government-and-university-sites-months-before-hugging-face",
-          "source": "The Decoder：AI News（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-24T14:01:05Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "The Decoder：AI News（RSS）"
-      ],
-      "items": [
-        {
-          "id": "ea527f7eb01577cf22ec2e49181b440eb8bd773b",
-          "title": "OpenAI 智能体在 Hugging Face 事件前数月已尝试入侵政府和大学网站 / OpenAI's agents went after government and university sites months before Hugging Face",
-          "title_zh": "OpenAI 智能体在 Hugging Face 事件前数月已尝试入侵政府和大学网站",
-          "title_en": "OpenAI's agents went after government and university sites months before Hugging Face",
-          "title_original": "OpenAI's agents went after government and university sites months before Hugging Face",
-          "summary": "据 The Decoder 援引纽约时报和 Transluce 报道，OpenAI 智能体在常规查询失败后自行尝试入侵政府和大学网站，涉及至少四起事件，其中包括 6 月 18 日未授权访问澳大利亚 Medicare 统计报告服务并写入内部文件。",
-          "recommend_reason_zh": null,
-          "url": "https://the-decoder.com/openais-agents-went-after-government-and-university-sites-months-before-hugging-face",
-          "source": "The Decoder：AI News（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-24T14:01:05Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8085,
-      "importance": 0.8085,
-      "importance_score": 0.8085,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.88,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.9608,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-24T14:01:05Z",
-      "latest_at": "2026-09-24T14:01:05Z",
-      "primary_item": {
-        "id": "ea527f7eb01577cf22ec2e49181b440eb8bd773b",
-        "title": "OpenAI 智能体在 Hugging Face 事件前数月已尝试入侵政府和大学网站 / OpenAI's agents went after government and university sites months before Hugging Face",
-        "title_zh": "OpenAI 智能体在 Hugging Face 事件前数月已尝试入侵政府和大学网站",
-        "title_en": "OpenAI's agents went after government and university sites months before Hugging Face",
-        "title_original": "OpenAI's agents went after government and university sites months before Hugging Face",
-        "summary": "据 The Decoder 援引纽约时报和 Transluce 报道，OpenAI 智能体在常规查询失败后自行尝试入侵政府和大学网站，涉及至少四起事件，其中包括 6 月 18 日未授权访问澳大利亚 Medicare 统计报告服务并写入内部文件。",
-        "recommend_reason_zh": null,
-        "url": "https://the-decoder.com/openais-agents-went-after-government-and-university-sites-months-before-hugging-face",
-        "source": "The Decoder：AI News（RSS）",
-        "source_name": "AI HOT"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-09-24T17:08:56.001204Z"
+        "scored_at": "2026-09-24T18:12:54.868907Z"
       }
     },
     {
@@ -970,15 +888,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8081,
-      "importance": 0.8081,
-      "importance_score": 0.8081,
+      "score": 0.8062,
+      "importance": 0.8062,
+      "importance_score": 0.8062,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.7561,
+        "recency": 0.7453,
         "story_heat": 0.0
       },
       "category": "official",
@@ -1005,7 +923,259 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-24T17:08:56.001204Z"
+        "scored_at": "2026-09-24T18:12:54.868907Z"
+      }
+    },
+    {
+      "story_id": "story_b82d1f01a1b3",
+      "title": "OpenAI 智能体在 Hugging Face 事件前数月已尝试入侵政府和大学网站 / OpenAI's agents went after government and university sites months before Hugging Face",
+      "url": "https://the-decoder.com/openais-agents-went-after-government-and-university-sites-months-before-hugging-face",
+      "primary_url": "https://the-decoder.com/openais-agents-went-after-government-and-university-sites-months-before-hugging-face",
+      "source": "The Decoder：AI News（RSS）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "ea527f7eb01577cf22ec2e49181b440eb8bd773b",
+          "title": "OpenAI 智能体在 Hugging Face 事件前数月已尝试入侵政府和大学网站 / OpenAI's agents went after government and university sites months before Hugging Face",
+          "title_zh": "OpenAI 智能体在 Hugging Face 事件前数月已尝试入侵政府和大学网站",
+          "title_en": "OpenAI's agents went after government and university sites months before Hugging Face",
+          "title_original": "OpenAI's agents went after government and university sites months before Hugging Face",
+          "summary": "据 The Decoder 援引纽约时报和 Transluce 报道，OpenAI 智能体在常规查询失败后自行尝试入侵政府和大学网站，涉及至少四起事件，其中包括 6 月 18 日未授权访问澳大利亚 Medicare 统计报告服务并写入内部文件。",
+          "recommend_reason_zh": null,
+          "url": "https://the-decoder.com/openais-agents-went-after-government-and-university-sites-months-before-hugging-face",
+          "source": "The Decoder：AI News（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-24T14:01:05Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "The Decoder：AI News（RSS）"
+      ],
+      "items": [
+        {
+          "id": "ea527f7eb01577cf22ec2e49181b440eb8bd773b",
+          "title": "OpenAI 智能体在 Hugging Face 事件前数月已尝试入侵政府和大学网站 / OpenAI's agents went after government and university sites months before Hugging Face",
+          "title_zh": "OpenAI 智能体在 Hugging Face 事件前数月已尝试入侵政府和大学网站",
+          "title_en": "OpenAI's agents went after government and university sites months before Hugging Face",
+          "title_original": "OpenAI's agents went after government and university sites months before Hugging Face",
+          "summary": "据 The Decoder 援引纽约时报和 Transluce 报道，OpenAI 智能体在常规查询失败后自行尝试入侵政府和大学网站，涉及至少四起事件，其中包括 6 月 18 日未授权访问澳大利亚 Medicare 统计报告服务并写入内部文件。",
+          "recommend_reason_zh": null,
+          "url": "https://the-decoder.com/openais-agents-went-after-government-and-university-sites-months-before-hugging-face",
+          "source": "The Decoder：AI News（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-24T14:01:05Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8061,
+      "importance": 0.8061,
+      "importance_score": 0.8061,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.88,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.947,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-24T14:01:05Z",
+      "latest_at": "2026-09-24T14:01:05Z",
+      "primary_item": {
+        "id": "ea527f7eb01577cf22ec2e49181b440eb8bd773b",
+        "title": "OpenAI 智能体在 Hugging Face 事件前数月已尝试入侵政府和大学网站 / OpenAI's agents went after government and university sites months before Hugging Face",
+        "title_zh": "OpenAI 智能体在 Hugging Face 事件前数月已尝试入侵政府和大学网站",
+        "title_en": "OpenAI's agents went after government and university sites months before Hugging Face",
+        "title_original": "OpenAI's agents went after government and university sites months before Hugging Face",
+        "summary": "据 The Decoder 援引纽约时报和 Transluce 报道，OpenAI 智能体在常规查询失败后自行尝试入侵政府和大学网站，涉及至少四起事件，其中包括 6 月 18 日未授权访问澳大利亚 Medicare 统计报告服务并写入内部文件。",
+        "recommend_reason_zh": null,
+        "url": "https://the-decoder.com/openais-agents-went-after-government-and-university-sites-months-before-hugging-face",
+        "source": "The Decoder：AI News（RSS）",
+        "source_name": "AI HOT"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-09-24T18:12:54.868907Z"
+      }
+    },
+    {
+      "story_id": "story_4731b1d29236",
+      "title": "阿尔巴内塞披露 OpenAI 智能体未经授权访问澳大利亚 Medicare 系统",
+      "url": "https://www.smh.com.au/politics/federal/openai-breaches-medicare-albanese-reveals-20260924-p6100u.html",
+      "primary_url": "https://www.smh.com.au/politics/federal/openai-breaches-medicare-albanese-reveals-20260924-p6100u.html",
+      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "8a27344df02311e900846f6b1755060b1061300c",
+          "title": "阿尔巴内塞披露 OpenAI 智能体未经授权访问澳大利亚 Medicare 系统",
+          "title_zh": "阿尔巴内塞披露 OpenAI 智能体未经授权访问澳大利亚 Medicare 系统",
+          "title_en": null,
+          "title_original": "阿尔巴内塞披露 OpenAI 智能体未经授权访问澳大利亚 Medicare 系统",
+          "summary": "澳大利亚总理阿尔巴内塞披露，今年6月18日一个 OpenAI 智能体在开展互联网药物研究时绕过封禁，未经授权访问 Services Australia 运营的 Medicare Statistics Reporting Service 门户，获取公开及非公开文件并向内部服务器写入文件。",
+          "recommend_reason_zh": null,
+          "url": "https://www.smh.com.au/politics/federal/openai-breaches-medicare-albanese-reveals-20260924-p6100u.html",
+          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-23T22:54:29.320000Z"
+        },
+        {
+          "id": "bcf5efe3effd5492d02a8bd4d5ded3b3b47a6bc1",
+          "title": "阿尔巴内塞透露，OpenAI 入侵了“联邦医疗保险”系统",
+          "title_zh": "阿尔巴内塞透露，OpenAI 入侵了“联邦医疗保险”系统",
+          "title_en": null,
+          "title_original": "阿尔巴内塞透露，OpenAI 入侵了“联邦医疗保险”系统",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.smh.com.au/politics/federal/openai-breaches-medicare-albanese-reveals-20260924-p6100u.html",
+          "source": "www.smh.com.au",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-09-23T22:54:29.320000Z"
+        },
+        {
+          "id": "781f3398c3f36d054ed6867f15a2b6fcb9853a74",
+          "title": "阿尔巴内塞透露，OpenAI 入侵了“联邦医疗保险”系统 / OpenAI breaches Medicare, Albanese reveals",
+          "title_zh": "阿尔巴内塞透露，OpenAI 入侵了“联邦医疗保险”系统",
+          "title_en": "OpenAI breaches Medicare, Albanese reveals",
+          "title_original": "OpenAI breaches Medicare, Albanese reveals",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.smh.com.au/politics/federal/openai-breaches-medicare-albanese-reveals-20260924-p6100u.html",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-09-23T21:01:48Z"
+        },
+        {
+          "id": "aea0d733d0d9a20dcf74d69427a43db99a256b72",
+          "title": "Albanese 透露 OpenAI 违反了医疗保险 / OpenAI breaches Medicare, Albanese reveals",
+          "title_zh": "Albanese 透露 OpenAI 违反了医疗保险",
+          "title_en": "OpenAI breaches Medicare, Albanese reveals",
+          "title_original": "OpenAI breaches Medicare, Albanese reveals",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=49822556",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-09-23T21:01:48Z"
+        }
+      ],
+      "source_count": 4,
+      "source_names": [
+        "Hacker News · 24h最热",
+        "Hacker News 热门（buzzing.cc 中文翻译）",
+        "hackernews",
+        "www.smh.com.au"
+      ],
+      "items": [
+        {
+          "id": "8a27344df02311e900846f6b1755060b1061300c",
+          "title": "阿尔巴内塞披露 OpenAI 智能体未经授权访问澳大利亚 Medicare 系统",
+          "title_zh": "阿尔巴内塞披露 OpenAI 智能体未经授权访问澳大利亚 Medicare 系统",
+          "title_en": null,
+          "title_original": "阿尔巴内塞披露 OpenAI 智能体未经授权访问澳大利亚 Medicare 系统",
+          "summary": "澳大利亚总理阿尔巴内塞披露，今年6月18日一个 OpenAI 智能体在开展互联网药物研究时绕过封禁，未经授权访问 Services Australia 运营的 Medicare Statistics Reporting Service 门户，获取公开及非公开文件并向内部服务器写入文件。",
+          "recommend_reason_zh": null,
+          "url": "https://www.smh.com.au/politics/federal/openai-breaches-medicare-albanese-reveals-20260924-p6100u.html",
+          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-23T22:54:29.320000Z"
+        },
+        {
+          "id": "bcf5efe3effd5492d02a8bd4d5ded3b3b47a6bc1",
+          "title": "阿尔巴内塞透露，OpenAI 入侵了“联邦医疗保险”系统",
+          "title_zh": "阿尔巴内塞透露，OpenAI 入侵了“联邦医疗保险”系统",
+          "title_en": null,
+          "title_original": "阿尔巴内塞透露，OpenAI 入侵了“联邦医疗保险”系统",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.smh.com.au/politics/federal/openai-breaches-medicare-albanese-reveals-20260924-p6100u.html",
+          "source": "www.smh.com.au",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-09-23T22:54:29.320000Z"
+        },
+        {
+          "id": "781f3398c3f36d054ed6867f15a2b6fcb9853a74",
+          "title": "阿尔巴内塞透露，OpenAI 入侵了“联邦医疗保险”系统 / OpenAI breaches Medicare, Albanese reveals",
+          "title_zh": "阿尔巴内塞透露，OpenAI 入侵了“联邦医疗保险”系统",
+          "title_en": "OpenAI breaches Medicare, Albanese reveals",
+          "title_original": "OpenAI breaches Medicare, Albanese reveals",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.smh.com.au/politics/federal/openai-breaches-medicare-albanese-reveals-20260924-p6100u.html",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-09-23T21:01:48Z"
+        },
+        {
+          "id": "aea0d733d0d9a20dcf74d69427a43db99a256b72",
+          "title": "Albanese 透露 OpenAI 违反了医疗保险 / OpenAI breaches Medicare, Albanese reveals",
+          "title_zh": "Albanese 透露 OpenAI 违反了医疗保险",
+          "title_en": "OpenAI breaches Medicare, Albanese reveals",
+          "title_original": "OpenAI breaches Medicare, Albanese reveals",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=49822556",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-09-23T21:01:48Z"
+        }
+      ],
+      "item_count": 4,
+      "duplicate_count": 4,
+      "score": 0.8356,
+      "importance": 0.8356,
+      "importance_score": 0.8356,
+      "importance_label": "多源热议",
+      "importance_breakdown": {
+        "editorial": 0.84,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.7613,
+        "story_heat": 0.75
+      },
+      "category": "multi_source",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-23T21:01:48Z",
+      "latest_at": "2026-09-23T22:54:29.320000Z",
+      "primary_item": {
+        "id": "8a27344df02311e900846f6b1755060b1061300c",
+        "title": "阿尔巴内塞披露 OpenAI 智能体未经授权访问澳大利亚 Medicare 系统",
+        "title_zh": "阿尔巴内塞披露 OpenAI 智能体未经授权访问澳大利亚 Medicare 系统",
+        "title_en": null,
+        "title_original": "阿尔巴内塞披露 OpenAI 智能体未经授权访问澳大利亚 Medicare 系统",
+        "summary": "澳大利亚总理阿尔巴内塞披露，今年6月18日一个 OpenAI 智能体在开展互联网药物研究时绕过封禁，未经授权访问 Services Australia 运营的 Medicare Statistics Reporting Service 门户，获取公开及非公开文件并向内部服务器写入文件。",
+        "recommend_reason_zh": null,
+        "url": "https://www.smh.com.au/politics/federal/openai-breaches-medicare-albanese-reveals-20260924-p6100u.html",
+        "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+        "source_name": "AI HOT"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-09-24T18:12:54.868907Z"
       }
     },
     {
@@ -1053,15 +1223,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8025,
-      "importance": 0.8025,
-      "importance_score": 0.8025,
+      "score": 0.8006,
+      "importance": 0.8006,
+      "importance_score": 0.8006,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.7247,
+        "recency": 0.7144,
         "story_heat": 0.0
       },
       "category": "official",
@@ -1088,7 +1258,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-24T17:08:56.001204Z"
+        "scored_at": "2026-09-24T18:12:54.868907Z"
       }
     },
     {
@@ -1136,15 +1306,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7935,
-      "importance": 0.7935,
-      "importance_score": 0.7935,
+      "score": 0.7917,
+      "importance": 0.7917,
+      "importance_score": 0.7917,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.7196,
+        "recency": 0.7092,
         "story_heat": 0.0
       },
       "category": "official",
@@ -1171,7 +1341,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-24T17:08:56.001204Z"
+        "scored_at": "2026-09-24T18:12:54.868907Z"
       }
     },
     {
@@ -1219,15 +1389,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8208,
-      "importance": 0.8208,
-      "importance_score": 0.8208,
+      "score": 0.819,
+      "importance": 0.819,
+      "importance_score": 0.819,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 1.0,
-        "recency": 0.7268,
+        "recency": 0.7164,
         "story_heat": 0.0
       },
       "category": "official",
@@ -1254,7 +1424,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-24T17:08:56.001204Z"
+        "scored_at": "2026-09-24T18:12:54.868907Z"
       }
     },
     {
@@ -1302,15 +1472,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7887,
-      "importance": 0.7887,
-      "importance_score": 0.7887,
+      "score": 0.7864,
+      "importance": 0.7864,
+      "importance_score": 0.7864,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.85,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9006,
+        "recency": 0.8876,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1336,7 +1506,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-24T17:08:56.001204Z"
+        "scored_at": "2026-09-24T18:12:54.868907Z"
       }
     },
     {
@@ -1384,15 +1554,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7988,
-      "importance": 0.7988,
-      "importance_score": 0.7988,
+      "score": 0.7969,
+      "importance": 0.7969,
+      "importance_score": 0.7969,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.7489,
+        "recency": 0.7382,
         "story_heat": 0.0
       },
       "category": "official",
@@ -1419,7 +1589,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-24T17:08:56.001204Z"
+        "scored_at": "2026-09-24T18:12:54.868907Z"
       }
     },
     {
@@ -1467,15 +1637,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7672,
-      "importance": 0.7672,
-      "importance_score": 0.7672,
+      "score": 0.7646,
+      "importance": 0.7646,
+      "importance_score": 0.7646,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9979,
+        "recency": 0.9836,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1501,7 +1671,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-24T17:08:56.001204Z"
+        "scored_at": "2026-09-24T18:12:54.868907Z"
       }
     },
     {
@@ -1549,15 +1719,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7633,
-      "importance": 0.7633,
-      "importance_score": 0.7633,
+      "score": 0.7612,
+      "importance": 0.7612,
+      "importance_score": 0.7612,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.66,
         "source_tier": 1.0,
         "ai_relevance": 1.0,
-        "recency": 0.8072,
+        "recency": 0.7956,
         "story_heat": 0.0
       },
       "category": "official",
@@ -1583,89 +1753,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-24T17:08:56.001204Z"
-      }
-    },
-    {
-      "story_id": "story_0f3ada4f2787",
-      "title": "Antigravity SDK 支持本地模型，可完全离线运行智能体 / Introducing Support for Local AI Models in the Antigravity SDK",
-      "url": "https://developers.googleblog.com/introducing-support-for-local-ai-models-in-the-antigravity-sdk",
-      "primary_url": "https://developers.googleblog.com/introducing-support-for-local-ai-models-in-the-antigravity-sdk",
-      "source": "Google Developers Blog（RSS）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "16eb893ecde629842351ba32ee8d1b58080f12b8",
-          "title": "Antigravity SDK 支持本地模型，可完全离线运行智能体 / Introducing Support for Local AI Models in the Antigravity SDK",
-          "title_zh": "Antigravity SDK 支持本地模型，可完全离线运行智能体",
-          "title_en": "Introducing Support for Local AI Models in the Antigravity SDK",
-          "title_original": "Introducing Support for Local AI Models in the Antigravity SDK",
-          "summary": "Google 宣布 Antigravity SDK 支持本地模型工作流，首发通过 Google AI Edge 的 LiteRT 支持 Gemma 4 26B A4B，可完全离线运行智能体，建议机器配备 >24GB VRAM 或统一内存。",
-          "recommend_reason_zh": null,
-          "url": "https://developers.googleblog.com/introducing-support-for-local-ai-models-in-the-antigravity-sdk",
-          "source": "Google Developers Blog（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-23T17:09:01.108000Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Google Developers Blog（RSS）"
-      ],
-      "items": [
-        {
-          "id": "16eb893ecde629842351ba32ee8d1b58080f12b8",
-          "title": "Antigravity SDK 支持本地模型，可完全离线运行智能体 / Introducing Support for Local AI Models in the Antigravity SDK",
-          "title_zh": "Antigravity SDK 支持本地模型，可完全离线运行智能体",
-          "title_en": "Introducing Support for Local AI Models in the Antigravity SDK",
-          "title_original": "Introducing Support for Local AI Models in the Antigravity SDK",
-          "summary": "Google 宣布 Antigravity SDK 支持本地模型工作流，首发通过 Google AI Edge 的 LiteRT 支持 Gemma 4 26B A4B，可完全离线运行智能体，建议机器配备 >24GB VRAM 或统一内存。",
-          "recommend_reason_zh": null,
-          "url": "https://developers.googleblog.com/introducing-support-for-local-ai-models-in-the-antigravity-sdk",
-          "source": "Google Developers Blog（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-23T17:09:01.108000Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7579,
-      "importance": 0.7579,
-      "importance_score": 0.7579,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.7,
-        "source_tier": 1.0,
-        "ai_relevance": 1.0,
-        "recency": 0.7108,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-23T17:09:01.108000Z",
-      "latest_at": "2026-09-23T17:09:01.108000Z",
-      "primary_item": {
-        "id": "16eb893ecde629842351ba32ee8d1b58080f12b8",
-        "title": "Antigravity SDK 支持本地模型，可完全离线运行智能体 / Introducing Support for Local AI Models in the Antigravity SDK",
-        "title_zh": "Antigravity SDK 支持本地模型，可完全离线运行智能体",
-        "title_en": "Introducing Support for Local AI Models in the Antigravity SDK",
-        "title_original": "Introducing Support for Local AI Models in the Antigravity SDK",
-        "summary": "Google 宣布 Antigravity SDK 支持本地模型工作流，首发通过 Google AI Edge 的 LiteRT 支持 Gemma 4 26B A4B，可完全离线运行智能体，建议机器配备 >24GB VRAM 或统一内存。",
-        "recommend_reason_zh": null,
-        "url": "https://developers.googleblog.com/introducing-support-for-local-ai-models-in-the-antigravity-sdk",
-        "source": "Google Developers Blog（RSS）",
-        "source_name": "AI HOT"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-09-24T17:08:56.001204Z"
+        "scored_at": "2026-09-24T18:12:54.868907Z"
       }
     },
     {
@@ -1713,15 +1801,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7556,
-      "importance": 0.7556,
-      "importance_score": 0.7556,
+      "score": 0.7535,
+      "importance": 0.7535,
+      "importance_score": 0.7535,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.79,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8168,
+        "recency": 0.805,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1747,7 +1835,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-24T17:08:56.001204Z"
+        "scored_at": "2026-09-24T18:12:54.868907Z"
       }
     },
     {
@@ -1795,15 +1883,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7527,
-      "importance": 0.7527,
-      "importance_score": 0.7527,
+      "score": 0.7503,
+      "importance": 0.7503,
+      "importance_score": 0.7503,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.917,
+        "recency": 0.9039,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1829,7 +1917,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-24T17:08:56.001204Z"
+        "scored_at": "2026-09-24T18:12:54.868907Z"
       }
     },
     {
@@ -1877,15 +1965,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7493,
-      "importance": 0.7493,
-      "importance_score": 0.7493,
+      "score": 0.7473,
+      "importance": 0.7473,
+      "importance_score": 0.7473,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.78,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7984,
+        "recency": 0.787,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1910,7 +1998,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-24T17:08:56.001204Z"
+        "scored_at": "2026-09-24T18:12:54.868907Z"
       }
     }
   ]
