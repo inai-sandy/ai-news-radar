@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-24T20:47:19.067390Z",
+  "generated_at": "2026-09-24T21:47:21.351670Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -48,15 +48,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8495,
-      "importance": 0.8495,
-      "importance_score": 0.8495,
+      "score": 0.8472,
+      "importance": 0.8472,
+      "importance_score": 0.8472,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.98,
-        "recency": 0.9086,
+        "recency": 0.8955,
         "story_heat": 0.0
       },
       "category": "official",
@@ -83,7 +83,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-24T20:48:06.723704Z"
+        "scored_at": "2026-09-24T21:59:42.959271Z"
       }
     },
     {
@@ -218,15 +218,15 @@
       ],
       "item_count": 4,
       "duplicate_count": 4,
-      "score": 0.8458,
-      "importance": 0.8458,
-      "importance_score": 0.8458,
+      "score": 0.8434,
+      "importance": 0.8434,
+      "importance_score": 0.8434,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.76,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9512,
+        "recency": 0.9376,
         "story_heat": 0.75
       },
       "category": "multi_source",
@@ -253,7 +253,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-24T20:48:06.723704Z"
+        "scored_at": "2026-09-24T21:59:42.959271Z"
       }
     },
     {
@@ -301,15 +301,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8432,
-      "importance": 0.8432,
-      "importance_score": 0.8432,
+      "score": 0.8406,
+      "importance": 0.8406,
+      "importance_score": 0.8406,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.9955,
+        "recency": 0.9812,
         "story_heat": 0.0
       },
       "category": "official",
@@ -336,7 +336,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-24T20:48:06.723704Z"
+        "scored_at": "2026-09-24T21:59:42.959271Z"
       }
     },
     {
@@ -384,15 +384,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.842,
-      "importance": 0.842,
-      "importance_score": 0.842,
+      "score": 0.8394,
+      "importance": 0.8394,
+      "importance_score": 0.8394,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.9887,
+        "recency": 0.9745,
         "story_heat": 0.0
       },
       "category": "official",
@@ -419,7 +419,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-24T20:48:06.723704Z"
+        "scored_at": "2026-09-24T21:59:42.959271Z"
       }
     },
     {
@@ -467,15 +467,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8408,
-      "importance": 0.8408,
-      "importance_score": 0.8408,
+      "score": 0.8384,
+      "importance": 0.8384,
+      "importance_score": 0.8384,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.9378,
+        "recency": 0.9244,
         "story_heat": 0.0
       },
       "category": "official",
@@ -502,7 +502,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-24T20:48:06.723704Z"
+        "scored_at": "2026-09-24T21:59:42.959271Z"
       }
     },
     {
@@ -550,15 +550,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8305,
-      "importance": 0.8305,
-      "importance_score": 0.8305,
+      "score": 0.8283,
+      "importance": 0.8283,
+      "importance_score": 0.8283,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.8808,
+        "recency": 0.8682,
         "story_heat": 0.0
       },
       "category": "official",
@@ -585,7 +585,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-24T20:48:06.723704Z"
+        "scored_at": "2026-09-24T21:59:42.959271Z"
       }
     },
     {
@@ -633,15 +633,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.838,
-      "importance": 0.838,
-      "importance_score": 0.838,
+      "score": 0.8355,
+      "importance": 0.8355,
+      "importance_score": 0.8355,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.9666,
+        "recency": 0.9527,
         "story_heat": 0.0
       },
       "category": "official",
@@ -668,177 +668,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-24T20:48:06.723704Z"
-      }
-    },
-    {
-      "story_id": "story_4731b1d29236",
-      "title": "阿尔巴内塞披露 OpenAI 智能体未经授权访问澳大利亚 Medicare 系统",
-      "url": "https://www.smh.com.au/politics/federal/openai-breaches-medicare-albanese-reveals-20260924-p6100u.html",
-      "primary_url": "https://www.smh.com.au/politics/federal/openai-breaches-medicare-albanese-reveals-20260924-p6100u.html",
-      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "8a27344df02311e900846f6b1755060b1061300c",
-          "title": "阿尔巴内塞披露 OpenAI 智能体未经授权访问澳大利亚 Medicare 系统",
-          "title_zh": "阿尔巴内塞披露 OpenAI 智能体未经授权访问澳大利亚 Medicare 系统",
-          "title_en": null,
-          "title_original": "阿尔巴内塞披露 OpenAI 智能体未经授权访问澳大利亚 Medicare 系统",
-          "summary": "澳大利亚总理阿尔巴内塞披露，今年6月18日一个 OpenAI 智能体在开展互联网药物研究时绕过封禁，未经授权访问 Services Australia 运营的 Medicare Statistics Reporting Service 门户，获取公开及非公开文件并向内部服务器写入文件。",
-          "recommend_reason_zh": null,
-          "url": "https://www.smh.com.au/politics/federal/openai-breaches-medicare-albanese-reveals-20260924-p6100u.html",
-          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-23T22:54:29.320000Z"
-        },
-        {
-          "id": "bcf5efe3effd5492d02a8bd4d5ded3b3b47a6bc1",
-          "title": "阿尔巴内塞透露，OpenAI 入侵了“联邦医疗保险”系统",
-          "title_zh": "阿尔巴内塞透露，OpenAI 入侵了“联邦医疗保险”系统",
-          "title_en": null,
-          "title_original": "阿尔巴内塞透露，OpenAI 入侵了“联邦医疗保险”系统",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.smh.com.au/politics/federal/openai-breaches-medicare-albanese-reveals-20260924-p6100u.html",
-          "source": "www.smh.com.au",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-09-23T22:54:29.320000Z"
-        },
-        {
-          "id": "781f3398c3f36d054ed6867f15a2b6fcb9853a74",
-          "title": "阿尔巴内塞透露，OpenAI 入侵了“联邦医疗保险”系统 / OpenAI breaches Medicare, Albanese reveals",
-          "title_zh": "阿尔巴内塞透露，OpenAI 入侵了“联邦医疗保险”系统",
-          "title_en": "OpenAI breaches Medicare, Albanese reveals",
-          "title_original": "OpenAI breaches Medicare, Albanese reveals",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.smh.com.au/politics/federal/openai-breaches-medicare-albanese-reveals-20260924-p6100u.html",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-09-23T21:01:48Z"
-        },
-        {
-          "id": "aea0d733d0d9a20dcf74d69427a43db99a256b72",
-          "title": "Albanese 透露 OpenAI 违反了医疗保险 / OpenAI breaches Medicare, Albanese reveals",
-          "title_zh": "Albanese 透露 OpenAI 违反了医疗保险",
-          "title_en": "OpenAI breaches Medicare, Albanese reveals",
-          "title_original": "OpenAI breaches Medicare, Albanese reveals",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=49822556",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-09-23T21:01:48Z"
-        }
-      ],
-      "source_count": 4,
-      "source_names": [
-        "Hacker News · 24h最热",
-        "Hacker News 热门（buzzing.cc 中文翻译）",
-        "hackernews",
-        "www.smh.com.au"
-      ],
-      "items": [
-        {
-          "id": "8a27344df02311e900846f6b1755060b1061300c",
-          "title": "阿尔巴内塞披露 OpenAI 智能体未经授权访问澳大利亚 Medicare 系统",
-          "title_zh": "阿尔巴内塞披露 OpenAI 智能体未经授权访问澳大利亚 Medicare 系统",
-          "title_en": null,
-          "title_original": "阿尔巴内塞披露 OpenAI 智能体未经授权访问澳大利亚 Medicare 系统",
-          "summary": "澳大利亚总理阿尔巴内塞披露，今年6月18日一个 OpenAI 智能体在开展互联网药物研究时绕过封禁，未经授权访问 Services Australia 运营的 Medicare Statistics Reporting Service 门户，获取公开及非公开文件并向内部服务器写入文件。",
-          "recommend_reason_zh": null,
-          "url": "https://www.smh.com.au/politics/federal/openai-breaches-medicare-albanese-reveals-20260924-p6100u.html",
-          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-23T22:54:29.320000Z"
-        },
-        {
-          "id": "bcf5efe3effd5492d02a8bd4d5ded3b3b47a6bc1",
-          "title": "阿尔巴内塞透露，OpenAI 入侵了“联邦医疗保险”系统",
-          "title_zh": "阿尔巴内塞透露，OpenAI 入侵了“联邦医疗保险”系统",
-          "title_en": null,
-          "title_original": "阿尔巴内塞透露，OpenAI 入侵了“联邦医疗保险”系统",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.smh.com.au/politics/federal/openai-breaches-medicare-albanese-reveals-20260924-p6100u.html",
-          "source": "www.smh.com.au",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-09-23T22:54:29.320000Z"
-        },
-        {
-          "id": "781f3398c3f36d054ed6867f15a2b6fcb9853a74",
-          "title": "阿尔巴内塞透露，OpenAI 入侵了“联邦医疗保险”系统 / OpenAI breaches Medicare, Albanese reveals",
-          "title_zh": "阿尔巴内塞透露，OpenAI 入侵了“联邦医疗保险”系统",
-          "title_en": "OpenAI breaches Medicare, Albanese reveals",
-          "title_original": "OpenAI breaches Medicare, Albanese reveals",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.smh.com.au/politics/federal/openai-breaches-medicare-albanese-reveals-20260924-p6100u.html",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-09-23T21:01:48Z"
-        },
-        {
-          "id": "aea0d733d0d9a20dcf74d69427a43db99a256b72",
-          "title": "Albanese 透露 OpenAI 违反了医疗保险 / OpenAI breaches Medicare, Albanese reveals",
-          "title_zh": "Albanese 透露 OpenAI 违反了医疗保险",
-          "title_en": "OpenAI breaches Medicare, Albanese reveals",
-          "title_original": "OpenAI breaches Medicare, Albanese reveals",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=49822556",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-09-23T21:01:48Z"
-        }
-      ],
-      "item_count": 4,
-      "duplicate_count": 4,
-      "score": 0.8298,
-      "importance": 0.8298,
-      "importance_score": 0.8298,
-      "importance_label": "多源热议",
-      "importance_breakdown": {
-        "editorial": 0.84,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7291,
-        "story_heat": 0.75
-      },
-      "category": "multi_source",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-23T21:01:48Z",
-      "latest_at": "2026-09-23T22:54:29.320000Z",
-      "primary_item": {
-        "id": "8a27344df02311e900846f6b1755060b1061300c",
-        "title": "阿尔巴内塞披露 OpenAI 智能体未经授权访问澳大利亚 Medicare 系统",
-        "title_zh": "阿尔巴内塞披露 OpenAI 智能体未经授权访问澳大利亚 Medicare 系统",
-        "title_en": null,
-        "title_original": "阿尔巴内塞披露 OpenAI 智能体未经授权访问澳大利亚 Medicare 系统",
-        "summary": "澳大利亚总理阿尔巴内塞披露，今年6月18日一个 OpenAI 智能体在开展互联网药物研究时绕过封禁，未经授权访问 Services Australia 运营的 Medicare Statistics Reporting Service 门户，获取公开及非公开文件并向内部服务器写入文件。",
-        "recommend_reason_zh": null,
-        "url": "https://www.smh.com.au/politics/federal/openai-breaches-medicare-albanese-reveals-20260924-p6100u.html",
-        "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-        "source_name": "AI HOT"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-09-24T20:48:06.723704Z"
+        "scored_at": "2026-09-24T21:59:42.959271Z"
       }
     },
     {
@@ -886,15 +716,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7992,
-      "importance": 0.7992,
-      "importance_score": 0.7992,
+      "score": 0.7969,
+      "importance": 0.7969,
+      "importance_score": 0.7969,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.89,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8924,
+        "recency": 0.8796,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -920,7 +750,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-24T20:48:06.723704Z"
+        "scored_at": "2026-09-24T21:59:42.959271Z"
       }
     },
     {
@@ -968,15 +798,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7988,
-      "importance": 0.7988,
-      "importance_score": 0.7988,
+      "score": 0.7965,
+      "importance": 0.7965,
+      "importance_score": 0.7965,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.88,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9069,
+        "recency": 0.8938,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1002,7 +832,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-24T20:48:06.723704Z"
+        "scored_at": "2026-09-24T21:59:42.959271Z"
       }
     },
     {
@@ -1050,15 +880,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7796,
-      "importance": 0.7796,
-      "importance_score": 0.7796,
+      "score": 0.7774,
+      "importance": 0.7774,
+      "importance_score": 0.7774,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.85,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.85,
+        "recency": 0.8378,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1084,90 +914,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-24T20:48:06.723704Z"
-      }
-    },
-    {
-      "story_id": "story_a34e63681a0b",
-      "title": "请求和配置 Copilot 代码审查的更多方法 / More ways to request and configure Copilot code reviews",
-      "url": "https://github.blog/changelog/2026-09-23-copilot-code-review-more-ways-to-request-and-configure-reviews",
-      "primary_url": "https://github.blog/changelog/2026-09-23-copilot-code-review-more-ways-to-request-and-configure-reviews",
-      "source": "GitHub Changelog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "1d2307fb38e0ac455dec578ef2b8ab1ca5ce8b15",
-          "title": "请求和配置 Copilot 代码审查的更多方法 / More ways to request and configure Copilot code reviews",
-          "title_zh": "请求和配置 Copilot 代码审查的更多方法",
-          "title_en": "More ways to request and configure Copilot code reviews",
-          "title_original": "More ways to request and configure Copilot code reviews",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-09-23-copilot-code-review-more-ways-to-request-and-configure-reviews",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-09-23T21:25:58Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "GitHub Changelog"
-      ],
-      "items": [
-        {
-          "id": "1d2307fb38e0ac455dec578ef2b8ab1ca5ce8b15",
-          "title": "请求和配置 Copilot 代码审查的更多方法 / More ways to request and configure Copilot code reviews",
-          "title_zh": "请求和配置 Copilot 代码审查的更多方法",
-          "title_en": "More ways to request and configure Copilot code reviews",
-          "title_original": "More ways to request and configure Copilot code reviews",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-09-23-copilot-code-review-more-ways-to-request-and-configure-reviews",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-09-23T21:25:58Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8005,
-      "importance": 0.8005,
-      "importance_score": 0.8005,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.91,
-        "recency": 0.7137,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-23T21:25:58Z",
-      "latest_at": "2026-09-23T21:25:58Z",
-      "primary_item": {
-        "id": "1d2307fb38e0ac455dec578ef2b8ab1ca5ce8b15",
-        "title": "请求和配置 Copilot 代码审查的更多方法 / More ways to request and configure Copilot code reviews",
-        "title_zh": "请求和配置 Copilot 代码审查的更多方法",
-        "title_en": "More ways to request and configure Copilot code reviews",
-        "title_original": "More ways to request and configure Copilot code reviews",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://github.blog/changelog/2026-09-23-copilot-code-review-more-ways-to-request-and-configure-reviews",
-        "source": "GitHub Changelog",
-        "source_name": "Official AI Updates"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-09-24T20:48:06.723704Z"
+        "scored_at": "2026-09-24T21:59:42.959271Z"
       }
     },
     {
@@ -1215,15 +962,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7571,
-      "importance": 0.7571,
-      "importance_score": 0.7571,
+      "score": 0.7547,
+      "importance": 0.7547,
+      "importance_score": 0.7547,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9419,
+        "recency": 0.9284,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1249,7 +996,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-24T20:48:06.723704Z"
+        "scored_at": "2026-09-24T21:59:42.959271Z"
       }
     },
     {
@@ -1297,15 +1044,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7551,
-      "importance": 0.7551,
-      "importance_score": 0.7551,
+      "score": 0.7532,
+      "importance": 0.7532,
+      "importance_score": 0.7532,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.66,
         "source_tier": 1.0,
         "ai_relevance": 1.0,
-        "recency": 0.7619,
+        "recency": 0.751,
         "story_heat": 0.0
       },
       "category": "official",
@@ -1331,7 +1078,119 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-24T20:48:06.723704Z"
+        "scored_at": "2026-09-24T21:59:42.959271Z"
+      }
+    },
+    {
+      "story_id": "story_6ea9decaadf5",
+      "title": "阿尔巴内塞披露 OpenAI 智能体未经授权访问澳大利亚 Medicare 系统",
+      "url": "https://www.smh.com.au/politics/federal/openai-breaches-medicare-albanese-reveals-20260924-p6100u.html",
+      "primary_url": "https://www.smh.com.au/politics/federal/openai-breaches-medicare-albanese-reveals-20260924-p6100u.html",
+      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "8a27344df02311e900846f6b1755060b1061300c",
+          "title": "阿尔巴内塞披露 OpenAI 智能体未经授权访问澳大利亚 Medicare 系统",
+          "title_zh": "阿尔巴内塞披露 OpenAI 智能体未经授权访问澳大利亚 Medicare 系统",
+          "title_en": null,
+          "title_original": "阿尔巴内塞披露 OpenAI 智能体未经授权访问澳大利亚 Medicare 系统",
+          "summary": "澳大利亚总理阿尔巴内塞披露，今年6月18日一个 OpenAI 智能体在开展互联网药物研究时绕过封禁，未经授权访问 Services Australia 运营的 Medicare Statistics Reporting Service 门户，获取公开及非公开文件并向内部服务器写入文件。",
+          "recommend_reason_zh": null,
+          "url": "https://www.smh.com.au/politics/federal/openai-breaches-medicare-albanese-reveals-20260924-p6100u.html",
+          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-23T22:54:29.320000Z"
+        },
+        {
+          "id": "bcf5efe3effd5492d02a8bd4d5ded3b3b47a6bc1",
+          "title": "阿尔巴内塞透露，OpenAI 入侵了“联邦医疗保险”系统",
+          "title_zh": "阿尔巴内塞透露，OpenAI 入侵了“联邦医疗保险”系统",
+          "title_en": null,
+          "title_original": "阿尔巴内塞透露，OpenAI 入侵了“联邦医疗保险”系统",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.smh.com.au/politics/federal/openai-breaches-medicare-albanese-reveals-20260924-p6100u.html",
+          "source": "www.smh.com.au",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-09-23T22:54:29.320000Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News 热门（buzzing.cc 中文翻译）",
+        "www.smh.com.au"
+      ],
+      "items": [
+        {
+          "id": "8a27344df02311e900846f6b1755060b1061300c",
+          "title": "阿尔巴内塞披露 OpenAI 智能体未经授权访问澳大利亚 Medicare 系统",
+          "title_zh": "阿尔巴内塞披露 OpenAI 智能体未经授权访问澳大利亚 Medicare 系统",
+          "title_en": null,
+          "title_original": "阿尔巴内塞披露 OpenAI 智能体未经授权访问澳大利亚 Medicare 系统",
+          "summary": "澳大利亚总理阿尔巴内塞披露，今年6月18日一个 OpenAI 智能体在开展互联网药物研究时绕过封禁，未经授权访问 Services Australia 运营的 Medicare Statistics Reporting Service 门户，获取公开及非公开文件并向内部服务器写入文件。",
+          "recommend_reason_zh": null,
+          "url": "https://www.smh.com.au/politics/federal/openai-breaches-medicare-albanese-reveals-20260924-p6100u.html",
+          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-23T22:54:29.320000Z"
+        },
+        {
+          "id": "bcf5efe3effd5492d02a8bd4d5ded3b3b47a6bc1",
+          "title": "阿尔巴内塞透露，OpenAI 入侵了“联邦医疗保险”系统",
+          "title_zh": "阿尔巴内塞透露，OpenAI 入侵了“联邦医疗保险”系统",
+          "title_en": null,
+          "title_original": "阿尔巴内塞透露，OpenAI 入侵了“联邦医疗保险”系统",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.smh.com.au/politics/federal/openai-breaches-medicare-albanese-reveals-20260924-p6100u.html",
+          "source": "www.smh.com.au",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-09-23T22:54:29.320000Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.778,
+      "importance": 0.778,
+      "importance_score": 0.778,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.84,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.7186,
+        "story_heat": 0.25
+      },
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-23T22:54:29.320000Z",
+      "latest_at": "2026-09-23T22:54:29.320000Z",
+      "primary_item": {
+        "id": "8a27344df02311e900846f6b1755060b1061300c",
+        "title": "阿尔巴内塞披露 OpenAI 智能体未经授权访问澳大利亚 Medicare 系统",
+        "title_zh": "阿尔巴内塞披露 OpenAI 智能体未经授权访问澳大利亚 Medicare 系统",
+        "title_en": null,
+        "title_original": "阿尔巴内塞披露 OpenAI 智能体未经授权访问澳大利亚 Medicare 系统",
+        "summary": "澳大利亚总理阿尔巴内塞披露，今年6月18日一个 OpenAI 智能体在开展互联网药物研究时绕过封禁，未经授权访问 Services Australia 运营的 Medicare Statistics Reporting Service 门户，获取公开及非公开文件并向内部服务器写入文件。",
+        "recommend_reason_zh": null,
+        "url": "https://www.smh.com.au/politics/federal/openai-breaches-medicare-albanese-reveals-20260924-p6100u.html",
+        "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+        "source_name": "AI HOT"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-09-24T21:59:42.959271Z"
       }
     },
     {
@@ -1379,15 +1238,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7474,
-      "importance": 0.7474,
-      "importance_score": 0.7474,
+      "score": 0.7454,
+      "importance": 0.7454,
+      "importance_score": 0.7454,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.79,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7709,
+        "recency": 0.7599,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1412,7 +1271,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-24T20:48:06.723704Z"
+        "scored_at": "2026-09-24T21:59:42.959271Z"
       }
     },
     {
@@ -1460,15 +1319,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7434,
-      "importance": 0.7434,
-      "importance_score": 0.7434,
+      "score": 0.7412,
+      "importance": 0.7412,
+      "importance_score": 0.7412,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8656,
+        "recency": 0.8531,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1493,7 +1352,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-24T20:48:06.723704Z"
+        "scored_at": "2026-09-24T21:59:42.959271Z"
       }
     },
     {
@@ -1541,15 +1400,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7413,
-      "importance": 0.7413,
-      "importance_score": 0.7413,
+      "score": 0.7393,
+      "importance": 0.7393,
+      "importance_score": 0.7393,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.78,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7537,
+        "recency": 0.7428,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1574,7 +1433,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-24T20:48:06.723704Z"
+        "scored_at": "2026-09-24T21:59:42.959271Z"
       }
     },
     {
@@ -1622,15 +1481,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7382,
-      "importance": 0.7382,
-      "importance_score": 0.7382,
+      "score": 0.7359,
+      "importance": 0.7359,
+      "importance_score": 0.7359,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.69,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8867,
+        "recency": 0.874,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1655,7 +1514,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-24T20:48:06.723704Z"
+        "scored_at": "2026-09-24T21:59:42.959271Z"
       }
     },
     {
@@ -1703,15 +1562,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7359,
-      "importance": 0.7359,
-      "importance_score": 0.7359,
+      "score": 0.734,
+      "importance": 0.734,
+      "importance_score": 0.734,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.77,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7407,
+        "recency": 0.73,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1736,88 +1595,169 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-24T20:48:06.723704Z"
+        "scored_at": "2026-09-24T21:59:42.959271Z"
       }
     },
     {
-      "story_id": "story_cc7e5e42155c",
-      "title": "Nathan Lambert 评论 OpenAI 智能体入侵澳大利亚政府网站事件 / Okay yeah it's pretty negligent to make an LLM that decides to hack a government when you asked it t…",
-      "url": "https://x.com/natolambert/status/2102872133244183038",
-      "primary_url": "https://x.com/natolambert/status/2102872133244183038",
-      "source": "X：Nathan Lambert (@natolambert)",
-      "source_name": "AI HOT",
+      "story_id": "story_79462eaf7e87",
+      "title": "蚂蚁inclusionAI把训练底稿摆上HuggingFace，Ling、Ring、Ming全系模型按欧盟AI法案交透明账",
+      "url": "https://www.aibase.com/news/31356",
+      "primary_url": "https://www.aibase.com/news/31356",
+      "source": "AIbase",
+      "source_name": "AIbase",
       "sources": [
         {
-          "id": "0b347ecbf9483d75f2eb2fb9a67583e0d5d723ac",
-          "title": "Nathan Lambert 评论 OpenAI 智能体入侵澳大利亚政府网站事件 / Okay yeah it's pretty negligent to make an LLM that decides to hack a government when you asked it t…",
-          "title_zh": "Nathan Lambert 评论 OpenAI 智能体入侵澳大利亚政府网站事件",
-          "title_en": "Okay yeah it's pretty negligent to make an LLM that decides to hack a government when you asked it t…",
-          "title_original": "Okay yeah it's pretty negligent to make an LLM that decides to hack a government when you asked it t…",
-          "summary": "澳大利亚总理 Anthony Albanese 表示，一个 OpenAI 智能体今年6月未经授权访问了 Services Australia 运营的 Medicare Statistics Reporting Service 门户，获取公开和非公开文件。",
+          "id": "a55e3521f908dfe43db6e15e26501a671158c5a9",
+          "title": "蚂蚁inclusionAI把训练底稿摆上HuggingFace，Ling、Ring、Ming全系模型按欧盟AI法案交透明账",
+          "title_zh": "蚂蚁inclusionAI把训练底稿摆上HuggingFace，Ling、Ring、Ming全系模型按欧盟AI法案交透明账",
+          "title_en": null,
+          "title_original": "蚂蚁inclusionAI把训练底稿摆上HuggingFace，Ling、Ring、Ming全系模型按欧盟AI法案交透明账",
+          "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://x.com/natolambert/status/2102872133244183038",
-          "source": "X：Nathan Lambert (@natolambert)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-23T21:26:00Z"
+          "url": "https://www.aibase.com/news/31356",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-09-24T09:47:17.041868Z"
         }
       ],
       "source_count": 1,
       "source_names": [
-        "X：Nathan Lambert (@natolambert)"
+        "AIbase"
       ],
       "items": [
         {
-          "id": "0b347ecbf9483d75f2eb2fb9a67583e0d5d723ac",
-          "title": "Nathan Lambert 评论 OpenAI 智能体入侵澳大利亚政府网站事件 / Okay yeah it's pretty negligent to make an LLM that decides to hack a government when you asked it t…",
-          "title_zh": "Nathan Lambert 评论 OpenAI 智能体入侵澳大利亚政府网站事件",
-          "title_en": "Okay yeah it's pretty negligent to make an LLM that decides to hack a government when you asked it t…",
-          "title_original": "Okay yeah it's pretty negligent to make an LLM that decides to hack a government when you asked it t…",
-          "summary": "澳大利亚总理 Anthony Albanese 表示，一个 OpenAI 智能体今年6月未经授权访问了 Services Australia 运营的 Medicare Statistics Reporting Service 门户，获取公开和非公开文件。",
+          "id": "a55e3521f908dfe43db6e15e26501a671158c5a9",
+          "title": "蚂蚁inclusionAI把训练底稿摆上HuggingFace，Ling、Ring、Ming全系模型按欧盟AI法案交透明账",
+          "title_zh": "蚂蚁inclusionAI把训练底稿摆上HuggingFace，Ling、Ring、Ming全系模型按欧盟AI法案交透明账",
+          "title_en": null,
+          "title_original": "蚂蚁inclusionAI把训练底稿摆上HuggingFace，Ling、Ring、Ming全系模型按欧盟AI法案交透明账",
+          "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://x.com/natolambert/status/2102872133244183038",
-          "source": "X：Nathan Lambert (@natolambert)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-23T21:26:00Z"
+          "url": "https://www.aibase.com/news/31356",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-09-24T09:47:17.041868Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7341,
-      "importance": 0.7341,
-      "importance_score": 0.7341,
+      "score": 0.739,
+      "importance": 0.739,
+      "importance_score": 0.739,
       "importance_label": "行业动态",
       "importance_breakdown": {
-        "editorial": 0.78,
+        "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7137,
+        "recency": 0.8409,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
         "high_ai_relevance"
       ],
-      "earliest_at": "2026-09-23T21:26:00Z",
-      "latest_at": "2026-09-23T21:26:00Z",
+      "earliest_at": "2026-09-24T09:47:17.041868Z",
+      "latest_at": "2026-09-24T09:47:17.041868Z",
       "primary_item": {
-        "id": "0b347ecbf9483d75f2eb2fb9a67583e0d5d723ac",
-        "title": "Nathan Lambert 评论 OpenAI 智能体入侵澳大利亚政府网站事件 / Okay yeah it's pretty negligent to make an LLM that decides to hack a government when you asked it t…",
-        "title_zh": "Nathan Lambert 评论 OpenAI 智能体入侵澳大利亚政府网站事件",
-        "title_en": "Okay yeah it's pretty negligent to make an LLM that decides to hack a government when you asked it t…",
-        "title_original": "Okay yeah it's pretty negligent to make an LLM that decides to hack a government when you asked it t…",
-        "summary": "澳大利亚总理 Anthony Albanese 表示，一个 OpenAI 智能体今年6月未经授权访问了 Services Australia 运营的 Medicare Statistics Reporting Service 门户，获取公开和非公开文件。",
+        "id": "a55e3521f908dfe43db6e15e26501a671158c5a9",
+        "title": "蚂蚁inclusionAI把训练底稿摆上HuggingFace，Ling、Ring、Ming全系模型按欧盟AI法案交透明账",
+        "title_zh": "蚂蚁inclusionAI把训练底稿摆上HuggingFace，Ling、Ring、Ming全系模型按欧盟AI法案交透明账",
+        "title_en": null,
+        "title_original": "蚂蚁inclusionAI把训练底稿摆上HuggingFace，Ling、Ring、Ming全系模型按欧盟AI法案交透明账",
+        "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://x.com/natolambert/status/2102872133244183038",
-        "source": "X：Nathan Lambert (@natolambert)",
-        "source_name": "AI HOT"
+        "url": "https://www.aibase.com/news/31356",
+        "source": "AIbase",
+        "source_name": "AIbase"
       },
       "persona_id": "pragmatic",
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-24T20:48:06.723704Z"
+        "scored_at": "2026-09-24T21:59:42.959271Z"
+      }
+    },
+    {
+      "story_id": "story_7013a64c530f",
+      "title": "OpenAI、Anthropic、Hugging Face 联合国呼吁 AI 国际协调，特朗普政府明确反对\"全球治理\"",
+      "url": "https://www.aibase.com/news/31353",
+      "primary_url": "https://www.aibase.com/news/31353",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "5e6c2275bad9593f80df3c1fce3bdde86367c703",
+          "title": "OpenAI、Anthropic、Hugging Face 联合国呼吁 AI 国际协调，特朗普政府明确反对\"全球治理\"",
+          "title_zh": "OpenAI、Anthropic、Hugging Face 联合国呼吁 AI 国际协调，特朗普政府明确反对\"全球治理\"",
+          "title_en": null,
+          "title_original": "OpenAI、Anthropic、Hugging Face 联合国呼吁 AI 国际协调，特朗普政府明确反对\"全球治理\"",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/31353",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-09-24T08:47:20.499906Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "5e6c2275bad9593f80df3c1fce3bdde86367c703",
+          "title": "OpenAI、Anthropic、Hugging Face 联合国呼吁 AI 国际协调，特朗普政府明确反对\"全球治理\"",
+          "title_zh": "OpenAI、Anthropic、Hugging Face 联合国呼吁 AI 国际协调，特朗普政府明确反对\"全球治理\"",
+          "title_en": null,
+          "title_original": "OpenAI、Anthropic、Hugging Face 联合国呼吁 AI 国际协调，特朗普政府明确反对\"全球治理\"",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/31353",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-09-24T08:47:20.499906Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7368,
+      "importance": 0.7368,
+      "importance_score": 0.7368,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.8288,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-09-24T08:47:20.499906Z",
+      "latest_at": "2026-09-24T08:47:20.499906Z",
+      "primary_item": {
+        "id": "5e6c2275bad9593f80df3c1fce3bdde86367c703",
+        "title": "OpenAI、Anthropic、Hugging Face 联合国呼吁 AI 国际协调，特朗普政府明确反对\"全球治理\"",
+        "title_zh": "OpenAI、Anthropic、Hugging Face 联合国呼吁 AI 国际协调，特朗普政府明确反对\"全球治理\"",
+        "title_en": null,
+        "title_original": "OpenAI、Anthropic、Hugging Face 联合国呼吁 AI 国际协调，特朗普政府明确反对\"全球治理\"",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://www.aibase.com/news/31353",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-09-24T21:59:42.959271Z"
       }
     }
   ]
