@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-24T11:47:22.688500Z",
+  "generated_at": "2026-09-24T12:47:21.483232Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -48,15 +48,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.852,
-      "importance": 0.852,
-      "importance_score": 0.852,
+      "score": 0.85,
+      "importance": 0.85,
+      "importance_score": 0.85,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 1.0,
+        "recency": 0.9887,
         "story_heat": 0.0
       },
       "category": "official",
@@ -65,8 +65,8 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-09-24T11:47:22.688500Z",
-      "latest_at": "2026-09-24T11:47:22.688500Z",
+      "earliest_at": "2026-09-24T12:00:00Z",
+      "latest_at": "2026-09-24T12:00:00Z",
       "primary_item": {
         "id": "48e7e143951a807062656727fb44afb909b365f9",
         "title": "Ringg 的 AI 代理通过 OpenAI 解决了高达 65% 的客户呼叫 / Ringg’s AI agents resolve up to 65% of customer calls with OpenAI",
@@ -83,7 +83,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-24T12:05:27.926781Z"
+        "scored_at": "2026-09-24T12:55:02.838947Z"
       }
     },
     {
@@ -218,15 +218,15 @@
       ],
       "item_count": 4,
       "duplicate_count": 4,
-      "score": 0.848,
-      "importance": 0.848,
-      "importance_score": 0.848,
+      "score": 0.8459,
+      "importance": 0.8459,
+      "importance_score": 0.8459,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.84,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8303,
+        "recency": 0.8184,
         "story_heat": 0.75
       },
       "category": "multi_source",
@@ -253,7 +253,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-24T12:05:27.926781Z"
+        "scored_at": "2026-09-24T12:55:02.838947Z"
       }
     },
     {
@@ -359,15 +359,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.8471,
-      "importance": 0.8471,
-      "importance_score": 0.8471,
+      "score": 0.8451,
+      "importance": 0.8451,
+      "importance_score": 0.8451,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.79,
         "source_tier": 1.0,
         "ai_relevance": 1.0,
-        "recency": 0.7786,
+        "recency": 0.7674,
         "story_heat": 0.5
       },
       "category": "official",
@@ -394,7 +394,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-24T12:05:27.926781Z"
+        "scored_at": "2026-09-24T12:55:02.838947Z"
       }
     },
     {
@@ -557,15 +557,15 @@
       ],
       "item_count": 5,
       "duplicate_count": 5,
-      "score": 0.8447,
-      "importance": 0.8447,
-      "importance_score": 0.8447,
+      "score": 0.8426,
+      "importance": 0.8426,
+      "importance_score": 0.8426,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.77,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7892,
+        "recency": 0.7779,
         "story_heat": 1.0
       },
       "category": "multi_source",
@@ -592,7 +592,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-24T12:05:27.926781Z"
+        "scored_at": "2026-09-24T12:55:02.838947Z"
       }
     },
     {
@@ -669,15 +669,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.8311,
-      "importance": 0.8311,
-      "importance_score": 0.8311,
+      "score": 0.8292,
+      "importance": 0.8292,
+      "importance_score": 0.8292,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.7452,
+        "recency": 0.7345,
         "story_heat": 0.25
       },
       "category": "official",
@@ -705,7 +705,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-24T12:05:27.926781Z"
+        "scored_at": "2026-09-24T12:55:02.838947Z"
       }
     },
     {
@@ -753,15 +753,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8306,
-      "importance": 0.8306,
-      "importance_score": 0.8306,
+      "score": 0.8286,
+      "importance": 0.8286,
+      "importance_score": 0.8286,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 1.0,
-        "recency": 0.7812,
+        "recency": 0.77,
         "story_heat": 0.0
       },
       "category": "official",
@@ -788,7 +788,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-24T12:05:27.926781Z"
+        "scored_at": "2026-09-24T12:55:02.838947Z"
       }
     },
     {
@@ -836,15 +836,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8183,
-      "importance": 0.8183,
-      "importance_score": 0.8183,
+      "score": 0.8162,
+      "importance": 0.8162,
+      "importance_score": 0.8162,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.8128,
+        "recency": 0.8011,
         "story_heat": 0.0
       },
       "category": "official",
@@ -871,7 +871,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-24T12:05:27.926781Z"
+        "scored_at": "2026-09-24T12:55:02.838947Z"
       }
     },
     {
@@ -919,15 +919,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8122,
-      "importance": 0.8122,
-      "importance_score": 0.8122,
+      "score": 0.8102,
+      "importance": 0.8102,
+      "importance_score": 0.8102,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.779,
+        "recency": 0.7679,
         "story_heat": 0.0
       },
       "category": "official",
@@ -954,7 +954,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-24T12:05:27.926781Z"
+        "scored_at": "2026-09-24T12:55:02.838947Z"
       }
     },
     {
@@ -1002,15 +1002,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8032,
-      "importance": 0.8032,
-      "importance_score": 0.8032,
+      "score": 0.8012,
+      "importance": 0.8012,
+      "importance_score": 0.8012,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.7735,
+        "recency": 0.7624,
         "story_heat": 0.0
       },
       "category": "official",
@@ -1037,7 +1037,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-24T12:05:27.926781Z"
+        "scored_at": "2026-09-24T12:55:02.838947Z"
       }
     },
     {
@@ -1085,15 +1085,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8008,
-      "importance": 0.8008,
-      "importance_score": 0.8008,
+      "score": 0.7983,
+      "importance": 0.7983,
+      "importance_score": 0.7983,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.85,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.968,
+        "recency": 0.9541,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1119,90 +1119,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-24T12:05:27.926781Z"
-      }
-    },
-    {
-      "story_id": "story_cff02d2a853b",
-      "title": "Harvey 通过 GPT-6 Astra 将法律背景转化为更强大的草案 / Harvey turns legal context into stronger drafts with GPT-6 Astra",
-      "url": "https://openai.com/index/harvey-from-context-to-confidence-with-astra",
-      "primary_url": "https://openai.com/index/harvey-from-context-to-confidence-with-astra",
-      "source": "OpenAI News",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "124ceb395fbac94e1c78997a329ab615056ac032",
-          "title": "Harvey 通过 GPT-6 Astra 将法律背景转化为更强大的草案 / Harvey turns legal context into stronger drafts with GPT-6 Astra",
-          "title_zh": "Harvey 通过 GPT-6 Astra 将法律背景转化为更强大的草案",
-          "title_en": "Harvey turns legal context into stronger drafts with GPT-6 Astra",
-          "title_original": "Harvey turns legal context into stronger drafts with GPT-6 Astra",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://openai.com/index/harvey-from-context-to-confidence-with-astra",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-09-23T12:00:00Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "OpenAI News"
-      ],
-      "items": [
-        {
-          "id": "124ceb395fbac94e1c78997a329ab615056ac032",
-          "title": "Harvey 通过 GPT-6 Astra 将法律背景转化为更强大的草案 / Harvey turns legal context into stronger drafts with GPT-6 Astra",
-          "title_zh": "Harvey 通过 GPT-6 Astra 将法律背景转化为更强大的草案",
-          "title_en": "Harvey turns legal context into stronger drafts with GPT-6 Astra",
-          "title_original": "Harvey turns legal context into stronger drafts with GPT-6 Astra",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://openai.com/index/harvey-from-context-to-confidence-with-astra",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-09-23T12:00:00Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8137,
-      "importance": 0.8137,
-      "importance_score": 0.8137,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.98,
-        "recency": 0.7093,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-23T12:00:00Z",
-      "latest_at": "2026-09-23T12:00:00Z",
-      "primary_item": {
-        "id": "124ceb395fbac94e1c78997a329ab615056ac032",
-        "title": "Harvey 通过 GPT-6 Astra 将法律背景转化为更强大的草案 / Harvey turns legal context into stronger drafts with GPT-6 Astra",
-        "title_zh": "Harvey 通过 GPT-6 Astra 将法律背景转化为更强大的草案",
-        "title_en": "Harvey turns legal context into stronger drafts with GPT-6 Astra",
-        "title_original": "Harvey turns legal context into stronger drafts with GPT-6 Astra",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://openai.com/index/harvey-from-context-to-confidence-with-astra",
-        "source": "OpenAI News",
-        "source_name": "Official AI Updates"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-09-24T12:05:27.926781Z"
+        "scored_at": "2026-09-24T12:55:02.838947Z"
       }
     },
     {
@@ -1250,15 +1167,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8113,
-      "importance": 0.8113,
-      "importance_score": 0.8113,
+      "score": 0.8094,
+      "importance": 0.8094,
+      "importance_score": 0.8094,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.94,
-        "recency": 0.7408,
+        "recency": 0.7302,
         "story_heat": 0.0
       },
       "category": "official",
@@ -1285,7 +1202,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-24T12:05:27.926781Z"
+        "scored_at": "2026-09-24T12:55:02.838947Z"
       }
     },
     {
@@ -1333,15 +1250,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8101,
-      "importance": 0.8101,
-      "importance_score": 0.8101,
+      "score": 0.8082,
+      "importance": 0.8082,
+      "importance_score": 0.8082,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.7225,
+        "recency": 0.7122,
         "story_heat": 0.0
       },
       "category": "official",
@@ -1368,7 +1285,90 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-24T12:05:27.926781Z"
+        "scored_at": "2026-09-24T12:55:02.838947Z"
+      }
+    },
+    {
+      "story_id": "story_bcc37401aaaf",
+      "title": "Two years of OpenAI Academy",
+      "url": "https://openai.com/index/two-years-of-openai-academy",
+      "primary_url": "https://openai.com/index/two-years-of-openai-academy",
+      "source": "OpenAI News",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "2ceac4a6f0349b18c44d863adb2b63a09f9e9cbb",
+          "title": "Two years of OpenAI Academy",
+          "title_zh": null,
+          "title_en": "Two years of OpenAI Academy",
+          "title_original": "Two years of OpenAI Academy",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://openai.com/index/two-years-of-openai-academy",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-09-23T16:00:00Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "OpenAI News"
+      ],
+      "items": [
+        {
+          "id": "2ceac4a6f0349b18c44d863adb2b63a09f9e9cbb",
+          "title": "Two years of OpenAI Academy",
+          "title_zh": null,
+          "title_en": "Two years of OpenAI Academy",
+          "title_original": "Two years of OpenAI Academy",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://openai.com/index/two-years-of-openai-academy",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-09-23T16:00:00Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8053,
+      "importance": 0.8053,
+      "importance_score": 0.8053,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.91,
+        "recency": 0.7407,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-23T16:00:00Z",
+      "latest_at": "2026-09-23T16:00:00Z",
+      "primary_item": {
+        "id": "2ceac4a6f0349b18c44d863adb2b63a09f9e9cbb",
+        "title": "Two years of OpenAI Academy",
+        "title_zh": null,
+        "title_en": "Two years of OpenAI Academy",
+        "title_original": "Two years of OpenAI Academy",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://openai.com/index/two-years-of-openai-academy",
+        "source": "OpenAI News",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-09-24T12:55:02.838947Z"
       }
     },
     {
@@ -1416,15 +1416,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7742,
-      "importance": 0.7742,
-      "importance_score": 0.7742,
+      "score": 0.7719,
+      "importance": 0.7719,
+      "importance_score": 0.7719,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.66,
         "source_tier": 1.0,
         "ai_relevance": 1.0,
-        "recency": 0.8677,
+        "recency": 0.8552,
         "story_heat": 0.0
       },
       "category": "official",
@@ -1450,7 +1450,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-24T12:05:27.926781Z"
+        "scored_at": "2026-09-24T12:55:02.838947Z"
       }
     },
     {
@@ -1498,15 +1498,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7993,
-      "importance": 0.7993,
-      "importance_score": 0.7993,
+      "score": 0.7973,
+      "importance": 0.7973,
+      "importance_score": 0.7973,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.7516,
+        "recency": 0.7408,
         "story_heat": 0.0
       },
       "category": "official",
@@ -1533,7 +1533,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-24T12:05:27.926781Z"
+        "scored_at": "2026-09-24T12:55:02.838947Z"
       }
     },
     {
@@ -1581,15 +1581,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7675,
-      "importance": 0.7675,
-      "importance_score": 0.7675,
+      "score": 0.7656,
+      "importance": 0.7656,
+      "importance_score": 0.7656,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.7,
         "source_tier": 1.0,
         "ai_relevance": 1.0,
-        "recency": 0.764,
+        "recency": 0.7531,
         "story_heat": 0.0
       },
       "category": "official",
@@ -1615,7 +1615,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-24T12:05:27.926781Z"
+        "scored_at": "2026-09-24T12:55:02.838947Z"
       }
     },
     {
@@ -1663,15 +1663,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7666,
-      "importance": 0.7666,
-      "importance_score": 0.7666,
+      "score": 0.7644,
+      "importance": 0.7644,
+      "importance_score": 0.7644,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.79,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8779,
+        "recency": 0.8653,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1697,7 +1697,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-24T12:05:27.926781Z"
+        "scored_at": "2026-09-24T12:55:02.838947Z"
       }
     },
     {
@@ -1745,15 +1745,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.765,
-      "importance": 0.765,
-      "importance_score": 0.765,
+      "score": 0.7625,
+      "importance": 0.7625,
+      "importance_score": 0.7625,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9857,
+        "recency": 0.9715,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1779,7 +1779,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-24T12:05:27.926781Z"
+        "scored_at": "2026-09-24T12:55:02.838947Z"
       }
     },
     {
@@ -1827,15 +1827,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7601,
-      "importance": 0.7601,
-      "importance_score": 0.7601,
+      "score": 0.7579,
+      "importance": 0.7579,
+      "importance_score": 0.7579,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.78,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8582,
+        "recency": 0.8459,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1861,7 +1861,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-24T12:05:27.926781Z"
+        "scored_at": "2026-09-24T12:55:02.838947Z"
       }
     },
     {
@@ -1909,15 +1909,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7554,
-      "importance": 0.7554,
-      "importance_score": 0.7554,
+      "score": 0.7534,
+      "importance": 0.7534,
+      "importance_score": 0.7534,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.81,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7822,
+        "recency": 0.771,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1943,7 +1943,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-24T12:05:27.926781Z"
+        "scored_at": "2026-09-24T12:55:02.838947Z"
       }
     }
   ]
