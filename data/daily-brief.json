@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-24T03:47:18.070192Z",
+  "generated_at": "2026-09-24T04:47:17.188650Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -106,15 +106,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.8726,
-      "importance": 0.8726,
-      "importance_score": 0.8726,
+      "score": 0.8704,
+      "importance": 0.8704,
+      "importance_score": 0.8704,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.8364,
+        "recency": 0.8245,
         "story_heat": 0.5
       },
       "category": "official",
@@ -142,7 +142,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-24T04:19:02.249882Z"
+        "scored_at": "2026-09-24T05:19:04.431112Z"
       }
     },
     {
@@ -277,15 +277,15 @@
       ],
       "item_count": 4,
       "duplicate_count": 4,
-      "score": 0.8664,
-      "importance": 0.8664,
-      "importance_score": 0.8664,
+      "score": 0.8639,
+      "importance": 0.8639,
+      "importance_score": 0.8639,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.84,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.932,
+        "recency": 0.9186,
         "story_heat": 0.75
       },
       "category": "multi_source",
@@ -312,7 +312,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-24T04:19:02.249882Z"
+        "scored_at": "2026-09-24T05:19:04.431112Z"
       }
     },
     {
@@ -418,15 +418,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.8643,
-      "importance": 0.8643,
-      "importance_score": 0.8643,
+      "score": 0.8621,
+      "importance": 0.8621,
+      "importance_score": 0.8621,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.79,
         "source_tier": 1.0,
         "ai_relevance": 1.0,
-        "recency": 0.8739,
+        "recency": 0.8614,
         "story_heat": 0.5
       },
       "category": "official",
@@ -453,7 +453,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-24T04:19:02.249882Z"
+        "scored_at": "2026-09-24T05:19:04.431112Z"
       }
     },
     {
@@ -616,15 +616,15 @@
       ],
       "item_count": 5,
       "duplicate_count": 5,
-      "score": 0.8621,
-      "importance": 0.8621,
-      "importance_score": 0.8621,
+      "score": 0.8598,
+      "importance": 0.8598,
+      "importance_score": 0.8598,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.77,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8858,
+        "recency": 0.8731,
         "story_heat": 1.0
       },
       "category": "multi_source",
@@ -651,7 +651,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-24T04:19:02.249882Z"
+        "scored_at": "2026-09-24T05:19:04.431112Z"
       }
     },
     {
@@ -716,8 +716,8 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-09-24T03:47:18.070192Z",
-      "latest_at": "2026-09-24T03:47:18.070192Z",
+      "earliest_at": "2026-09-24T04:47:17.188650Z",
+      "latest_at": "2026-09-24T04:47:17.188650Z",
       "primary_item": {
         "id": "48e7e143951a807062656727fb44afb909b365f9",
         "title": "Ringg 的 AI 代理通过 OpenAI 解决了高达 65% 的客户呼叫 / Ringg’s AI agents resolve up to 65% of customer calls with OpenAI",
@@ -734,7 +734,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-24T04:19:02.249882Z"
+        "scored_at": "2026-09-24T05:19:04.431112Z"
       }
     },
     {
@@ -782,15 +782,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8478,
-      "importance": 0.8478,
-      "importance_score": 0.8478,
+      "score": 0.8456,
+      "importance": 0.8456,
+      "importance_score": 0.8456,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 1.0,
-        "recency": 0.8769,
+        "recency": 0.8644,
         "story_heat": 0.0
       },
       "category": "official",
@@ -817,7 +817,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-24T04:19:02.249882Z"
+        "scored_at": "2026-09-24T05:19:04.431112Z"
       }
     },
     {
@@ -865,15 +865,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8362,
-      "importance": 0.8362,
-      "importance_score": 0.8362,
+      "score": 0.8339,
+      "importance": 0.8339,
+      "importance_score": 0.8339,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.9123,
+        "recency": 0.8992,
         "story_heat": 0.0
       },
       "category": "official",
@@ -900,7 +900,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-24T04:19:02.249882Z"
+        "scored_at": "2026-09-24T05:19:04.431112Z"
       }
     },
     {
@@ -948,15 +948,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8294,
-      "importance": 0.8294,
-      "importance_score": 0.8294,
+      "score": 0.8271,
+      "importance": 0.8271,
+      "importance_score": 0.8271,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.8744,
+        "recency": 0.8619,
         "story_heat": 0.0
       },
       "category": "official",
@@ -983,7 +983,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-24T04:19:02.249882Z"
+        "scored_at": "2026-09-24T05:19:04.431112Z"
       }
     },
     {
@@ -1031,15 +1031,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8203,
-      "importance": 0.8203,
-      "importance_score": 0.8203,
+      "score": 0.818,
+      "importance": 0.818,
+      "importance_score": 0.818,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.8682,
+        "recency": 0.8557,
         "story_heat": 0.0
       },
       "category": "official",
@@ -1066,7 +1066,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-24T04:19:02.249882Z"
+        "scored_at": "2026-09-24T05:19:04.431112Z"
       }
     },
     {
@@ -1114,15 +1114,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8293,
-      "importance": 0.8293,
-      "importance_score": 0.8293,
+      "score": 0.8272,
+      "importance": 0.8272,
+      "importance_score": 0.8272,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.98,
-        "recency": 0.7961,
+        "recency": 0.7847,
         "story_heat": 0.0
       },
       "category": "official",
@@ -1149,7 +1149,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-24T04:19:02.249882Z"
+        "scored_at": "2026-09-24T05:19:04.431112Z"
       }
     },
     {
@@ -1197,15 +1197,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8277,
-      "importance": 0.8277,
-      "importance_score": 0.8277,
+      "score": 0.8255,
+      "importance": 0.8255,
+      "importance_score": 0.8255,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.94,
-        "recency": 0.8316,
+        "recency": 0.8196,
         "story_heat": 0.0
       },
       "category": "official",
@@ -1232,7 +1232,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-24T04:19:02.249882Z"
+        "scored_at": "2026-09-24T05:19:04.431112Z"
       }
     },
     {
@@ -1280,15 +1280,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.826,
-      "importance": 0.826,
-      "importance_score": 0.826,
+      "score": 0.8239,
+      "importance": 0.8239,
+      "importance_score": 0.8239,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.811,
+        "recency": 0.7994,
         "story_heat": 0.0
       },
       "category": "official",
@@ -1315,7 +1315,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-24T04:19:02.249882Z"
+        "scored_at": "2026-09-24T05:19:04.431112Z"
       }
     },
     {
@@ -1363,15 +1363,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7933,
-      "importance": 0.7933,
-      "importance_score": 0.7933,
+      "score": 0.7908,
+      "importance": 0.7908,
+      "importance_score": 0.7908,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.66,
         "source_tier": 1.0,
         "ai_relevance": 1.0,
-        "recency": 0.9739,
+        "recency": 0.96,
         "story_heat": 0.0
       },
       "category": "official",
@@ -1397,89 +1397,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-24T04:19:02.249882Z"
-      }
-    },
-    {
-      "story_id": "story_0bfc576b3e86",
-      "title": "Claude Opus 5.5 登顶 Arena Code Arena： WebDev 榜首，得 1818 分 / Big news： Claude Opus 5.5 （Max） by @AnthropicAI just topped #1 in Code Arena： WebDev with 1818 pts a…",
-      "url": "https://x.com/arena/status/2102952767614779403",
-      "primary_url": "https://x.com/arena/status/2102952767614779403",
-      "source": "X：Arena (@arena)",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "df8bcf0056acf592ea89b56771cc14230d6278f4",
-          "title": "Claude Opus 5.5 登顶 Arena Code Arena： WebDev 榜首，得 1818 分 / Big news： Claude Opus 5.5 （Max） by @AnthropicAI just topped #1 in Code Arena： WebDev with 1818 pts a…",
-          "title_zh": "Claude Opus 5.5 登顶 Arena Code Arena： WebDev 榜首，得 1818 分",
-          "title_en": "Big news： Claude Opus 5.5 （Max） by @AnthropicAI just topped #1 in Code Arena： WebDev with 1818 pts a…",
-          "title_original": "Big news： Claude Opus 5.5 （Max） by @AnthropicAI just topped #1 in Code Arena： WebDev with 1818 pts a…",
-          "summary": "Arena 宣布 Claude Opus 5.5 （Max） 以 1818 分登顶 Code Arena： WebDev，领先第二名 GPT-6 Astra （Max） 26 分，比 Opus 5 （Max） 的 1692 分高出 126 分。",
-          "recommend_reason_zh": null,
-          "url": "https://x.com/arena/status/2102952767614779403",
-          "source": "X：Arena (@arena)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-24T02:46:25Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "X：Arena (@arena)"
-      ],
-      "items": [
-        {
-          "id": "df8bcf0056acf592ea89b56771cc14230d6278f4",
-          "title": "Claude Opus 5.5 登顶 Arena Code Arena： WebDev 榜首，得 1818 分 / Big news： Claude Opus 5.5 （Max） by @AnthropicAI just topped #1 in Code Arena： WebDev with 1818 pts a…",
-          "title_zh": "Claude Opus 5.5 登顶 Arena Code Arena： WebDev 榜首，得 1818 分",
-          "title_en": "Big news： Claude Opus 5.5 （Max） by @AnthropicAI just topped #1 in Code Arena： WebDev with 1818 pts a…",
-          "title_original": "Big news： Claude Opus 5.5 （Max） by @AnthropicAI just topped #1 in Code Arena： WebDev with 1818 pts a…",
-          "summary": "Arena 宣布 Claude Opus 5.5 （Max） 以 1818 分登顶 Code Arena： WebDev，领先第二名 GPT-6 Astra （Max） 26 分，比 Opus 5 （Max） 的 1692 分高出 126 分。",
-          "recommend_reason_zh": null,
-          "url": "https://x.com/arena/status/2102952767614779403",
-          "source": "X：Arena (@arena)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-24T02:46:25Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.786,
-      "importance": 0.786,
-      "importance_score": 0.786,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.79,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.9855,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-24T02:46:25Z",
-      "latest_at": "2026-09-24T02:46:25Z",
-      "primary_item": {
-        "id": "df8bcf0056acf592ea89b56771cc14230d6278f4",
-        "title": "Claude Opus 5.5 登顶 Arena Code Arena： WebDev 榜首，得 1818 分 / Big news： Claude Opus 5.5 （Max） by @AnthropicAI just topped #1 in Code Arena： WebDev with 1818 pts a…",
-        "title_zh": "Claude Opus 5.5 登顶 Arena Code Arena： WebDev 榜首，得 1818 分",
-        "title_en": "Big news： Claude Opus 5.5 （Max） by @AnthropicAI just topped #1 in Code Arena： WebDev with 1818 pts a…",
-        "title_original": "Big news： Claude Opus 5.5 （Max） by @AnthropicAI just topped #1 in Code Arena： WebDev with 1818 pts a…",
-        "summary": "Arena 宣布 Claude Opus 5.5 （Max） 以 1818 分登顶 Code Arena： WebDev，领先第二名 GPT-6 Astra （Max） 26 分，比 Opus 5 （Max） 的 1692 分高出 126 分。",
-        "recommend_reason_zh": null,
-        "url": "https://x.com/arena/status/2102952767614779403",
-        "source": "X：Arena (@arena)",
-        "source_name": "AI HOT"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-09-24T04:19:02.249882Z"
+        "scored_at": "2026-09-24T05:19:04.431112Z"
       }
     },
     {
@@ -1527,15 +1445,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8159,
-      "importance": 0.8159,
-      "importance_score": 0.8159,
+      "score": 0.8137,
+      "importance": 0.8137,
+      "importance_score": 0.8137,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.8437,
+        "recency": 0.8316,
         "story_heat": 0.0
       },
       "category": "official",
@@ -1562,7 +1480,89 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-24T04:19:02.249882Z"
+        "scored_at": "2026-09-24T05:19:04.431112Z"
+      }
+    },
+    {
+      "story_id": "story_0bfc576b3e86",
+      "title": "Claude Opus 5.5 登顶 Arena Code Arena： WebDev 榜首，得 1818 分 / Big news： Claude Opus 5.5 （Max） by @AnthropicAI just topped #1 in Code Arena： WebDev with 1818 pts a…",
+      "url": "https://x.com/arena/status/2102952767614779403",
+      "primary_url": "https://x.com/arena/status/2102952767614779403",
+      "source": "X：Arena (@arena)",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "df8bcf0056acf592ea89b56771cc14230d6278f4",
+          "title": "Claude Opus 5.5 登顶 Arena Code Arena： WebDev 榜首，得 1818 分 / Big news： Claude Opus 5.5 （Max） by @AnthropicAI just topped #1 in Code Arena： WebDev with 1818 pts a…",
+          "title_zh": "Claude Opus 5.5 登顶 Arena Code Arena： WebDev 榜首，得 1818 分",
+          "title_en": "Big news： Claude Opus 5.5 （Max） by @AnthropicAI just topped #1 in Code Arena： WebDev with 1818 pts a…",
+          "title_original": "Big news： Claude Opus 5.5 （Max） by @AnthropicAI just topped #1 in Code Arena： WebDev with 1818 pts a…",
+          "summary": "Arena 宣布 Claude Opus 5.5 （Max） 以 1818 分登顶 Code Arena： WebDev，领先第二名 GPT-6 Astra （Max） 26 分，比 Opus 5 （Max） 的 1692 分高出 126 分。",
+          "recommend_reason_zh": null,
+          "url": "https://x.com/arena/status/2102952767614779403",
+          "source": "X：Arena (@arena)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-24T02:46:25Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "X：Arena (@arena)"
+      ],
+      "items": [
+        {
+          "id": "df8bcf0056acf592ea89b56771cc14230d6278f4",
+          "title": "Claude Opus 5.5 登顶 Arena Code Arena： WebDev 榜首，得 1818 分 / Big news： Claude Opus 5.5 （Max） by @AnthropicAI just topped #1 in Code Arena： WebDev with 1818 pts a…",
+          "title_zh": "Claude Opus 5.5 登顶 Arena Code Arena： WebDev 榜首，得 1818 分",
+          "title_en": "Big news： Claude Opus 5.5 （Max） by @AnthropicAI just topped #1 in Code Arena： WebDev with 1818 pts a…",
+          "title_original": "Big news： Claude Opus 5.5 （Max） by @AnthropicAI just topped #1 in Code Arena： WebDev with 1818 pts a…",
+          "summary": "Arena 宣布 Claude Opus 5.5 （Max） 以 1818 分登顶 Code Arena： WebDev，领先第二名 GPT-6 Astra （Max） 26 分，比 Opus 5 （Max） 的 1692 分高出 126 分。",
+          "recommend_reason_zh": null,
+          "url": "https://x.com/arena/status/2102952767614779403",
+          "source": "X：Arena (@arena)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-24T02:46:25Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7834,
+      "importance": 0.7834,
+      "importance_score": 0.7834,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.79,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9713,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-24T02:46:25Z",
+      "latest_at": "2026-09-24T02:46:25Z",
+      "primary_item": {
+        "id": "df8bcf0056acf592ea89b56771cc14230d6278f4",
+        "title": "Claude Opus 5.5 登顶 Arena Code Arena： WebDev 榜首，得 1818 分 / Big news： Claude Opus 5.5 （Max） by @AnthropicAI just topped #1 in Code Arena： WebDev with 1818 pts a…",
+        "title_zh": "Claude Opus 5.5 登顶 Arena Code Arena： WebDev 榜首，得 1818 分",
+        "title_en": "Big news： Claude Opus 5.5 （Max） by @AnthropicAI just topped #1 in Code Arena： WebDev with 1818 pts a…",
+        "title_original": "Big news： Claude Opus 5.5 （Max） by @AnthropicAI just topped #1 in Code Arena： WebDev with 1818 pts a…",
+        "summary": "Arena 宣布 Claude Opus 5.5 （Max） 以 1818 分登顶 Code Arena： WebDev，领先第二名 GPT-6 Astra （Max） 26 分，比 Opus 5 （Max） 的 1692 分高出 126 分。",
+        "recommend_reason_zh": null,
+        "url": "https://x.com/arena/status/2102952767614779403",
+        "source": "X：Arena (@arena)",
+        "source_name": "AI HOT"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-09-24T05:19:04.431112Z"
       }
     },
     {
@@ -1610,15 +1610,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7844,
-      "importance": 0.7844,
-      "importance_score": 0.7844,
+      "score": 0.7822,
+      "importance": 0.7822,
+      "importance_score": 0.7822,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.7,
         "source_tier": 1.0,
         "ai_relevance": 1.0,
-        "recency": 0.8576,
+        "recency": 0.8453,
         "story_heat": 0.0
       },
       "category": "official",
@@ -1644,7 +1644,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-24T04:19:02.249882Z"
+        "scored_at": "2026-09-24T05:19:04.431112Z"
       }
     },
     {
@@ -1692,15 +1692,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.779,
-      "importance": 0.779,
-      "importance_score": 0.779,
+      "score": 0.7765,
+      "importance": 0.7765,
+      "importance_score": 0.7765,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.78,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9634,
+        "recency": 0.9496,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1726,7 +1726,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-24T04:19:02.249882Z"
+        "scored_at": "2026-09-24T05:19:04.431112Z"
       }
     },
     {
@@ -1774,15 +1774,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.773,
-      "importance": 0.773,
-      "importance_score": 0.773,
+      "score": 0.7706,
+      "importance": 0.7706,
+      "importance_score": 0.7706,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.77,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9468,
+        "recency": 0.9332,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1808,7 +1808,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-24T04:19:02.249882Z"
+        "scored_at": "2026-09-24T05:19:04.431112Z"
       }
     },
     {
@@ -1856,15 +1856,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7726,
-      "importance": 0.7726,
-      "importance_score": 0.7726,
+      "score": 0.7704,
+      "importance": 0.7704,
+      "importance_score": 0.7704,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.81,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.878,
+        "recency": 0.8654,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1890,7 +1890,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-24T04:19:02.249882Z"
+        "scored_at": "2026-09-24T05:19:04.431112Z"
       }
     },
     {
@@ -1938,15 +1938,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7698,
-      "importance": 0.7698,
-      "importance_score": 0.7698,
+      "score": 0.7675,
+      "importance": 0.7675,
+      "importance_score": 0.7675,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.78,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9123,
+        "recency": 0.8992,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1972,7 +1972,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-24T04:19:02.249882Z"
+        "scored_at": "2026-09-24T05:19:04.431112Z"
       }
     }
   ]
