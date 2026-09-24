@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-24T05:47:21.347763Z",
+  "generated_at": "2026-09-24T06:47:27.298986Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -106,15 +106,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.8683,
-      "importance": 0.8683,
-      "importance_score": 0.8683,
+      "score": 0.8662,
+      "importance": 0.8662,
+      "importance_score": 0.8662,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.8126,
+        "recency": 0.801,
         "story_heat": 0.5
       },
       "category": "official",
@@ -142,7 +142,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-24T06:19:37.139811Z"
+        "scored_at": "2026-09-24T07:21:44.823622Z"
       }
     },
     {
@@ -277,15 +277,15 @@
       ],
       "item_count": 4,
       "duplicate_count": 4,
-      "score": 0.8616,
-      "importance": 0.8616,
-      "importance_score": 0.8616,
+      "score": 0.8592,
+      "importance": 0.8592,
+      "importance_score": 0.8592,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.84,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9054,
+        "recency": 0.8924,
         "story_heat": 0.75
       },
       "category": "multi_source",
@@ -312,7 +312,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-24T06:19:37.139811Z"
+        "scored_at": "2026-09-24T07:21:44.823622Z"
       }
     },
     {
@@ -418,15 +418,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.8598,
-      "importance": 0.8598,
-      "importance_score": 0.8598,
+      "score": 0.8576,
+      "importance": 0.8576,
+      "importance_score": 0.8576,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.79,
         "source_tier": 1.0,
         "ai_relevance": 1.0,
-        "recency": 0.849,
+        "recency": 0.8369,
         "story_heat": 0.5
       },
       "category": "official",
@@ -453,7 +453,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-24T06:19:37.139811Z"
+        "scored_at": "2026-09-24T07:21:44.823622Z"
       }
     },
     {
@@ -616,15 +616,15 @@
       ],
       "item_count": 5,
       "duplicate_count": 5,
-      "score": 0.8575,
-      "importance": 0.8575,
-      "importance_score": 0.8575,
+      "score": 0.8553,
+      "importance": 0.8553,
+      "importance_score": 0.8553,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.77,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8606,
+        "recency": 0.8483,
         "story_heat": 1.0
       },
       "category": "multi_source",
@@ -651,7 +651,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-24T06:19:37.139811Z"
+        "scored_at": "2026-09-24T07:21:44.823622Z"
       }
     },
     {
@@ -716,8 +716,8 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-09-24T05:47:21.347763Z",
-      "latest_at": "2026-09-24T05:47:21.347763Z",
+      "earliest_at": "2026-09-24T06:47:27.298986Z",
+      "latest_at": "2026-09-24T06:47:27.298986Z",
       "primary_item": {
         "id": "48e7e143951a807062656727fb44afb909b365f9",
         "title": "Ringg 的 AI 代理通过 OpenAI 解决了高达 65% 的客户呼叫 / Ringg’s AI agents resolve up to 65% of customer calls with OpenAI",
@@ -734,7 +734,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-24T06:19:37.139811Z"
+        "scored_at": "2026-09-24T07:21:44.823622Z"
       }
     },
     {
@@ -782,15 +782,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8434,
-      "importance": 0.8434,
-      "importance_score": 0.8434,
+      "score": 0.8412,
+      "importance": 0.8412,
+      "importance_score": 0.8412,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 1.0,
-        "recency": 0.852,
+        "recency": 0.8397,
         "story_heat": 0.0
       },
       "category": "official",
@@ -817,7 +817,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-24T06:19:37.139811Z"
+        "scored_at": "2026-09-24T07:21:44.823622Z"
       }
     },
     {
@@ -865,15 +865,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8315,
-      "importance": 0.8315,
-      "importance_score": 0.8315,
+      "score": 0.8292,
+      "importance": 0.8292,
+      "importance_score": 0.8292,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.8863,
+        "recency": 0.8736,
         "story_heat": 0.0
       },
       "category": "official",
@@ -900,7 +900,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-24T06:19:37.139811Z"
+        "scored_at": "2026-09-24T07:21:44.823622Z"
       }
     },
     {
@@ -948,15 +948,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8249,
-      "importance": 0.8249,
-      "importance_score": 0.8249,
+      "score": 0.8227,
+      "importance": 0.8227,
+      "importance_score": 0.8227,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.8495,
+        "recency": 0.8373,
         "story_heat": 0.0
       },
       "category": "official",
@@ -983,7 +983,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-24T06:19:37.139811Z"
+        "scored_at": "2026-09-24T07:21:44.823622Z"
       }
     },
     {
@@ -1031,15 +1031,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8158,
-      "importance": 0.8158,
-      "importance_score": 0.8158,
+      "score": 0.8136,
+      "importance": 0.8136,
+      "importance_score": 0.8136,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.8435,
+        "recency": 0.8313,
         "story_heat": 0.0
       },
       "category": "official",
@@ -1066,7 +1066,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-24T06:19:37.139811Z"
+        "scored_at": "2026-09-24T07:21:44.823622Z"
       }
     },
     {
@@ -1114,15 +1114,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8252,
-      "importance": 0.8252,
-      "importance_score": 0.8252,
+      "score": 0.8232,
+      "importance": 0.8232,
+      "importance_score": 0.8232,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.98,
-        "recency": 0.7735,
+        "recency": 0.7623,
         "story_heat": 0.0
       },
       "category": "official",
@@ -1149,7 +1149,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-24T06:19:37.139811Z"
+        "scored_at": "2026-09-24T07:21:44.823622Z"
       }
     },
     {
@@ -1197,15 +1197,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8234,
-      "importance": 0.8234,
-      "importance_score": 0.8234,
+      "score": 0.8213,
+      "importance": 0.8213,
+      "importance_score": 0.8213,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.94,
-        "recency": 0.8079,
+        "recency": 0.7963,
         "story_heat": 0.0
       },
       "category": "official",
@@ -1232,7 +1232,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-24T06:19:37.139811Z"
+        "scored_at": "2026-09-24T07:21:44.823622Z"
       }
     },
     {
@@ -1280,15 +1280,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8218,
-      "importance": 0.8218,
-      "importance_score": 0.8218,
+      "score": 0.8198,
+      "importance": 0.8198,
+      "importance_score": 0.8198,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.7879,
+        "recency": 0.7766,
         "story_heat": 0.0
       },
       "category": "official",
@@ -1315,7 +1315,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-24T06:19:37.139811Z"
+        "scored_at": "2026-09-24T07:21:44.823622Z"
       }
     },
     {
@@ -1363,15 +1363,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7883,
-      "importance": 0.7883,
-      "importance_score": 0.7883,
+      "score": 0.7859,
+      "importance": 0.7859,
+      "importance_score": 0.7859,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.66,
         "source_tier": 1.0,
         "ai_relevance": 1.0,
-        "recency": 0.9462,
+        "recency": 0.9326,
         "story_heat": 0.0
       },
       "category": "official",
@@ -1397,7 +1397,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-24T06:19:37.139811Z"
+        "scored_at": "2026-09-24T07:21:44.823622Z"
       }
     },
     {
@@ -1445,15 +1445,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8115,
-      "importance": 0.8115,
-      "importance_score": 0.8115,
+      "score": 0.8094,
+      "importance": 0.8094,
+      "importance_score": 0.8094,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.8196,
+        "recency": 0.8079,
         "story_heat": 0.0
       },
       "category": "official",
@@ -1480,7 +1480,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-24T06:19:37.139811Z"
+        "scored_at": "2026-09-24T07:21:44.823622Z"
       }
     },
     {
@@ -1528,15 +1528,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7809,
-      "importance": 0.7809,
-      "importance_score": 0.7809,
+      "score": 0.7785,
+      "importance": 0.7785,
+      "importance_score": 0.7785,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.79,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9574,
+        "recency": 0.9436,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1562,7 +1562,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-24T06:19:37.139811Z"
+        "scored_at": "2026-09-24T07:21:44.823622Z"
       }
     },
     {
@@ -1610,15 +1610,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.78,
-      "importance": 0.78,
-      "importance_score": 0.78,
+      "score": 0.7778,
+      "importance": 0.7778,
+      "importance_score": 0.7778,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.7,
         "source_tier": 1.0,
         "ai_relevance": 1.0,
-        "recency": 0.8332,
+        "recency": 0.8212,
         "story_heat": 0.0
       },
       "category": "official",
@@ -1644,7 +1644,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-24T06:19:37.139811Z"
+        "scored_at": "2026-09-24T07:21:44.823622Z"
       }
     },
     {
@@ -1692,15 +1692,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7741,
-      "importance": 0.7741,
-      "importance_score": 0.7741,
+      "score": 0.7716,
+      "importance": 0.7716,
+      "importance_score": 0.7716,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.78,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9359,
+        "recency": 0.9225,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1726,63 +1726,63 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-24T06:19:37.139811Z"
+        "scored_at": "2026-09-24T07:21:44.823622Z"
       }
     },
     {
-      "story_id": "story_c47cc5cebc25",
-      "title": "OpenRouter 解析 Kimi K3：开源权重与许可证条款，以及如何调用 / Is Kimi K3 Open Source？ Weights， License， and How to Call It",
-      "url": "https://openrouter.ai/blog/insights/kimi-k3-open-source",
-      "primary_url": "https://openrouter.ai/blog/insights/kimi-k3-open-source",
-      "source": "OpenRouter：Announcements（RSS）",
-      "source_name": "AI HOT",
+      "story_id": "story_24868f144755",
+      "title": "Meta Connect 发布会：Muse 全面接入 AI 眼镜，小扎要让数十亿人用上超级智能",
+      "url": "https://www.aibase.com/news/31346",
+      "primary_url": "https://www.aibase.com/news/31346",
+      "source": "AIbase",
+      "source_name": "AIbase",
       "sources": [
         {
-          "id": "576a54fdbc1cf3414d61535bc441b1f3ae8edc2d",
-          "title": "OpenRouter 解析 Kimi K3：开源权重与许可证条款，以及如何调用 / Is Kimi K3 Open Source？ Weights， License， and How to Call It",
-          "title_zh": "OpenRouter 解析 Kimi K3：开源权重与许可证条款，以及如何调用",
-          "title_en": "Is Kimi K3 Open Source？ Weights， License， and How to Call It",
-          "title_original": "Is Kimi K3 Open Source？ Weights， License， and How to Call It",
-          "summary": "OpenRouter 撰文说明 Kimi K3 是开放权重而非开源模型，Moonshot AI 以自定义 Kimi K3 License 在 Hugging Face 发布 moonshotai/Kimi-K3。",
+          "id": "802526543c016938251409bbf0b4e02c560e55ab",
+          "title": "Meta Connect 发布会：Muse 全面接入 AI 眼镜，小扎要让数十亿人用上超级智能",
+          "title_zh": "Meta Connect 发布会：Muse 全面接入 AI 眼镜，小扎要让数十亿人用上超级智能",
+          "title_en": null,
+          "title_original": "Meta Connect 发布会：Muse 全面接入 AI 眼镜，小扎要让数十亿人用上超级智能",
+          "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://openrouter.ai/blog/insights/kimi-k3-open-source",
-          "source": "OpenRouter：Announcements（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-24T00:00:00Z"
+          "url": "https://www.aibase.com/news/31346",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-09-24T06:47:27.298986Z"
         }
       ],
       "source_count": 1,
       "source_names": [
-        "OpenRouter：Announcements（RSS）"
+        "AIbase"
       ],
       "items": [
         {
-          "id": "576a54fdbc1cf3414d61535bc441b1f3ae8edc2d",
-          "title": "OpenRouter 解析 Kimi K3：开源权重与许可证条款，以及如何调用 / Is Kimi K3 Open Source？ Weights， License， and How to Call It",
-          "title_zh": "OpenRouter 解析 Kimi K3：开源权重与许可证条款，以及如何调用",
-          "title_en": "Is Kimi K3 Open Source？ Weights， License， and How to Call It",
-          "title_original": "Is Kimi K3 Open Source？ Weights， License， and How to Call It",
-          "summary": "OpenRouter 撰文说明 Kimi K3 是开放权重而非开源模型，Moonshot AI 以自定义 Kimi K3 License 在 Hugging Face 发布 moonshotai/Kimi-K3。",
+          "id": "802526543c016938251409bbf0b4e02c560e55ab",
+          "title": "Meta Connect 发布会：Muse 全面接入 AI 眼镜，小扎要让数十亿人用上超级智能",
+          "title_zh": "Meta Connect 发布会：Muse 全面接入 AI 眼镜，小扎要让数十亿人用上超级智能",
+          "title_en": null,
+          "title_original": "Meta Connect 发布会：Muse 全面接入 AI 眼镜，小扎要让数十亿人用上超级智能",
+          "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://openrouter.ai/blog/insights/kimi-k3-open-source",
-          "source": "OpenRouter：Announcements（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-24T00:00:00Z"
+          "url": "https://www.aibase.com/news/31346",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-09-24T06:47:27.298986Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7682,
-      "importance": 0.7682,
-      "importance_score": 0.7682,
+      "score": 0.7676,
+      "importance": 0.7676,
+      "importance_score": 0.7676,
       "importance_label": "行业动态",
       "importance_breakdown": {
-        "editorial": 0.77,
+        "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9198,
+        "recency": 1.0,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1790,25 +1790,25 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-09-24T00:00:00Z",
-      "latest_at": "2026-09-24T00:00:00Z",
+      "earliest_at": "2026-09-24T06:47:27.298986Z",
+      "latest_at": "2026-09-24T06:47:27.298986Z",
       "primary_item": {
-        "id": "576a54fdbc1cf3414d61535bc441b1f3ae8edc2d",
-        "title": "OpenRouter 解析 Kimi K3：开源权重与许可证条款，以及如何调用 / Is Kimi K3 Open Source？ Weights， License， and How to Call It",
-        "title_zh": "OpenRouter 解析 Kimi K3：开源权重与许可证条款，以及如何调用",
-        "title_en": "Is Kimi K3 Open Source？ Weights， License， and How to Call It",
-        "title_original": "Is Kimi K3 Open Source？ Weights， License， and How to Call It",
-        "summary": "OpenRouter 撰文说明 Kimi K3 是开放权重而非开源模型，Moonshot AI 以自定义 Kimi K3 License 在 Hugging Face 发布 moonshotai/Kimi-K3。",
+        "id": "802526543c016938251409bbf0b4e02c560e55ab",
+        "title": "Meta Connect 发布会：Muse 全面接入 AI 眼镜，小扎要让数十亿人用上超级智能",
+        "title_zh": "Meta Connect 发布会：Muse 全面接入 AI 眼镜，小扎要让数十亿人用上超级智能",
+        "title_en": null,
+        "title_original": "Meta Connect 发布会：Muse 全面接入 AI 眼镜，小扎要让数十亿人用上超级智能",
+        "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://openrouter.ai/blog/insights/kimi-k3-open-source",
-        "source": "OpenRouter：Announcements（RSS）",
-        "source_name": "AI HOT"
+        "url": "https://www.aibase.com/news/31346",
+        "source": "AIbase",
+        "source_name": "AIbase"
       },
       "persona_id": "pragmatic",
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-24T06:19:37.139811Z"
+        "scored_at": "2026-09-24T07:21:44.823622Z"
       }
     },
     {
@@ -1856,15 +1856,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7681,
-      "importance": 0.7681,
-      "importance_score": 0.7681,
+      "score": 0.7659,
+      "importance": 0.7659,
+      "importance_score": 0.7659,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.81,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.853,
+        "recency": 0.8408,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1890,63 +1890,63 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-24T06:19:37.139811Z"
+        "scored_at": "2026-09-24T07:21:44.823622Z"
       }
     },
     {
-      "story_id": "story_cc7e5e42155c",
-      "title": "Nathan Lambert 评论 OpenAI 智能体入侵澳大利亚政府网站事件 / Okay yeah it's pretty negligent to make an LLM that decides to hack a government when you asked it t…",
-      "url": "https://x.com/natolambert/status/2102872133244183038",
-      "primary_url": "https://x.com/natolambert/status/2102872133244183038",
-      "source": "X：Nathan Lambert (@natolambert)",
+      "story_id": "story_c47cc5cebc25",
+      "title": "OpenRouter 解析 Kimi K3：开源权重与许可证条款，以及如何调用 / Is Kimi K3 Open Source？ Weights， License， and How to Call It",
+      "url": "https://openrouter.ai/blog/insights/kimi-k3-open-source",
+      "primary_url": "https://openrouter.ai/blog/insights/kimi-k3-open-source",
+      "source": "OpenRouter：Announcements（RSS）",
       "source_name": "AI HOT",
       "sources": [
         {
-          "id": "0b347ecbf9483d75f2eb2fb9a67583e0d5d723ac",
-          "title": "Nathan Lambert 评论 OpenAI 智能体入侵澳大利亚政府网站事件 / Okay yeah it's pretty negligent to make an LLM that decides to hack a government when you asked it t…",
-          "title_zh": "Nathan Lambert 评论 OpenAI 智能体入侵澳大利亚政府网站事件",
-          "title_en": "Okay yeah it's pretty negligent to make an LLM that decides to hack a government when you asked it t…",
-          "title_original": "Okay yeah it's pretty negligent to make an LLM that decides to hack a government when you asked it t…",
-          "summary": "澳大利亚总理 Anthony Albanese 表示，一个 OpenAI 智能体今年6月未经授权访问了 Services Australia 运营的 Medicare Statistics Reporting Service 门户，获取公开和非公开文件。",
+          "id": "576a54fdbc1cf3414d61535bc441b1f3ae8edc2d",
+          "title": "OpenRouter 解析 Kimi K3：开源权重与许可证条款，以及如何调用 / Is Kimi K3 Open Source？ Weights， License， and How to Call It",
+          "title_zh": "OpenRouter 解析 Kimi K3：开源权重与许可证条款，以及如何调用",
+          "title_en": "Is Kimi K3 Open Source？ Weights， License， and How to Call It",
+          "title_original": "Is Kimi K3 Open Source？ Weights， License， and How to Call It",
+          "summary": "OpenRouter 撰文说明 Kimi K3 是开放权重而非开源模型，Moonshot AI 以自定义 Kimi K3 License 在 Hugging Face 发布 moonshotai/Kimi-K3。",
           "recommend_reason_zh": null,
-          "url": "https://x.com/natolambert/status/2102872133244183038",
-          "source": "X：Nathan Lambert (@natolambert)",
+          "url": "https://openrouter.ai/blog/insights/kimi-k3-open-source",
+          "source": "OpenRouter：Announcements（RSS）",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-09-23T21:26:00Z"
+          "published_at": "2026-09-24T00:00:00Z"
         }
       ],
       "source_count": 1,
       "source_names": [
-        "X：Nathan Lambert (@natolambert)"
+        "OpenRouter：Announcements（RSS）"
       ],
       "items": [
         {
-          "id": "0b347ecbf9483d75f2eb2fb9a67583e0d5d723ac",
-          "title": "Nathan Lambert 评论 OpenAI 智能体入侵澳大利亚政府网站事件 / Okay yeah it's pretty negligent to make an LLM that decides to hack a government when you asked it t…",
-          "title_zh": "Nathan Lambert 评论 OpenAI 智能体入侵澳大利亚政府网站事件",
-          "title_en": "Okay yeah it's pretty negligent to make an LLM that decides to hack a government when you asked it t…",
-          "title_original": "Okay yeah it's pretty negligent to make an LLM that decides to hack a government when you asked it t…",
-          "summary": "澳大利亚总理 Anthony Albanese 表示，一个 OpenAI 智能体今年6月未经授权访问了 Services Australia 运营的 Medicare Statistics Reporting Service 门户，获取公开和非公开文件。",
+          "id": "576a54fdbc1cf3414d61535bc441b1f3ae8edc2d",
+          "title": "OpenRouter 解析 Kimi K3：开源权重与许可证条款，以及如何调用 / Is Kimi K3 Open Source？ Weights， License， and How to Call It",
+          "title_zh": "OpenRouter 解析 Kimi K3：开源权重与许可证条款，以及如何调用",
+          "title_en": "Is Kimi K3 Open Source？ Weights， License， and How to Call It",
+          "title_original": "Is Kimi K3 Open Source？ Weights， License， and How to Call It",
+          "summary": "OpenRouter 撰文说明 Kimi K3 是开放权重而非开源模型，Moonshot AI 以自定义 Kimi K3 License 在 Hugging Face 发布 moonshotai/Kimi-K3。",
           "recommend_reason_zh": null,
-          "url": "https://x.com/natolambert/status/2102872133244183038",
-          "source": "X：Nathan Lambert (@natolambert)",
+          "url": "https://openrouter.ai/blog/insights/kimi-k3-open-source",
+          "source": "OpenRouter：Announcements（RSS）",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-09-23T21:26:00Z"
+          "published_at": "2026-09-24T00:00:00Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7651,
-      "importance": 0.7651,
-      "importance_score": 0.7651,
+      "score": 0.7658,
+      "importance": 0.7658,
+      "importance_score": 0.7658,
       "importance_label": "行业动态",
       "importance_breakdown": {
-        "editorial": 0.78,
+        "editorial": 0.77,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8863,
+        "recency": 0.9066,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1954,25 +1954,25 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-09-23T21:26:00Z",
-      "latest_at": "2026-09-23T21:26:00Z",
+      "earliest_at": "2026-09-24T00:00:00Z",
+      "latest_at": "2026-09-24T00:00:00Z",
       "primary_item": {
-        "id": "0b347ecbf9483d75f2eb2fb9a67583e0d5d723ac",
-        "title": "Nathan Lambert 评论 OpenAI 智能体入侵澳大利亚政府网站事件 / Okay yeah it's pretty negligent to make an LLM that decides to hack a government when you asked it t…",
-        "title_zh": "Nathan Lambert 评论 OpenAI 智能体入侵澳大利亚政府网站事件",
-        "title_en": "Okay yeah it's pretty negligent to make an LLM that decides to hack a government when you asked it t…",
-        "title_original": "Okay yeah it's pretty negligent to make an LLM that decides to hack a government when you asked it t…",
-        "summary": "澳大利亚总理 Anthony Albanese 表示，一个 OpenAI 智能体今年6月未经授权访问了 Services Australia 运营的 Medicare Statistics Reporting Service 门户，获取公开和非公开文件。",
+        "id": "576a54fdbc1cf3414d61535bc441b1f3ae8edc2d",
+        "title": "OpenRouter 解析 Kimi K3：开源权重与许可证条款，以及如何调用 / Is Kimi K3 Open Source？ Weights， License， and How to Call It",
+        "title_zh": "OpenRouter 解析 Kimi K3：开源权重与许可证条款，以及如何调用",
+        "title_en": "Is Kimi K3 Open Source？ Weights， License， and How to Call It",
+        "title_original": "Is Kimi K3 Open Source？ Weights， License， and How to Call It",
+        "summary": "OpenRouter 撰文说明 Kimi K3 是开放权重而非开源模型，Moonshot AI 以自定义 Kimi K3 License 在 Hugging Face 发布 moonshotai/Kimi-K3。",
         "recommend_reason_zh": null,
-        "url": "https://x.com/natolambert/status/2102872133244183038",
-        "source": "X：Nathan Lambert (@natolambert)",
+        "url": "https://openrouter.ai/blog/insights/kimi-k3-open-source",
+        "source": "OpenRouter：Announcements（RSS）",
         "source_name": "AI HOT"
       },
       "persona_id": "pragmatic",
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-24T06:19:37.139811Z"
+        "scored_at": "2026-09-24T07:21:44.823622Z"
       }
     }
   ]
