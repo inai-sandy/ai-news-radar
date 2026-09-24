@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-24T06:47:27.298986Z",
+  "generated_at": "2026-09-24T07:47:18.605852Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -106,15 +106,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.8662,
-      "importance": 0.8662,
-      "importance_score": 0.8662,
+      "score": 0.8641,
+      "importance": 0.8641,
+      "importance_score": 0.8641,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.801,
+        "recency": 0.7895,
         "story_heat": 0.5
       },
       "category": "official",
@@ -142,7 +142,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-24T07:21:44.823622Z"
+        "scored_at": "2026-09-24T08:24:04.326449Z"
       }
     },
     {
@@ -277,15 +277,15 @@
       ],
       "item_count": 4,
       "duplicate_count": 4,
-      "score": 0.8592,
-      "importance": 0.8592,
-      "importance_score": 0.8592,
+      "score": 0.8569,
+      "importance": 0.8569,
+      "importance_score": 0.8569,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.84,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8924,
+        "recency": 0.8796,
         "story_heat": 0.75
       },
       "category": "multi_source",
@@ -312,7 +312,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-24T07:21:44.823622Z"
+        "scored_at": "2026-09-24T08:24:04.326449Z"
       }
     },
     {
@@ -418,15 +418,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.8576,
-      "importance": 0.8576,
-      "importance_score": 0.8576,
+      "score": 0.8555,
+      "importance": 0.8555,
+      "importance_score": 0.8555,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.79,
         "source_tier": 1.0,
         "ai_relevance": 1.0,
-        "recency": 0.8369,
+        "recency": 0.8249,
         "story_heat": 0.5
       },
       "category": "official",
@@ -453,7 +453,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-24T07:21:44.823622Z"
+        "scored_at": "2026-09-24T08:24:04.326449Z"
       }
     },
     {
@@ -616,15 +616,15 @@
       ],
       "item_count": 5,
       "duplicate_count": 5,
-      "score": 0.8553,
-      "importance": 0.8553,
-      "importance_score": 0.8553,
+      "score": 0.8531,
+      "importance": 0.8531,
+      "importance_score": 0.8531,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.77,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8483,
+        "recency": 0.8361,
         "story_heat": 1.0
       },
       "category": "multi_source",
@@ -651,7 +651,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-24T07:21:44.823622Z"
+        "scored_at": "2026-09-24T08:24:04.326449Z"
       }
     },
     {
@@ -716,8 +716,8 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-09-24T06:47:27.298986Z",
-      "latest_at": "2026-09-24T06:47:27.298986Z",
+      "earliest_at": "2026-09-24T07:47:18.605852Z",
+      "latest_at": "2026-09-24T07:47:18.605852Z",
       "primary_item": {
         "id": "48e7e143951a807062656727fb44afb909b365f9",
         "title": "Ringg 的 AI 代理通过 OpenAI 解决了高达 65% 的客户呼叫 / Ringg’s AI agents resolve up to 65% of customer calls with OpenAI",
@@ -734,7 +734,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-24T07:21:44.823622Z"
+        "scored_at": "2026-09-24T08:24:04.326449Z"
       }
     },
     {
@@ -782,15 +782,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8412,
-      "importance": 0.8412,
-      "importance_score": 0.8412,
+      "score": 0.839,
+      "importance": 0.839,
+      "importance_score": 0.839,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 1.0,
-        "recency": 0.8397,
+        "recency": 0.8277,
         "story_heat": 0.0
       },
       "category": "official",
@@ -817,7 +817,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-24T07:21:44.823622Z"
+        "scored_at": "2026-09-24T08:24:04.326449Z"
       }
     },
     {
@@ -865,15 +865,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8292,
-      "importance": 0.8292,
-      "importance_score": 0.8292,
+      "score": 0.827,
+      "importance": 0.827,
+      "importance_score": 0.827,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.8736,
+        "recency": 0.8611,
         "story_heat": 0.0
       },
       "category": "official",
@@ -900,7 +900,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-24T07:21:44.823622Z"
+        "scored_at": "2026-09-24T08:24:04.326449Z"
       }
     },
     {
@@ -948,15 +948,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8227,
-      "importance": 0.8227,
-      "importance_score": 0.8227,
+      "score": 0.8206,
+      "importance": 0.8206,
+      "importance_score": 0.8206,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.8373,
+        "recency": 0.8254,
         "story_heat": 0.0
       },
       "category": "official",
@@ -983,7 +983,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-24T07:21:44.823622Z"
+        "scored_at": "2026-09-24T08:24:04.326449Z"
       }
     },
     {
@@ -1031,15 +1031,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8136,
-      "importance": 0.8136,
-      "importance_score": 0.8136,
+      "score": 0.8115,
+      "importance": 0.8115,
+      "importance_score": 0.8115,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.8313,
+        "recency": 0.8195,
         "story_heat": 0.0
       },
       "category": "official",
@@ -1066,7 +1066,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-24T07:21:44.823622Z"
+        "scored_at": "2026-09-24T08:24:04.326449Z"
       }
     },
     {
@@ -1114,15 +1114,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8232,
-      "importance": 0.8232,
-      "importance_score": 0.8232,
+      "score": 0.8213,
+      "importance": 0.8213,
+      "importance_score": 0.8213,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.98,
-        "recency": 0.7623,
+        "recency": 0.7514,
         "story_heat": 0.0
       },
       "category": "official",
@@ -1149,7 +1149,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-24T07:21:44.823622Z"
+        "scored_at": "2026-09-24T08:24:04.326449Z"
       }
     },
     {
@@ -1197,15 +1197,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8213,
-      "importance": 0.8213,
-      "importance_score": 0.8213,
+      "score": 0.8193,
+      "importance": 0.8193,
+      "importance_score": 0.8193,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.94,
-        "recency": 0.7963,
+        "recency": 0.7849,
         "story_heat": 0.0
       },
       "category": "official",
@@ -1232,7 +1232,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-24T07:21:44.823622Z"
+        "scored_at": "2026-09-24T08:24:04.326449Z"
       }
     },
     {
@@ -1280,15 +1280,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8198,
-      "importance": 0.8198,
-      "importance_score": 0.8198,
+      "score": 0.8178,
+      "importance": 0.8178,
+      "importance_score": 0.8178,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.7766,
+        "recency": 0.7655,
         "story_heat": 0.0
       },
       "category": "official",
@@ -1315,7 +1315,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-24T07:21:44.823622Z"
+        "scored_at": "2026-09-24T08:24:04.326449Z"
       }
     },
     {
@@ -1363,15 +1363,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7859,
-      "importance": 0.7859,
-      "importance_score": 0.7859,
+      "score": 0.7835,
+      "importance": 0.7835,
+      "importance_score": 0.7835,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.66,
         "source_tier": 1.0,
         "ai_relevance": 1.0,
-        "recency": 0.9326,
+        "recency": 0.9193,
         "story_heat": 0.0
       },
       "category": "official",
@@ -1397,7 +1397,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-24T07:21:44.823622Z"
+        "scored_at": "2026-09-24T08:24:04.326449Z"
       }
     },
     {
@@ -1445,15 +1445,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8094,
-      "importance": 0.8094,
-      "importance_score": 0.8094,
+      "score": 0.8073,
+      "importance": 0.8073,
+      "importance_score": 0.8073,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.8079,
+        "recency": 0.7963,
         "story_heat": 0.0
       },
       "category": "official",
@@ -1480,7 +1480,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-24T07:21:44.823622Z"
+        "scored_at": "2026-09-24T08:24:04.326449Z"
       }
     },
     {
@@ -1528,15 +1528,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7785,
-      "importance": 0.7785,
-      "importance_score": 0.7785,
+      "score": 0.776,
+      "importance": 0.776,
+      "importance_score": 0.776,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.79,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9436,
+        "recency": 0.9301,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1562,7 +1562,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-24T07:21:44.823622Z"
+        "scored_at": "2026-09-24T08:24:04.326449Z"
       }
     },
     {
@@ -1610,15 +1610,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7778,
-      "importance": 0.7778,
-      "importance_score": 0.7778,
+      "score": 0.7757,
+      "importance": 0.7757,
+      "importance_score": 0.7757,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.7,
         "source_tier": 1.0,
         "ai_relevance": 1.0,
-        "recency": 0.8212,
+        "recency": 0.8095,
         "story_heat": 0.0
       },
       "category": "official",
@@ -1644,7 +1644,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-24T07:21:44.823622Z"
+        "scored_at": "2026-09-24T08:24:04.326449Z"
       }
     },
     {
@@ -1692,15 +1692,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7716,
-      "importance": 0.7716,
-      "importance_score": 0.7716,
+      "score": 0.7693,
+      "importance": 0.7693,
+      "importance_score": 0.7693,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.78,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9225,
+        "recency": 0.9093,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1726,30 +1726,30 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-24T07:21:44.823622Z"
+        "scored_at": "2026-09-24T08:24:04.326449Z"
       }
     },
     {
-      "story_id": "story_24868f144755",
-      "title": "Meta Connect 发布会：Muse 全面接入 AI 眼镜，小扎要让数十亿人用上超级智能",
-      "url": "https://www.aibase.com/news/31346",
-      "primary_url": "https://www.aibase.com/news/31346",
+      "story_id": "story_c8560cd1bebf",
+      "title": "ChatGPT 移动端上新语音智能体：动动嘴就能写文档、总结邮件",
+      "url": "https://www.aibase.com/news/31347",
+      "primary_url": "https://www.aibase.com/news/31347",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "802526543c016938251409bbf0b4e02c560e55ab",
-          "title": "Meta Connect 发布会：Muse 全面接入 AI 眼镜，小扎要让数十亿人用上超级智能",
-          "title_zh": "Meta Connect 发布会：Muse 全面接入 AI 眼镜，小扎要让数十亿人用上超级智能",
+          "id": "c6a650cf6b47f0b64b1ad22881ea705e4b0fb463",
+          "title": "ChatGPT 移动端上新语音智能体：动动嘴就能写文档、总结邮件",
+          "title_zh": "ChatGPT 移动端上新语音智能体：动动嘴就能写文档、总结邮件",
           "title_en": null,
-          "title_original": "Meta Connect 发布会：Muse 全面接入 AI 眼镜，小扎要让数十亿人用上超级智能",
+          "title_original": "ChatGPT 移动端上新语音智能体：动动嘴就能写文档、总结邮件",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/31346",
+          "url": "https://www.aibase.com/news/31347",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-09-24T06:47:27.298986Z"
+          "published_at": "2026-09-24T07:47:18.605852Z"
         }
       ],
       "source_count": 1,
@@ -1758,18 +1758,18 @@
       ],
       "items": [
         {
-          "id": "802526543c016938251409bbf0b4e02c560e55ab",
-          "title": "Meta Connect 发布会：Muse 全面接入 AI 眼镜，小扎要让数十亿人用上超级智能",
-          "title_zh": "Meta Connect 发布会：Muse 全面接入 AI 眼镜，小扎要让数十亿人用上超级智能",
+          "id": "c6a650cf6b47f0b64b1ad22881ea705e4b0fb463",
+          "title": "ChatGPT 移动端上新语音智能体：动动嘴就能写文档、总结邮件",
+          "title_zh": "ChatGPT 移动端上新语音智能体：动动嘴就能写文档、总结邮件",
           "title_en": null,
-          "title_original": "Meta Connect 发布会：Muse 全面接入 AI 眼镜，小扎要让数十亿人用上超级智能",
+          "title_original": "ChatGPT 移动端上新语音智能体：动动嘴就能写文档、总结邮件",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/31346",
+          "url": "https://www.aibase.com/news/31347",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-09-24T06:47:27.298986Z"
+          "published_at": "2026-09-24T07:47:18.605852Z"
         }
       ],
       "item_count": 1,
@@ -1790,17 +1790,17 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-09-24T06:47:27.298986Z",
-      "latest_at": "2026-09-24T06:47:27.298986Z",
+      "earliest_at": "2026-09-24T07:47:18.605852Z",
+      "latest_at": "2026-09-24T07:47:18.605852Z",
       "primary_item": {
-        "id": "802526543c016938251409bbf0b4e02c560e55ab",
-        "title": "Meta Connect 发布会：Muse 全面接入 AI 眼镜，小扎要让数十亿人用上超级智能",
-        "title_zh": "Meta Connect 发布会：Muse 全面接入 AI 眼镜，小扎要让数十亿人用上超级智能",
+        "id": "c6a650cf6b47f0b64b1ad22881ea705e4b0fb463",
+        "title": "ChatGPT 移动端上新语音智能体：动动嘴就能写文档、总结邮件",
+        "title_zh": "ChatGPT 移动端上新语音智能体：动动嘴就能写文档、总结邮件",
         "title_en": null,
-        "title_original": "Meta Connect 发布会：Muse 全面接入 AI 眼镜，小扎要让数十亿人用上超级智能",
+        "title_original": "ChatGPT 移动端上新语音智能体：动动嘴就能写文档、总结邮件",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/31346",
+        "url": "https://www.aibase.com/news/31347",
         "source": "AIbase",
         "source_name": "AIbase"
       },
@@ -1808,7 +1808,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-24T07:21:44.823622Z"
+        "scored_at": "2026-09-24T08:24:04.326449Z"
       }
     },
     {
@@ -1856,15 +1856,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7659,
-      "importance": 0.7659,
-      "importance_score": 0.7659,
+      "score": 0.7638,
+      "importance": 0.7638,
+      "importance_score": 0.7638,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.81,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8408,
+        "recency": 0.8287,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1890,7 +1890,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-24T07:21:44.823622Z"
+        "scored_at": "2026-09-24T08:24:04.326449Z"
       }
     },
     {
@@ -1938,15 +1938,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7658,
-      "importance": 0.7658,
-      "importance_score": 0.7658,
+      "score": 0.7635,
+      "importance": 0.7635,
+      "importance_score": 0.7635,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.77,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9066,
+        "recency": 0.8936,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1972,7 +1972,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-24T07:21:44.823622Z"
+        "scored_at": "2026-09-24T08:24:04.326449Z"
       }
     }
   ]
