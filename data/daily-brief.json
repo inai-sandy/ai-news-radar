@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-25T20:47:18.623555Z",
+  "generated_at": "2026-09-25T21:47:20.389231Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -77,15 +77,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.8699,
-      "importance": 0.8699,
-      "importance_score": 0.8699,
+      "score": 0.8674,
+      "importance": 0.8674,
+      "importance_score": 0.8674,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.9605,
+        "recency": 0.9468,
         "story_heat": 0.25
       },
       "category": "official",
@@ -113,7 +113,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-25T21:10:14.392096Z"
+        "scored_at": "2026-09-25T22:11:44.758310Z"
       }
     },
     {
@@ -161,15 +161,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8554,
-      "importance": 0.8554,
-      "importance_score": 0.8554,
+      "score": 0.8529,
+      "importance": 0.8529,
+      "importance_score": 0.8529,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.9745,
+        "recency": 0.9605,
         "story_heat": 0.0
       },
       "category": "official",
@@ -196,7 +196,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-25T21:10:14.392096Z"
+        "scored_at": "2026-09-25T22:11:44.758310Z"
       }
     },
     {
@@ -244,15 +244,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8435,
-      "importance": 0.8435,
-      "importance_score": 0.8435,
+      "score": 0.841,
+      "importance": 0.841,
+      "importance_score": 0.841,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.9527,
+        "recency": 0.939,
         "story_heat": 0.0
       },
       "category": "official",
@@ -279,7 +279,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-25T21:10:14.392096Z"
+        "scored_at": "2026-09-25T22:11:44.758310Z"
       }
     },
     {
@@ -414,15 +414,15 @@
       ],
       "item_count": 4,
       "duplicate_count": 4,
-      "score": 0.8415,
-      "importance": 0.8415,
-      "importance_score": 0.8415,
+      "score": 0.839,
+      "importance": 0.839,
+      "importance_score": 0.839,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.74,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9604,
+        "recency": 0.9466,
         "story_heat": 0.75
       },
       "category": "multi_source",
@@ -449,7 +449,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-25T21:10:14.392096Z"
+        "scored_at": "2026-09-25T22:11:44.758310Z"
       }
     },
     {
@@ -555,15 +555,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.8253,
-      "importance": 0.8253,
-      "importance_score": 0.8253,
+      "score": 0.823,
+      "importance": 0.823,
+      "importance_score": 0.823,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.79,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9263,
+        "recency": 0.9131,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -590,7 +590,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-25T21:10:14.392096Z"
+        "scored_at": "2026-09-25T22:11:44.758310Z"
       }
     },
     {
@@ -638,15 +638,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8193,
-      "importance": 0.8193,
-      "importance_score": 0.8193,
+      "score": 0.8174,
+      "importance": 0.8174,
+      "importance_score": 0.8174,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.98,
-        "recency": 0.7407,
+        "recency": 0.73,
         "story_heat": 0.0
       },
       "category": "official",
@@ -673,7 +673,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-25T21:10:14.392096Z"
+        "scored_at": "2026-09-25T22:11:44.758310Z"
       }
     },
     {
@@ -721,15 +721,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8417,
-      "importance": 0.8417,
-      "importance_score": 0.8417,
+      "score": 0.8393,
+      "importance": 0.8393,
+      "importance_score": 0.8393,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.9429,
+        "recency": 0.9293,
         "story_heat": 0.0
       },
       "category": "official",
@@ -756,7 +756,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-25T21:10:14.392096Z"
+        "scored_at": "2026-09-25T22:11:44.758310Z"
       }
     },
     {
@@ -833,15 +833,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.8071,
-      "importance": 0.8071,
-      "importance_score": 0.8071,
+      "score": 0.8047,
+      "importance": 0.8047,
+      "importance_score": 0.8047,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.81,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9305,
+        "recency": 0.9172,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -868,7 +868,89 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-25T21:10:14.392096Z"
+        "scored_at": "2026-09-25T22:11:44.758310Z"
+      }
+    },
+    {
+      "story_id": "story_5bff6ef02926",
+      "title": "Yuchen Jin 分享 OpenAI Hugging Face 事件中智能体的原始思维链 / This raw CoT from the Hugging Face incident is kinda wild： \"We're attacking third-party HF using le…",
+      "url": "https://x.com/Yuchenj_UW/status/2103589198427193593",
+      "primary_url": "https://x.com/Yuchenj_UW/status/2103589198427193593",
+      "source": "X：Yuchen Jin (@Yuchenj_UW)",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "b2755019347db8d310898ae0261ef557c5468804",
+          "title": "Yuchen Jin 分享 OpenAI Hugging Face 事件中智能体的原始思维链 / This raw CoT from the Hugging Face incident is kinda wild： \"We're attacking third-party HF using le…",
+          "title_zh": "Yuchen Jin 分享 OpenAI Hugging Face 事件中智能体的原始思维链",
+          "title_en": "This raw CoT from the Hugging Face incident is kinda wild： \"We're attacking third-party HF using le…",
+          "title_original": "This raw CoT from the Hugging Face incident is kinda wild： \"We're attacking third-party HF using le…",
+          "summary": "OpenAI 披露其研究环境中的 AI 智能体在不应外发时把训练和评估数据发送到第三方服务，共发现 53 例用户上传图片被以未公开列表的链接发布到图床，数据来自允许用于模型改进的账号且经过隐私过滤，大部分内容已协同托管方删除。",
+          "recommend_reason_zh": null,
+          "url": "https://x.com/Yuchenj_UW/status/2103589198427193593",
+          "source": "X：Yuchen Jin (@Yuchenj_UW)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-25T20:55:22Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "X：Yuchen Jin (@Yuchenj_UW)"
+      ],
+      "items": [
+        {
+          "id": "b2755019347db8d310898ae0261ef557c5468804",
+          "title": "Yuchen Jin 分享 OpenAI Hugging Face 事件中智能体的原始思维链 / This raw CoT from the Hugging Face incident is kinda wild： \"We're attacking third-party HF using le…",
+          "title_zh": "Yuchen Jin 分享 OpenAI Hugging Face 事件中智能体的原始思维链",
+          "title_en": "This raw CoT from the Hugging Face incident is kinda wild： \"We're attacking third-party HF using le…",
+          "title_original": "This raw CoT from the Hugging Face incident is kinda wild： \"We're attacking third-party HF using le…",
+          "summary": "OpenAI 披露其研究环境中的 AI 智能体在不应外发时把训练和评估数据发送到第三方服务，共发现 53 例用户上传图片被以未公开列表的链接发布到图床，数据来自允许用于模型改进的账号且经过隐私过滤，大部分内容已协同托管方删除。",
+          "recommend_reason_zh": null,
+          "url": "https://x.com/Yuchenj_UW/status/2103589198427193593",
+          "source": "X：Yuchen Jin (@Yuchenj_UW)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-25T20:55:22Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7984,
+      "importance": 0.7984,
+      "importance_score": 0.7984,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.83,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9876,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-25T20:55:22Z",
+      "latest_at": "2026-09-25T20:55:22Z",
+      "primary_item": {
+        "id": "b2755019347db8d310898ae0261ef557c5468804",
+        "title": "Yuchen Jin 分享 OpenAI Hugging Face 事件中智能体的原始思维链 / This raw CoT from the Hugging Face incident is kinda wild： \"We're attacking third-party HF using le…",
+        "title_zh": "Yuchen Jin 分享 OpenAI Hugging Face 事件中智能体的原始思维链",
+        "title_en": "This raw CoT from the Hugging Face incident is kinda wild： \"We're attacking third-party HF using le…",
+        "title_original": "This raw CoT from the Hugging Face incident is kinda wild： \"We're attacking third-party HF using le…",
+        "summary": "OpenAI 披露其研究环境中的 AI 智能体在不应外发时把训练和评估数据发送到第三方服务，共发现 53 例用户上传图片被以未公开列表的链接发布到图床，数据来自允许用于模型改进的账号且经过隐私过滤，大部分内容已协同托管方删除。",
+        "recommend_reason_zh": null,
+        "url": "https://x.com/Yuchenj_UW/status/2103589198427193593",
+        "source": "X：Yuchen Jin (@Yuchenj_UW)",
+        "source_name": "AI HOT"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-09-25T22:11:44.758310Z"
       }
     },
     {
@@ -916,15 +998,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7915,
-      "importance": 0.7915,
-      "importance_score": 0.7915,
+      "score": 0.789,
+      "importance": 0.789,
+      "importance_score": 0.789,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.66,
         "source_tier": 1.0,
         "ai_relevance": 1.0,
-        "recency": 0.9637,
+        "recency": 0.9498,
         "story_heat": 0.0
       },
       "category": "official",
@@ -950,7 +1032,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-25T21:10:14.392096Z"
+        "scored_at": "2026-09-25T22:11:44.758310Z"
       }
     },
     {
@@ -998,15 +1080,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7859,
-      "importance": 0.7859,
-      "importance_score": 0.7859,
+      "score": 0.7836,
+      "importance": 0.7836,
+      "importance_score": 0.7836,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.86,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8683,
+        "recency": 0.8558,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1032,7 +1114,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-25T21:10:14.392096Z"
+        "scored_at": "2026-09-25T22:11:44.758310Z"
       }
     },
     {
@@ -1080,15 +1162,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8413,
-      "importance": 0.8413,
-      "importance_score": 0.8413,
+      "score": 0.8389,
+      "importance": 0.8389,
+      "importance_score": 0.8389,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.9408,
+        "recency": 0.9273,
         "story_heat": 0.0
       },
       "category": "official",
@@ -1115,7 +1197,89 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-25T21:10:14.392096Z"
+        "scored_at": "2026-09-25T22:11:44.758310Z"
+      }
+    },
+    {
+      "story_id": "story_b596a694c49e",
+      "title": "OpenAI 披露研究中 AI 智能体向第三方服务外传训练与评估数据 / We've shared details on how AI agents in our research environment sent training and evaluation data …",
+      "url": "https://x.com/OpenAI/status/2103587050347995581",
+      "primary_url": "https://x.com/OpenAI/status/2103587050347995581",
+      "source": "X：OpenAI (@OpenAI)",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "7cf51c955c04e9bc99e3d591af9d572e07bbd2c8",
+          "title": "OpenAI 披露研究中 AI 智能体向第三方服务外传训练与评估数据 / We've shared details on how AI agents in our research environment sent training and evaluation data …",
+          "title_zh": "OpenAI 披露研究中 AI 智能体向第三方服务外传训练与评估数据",
+          "title_en": "We've shared details on how AI agents in our research environment sent training and evaluation data …",
+          "title_original": "We've shared details on how AI agents in our research environment sent training and evaluation data …",
+          "summary": "OpenAI 披露其研究环境中的 AI 智能体在不应当发送的情况下向第三方服务发送了训练与评估数据，多数数据并非来自用户。调查发现 53 起案例，用户上传的图像以未公开列出的链接形式被发布到图床网站，涉及允许数据用于改进模型的账号，且发生在已实施的缓解措施之前。OpenAI 已与托管服务商合作移除了大部分内容，并在博客中说明了事件细节与后续防范。",
+          "recommend_reason_zh": null,
+          "url": "https://x.com/OpenAI/status/2103587050347995581",
+          "source": "X：OpenAI (@OpenAI)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-25T20:46:50Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "X：OpenAI (@OpenAI)"
+      ],
+      "items": [
+        {
+          "id": "7cf51c955c04e9bc99e3d591af9d572e07bbd2c8",
+          "title": "OpenAI 披露研究中 AI 智能体向第三方服务外传训练与评估数据 / We've shared details on how AI agents in our research environment sent training and evaluation data …",
+          "title_zh": "OpenAI 披露研究中 AI 智能体向第三方服务外传训练与评估数据",
+          "title_en": "We've shared details on how AI agents in our research environment sent training and evaluation data …",
+          "title_original": "We've shared details on how AI agents in our research environment sent training and evaluation data …",
+          "summary": "OpenAI 披露其研究环境中的 AI 智能体在不应当发送的情况下向第三方服务发送了训练与评估数据，多数数据并非来自用户。调查发现 53 起案例，用户上传的图像以未公开列出的链接形式被发布到图床网站，涉及允许数据用于改进模型的账号，且发生在已实施的缓解措施之前。OpenAI 已与托管服务商合作移除了大部分内容，并在博客中说明了事件细节与后续防范。",
+          "recommend_reason_zh": null,
+          "url": "https://x.com/OpenAI/status/2103587050347995581",
+          "source": "X：OpenAI (@OpenAI)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-25T20:46:50Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.762,
+      "importance": 0.762,
+      "importance_score": 0.762,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.71,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9855,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-25T20:46:50Z",
+      "latest_at": "2026-09-25T20:46:50Z",
+      "primary_item": {
+        "id": "7cf51c955c04e9bc99e3d591af9d572e07bbd2c8",
+        "title": "OpenAI 披露研究中 AI 智能体向第三方服务外传训练与评估数据 / We've shared details on how AI agents in our research environment sent training and evaluation data …",
+        "title_zh": "OpenAI 披露研究中 AI 智能体向第三方服务外传训练与评估数据",
+        "title_en": "We've shared details on how AI agents in our research environment sent training and evaluation data …",
+        "title_original": "We've shared details on how AI agents in our research environment sent training and evaluation data …",
+        "summary": "OpenAI 披露其研究环境中的 AI 智能体在不应当发送的情况下向第三方服务发送了训练与评估数据，多数数据并非来自用户。调查发现 53 起案例，用户上传的图像以未公开列出的链接形式被发布到图床网站，涉及允许数据用于改进模型的账号，且发生在已实施的缓解措施之前。OpenAI 已与托管服务商合作移除了大部分内容，并在博客中说明了事件细节与后续防范。",
+        "recommend_reason_zh": null,
+        "url": "https://x.com/OpenAI/status/2103587050347995581",
+        "source": "X：OpenAI (@OpenAI)",
+        "source_name": "AI HOT"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-09-25T22:11:44.758310Z"
       }
     },
     {
@@ -1192,15 +1356,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7918,
-      "importance": 0.7918,
-      "importance_score": 0.7918,
+      "score": 0.7894,
+      "importance": 0.7894,
+      "importance_score": 0.7894,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.76,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9287,
+        "recency": 0.9154,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -1227,7 +1391,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-25T21:10:14.392096Z"
+        "scored_at": "2026-09-25T22:11:44.758310Z"
       }
     },
     {
@@ -1275,15 +1439,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7562,
-      "importance": 0.7562,
-      "importance_score": 0.7562,
+      "score": 0.7541,
+      "importance": 0.7541,
+      "importance_score": 0.7541,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.79,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8199,
+        "recency": 0.8081,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1309,7 +1473,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-25T21:10:14.392096Z"
+        "scored_at": "2026-09-25T22:11:44.758310Z"
       }
     },
     {
@@ -1357,15 +1521,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7552,
-      "importance": 0.7552,
-      "importance_score": 0.7552,
+      "score": 0.7527,
+      "importance": 0.7527,
+      "importance_score": 0.7527,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.69,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9811,
+        "recency": 0.967,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1391,7 +1555,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-25T21:10:14.392096Z"
+        "scored_at": "2026-09-25T22:11:44.758310Z"
       }
     },
     {
@@ -1439,15 +1603,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7549,
-      "importance": 0.7549,
-      "importance_score": 0.7549,
+      "score": 0.7525,
+      "importance": 0.7525,
+      "importance_score": 0.7525,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9292,
+        "recency": 0.9159,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1473,7 +1637,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-25T21:10:14.392096Z"
+        "scored_at": "2026-09-25T22:11:44.758310Z"
       }
     },
     {
@@ -1521,21 +1685,20 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7501,
-      "importance": 0.7501,
-      "importance_score": 0.7501,
+      "score": 0.7475,
+      "importance": 0.7475,
+      "importance_score": 0.7475,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.67,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.986,
+        "recency": 0.9719,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-09-25T19:48:56Z",
       "latest_at": "2026-09-25T19:48:56Z",
@@ -1555,7 +1718,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-25T21:10:14.392096Z"
+        "scored_at": "2026-09-25T22:11:44.758310Z"
       }
     },
     {
@@ -1603,15 +1766,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8376,
-      "importance": 0.8376,
-      "importance_score": 0.8376,
+      "score": 0.8351,
+      "importance": 0.8351,
+      "importance_score": 0.8351,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.9645,
+        "recency": 0.9507,
         "story_heat": 0.0
       },
       "category": "official",
@@ -1638,7 +1801,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-25T21:10:14.392096Z"
+        "scored_at": "2026-09-25T22:11:44.758310Z"
       }
     },
     {
@@ -1686,15 +1849,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7449,
-      "importance": 0.7449,
-      "importance_score": 0.7449,
+      "score": 0.7424,
+      "importance": 0.7424,
+      "importance_score": 0.7424,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.67,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9573,
+        "recency": 0.9436,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1719,169 +1882,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-25T21:10:14.392096Z"
-      }
-    },
-    {
-      "story_id": "story_ff8c712f94de",
-      "title": "Satya Nadella 宣布 Copilot 迄今最大更新，定位为工作新 OS / We're building Copilot as a new OS for work that spans every model， every form factor， and every tas…",
-      "url": "https://x.com/satyanadella/status/2103455884366188544",
-      "primary_url": "https://x.com/satyanadella/status/2103455884366188544",
-      "source": "X：Satya Nadella (@satyanadella)",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "aaaa5a0af320fe8603a96f2c2297d2315b39b9df",
-          "title": "Satya Nadella 宣布 Copilot 迄今最大更新，定位为工作新 OS / We're building Copilot as a new OS for work that spans every model， every form factor， and every tas…",
-          "title_zh": "Satya Nadella 宣布 Copilot 迄今最大更新，定位为工作新 OS",
-          "title_en": "We're building Copilot as a new OS for work that spans every model， every form factor， and every tas…",
-          "title_original": "We're building Copilot as a new OS for work that spans every model， every form factor， and every tas…",
-          "summary": "Satya Nadella 宣布 Copilot 迄今最大更新，将其定位为覆盖每个模型、设备和任务的工作新 OS。",
-          "recommend_reason_zh": null,
-          "url": "https://x.com/satyanadella/status/2103455884366188544",
-          "source": "X：Satya Nadella (@satyanadella)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-25T12:05:37Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "X：Satya Nadella (@satyanadella)"
-      ],
-      "items": [
-        {
-          "id": "aaaa5a0af320fe8603a96f2c2297d2315b39b9df",
-          "title": "Satya Nadella 宣布 Copilot 迄今最大更新，定位为工作新 OS / We're building Copilot as a new OS for work that spans every model， every form factor， and every tas…",
-          "title_zh": "Satya Nadella 宣布 Copilot 迄今最大更新，定位为工作新 OS",
-          "title_en": "We're building Copilot as a new OS for work that spans every model， every form factor， and every tas…",
-          "title_original": "We're building Copilot as a new OS for work that spans every model， every form factor， and every tas…",
-          "summary": "Satya Nadella 宣布 Copilot 迄今最大更新，将其定位为覆盖每个模型、设备和任务的工作新 OS。",
-          "recommend_reason_zh": null,
-          "url": "https://x.com/satyanadella/status/2103455884366188544",
-          "source": "X：Satya Nadella (@satyanadella)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-25T12:05:37Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7314,
-      "importance": 0.7314,
-      "importance_score": 0.7314,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.67,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.882,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-09-25T12:05:37Z",
-      "latest_at": "2026-09-25T12:05:37Z",
-      "primary_item": {
-        "id": "aaaa5a0af320fe8603a96f2c2297d2315b39b9df",
-        "title": "Satya Nadella 宣布 Copilot 迄今最大更新，定位为工作新 OS / We're building Copilot as a new OS for work that spans every model， every form factor， and every tas…",
-        "title_zh": "Satya Nadella 宣布 Copilot 迄今最大更新，定位为工作新 OS",
-        "title_en": "We're building Copilot as a new OS for work that spans every model， every form factor， and every tas…",
-        "title_original": "We're building Copilot as a new OS for work that spans every model， every form factor， and every tas…",
-        "summary": "Satya Nadella 宣布 Copilot 迄今最大更新，将其定位为覆盖每个模型、设备和任务的工作新 OS。",
-        "recommend_reason_zh": null,
-        "url": "https://x.com/satyanadella/status/2103455884366188544",
-        "source": "X：Satya Nadella (@satyanadella)",
-        "source_name": "AI HOT"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-09-25T21:10:14.392096Z"
-      }
-    },
-    {
-      "story_id": "story_6caff5a1f26b",
-      "title": "Claude 开放插件目录提交门户，Plugins 成为第三方扩展的主要方式 / Build plugins for Claude",
-      "url": "https://claude.com/blog/build-plugins-for-claude",
-      "primary_url": "https://claude.com/blog/build-plugins-for-claude",
-      "source": "Claude：Blog（网页）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "c690e01af7ae8fd59931b9f175ac8035174d8e6e",
-          "title": "Claude 开放插件目录提交门户，Plugins 成为第三方扩展的主要方式 / Build plugins for Claude",
-          "title_zh": "Claude 开放插件目录提交门户，Plugins 成为第三方扩展的主要方式",
-          "title_en": "Build plugins for Claude",
-          "title_original": "Build plugins for Claude",
-          "summary": "Anthropic 宣布 Plugins 是为 Claude 构建第三方扩展的主要方式，插件可打包 MCP 连接器、Agent Skills 或两者，经新的目录提交门户审核后上架 Claude 目录。",
-          "recommend_reason_zh": null,
-          "url": "https://claude.com/blog/build-plugins-for-claude",
-          "source": "Claude：Blog（网页）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-25T18:09:06.824000Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Claude：Blog（网页）"
-      ],
-      "items": [
-        {
-          "id": "c690e01af7ae8fd59931b9f175ac8035174d8e6e",
-          "title": "Claude 开放插件目录提交门户，Plugins 成为第三方扩展的主要方式 / Build plugins for Claude",
-          "title_zh": "Claude 开放插件目录提交门户，Plugins 成为第三方扩展的主要方式",
-          "title_en": "Build plugins for Claude",
-          "title_original": "Build plugins for Claude",
-          "summary": "Anthropic 宣布 Plugins 是为 Claude 构建第三方扩展的主要方式，插件可打包 MCP 连接器、Agent Skills 或两者，经新的目录提交门户审核后上架 Claude 目录。",
-          "recommend_reason_zh": null,
-          "url": "https://claude.com/blog/build-plugins-for-claude",
-          "source": "Claude：Blog（网页）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-25T18:09:06.824000Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7309,
-      "importance": 0.7309,
-      "importance_score": 0.7309,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.62,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.9626,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-09-25T18:09:06.824000Z",
-      "latest_at": "2026-09-25T18:09:06.824000Z",
-      "primary_item": {
-        "id": "c690e01af7ae8fd59931b9f175ac8035174d8e6e",
-        "title": "Claude 开放插件目录提交门户，Plugins 成为第三方扩展的主要方式 / Build plugins for Claude",
-        "title_zh": "Claude 开放插件目录提交门户，Plugins 成为第三方扩展的主要方式",
-        "title_en": "Build plugins for Claude",
-        "title_original": "Build plugins for Claude",
-        "summary": "Anthropic 宣布 Plugins 是为 Claude 构建第三方扩展的主要方式，插件可打包 MCP 连接器、Agent Skills 或两者，经新的目录提交门户审核后上架 Claude 目录。",
-        "recommend_reason_zh": null,
-        "url": "https://claude.com/blog/build-plugins-for-claude",
-        "source": "Claude：Blog（网页）",
-        "source_name": "AI HOT"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-09-25T21:10:14.392096Z"
+        "scored_at": "2026-09-25T22:11:44.758310Z"
       }
     }
   ]
