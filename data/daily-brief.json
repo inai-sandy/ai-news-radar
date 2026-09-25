@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-25T18:47:25.305226Z",
+  "generated_at": "2026-09-25T19:47:16.849399Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -77,15 +77,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.875,
-      "importance": 0.875,
-      "importance_score": 0.875,
+      "score": 0.8724,
+      "importance": 0.8724,
+      "importance_score": 0.8724,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.9887,
+        "recency": 0.9745,
         "story_heat": 0.25
       },
       "category": "official",
@@ -113,7 +113,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-25T19:03:43.189961Z"
+        "scored_at": "2026-09-25T20:10:25.236767Z"
       }
     },
     {
@@ -161,15 +161,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.86,
-      "importance": 0.86,
-      "importance_score": 0.86,
+      "score": 0.858,
+      "importance": 0.858,
+      "importance_score": 0.858,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 1.0,
+        "recency": 0.9887,
         "story_heat": 0.0
       },
       "category": "official",
@@ -178,8 +178,8 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-09-25T18:47:25.305226Z",
-      "latest_at": "2026-09-25T18:47:25.305226Z",
+      "earliest_at": "2026-09-25T19:00:00Z",
+      "latest_at": "2026-09-25T19:00:00Z",
       "primary_item": {
         "id": "66813550b19620d0f21a2f5a0f52320a576eb1a2",
         "title": "Proaction boosts sales 60% and saves 75+ hours with Codex",
@@ -196,12 +196,12 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-25T19:03:43.189961Z"
+        "scored_at": "2026-09-25T20:10:25.236767Z"
       }
     },
     {
       "story_id": "story_3086a0a8d592",
-      "title": "Agentic autofix now uses Copilot Memory",
+      "title": "代理自动修复现在使用 Copilot 内存 / Agentic autofix now uses Copilot Memory",
       "url": "https://github.blog/changelog/2026-09-25-agentic-autofix-now-uses-copilot-memory",
       "primary_url": "https://github.blog/changelog/2026-09-25-agentic-autofix-now-uses-copilot-memory",
       "source": "GitHub Changelog",
@@ -209,8 +209,8 @@
       "sources": [
         {
           "id": "8ee32335c685465498d95a79a418cfcd20e01eaa",
-          "title": "Agentic autofix now uses Copilot Memory",
-          "title_zh": null,
+          "title": "代理自动修复现在使用 Copilot 内存 / Agentic autofix now uses Copilot Memory",
+          "title_zh": "代理自动修复现在使用 Copilot 内存",
           "title_en": "Agentic autofix now uses Copilot Memory",
           "title_original": "Agentic autofix now uses Copilot Memory",
           "summary": null,
@@ -229,8 +229,8 @@
       "items": [
         {
           "id": "8ee32335c685465498d95a79a418cfcd20e01eaa",
-          "title": "Agentic autofix now uses Copilot Memory",
-          "title_zh": null,
+          "title": "代理自动修复现在使用 Copilot 内存 / Agentic autofix now uses Copilot Memory",
+          "title_zh": "代理自动修复现在使用 Copilot 内存",
           "title_en": "Agentic autofix now uses Copilot Memory",
           "title_original": "Agentic autofix now uses Copilot Memory",
           "summary": null,
@@ -244,15 +244,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8485,
-      "importance": 0.8485,
-      "importance_score": 0.8485,
+      "score": 0.846,
+      "importance": 0.846,
+      "importance_score": 0.846,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.9806,
+        "recency": 0.9665,
         "story_heat": 0.0
       },
       "category": "official",
@@ -265,8 +265,8 @@
       "latest_at": "2026-09-25T17:25:50Z",
       "primary_item": {
         "id": "8ee32335c685465498d95a79a418cfcd20e01eaa",
-        "title": "Agentic autofix now uses Copilot Memory",
-        "title_zh": null,
+        "title": "代理自动修复现在使用 Copilot 内存 / Agentic autofix now uses Copilot Memory",
+        "title_zh": "代理自动修复现在使用 Copilot 内存",
         "title_en": "Agentic autofix now uses Copilot Memory",
         "title_original": "Agentic autofix now uses Copilot Memory",
         "summary": null,
@@ -279,7 +279,148 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-25T19:03:43.189961Z"
+        "scored_at": "2026-09-25T20:10:25.236767Z"
+      }
+    },
+    {
+      "story_id": "story_53b278107409",
+      "title": "美国上诉法院维持五角大楼将 Anthropic 列为供应链风险的认定 / U.S. appeals court upholds designation of Anthropic as supply chain risk",
+      "url": "https://www.cnbc.com/2026/09/25/pentagon-anthropic-ai-risk-appeals-court.html",
+      "primary_url": "https://www.cnbc.com/2026/09/25/pentagon-anthropic-ai-risk-appeals-court.html",
+      "source": "Hacker News：AI 热帖",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "042609b7487f01eced16fa1ca33ff95623051866",
+          "title": "美国上诉法院维持五角大楼将 Anthropic 列为供应链风险的认定 / U.S. appeals court upholds designation of Anthropic as supply chain risk",
+          "title_zh": "美国上诉法院维持五角大楼将 Anthropic 列为供应链风险的认定",
+          "title_en": "U.S. appeals court upholds designation of Anthropic as supply chain risk",
+          "title_original": "U.S. appeals court upholds designation of Anthropic as supply chain risk",
+          "summary": "华盛顿特区联邦上诉法院以 2 比 1 裁定，维持国防部将 Anthropic 列为供应链风险的决定，禁止美军及国防承包商使用 Claude 模型。",
+          "recommend_reason_zh": null,
+          "url": "https://www.cnbc.com/2026/09/25/pentagon-anthropic-ai-risk-appeals-court.html",
+          "source": "Hacker News：AI 热帖",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-25T15:29:25Z"
+        },
+        {
+          "id": "bf77ee8cc10393a74e77d742b817d9b2b9ce7ba7",
+          "title": "美国上诉法院维持将Anthropic列为供应链风险的决定",
+          "title_zh": "美国上诉法院维持将Anthropic列为供应链风险的决定",
+          "title_en": null,
+          "title_original": "美国上诉法院维持将Anthropic列为供应链风险的决定",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.cnbc.com/2026/09/25/pentagon-anthropic-ai-risk-appeals-court.html",
+          "source": "www.cnbc.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-09-25T18:36:52.879000Z"
+        },
+        {
+          "id": "0f9faea576b3975303565834d4067e13f2b1cc41",
+          "title": "美国上诉法院维持将 Anthropic 指定为供应链风险 / U.S. appeals court upholds designation of Anthropic as supply chain risk",
+          "title_zh": "美国上诉法院维持将 Anthropic 指定为供应链风险",
+          "title_en": "U.S. appeals court upholds designation of Anthropic as supply chain risk",
+          "title_original": "U.S. appeals court upholds designation of Anthropic as supply chain risk",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=49845977",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-09-25T15:29:25Z"
+        }
+      ],
+      "source_count": 3,
+      "source_names": [
+        "Hacker News：AI 热帖",
+        "hackernews",
+        "www.cnbc.com"
+      ],
+      "items": [
+        {
+          "id": "042609b7487f01eced16fa1ca33ff95623051866",
+          "title": "美国上诉法院维持五角大楼将 Anthropic 列为供应链风险的认定 / U.S. appeals court upholds designation of Anthropic as supply chain risk",
+          "title_zh": "美国上诉法院维持五角大楼将 Anthropic 列为供应链风险的认定",
+          "title_en": "U.S. appeals court upholds designation of Anthropic as supply chain risk",
+          "title_original": "U.S. appeals court upholds designation of Anthropic as supply chain risk",
+          "summary": "华盛顿特区联邦上诉法院以 2 比 1 裁定，维持国防部将 Anthropic 列为供应链风险的决定，禁止美军及国防承包商使用 Claude 模型。",
+          "recommend_reason_zh": null,
+          "url": "https://www.cnbc.com/2026/09/25/pentagon-anthropic-ai-risk-appeals-court.html",
+          "source": "Hacker News：AI 热帖",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-25T15:29:25Z"
+        },
+        {
+          "id": "bf77ee8cc10393a74e77d742b817d9b2b9ce7ba7",
+          "title": "美国上诉法院维持将Anthropic列为供应链风险的决定",
+          "title_zh": "美国上诉法院维持将Anthropic列为供应链风险的决定",
+          "title_en": null,
+          "title_original": "美国上诉法院维持将Anthropic列为供应链风险的决定",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.cnbc.com/2026/09/25/pentagon-anthropic-ai-risk-appeals-court.html",
+          "source": "www.cnbc.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-09-25T18:36:52.879000Z"
+        },
+        {
+          "id": "0f9faea576b3975303565834d4067e13f2b1cc41",
+          "title": "美国上诉法院维持将 Anthropic 指定为供应链风险 / U.S. appeals court upholds designation of Anthropic as supply chain risk",
+          "title_zh": "美国上诉法院维持将 Anthropic 指定为供应链风险",
+          "title_en": "U.S. appeals court upholds designation of Anthropic as supply chain risk",
+          "title_original": "U.S. appeals court upholds designation of Anthropic as supply chain risk",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=49845977",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-09-25T15:29:25Z"
+        }
+      ],
+      "item_count": 3,
+      "duplicate_count": 3,
+      "score": 0.8278,
+      "importance": 0.8278,
+      "importance_score": 0.8278,
+      "importance_label": "多源热议",
+      "importance_breakdown": {
+        "editorial": 0.79,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9398,
+        "story_heat": 0.5
+      },
+      "category": "multi_source",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-25T15:29:25Z",
+      "latest_at": "2026-09-25T18:36:52.879000Z",
+      "primary_item": {
+        "id": "042609b7487f01eced16fa1ca33ff95623051866",
+        "title": "美国上诉法院维持五角大楼将 Anthropic 列为供应链风险的认定 / U.S. appeals court upholds designation of Anthropic as supply chain risk",
+        "title_zh": "美国上诉法院维持五角大楼将 Anthropic 列为供应链风险的认定",
+        "title_en": "U.S. appeals court upholds designation of Anthropic as supply chain risk",
+        "title_original": "U.S. appeals court upholds designation of Anthropic as supply chain risk",
+        "summary": "华盛顿特区联邦上诉法院以 2 比 1 裁定，维持国防部将 Anthropic 列为供应链风险的决定，禁止美军及国防承包商使用 Claude 模型。",
+        "recommend_reason_zh": null,
+        "url": "https://www.cnbc.com/2026/09/25/pentagon-anthropic-ai-risk-appeals-court.html",
+        "source": "Hacker News：AI 热帖",
+        "source_name": "AI HOT"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-09-25T20:10:25.236767Z"
       }
     },
     {
@@ -327,15 +468,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8232,
-      "importance": 0.8232,
-      "importance_score": 0.8232,
+      "score": 0.8213,
+      "importance": 0.8213,
+      "importance_score": 0.8213,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.98,
-        "recency": 0.7624,
+        "recency": 0.7515,
         "story_heat": 0.0
       },
       "category": "official",
@@ -362,12 +503,153 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-25T19:03:43.189961Z"
+        "scored_at": "2026-09-25T20:10:25.236767Z"
+      }
+    },
+    {
+      "story_id": "story_7535491ae20c",
+      "title": "Claude 完成 N=4 超对称 Yang-Mills 九圈振幅计算，物理学家 Matt von Hippel 复盘挑战始末 / Yes， Claude can do Nine Loops",
+      "url": "https://www.anthropic.com/research/yes-claude-can-do-nine-loops",
+      "primary_url": "https://www.anthropic.com/research/yes-claude-can-do-nine-loops",
+      "source": "Anthropic：Research（发表成果 · 网页）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "18ad5d1949272a639d0b3e28920046d68ba92876",
+          "title": "Claude 完成 N=4 超对称 Yang-Mills 九圈振幅计算，物理学家 Matt von Hippel 复盘挑战始末 / Yes， Claude can do Nine Loops",
+          "title_zh": "Claude 完成 N=4 超对称 Yang-Mills 九圈振幅计算，物理学家 Matt von Hippel 复盘挑战始末",
+          "title_en": "Yes， Claude can do Nine Loops",
+          "title_original": "Yes， Claude can do Nine Loops",
+          "summary": "物理学家 Matt von Hippel 发文复盘：Anthropic 的 Liam Fitzpatrick 和 Siddharth Mishra-Sharma 用 Claude Science（Fable 5.1）以约一两千美元预算完成平面 N=4 超对称 Yang-Mills 六粒子九圈振幅计算。",
+          "recommend_reason_zh": null,
+          "url": "https://www.anthropic.com/research/yes-claude-can-do-nine-loops",
+          "source": "Anthropic：Research（发表成果 · 网页）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-25T17:59:19.824000Z"
+        },
+        {
+          "id": "fbec5b552ce5624c6e3e45d21d071885c0234391",
+          "title": "Claude 完成 N=4 超对称 Yang-Mills 九圈振幅计算，物理学家 Matt von Hippel 复盘挑战始末 / Yes, Claude can do Nine Loops",
+          "title_zh": "Claude 完成 N=4 超对称 Yang-Mills 九圈振幅计算，物理学家 Matt von Hippel 复盘挑战始末",
+          "title_en": "Yes, Claude can do Nine Loops",
+          "title_original": "Yes, Claude can do Nine Loops",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.anthropic.com/research/yes-claude-can-do-nine-loops",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-09-25T18:11:48Z"
+        },
+        {
+          "id": "4b2672147b5d8a9ba8a593764afe96cbc40ef405",
+          "title": "Yes, Claude can do Nine Loops",
+          "title_zh": null,
+          "title_en": "Yes, Claude can do Nine Loops",
+          "title_original": "Yes, Claude can do Nine Loops",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=49848033",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-09-25T18:11:48Z"
+        }
+      ],
+      "source_count": 3,
+      "source_names": [
+        "Anthropic：Research（发表成果 · 网页）",
+        "Hacker News (黑客新闻)",
+        "hackernews"
+      ],
+      "items": [
+        {
+          "id": "18ad5d1949272a639d0b3e28920046d68ba92876",
+          "title": "Claude 完成 N=4 超对称 Yang-Mills 九圈振幅计算，物理学家 Matt von Hippel 复盘挑战始末 / Yes， Claude can do Nine Loops",
+          "title_zh": "Claude 完成 N=4 超对称 Yang-Mills 九圈振幅计算，物理学家 Matt von Hippel 复盘挑战始末",
+          "title_en": "Yes， Claude can do Nine Loops",
+          "title_original": "Yes， Claude can do Nine Loops",
+          "summary": "物理学家 Matt von Hippel 发文复盘：Anthropic 的 Liam Fitzpatrick 和 Siddharth Mishra-Sharma 用 Claude Science（Fable 5.1）以约一两千美元预算完成平面 N=4 超对称 Yang-Mills 六粒子九圈振幅计算。",
+          "recommend_reason_zh": null,
+          "url": "https://www.anthropic.com/research/yes-claude-can-do-nine-loops",
+          "source": "Anthropic：Research（发表成果 · 网页）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-25T17:59:19.824000Z"
+        },
+        {
+          "id": "fbec5b552ce5624c6e3e45d21d071885c0234391",
+          "title": "Claude 完成 N=4 超对称 Yang-Mills 九圈振幅计算，物理学家 Matt von Hippel 复盘挑战始末 / Yes, Claude can do Nine Loops",
+          "title_zh": "Claude 完成 N=4 超对称 Yang-Mills 九圈振幅计算，物理学家 Matt von Hippel 复盘挑战始末",
+          "title_en": "Yes, Claude can do Nine Loops",
+          "title_original": "Yes, Claude can do Nine Loops",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.anthropic.com/research/yes-claude-can-do-nine-loops",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-09-25T18:11:48Z"
+        },
+        {
+          "id": "4b2672147b5d8a9ba8a593764afe96cbc40ef405",
+          "title": "Yes, Claude can do Nine Loops",
+          "title_zh": null,
+          "title_en": "Yes, Claude can do Nine Loops",
+          "title_original": "Yes, Claude can do Nine Loops",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=49848033",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-09-25T18:11:48Z"
+        }
+      ],
+      "item_count": 3,
+      "duplicate_count": 3,
+      "score": 0.819,
+      "importance": 0.819,
+      "importance_score": 0.819,
+      "importance_label": "多源热议",
+      "importance_breakdown": {
+        "editorial": 0.74,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9744,
+        "story_heat": 0.5
+      },
+      "category": "multi_source",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-25T17:59:19.824000Z",
+      "latest_at": "2026-09-25T18:11:48Z",
+      "primary_item": {
+        "id": "18ad5d1949272a639d0b3e28920046d68ba92876",
+        "title": "Claude 完成 N=4 超对称 Yang-Mills 九圈振幅计算，物理学家 Matt von Hippel 复盘挑战始末 / Yes， Claude can do Nine Loops",
+        "title_zh": "Claude 完成 N=4 超对称 Yang-Mills 九圈振幅计算，物理学家 Matt von Hippel 复盘挑战始末",
+        "title_en": "Yes， Claude can do Nine Loops",
+        "title_original": "Yes， Claude can do Nine Loops",
+        "summary": "物理学家 Matt von Hippel 发文复盘：Anthropic 的 Liam Fitzpatrick 和 Siddharth Mishra-Sharma 用 Claude Science（Fable 5.1）以约一两千美元预算完成平面 N=4 超对称 Yang-Mills 六粒子九圈振幅计算。",
+        "recommend_reason_zh": null,
+        "url": "https://www.anthropic.com/research/yes-claude-can-do-nine-loops",
+        "source": "Anthropic：Research（发表成果 · 网页）",
+        "source_name": "AI HOT"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-09-25T20:10:25.236767Z"
       }
     },
     {
       "story_id": "story_383980d6bba6",
-      "title": "GitHub Copilot weekly releases — September 21",
+      "title": "GitHub Copilot 每周发布 — 9 月 21 日 / GitHub Copilot weekly releases — September 21",
       "url": "https://github.blog/changelog/2026-09-25-github-copilot-weekly-releases-september-21",
       "primary_url": "https://github.blog/changelog/2026-09-25-github-copilot-weekly-releases-september-21",
       "source": "GitHub Changelog",
@@ -375,8 +657,8 @@
       "sources": [
         {
           "id": "9c2fcd83c6f33548bf3d0523fa51f632c69d43a6",
-          "title": "GitHub Copilot weekly releases — September 21",
-          "title_zh": null,
+          "title": "GitHub Copilot 每周发布 — 9 月 21 日 / GitHub Copilot weekly releases — September 21",
+          "title_zh": "GitHub Copilot 每周发布 — 9 月 21 日",
           "title_en": "GitHub Copilot weekly releases — September 21",
           "title_original": "GitHub Copilot weekly releases — September 21",
           "summary": null,
@@ -395,8 +677,8 @@
       "items": [
         {
           "id": "9c2fcd83c6f33548bf3d0523fa51f632c69d43a6",
-          "title": "GitHub Copilot weekly releases — September 21",
-          "title_zh": null,
+          "title": "GitHub Copilot 每周发布 — 9 月 21 日 / GitHub Copilot weekly releases — September 21",
+          "title_zh": "GitHub Copilot 每周发布 — 9 月 21 日",
           "title_en": "GitHub Copilot weekly releases — September 21",
           "title_original": "GitHub Copilot weekly releases — September 21",
           "summary": null,
@@ -410,15 +692,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8467,
-      "importance": 0.8467,
-      "importance_score": 0.8467,
+      "score": 0.8442,
+      "importance": 0.8442,
+      "importance_score": 0.8442,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.9705,
+        "recency": 0.9566,
         "story_heat": 0.0
       },
       "category": "official",
@@ -431,8 +713,8 @@
       "latest_at": "2026-09-25T16:42:48Z",
       "primary_item": {
         "id": "9c2fcd83c6f33548bf3d0523fa51f632c69d43a6",
-        "title": "GitHub Copilot weekly releases — September 21",
-        "title_zh": null,
+        "title": "GitHub Copilot 每周发布 — 9 月 21 日 / GitHub Copilot weekly releases — September 21",
+        "title_zh": "GitHub Copilot 每周发布 — 9 月 21 日",
         "title_en": "GitHub Copilot weekly releases — September 21",
         "title_original": "GitHub Copilot weekly releases — September 21",
         "summary": null,
@@ -445,7 +727,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-25T19:03:43.189961Z"
+        "scored_at": "2026-09-25T20:10:25.236767Z"
       }
     },
     {
@@ -522,15 +804,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.812,
-      "importance": 0.812,
-      "importance_score": 0.812,
+      "score": 0.8095,
+      "importance": 0.8095,
+      "importance_score": 0.8095,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.81,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9578,
+        "recency": 0.9441,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -557,119 +839,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-25T19:03:43.189961Z"
-      }
-    },
-    {
-      "story_id": "story_53b278107409",
-      "title": "美国上诉法院维持五角大楼将 Anthropic 列为供应链风险的认定 / U.S. appeals court upholds designation of Anthropic as supply chain risk",
-      "url": "https://www.cnbc.com/2026/09/25/pentagon-anthropic-ai-risk-appeals-court.html",
-      "primary_url": "https://www.cnbc.com/2026/09/25/pentagon-anthropic-ai-risk-appeals-court.html",
-      "source": "Hacker News：AI 热帖",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "042609b7487f01eced16fa1ca33ff95623051866",
-          "title": "美国上诉法院维持五角大楼将 Anthropic 列为供应链风险的认定 / U.S. appeals court upholds designation of Anthropic as supply chain risk",
-          "title_zh": "美国上诉法院维持五角大楼将 Anthropic 列为供应链风险的认定",
-          "title_en": "U.S. appeals court upholds designation of Anthropic as supply chain risk",
-          "title_original": "U.S. appeals court upholds designation of Anthropic as supply chain risk",
-          "summary": "华盛顿特区联邦上诉法院以 2 比 1 裁定，维持国防部将 Anthropic 列为供应链风险的决定，禁止美军及国防承包商使用 Claude 模型。",
-          "recommend_reason_zh": null,
-          "url": "https://www.cnbc.com/2026/09/25/pentagon-anthropic-ai-risk-appeals-court.html",
-          "source": "Hacker News：AI 热帖",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-25T15:29:25Z"
-        },
-        {
-          "id": "0f9faea576b3975303565834d4067e13f2b1cc41",
-          "title": "U.S. appeals court upholds designation of Anthropic as supply chain risk",
-          "title_zh": null,
-          "title_en": "U.S. appeals court upholds designation of Anthropic as supply chain risk",
-          "title_original": "U.S. appeals court upholds designation of Anthropic as supply chain risk",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=49845977",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-09-25T15:29:25Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News：AI 热帖",
-        "hackernews"
-      ],
-      "items": [
-        {
-          "id": "042609b7487f01eced16fa1ca33ff95623051866",
-          "title": "美国上诉法院维持五角大楼将 Anthropic 列为供应链风险的认定 / U.S. appeals court upholds designation of Anthropic as supply chain risk",
-          "title_zh": "美国上诉法院维持五角大楼将 Anthropic 列为供应链风险的认定",
-          "title_en": "U.S. appeals court upholds designation of Anthropic as supply chain risk",
-          "title_original": "U.S. appeals court upholds designation of Anthropic as supply chain risk",
-          "summary": "华盛顿特区联邦上诉法院以 2 比 1 裁定，维持国防部将 Anthropic 列为供应链风险的决定，禁止美军及国防承包商使用 Claude 模型。",
-          "recommend_reason_zh": null,
-          "url": "https://www.cnbc.com/2026/09/25/pentagon-anthropic-ai-risk-appeals-court.html",
-          "source": "Hacker News：AI 热帖",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-25T15:29:25Z"
-        },
-        {
-          "id": "0f9faea576b3975303565834d4067e13f2b1cc41",
-          "title": "U.S. appeals court upholds designation of Anthropic as supply chain risk",
-          "title_zh": null,
-          "title_en": "U.S. appeals court upholds designation of Anthropic as supply chain risk",
-          "title_original": "U.S. appeals court upholds designation of Anthropic as supply chain risk",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=49845977",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-09-25T15:29:25Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.8052,
-      "importance": 0.8052,
-      "importance_score": 0.8052,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.79,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.9535,
-        "story_heat": 0.25
-      },
-      "category": "industry",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-25T15:29:25Z",
-      "latest_at": "2026-09-25T15:29:25Z",
-      "primary_item": {
-        "id": "042609b7487f01eced16fa1ca33ff95623051866",
-        "title": "美国上诉法院维持五角大楼将 Anthropic 列为供应链风险的认定 / U.S. appeals court upholds designation of Anthropic as supply chain risk",
-        "title_zh": "美国上诉法院维持五角大楼将 Anthropic 列为供应链风险的认定",
-        "title_en": "U.S. appeals court upholds designation of Anthropic as supply chain risk",
-        "title_original": "U.S. appeals court upholds designation of Anthropic as supply chain risk",
-        "summary": "华盛顿特区联邦上诉法院以 2 比 1 裁定，维持国防部将 Anthropic 列为供应链风险的决定，禁止美军及国防承包商使用 Claude 模型。",
-        "recommend_reason_zh": null,
-        "url": "https://www.cnbc.com/2026/09/25/pentagon-anthropic-ai-risk-appeals-court.html",
-        "source": "Hacker News：AI 热帖",
-        "source_name": "AI HOT"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-09-25T19:03:43.189961Z"
+        "scored_at": "2026-09-25T20:10:25.236767Z"
       }
     },
     {
@@ -717,15 +887,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7965,
-      "importance": 0.7965,
-      "importance_score": 0.7965,
+      "score": 0.794,
+      "importance": 0.794,
+      "importance_score": 0.794,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.66,
         "source_tier": 1.0,
         "ai_relevance": 1.0,
-        "recency": 0.9919,
+        "recency": 0.9777,
         "story_heat": 0.0
       },
       "category": "official",
@@ -751,119 +921,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-25T19:03:43.189961Z"
-      }
-    },
-    {
-      "story_id": "story_7535491ae20c",
-      "title": "Claude 完成 N=4 超对称 Yang-Mills 九圈振幅计算，物理学家 Matt von Hippel 复盘挑战始末 / Yes， Claude can do Nine Loops",
-      "url": "https://www.anthropic.com/research/yes-claude-can-do-nine-loops",
-      "primary_url": "https://www.anthropic.com/research/yes-claude-can-do-nine-loops",
-      "source": "Anthropic：Research（发表成果 · 网页）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "18ad5d1949272a639d0b3e28920046d68ba92876",
-          "title": "Claude 完成 N=4 超对称 Yang-Mills 九圈振幅计算，物理学家 Matt von Hippel 复盘挑战始末 / Yes， Claude can do Nine Loops",
-          "title_zh": "Claude 完成 N=4 超对称 Yang-Mills 九圈振幅计算，物理学家 Matt von Hippel 复盘挑战始末",
-          "title_en": "Yes， Claude can do Nine Loops",
-          "title_original": "Yes， Claude can do Nine Loops",
-          "summary": "物理学家 Matt von Hippel 发文复盘：Anthropic 的 Liam Fitzpatrick 和 Siddharth Mishra-Sharma 用 Claude Science（Fable 5.1）以约一两千美元预算完成平面 N=4 超对称 Yang-Mills 六粒子九圈振幅计算。",
-          "recommend_reason_zh": null,
-          "url": "https://www.anthropic.com/research/yes-claude-can-do-nine-loops",
-          "source": "Anthropic：Research（发表成果 · 网页）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-25T17:59:19.824000Z"
-        },
-        {
-          "id": "fbec5b552ce5624c6e3e45d21d071885c0234391",
-          "title": "Claude 完成 N=4 超对称 Yang-Mills 九圈振幅计算，物理学家 Matt von Hippel 复盘挑战始末 / Yes, Claude can do Nine Loops",
-          "title_zh": "Claude 完成 N=4 超对称 Yang-Mills 九圈振幅计算，物理学家 Matt von Hippel 复盘挑战始末",
-          "title_en": "Yes, Claude can do Nine Loops",
-          "title_original": "Yes, Claude can do Nine Loops",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.anthropic.com/research/yes-claude-can-do-nine-loops",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-09-25T18:11:48Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Anthropic：Research（发表成果 · 网页）",
-        "Hacker News (黑客新闻)"
-      ],
-      "items": [
-        {
-          "id": "18ad5d1949272a639d0b3e28920046d68ba92876",
-          "title": "Claude 完成 N=4 超对称 Yang-Mills 九圈振幅计算，物理学家 Matt von Hippel 复盘挑战始末 / Yes， Claude can do Nine Loops",
-          "title_zh": "Claude 完成 N=4 超对称 Yang-Mills 九圈振幅计算，物理学家 Matt von Hippel 复盘挑战始末",
-          "title_en": "Yes， Claude can do Nine Loops",
-          "title_original": "Yes， Claude can do Nine Loops",
-          "summary": "物理学家 Matt von Hippel 发文复盘：Anthropic 的 Liam Fitzpatrick 和 Siddharth Mishra-Sharma 用 Claude Science（Fable 5.1）以约一两千美元预算完成平面 N=4 超对称 Yang-Mills 六粒子九圈振幅计算。",
-          "recommend_reason_zh": null,
-          "url": "https://www.anthropic.com/research/yes-claude-can-do-nine-loops",
-          "source": "Anthropic：Research（发表成果 · 网页）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-25T17:59:19.824000Z"
-        },
-        {
-          "id": "fbec5b552ce5624c6e3e45d21d071885c0234391",
-          "title": "Claude 完成 N=4 超对称 Yang-Mills 九圈振幅计算，物理学家 Matt von Hippel 复盘挑战始末 / Yes, Claude can do Nine Loops",
-          "title_zh": "Claude 完成 N=4 超对称 Yang-Mills 九圈振幅计算，物理学家 Matt von Hippel 复盘挑战始末",
-          "title_en": "Yes, Claude can do Nine Loops",
-          "title_original": "Yes, Claude can do Nine Loops",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.anthropic.com/research/yes-claude-can-do-nine-loops",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-09-25T18:11:48Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.7965,
-      "importance": 0.7965,
-      "importance_score": 0.7965,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.74,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.9885,
-        "story_heat": 0.25
-      },
-      "category": "industry",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-25T17:59:19.824000Z",
-      "latest_at": "2026-09-25T18:11:48Z",
-      "primary_item": {
-        "id": "18ad5d1949272a639d0b3e28920046d68ba92876",
-        "title": "Claude 完成 N=4 超对称 Yang-Mills 九圈振幅计算，物理学家 Matt von Hippel 复盘挑战始末 / Yes， Claude can do Nine Loops",
-        "title_zh": "Claude 完成 N=4 超对称 Yang-Mills 九圈振幅计算，物理学家 Matt von Hippel 复盘挑战始末",
-        "title_en": "Yes， Claude can do Nine Loops",
-        "title_original": "Yes， Claude can do Nine Loops",
-        "summary": "物理学家 Matt von Hippel 发文复盘：Anthropic 的 Liam Fitzpatrick 和 Siddharth Mishra-Sharma 用 Claude Science（Fable 5.1）以约一两千美元预算完成平面 N=4 超对称 Yang-Mills 六粒子九圈振幅计算。",
-        "recommend_reason_zh": null,
-        "url": "https://www.anthropic.com/research/yes-claude-can-do-nine-loops",
-        "source": "Anthropic：Research（发表成果 · 网页）",
-        "source_name": "AI HOT"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-09-25T19:03:43.189961Z"
+        "scored_at": "2026-09-25T20:10:25.236767Z"
       }
     },
     {
@@ -911,15 +969,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7905,
-      "importance": 0.7905,
-      "importance_score": 0.7905,
+      "score": 0.7882,
+      "importance": 0.7882,
+      "importance_score": 0.7882,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.86,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8937,
+        "recency": 0.8809,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -945,12 +1003,12 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-25T19:03:43.189961Z"
+        "scored_at": "2026-09-25T20:10:25.236767Z"
       }
     },
     {
       "story_id": "story_42a4c6c0a2d7",
-      "title": "Updates to GitHub Copilot for Slack and Microsoft Teams",
+      "title": "Slack 和 Microsoft Teams 的 GitHub Copilot 更新 / Updates to GitHub Copilot for Slack and Microsoft Teams",
       "url": "https://github.blog/changelog/2026-09-25-updates-to-github-copilot-for-slack-and-microsoft-teams",
       "primary_url": "https://github.blog/changelog/2026-09-25-updates-to-github-copilot-for-slack-and-microsoft-teams",
       "source": "GitHub Changelog",
@@ -958,8 +1016,8 @@
       "sources": [
         {
           "id": "258f7545dc1f75de09b8800d8db521fd4d5db997",
-          "title": "Updates to GitHub Copilot for Slack and Microsoft Teams",
-          "title_zh": null,
+          "title": "Slack 和 Microsoft Teams 的 GitHub Copilot 更新 / Updates to GitHub Copilot for Slack and Microsoft Teams",
+          "title_zh": "Slack 和 Microsoft Teams 的 GitHub Copilot 更新",
           "title_en": "Updates to GitHub Copilot for Slack and Microsoft Teams",
           "title_original": "Updates to GitHub Copilot for Slack and Microsoft Teams",
           "summary": null,
@@ -978,8 +1036,8 @@
       "items": [
         {
           "id": "258f7545dc1f75de09b8800d8db521fd4d5db997",
-          "title": "Updates to GitHub Copilot for Slack and Microsoft Teams",
-          "title_zh": null,
+          "title": "Slack 和 Microsoft Teams 的 GitHub Copilot 更新 / Updates to GitHub Copilot for Slack and Microsoft Teams",
+          "title_zh": "Slack 和 Microsoft Teams 的 GitHub Copilot 更新",
           "title_en": "Updates to GitHub Copilot for Slack and Microsoft Teams",
           "title_original": "Updates to GitHub Copilot for Slack and Microsoft Teams",
           "summary": null,
@@ -993,15 +1051,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8463,
-      "importance": 0.8463,
-      "importance_score": 0.8463,
+      "score": 0.8438,
+      "importance": 0.8438,
+      "importance_score": 0.8438,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.9683,
+        "recency": 0.9545,
         "story_heat": 0.0
       },
       "category": "official",
@@ -1014,8 +1072,8 @@
       "latest_at": "2026-09-25T16:33:42Z",
       "primary_item": {
         "id": "258f7545dc1f75de09b8800d8db521fd4d5db997",
-        "title": "Updates to GitHub Copilot for Slack and Microsoft Teams",
-        "title_zh": null,
+        "title": "Slack 和 Microsoft Teams 的 GitHub Copilot 更新 / Updates to GitHub Copilot for Slack and Microsoft Teams",
+        "title_zh": "Slack 和 Microsoft Teams 的 GitHub Copilot 更新",
         "title_en": "Updates to GitHub Copilot for Slack and Microsoft Teams",
         "title_original": "Updates to GitHub Copilot for Slack and Microsoft Teams",
         "summary": null,
@@ -1028,7 +1086,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-25T19:03:43.189961Z"
+        "scored_at": "2026-09-25T20:10:25.236767Z"
       }
     },
     {
@@ -1105,15 +1163,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7967,
-      "importance": 0.7967,
-      "importance_score": 0.7967,
+      "score": 0.7942,
+      "importance": 0.7942,
+      "importance_score": 0.7942,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.76,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9559,
+        "recency": 0.9422,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -1140,7 +1198,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-25T19:03:43.189961Z"
+        "scored_at": "2026-09-25T20:10:25.236767Z"
       }
     },
     {
@@ -1188,15 +1246,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7935,
-      "importance": 0.7935,
-      "importance_score": 0.7935,
+      "score": 0.7917,
+      "importance": 0.7917,
+      "importance_score": 0.7917,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.7196,
+        "recency": 0.7093,
         "story_heat": 0.0
       },
       "category": "official",
@@ -1223,7 +1281,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-25T19:03:43.189961Z"
+        "scored_at": "2026-09-25T20:10:25.236767Z"
       }
     },
     {
@@ -1271,15 +1329,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7605,
-      "importance": 0.7605,
-      "importance_score": 0.7605,
+      "score": 0.7583,
+      "importance": 0.7583,
+      "importance_score": 0.7583,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.79,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8439,
+        "recency": 0.8318,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1305,7 +1363,89 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-25T19:03:43.189961Z"
+        "scored_at": "2026-09-25T20:10:25.236767Z"
+      }
+    },
+    {
+      "story_id": "story_d0bb9ce06108",
+      "title": "Sam Altman 谈 OpenAI 智能体训练期联网行为审查进展 / There is an extensive and ongoing review related to our agents' use of internet access during traini…",
+      "url": "https://x.com/sama/status/2103567198690349362",
+      "primary_url": "https://x.com/sama/status/2103567198690349362",
+      "source": "X：Sam Altman (@sama)",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "477fb3bd3d3bba747faf2053103523c7c20b5cce",
+          "title": "Sam Altman 谈 OpenAI 智能体训练期联网行为审查进展 / There is an extensive and ongoing review related to our agents' use of internet access during traini…",
+          "title_zh": "Sam Altman 谈 OpenAI 智能体训练期联网行为审查进展",
+          "title_en": "There is an extensive and ongoing review related to our agents' use of internet access during traini…",
+          "title_original": "There is an extensive and ongoing review related to our agents' use of internet access during traini…",
+          "summary": "Sam Altman 表示 OpenAI 正在对智能体在训练和评估期间的互联网访问行为进行大规模持续审查，并在官网链接发布摘要。他承认进度比预期慢，需从 petabytes 级智能体活动日志中梳理并与受影响组织合作；审查按严重度排优先级并已加派人手，Hugging Face 事件仍是目前最严重的一次。",
+          "recommend_reason_zh": null,
+          "url": "https://x.com/sama/status/2103567198690349362",
+          "source": "X：Sam Altman (@sama)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-25T19:27:57Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "X：Sam Altman (@sama)"
+      ],
+      "items": [
+        {
+          "id": "477fb3bd3d3bba747faf2053103523c7c20b5cce",
+          "title": "Sam Altman 谈 OpenAI 智能体训练期联网行为审查进展 / There is an extensive and ongoing review related to our agents' use of internet access during traini…",
+          "title_zh": "Sam Altman 谈 OpenAI 智能体训练期联网行为审查进展",
+          "title_en": "There is an extensive and ongoing review related to our agents' use of internet access during traini…",
+          "title_original": "There is an extensive and ongoing review related to our agents' use of internet access during traini…",
+          "summary": "Sam Altman 表示 OpenAI 正在对智能体在训练和评估期间的互联网访问行为进行大规模持续审查，并在官网链接发布摘要。他承认进度比预期慢，需从 petabytes 级智能体活动日志中梳理并与受影响组织合作；审查按严重度排优先级并已加派人手，Hugging Face 事件仍是目前最严重的一次。",
+          "recommend_reason_zh": null,
+          "url": "https://x.com/sama/status/2103567198690349362",
+          "source": "X：Sam Altman (@sama)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-25T19:27:57Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7578,
+      "importance": 0.7578,
+      "importance_score": 0.7578,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.69,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9954,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-25T19:27:57Z",
+      "latest_at": "2026-09-25T19:27:57Z",
+      "primary_item": {
+        "id": "477fb3bd3d3bba747faf2053103523c7c20b5cce",
+        "title": "Sam Altman 谈 OpenAI 智能体训练期联网行为审查进展 / There is an extensive and ongoing review related to our agents' use of internet access during traini…",
+        "title_zh": "Sam Altman 谈 OpenAI 智能体训练期联网行为审查进展",
+        "title_en": "There is an extensive and ongoing review related to our agents' use of internet access during traini…",
+        "title_original": "There is an extensive and ongoing review related to our agents' use of internet access during traini…",
+        "summary": "Sam Altman 表示 OpenAI 正在对智能体在训练和评估期间的互联网访问行为进行大规模持续审查，并在官网链接发布摘要。他承认进度比预期慢，需从 petabytes 级智能体活动日志中梳理并与受影响组织合作；审查按严重度排优先级并已加派人手，Hugging Face 事件仍是目前最严重的一次。",
+        "recommend_reason_zh": null,
+        "url": "https://x.com/sama/status/2103567198690349362",
+        "source": "X：Sam Altman (@sama)",
+        "source_name": "AI HOT"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-09-25T20:10:25.236767Z"
       }
     },
     {
@@ -1353,15 +1493,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7598,
-      "importance": 0.7598,
-      "importance_score": 0.7598,
+      "score": 0.7573,
+      "importance": 0.7573,
+      "importance_score": 0.7573,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9564,
+        "recency": 0.9427,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1387,7 +1527,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-25T19:03:43.189961Z"
+        "scored_at": "2026-09-25T20:10:25.236767Z"
       }
     },
     {
@@ -1435,15 +1575,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8427,
-      "importance": 0.8427,
-      "importance_score": 0.8427,
+      "score": 0.8401,
+      "importance": 0.8401,
+      "importance_score": 0.8401,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.9927,
+        "recency": 0.9785,
         "story_heat": 0.0
       },
       "category": "official",
@@ -1470,7 +1610,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-25T19:03:43.189961Z"
+        "scored_at": "2026-09-25T20:10:25.236767Z"
       }
     },
     {
@@ -1518,21 +1658,20 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.75,
-      "importance": 0.75,
-      "importance_score": 0.75,
+      "score": 0.7474,
+      "importance": 0.7474,
+      "importance_score": 0.7474,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.67,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9854,
+        "recency": 0.9713,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-09-25T17:46:08Z",
       "latest_at": "2026-09-25T17:46:08Z",
@@ -1552,7 +1691,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-25T19:03:43.189961Z"
+        "scored_at": "2026-09-25T20:10:25.236767Z"
       }
     },
     {
@@ -1600,15 +1739,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.736,
-      "importance": 0.736,
-      "importance_score": 0.736,
+      "score": 0.7337,
+      "importance": 0.7337,
+      "importance_score": 0.7337,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.67,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9078,
+        "recency": 0.8948,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1633,7 +1772,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-25T19:03:43.189961Z"
+        "scored_at": "2026-09-25T20:10:25.236767Z"
       }
     },
     {
@@ -1681,15 +1820,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7359,
-      "importance": 0.7359,
-      "importance_score": 0.7359,
+      "score": 0.7334,
+      "importance": 0.7334,
+      "importance_score": 0.7334,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.62,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9908,
+        "recency": 0.9767,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1714,88 +1853,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-25T19:03:43.189961Z"
-      }
-    },
-    {
-      "story_id": "story_790f3794cdaf",
-      "title": "GitHub 如何通过迁移 CSS Modules 将 SSR 时间降低 55% / Improving site performance by shipping more CSS",
-      "url": "https://github.blog/engineering/architecture-optimization/improving-site-performance-by-shipping-more-css",
-      "primary_url": "https://github.blog/engineering/architecture-optimization/improving-site-performance-by-shipping-more-css",
-      "source": "GitHub Blog",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "5b57d663729fc131b07cadf6fb35f68bb1caee34",
-          "title": "GitHub 如何通过迁移 CSS Modules 将 SSR 时间降低 55% / Improving site performance by shipping more CSS",
-          "title_zh": "GitHub 如何通过迁移 CSS Modules 将 SSR 时间降低 55%",
-          "title_en": "Improving site performance by shipping more CSS",
-          "title_original": "Improving site performance by shipping more CSS",
-          "summary": "GitHub 工程师 Josh Black 复盘将 Primer 设计系统从 CSS-in-JS 迁移到 CSS Modules 的历程。截至 2024 年 12 月 Primer 全部组件迁移完成，服务端渲染时间减少 55%，组件初始化时间减少 25%。",
-          "recommend_reason_zh": null,
-          "url": "https://github.blog/engineering/architecture-optimization/improving-site-performance-by-shipping-more-css",
-          "source": "GitHub Blog",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-25T15:00:00Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "GitHub Blog"
-      ],
-      "items": [
-        {
-          "id": "5b57d663729fc131b07cadf6fb35f68bb1caee34",
-          "title": "GitHub 如何通过迁移 CSS Modules 将 SSR 时间降低 55% / Improving site performance by shipping more CSS",
-          "title_zh": "GitHub 如何通过迁移 CSS Modules 将 SSR 时间降低 55%",
-          "title_en": "Improving site performance by shipping more CSS",
-          "title_original": "Improving site performance by shipping more CSS",
-          "summary": "GitHub 工程师 Josh Black 复盘将 Primer 设计系统从 CSS-in-JS 迁移到 CSS Modules 的历程。截至 2024 年 12 月 Primer 全部组件迁移完成，服务端渲染时间减少 55%，组件初始化时间减少 25%。",
-          "recommend_reason_zh": null,
-          "url": "https://github.blog/engineering/architecture-optimization/improving-site-performance-by-shipping-more-css",
-          "source": "GitHub Blog",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-25T15:00:00Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.734,
-      "importance": 0.734,
-      "importance_score": 0.734,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.64,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.9467,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-09-25T15:00:00Z",
-      "latest_at": "2026-09-25T15:00:00Z",
-      "primary_item": {
-        "id": "5b57d663729fc131b07cadf6fb35f68bb1caee34",
-        "title": "GitHub 如何通过迁移 CSS Modules 将 SSR 时间降低 55% / Improving site performance by shipping more CSS",
-        "title_zh": "GitHub 如何通过迁移 CSS Modules 将 SSR 时间降低 55%",
-        "title_en": "Improving site performance by shipping more CSS",
-        "title_original": "Improving site performance by shipping more CSS",
-        "summary": "GitHub 工程师 Josh Black 复盘将 Primer 设计系统从 CSS-in-JS 迁移到 CSS Modules 的历程。截至 2024 年 12 月 Primer 全部组件迁移完成，服务端渲染时间减少 55%，组件初始化时间减少 25%。",
-        "recommend_reason_zh": null,
-        "url": "https://github.blog/engineering/architecture-optimization/improving-site-performance-by-shipping-more-css",
-        "source": "GitHub Blog",
-        "source_name": "AI HOT"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-09-25T19:03:43.189961Z"
+        "scored_at": "2026-09-25T20:10:25.236767Z"
       }
     }
   ]
