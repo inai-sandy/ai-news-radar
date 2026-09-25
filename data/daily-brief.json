@@ -1,62 +1,62 @@
 {
-  "generated_at": "2026-09-25T15:47:18.866351Z",
+  "generated_at": "2026-09-25T16:47:20.132118Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
     {
-      "story_id": "story_c64a4fb7a68e",
-      "title": "CodeQL 2.27.1 添加了 C 和 C++ 查询以及 Kotlin 2.4.20 支持 / CodeQL 2.27.1 adds C and C++ query and Kotlin 2.4.20 support",
-      "url": "https://github.blog/changelog/2026-09-25-codeql-2-27-1-adds-c-and-c-query-and-kotlin-2-4-20-support",
-      "primary_url": "https://github.blog/changelog/2026-09-25-codeql-2-27-1-adds-c-and-c-query-and-kotlin-2-4-20-support",
-      "source": "GitHub Changelog",
+      "story_id": "story_31f780f81dc1",
+      "title": "Proaction boosts sales 60% and saves 75+ hours with Codex",
+      "url": "https://openai.com/index/proaction",
+      "primary_url": "https://openai.com/index/proaction",
+      "source": "OpenAI News",
       "source_name": "Official AI Updates",
       "sources": [
         {
-          "id": "fa72032807585186751d05c49f31bb0f1172175a",
-          "title": "CodeQL 2.27.1 添加了 C 和 C++ 查询以及 Kotlin 2.4.20 支持 / CodeQL 2.27.1 adds C and C++ query and Kotlin 2.4.20 support",
-          "title_zh": "CodeQL 2.27.1 添加了 C 和 C++ 查询以及 Kotlin 2.4.20 支持",
-          "title_en": "CodeQL 2.27.1 adds C and C++ query and Kotlin 2.4.20 support",
-          "title_original": "CodeQL 2.27.1 adds C and C++ query and Kotlin 2.4.20 support",
+          "id": "66813550b19620d0f21a2f5a0f52320a576eb1a2",
+          "title": "Proaction boosts sales 60% and saves 75+ hours with Codex",
+          "title_zh": null,
+          "title_en": "Proaction boosts sales 60% and saves 75+ hours with Codex",
+          "title_original": "Proaction boosts sales 60% and saves 75+ hours with Codex",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-09-25-codeql-2-27-1-adds-c-and-c-query-and-kotlin-2-4-20-support",
-          "source": "GitHub Changelog",
+          "url": "https://openai.com/index/proaction",
+          "source": "OpenAI News",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-09-25T09:55:23Z"
+          "published_at": "2026-09-25T19:00:00Z"
         }
       ],
       "source_count": 1,
       "source_names": [
-        "GitHub Changelog"
+        "OpenAI News"
       ],
       "items": [
         {
-          "id": "fa72032807585186751d05c49f31bb0f1172175a",
-          "title": "CodeQL 2.27.1 添加了 C 和 C++ 查询以及 Kotlin 2.4.20 支持 / CodeQL 2.27.1 adds C and C++ query and Kotlin 2.4.20 support",
-          "title_zh": "CodeQL 2.27.1 添加了 C 和 C++ 查询以及 Kotlin 2.4.20 支持",
-          "title_en": "CodeQL 2.27.1 adds C and C++ query and Kotlin 2.4.20 support",
-          "title_original": "CodeQL 2.27.1 adds C and C++ query and Kotlin 2.4.20 support",
+          "id": "66813550b19620d0f21a2f5a0f52320a576eb1a2",
+          "title": "Proaction boosts sales 60% and saves 75+ hours with Codex",
+          "title_zh": null,
+          "title_en": "Proaction boosts sales 60% and saves 75+ hours with Codex",
+          "title_original": "Proaction boosts sales 60% and saves 75+ hours with Codex",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-09-25-codeql-2-27-1-adds-c-and-c-query-and-kotlin-2-4-20-support",
-          "source": "GitHub Changelog",
+          "url": "https://openai.com/index/proaction",
+          "source": "OpenAI News",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-09-25T09:55:23Z"
+          "published_at": "2026-09-25T19:00:00Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8294,
-      "importance": 0.8294,
-      "importance_score": 0.8294,
+      "score": 0.86,
+      "importance": 0.86,
+      "importance_score": 0.86,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
-        "ai_relevance": 0.87,
-        "recency": 0.9188,
+        "ai_relevance": 0.95,
+        "recency": 1.0,
         "story_heat": 0.0
       },
       "category": "official",
@@ -65,25 +65,25 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-09-25T09:55:23Z",
-      "latest_at": "2026-09-25T09:55:23Z",
+      "earliest_at": "2026-09-25T16:47:20.132118Z",
+      "latest_at": "2026-09-25T16:47:20.132118Z",
       "primary_item": {
-        "id": "fa72032807585186751d05c49f31bb0f1172175a",
-        "title": "CodeQL 2.27.1 添加了 C 和 C++ 查询以及 Kotlin 2.4.20 支持 / CodeQL 2.27.1 adds C and C++ query and Kotlin 2.4.20 support",
-        "title_zh": "CodeQL 2.27.1 添加了 C 和 C++ 查询以及 Kotlin 2.4.20 支持",
-        "title_en": "CodeQL 2.27.1 adds C and C++ query and Kotlin 2.4.20 support",
-        "title_original": "CodeQL 2.27.1 adds C and C++ query and Kotlin 2.4.20 support",
+        "id": "66813550b19620d0f21a2f5a0f52320a576eb1a2",
+        "title": "Proaction boosts sales 60% and saves 75+ hours with Codex",
+        "title_zh": null,
+        "title_en": "Proaction boosts sales 60% and saves 75+ hours with Codex",
+        "title_original": "Proaction boosts sales 60% and saves 75+ hours with Codex",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://github.blog/changelog/2026-09-25-codeql-2-27-1-adds-c-and-c-query-and-kotlin-2-4-20-support",
-        "source": "GitHub Changelog",
+        "url": "https://openai.com/index/proaction",
+        "source": "OpenAI News",
         "source_name": "Official AI Updates"
       },
       "persona_id": "pragmatic",
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-25T16:03:00.141905Z"
+        "scored_at": "2026-09-25T17:08:30.392778Z"
       }
     },
     {
@@ -131,15 +131,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8293,
-      "importance": 0.8293,
-      "importance_score": 0.8293,
+      "score": 0.8272,
+      "importance": 0.8272,
+      "importance_score": 0.8272,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.98,
-        "recency": 0.7961,
+        "recency": 0.7847,
         "story_heat": 0.0
       },
       "category": "official",
@@ -166,63 +166,63 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-25T16:03:00.141905Z"
+        "scored_at": "2026-09-25T17:08:30.392778Z"
       }
     },
     {
-      "story_id": "story_c5257387fdcf",
-      "title": "隆重推出 Gemini 3.8 Live with Live Avatar / Introducing Gemini 3.8 Live with Live Avatar",
-      "url": "https://deepmind.google/blog/introducing-gemini-38-live-with-live-avatar",
-      "primary_url": "https://deepmind.google/blog/introducing-gemini-38-live-with-live-avatar",
-      "source": "Google DeepMind",
+      "story_id": "story_c64a4fb7a68e",
+      "title": "CodeQL 2.27.1 添加了 C 和 C++ 查询以及 Kotlin 2.4.20 支持 / CodeQL 2.27.1 adds C and C++ query and Kotlin 2.4.20 support",
+      "url": "https://github.blog/changelog/2026-09-25-codeql-2-27-1-adds-c-and-c-query-and-kotlin-2-4-20-support",
+      "primary_url": "https://github.blog/changelog/2026-09-25-codeql-2-27-1-adds-c-and-c-query-and-kotlin-2-4-20-support",
+      "source": "GitHub Changelog",
       "source_name": "Official AI Updates",
       "sources": [
         {
-          "id": "7bea9587fedc502c2776c404f3405dcc913a7b5c",
-          "title": "隆重推出 Gemini 3.8 Live with Live Avatar / Introducing Gemini 3.8 Live with Live Avatar",
-          "title_zh": "隆重推出 Gemini 3.8 Live with Live Avatar",
-          "title_en": "Introducing Gemini 3.8 Live with Live Avatar",
-          "title_original": "Introducing Gemini 3.8 Live with Live Avatar",
+          "id": "fa72032807585186751d05c49f31bb0f1172175a",
+          "title": "CodeQL 2.27.1 添加了 C 和 C++ 查询以及 Kotlin 2.4.20 支持 / CodeQL 2.27.1 adds C and C++ query and Kotlin 2.4.20 support",
+          "title_zh": "CodeQL 2.27.1 添加了 C 和 C++ 查询以及 Kotlin 2.4.20 支持",
+          "title_en": "CodeQL 2.27.1 adds C and C++ query and Kotlin 2.4.20 support",
+          "title_original": "CodeQL 2.27.1 adds C and C++ query and Kotlin 2.4.20 support",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://deepmind.google/blog/introducing-gemini-38-live-with-live-avatar",
-          "source": "Google DeepMind",
+          "url": "https://github.blog/changelog/2026-09-25-codeql-2-27-1-adds-c-and-c-query-and-kotlin-2-4-20-support",
+          "source": "GitHub Changelog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-09-24T16:20:39Z"
+          "published_at": "2026-09-25T09:55:23Z"
         }
       ],
       "source_count": 1,
       "source_names": [
-        "Google DeepMind"
+        "GitHub Changelog"
       ],
       "items": [
         {
-          "id": "7bea9587fedc502c2776c404f3405dcc913a7b5c",
-          "title": "隆重推出 Gemini 3.8 Live with Live Avatar / Introducing Gemini 3.8 Live with Live Avatar",
-          "title_zh": "隆重推出 Gemini 3.8 Live with Live Avatar",
-          "title_en": "Introducing Gemini 3.8 Live with Live Avatar",
-          "title_original": "Introducing Gemini 3.8 Live with Live Avatar",
+          "id": "fa72032807585186751d05c49f31bb0f1172175a",
+          "title": "CodeQL 2.27.1 添加了 C 和 C++ 查询以及 Kotlin 2.4.20 支持 / CodeQL 2.27.1 adds C and C++ query and Kotlin 2.4.20 support",
+          "title_zh": "CodeQL 2.27.1 添加了 C 和 C++ 查询以及 Kotlin 2.4.20 支持",
+          "title_en": "CodeQL 2.27.1 adds C and C++ query and Kotlin 2.4.20 support",
+          "title_original": "CodeQL 2.27.1 adds C and C++ query and Kotlin 2.4.20 support",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://deepmind.google/blog/introducing-gemini-38-live-with-live-avatar",
-          "source": "Google DeepMind",
+          "url": "https://github.blog/changelog/2026-09-25-codeql-2-27-1-adds-c-and-c-query-and-kotlin-2-4-20-support",
+          "source": "GitHub Changelog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-09-24T16:20:39Z"
+          "published_at": "2026-09-25T09:55:23Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8003,
-      "importance": 0.8003,
-      "importance_score": 0.8003,
+      "score": 0.827,
+      "importance": 0.827,
+      "importance_score": 0.827,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
-        "ai_relevance": 0.91,
-        "recency": 0.7128,
+        "ai_relevance": 0.87,
+        "recency": 0.9056,
         "story_heat": 0.0
       },
       "category": "official",
@@ -231,25 +231,137 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-09-24T16:20:39Z",
-      "latest_at": "2026-09-24T16:20:39Z",
+      "earliest_at": "2026-09-25T09:55:23Z",
+      "latest_at": "2026-09-25T09:55:23Z",
       "primary_item": {
-        "id": "7bea9587fedc502c2776c404f3405dcc913a7b5c",
-        "title": "隆重推出 Gemini 3.8 Live with Live Avatar / Introducing Gemini 3.8 Live with Live Avatar",
-        "title_zh": "隆重推出 Gemini 3.8 Live with Live Avatar",
-        "title_en": "Introducing Gemini 3.8 Live with Live Avatar",
-        "title_original": "Introducing Gemini 3.8 Live with Live Avatar",
+        "id": "fa72032807585186751d05c49f31bb0f1172175a",
+        "title": "CodeQL 2.27.1 添加了 C 和 C++ 查询以及 Kotlin 2.4.20 支持 / CodeQL 2.27.1 adds C and C++ query and Kotlin 2.4.20 support",
+        "title_zh": "CodeQL 2.27.1 添加了 C 和 C++ 查询以及 Kotlin 2.4.20 支持",
+        "title_en": "CodeQL 2.27.1 adds C and C++ query and Kotlin 2.4.20 support",
+        "title_original": "CodeQL 2.27.1 adds C and C++ query and Kotlin 2.4.20 support",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://deepmind.google/blog/introducing-gemini-38-live-with-live-avatar",
-        "source": "Google DeepMind",
+        "url": "https://github.blog/changelog/2026-09-25-codeql-2-27-1-adds-c-and-c-query-and-kotlin-2-4-20-support",
+        "source": "GitHub Changelog",
         "source_name": "Official AI Updates"
       },
       "persona_id": "pragmatic",
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-25T16:03:00.141905Z"
+        "scored_at": "2026-09-25T17:08:30.392778Z"
+      }
+    },
+    {
+      "story_id": "story_45b4b65d9e31",
+      "title": "OpenAI 智能体集群数月来入侵在线数据库搜寻冷门数据，Transluce 与澳政府相继披露 / For months， OpenAI's agent swarms have been attacking online databases to find obscure facts",
+      "url": "https://techcrunch.com/2026/09/25/for-months-openais-agent-swarms-have-been-attacking-online-databases-to-find-obscure-facts",
+      "primary_url": "https://techcrunch.com/2026/09/25/for-months-openais-agent-swarms-have-been-attacking-online-databases-to-find-obscure-facts",
+      "source": "TechCrunch：AI（RSS）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "d7b0d7d90711d174a0563e8e81eeb0eac356c018",
+          "title": "OpenAI 智能体集群数月来入侵在线数据库搜寻冷门数据，Transluce 与澳政府相继披露 / For months， OpenAI's agent swarms have been attacking online databases to find obscure facts",
+          "title_zh": "OpenAI 智能体集群数月来入侵在线数据库搜寻冷门数据，Transluce 与澳政府相继披露",
+          "title_en": "For months， OpenAI's agent swarms have been attacking online databases to find obscure facts",
+          "title_original": "For months， OpenAI's agent swarms have been attacking online databases to find obscure facts",
+          "summary": "Transluce 周三发布报告，发现 OpenAI 智能体集群试图从 Data USA、新墨西哥大学数字图书馆和澳大利亚健康与福利研究所（AIHW）等数据库获取数据，以完成搜寻泰国禁毒数据、澳大利亚药费等冷门统计的任务。",
+          "recommend_reason_zh": null,
+          "url": "https://techcrunch.com/2026/09/25/for-months-openais-agent-swarms-have-been-attacking-online-databases-to-find-obscure-facts",
+          "source": "TechCrunch：AI（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-25T15:48:14Z"
+        },
+        {
+          "id": "0848566877508999bfd85f0820c9844c9da70b0c",
+          "title": "OpenAI 智能体集群数月来入侵在线数据库搜寻冷门数据，Transluce 与澳政府相继披露 / For months, OpenAI’s agent swarms have been attacking online databases to find obscure facts",
+          "title_zh": "OpenAI 智能体集群数月来入侵在线数据库搜寻冷门数据，Transluce 与澳政府相继披露",
+          "title_en": "For months, OpenAI’s agent swarms have been attacking online databases to find obscure facts",
+          "title_original": "For months, OpenAI’s agent swarms have been attacking online databases to find obscure facts",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://techcrunch.com/2026/09/25/for-months-openais-agent-swarms-have-been-attacking-online-databases-to-find-obscure-facts",
+          "source": "TechCrunch AI",
+          "source_name": "Curated Media",
+          "site_id": "curated_media",
+          "published_at": "2026-09-25T15:48:14Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "TechCrunch AI",
+        "TechCrunch：AI（RSS）"
+      ],
+      "items": [
+        {
+          "id": "d7b0d7d90711d174a0563e8e81eeb0eac356c018",
+          "title": "OpenAI 智能体集群数月来入侵在线数据库搜寻冷门数据，Transluce 与澳政府相继披露 / For months， OpenAI's agent swarms have been attacking online databases to find obscure facts",
+          "title_zh": "OpenAI 智能体集群数月来入侵在线数据库搜寻冷门数据，Transluce 与澳政府相继披露",
+          "title_en": "For months， OpenAI's agent swarms have been attacking online databases to find obscure facts",
+          "title_original": "For months， OpenAI's agent swarms have been attacking online databases to find obscure facts",
+          "summary": "Transluce 周三发布报告，发现 OpenAI 智能体集群试图从 Data USA、新墨西哥大学数字图书馆和澳大利亚健康与福利研究所（AIHW）等数据库获取数据，以完成搜寻泰国禁毒数据、澳大利亚药费等冷门统计的任务。",
+          "recommend_reason_zh": null,
+          "url": "https://techcrunch.com/2026/09/25/for-months-openais-agent-swarms-have-been-attacking-online-databases-to-find-obscure-facts",
+          "source": "TechCrunch：AI（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-25T15:48:14Z"
+        },
+        {
+          "id": "0848566877508999bfd85f0820c9844c9da70b0c",
+          "title": "OpenAI 智能体集群数月来入侵在线数据库搜寻冷门数据，Transluce 与澳政府相继披露 / For months, OpenAI’s agent swarms have been attacking online databases to find obscure facts",
+          "title_zh": "OpenAI 智能体集群数月来入侵在线数据库搜寻冷门数据，Transluce 与澳政府相继披露",
+          "title_en": "For months, OpenAI’s agent swarms have been attacking online databases to find obscure facts",
+          "title_original": "For months, OpenAI’s agent swarms have been attacking online databases to find obscure facts",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://techcrunch.com/2026/09/25/for-months-openais-agent-swarms-have-been-attacking-online-databases-to-find-obscure-facts",
+          "source": "TechCrunch AI",
+          "source_name": "Curated Media",
+          "site_id": "curated_media",
+          "published_at": "2026-09-25T15:48:14Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.8171,
+      "importance": 0.8171,
+      "importance_score": 0.8171,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.81,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9859,
+        "story_heat": 0.25
+      },
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-25T15:48:14Z",
+      "latest_at": "2026-09-25T15:48:14Z",
+      "primary_item": {
+        "id": "d7b0d7d90711d174a0563e8e81eeb0eac356c018",
+        "title": "OpenAI 智能体集群数月来入侵在线数据库搜寻冷门数据，Transluce 与澳政府相继披露 / For months， OpenAI's agent swarms have been attacking online databases to find obscure facts",
+        "title_zh": "OpenAI 智能体集群数月来入侵在线数据库搜寻冷门数据，Transluce 与澳政府相继披露",
+        "title_en": "For months， OpenAI's agent swarms have been attacking online databases to find obscure facts",
+        "title_original": "For months， OpenAI's agent swarms have been attacking online databases to find obscure facts",
+        "summary": "Transluce 周三发布报告，发现 OpenAI 智能体集群试图从 Data USA、新墨西哥大学数字图书馆和澳大利亚健康与福利研究所（AIHW）等数据库获取数据，以完成搜寻泰国禁毒数据、澳大利亚药费等冷门统计的任务。",
+        "recommend_reason_zh": null,
+        "url": "https://techcrunch.com/2026/09/25/for-months-openais-agent-swarms-have-been-attacking-online-databases-to-find-obscure-facts",
+        "source": "TechCrunch：AI（RSS）",
+        "source_name": "AI HOT"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-09-25T17:08:30.392778Z"
       }
     },
     {
@@ -297,15 +409,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7993,
-      "importance": 0.7993,
-      "importance_score": 0.7993,
+      "score": 0.7973,
+      "importance": 0.7973,
+      "importance_score": 0.7973,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.7514,
+        "recency": 0.7407,
         "story_heat": 0.0
       },
       "category": "official",
@@ -332,7 +444,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-25T16:03:00.141905Z"
+        "scored_at": "2026-09-25T17:08:30.392778Z"
       }
     },
     {
@@ -380,15 +492,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7976,
-      "importance": 0.7976,
-      "importance_score": 0.7976,
+      "score": 0.7952,
+      "importance": 0.7952,
+      "importance_score": 0.7952,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.86,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9333,
+        "recency": 0.9199,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -414,7 +526,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-25T16:03:00.141905Z"
+        "scored_at": "2026-09-25T17:08:30.392778Z"
       }
     },
     {
@@ -462,15 +574,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8221,
-      "importance": 0.8221,
-      "importance_score": 0.8221,
+      "score": 0.82,
+      "importance": 0.82,
+      "importance_score": 0.82,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.8341,
+        "recency": 0.8221,
         "story_heat": 0.0
       },
       "category": "official",
@@ -497,89 +609,119 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-25T16:03:00.141905Z"
+        "scored_at": "2026-09-25T17:08:30.392778Z"
       }
     },
     {
-      "story_id": "story_ef0bb9e0a293",
-      "title": "Cognition 宣布年化收入运行率突破 10 亿美元 / Cognition Crosses $1B in Annualized Revenue Run Rate",
-      "url": "https://cognition.com/blog/1b-run-rate",
-      "primary_url": "https://cognition.com/blog/1b-run-rate",
-      "source": "Cognition 模型 / Devin 博客（网页）",
+      "story_id": "story_099b3747aee8",
+      "title": "Anthropic 创始人拟在 IPO 前谋求投票控制权 / Anthropic's founders seek voting control ahead of IPO",
+      "url": "https://techcrunch.com/2026/09/25/anthropics-founders-seek-voting-control-ahead-of-ipo",
+      "primary_url": "https://techcrunch.com/2026/09/25/anthropics-founders-seek-voting-control-ahead-of-ipo",
+      "source": "TechCrunch：AI（RSS）",
       "source_name": "AI HOT",
       "sources": [
         {
-          "id": "610696a3bff4d2e722260fd295531b17af651ebc",
-          "title": "Cognition 宣布年化收入运行率突破 10 亿美元 / Cognition Crosses $1B in Annualized Revenue Run Rate",
-          "title_zh": "Cognition 宣布年化收入运行率突破 10 亿美元",
-          "title_en": "Cognition Crosses $1B in Annualized Revenue Run Rate",
-          "title_original": "Cognition Crosses $1B in Annualized Revenue Run Rate",
-          "summary": "Cognition 宣布年化收入运行率突破 10 亿美元。公司 2024 年 1 月创立，Devin 正式开放使用不到两年，已服务 GE Aerospace、Rivian、Rohlik、Exa 等客户的工程团队。",
+          "id": "f5eeec18af72c5eaa6b0f00193c52eb62b5bd259",
+          "title": "Anthropic 创始人拟在 IPO 前谋求投票控制权 / Anthropic's founders seek voting control ahead of IPO",
+          "title_zh": "Anthropic 创始人拟在 IPO 前谋求投票控制权",
+          "title_en": "Anthropic's founders seek voting control ahead of IPO",
+          "title_original": "Anthropic's founders seek voting control ahead of IPO",
+          "summary": "据 The Information 报道，Anthropic 正请求股东在未来几天批准一项结构，让 CEO Dario Amodei 与六位联合创始人通过特别股合计持有多数公司事务 50.1% 的投票权，前提是至少三人保留最低持股。",
           "recommend_reason_zh": null,
-          "url": "https://cognition.com/blog/1b-run-rate",
-          "source": "Cognition 模型 / Devin 博客（网页）",
+          "url": "https://techcrunch.com/2026/09/25/anthropics-founders-seek-voting-control-ahead-of-ipo",
+          "source": "TechCrunch：AI（RSS）",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-09-25T15:42:15.643000Z"
+          "published_at": "2026-09-25T15:40:03Z"
+        },
+        {
+          "id": "14129ca2929062dcca57c62c53a864d16a518c5a",
+          "title": "Anthropic 创始人拟在 IPO 前谋求投票控制权 / Anthropic’s founders seek voting control ahead of IPO",
+          "title_zh": "Anthropic 创始人拟在 IPO 前谋求投票控制权",
+          "title_en": "Anthropic’s founders seek voting control ahead of IPO",
+          "title_original": "Anthropic’s founders seek voting control ahead of IPO",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://techcrunch.com/2026/09/25/anthropics-founders-seek-voting-control-ahead-of-ipo",
+          "source": "TechCrunch AI",
+          "source_name": "Curated Media",
+          "site_id": "curated_media",
+          "published_at": "2026-09-25T15:40:03Z"
         }
       ],
-      "source_count": 1,
+      "source_count": 2,
       "source_names": [
-        "Cognition 模型 / Devin 博客（网页）"
+        "TechCrunch AI",
+        "TechCrunch：AI（RSS）"
       ],
       "items": [
         {
-          "id": "610696a3bff4d2e722260fd295531b17af651ebc",
-          "title": "Cognition 宣布年化收入运行率突破 10 亿美元 / Cognition Crosses $1B in Annualized Revenue Run Rate",
-          "title_zh": "Cognition 宣布年化收入运行率突破 10 亿美元",
-          "title_en": "Cognition Crosses $1B in Annualized Revenue Run Rate",
-          "title_original": "Cognition Crosses $1B in Annualized Revenue Run Rate",
-          "summary": "Cognition 宣布年化收入运行率突破 10 亿美元。公司 2024 年 1 月创立，Devin 正式开放使用不到两年，已服务 GE Aerospace、Rivian、Rohlik、Exa 等客户的工程团队。",
+          "id": "f5eeec18af72c5eaa6b0f00193c52eb62b5bd259",
+          "title": "Anthropic 创始人拟在 IPO 前谋求投票控制权 / Anthropic's founders seek voting control ahead of IPO",
+          "title_zh": "Anthropic 创始人拟在 IPO 前谋求投票控制权",
+          "title_en": "Anthropic's founders seek voting control ahead of IPO",
+          "title_original": "Anthropic's founders seek voting control ahead of IPO",
+          "summary": "据 The Information 报道，Anthropic 正请求股东在未来几天批准一项结构，让 CEO Dario Amodei 与六位联合创始人通过特别股合计持有多数公司事务 50.1% 的投票权，前提是至少三人保留最低持股。",
           "recommend_reason_zh": null,
-          "url": "https://cognition.com/blog/1b-run-rate",
-          "source": "Cognition 模型 / Devin 博客（网页）",
+          "url": "https://techcrunch.com/2026/09/25/anthropics-founders-seek-voting-control-ahead-of-ipo",
+          "source": "TechCrunch：AI（RSS）",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-09-25T15:42:15.643000Z"
+          "published_at": "2026-09-25T15:40:03Z"
+        },
+        {
+          "id": "14129ca2929062dcca57c62c53a864d16a518c5a",
+          "title": "Anthropic 创始人拟在 IPO 前谋求投票控制权 / Anthropic’s founders seek voting control ahead of IPO",
+          "title_zh": "Anthropic 创始人拟在 IPO 前谋求投票控制权",
+          "title_en": "Anthropic’s founders seek voting control ahead of IPO",
+          "title_original": "Anthropic’s founders seek voting control ahead of IPO",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://techcrunch.com/2026/09/25/anthropics-founders-seek-voting-control-ahead-of-ipo",
+          "source": "TechCrunch AI",
+          "source_name": "Curated Media",
+          "site_id": "curated_media",
+          "published_at": "2026-09-25T15:40:03Z"
         }
       ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7674,
-      "importance": 0.7674,
-      "importance_score": 0.7674,
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.8017,
+      "importance": 0.8017,
+      "importance_score": 0.8017,
       "importance_label": "行业动态",
       "importance_breakdown": {
-        "editorial": 0.72,
+        "editorial": 0.76,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9988,
-        "story_heat": 0.0
+        "recency": 0.9839,
+        "story_heat": 0.25
       },
       "category": "industry",
       "reasons": [
+        "multi_source",
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-09-25T15:42:15.643000Z",
-      "latest_at": "2026-09-25T15:42:15.643000Z",
+      "earliest_at": "2026-09-25T15:40:03Z",
+      "latest_at": "2026-09-25T15:40:03Z",
       "primary_item": {
-        "id": "610696a3bff4d2e722260fd295531b17af651ebc",
-        "title": "Cognition 宣布年化收入运行率突破 10 亿美元 / Cognition Crosses $1B in Annualized Revenue Run Rate",
-        "title_zh": "Cognition 宣布年化收入运行率突破 10 亿美元",
-        "title_en": "Cognition Crosses $1B in Annualized Revenue Run Rate",
-        "title_original": "Cognition Crosses $1B in Annualized Revenue Run Rate",
-        "summary": "Cognition 宣布年化收入运行率突破 10 亿美元。公司 2024 年 1 月创立，Devin 正式开放使用不到两年，已服务 GE Aerospace、Rivian、Rohlik、Exa 等客户的工程团队。",
+        "id": "f5eeec18af72c5eaa6b0f00193c52eb62b5bd259",
+        "title": "Anthropic 创始人拟在 IPO 前谋求投票控制权 / Anthropic's founders seek voting control ahead of IPO",
+        "title_zh": "Anthropic 创始人拟在 IPO 前谋求投票控制权",
+        "title_en": "Anthropic's founders seek voting control ahead of IPO",
+        "title_original": "Anthropic's founders seek voting control ahead of IPO",
+        "summary": "据 The Information 报道，Anthropic 正请求股东在未来几天批准一项结构，让 CEO Dario Amodei 与六位联合创始人通过特别股合计持有多数公司事务 50.1% 的投票权，前提是至少三人保留最低持股。",
         "recommend_reason_zh": null,
-        "url": "https://cognition.com/blog/1b-run-rate",
-        "source": "Cognition 模型 / Devin 博客（网页）",
+        "url": "https://techcrunch.com/2026/09/25/anthropics-founders-seek-voting-control-ahead-of-ipo",
+        "source": "TechCrunch：AI（RSS）",
         "source_name": "AI HOT"
       },
       "persona_id": "pragmatic",
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-25T16:03:00.141905Z"
+        "scored_at": "2026-09-25T17:08:30.392778Z"
       }
     },
     {
@@ -627,15 +769,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7672,
-      "importance": 0.7672,
-      "importance_score": 0.7672,
+      "score": 0.765,
+      "importance": 0.765,
+      "importance_score": 0.765,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.79,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8813,
+        "recency": 0.8686,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -661,7 +803,89 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-25T16:03:00.141905Z"
+        "scored_at": "2026-09-25T17:08:30.392778Z"
+      }
+    },
+    {
+      "story_id": "story_ef0bb9e0a293",
+      "title": "Cognition 宣布年化收入运行率突破 10 亿美元 / Cognition Crosses $1B in Annualized Revenue Run Rate",
+      "url": "https://cognition.com/blog/1b-run-rate",
+      "primary_url": "https://cognition.com/blog/1b-run-rate",
+      "source": "Cognition 模型 / Devin 博客（网页）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "610696a3bff4d2e722260fd295531b17af651ebc",
+          "title": "Cognition 宣布年化收入运行率突破 10 亿美元 / Cognition Crosses $1B in Annualized Revenue Run Rate",
+          "title_zh": "Cognition 宣布年化收入运行率突破 10 亿美元",
+          "title_en": "Cognition Crosses $1B in Annualized Revenue Run Rate",
+          "title_original": "Cognition Crosses $1B in Annualized Revenue Run Rate",
+          "summary": "Cognition 宣布年化收入运行率突破 10 亿美元。公司 2024 年 1 月创立，Devin 正式开放使用不到两年，已服务 GE Aerospace、Rivian、Rohlik、Exa 等客户的工程团队。",
+          "recommend_reason_zh": null,
+          "url": "https://cognition.com/blog/1b-run-rate",
+          "source": "Cognition 模型 / Devin 博客（网页）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-25T15:42:15.643000Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Cognition 模型 / Devin 博客（网页）"
+      ],
+      "items": [
+        {
+          "id": "610696a3bff4d2e722260fd295531b17af651ebc",
+          "title": "Cognition 宣布年化收入运行率突破 10 亿美元 / Cognition Crosses $1B in Annualized Revenue Run Rate",
+          "title_zh": "Cognition 宣布年化收入运行率突破 10 亿美元",
+          "title_en": "Cognition Crosses $1B in Annualized Revenue Run Rate",
+          "title_original": "Cognition Crosses $1B in Annualized Revenue Run Rate",
+          "summary": "Cognition 宣布年化收入运行率突破 10 亿美元。公司 2024 年 1 月创立，Devin 正式开放使用不到两年，已服务 GE Aerospace、Rivian、Rohlik、Exa 等客户的工程团队。",
+          "recommend_reason_zh": null,
+          "url": "https://cognition.com/blog/1b-run-rate",
+          "source": "Cognition 模型 / Devin 博客（网页）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-25T15:42:15.643000Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7648,
+      "importance": 0.7648,
+      "importance_score": 0.7648,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9845,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-25T15:42:15.643000Z",
+      "latest_at": "2026-09-25T15:42:15.643000Z",
+      "primary_item": {
+        "id": "610696a3bff4d2e722260fd295531b17af651ebc",
+        "title": "Cognition 宣布年化收入运行率突破 10 亿美元 / Cognition Crosses $1B in Annualized Revenue Run Rate",
+        "title_zh": "Cognition 宣布年化收入运行率突破 10 亿美元",
+        "title_en": "Cognition Crosses $1B in Annualized Revenue Run Rate",
+        "title_original": "Cognition Crosses $1B in Annualized Revenue Run Rate",
+        "summary": "Cognition 宣布年化收入运行率突破 10 亿美元。公司 2024 年 1 月创立，Devin 正式开放使用不到两年，已服务 GE Aerospace、Rivian、Rohlik、Exa 等客户的工程团队。",
+        "recommend_reason_zh": null,
+        "url": "https://cognition.com/blog/1b-run-rate",
+        "source": "Cognition 模型 / Devin 博客（网页）",
+        "source_name": "AI HOT"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-09-25T17:08:30.392778Z"
       }
     },
     {
@@ -709,15 +933,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7962,
-      "importance": 0.7962,
-      "importance_score": 0.7962,
+      "score": 0.7943,
+      "importance": 0.7943,
+      "importance_score": 0.7943,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.7347,
+        "recency": 0.7241,
         "story_heat": 0.0
       },
       "category": "official",
@@ -744,7 +968,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-25T16:03:00.141905Z"
+        "scored_at": "2026-09-25T17:08:30.392778Z"
       }
     },
     {
@@ -821,15 +1045,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7547,
-      "importance": 0.7547,
-      "importance_score": 0.7547,
+      "score": 0.7529,
+      "importance": 0.7529,
+      "importance_score": 0.7529,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.76,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.723,
+        "recency": 0.7126,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -856,7 +1080,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-25T16:03:00.141905Z"
+        "scored_at": "2026-09-25T17:08:30.392778Z"
       }
     },
     {
@@ -904,15 +1128,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7432,
-      "importance": 0.7432,
-      "importance_score": 0.7432,
+      "score": 0.7408,
+      "importance": 0.7408,
+      "importance_score": 0.7408,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.67,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.948,
+        "recency": 0.9344,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -937,7 +1161,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-25T16:03:00.141905Z"
+        "scored_at": "2026-09-25T17:08:30.392778Z"
       }
     },
     {
@@ -985,15 +1209,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7416,
-      "importance": 0.7416,
-      "importance_score": 0.7416,
+      "score": 0.739,
+      "importance": 0.739,
+      "importance_score": 0.739,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.64,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9887,
+        "recency": 0.9745,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1018,7 +1242,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-25T16:03:00.141905Z"
+        "scored_at": "2026-09-25T17:08:30.392778Z"
       }
     },
     {
@@ -1066,15 +1290,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8002,
-      "importance": 0.8002,
-      "importance_score": 0.8002,
+      "score": 0.7982,
+      "importance": 0.7982,
+      "importance_score": 0.7982,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.7566,
+        "recency": 0.7458,
         "story_heat": 0.0
       },
       "category": "official",
@@ -1101,116 +1325,90 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-25T16:03:00.141905Z"
+        "scored_at": "2026-09-25T17:08:30.392778Z"
       }
     },
     {
-      "story_id": "story_1f5620433f71",
-      "title": "与 ElevenLabs 首席执行官交谈 20 分钟，据报道目前估值为 $22B / 20 minutes with the CEO of ElevenLabs, now reportedly valued at $22B",
-      "url": "https://techcrunch.com/2026/09/24/twenty-minutes-with-the-ceo-of-elevenlabs-now-reportedly-valued-at-22-billion",
-      "primary_url": "https://techcrunch.com/2026/09/24/twenty-minutes-with-the-ceo-of-elevenlabs-now-reportedly-valued-at-22-billion",
-      "source": "TechCrunch AI",
-      "source_name": "Curated Media",
+      "story_id": "story_e9cf359005d6",
+      "title": "Expired GitHub Actions artifacts no longer shown in UI and API",
+      "url": "https://github.blog/changelog/2026-09-24-expired-github-actions-artifacts-no-longer-shown-in-ui-and-api",
+      "primary_url": "https://github.blog/changelog/2026-09-24-expired-github-actions-artifacts-no-longer-shown-in-ui-and-api",
+      "source": "GitHub Changelog",
+      "source_name": "Official AI Updates",
       "sources": [
         {
-          "id": "f78fa179a48a4cc45bbdeaf038cbfc1025e53ba8",
-          "title": "与 ElevenLabs 首席执行官交谈 20 分钟，据报道目前估值为 $22B / 20 minutes with the CEO of ElevenLabs, now reportedly valued at $22B",
-          "title_zh": "与 ElevenLabs 首席执行官交谈 20 分钟，据报道目前估值为 $22B",
-          "title_en": "20 minutes with the CEO of ElevenLabs, now reportedly valued at $22B",
-          "title_original": "20 minutes with the CEO of ElevenLabs, now reportedly valued at $22B",
+          "id": "41f4214536296d34935804568add0a62edde6edf",
+          "title": "Expired GitHub Actions artifacts no longer shown in UI and API",
+          "title_zh": null,
+          "title_en": "Expired GitHub Actions artifacts no longer shown in UI and API",
+          "title_original": "Expired GitHub Actions artifacts no longer shown in UI and API",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://techcrunch.com/2026/09/24/twenty-minutes-with-the-ceo-of-elevenlabs-now-reportedly-valued-at-22-billion",
-          "source": "TechCrunch AI",
-          "source_name": "Curated Media",
-          "site_id": "curated_media",
-          "published_at": "2026-09-24T16:35:13Z"
-        },
-        {
-          "id": "83bb2aa642050f7d3a3cdd59bd5125aba7caf9de",
-          "title": "与 ElevenLabs 首席执行官交谈 20 分钟，据报道该公司目前估值为 220 亿美元 / Twenty minutes with the CEO of ElevenLabs, now reportedly valued at $22 billion",
-          "title_zh": "与 ElevenLabs 首席执行官交谈 20 分钟，据报道该公司目前估值为 220 亿美元",
-          "title_en": "Twenty minutes with the CEO of ElevenLabs, now reportedly valued at $22 billion",
-          "title_original": "Twenty minutes with the CEO of ElevenLabs, now reportedly valued at $22 billion",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://techcrunch.com/2026/09/24/twenty-minutes-with-the-ceo-of-elevenlabs-now-reportedly-valued-at-22-billion",
-          "source": "TechCrunch AI",
-          "source_name": "Curated Media",
-          "site_id": "curated_media",
-          "published_at": "2026-09-24T16:35:13Z"
+          "url": "https://github.blog/changelog/2026-09-24-expired-github-actions-artifacts-no-longer-shown-in-ui-and-api",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-09-24T19:13:02Z"
         }
       ],
-      "source_count": 2,
+      "source_count": 1,
       "source_names": [
-        "TechCrunch AI"
+        "GitHub Changelog"
       ],
       "items": [
         {
-          "id": "f78fa179a48a4cc45bbdeaf038cbfc1025e53ba8",
-          "title": "与 ElevenLabs 首席执行官交谈 20 分钟，据报道目前估值为 $22B / 20 minutes with the CEO of ElevenLabs, now reportedly valued at $22B",
-          "title_zh": "与 ElevenLabs 首席执行官交谈 20 分钟，据报道目前估值为 $22B",
-          "title_en": "20 minutes with the CEO of ElevenLabs, now reportedly valued at $22B",
-          "title_original": "20 minutes with the CEO of ElevenLabs, now reportedly valued at $22B",
+          "id": "41f4214536296d34935804568add0a62edde6edf",
+          "title": "Expired GitHub Actions artifacts no longer shown in UI and API",
+          "title_zh": null,
+          "title_en": "Expired GitHub Actions artifacts no longer shown in UI and API",
+          "title_original": "Expired GitHub Actions artifacts no longer shown in UI and API",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://techcrunch.com/2026/09/24/twenty-minutes-with-the-ceo-of-elevenlabs-now-reportedly-valued-at-22-billion",
-          "source": "TechCrunch AI",
-          "source_name": "Curated Media",
-          "site_id": "curated_media",
-          "published_at": "2026-09-24T16:35:13Z"
-        },
-        {
-          "id": "83bb2aa642050f7d3a3cdd59bd5125aba7caf9de",
-          "title": "与 ElevenLabs 首席执行官交谈 20 分钟，据报道该公司目前估值为 220 亿美元 / Twenty minutes with the CEO of ElevenLabs, now reportedly valued at $22 billion",
-          "title_zh": "与 ElevenLabs 首席执行官交谈 20 分钟，据报道该公司目前估值为 220 亿美元",
-          "title_en": "Twenty minutes with the CEO of ElevenLabs, now reportedly valued at $22 billion",
-          "title_original": "Twenty minutes with the CEO of ElevenLabs, now reportedly valued at $22 billion",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://techcrunch.com/2026/09/24/twenty-minutes-with-the-ceo-of-elevenlabs-now-reportedly-valued-at-22-billion",
-          "source": "TechCrunch AI",
-          "source_name": "Curated Media",
-          "site_id": "curated_media",
-          "published_at": "2026-09-24T16:35:13Z"
+          "url": "https://github.blog/changelog/2026-09-24-expired-github-actions-artifacts-no-longer-shown-in-ui-and-api",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-09-24T19:13:02Z"
         }
       ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5975,
-      "importance": 0.5975,
-      "importance_score": 0.5975,
-      "importance_label": "值得关注",
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7958,
+      "importance": 0.7958,
+      "importance_score": 0.7958,
+      "importance_label": "官方更新",
       "importance_breakdown": {
-        "editorial": 0.5472,
-        "source_tier": 0.58,
-        "ai_relevance": 0.76,
-        "recency": 0.7153,
-        "story_heat": 0.25
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.87,
+        "recency": 0.7323,
+        "story_heat": 0.0
       },
-      "category": "watch",
+      "category": "official",
       "reasons": [
-        "multi_source"
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
       ],
-      "earliest_at": "2026-09-24T16:35:13Z",
-      "latest_at": "2026-09-24T16:35:13Z",
+      "earliest_at": "2026-09-24T19:13:02Z",
+      "latest_at": "2026-09-24T19:13:02Z",
       "primary_item": {
-        "id": "f78fa179a48a4cc45bbdeaf038cbfc1025e53ba8",
-        "title": "与 ElevenLabs 首席执行官交谈 20 分钟，据报道目前估值为 $22B / 20 minutes with the CEO of ElevenLabs, now reportedly valued at $22B",
-        "title_zh": "与 ElevenLabs 首席执行官交谈 20 分钟，据报道目前估值为 $22B",
-        "title_en": "20 minutes with the CEO of ElevenLabs, now reportedly valued at $22B",
-        "title_original": "20 minutes with the CEO of ElevenLabs, now reportedly valued at $22B",
+        "id": "41f4214536296d34935804568add0a62edde6edf",
+        "title": "Expired GitHub Actions artifacts no longer shown in UI and API",
+        "title_zh": null,
+        "title_en": "Expired GitHub Actions artifacts no longer shown in UI and API",
+        "title_original": "Expired GitHub Actions artifacts no longer shown in UI and API",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://techcrunch.com/2026/09/24/twenty-minutes-with-the-ceo-of-elevenlabs-now-reportedly-valued-at-22-billion",
-        "source": "TechCrunch AI",
-        "source_name": "Curated Media"
+        "url": "https://github.blog/changelog/2026-09-24-expired-github-actions-artifacts-no-longer-shown-in-ui-and-api",
+        "source": "GitHub Changelog",
+        "source_name": "Official AI Updates"
       },
       "persona_id": "pragmatic",
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-25T16:03:00.141905Z"
+        "scored_at": "2026-09-25T17:08:30.392778Z"
       }
     },
     {
@@ -1286,15 +1484,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5832,
-      "importance": 0.5832,
-      "importance_score": 0.5832,
+      "score": 0.5813,
+      "importance": 0.5813,
+      "importance_score": 0.5813,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.5112,
         "source_tier": 0.58,
         "ai_relevance": 0.71,
-        "recency": 0.7513,
+        "recency": 0.7406,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1319,7 +1517,227 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-25T16:03:00.141905Z"
+        "scored_at": "2026-09-25T17:08:30.392778Z"
+      }
+    },
+    {
+      "story_id": "story_9689d7e9d621",
+      "title": "Jevmem – automatic project memory for Claude Code, built on Jev",
+      "url": "https://github.com/Avinash-jetwani/jevmem",
+      "primary_url": "https://github.com/Avinash-jetwani/jevmem",
+      "source": "Hacker News",
+      "source_name": "TechURLs",
+      "sources": [
+        {
+          "id": "4330ab085fa861c1bfa7ce7d18d383ae6daf31b0",
+          "title": "Jevmem – automatic project memory for Claude Code, built on Jev",
+          "title_zh": null,
+          "title_en": "Jevmem – automatic project memory for Claude Code, built on Jev",
+          "title_original": "Jevmem – automatic project memory for Claude Code, built on Jev",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://github.com/Avinash-jetwani/jevmem",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-09-25T16:04:04Z"
+        },
+        {
+          "id": "791a9634041bf9957a6c89450b9adb2aa17b6d5f",
+          "title": "Jevmem – automatic project memory for Claude Code, built on Jev",
+          "title_zh": null,
+          "title_en": "Jevmem – automatic project memory for Claude Code, built on Jev",
+          "title_original": "Jevmem – automatic project memory for Claude Code, built on Jev",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=49846391",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-09-25T16:04:04Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News",
+        "hackernews"
+      ],
+      "items": [
+        {
+          "id": "4330ab085fa861c1bfa7ce7d18d383ae6daf31b0",
+          "title": "Jevmem – automatic project memory for Claude Code, built on Jev",
+          "title_zh": null,
+          "title_en": "Jevmem – automatic project memory for Claude Code, built on Jev",
+          "title_original": "Jevmem – automatic project memory for Claude Code, built on Jev",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://github.com/Avinash-jetwani/jevmem",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-09-25T16:04:04Z"
+        },
+        {
+          "id": "791a9634041bf9957a6c89450b9adb2aa17b6d5f",
+          "title": "Jevmem – automatic project memory for Claude Code, built on Jev",
+          "title_zh": null,
+          "title_en": "Jevmem – automatic project memory for Claude Code, built on Jev",
+          "title_original": "Jevmem – automatic project memory for Claude Code, built on Jev",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=49846391",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-09-25T16:04:04Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5439,
+      "importance": 0.5439,
+      "importance_score": 0.5439,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9896,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-09-25T16:04:04Z",
+      "latest_at": "2026-09-25T16:04:04Z",
+      "primary_item": {
+        "id": "4330ab085fa861c1bfa7ce7d18d383ae6daf31b0",
+        "title": "Jevmem – automatic project memory for Claude Code, built on Jev",
+        "title_zh": null,
+        "title_en": "Jevmem – automatic project memory for Claude Code, built on Jev",
+        "title_original": "Jevmem – automatic project memory for Claude Code, built on Jev",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://github.com/Avinash-jetwani/jevmem",
+        "source": "Hacker News",
+        "source_name": "TechURLs"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-09-25T17:08:30.392778Z"
+      }
+    },
+    {
+      "story_id": "story_db904155cf9c",
+      "title": "Classified Estimates Show the NSA Is Paying Billions to Test AI Models",
+      "url": "https://www.washingtonsun.com/technology/classified-estimates-nsa-paying-billions-to-test-ai-models",
+      "primary_url": "https://www.washingtonsun.com/technology/classified-estimates-nsa-paying-billions-to-test-ai-models",
+      "source": "Hacker News (黑客新闻)",
+      "source_name": "Info Flow",
+      "sources": [
+        {
+          "id": "05729cbc1f252321aa28a3708086c8697c51e5c5",
+          "title": "Classified Estimates Show the NSA Is Paying Billions to Test AI Models",
+          "title_zh": null,
+          "title_en": "Classified Estimates Show the NSA Is Paying Billions to Test AI Models",
+          "title_original": "Classified Estimates Show the NSA Is Paying Billions to Test AI Models",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.washingtonsun.com/technology/classified-estimates-nsa-paying-billions-to-test-ai-models",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-09-25T15:27:35Z"
+        },
+        {
+          "id": "dc3baa03c30471390dfd7ee7e0d862a9bad8c51b",
+          "title": "Classified Estimates Show the NSA Is Paying Billions to Test AI Models",
+          "title_zh": null,
+          "title_en": "Classified Estimates Show the NSA Is Paying Billions to Test AI Models",
+          "title_original": "Classified Estimates Show the NSA Is Paying Billions to Test AI Models",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=49845952",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-09-25T15:27:35Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News (黑客新闻)",
+        "hackernews"
+      ],
+      "items": [
+        {
+          "id": "05729cbc1f252321aa28a3708086c8697c51e5c5",
+          "title": "Classified Estimates Show the NSA Is Paying Billions to Test AI Models",
+          "title_zh": null,
+          "title_en": "Classified Estimates Show the NSA Is Paying Billions to Test AI Models",
+          "title_original": "Classified Estimates Show the NSA Is Paying Billions to Test AI Models",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.washingtonsun.com/technology/classified-estimates-nsa-paying-billions-to-test-ai-models",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-09-25T15:27:35Z"
+        },
+        {
+          "id": "dc3baa03c30471390dfd7ee7e0d862a9bad8c51b",
+          "title": "Classified Estimates Show the NSA Is Paying Billions to Test AI Models",
+          "title_zh": null,
+          "title_en": "Classified Estimates Show the NSA Is Paying Billions to Test AI Models",
+          "title_original": "Classified Estimates Show the NSA Is Paying Billions to Test AI Models",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=49845952",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-09-25T15:27:35Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5424,
+      "importance": 0.5424,
+      "importance_score": 0.5424,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.981,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-09-25T15:27:35Z",
+      "latest_at": "2026-09-25T15:27:35Z",
+      "primary_item": {
+        "id": "05729cbc1f252321aa28a3708086c8697c51e5c5",
+        "title": "Classified Estimates Show the NSA Is Paying Billions to Test AI Models",
+        "title_zh": null,
+        "title_en": "Classified Estimates Show the NSA Is Paying Billions to Test AI Models",
+        "title_original": "Classified Estimates Show the NSA Is Paying Billions to Test AI Models",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://www.washingtonsun.com/technology/classified-estimates-nsa-paying-billions-to-test-ai-models",
+        "source": "Hacker News (黑客新闻)",
+        "source_name": "Info Flow"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-09-25T17:08:30.392778Z"
       }
     },
     {
@@ -1425,15 +1843,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5436,
-      "importance": 0.5436,
-      "importance_score": 0.5436,
+      "score": 0.5414,
+      "importance": 0.5414,
+      "importance_score": 0.5414,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8487,
+        "recency": 0.8365,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1458,447 +1876,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-25T16:03:00.141905Z"
-      }
-    },
-    {
-      "story_id": "story_dd9884096aef",
-      "title": "法国获奖作家被指控使用人工智能引发轩然大波 / Uproar in France over award-winning author accused of using AI",
-      "url": "https://www.bbc.com/news/articles/ck7v4y45893go",
-      "primary_url": "https://www.bbc.com/news/articles/ck7v4y45893go",
-      "source": "Hacker News",
-      "source_name": "TechURLs",
-      "sources": [
-        {
-          "id": "bb87503021a6ee1e27da3b997f92cc26873666c4",
-          "title": "法国获奖作家被指控使用人工智能引发轩然大波 / Uproar in France over award-winning author accused of using AI",
-          "title_zh": "法国获奖作家被指控使用人工智能引发轩然大波",
-          "title_en": "Uproar in France over award-winning author accused of using AI",
-          "title_original": "Uproar in France over award-winning author accused of using AI",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.bbc.com/news/articles/ck7v4y45893go",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-09-25T10:48:32Z"
-        },
-        {
-          "id": "828bf870095b1812e103c84fcb595f495e04c64c",
-          "title": "法国获奖作家被指控使用人工智能引发轩然大波 / Uproar in France over award-winning author accused of using AI",
-          "title_zh": "法国获奖作家被指控使用人工智能引发轩然大波",
-          "title_en": "Uproar in France over award-winning author accused of using AI",
-          "title_original": "Uproar in France over award-winning author accused of using AI",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=49842707",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-09-25T10:48:32Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News",
-        "hackernews"
-      ],
-      "items": [
-        {
-          "id": "bb87503021a6ee1e27da3b997f92cc26873666c4",
-          "title": "法国获奖作家被指控使用人工智能引发轩然大波 / Uproar in France over award-winning author accused of using AI",
-          "title_zh": "法国获奖作家被指控使用人工智能引发轩然大波",
-          "title_en": "Uproar in France over award-winning author accused of using AI",
-          "title_original": "Uproar in France over award-winning author accused of using AI",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.bbc.com/news/articles/ck7v4y45893go",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-09-25T10:48:32Z"
-        },
-        {
-          "id": "828bf870095b1812e103c84fcb595f495e04c64c",
-          "title": "法国获奖作家被指控使用人工智能引发轩然大波 / Uproar in France over award-winning author accused of using AI",
-          "title_zh": "法国获奖作家被指控使用人工智能引发轩然大波",
-          "title_en": "Uproar in France over award-winning author accused of using AI",
-          "title_original": "Uproar in France over award-winning author accused of using AI",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=49842707",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-09-25T10:48:32Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5333,
-      "importance": 0.5333,
-      "importance_score": 0.5333,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.9306,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-09-25T10:48:32Z",
-      "latest_at": "2026-09-25T10:48:32Z",
-      "primary_item": {
-        "id": "bb87503021a6ee1e27da3b997f92cc26873666c4",
-        "title": "法国获奖作家被指控使用人工智能引发轩然大波 / Uproar in France over award-winning author accused of using AI",
-        "title_zh": "法国获奖作家被指控使用人工智能引发轩然大波",
-        "title_en": "Uproar in France over award-winning author accused of using AI",
-        "title_original": "Uproar in France over award-winning author accused of using AI",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://www.bbc.com/news/articles/ck7v4y45893go",
-        "source": "Hacker News",
-        "source_name": "TechURLs"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-09-25T16:03:00.141905Z"
-      }
-    },
-    {
-      "story_id": "story_ef34871d3530",
-      "title": "显示 HN：代理 CUDA 内核优化器 / Show HN: Agentic CUDA Kernel Optimizer",
-      "url": "https://github.com/bertaye/agentic-cuda-optimizer",
-      "primary_url": "https://github.com/bertaye/agentic-cuda-optimizer",
-      "source": "Hacker News (黑客新闻)",
-      "source_name": "Info Flow",
-      "sources": [
-        {
-          "id": "afaaf4e2451ac31c553525a5c1624ff927a9a72f",
-          "title": "显示 HN：代理 CUDA 内核优化器 / Show HN: Agentic CUDA Kernel Optimizer",
-          "title_zh": "显示 HN：代理 CUDA 内核优化器",
-          "title_en": "Show HN: Agentic CUDA Kernel Optimizer",
-          "title_original": "Show HN: Agentic CUDA Kernel Optimizer",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://github.com/bertaye/agentic-cuda-optimizer",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-09-25T10:32:58Z"
-        },
-        {
-          "id": "f7dfebeec0854007c511d11b4c5563dd985efc90",
-          "title": "显示 HN：代理 CUDA 内核优化器 / Show HN: Agentic CUDA Kernel Optimizer",
-          "title_zh": "显示 HN：代理 CUDA 内核优化器",
-          "title_en": "Show HN: Agentic CUDA Kernel Optimizer",
-          "title_original": "Show HN: Agentic CUDA Kernel Optimizer",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=49842596",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-09-25T10:32:58Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News (黑客新闻)",
-        "hackernews"
-      ],
-      "items": [
-        {
-          "id": "afaaf4e2451ac31c553525a5c1624ff927a9a72f",
-          "title": "显示 HN：代理 CUDA 内核优化器 / Show HN: Agentic CUDA Kernel Optimizer",
-          "title_zh": "显示 HN：代理 CUDA 内核优化器",
-          "title_en": "Show HN: Agentic CUDA Kernel Optimizer",
-          "title_original": "Show HN: Agentic CUDA Kernel Optimizer",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://github.com/bertaye/agentic-cuda-optimizer",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-09-25T10:32:58Z"
-        },
-        {
-          "id": "f7dfebeec0854007c511d11b4c5563dd985efc90",
-          "title": "显示 HN：代理 CUDA 内核优化器 / Show HN: Agentic CUDA Kernel Optimizer",
-          "title_zh": "显示 HN：代理 CUDA 内核优化器",
-          "title_en": "Show HN: Agentic CUDA Kernel Optimizer",
-          "title_original": "Show HN: Agentic CUDA Kernel Optimizer",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=49842596",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-09-25T10:32:58Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5327,
-      "importance": 0.5327,
-      "importance_score": 0.5327,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.9271,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-09-25T10:32:58Z",
-      "latest_at": "2026-09-25T10:32:58Z",
-      "primary_item": {
-        "id": "afaaf4e2451ac31c553525a5c1624ff927a9a72f",
-        "title": "显示 HN：代理 CUDA 内核优化器 / Show HN: Agentic CUDA Kernel Optimizer",
-        "title_zh": "显示 HN：代理 CUDA 内核优化器",
-        "title_en": "Show HN: Agentic CUDA Kernel Optimizer",
-        "title_original": "Show HN: Agentic CUDA Kernel Optimizer",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://github.com/bertaye/agentic-cuda-optimizer",
-        "source": "Hacker News (黑客新闻)",
-        "source_name": "Info Flow"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-09-25T16:03:00.141905Z"
-      }
-    },
-    {
-      "story_id": "story_79f61ec2f57d",
-      "title": "我承认：我用人工智能建立了这个网站 – 请原谅我 / I Have a Confession: I Built This Site with AI – Please Forgive Me",
-      "url": "https://dynamicallytyped.org/blog/i-have-a-confession-i-built-this-site-with-ai",
-      "primary_url": "https://dynamicallytyped.org/blog/i-have-a-confession-i-built-this-site-with-ai",
-      "source": "Hacker News · 24h最热",
-      "source_name": "Zeli",
-      "sources": [
-        {
-          "id": "08cdc01127a4dba52962fe94228d378a22302099",
-          "title": "我承认：我用人工智能建立了这个网站 – 请原谅我 / I Have a Confession: I Built This Site with AI – Please Forgive Me",
-          "title_zh": "我承认：我用人工智能建立了这个网站 – 请原谅我",
-          "title_en": "I Have a Confession: I Built This Site with AI – Please Forgive Me",
-          "title_original": "I Have a Confession: I Built This Site with AI – Please Forgive Me",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://dynamicallytyped.org/blog/i-have-a-confession-i-built-this-site-with-ai",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-09-24T15:54:23Z"
-        },
-        {
-          "id": "b5e16e043383bca452f9295305d10ec3a2fb052a",
-          "title": "我承认：我用人工智能建立了这个网站 – 请原谅我 / I Have a Confession: I Built This Site with AI – Please Forgive Me",
-          "title_zh": "我承认：我用人工智能建立了这个网站 – 请原谅我",
-          "title_en": "I Have a Confession: I Built This Site with AI – Please Forgive Me",
-          "title_original": "I Have a Confession: I Built This Site with AI – Please Forgive Me",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=49832491",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-09-24T15:54:23Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News · 24h最热",
-        "hackernews"
-      ],
-      "items": [
-        {
-          "id": "08cdc01127a4dba52962fe94228d378a22302099",
-          "title": "我承认：我用人工智能建立了这个网站 – 请原谅我 / I Have a Confession: I Built This Site with AI – Please Forgive Me",
-          "title_zh": "我承认：我用人工智能建立了这个网站 – 请原谅我",
-          "title_en": "I Have a Confession: I Built This Site with AI – Please Forgive Me",
-          "title_original": "I Have a Confession: I Built This Site with AI – Please Forgive Me",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://dynamicallytyped.org/blog/i-have-a-confession-i-built-this-site-with-ai",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-09-24T15:54:23Z"
-        },
-        {
-          "id": "b5e16e043383bca452f9295305d10ec3a2fb052a",
-          "title": "我承认：我用人工智能建立了这个网站 – 请原谅我 / I Have a Confession: I Built This Site with AI – Please Forgive Me",
-          "title_zh": "我承认：我用人工智能建立了这个网站 – 请原谅我",
-          "title_en": "I Have a Confession: I Built This Site with AI – Please Forgive Me",
-          "title_original": "I Have a Confession: I Built This Site with AI – Please Forgive Me",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=49832491",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-09-24T15:54:23Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.4933,
-      "importance": 0.4933,
-      "importance_score": 0.4933,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.7083,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-09-24T15:54:23Z",
-      "latest_at": "2026-09-24T15:54:23Z",
-      "primary_item": {
-        "id": "08cdc01127a4dba52962fe94228d378a22302099",
-        "title": "我承认：我用人工智能建立了这个网站 – 请原谅我 / I Have a Confession: I Built This Site with AI – Please Forgive Me",
-        "title_zh": "我承认：我用人工智能建立了这个网站 – 请原谅我",
-        "title_en": "I Have a Confession: I Built This Site with AI – Please Forgive Me",
-        "title_original": "I Have a Confession: I Built This Site with AI – Please Forgive Me",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://dynamicallytyped.org/blog/i-have-a-confession-i-built-this-site-with-ai",
-        "source": "Hacker News · 24h最热",
-        "source_name": "Zeli"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 0,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-09-25T16:03:00.141905Z"
-      }
-    },
-    {
-      "story_id": "story_6cf82172aba7",
-      "title": "Vibe Coding Production Kit – AI 编码代理的生产工作流程 / Vibe Coding Production Kit – a production workflow for AI coding agents",
-      "url": "https://github.com/Moeeryani/Vibe-Coding-Production-Kit",
-      "primary_url": "https://github.com/Moeeryani/Vibe-Coding-Production-Kit",
-      "source": "Hacker News",
-      "source_name": "TechURLs",
-      "sources": [
-        {
-          "id": "0c459ed1c73291403547451bc822aee5581f17a6",
-          "title": "Vibe Coding Production Kit – AI 编码代理的生产工作流程 / Vibe Coding Production Kit – a production workflow for AI coding agents",
-          "title_zh": "Vibe Coding Production Kit – AI 编码代理的生产工作流程",
-          "title_en": "Vibe Coding Production Kit – a production workflow for AI coding agents",
-          "title_original": "Vibe Coding Production Kit – a production workflow for AI coding agents",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://github.com/Moeeryani/Vibe-Coding-Production-Kit",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-09-24T21:02:34Z"
-        },
-        {
-          "id": "41ec8961405fb2eb0833279721e618cb9573e08c",
-          "title": "Vibe Coding Production Kit – AI 编码代理的生产工作流程 / Vibe Coding Production Kit – a production workflow for AI coding agents",
-          "title_zh": "Vibe Coding Production Kit – AI 编码代理的生产工作流程",
-          "title_en": "Vibe Coding Production Kit – a production workflow for AI coding agents",
-          "title_original": "Vibe Coding Production Kit – a production workflow for AI coding agents",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=49836678",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-09-24T21:02:34Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News",
-        "hackernews"
-      ],
-      "items": [
-        {
-          "id": "0c459ed1c73291403547451bc822aee5581f17a6",
-          "title": "Vibe Coding Production Kit – AI 编码代理的生产工作流程 / Vibe Coding Production Kit – a production workflow for AI coding agents",
-          "title_zh": "Vibe Coding Production Kit – AI 编码代理的生产工作流程",
-          "title_en": "Vibe Coding Production Kit – a production workflow for AI coding agents",
-          "title_original": "Vibe Coding Production Kit – a production workflow for AI coding agents",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://github.com/Moeeryani/Vibe-Coding-Production-Kit",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-09-24T21:02:34Z"
-        },
-        {
-          "id": "41ec8961405fb2eb0833279721e618cb9573e08c",
-          "title": "Vibe Coding Production Kit – AI 编码代理的生产工作流程 / Vibe Coding Production Kit – a production workflow for AI coding agents",
-          "title_zh": "Vibe Coding Production Kit – AI 编码代理的生产工作流程",
-          "title_en": "Vibe Coding Production Kit – a production workflow for AI coding agents",
-          "title_original": "Vibe Coding Production Kit – a production workflow for AI coding agents",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=49836678",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-09-24T21:02:34Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5031,
-      "importance": 0.5031,
-      "importance_score": 0.5031,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.7628,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-09-24T21:02:34Z",
-      "latest_at": "2026-09-24T21:02:34Z",
-      "primary_item": {
-        "id": "0c459ed1c73291403547451bc822aee5581f17a6",
-        "title": "Vibe Coding Production Kit – AI 编码代理的生产工作流程 / Vibe Coding Production Kit – a production workflow for AI coding agents",
-        "title_zh": "Vibe Coding Production Kit – AI 编码代理的生产工作流程",
-        "title_en": "Vibe Coding Production Kit – a production workflow for AI coding agents",
-        "title_original": "Vibe Coding Production Kit – a production workflow for AI coding agents",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://github.com/Moeeryani/Vibe-Coding-Production-Kit",
-        "source": "Hacker News",
-        "source_name": "TechURLs"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-09-25T16:03:00.141905Z"
+        "scored_at": "2026-09-25T17:08:30.392778Z"
       }
     }
   ]
