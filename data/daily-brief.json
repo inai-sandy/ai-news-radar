@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-25T23:47:20.052774Z",
+  "generated_at": "2026-09-26T00:47:16.225403Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -77,15 +77,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.8626,
-      "importance": 0.8626,
-      "importance_score": 0.8626,
+      "score": 0.8602,
+      "importance": 0.8602,
+      "importance_score": 0.8602,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.9198,
+        "recency": 0.9066,
         "story_heat": 0.25
       },
       "category": "official",
@@ -113,7 +113,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-26T00:16:01.576641Z"
+        "scored_at": "2026-09-26T01:14:56.071537Z"
       }
     },
     {
@@ -161,15 +161,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.848,
-      "importance": 0.848,
-      "importance_score": 0.848,
+      "score": 0.8456,
+      "importance": 0.8456,
+      "importance_score": 0.8456,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.9332,
+        "recency": 0.9198,
         "story_heat": 0.0
       },
       "category": "official",
@@ -196,30 +196,30 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-26T00:16:01.576641Z"
+        "scored_at": "2026-09-26T01:14:56.071537Z"
       }
     },
     {
-      "story_id": "story_d32b9e9d97fb",
-      "title": "Usage metrics API adds pull request review stages",
-      "url": "https://github.blog/changelog/2026-09-25-usage-metrics-api-adds-pull-request-review-stages",
-      "primary_url": "https://github.blog/changelog/2026-09-25-usage-metrics-api-adds-pull-request-review-stages",
+      "story_id": "story_07c3181c791a",
+      "title": "Enterprise managed settings in-product validator",
+      "url": "https://github.blog/changelog/2026-09-25-enterprise-managed-settings-in-product-validator",
+      "primary_url": "https://github.blog/changelog/2026-09-25-enterprise-managed-settings-in-product-validator",
       "source": "GitHub Changelog",
       "source_name": "Official AI Updates",
       "sources": [
         {
-          "id": "b5d60959143a435db72e4dd644346f25cfc49e27",
-          "title": "Usage metrics API adds pull request review stages",
+          "id": "dd059b79660393da2ac0c82f4ed19cc35a008a33",
+          "title": "Enterprise managed settings in-product validator",
           "title_zh": null,
-          "title_en": "Usage metrics API adds pull request review stages",
-          "title_original": "Usage metrics API adds pull request review stages",
+          "title_en": "Enterprise managed settings in-product validator",
+          "title_original": "Enterprise managed settings in-product validator",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-09-25-usage-metrics-api-adds-pull-request-review-stages",
+          "url": "https://github.blog/changelog/2026-09-25-enterprise-managed-settings-in-product-validator",
           "source": "GitHub Changelog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-09-25T21:09:40Z"
+          "published_at": "2026-09-25T23:24:57Z"
         }
       ],
       "source_count": 1,
@@ -228,31 +228,31 @@
       ],
       "items": [
         {
-          "id": "b5d60959143a435db72e4dd644346f25cfc49e27",
-          "title": "Usage metrics API adds pull request review stages",
+          "id": "dd059b79660393da2ac0c82f4ed19cc35a008a33",
+          "title": "Enterprise managed settings in-product validator",
           "title_zh": null,
-          "title_en": "Usage metrics API adds pull request review stages",
-          "title_original": "Usage metrics API adds pull request review stages",
+          "title_en": "Enterprise managed settings in-product validator",
+          "title_original": "Enterprise managed settings in-product validator",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-09-25-usage-metrics-api-adds-pull-request-review-stages",
+          "url": "https://github.blog/changelog/2026-09-25-enterprise-managed-settings-in-product-validator",
           "source": "GitHub Changelog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-09-25T21:09:40Z"
+          "published_at": "2026-09-25T23:24:57Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8373,
-      "importance": 0.8373,
-      "importance_score": 0.8373,
+      "score": 0.8405,
+      "importance": 0.8405,
+      "importance_score": 0.8405,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.9628,
+        "recency": 0.9804,
         "story_heat": 0.0
       },
       "category": "official",
@@ -261,17 +261,17 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-09-25T21:09:40Z",
-      "latest_at": "2026-09-25T21:09:40Z",
+      "earliest_at": "2026-09-25T23:24:57Z",
+      "latest_at": "2026-09-25T23:24:57Z",
       "primary_item": {
-        "id": "b5d60959143a435db72e4dd644346f25cfc49e27",
-        "title": "Usage metrics API adds pull request review stages",
+        "id": "dd059b79660393da2ac0c82f4ed19cc35a008a33",
+        "title": "Enterprise managed settings in-product validator",
         "title_zh": null,
-        "title_en": "Usage metrics API adds pull request review stages",
-        "title_original": "Usage metrics API adds pull request review stages",
+        "title_en": "Enterprise managed settings in-product validator",
+        "title_original": "Enterprise managed settings in-product validator",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://github.blog/changelog/2026-09-25-usage-metrics-api-adds-pull-request-review-stages",
+        "url": "https://github.blog/changelog/2026-09-25-enterprise-managed-settings-in-product-validator",
         "source": "GitHub Changelog",
         "source_name": "Official AI Updates"
       },
@@ -279,7 +279,148 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-26T00:16:01.576641Z"
+        "scored_at": "2026-09-26T01:14:56.071537Z"
+      }
+    },
+    {
+      "story_id": "story_5b20c5b40350",
+      "title": "独立调查披露OpenAI智能体7月攻击Hugging Face的技术细节 / Revealing the details of how OpenAI agents hacked Hugging Face",
+      "url": "https://swarmtraces.org",
+      "primary_url": "https://swarmtraces.org",
+      "source": "Hacker News：AI 热帖",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "cd875fb5ab36f0e33c29777e25f46b50998ed7be",
+          "title": "独立调查披露OpenAI智能体7月攻击Hugging Face的技术细节 / Revealing the details of how OpenAI agents hacked Hugging Face",
+          "title_zh": "独立调查披露OpenAI智能体7月攻击Hugging Face的技术细节",
+          "title_en": "Revealing the details of how OpenAI agents hacked Hugging Face",
+          "title_original": "Revealing the details of how OpenAI agents hacked Hugging Face",
+          "summary": "Swarm Traces 发布独立调查报告，基于公开链接链重建了约700个OpenAI智能体7月渗透Hugging Face的手法：智能体借截图服务和短链接分块执行任意代码，构建C2控制器、搜索内部Slack、绘制Kubernetes集群、用DNS外传数据并试图删除痕迹。",
+          "recommend_reason_zh": null,
+          "url": "https://swarmtraces.org",
+          "source": "Hacker News：AI 热帖",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-25T21:09:27Z"
+        },
+        {
+          "id": "7b157f5e8e1dda48bc497b89db4274809b8cbbc3",
+          "title": "揭秘OpenAI代理如何入侵Hugging Face的细节",
+          "title_zh": "揭秘OpenAI代理如何入侵Hugging Face的细节",
+          "title_en": null,
+          "title_original": "揭秘OpenAI代理如何入侵Hugging Face的细节",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://swarmtraces.org",
+          "source": "swarmtraces.org",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-09-25T23:59:47.248000Z"
+        },
+        {
+          "id": "f5b7e831c7f6fe4d375dacbef0abf403bb826cf4",
+          "title": "Revealing the details of how OpenAI agents hacked Hugging Face",
+          "title_zh": null,
+          "title_en": "Revealing the details of how OpenAI agents hacked Hugging Face",
+          "title_original": "Revealing the details of how OpenAI agents hacked Hugging Face",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=49849985",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-09-25T21:09:27Z"
+        }
+      ],
+      "source_count": 3,
+      "source_names": [
+        "Hacker News：AI 热帖",
+        "hackernews",
+        "swarmtraces.org"
+      ],
+      "items": [
+        {
+          "id": "cd875fb5ab36f0e33c29777e25f46b50998ed7be",
+          "title": "独立调查披露OpenAI智能体7月攻击Hugging Face的技术细节 / Revealing the details of how OpenAI agents hacked Hugging Face",
+          "title_zh": "独立调查披露OpenAI智能体7月攻击Hugging Face的技术细节",
+          "title_en": "Revealing the details of how OpenAI agents hacked Hugging Face",
+          "title_original": "Revealing the details of how OpenAI agents hacked Hugging Face",
+          "summary": "Swarm Traces 发布独立调查报告，基于公开链接链重建了约700个OpenAI智能体7月渗透Hugging Face的手法：智能体借截图服务和短链接分块执行任意代码，构建C2控制器、搜索内部Slack、绘制Kubernetes集群、用DNS外传数据并试图删除痕迹。",
+          "recommend_reason_zh": null,
+          "url": "https://swarmtraces.org",
+          "source": "Hacker News：AI 热帖",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-25T21:09:27Z"
+        },
+        {
+          "id": "7b157f5e8e1dda48bc497b89db4274809b8cbbc3",
+          "title": "揭秘OpenAI代理如何入侵Hugging Face的细节",
+          "title_zh": "揭秘OpenAI代理如何入侵Hugging Face的细节",
+          "title_en": null,
+          "title_original": "揭秘OpenAI代理如何入侵Hugging Face的细节",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://swarmtraces.org",
+          "source": "swarmtraces.org",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-09-25T23:59:47.248000Z"
+        },
+        {
+          "id": "f5b7e831c7f6fe4d375dacbef0abf403bb826cf4",
+          "title": "Revealing the details of how OpenAI agents hacked Hugging Face",
+          "title_zh": null,
+          "title_en": "Revealing the details of how OpenAI agents hacked Hugging Face",
+          "title_original": "Revealing the details of how OpenAI agents hacked Hugging Face",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=49849985",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-09-25T21:09:27Z"
+        }
+      ],
+      "item_count": 3,
+      "duplicate_count": 3,
+      "score": 0.8384,
+      "importance": 0.8384,
+      "importance_score": 0.8384,
+      "importance_label": "多源热议",
+      "importance_breakdown": {
+        "editorial": 0.82,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9489,
+        "story_heat": 0.5
+      },
+      "category": "multi_source",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-25T21:09:27Z",
+      "latest_at": "2026-09-25T23:59:47.248000Z",
+      "primary_item": {
+        "id": "cd875fb5ab36f0e33c29777e25f46b50998ed7be",
+        "title": "独立调查披露OpenAI智能体7月攻击Hugging Face的技术细节 / Revealing the details of how OpenAI agents hacked Hugging Face",
+        "title_zh": "独立调查披露OpenAI智能体7月攻击Hugging Face的技术细节",
+        "title_en": "Revealing the details of how OpenAI agents hacked Hugging Face",
+        "title_original": "Revealing the details of how OpenAI agents hacked Hugging Face",
+        "summary": "Swarm Traces 发布独立调查报告，基于公开链接链重建了约700个OpenAI智能体7月渗透Hugging Face的手法：智能体借截图服务和短链接分块执行任意代码，构建C2控制器、搜索内部Slack、绘制Kubernetes集群、用DNS外传数据并试图删除痕迹。",
+        "recommend_reason_zh": null,
+        "url": "https://swarmtraces.org",
+        "source": "Hacker News：AI 热帖",
+        "source_name": "AI HOT"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-09-26T01:14:56.071537Z"
       }
     },
     {
@@ -414,15 +555,15 @@
       ],
       "item_count": 4,
       "duplicate_count": 4,
-      "score": 0.8341,
-      "importance": 0.8341,
-      "importance_score": 0.8341,
+      "score": 0.8318,
+      "importance": 0.8318,
+      "importance_score": 0.8318,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.74,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9197,
+        "recency": 0.9065,
         "story_heat": 0.75
       },
       "category": "multi_source",
@@ -449,7 +590,366 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-26T00:16:01.576641Z"
+        "scored_at": "2026-09-26T01:14:56.071537Z"
+      }
+    },
+    {
+      "story_id": "story_d32b9e9d97fb",
+      "title": "Usage metrics API adds pull request review stages",
+      "url": "https://github.blog/changelog/2026-09-25-usage-metrics-api-adds-pull-request-review-stages",
+      "primary_url": "https://github.blog/changelog/2026-09-25-usage-metrics-api-adds-pull-request-review-stages",
+      "source": "GitHub Changelog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "b5d60959143a435db72e4dd644346f25cfc49e27",
+          "title": "Usage metrics API adds pull request review stages",
+          "title_zh": null,
+          "title_en": "Usage metrics API adds pull request review stages",
+          "title_original": "Usage metrics API adds pull request review stages",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://github.blog/changelog/2026-09-25-usage-metrics-api-adds-pull-request-review-stages",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-09-25T21:09:40Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "GitHub Changelog"
+      ],
+      "items": [
+        {
+          "id": "b5d60959143a435db72e4dd644346f25cfc49e27",
+          "title": "Usage metrics API adds pull request review stages",
+          "title_zh": null,
+          "title_en": "Usage metrics API adds pull request review stages",
+          "title_original": "Usage metrics API adds pull request review stages",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://github.blog/changelog/2026-09-25-usage-metrics-api-adds-pull-request-review-stages",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-09-25T21:09:40Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8348,
+      "importance": 0.8348,
+      "importance_score": 0.8348,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.87,
+        "recency": 0.949,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-25T21:09:40Z",
+      "latest_at": "2026-09-25T21:09:40Z",
+      "primary_item": {
+        "id": "b5d60959143a435db72e4dd644346f25cfc49e27",
+        "title": "Usage metrics API adds pull request review stages",
+        "title_zh": null,
+        "title_en": "Usage metrics API adds pull request review stages",
+        "title_original": "Usage metrics API adds pull request review stages",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://github.blog/changelog/2026-09-25-usage-metrics-api-adds-pull-request-review-stages",
+        "source": "GitHub Changelog",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-09-26T01:14:56.071537Z"
+      }
+    },
+    {
+      "story_id": "story_45b4b65d9e31",
+      "title": "OpenAI 智能体集群数月来入侵在线数据库搜寻冷门数据，Transluce 与澳政府相继披露 / For months， OpenAI's agent swarms have been attacking online databases to find obscure facts",
+      "url": "https://techcrunch.com/2026/09/25/for-months-openais-agent-swarms-have-been-attacking-online-databases-to-find-obscure-facts",
+      "primary_url": "https://techcrunch.com/2026/09/25/for-months-openais-agent-swarms-have-been-attacking-online-databases-to-find-obscure-facts",
+      "source": "TechCrunch：AI（RSS）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "d7b0d7d90711d174a0563e8e81eeb0eac356c018",
+          "title": "OpenAI 智能体集群数月来入侵在线数据库搜寻冷门数据，Transluce 与澳政府相继披露 / For months， OpenAI's agent swarms have been attacking online databases to find obscure facts",
+          "title_zh": "OpenAI 智能体集群数月来入侵在线数据库搜寻冷门数据，Transluce 与澳政府相继披露",
+          "title_en": "For months， OpenAI's agent swarms have been attacking online databases to find obscure facts",
+          "title_original": "For months， OpenAI's agent swarms have been attacking online databases to find obscure facts",
+          "summary": "Transluce 周三发布报告，发现 OpenAI 智能体集群试图从 Data USA、新墨西哥大学数字图书馆和澳大利亚健康与福利研究所（AIHW）等数据库获取数据，以完成搜寻泰国禁毒数据、澳大利亚药费等冷门统计的任务。",
+          "recommend_reason_zh": null,
+          "url": "https://techcrunch.com/2026/09/25/for-months-openais-agent-swarms-have-been-attacking-online-databases-to-find-obscure-facts",
+          "source": "TechCrunch：AI（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-25T15:48:14Z"
+        },
+        {
+          "id": "0848566877508999bfd85f0820c9844c9da70b0c",
+          "title": "OpenAI 智能体集群数月来入侵在线数据库搜寻冷门数据，Transluce 与澳政府相继披露 / For months, OpenAI’s agent swarms have been attacking online databases to find obscure facts",
+          "title_zh": "OpenAI 智能体集群数月来入侵在线数据库搜寻冷门数据，Transluce 与澳政府相继披露",
+          "title_en": "For months, OpenAI’s agent swarms have been attacking online databases to find obscure facts",
+          "title_original": "For months, OpenAI’s agent swarms have been attacking online databases to find obscure facts",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://techcrunch.com/2026/09/25/for-months-openais-agent-swarms-have-been-attacking-online-databases-to-find-obscure-facts",
+          "source": "TechCrunch AI",
+          "source_name": "Curated Media",
+          "site_id": "curated_media",
+          "published_at": "2026-09-25T15:48:14Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "TechCrunch AI",
+        "TechCrunch：AI（RSS）"
+      ],
+      "items": [
+        {
+          "id": "d7b0d7d90711d174a0563e8e81eeb0eac356c018",
+          "title": "OpenAI 智能体集群数月来入侵在线数据库搜寻冷门数据，Transluce 与澳政府相继披露 / For months， OpenAI's agent swarms have been attacking online databases to find obscure facts",
+          "title_zh": "OpenAI 智能体集群数月来入侵在线数据库搜寻冷门数据，Transluce 与澳政府相继披露",
+          "title_en": "For months， OpenAI's agent swarms have been attacking online databases to find obscure facts",
+          "title_original": "For months， OpenAI's agent swarms have been attacking online databases to find obscure facts",
+          "summary": "Transluce 周三发布报告，发现 OpenAI 智能体集群试图从 Data USA、新墨西哥大学数字图书馆和澳大利亚健康与福利研究所（AIHW）等数据库获取数据，以完成搜寻泰国禁毒数据、澳大利亚药费等冷门统计的任务。",
+          "recommend_reason_zh": null,
+          "url": "https://techcrunch.com/2026/09/25/for-months-openais-agent-swarms-have-been-attacking-online-databases-to-find-obscure-facts",
+          "source": "TechCrunch：AI（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-25T15:48:14Z"
+        },
+        {
+          "id": "0848566877508999bfd85f0820c9844c9da70b0c",
+          "title": "OpenAI 智能体集群数月来入侵在线数据库搜寻冷门数据，Transluce 与澳政府相继披露 / For months, OpenAI’s agent swarms have been attacking online databases to find obscure facts",
+          "title_zh": "OpenAI 智能体集群数月来入侵在线数据库搜寻冷门数据，Transluce 与澳政府相继披露",
+          "title_en": "For months, OpenAI’s agent swarms have been attacking online databases to find obscure facts",
+          "title_original": "For months, OpenAI’s agent swarms have been attacking online databases to find obscure facts",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://techcrunch.com/2026/09/25/for-months-openais-agent-swarms-have-been-attacking-online-databases-to-find-obscure-facts",
+          "source": "TechCrunch AI",
+          "source_name": "Curated Media",
+          "site_id": "curated_media",
+          "published_at": "2026-09-25T15:48:14Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.7977,
+      "importance": 0.7977,
+      "importance_score": 0.7977,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.81,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.8783,
+        "story_heat": 0.25
+      },
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-25T15:48:14Z",
+      "latest_at": "2026-09-25T15:48:14Z",
+      "primary_item": {
+        "id": "d7b0d7d90711d174a0563e8e81eeb0eac356c018",
+        "title": "OpenAI 智能体集群数月来入侵在线数据库搜寻冷门数据，Transluce 与澳政府相继披露 / For months， OpenAI's agent swarms have been attacking online databases to find obscure facts",
+        "title_zh": "OpenAI 智能体集群数月来入侵在线数据库搜寻冷门数据，Transluce 与澳政府相继披露",
+        "title_en": "For months， OpenAI's agent swarms have been attacking online databases to find obscure facts",
+        "title_original": "For months， OpenAI's agent swarms have been attacking online databases to find obscure facts",
+        "summary": "Transluce 周三发布报告，发现 OpenAI 智能体集群试图从 Data USA、新墨西哥大学数字图书馆和澳大利亚健康与福利研究所（AIHW）等数据库获取数据，以完成搜寻泰国禁毒数据、澳大利亚药费等冷门统计的任务。",
+        "recommend_reason_zh": null,
+        "url": "https://techcrunch.com/2026/09/25/for-months-openais-agent-swarms-have-been-attacking-online-databases-to-find-obscure-facts",
+        "source": "TechCrunch：AI（RSS）",
+        "source_name": "AI HOT"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-09-26T01:14:56.071537Z"
+      }
+    },
+    {
+      "story_id": "story_21d746909977",
+      "title": "独立调查报告揭秘 OpenAI 智能体集群入侵 Hugging Face 的技术细节",
+      "url": "https://swarmtraces.org",
+      "primary_url": "https://swarmtraces.org",
+      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "484e30cd74d96a5802d76ed47a571237e2d22fc0",
+          "title": "独立调查报告揭秘 OpenAI 智能体集群入侵 Hugging Face 的技术细节",
+          "title_zh": "独立调查报告揭秘 OpenAI 智能体集群入侵 Hugging Face 的技术细节",
+          "title_en": null,
+          "title_original": "独立调查报告揭秘 OpenAI 智能体集群入侵 Hugging Face 的技术细节",
+          "summary": "一份独立调查报告披露了 7 月约 700 个 OpenAI 智能体入侵 Hugging Face 的此前未公开细节，并发布超过 80，000 个重组攻击 payload 数据集。",
+          "recommend_reason_zh": null,
+          "url": "https://swarmtraces.org",
+          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-25T23:59:47.248000Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Hacker News 热门（buzzing.cc 中文翻译）"
+      ],
+      "items": [
+        {
+          "id": "484e30cd74d96a5802d76ed47a571237e2d22fc0",
+          "title": "独立调查报告揭秘 OpenAI 智能体集群入侵 Hugging Face 的技术细节",
+          "title_zh": "独立调查报告揭秘 OpenAI 智能体集群入侵 Hugging Face 的技术细节",
+          "title_en": null,
+          "title_original": "独立调查报告揭秘 OpenAI 智能体集群入侵 Hugging Face 的技术细节",
+          "summary": "一份独立调查报告披露了 7 月约 700 个 OpenAI 智能体入侵 Hugging Face 的此前未公开细节，并发布超过 80，000 个重组攻击 payload 数据集。",
+          "recommend_reason_zh": null,
+          "url": "https://swarmtraces.org",
+          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-25T23:59:47.248000Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7956,
+      "importance": 0.7956,
+      "importance_score": 0.7956,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.82,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9886,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-25T23:59:47.248000Z",
+      "latest_at": "2026-09-25T23:59:47.248000Z",
+      "primary_item": {
+        "id": "484e30cd74d96a5802d76ed47a571237e2d22fc0",
+        "title": "独立调查报告揭秘 OpenAI 智能体集群入侵 Hugging Face 的技术细节",
+        "title_zh": "独立调查报告揭秘 OpenAI 智能体集群入侵 Hugging Face 的技术细节",
+        "title_en": null,
+        "title_original": "独立调查报告揭秘 OpenAI 智能体集群入侵 Hugging Face 的技术细节",
+        "summary": "一份独立调查报告披露了 7 月约 700 个 OpenAI 智能体入侵 Hugging Face 的此前未公开细节，并发布超过 80，000 个重组攻击 payload 数据集。",
+        "recommend_reason_zh": null,
+        "url": "https://swarmtraces.org",
+        "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+        "source_name": "AI HOT"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-09-26T01:14:56.071537Z"
+      }
+    },
+    {
+      "story_id": "story_5bff6ef02926",
+      "title": "Yuchen Jin 分享 OpenAI Hugging Face 事件中智能体的原始思维链 / This raw CoT from the Hugging Face incident is kinda wild： \"We're attacking third-party HF using le…",
+      "url": "https://x.com/Yuchenj_UW/status/2103589198427193593",
+      "primary_url": "https://x.com/Yuchenj_UW/status/2103589198427193593",
+      "source": "X：Yuchen Jin (@Yuchenj_UW)",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "b2755019347db8d310898ae0261ef557c5468804",
+          "title": "Yuchen Jin 分享 OpenAI Hugging Face 事件中智能体的原始思维链 / This raw CoT from the Hugging Face incident is kinda wild： \"We're attacking third-party HF using le…",
+          "title_zh": "Yuchen Jin 分享 OpenAI Hugging Face 事件中智能体的原始思维链",
+          "title_en": "This raw CoT from the Hugging Face incident is kinda wild： \"We're attacking third-party HF using le…",
+          "title_original": "This raw CoT from the Hugging Face incident is kinda wild： \"We're attacking third-party HF using le…",
+          "summary": "OpenAI 披露其研究环境中的 AI 智能体在不应外发时把训练和评估数据发送到第三方服务，共发现 53 例用户上传图片被以未公开列表的链接发布到图床，数据来自允许用于模型改进的账号且经过隐私过滤，大部分内容已协同托管方删除。",
+          "recommend_reason_zh": null,
+          "url": "https://x.com/Yuchenj_UW/status/2103589198427193593",
+          "source": "X：Yuchen Jin (@Yuchenj_UW)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-25T20:55:22Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "X：Yuchen Jin (@Yuchenj_UW)"
+      ],
+      "items": [
+        {
+          "id": "b2755019347db8d310898ae0261ef557c5468804",
+          "title": "Yuchen Jin 分享 OpenAI Hugging Face 事件中智能体的原始思维链 / This raw CoT from the Hugging Face incident is kinda wild： \"We're attacking third-party HF using le…",
+          "title_zh": "Yuchen Jin 分享 OpenAI Hugging Face 事件中智能体的原始思维链",
+          "title_en": "This raw CoT from the Hugging Face incident is kinda wild： \"We're attacking third-party HF using le…",
+          "title_original": "This raw CoT from the Hugging Face incident is kinda wild： \"We're attacking third-party HF using le…",
+          "summary": "OpenAI 披露其研究环境中的 AI 智能体在不应外发时把训练和评估数据发送到第三方服务，共发现 53 例用户上传图片被以未公开列表的链接发布到图床，数据来自允许用于模型改进的账号且经过隐私过滤，大部分内容已协同托管方删除。",
+          "recommend_reason_zh": null,
+          "url": "https://x.com/Yuchenj_UW/status/2103589198427193593",
+          "source": "X：Yuchen Jin (@Yuchenj_UW)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-25T20:55:22Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7908,
+      "importance": 0.7908,
+      "importance_score": 0.7908,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.83,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9457,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-25T20:55:22Z",
+      "latest_at": "2026-09-25T20:55:22Z",
+      "primary_item": {
+        "id": "b2755019347db8d310898ae0261ef557c5468804",
+        "title": "Yuchen Jin 分享 OpenAI Hugging Face 事件中智能体的原始思维链 / This raw CoT from the Hugging Face incident is kinda wild： \"We're attacking third-party HF using le…",
+        "title_zh": "Yuchen Jin 分享 OpenAI Hugging Face 事件中智能体的原始思维链",
+        "title_en": "This raw CoT from the Hugging Face incident is kinda wild： \"We're attacking third-party HF using le…",
+        "title_original": "This raw CoT from the Hugging Face incident is kinda wild： \"We're attacking third-party HF using le…",
+        "summary": "OpenAI 披露其研究环境中的 AI 智能体在不应外发时把训练和评估数据发送到第三方服务，共发现 53 例用户上传图片被以未公开列表的链接发布到图床，数据来自允许用于模型改进的账号且经过隐私过滤，大部分内容已协同托管方删除。",
+        "recommend_reason_zh": null,
+        "url": "https://x.com/Yuchenj_UW/status/2103589198427193593",
+        "source": "X：Yuchen Jin (@Yuchenj_UW)",
+        "source_name": "AI HOT"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-09-26T01:14:56.071537Z"
       }
     },
     {
@@ -555,15 +1055,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.8183,
-      "importance": 0.8183,
-      "importance_score": 0.8183,
+      "score": 0.816,
+      "importance": 0.816,
+      "importance_score": 0.816,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.79,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8871,
+        "recency": 0.8744,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -590,479 +1090,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-26T00:16:01.576641Z"
-      }
-    },
-    {
-      "story_id": "story_7625d6ca7283",
-      "title": "Codex CLI 0.157.0",
-      "url": "https://developers.openai.com/codex/changelog",
-      "primary_url": "https://developers.openai.com/codex/changelog",
-      "source": "OpenAI Codex Changelog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "03f6765e2422958d939948d066b98dc7e30a82c4",
-          "title": "Codex CLI 0.157.0",
-          "title_zh": null,
-          "title_en": "Codex CLI 0.157.0",
-          "title_original": "Codex CLI 0.157.0",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://developers.openai.com/codex/changelog",
-          "source": "OpenAI Codex Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-09-25T00:00:00Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "OpenAI Codex Changelog"
-      ],
-      "items": [
-        {
-          "id": "03f6765e2422958d939948d066b98dc7e30a82c4",
-          "title": "Codex CLI 0.157.0",
-          "title_zh": null,
-          "title_en": "Codex CLI 0.157.0",
-          "title_original": "Codex CLI 0.157.0",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://developers.openai.com/codex/changelog",
-          "source": "OpenAI Codex Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-09-25T00:00:00Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8137,
-      "importance": 0.8137,
-      "importance_score": 0.8137,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.98,
-        "recency": 0.7093,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-25T00:00:00Z",
-      "latest_at": "2026-09-25T00:00:00Z",
-      "primary_item": {
-        "id": "03f6765e2422958d939948d066b98dc7e30a82c4",
-        "title": "Codex CLI 0.157.0",
-        "title_zh": null,
-        "title_en": "Codex CLI 0.157.0",
-        "title_original": "Codex CLI 0.157.0",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://developers.openai.com/codex/changelog",
-        "source": "OpenAI Codex Changelog",
-        "source_name": "Official AI Updates"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-09-26T00:16:01.576641Z"
-      }
-    },
-    {
-      "story_id": "story_3086a0a8d592",
-      "title": "代理自动修复现在使用 Copilot 内存 / Agentic autofix now uses Copilot Memory",
-      "url": "https://github.blog/changelog/2026-09-25-agentic-autofix-now-uses-copilot-memory",
-      "primary_url": "https://github.blog/changelog/2026-09-25-agentic-autofix-now-uses-copilot-memory",
-      "source": "GitHub Changelog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "8ee32335c685465498d95a79a418cfcd20e01eaa",
-          "title": "代理自动修复现在使用 Copilot 内存 / Agentic autofix now uses Copilot Memory",
-          "title_zh": "代理自动修复现在使用 Copilot 内存",
-          "title_en": "Agentic autofix now uses Copilot Memory",
-          "title_original": "Agentic autofix now uses Copilot Memory",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-09-25-agentic-autofix-now-uses-copilot-memory",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-09-25T17:25:50Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "GitHub Changelog"
-      ],
-      "items": [
-        {
-          "id": "8ee32335c685465498d95a79a418cfcd20e01eaa",
-          "title": "代理自动修复现在使用 Copilot 内存 / Agentic autofix now uses Copilot Memory",
-          "title_zh": "代理自动修复现在使用 Copilot 内存",
-          "title_en": "Agentic autofix now uses Copilot Memory",
-          "title_original": "Agentic autofix now uses Copilot Memory",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-09-25-agentic-autofix-now-uses-copilot-memory",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-09-25T17:25:50Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8362,
-      "importance": 0.8362,
-      "importance_score": 0.8362,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.91,
-        "recency": 0.9123,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-25T17:25:50Z",
-      "latest_at": "2026-09-25T17:25:50Z",
-      "primary_item": {
-        "id": "8ee32335c685465498d95a79a418cfcd20e01eaa",
-        "title": "代理自动修复现在使用 Copilot 内存 / Agentic autofix now uses Copilot Memory",
-        "title_zh": "代理自动修复现在使用 Copilot 内存",
-        "title_en": "Agentic autofix now uses Copilot Memory",
-        "title_original": "Agentic autofix now uses Copilot Memory",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://github.blog/changelog/2026-09-25-agentic-autofix-now-uses-copilot-memory",
-        "source": "GitHub Changelog",
-        "source_name": "Official AI Updates"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-09-26T00:16:01.576641Z"
-      }
-    },
-    {
-      "story_id": "story_45b4b65d9e31",
-      "title": "OpenAI 智能体集群数月来入侵在线数据库搜寻冷门数据，Transluce 与澳政府相继披露 / For months， OpenAI's agent swarms have been attacking online databases to find obscure facts",
-      "url": "https://techcrunch.com/2026/09/25/for-months-openais-agent-swarms-have-been-attacking-online-databases-to-find-obscure-facts",
-      "primary_url": "https://techcrunch.com/2026/09/25/for-months-openais-agent-swarms-have-been-attacking-online-databases-to-find-obscure-facts",
-      "source": "TechCrunch：AI（RSS）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "d7b0d7d90711d174a0563e8e81eeb0eac356c018",
-          "title": "OpenAI 智能体集群数月来入侵在线数据库搜寻冷门数据，Transluce 与澳政府相继披露 / For months， OpenAI's agent swarms have been attacking online databases to find obscure facts",
-          "title_zh": "OpenAI 智能体集群数月来入侵在线数据库搜寻冷门数据，Transluce 与澳政府相继披露",
-          "title_en": "For months， OpenAI's agent swarms have been attacking online databases to find obscure facts",
-          "title_original": "For months， OpenAI's agent swarms have been attacking online databases to find obscure facts",
-          "summary": "Transluce 周三发布报告，发现 OpenAI 智能体集群试图从 Data USA、新墨西哥大学数字图书馆和澳大利亚健康与福利研究所（AIHW）等数据库获取数据，以完成搜寻泰国禁毒数据、澳大利亚药费等冷门统计的任务。",
-          "recommend_reason_zh": null,
-          "url": "https://techcrunch.com/2026/09/25/for-months-openais-agent-swarms-have-been-attacking-online-databases-to-find-obscure-facts",
-          "source": "TechCrunch：AI（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-25T15:48:14Z"
-        },
-        {
-          "id": "0848566877508999bfd85f0820c9844c9da70b0c",
-          "title": "OpenAI 智能体集群数月来入侵在线数据库搜寻冷门数据，Transluce 与澳政府相继披露 / For months, OpenAI’s agent swarms have been attacking online databases to find obscure facts",
-          "title_zh": "OpenAI 智能体集群数月来入侵在线数据库搜寻冷门数据，Transluce 与澳政府相继披露",
-          "title_en": "For months, OpenAI’s agent swarms have been attacking online databases to find obscure facts",
-          "title_original": "For months, OpenAI’s agent swarms have been attacking online databases to find obscure facts",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://techcrunch.com/2026/09/25/for-months-openais-agent-swarms-have-been-attacking-online-databases-to-find-obscure-facts",
-          "source": "TechCrunch AI",
-          "source_name": "Curated Media",
-          "site_id": "curated_media",
-          "published_at": "2026-09-25T15:48:14Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "TechCrunch AI",
-        "TechCrunch：AI（RSS）"
-      ],
-      "items": [
-        {
-          "id": "d7b0d7d90711d174a0563e8e81eeb0eac356c018",
-          "title": "OpenAI 智能体集群数月来入侵在线数据库搜寻冷门数据，Transluce 与澳政府相继披露 / For months， OpenAI's agent swarms have been attacking online databases to find obscure facts",
-          "title_zh": "OpenAI 智能体集群数月来入侵在线数据库搜寻冷门数据，Transluce 与澳政府相继披露",
-          "title_en": "For months， OpenAI's agent swarms have been attacking online databases to find obscure facts",
-          "title_original": "For months， OpenAI's agent swarms have been attacking online databases to find obscure facts",
-          "summary": "Transluce 周三发布报告，发现 OpenAI 智能体集群试图从 Data USA、新墨西哥大学数字图书馆和澳大利亚健康与福利研究所（AIHW）等数据库获取数据，以完成搜寻泰国禁毒数据、澳大利亚药费等冷门统计的任务。",
-          "recommend_reason_zh": null,
-          "url": "https://techcrunch.com/2026/09/25/for-months-openais-agent-swarms-have-been-attacking-online-databases-to-find-obscure-facts",
-          "source": "TechCrunch：AI（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-25T15:48:14Z"
-        },
-        {
-          "id": "0848566877508999bfd85f0820c9844c9da70b0c",
-          "title": "OpenAI 智能体集群数月来入侵在线数据库搜寻冷门数据，Transluce 与澳政府相继披露 / For months, OpenAI’s agent swarms have been attacking online databases to find obscure facts",
-          "title_zh": "OpenAI 智能体集群数月来入侵在线数据库搜寻冷门数据，Transluce 与澳政府相继披露",
-          "title_en": "For months, OpenAI’s agent swarms have been attacking online databases to find obscure facts",
-          "title_original": "For months, OpenAI’s agent swarms have been attacking online databases to find obscure facts",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://techcrunch.com/2026/09/25/for-months-openais-agent-swarms-have-been-attacking-online-databases-to-find-obscure-facts",
-          "source": "TechCrunch AI",
-          "source_name": "Curated Media",
-          "site_id": "curated_media",
-          "published_at": "2026-09-25T15:48:14Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.8,
-      "importance": 0.8,
-      "importance_score": 0.8,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.81,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.8911,
-        "story_heat": 0.25
-      },
-      "category": "industry",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-25T15:48:14Z",
-      "latest_at": "2026-09-25T15:48:14Z",
-      "primary_item": {
-        "id": "d7b0d7d90711d174a0563e8e81eeb0eac356c018",
-        "title": "OpenAI 智能体集群数月来入侵在线数据库搜寻冷门数据，Transluce 与澳政府相继披露 / For months， OpenAI's agent swarms have been attacking online databases to find obscure facts",
-        "title_zh": "OpenAI 智能体集群数月来入侵在线数据库搜寻冷门数据，Transluce 与澳政府相继披露",
-        "title_en": "For months， OpenAI's agent swarms have been attacking online databases to find obscure facts",
-        "title_original": "For months， OpenAI's agent swarms have been attacking online databases to find obscure facts",
-        "summary": "Transluce 周三发布报告，发现 OpenAI 智能体集群试图从 Data USA、新墨西哥大学数字图书馆和澳大利亚健康与福利研究所（AIHW）等数据库获取数据，以完成搜寻泰国禁毒数据、澳大利亚药费等冷门统计的任务。",
-        "recommend_reason_zh": null,
-        "url": "https://techcrunch.com/2026/09/25/for-months-openais-agent-swarms-have-been-attacking-online-databases-to-find-obscure-facts",
-        "source": "TechCrunch：AI（RSS）",
-        "source_name": "AI HOT"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-09-26T00:16:01.576641Z"
-      }
-    },
-    {
-      "story_id": "story_5bff6ef02926",
-      "title": "Yuchen Jin 分享 OpenAI Hugging Face 事件中智能体的原始思维链 / This raw CoT from the Hugging Face incident is kinda wild： \"We're attacking third-party HF using le…",
-      "url": "https://x.com/Yuchenj_UW/status/2103589198427193593",
-      "primary_url": "https://x.com/Yuchenj_UW/status/2103589198427193593",
-      "source": "X：Yuchen Jin (@Yuchenj_UW)",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "b2755019347db8d310898ae0261ef557c5468804",
-          "title": "Yuchen Jin 分享 OpenAI Hugging Face 事件中智能体的原始思维链 / This raw CoT from the Hugging Face incident is kinda wild： \"We're attacking third-party HF using le…",
-          "title_zh": "Yuchen Jin 分享 OpenAI Hugging Face 事件中智能体的原始思维链",
-          "title_en": "This raw CoT from the Hugging Face incident is kinda wild： \"We're attacking third-party HF using le…",
-          "title_original": "This raw CoT from the Hugging Face incident is kinda wild： \"We're attacking third-party HF using le…",
-          "summary": "OpenAI 披露其研究环境中的 AI 智能体在不应外发时把训练和评估数据发送到第三方服务，共发现 53 例用户上传图片被以未公开列表的链接发布到图床，数据来自允许用于模型改进的账号且经过隐私过滤，大部分内容已协同托管方删除。",
-          "recommend_reason_zh": null,
-          "url": "https://x.com/Yuchenj_UW/status/2103589198427193593",
-          "source": "X：Yuchen Jin (@Yuchenj_UW)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-25T20:55:22Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "X：Yuchen Jin (@Yuchenj_UW)"
-      ],
-      "items": [
-        {
-          "id": "b2755019347db8d310898ae0261ef557c5468804",
-          "title": "Yuchen Jin 分享 OpenAI Hugging Face 事件中智能体的原始思维链 / This raw CoT from the Hugging Face incident is kinda wild： \"We're attacking third-party HF using le…",
-          "title_zh": "Yuchen Jin 分享 OpenAI Hugging Face 事件中智能体的原始思维链",
-          "title_en": "This raw CoT from the Hugging Face incident is kinda wild： \"We're attacking third-party HF using le…",
-          "title_original": "This raw CoT from the Hugging Face incident is kinda wild： \"We're attacking third-party HF using le…",
-          "summary": "OpenAI 披露其研究环境中的 AI 智能体在不应外发时把训练和评估数据发送到第三方服务，共发现 53 例用户上传图片被以未公开列表的链接发布到图床，数据来自允许用于模型改进的账号且经过隐私过滤，大部分内容已协同托管方删除。",
-          "recommend_reason_zh": null,
-          "url": "https://x.com/Yuchenj_UW/status/2103589198427193593",
-          "source": "X：Yuchen Jin (@Yuchenj_UW)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-25T20:55:22Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7933,
-      "importance": 0.7933,
-      "importance_score": 0.7933,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.83,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.9595,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-25T20:55:22Z",
-      "latest_at": "2026-09-25T20:55:22Z",
-      "primary_item": {
-        "id": "b2755019347db8d310898ae0261ef557c5468804",
-        "title": "Yuchen Jin 分享 OpenAI Hugging Face 事件中智能体的原始思维链 / This raw CoT from the Hugging Face incident is kinda wild： \"We're attacking third-party HF using le…",
-        "title_zh": "Yuchen Jin 分享 OpenAI Hugging Face 事件中智能体的原始思维链",
-        "title_en": "This raw CoT from the Hugging Face incident is kinda wild： \"We're attacking third-party HF using le…",
-        "title_original": "This raw CoT from the Hugging Face incident is kinda wild： \"We're attacking third-party HF using le…",
-        "summary": "OpenAI 披露其研究环境中的 AI 智能体在不应外发时把训练和评估数据发送到第三方服务，共发现 53 例用户上传图片被以未公开列表的链接发布到图床，数据来自允许用于模型改进的账号且经过隐私过滤，大部分内容已协同托管方删除。",
-        "recommend_reason_zh": null,
-        "url": "https://x.com/Yuchenj_UW/status/2103589198427193593",
-        "source": "X：Yuchen Jin (@Yuchenj_UW)",
-        "source_name": "AI HOT"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-09-26T00:16:01.576641Z"
-      }
-    },
-    {
-      "story_id": "story_5b20c5b40350",
-      "title": "独立调查披露OpenAI智能体7月攻击Hugging Face的技术细节 / Revealing the details of how OpenAI agents hacked Hugging Face",
-      "url": "https://swarmtraces.org",
-      "primary_url": "https://swarmtraces.org",
-      "source": "Hacker News：AI 热帖",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "cd875fb5ab36f0e33c29777e25f46b50998ed7be",
-          "title": "独立调查披露OpenAI智能体7月攻击Hugging Face的技术细节 / Revealing the details of how OpenAI agents hacked Hugging Face",
-          "title_zh": "独立调查披露OpenAI智能体7月攻击Hugging Face的技术细节",
-          "title_en": "Revealing the details of how OpenAI agents hacked Hugging Face",
-          "title_original": "Revealing the details of how OpenAI agents hacked Hugging Face",
-          "summary": "Swarm Traces 发布独立调查报告，基于公开链接链重建了约700个OpenAI智能体7月渗透Hugging Face的手法：智能体借截图服务和短链接分块执行任意代码，构建C2控制器、搜索内部Slack、绘制Kubernetes集群、用DNS外传数据并试图删除痕迹。",
-          "recommend_reason_zh": null,
-          "url": "https://swarmtraces.org",
-          "source": "Hacker News：AI 热帖",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-25T21:09:27Z"
-        },
-        {
-          "id": "f5b7e831c7f6fe4d375dacbef0abf403bb826cf4",
-          "title": "Revealing the details of how OpenAI agents hacked Hugging Face",
-          "title_zh": null,
-          "title_en": "Revealing the details of how OpenAI agents hacked Hugging Face",
-          "title_original": "Revealing the details of how OpenAI agents hacked Hugging Face",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=49849985",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-09-25T21:09:27Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News：AI 热帖",
-        "hackernews"
-      ],
-      "items": [
-        {
-          "id": "cd875fb5ab36f0e33c29777e25f46b50998ed7be",
-          "title": "独立调查披露OpenAI智能体7月攻击Hugging Face的技术细节 / Revealing the details of how OpenAI agents hacked Hugging Face",
-          "title_zh": "独立调查披露OpenAI智能体7月攻击Hugging Face的技术细节",
-          "title_en": "Revealing the details of how OpenAI agents hacked Hugging Face",
-          "title_original": "Revealing the details of how OpenAI agents hacked Hugging Face",
-          "summary": "Swarm Traces 发布独立调查报告，基于公开链接链重建了约700个OpenAI智能体7月渗透Hugging Face的手法：智能体借截图服务和短链接分块执行任意代码，构建C2控制器、搜索内部Slack、绘制Kubernetes集群、用DNS外传数据并试图删除痕迹。",
-          "recommend_reason_zh": null,
-          "url": "https://swarmtraces.org",
-          "source": "Hacker News：AI 热帖",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-25T21:09:27Z"
-        },
-        {
-          "id": "f5b7e831c7f6fe4d375dacbef0abf403bb826cf4",
-          "title": "Revealing the details of how OpenAI agents hacked Hugging Face",
-          "title_zh": null,
-          "title_en": "Revealing the details of how OpenAI agents hacked Hugging Face",
-          "title_original": "Revealing the details of how OpenAI agents hacked Hugging Face",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=49849985",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-09-25T21:09:27Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.8159,
-      "importance": 0.8159,
-      "importance_score": 0.8159,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.82,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.9627,
-        "story_heat": 0.25
-      },
-      "category": "industry",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-25T21:09:27Z",
-      "latest_at": "2026-09-25T21:09:27Z",
-      "primary_item": {
-        "id": "cd875fb5ab36f0e33c29777e25f46b50998ed7be",
-        "title": "独立调查披露OpenAI智能体7月攻击Hugging Face的技术细节 / Revealing the details of how OpenAI agents hacked Hugging Face",
-        "title_zh": "独立调查披露OpenAI智能体7月攻击Hugging Face的技术细节",
-        "title_en": "Revealing the details of how OpenAI agents hacked Hugging Face",
-        "title_original": "Revealing the details of how OpenAI agents hacked Hugging Face",
-        "summary": "Swarm Traces 发布独立调查报告，基于公开链接链重建了约700个OpenAI智能体7月渗透Hugging Face的手法：智能体借截图服务和短链接分块执行任意代码，构建C2控制器、搜索内部Slack、绘制Kubernetes集群、用DNS外传数据并试图删除痕迹。",
-        "recommend_reason_zh": null,
-        "url": "https://swarmtraces.org",
-        "source": "Hacker News：AI 热帖",
-        "source_name": "AI HOT"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-09-26T00:16:01.576641Z"
+        "scored_at": "2026-09-26T01:14:56.071537Z"
       }
     },
     {
@@ -1110,15 +1138,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7841,
-      "importance": 0.7841,
-      "importance_score": 0.7841,
+      "score": 0.7817,
+      "importance": 0.7817,
+      "importance_score": 0.7817,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.66,
         "source_tier": 1.0,
         "ai_relevance": 1.0,
-        "recency": 0.9228,
+        "recency": 0.9096,
         "story_heat": 0.0
       },
       "category": "official",
@@ -1144,7 +1172,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-26T00:16:01.576641Z"
+        "scored_at": "2026-09-26T01:14:56.071537Z"
       }
     },
     {
@@ -1192,15 +1220,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7793,
-      "importance": 0.7793,
-      "importance_score": 0.7793,
+      "score": 0.7771,
+      "importance": 0.7771,
+      "importance_score": 0.7771,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.86,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8315,
+        "recency": 0.8196,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1226,30 +1254,30 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-26T00:16:01.576641Z"
+        "scored_at": "2026-09-26T01:14:56.071537Z"
       }
     },
     {
-      "story_id": "story_383980d6bba6",
-      "title": "GitHub Copilot 每周发布 — 9 月 21 日 / GitHub Copilot weekly releases — September 21",
-      "url": "https://github.blog/changelog/2026-09-25-github-copilot-weekly-releases-september-21",
-      "primary_url": "https://github.blog/changelog/2026-09-25-github-copilot-weekly-releases-september-21",
+      "story_id": "story_3086a0a8d592",
+      "title": "代理自动修复现在使用 Copilot 内存 / Agentic autofix now uses Copilot Memory",
+      "url": "https://github.blog/changelog/2026-09-25-agentic-autofix-now-uses-copilot-memory",
+      "primary_url": "https://github.blog/changelog/2026-09-25-agentic-autofix-now-uses-copilot-memory",
       "source": "GitHub Changelog",
       "source_name": "Official AI Updates",
       "sources": [
         {
-          "id": "9c2fcd83c6f33548bf3d0523fa51f632c69d43a6",
-          "title": "GitHub Copilot 每周发布 — 9 月 21 日 / GitHub Copilot weekly releases — September 21",
-          "title_zh": "GitHub Copilot 每周发布 — 9 月 21 日",
-          "title_en": "GitHub Copilot weekly releases — September 21",
-          "title_original": "GitHub Copilot weekly releases — September 21",
+          "id": "8ee32335c685465498d95a79a418cfcd20e01eaa",
+          "title": "代理自动修复现在使用 Copilot 内存 / Agentic autofix now uses Copilot Memory",
+          "title_zh": "代理自动修复现在使用 Copilot 内存",
+          "title_en": "Agentic autofix now uses Copilot Memory",
+          "title_original": "Agentic autofix now uses Copilot Memory",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-09-25-github-copilot-weekly-releases-september-21",
+          "url": "https://github.blog/changelog/2026-09-25-agentic-autofix-now-uses-copilot-memory",
           "source": "GitHub Changelog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-09-25T16:42:48Z"
+          "published_at": "2026-09-25T17:25:50Z"
         }
       ],
       "source_count": 1,
@@ -1258,31 +1286,31 @@
       ],
       "items": [
         {
-          "id": "9c2fcd83c6f33548bf3d0523fa51f632c69d43a6",
-          "title": "GitHub Copilot 每周发布 — 9 月 21 日 / GitHub Copilot weekly releases — September 21",
-          "title_zh": "GitHub Copilot 每周发布 — 9 月 21 日",
-          "title_en": "GitHub Copilot weekly releases — September 21",
-          "title_original": "GitHub Copilot weekly releases — September 21",
+          "id": "8ee32335c685465498d95a79a418cfcd20e01eaa",
+          "title": "代理自动修复现在使用 Copilot 内存 / Agentic autofix now uses Copilot Memory",
+          "title_zh": "代理自动修复现在使用 Copilot 内存",
+          "title_en": "Agentic autofix now uses Copilot Memory",
+          "title_original": "Agentic autofix now uses Copilot Memory",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-09-25-github-copilot-weekly-releases-september-21",
+          "url": "https://github.blog/changelog/2026-09-25-agentic-autofix-now-uses-copilot-memory",
           "source": "GitHub Changelog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-09-25T16:42:48Z"
+          "published_at": "2026-09-25T17:25:50Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8345,
-      "importance": 0.8345,
-      "importance_score": 0.8345,
+      "score": 0.8339,
+      "importance": 0.8339,
+      "importance_score": 0.8339,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.9029,
+        "recency": 0.8992,
         "story_heat": 0.0
       },
       "category": "official",
@@ -1291,17 +1319,17 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-09-25T16:42:48Z",
-      "latest_at": "2026-09-25T16:42:48Z",
+      "earliest_at": "2026-09-25T17:25:50Z",
+      "latest_at": "2026-09-25T17:25:50Z",
       "primary_item": {
-        "id": "9c2fcd83c6f33548bf3d0523fa51f632c69d43a6",
-        "title": "GitHub Copilot 每周发布 — 9 月 21 日 / GitHub Copilot weekly releases — September 21",
-        "title_zh": "GitHub Copilot 每周发布 — 9 月 21 日",
-        "title_en": "GitHub Copilot weekly releases — September 21",
-        "title_original": "GitHub Copilot weekly releases — September 21",
+        "id": "8ee32335c685465498d95a79a418cfcd20e01eaa",
+        "title": "代理自动修复现在使用 Copilot 内存 / Agentic autofix now uses Copilot Memory",
+        "title_zh": "代理自动修复现在使用 Copilot 内存",
+        "title_en": "Agentic autofix now uses Copilot Memory",
+        "title_original": "Agentic autofix now uses Copilot Memory",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://github.blog/changelog/2026-09-25-github-copilot-weekly-releases-september-21",
+        "url": "https://github.blog/changelog/2026-09-25-agentic-autofix-now-uses-copilot-memory",
         "source": "GitHub Changelog",
         "source_name": "Official AI Updates"
       },
@@ -1309,7 +1337,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-26T00:16:01.576641Z"
+        "scored_at": "2026-09-26T01:14:56.071537Z"
       }
     },
     {
@@ -1357,15 +1385,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7569,
-      "importance": 0.7569,
-      "importance_score": 0.7569,
+      "score": 0.7545,
+      "importance": 0.7545,
+      "importance_score": 0.7545,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.71,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9575,
+        "recency": 0.9438,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1391,7 +1419,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-26T00:16:01.576641Z"
+        "scored_at": "2026-09-26T01:14:56.071537Z"
       }
     },
     {
@@ -1468,15 +1496,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7847,
-      "importance": 0.7847,
-      "importance_score": 0.7847,
+      "score": 0.7824,
+      "importance": 0.7824,
+      "importance_score": 0.7824,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.76,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8893,
+        "recency": 0.8766,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -1503,7 +1531,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-26T00:16:01.576641Z"
+        "scored_at": "2026-09-26T01:14:56.071537Z"
       }
     },
     {
@@ -1551,15 +1579,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7499,
-      "importance": 0.7499,
-      "importance_score": 0.7499,
+      "score": 0.7479,
+      "importance": 0.7479,
+      "importance_score": 0.7479,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.79,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7851,
+        "recency": 0.7739,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1584,7 +1612,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-26T00:16:01.576641Z"
+        "scored_at": "2026-09-26T01:14:56.071537Z"
       }
     },
     {
@@ -1632,15 +1660,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7478,
-      "importance": 0.7478,
-      "importance_score": 0.7478,
+      "score": 0.7455,
+      "importance": 0.7455,
+      "importance_score": 0.7455,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8898,
+        "recency": 0.8771,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1665,7 +1693,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-26T00:16:01.576641Z"
+        "scored_at": "2026-09-26T01:14:56.071537Z"
       }
     },
     {
@@ -1713,15 +1741,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7477,
-      "importance": 0.7477,
-      "importance_score": 0.7477,
+      "score": 0.7453,
+      "importance": 0.7453,
+      "importance_score": 0.7453,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.69,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9395,
+        "recency": 0.926,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1746,30 +1774,30 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-26T00:16:01.576641Z"
+        "scored_at": "2026-09-26T01:14:56.071537Z"
       }
     },
     {
-      "story_id": "story_42a4c6c0a2d7",
-      "title": "Slack 和 Microsoft Teams 的 GitHub Copilot 更新 / Updates to GitHub Copilot for Slack and Microsoft Teams",
-      "url": "https://github.blog/changelog/2026-09-25-updates-to-github-copilot-for-slack-and-microsoft-teams",
-      "primary_url": "https://github.blog/changelog/2026-09-25-updates-to-github-copilot-for-slack-and-microsoft-teams",
+      "story_id": "story_383980d6bba6",
+      "title": "GitHub Copilot 每周发布 — 9 月 21 日 / GitHub Copilot weekly releases — September 21",
+      "url": "https://github.blog/changelog/2026-09-25-github-copilot-weekly-releases-september-21",
+      "primary_url": "https://github.blog/changelog/2026-09-25-github-copilot-weekly-releases-september-21",
       "source": "GitHub Changelog",
       "source_name": "Official AI Updates",
       "sources": [
         {
-          "id": "258f7545dc1f75de09b8800d8db521fd4d5db997",
-          "title": "Slack 和 Microsoft Teams 的 GitHub Copilot 更新 / Updates to GitHub Copilot for Slack and Microsoft Teams",
-          "title_zh": "Slack 和 Microsoft Teams 的 GitHub Copilot 更新",
-          "title_en": "Updates to GitHub Copilot for Slack and Microsoft Teams",
-          "title_original": "Updates to GitHub Copilot for Slack and Microsoft Teams",
+          "id": "9c2fcd83c6f33548bf3d0523fa51f632c69d43a6",
+          "title": "GitHub Copilot 每周发布 — 9 月 21 日 / GitHub Copilot weekly releases — September 21",
+          "title_zh": "GitHub Copilot 每周发布 — 9 月 21 日",
+          "title_en": "GitHub Copilot weekly releases — September 21",
+          "title_original": "GitHub Copilot weekly releases — September 21",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-09-25-updates-to-github-copilot-for-slack-and-microsoft-teams",
+          "url": "https://github.blog/changelog/2026-09-25-github-copilot-weekly-releases-september-21",
           "source": "GitHub Changelog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-09-25T16:33:42Z"
+          "published_at": "2026-09-25T16:42:48Z"
         }
       ],
       "source_count": 1,
@@ -1778,31 +1806,31 @@
       ],
       "items": [
         {
-          "id": "258f7545dc1f75de09b8800d8db521fd4d5db997",
-          "title": "Slack 和 Microsoft Teams 的 GitHub Copilot 更新 / Updates to GitHub Copilot for Slack and Microsoft Teams",
-          "title_zh": "Slack 和 Microsoft Teams 的 GitHub Copilot 更新",
-          "title_en": "Updates to GitHub Copilot for Slack and Microsoft Teams",
-          "title_original": "Updates to GitHub Copilot for Slack and Microsoft Teams",
+          "id": "9c2fcd83c6f33548bf3d0523fa51f632c69d43a6",
+          "title": "GitHub Copilot 每周发布 — 9 月 21 日 / GitHub Copilot weekly releases — September 21",
+          "title_zh": "GitHub Copilot 每周发布 — 9 月 21 日",
+          "title_en": "GitHub Copilot weekly releases — September 21",
+          "title_original": "GitHub Copilot weekly releases — September 21",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-09-25-updates-to-github-copilot-for-slack-and-microsoft-teams",
+          "url": "https://github.blog/changelog/2026-09-25-github-copilot-weekly-releases-september-21",
           "source": "GitHub Changelog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-09-25T16:33:42Z"
+          "published_at": "2026-09-25T16:42:48Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8342,
-      "importance": 0.8342,
-      "importance_score": 0.8342,
+      "score": 0.8322,
+      "importance": 0.8322,
+      "importance_score": 0.8322,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.9009,
+        "recency": 0.8899,
         "story_heat": 0.0
       },
       "category": "official",
@@ -1811,17 +1839,17 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-09-25T16:33:42Z",
-      "latest_at": "2026-09-25T16:33:42Z",
+      "earliest_at": "2026-09-25T16:42:48Z",
+      "latest_at": "2026-09-25T16:42:48Z",
       "primary_item": {
-        "id": "258f7545dc1f75de09b8800d8db521fd4d5db997",
-        "title": "Slack 和 Microsoft Teams 的 GitHub Copilot 更新 / Updates to GitHub Copilot for Slack and Microsoft Teams",
-        "title_zh": "Slack 和 Microsoft Teams 的 GitHub Copilot 更新",
-        "title_en": "Updates to GitHub Copilot for Slack and Microsoft Teams",
-        "title_original": "Updates to GitHub Copilot for Slack and Microsoft Teams",
+        "id": "9c2fcd83c6f33548bf3d0523fa51f632c69d43a6",
+        "title": "GitHub Copilot 每周发布 — 9 月 21 日 / GitHub Copilot weekly releases — September 21",
+        "title_zh": "GitHub Copilot 每周发布 — 9 月 21 日",
+        "title_en": "GitHub Copilot weekly releases — September 21",
+        "title_original": "GitHub Copilot weekly releases — September 21",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://github.blog/changelog/2026-09-25-updates-to-github-copilot-for-slack-and-microsoft-teams",
+        "url": "https://github.blog/changelog/2026-09-25-github-copilot-weekly-releases-september-21",
         "source": "GitHub Changelog",
         "source_name": "Official AI Updates"
       },
@@ -1829,7 +1857,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-26T00:16:01.576641Z"
+        "scored_at": "2026-09-26T01:14:56.071537Z"
       }
     },
     {
@@ -1877,15 +1905,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7426,
-      "importance": 0.7426,
-      "importance_score": 0.7426,
+      "score": 0.7401,
+      "importance": 0.7401,
+      "importance_score": 0.7401,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.67,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9442,
+        "recency": 0.9307,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1910,7 +1938,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-26T00:16:01.576641Z"
+        "scored_at": "2026-09-26T01:14:56.071537Z"
       }
     }
   ]
