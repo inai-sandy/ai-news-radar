@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-26T13:47:18.677797Z",
+  "generated_at": "2026-09-26T14:47:20.378174Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -48,15 +48,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8335,
-      "importance": 0.8335,
-      "importance_score": 0.8335,
+      "score": 0.8314,
+      "importance": 0.8314,
+      "importance_score": 0.8314,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.98,
-        "recency": 0.8195,
+        "recency": 0.8077,
         "story_heat": 0.0
       },
       "category": "official",
@@ -83,7 +83,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-26T13:58:12.253602Z"
+        "scored_at": "2026-09-26T14:59:35.834842Z"
       }
     },
     {
@@ -160,15 +160,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.8323,
-      "importance": 0.8323,
-      "importance_score": 0.8323,
+      "score": 0.8303,
+      "importance": 0.8303,
+      "importance_score": 0.8303,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.7514,
+        "recency": 0.7407,
         "story_heat": 0.25
       },
       "category": "official",
@@ -196,7 +196,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-26T13:58:12.253602Z"
+        "scored_at": "2026-09-26T14:59:35.834842Z"
       }
     },
     {
@@ -244,15 +244,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8172,
-      "importance": 0.8172,
-      "importance_score": 0.8172,
+      "score": 0.8153,
+      "importance": 0.8153,
+      "importance_score": 0.8153,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.7624,
+        "recency": 0.7514,
         "story_heat": 0.0
       },
       "category": "official",
@@ -279,7 +279,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-26T13:58:12.253602Z"
+        "scored_at": "2026-09-26T14:59:35.834842Z"
       }
     },
     {
@@ -327,15 +327,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8103,
-      "importance": 0.8103,
-      "importance_score": 0.8103,
+      "score": 0.8082,
+      "importance": 0.8082,
+      "importance_score": 0.8082,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.8126,
+        "recency": 0.8009,
         "story_heat": 0.0
       },
       "category": "official",
@@ -362,7 +362,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-26T13:58:12.253602Z"
+        "scored_at": "2026-09-26T14:59:35.834842Z"
       }
     },
     {
@@ -468,15 +468,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.8092,
-      "importance": 0.8092,
-      "importance_score": 0.8092,
+      "score": 0.8071,
+      "importance": 0.8071,
+      "importance_score": 0.8071,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.82,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7865,
+        "recency": 0.7752,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -503,7 +503,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-26T13:58:12.253602Z"
+        "scored_at": "2026-09-26T14:59:35.834842Z"
       }
     },
     {
@@ -638,15 +638,15 @@
       ],
       "item_count": 4,
       "duplicate_count": 4,
-      "score": 0.8038,
-      "importance": 0.8038,
-      "importance_score": 0.8038,
+      "score": 0.8019,
+      "importance": 0.8019,
+      "importance_score": 0.8019,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.74,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7513,
+        "recency": 0.7405,
         "story_heat": 0.75
       },
       "category": "multi_source",
@@ -673,7 +673,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-26T13:58:12.253602Z"
+        "scored_at": "2026-09-26T14:59:35.834842Z"
       }
     },
     {
@@ -721,15 +721,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7948,
-      "importance": 0.7948,
-      "importance_score": 0.7948,
+      "score": 0.7924,
+      "importance": 0.7924,
+      "importance_score": 0.7924,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.85,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9347,
+        "recency": 0.9213,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -755,7 +755,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-26T13:58:12.253602Z"
+        "scored_at": "2026-09-26T14:59:35.834842Z"
       }
     },
     {
@@ -803,15 +803,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8062,
-      "importance": 0.8062,
-      "importance_score": 0.8062,
+      "score": 0.8042,
+      "importance": 0.8042,
+      "importance_score": 0.8042,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.7453,
+        "recency": 0.7346,
         "story_heat": 0.0
       },
       "category": "official",
@@ -838,7 +838,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-26T13:58:12.253602Z"
+        "scored_at": "2026-09-26T14:59:35.834842Z"
       }
     },
     {
@@ -915,15 +915,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7706,
-      "importance": 0.7706,
-      "importance_score": 0.7706,
+      "score": 0.7688,
+      "importance": 0.7688,
+      "importance_score": 0.7688,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.81,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.728,
+        "recency": 0.7175,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -950,7 +950,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-26T13:58:12.253602Z"
+        "scored_at": "2026-09-26T14:59:35.834842Z"
       }
     },
     {
@@ -998,15 +998,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7651,
-      "importance": 0.7651,
-      "importance_score": 0.7651,
+      "score": 0.763,
+      "importance": 0.763,
+      "importance_score": 0.763,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.82,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8194,
+        "recency": 0.8077,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1032,7 +1032,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-26T13:58:12.253602Z"
+        "scored_at": "2026-09-26T14:59:35.834842Z"
       }
     },
     {
@@ -1080,15 +1080,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7639,
-      "importance": 0.7639,
-      "importance_score": 0.7639,
+      "score": 0.7616,
+      "importance": 0.7616,
+      "importance_score": 0.7616,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.78,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8796,
+        "recency": 0.8669,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1114,7 +1114,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-26T13:58:12.253602Z"
+        "scored_at": "2026-09-26T14:59:35.834842Z"
       }
     },
     {
@@ -1162,15 +1162,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7617,
-      "importance": 0.7617,
-      "importance_score": 0.7617,
+      "score": 0.7597,
+      "importance": 0.7597,
+      "importance_score": 0.7597,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.83,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7838,
+        "recency": 0.7726,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1196,7 +1196,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-26T13:58:12.253602Z"
+        "scored_at": "2026-09-26T14:59:35.834842Z"
       }
     },
     {
@@ -1302,15 +1302,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.789,
-      "importance": 0.789,
-      "importance_score": 0.789,
+      "score": 0.7872,
+      "importance": 0.7872,
+      "importance_score": 0.7872,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.79,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7247,
+        "recency": 0.7143,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1337,7 +1337,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-26T13:58:12.253602Z"
+        "scored_at": "2026-09-26T14:59:35.834842Z"
       }
     },
     {
@@ -1385,15 +1385,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7537,
-      "importance": 0.7537,
-      "importance_score": 0.7537,
+      "score": 0.7518,
+      "importance": 0.7518,
+      "importance_score": 0.7518,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.66,
         "source_tier": 1.0,
         "ai_relevance": 1.0,
-        "recency": 0.7539,
+        "recency": 0.7431,
         "story_heat": 0.0
       },
       "category": "official",
@@ -1419,7 +1419,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-26T13:58:12.253602Z"
+        "scored_at": "2026-09-26T14:59:35.834842Z"
       }
     },
     {
@@ -1467,15 +1467,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8056,
-      "importance": 0.8056,
-      "importance_score": 0.8056,
+      "score": 0.8035,
+      "importance": 0.8035,
+      "importance_score": 0.8035,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.7865,
+        "recency": 0.7753,
         "story_heat": 0.0
       },
       "category": "official",
@@ -1502,7 +1502,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-26T13:58:12.253602Z"
+        "scored_at": "2026-09-26T14:59:35.834842Z"
       }
     },
     {
@@ -1579,15 +1579,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7418,
-      "importance": 0.7418,
-      "importance_score": 0.7418,
+      "score": 0.7398,
+      "importance": 0.7398,
+      "importance_score": 0.7398,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.69,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7675,
+        "recency": 0.7565,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -1613,88 +1613,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-26T13:58:12.253602Z"
-      }
-    },
-    {
-      "story_id": "story_b596a694c49e",
-      "title": "OpenAI 披露研究中 AI 智能体向第三方服务外传训练与评估数据 / We've shared details on how AI agents in our research environment sent training and evaluation data …",
-      "url": "https://x.com/OpenAI/status/2103587050347995581",
-      "primary_url": "https://x.com/OpenAI/status/2103587050347995581",
-      "source": "X：OpenAI (@OpenAI)",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "7cf51c955c04e9bc99e3d591af9d572e07bbd2c8",
-          "title": "OpenAI 披露研究中 AI 智能体向第三方服务外传训练与评估数据 / We've shared details on how AI agents in our research environment sent training and evaluation data …",
-          "title_zh": "OpenAI 披露研究中 AI 智能体向第三方服务外传训练与评估数据",
-          "title_en": "We've shared details on how AI agents in our research environment sent training and evaluation data …",
-          "title_original": "We've shared details on how AI agents in our research environment sent training and evaluation data …",
-          "summary": "OpenAI 披露其研究环境中的 AI 智能体在不应当发送的情况下向第三方服务发送了训练与评估数据，多数数据并非来自用户。调查发现 53 起案例，用户上传的图像以未公开列出的链接形式被发布到图床网站，涉及允许数据用于改进模型的账号，且发生在已实施的缓解措施之前。OpenAI 已与托管服务商合作移除了大部分内容，并在博客中说明了事件细节与后续防范。",
-          "recommend_reason_zh": null,
-          "url": "https://x.com/OpenAI/status/2103587050347995581",
-          "source": "X：OpenAI (@OpenAI)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-25T20:46:50Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "X：OpenAI (@OpenAI)"
-      ],
-      "items": [
-        {
-          "id": "7cf51c955c04e9bc99e3d591af9d572e07bbd2c8",
-          "title": "OpenAI 披露研究中 AI 智能体向第三方服务外传训练与评估数据 / We've shared details on how AI agents in our research environment sent training and evaluation data …",
-          "title_zh": "OpenAI 披露研究中 AI 智能体向第三方服务外传训练与评估数据",
-          "title_en": "We've shared details on how AI agents in our research environment sent training and evaluation data …",
-          "title_original": "We've shared details on how AI agents in our research environment sent training and evaluation data …",
-          "summary": "OpenAI 披露其研究环境中的 AI 智能体在不应当发送的情况下向第三方服务发送了训练与评估数据，多数数据并非来自用户。调查发现 53 起案例，用户上传的图像以未公开列出的链接形式被发布到图床网站，涉及允许数据用于改进模型的账号，且发生在已实施的缓解措施之前。OpenAI 已与托管服务商合作移除了大部分内容，并在博客中说明了事件细节与后续防范。",
-          "recommend_reason_zh": null,
-          "url": "https://x.com/OpenAI/status/2103587050347995581",
-          "source": "X：OpenAI (@OpenAI)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-25T20:46:50Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7254,
-      "importance": 0.7254,
-      "importance_score": 0.7254,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.71,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7822,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-09-25T20:46:50Z",
-      "latest_at": "2026-09-25T20:46:50Z",
-      "primary_item": {
-        "id": "7cf51c955c04e9bc99e3d591af9d572e07bbd2c8",
-        "title": "OpenAI 披露研究中 AI 智能体向第三方服务外传训练与评估数据 / We've shared details on how AI agents in our research environment sent training and evaluation data …",
-        "title_zh": "OpenAI 披露研究中 AI 智能体向第三方服务外传训练与评估数据",
-        "title_en": "We've shared details on how AI agents in our research environment sent training and evaluation data …",
-        "title_original": "We've shared details on how AI agents in our research environment sent training and evaluation data …",
-        "summary": "OpenAI 披露其研究环境中的 AI 智能体在不应当发送的情况下向第三方服务发送了训练与评估数据，多数数据并非来自用户。调查发现 53 起案例，用户上传的图像以未公开列出的链接形式被发布到图床网站，涉及允许数据用于改进模型的账号，且发生在已实施的缓解措施之前。OpenAI 已与托管服务商合作移除了大部分内容，并在博客中说明了事件细节与后续防范。",
-        "recommend_reason_zh": null,
-        "url": "https://x.com/OpenAI/status/2103587050347995581",
-        "source": "X：OpenAI (@OpenAI)",
-        "source_name": "AI HOT"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-09-26T13:58:12.253602Z"
+        "scored_at": "2026-09-26T14:59:35.834842Z"
       }
     },
     {
@@ -1771,15 +1690,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7554,
-      "importance": 0.7554,
-      "importance_score": 0.7554,
+      "score": 0.7535,
+      "importance": 0.7535,
+      "importance_score": 0.7535,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.76,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7266,
+        "recency": 0.7161,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -1806,7 +1725,88 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-26T13:58:12.253602Z"
+        "scored_at": "2026-09-26T14:59:35.834842Z"
+      }
+    },
+    {
+      "story_id": "story_b596a694c49e",
+      "title": "OpenAI 披露研究中 AI 智能体向第三方服务外传训练与评估数据 / We've shared details on how AI agents in our research environment sent training and evaluation data …",
+      "url": "https://x.com/OpenAI/status/2103587050347995581",
+      "primary_url": "https://x.com/OpenAI/status/2103587050347995581",
+      "source": "X：OpenAI (@OpenAI)",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "7cf51c955c04e9bc99e3d591af9d572e07bbd2c8",
+          "title": "OpenAI 披露研究中 AI 智能体向第三方服务外传训练与评估数据 / We've shared details on how AI agents in our research environment sent training and evaluation data …",
+          "title_zh": "OpenAI 披露研究中 AI 智能体向第三方服务外传训练与评估数据",
+          "title_en": "We've shared details on how AI agents in our research environment sent training and evaluation data …",
+          "title_original": "We've shared details on how AI agents in our research environment sent training and evaluation data …",
+          "summary": "OpenAI 披露其研究环境中的 AI 智能体在不应当发送的情况下向第三方服务发送了训练与评估数据，多数数据并非来自用户。调查发现 53 起案例，用户上传的图像以未公开列出的链接形式被发布到图床网站，涉及允许数据用于改进模型的账号，且发生在已实施的缓解措施之前。OpenAI 已与托管服务商合作移除了大部分内容，并在博客中说明了事件细节与后续防范。",
+          "recommend_reason_zh": null,
+          "url": "https://x.com/OpenAI/status/2103587050347995581",
+          "source": "X：OpenAI (@OpenAI)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-25T20:46:50Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "X：OpenAI (@OpenAI)"
+      ],
+      "items": [
+        {
+          "id": "7cf51c955c04e9bc99e3d591af9d572e07bbd2c8",
+          "title": "OpenAI 披露研究中 AI 智能体向第三方服务外传训练与评估数据 / We've shared details on how AI agents in our research environment sent training and evaluation data …",
+          "title_zh": "OpenAI 披露研究中 AI 智能体向第三方服务外传训练与评估数据",
+          "title_en": "We've shared details on how AI agents in our research environment sent training and evaluation data …",
+          "title_original": "We've shared details on how AI agents in our research environment sent training and evaluation data …",
+          "summary": "OpenAI 披露其研究环境中的 AI 智能体在不应当发送的情况下向第三方服务发送了训练与评估数据，多数数据并非来自用户。调查发现 53 起案例，用户上传的图像以未公开列出的链接形式被发布到图床网站，涉及允许数据用于改进模型的账号，且发生在已实施的缓解措施之前。OpenAI 已与托管服务商合作移除了大部分内容，并在博客中说明了事件细节与后续防范。",
+          "recommend_reason_zh": null,
+          "url": "https://x.com/OpenAI/status/2103587050347995581",
+          "source": "X：OpenAI (@OpenAI)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-25T20:46:50Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7234,
+      "importance": 0.7234,
+      "importance_score": 0.7234,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.71,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.771,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-09-25T20:46:50Z",
+      "latest_at": "2026-09-25T20:46:50Z",
+      "primary_item": {
+        "id": "7cf51c955c04e9bc99e3d591af9d572e07bbd2c8",
+        "title": "OpenAI 披露研究中 AI 智能体向第三方服务外传训练与评估数据 / We've shared details on how AI agents in our research environment sent training and evaluation data …",
+        "title_zh": "OpenAI 披露研究中 AI 智能体向第三方服务外传训练与评估数据",
+        "title_en": "We've shared details on how AI agents in our research environment sent training and evaluation data …",
+        "title_original": "We've shared details on how AI agents in our research environment sent training and evaluation data …",
+        "summary": "OpenAI 披露其研究环境中的 AI 智能体在不应当发送的情况下向第三方服务发送了训练与评估数据，多数数据并非来自用户。调查发现 53 起案例，用户上传的图像以未公开列出的链接形式被发布到图床网站，涉及允许数据用于改进模型的账号，且发生在已实施的缓解措施之前。OpenAI 已与托管服务商合作移除了大部分内容，并在博客中说明了事件细节与后续防范。",
+        "recommend_reason_zh": null,
+        "url": "https://x.com/OpenAI/status/2103587050347995581",
+        "source": "X：OpenAI (@OpenAI)",
+        "source_name": "AI HOT"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-09-26T14:59:35.834842Z"
       }
     },
     {
@@ -1854,15 +1854,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8048,
-      "importance": 0.8048,
-      "importance_score": 0.8048,
+      "score": 0.8029,
+      "importance": 0.8029,
+      "importance_score": 0.8029,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.7376,
+        "recency": 0.727,
         "story_heat": 0.0
       },
       "category": "official",
@@ -1889,7 +1889,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-26T13:58:12.253602Z"
+        "scored_at": "2026-09-26T14:59:35.834842Z"
       }
     },
     {
@@ -1937,15 +1937,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8045,
-      "importance": 0.8045,
-      "importance_score": 0.8045,
+      "score": 0.8026,
+      "importance": 0.8026,
+      "importance_score": 0.8026,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.736,
+        "recency": 0.7254,
         "story_heat": 0.0
       },
       "category": "official",
@@ -1972,7 +1972,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-26T13:58:12.253602Z"
+        "scored_at": "2026-09-26T14:59:35.834842Z"
       }
     }
   ]
