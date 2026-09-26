@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-26T03:47:17.768940Z",
+  "generated_at": "2026-09-26T04:47:21.828818Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -48,15 +48,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8564,
-      "importance": 0.8564,
-      "importance_score": 0.8564,
+      "score": 0.854,
+      "importance": 0.854,
+      "importance_score": 0.854,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.98,
-        "recency": 0.9468,
+        "recency": 0.9332,
         "story_heat": 0.0
       },
       "category": "official",
@@ -83,7 +83,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-26T04:16:10.972029Z"
+        "scored_at": "2026-09-26T04:48:16.279841Z"
       }
     },
     {
@@ -160,15 +160,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.8533,
-      "importance": 0.8533,
-      "importance_score": 0.8533,
+      "score": 0.851,
+      "importance": 0.851,
+      "importance_score": 0.851,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.8682,
+        "recency": 0.8557,
         "story_heat": 0.25
       },
       "category": "official",
@@ -196,12 +196,12 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-26T04:16:10.972029Z"
+        "scored_at": "2026-09-26T04:48:16.279841Z"
       }
     },
     {
       "story_id": "story_31f780f81dc1",
-      "title": "Proaction boosts sales 60% and saves 75+ hours with Codex",
+      "title": "Proaction 通过 Codex 将销售额提高了 60% 并节省了 75 多个小时 / Proaction boosts sales 60% and saves 75+ hours with Codex",
       "url": "https://openai.com/index/proaction",
       "primary_url": "https://openai.com/index/proaction",
       "source": "OpenAI News",
@@ -209,8 +209,8 @@
       "sources": [
         {
           "id": "66813550b19620d0f21a2f5a0f52320a576eb1a2",
-          "title": "Proaction boosts sales 60% and saves 75+ hours with Codex",
-          "title_zh": null,
+          "title": "Proaction 通过 Codex 将销售额提高了 60% 并节省了 75 多个小时 / Proaction boosts sales 60% and saves 75+ hours with Codex",
+          "title_zh": "Proaction 通过 Codex 将销售额提高了 60% 并节省了 75 多个小时",
           "title_en": "Proaction boosts sales 60% and saves 75+ hours with Codex",
           "title_original": "Proaction boosts sales 60% and saves 75+ hours with Codex",
           "summary": null,
@@ -229,8 +229,8 @@
       "items": [
         {
           "id": "66813550b19620d0f21a2f5a0f52320a576eb1a2",
-          "title": "Proaction boosts sales 60% and saves 75+ hours with Codex",
-          "title_zh": null,
+          "title": "Proaction 通过 Codex 将销售额提高了 60% 并节省了 75 多个小时 / Proaction boosts sales 60% and saves 75+ hours with Codex",
+          "title_zh": "Proaction 通过 Codex 将销售额提高了 60% 并节省了 75 多个小时",
           "title_en": "Proaction boosts sales 60% and saves 75+ hours with Codex",
           "title_original": "Proaction boosts sales 60% and saves 75+ hours with Codex",
           "summary": null,
@@ -244,15 +244,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8385,
-      "importance": 0.8385,
-      "importance_score": 0.8385,
+      "score": 0.8363,
+      "importance": 0.8363,
+      "importance_score": 0.8363,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.8808,
+        "recency": 0.8682,
         "story_heat": 0.0
       },
       "category": "official",
@@ -265,8 +265,8 @@
       "latest_at": "2026-09-25T19:00:00Z",
       "primary_item": {
         "id": "66813550b19620d0f21a2f5a0f52320a576eb1a2",
-        "title": "Proaction boosts sales 60% and saves 75+ hours with Codex",
-        "title_zh": null,
+        "title": "Proaction 通过 Codex 将销售额提高了 60% 并节省了 75 多个小时 / Proaction boosts sales 60% and saves 75+ hours with Codex",
+        "title_zh": "Proaction 通过 Codex 将销售额提高了 60% 并节省了 75 多个小时",
         "title_en": "Proaction boosts sales 60% and saves 75+ hours with Codex",
         "title_original": "Proaction boosts sales 60% and saves 75+ hours with Codex",
         "summary": null,
@@ -279,12 +279,12 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-26T04:16:10.972029Z"
+        "scored_at": "2026-09-26T04:48:16.279841Z"
       }
     },
     {
       "story_id": "story_07c3181c791a",
-      "title": "Enterprise managed settings in-product validator",
+      "title": "企业管理的设置产品内验证器 / Enterprise managed settings in-product validator",
       "url": "https://github.blog/changelog/2026-09-25-enterprise-managed-settings-in-product-validator",
       "primary_url": "https://github.blog/changelog/2026-09-25-enterprise-managed-settings-in-product-validator",
       "source": "GitHub Changelog",
@@ -292,8 +292,8 @@
       "sources": [
         {
           "id": "dd059b79660393da2ac0c82f4ed19cc35a008a33",
-          "title": "Enterprise managed settings in-product validator",
-          "title_zh": null,
+          "title": "企业管理的设置产品内验证器 / Enterprise managed settings in-product validator",
+          "title_zh": "企业管理的设置产品内验证器",
           "title_en": "Enterprise managed settings in-product validator",
           "title_original": "Enterprise managed settings in-product validator",
           "summary": null,
@@ -312,8 +312,8 @@
       "items": [
         {
           "id": "dd059b79660393da2ac0c82f4ed19cc35a008a33",
-          "title": "Enterprise managed settings in-product validator",
-          "title_zh": null,
+          "title": "企业管理的设置产品内验证器 / Enterprise managed settings in-product validator",
+          "title_zh": "企业管理的设置产品内验证器",
           "title_en": "Enterprise managed settings in-product validator",
           "title_original": "Enterprise managed settings in-product validator",
           "summary": null,
@@ -327,15 +327,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.833,
-      "importance": 0.833,
-      "importance_score": 0.833,
+      "score": 0.8306,
+      "importance": 0.8306,
+      "importance_score": 0.8306,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.9388,
+        "recency": 0.9253,
         "story_heat": 0.0
       },
       "category": "official",
@@ -348,8 +348,8 @@
       "latest_at": "2026-09-25T23:24:57Z",
       "primary_item": {
         "id": "dd059b79660393da2ac0c82f4ed19cc35a008a33",
-        "title": "Enterprise managed settings in-product validator",
-        "title_zh": null,
+        "title": "企业管理的设置产品内验证器 / Enterprise managed settings in-product validator",
+        "title_zh": "企业管理的设置产品内验证器",
         "title_en": "Enterprise managed settings in-product validator",
         "title_original": "Enterprise managed settings in-product validator",
         "summary": null,
@@ -362,7 +362,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-26T04:16:10.972029Z"
+        "scored_at": "2026-09-26T04:48:16.279841Z"
       }
     },
     {
@@ -403,8 +403,8 @@
         },
         {
           "id": "f5b7e831c7f6fe4d375dacbef0abf403bb826cf4",
-          "title": "Revealing the details of how OpenAI agents hacked Hugging Face",
-          "title_zh": null,
+          "title": "揭示 OpenAI 代理如何破解 Hugging Face 的详细信息 / Revealing the details of how OpenAI agents hacked Hugging Face",
+          "title_zh": "揭示 OpenAI 代理如何破解 Hugging Face 的详细信息",
           "title_en": "Revealing the details of how OpenAI agents hacked Hugging Face",
           "title_original": "Revealing the details of how OpenAI agents hacked Hugging Face",
           "summary": null,
@@ -453,8 +453,8 @@
         },
         {
           "id": "f5b7e831c7f6fe4d375dacbef0abf403bb826cf4",
-          "title": "Revealing the details of how OpenAI agents hacked Hugging Face",
-          "title_zh": null,
+          "title": "揭示 OpenAI 代理如何破解 Hugging Face 的详细信息 / Revealing the details of how OpenAI agents hacked Hugging Face",
+          "title_zh": "揭示 OpenAI 代理如何破解 Hugging Face 的详细信息",
           "title_en": "Revealing the details of how OpenAI agents hacked Hugging Face",
           "title_original": "Revealing the details of how OpenAI agents hacked Hugging Face",
           "summary": null,
@@ -468,15 +468,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.8312,
-      "importance": 0.8312,
-      "importance_score": 0.8312,
+      "score": 0.8288,
+      "importance": 0.8288,
+      "importance_score": 0.8288,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.82,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9087,
+        "recency": 0.8956,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -503,7 +503,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-26T04:16:10.972029Z"
+        "scored_at": "2026-09-26T04:48:16.279841Z"
       }
     },
     {
@@ -558,8 +558,8 @@
         },
         {
           "id": "4b2672147b5d8a9ba8a593764afe96cbc40ef405",
-          "title": "Yes, Claude can do Nine Loops",
-          "title_zh": null,
+          "title": "是的，Claude可以做九圈 / Yes, Claude can do Nine Loops",
+          "title_zh": "是的，Claude可以做九圈",
           "title_en": "Yes, Claude can do Nine Loops",
           "title_original": "Yes, Claude can do Nine Loops",
           "summary": null,
@@ -623,8 +623,8 @@
         },
         {
           "id": "4b2672147b5d8a9ba8a593764afe96cbc40ef405",
-          "title": "Yes, Claude can do Nine Loops",
-          "title_zh": null,
+          "title": "是的，Claude可以做九圈 / Yes, Claude can do Nine Loops",
+          "title_zh": "是的，Claude可以做九圈",
           "title_en": "Yes, Claude can do Nine Loops",
           "title_original": "Yes, Claude can do Nine Loops",
           "summary": null,
@@ -638,15 +638,15 @@
       ],
       "item_count": 4,
       "duplicate_count": 4,
-      "score": 0.8248,
-      "importance": 0.8248,
-      "importance_score": 0.8248,
+      "score": 0.8226,
+      "importance": 0.8226,
+      "importance_score": 0.8226,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.74,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.868,
+        "recency": 0.8556,
         "story_heat": 0.75
       },
       "category": "multi_source",
@@ -673,12 +673,12 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-26T04:16:10.972029Z"
+        "scored_at": "2026-09-26T04:48:16.279841Z"
       }
     },
     {
       "story_id": "story_d32b9e9d97fb",
-      "title": "Usage metrics API adds pull request review stages",
+      "title": "使用指标 API 添加了拉取请求审核阶段 / Usage metrics API adds pull request review stages",
       "url": "https://github.blog/changelog/2026-09-25-usage-metrics-api-adds-pull-request-review-stages",
       "primary_url": "https://github.blog/changelog/2026-09-25-usage-metrics-api-adds-pull-request-review-stages",
       "source": "GitHub Changelog",
@@ -686,8 +686,8 @@
       "sources": [
         {
           "id": "b5d60959143a435db72e4dd644346f25cfc49e27",
-          "title": "Usage metrics API adds pull request review stages",
-          "title_zh": null,
+          "title": "使用指标 API 添加了拉取请求审核阶段 / Usage metrics API adds pull request review stages",
+          "title_zh": "使用指标 API 添加了拉取请求审核阶段",
           "title_en": "Usage metrics API adds pull request review stages",
           "title_original": "Usage metrics API adds pull request review stages",
           "summary": null,
@@ -706,8 +706,8 @@
       "items": [
         {
           "id": "b5d60959143a435db72e4dd644346f25cfc49e27",
-          "title": "Usage metrics API adds pull request review stages",
-          "title_zh": null,
+          "title": "使用指标 API 添加了拉取请求审核阶段 / Usage metrics API adds pull request review stages",
+          "title_zh": "使用指标 API 添加了拉取请求审核阶段",
           "title_en": "Usage metrics API adds pull request review stages",
           "title_original": "Usage metrics API adds pull request review stages",
           "summary": null,
@@ -721,15 +721,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8276,
-      "importance": 0.8276,
-      "importance_score": 0.8276,
+      "score": 0.8252,
+      "importance": 0.8252,
+      "importance_score": 0.8252,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.9087,
+        "recency": 0.8957,
         "story_heat": 0.0
       },
       "category": "official",
@@ -742,8 +742,8 @@
       "latest_at": "2026-09-25T21:09:40Z",
       "primary_item": {
         "id": "b5d60959143a435db72e4dd644346f25cfc49e27",
-        "title": "Usage metrics API adds pull request review stages",
-        "title_zh": null,
+        "title": "使用指标 API 添加了拉取请求审核阶段 / Usage metrics API adds pull request review stages",
+        "title_zh": "使用指标 API 添加了拉取请求审核阶段",
         "title_en": "Usage metrics API adds pull request review stages",
         "title_original": "Usage metrics API adds pull request review stages",
         "summary": null,
@@ -756,7 +756,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-26T04:16:10.972029Z"
+        "scored_at": "2026-09-26T04:48:16.279841Z"
       }
     },
     {
@@ -833,15 +833,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.791,
-      "importance": 0.791,
-      "importance_score": 0.791,
+      "score": 0.7888,
+      "importance": 0.7888,
+      "importance_score": 0.7888,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.81,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8411,
+        "recency": 0.829,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -868,7 +868,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-26T04:16:10.972029Z"
+        "scored_at": "2026-09-26T04:48:16.279841Z"
       }
     },
     {
@@ -916,15 +916,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.788,
-      "importance": 0.788,
-      "importance_score": 0.788,
+      "score": 0.7856,
+      "importance": 0.7856,
+      "importance_score": 0.7856,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.82,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9467,
+        "recency": 0.9331,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -950,7 +950,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-26T04:16:10.972029Z"
+        "scored_at": "2026-09-26T04:48:16.279841Z"
       }
     },
     {
@@ -998,15 +998,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7836,
-      "importance": 0.7836,
-      "importance_score": 0.7836,
+      "score": 0.7813,
+      "importance": 0.7813,
+      "importance_score": 0.7813,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.83,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9056,
+        "recency": 0.8926,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1032,7 +1032,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-26T04:16:10.972029Z"
+        "scored_at": "2026-09-26T04:48:16.279841Z"
       }
     },
     {
@@ -1138,15 +1138,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.8093,
-      "importance": 0.8093,
-      "importance_score": 0.8093,
+      "score": 0.8071,
+      "importance": 0.8071,
+      "importance_score": 0.8071,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.79,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8373,
+        "recency": 0.8253,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1173,7 +1173,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-26T04:16:10.972029Z"
+        "scored_at": "2026-09-26T04:48:16.279841Z"
       }
     },
     {
@@ -1221,15 +1221,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7748,
-      "importance": 0.7748,
-      "importance_score": 0.7748,
+      "score": 0.7725,
+      "importance": 0.7725,
+      "importance_score": 0.7725,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.66,
         "source_tier": 1.0,
         "ai_relevance": 1.0,
-        "recency": 0.871,
+        "recency": 0.8585,
         "story_heat": 0.0
       },
       "category": "official",
@@ -1255,7 +1255,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-26T04:16:10.972029Z"
+        "scored_at": "2026-09-26T04:48:16.279841Z"
       }
     },
     {
@@ -1303,15 +1303,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7709,
-      "importance": 0.7709,
-      "importance_score": 0.7709,
+      "score": 0.7688,
+      "importance": 0.7688,
+      "importance_score": 0.7688,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.86,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7848,
+        "recency": 0.7735,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1337,7 +1337,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-26T04:16:10.972029Z"
+        "scored_at": "2026-09-26T04:48:16.279841Z"
       }
     },
     {
@@ -1385,15 +1385,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.827,
-      "importance": 0.827,
-      "importance_score": 0.827,
+      "score": 0.8248,
+      "importance": 0.8248,
+      "importance_score": 0.8248,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.8611,
+        "recency": 0.8487,
         "story_heat": 0.0
       },
       "category": "official",
@@ -1420,7 +1420,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-26T04:16:10.972029Z"
+        "scored_at": "2026-09-26T04:48:16.279841Z"
       }
     },
     {
@@ -1468,15 +1468,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7473,
-      "importance": 0.7473,
-      "importance_score": 0.7473,
+      "score": 0.7449,
+      "importance": 0.7449,
+      "importance_score": 0.7449,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.71,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9038,
+        "recency": 0.8908,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1501,7 +1501,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-26T04:16:10.972029Z"
+        "scored_at": "2026-09-26T04:48:16.279841Z"
       }
     },
     {
@@ -1578,15 +1578,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7757,
-      "importance": 0.7757,
-      "importance_score": 0.7757,
+      "score": 0.7735,
+      "importance": 0.7735,
+      "importance_score": 0.7735,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.76,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8394,
+        "recency": 0.8274,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -1613,7 +1613,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-26T04:16:10.972029Z"
+        "scored_at": "2026-09-26T04:48:16.279841Z"
       }
     },
     {
@@ -1661,15 +1661,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.742,
-      "importance": 0.742,
-      "importance_score": 0.742,
+      "score": 0.7401,
+      "importance": 0.7401,
+      "importance_score": 0.7401,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.79,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.741,
+        "recency": 0.7304,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1694,7 +1694,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-26T04:16:10.972029Z"
+        "scored_at": "2026-09-26T04:48:16.279841Z"
       }
     },
     {
@@ -1742,15 +1742,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7388,
-      "importance": 0.7388,
-      "importance_score": 0.7388,
+      "score": 0.7366,
+      "importance": 0.7366,
+      "importance_score": 0.7366,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8399,
+        "recency": 0.8278,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1775,7 +1775,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-26T04:16:10.972029Z"
+        "scored_at": "2026-09-26T04:48:16.279841Z"
       }
     },
     {
@@ -1823,15 +1823,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7382,
-      "importance": 0.7382,
-      "importance_score": 0.7382,
+      "score": 0.7359,
+      "importance": 0.7359,
+      "importance_score": 0.7359,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.69,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8868,
+        "recency": 0.874,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1856,7 +1856,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-26T04:16:10.972029Z"
+        "scored_at": "2026-09-26T04:48:16.279841Z"
       }
     },
     {
@@ -1904,15 +1904,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8254,
-      "importance": 0.8254,
-      "importance_score": 0.8254,
+      "score": 0.8232,
+      "importance": 0.8232,
+      "importance_score": 0.8232,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.8522,
+        "recency": 0.84,
         "story_heat": 0.0
       },
       "category": "official",
@@ -1939,7 +1939,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-26T04:16:10.972029Z"
+        "scored_at": "2026-09-26T04:48:16.279841Z"
       }
     }
   ]
