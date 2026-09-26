@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-26T18:47:20.998498Z",
+  "generated_at": "2026-09-26T19:47:15.600732Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -48,15 +48,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8232,
-      "importance": 0.8232,
-      "importance_score": 0.8232,
+      "score": 0.8213,
+      "importance": 0.8213,
+      "importance_score": 0.8213,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.98,
-        "recency": 0.7624,
+        "recency": 0.7515,
         "story_heat": 0.0
       },
       "category": "official",
@@ -83,90 +83,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-26T18:59:48.596273Z"
-      }
-    },
-    {
-      "story_id": "story_31f780f81dc1",
-      "title": "Proaction 通过 Codex 将销售额提高了 60% 并节省了 75 多个小时 / Proaction boosts sales 60% and saves 75+ hours with Codex",
-      "url": "https://openai.com/index/proaction",
-      "primary_url": "https://openai.com/index/proaction",
-      "source": "OpenAI News",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "66813550b19620d0f21a2f5a0f52320a576eb1a2",
-          "title": "Proaction 通过 Codex 将销售额提高了 60% 并节省了 75 多个小时 / Proaction boosts sales 60% and saves 75+ hours with Codex",
-          "title_zh": "Proaction 通过 Codex 将销售额提高了 60% 并节省了 75 多个小时",
-          "title_en": "Proaction boosts sales 60% and saves 75+ hours with Codex",
-          "title_original": "Proaction boosts sales 60% and saves 75+ hours with Codex",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://openai.com/index/proaction",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-09-25T19:00:00Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "OpenAI News"
-      ],
-      "items": [
-        {
-          "id": "66813550b19620d0f21a2f5a0f52320a576eb1a2",
-          "title": "Proaction 通过 Codex 将销售额提高了 60% 并节省了 75 多个小时 / Proaction boosts sales 60% and saves 75+ hours with Codex",
-          "title_zh": "Proaction 通过 Codex 将销售额提高了 60% 并节省了 75 多个小时",
-          "title_en": "Proaction boosts sales 60% and saves 75+ hours with Codex",
-          "title_original": "Proaction boosts sales 60% and saves 75+ hours with Codex",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://openai.com/index/proaction",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-09-25T19:00:00Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8077,
-      "importance": 0.8077,
-      "importance_score": 0.8077,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.95,
-        "recency": 0.7093,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-25T19:00:00Z",
-      "latest_at": "2026-09-25T19:00:00Z",
-      "primary_item": {
-        "id": "66813550b19620d0f21a2f5a0f52320a576eb1a2",
-        "title": "Proaction 通过 Codex 将销售额提高了 60% 并节省了 75 多个小时 / Proaction boosts sales 60% and saves 75+ hours with Codex",
-        "title_zh": "Proaction 通过 Codex 将销售额提高了 60% 并节省了 75 多个小时",
-        "title_en": "Proaction boosts sales 60% and saves 75+ hours with Codex",
-        "title_original": "Proaction boosts sales 60% and saves 75+ hours with Codex",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://openai.com/index/proaction",
-        "source": "OpenAI News",
-        "source_name": "Official AI Updates"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-09-26T18:59:48.596273Z"
+        "scored_at": "2026-09-26T19:59:11.619535Z"
       }
     },
     {
@@ -214,15 +131,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8001,
-      "importance": 0.8001,
-      "importance_score": 0.8001,
+      "score": 0.7981,
+      "importance": 0.7981,
+      "importance_score": 0.7981,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.756,
+        "recency": 0.7451,
         "story_heat": 0.0
       },
       "category": "official",
@@ -249,7 +166,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-26T18:59:48.596273Z"
+        "scored_at": "2026-09-26T19:59:11.619535Z"
       }
     },
     {
@@ -355,15 +272,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.7993,
-      "importance": 0.7993,
-      "importance_score": 0.7993,
+      "score": 0.7974,
+      "importance": 0.7974,
+      "importance_score": 0.7974,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.82,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7317,
+        "recency": 0.7212,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -390,7 +307,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-26T18:59:48.596273Z"
+        "scored_at": "2026-09-26T19:59:11.619535Z"
       }
     },
     {
@@ -438,15 +355,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7838,
-      "importance": 0.7838,
-      "importance_score": 0.7838,
+      "score": 0.7814,
+      "importance": 0.7814,
+      "importance_score": 0.7814,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.8,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9569,
+        "recency": 0.9432,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -472,7 +389,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-26T18:59:48.596273Z"
+        "scored_at": "2026-09-26T19:59:11.619535Z"
       }
     },
     {
@@ -520,15 +437,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7831,
-      "importance": 0.7831,
-      "importance_score": 0.7831,
+      "score": 0.7809,
+      "importance": 0.7809,
+      "importance_score": 0.7809,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.85,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8696,
+        "recency": 0.8571,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -554,7 +471,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-26T18:59:48.596273Z"
+        "scored_at": "2026-09-26T19:59:11.619535Z"
       }
     },
     {
@@ -602,15 +519,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7811,
-      "importance": 0.7811,
-      "importance_score": 0.7811,
+      "score": 0.7786,
+      "importance": 0.7786,
+      "importance_score": 0.7786,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.78,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9751,
+        "recency": 0.9611,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -636,7 +553,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-26T18:59:48.596273Z"
+        "scored_at": "2026-09-26T19:59:11.619535Z"
       }
     },
     {
@@ -684,15 +601,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7957,
-      "importance": 0.7957,
-      "importance_score": 0.7957,
+      "score": 0.7938,
+      "importance": 0.7938,
+      "importance_score": 0.7938,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.7317,
+        "recency": 0.7213,
         "story_heat": 0.0
       },
       "category": "official",
@@ -719,7 +636,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-26T18:59:48.596273Z"
+        "scored_at": "2026-09-26T19:59:11.619535Z"
       }
     },
     {
@@ -767,15 +684,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7548,
-      "importance": 0.7548,
-      "importance_score": 0.7548,
+      "score": 0.7529,
+      "importance": 0.7529,
+      "importance_score": 0.7529,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.82,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7623,
+        "recency": 0.7514,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -801,7 +718,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-26T18:59:48.596273Z"
+        "scored_at": "2026-09-26T19:59:11.619535Z"
       }
     },
     {
@@ -849,15 +766,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7529,
-      "importance": 0.7529,
-      "importance_score": 0.7529,
+      "score": 0.7508,
+      "importance": 0.7508,
+      "importance_score": 0.7508,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.78,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8183,
+        "recency": 0.8066,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -883,7 +800,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-26T18:59:48.596273Z"
+        "scored_at": "2026-09-26T19:59:11.619535Z"
       }
     },
     {
@@ -931,15 +848,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7519,
-      "importance": 0.7519,
-      "importance_score": 0.7519,
+      "score": 0.75,
+      "importance": 0.75,
+      "importance_score": 0.75,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.83,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7292,
+        "recency": 0.7188,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -965,201 +882,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-26T18:59:48.596273Z"
-      }
-    },
-    {
-      "story_id": "story_d0bb9ce06108",
-      "title": "Sam Altman 谈 OpenAI 智能体训练期联网行为审查进展 / There is an extensive and ongoing review related to our agents' use of internet access during traini…",
-      "url": "https://x.com/sama/status/2103567198690349362",
-      "primary_url": "https://x.com/sama/status/2103567198690349362",
-      "source": "X：Sam Altman (@sama)",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "477fb3bd3d3bba747faf2053103523c7c20b5cce",
-          "title": "Sam Altman 谈 OpenAI 智能体训练期联网行为审查进展 / There is an extensive and ongoing review related to our agents' use of internet access during traini…",
-          "title_zh": "Sam Altman 谈 OpenAI 智能体训练期联网行为审查进展",
-          "title_en": "There is an extensive and ongoing review related to our agents' use of internet access during traini…",
-          "title_original": "There is an extensive and ongoing review related to our agents' use of internet access during traini…",
-          "summary": "Sam Altman 表示 OpenAI 正在对智能体在训练和评估期间的互联网访问行为进行大规模持续审查，并在官网链接发布摘要。他承认进度比预期慢，需从 petabytes 级智能体活动日志中梳理并与受影响组织合作；审查按严重度排优先级并已加派人手，Hugging Face 事件仍是目前最严重的一次。",
-          "recommend_reason_zh": null,
-          "url": "https://x.com/sama/status/2103567198690349362",
-          "source": "X：Sam Altman (@sama)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-25T19:27:57Z"
-        },
-        {
-          "id": "24ff2fe66735d89aa1f690a7b05faf414bc9a792",
-          "title": "Sam Altman 谈 OpenAI 智能体训练期联网行为审查进展 / There is an extensive and ongoing review related to our agents’ use of internet access during training and evaluation. We’ve been publishing summaries at the link below and will continue to. We have not been as fast a...",
-          "title_zh": "Sam Altman 谈 OpenAI 智能体训练期联网行为审查进展",
-          "title_en": "There is an extensive and ongoing review related to our agents’ use of internet access during training and evaluation. We’ve been publishing summaries at the link below and will continue to. We have not been as fast a...",
-          "title_original": "There is an extensive and ongoing review related to our agents’ use of internet access during training and evaluation. We’ve been publishing summaries at the link below and will continue to. We have not been as fast a...",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://x.com/sama/status/2103567198690349362",
-          "source": "Follow Builders · X · Sam Altman",
-          "source_name": "Follow Builders",
-          "site_id": "followbuilders",
-          "published_at": "2026-09-25T19:27:57Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Follow Builders · X · Sam Altman",
-        "X：Sam Altman (@sama)"
-      ],
-      "items": [
-        {
-          "id": "477fb3bd3d3bba747faf2053103523c7c20b5cce",
-          "title": "Sam Altman 谈 OpenAI 智能体训练期联网行为审查进展 / There is an extensive and ongoing review related to our agents' use of internet access during traini…",
-          "title_zh": "Sam Altman 谈 OpenAI 智能体训练期联网行为审查进展",
-          "title_en": "There is an extensive and ongoing review related to our agents' use of internet access during traini…",
-          "title_original": "There is an extensive and ongoing review related to our agents' use of internet access during traini…",
-          "summary": "Sam Altman 表示 OpenAI 正在对智能体在训练和评估期间的互联网访问行为进行大规模持续审查，并在官网链接发布摘要。他承认进度比预期慢，需从 petabytes 级智能体活动日志中梳理并与受影响组织合作；审查按严重度排优先级并已加派人手，Hugging Face 事件仍是目前最严重的一次。",
-          "recommend_reason_zh": null,
-          "url": "https://x.com/sama/status/2103567198690349362",
-          "source": "X：Sam Altman (@sama)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-25T19:27:57Z"
-        },
-        {
-          "id": "24ff2fe66735d89aa1f690a7b05faf414bc9a792",
-          "title": "Sam Altman 谈 OpenAI 智能体训练期联网行为审查进展 / There is an extensive and ongoing review related to our agents’ use of internet access during training and evaluation. We’ve been publishing summaries at the link below and will continue to. We have not been as fast a...",
-          "title_zh": "Sam Altman 谈 OpenAI 智能体训练期联网行为审查进展",
-          "title_en": "There is an extensive and ongoing review related to our agents’ use of internet access during training and evaluation. We’ve been publishing summaries at the link below and will continue to. We have not been as fast a...",
-          "title_original": "There is an extensive and ongoing review related to our agents’ use of internet access during training and evaluation. We’ve been publishing summaries at the link below and will continue to. We have not been as fast a...",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://x.com/sama/status/2103567198690349362",
-          "source": "Follow Builders · X · Sam Altman",
-          "source_name": "Follow Builders",
-          "site_id": "followbuilders",
-          "published_at": "2026-09-25T19:27:57Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.7321,
-      "importance": 0.7321,
-      "importance_score": 0.7321,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.69,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7141,
-        "story_heat": 0.25
-      },
-      "category": "industry",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-09-25T19:27:57Z",
-      "latest_at": "2026-09-25T19:27:57Z",
-      "primary_item": {
-        "id": "477fb3bd3d3bba747faf2053103523c7c20b5cce",
-        "title": "Sam Altman 谈 OpenAI 智能体训练期联网行为审查进展 / There is an extensive and ongoing review related to our agents' use of internet access during traini…",
-        "title_zh": "Sam Altman 谈 OpenAI 智能体训练期联网行为审查进展",
-        "title_en": "There is an extensive and ongoing review related to our agents' use of internet access during traini…",
-        "title_original": "There is an extensive and ongoing review related to our agents' use of internet access during traini…",
-        "summary": "Sam Altman 表示 OpenAI 正在对智能体在训练和评估期间的互联网访问行为进行大规模持续审查，并在官网链接发布摘要。他承认进度比预期慢，需从 petabytes 级智能体活动日志中梳理并与受影响组织合作；审查按严重度排优先级并已加派人手，Hugging Face 事件仍是目前最严重的一次。",
-        "recommend_reason_zh": null,
-        "url": "https://x.com/sama/status/2103567198690349362",
-        "source": "X：Sam Altman (@sama)",
-        "source_name": "AI HOT"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-09-26T18:59:48.596273Z"
-      }
-    },
-    {
-      "story_id": "story_8129dd850da5",
-      "title": "代码仓库问题和“涉及”问题关系的私有保存视图通常可用 / Private saved views for repository issues and “Relates to” issue relationship is generally available",
-      "url": "https://github.blog/changelog/2026-09-25-personal-saved-views-for-repository-issues-and-more",
-      "primary_url": "https://github.blog/changelog/2026-09-25-personal-saved-views-for-repository-issues-and-more",
-      "source": "GitHub Changelog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "edc04e0031a325e3e60479ffba5ca7c72cde91fc",
-          "title": "代码仓库问题和“涉及”问题关系的私有保存视图通常可用 / Private saved views for repository issues and “Relates to” issue relationship is generally available",
-          "title_zh": "代码仓库问题和“涉及”问题关系的私有保存视图通常可用",
-          "title_en": "Private saved views for repository issues and “Relates to” issue relationship is generally available",
-          "title_original": "Private saved views for repository issues and “Relates to” issue relationship is generally available",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-09-25-personal-saved-views-for-repository-issues-and-more",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-09-25T19:05:03Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "GitHub Changelog"
-      ],
-      "items": [
-        {
-          "id": "edc04e0031a325e3e60479ffba5ca7c72cde91fc",
-          "title": "代码仓库问题和“涉及”问题关系的私有保存视图通常可用 / Private saved views for repository issues and “Relates to” issue relationship is generally available",
-          "title_zh": "代码仓库问题和“涉及”问题关系的私有保存视图通常可用",
-          "title_en": "Private saved views for repository issues and “Relates to” issue relationship is generally available",
-          "title_original": "Private saved views for repository issues and “Relates to” issue relationship is generally available",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-09-25-personal-saved-views-for-repository-issues-and-more",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-09-25T19:05:03Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7918,
-      "importance": 0.7918,
-      "importance_score": 0.7918,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.87,
-        "recency": 0.7101,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-25T19:05:03Z",
-      "latest_at": "2026-09-25T19:05:03Z",
-      "primary_item": {
-        "id": "edc04e0031a325e3e60479ffba5ca7c72cde91fc",
-        "title": "代码仓库问题和“涉及”问题关系的私有保存视图通常可用 / Private saved views for repository issues and “Relates to” issue relationship is generally available",
-        "title_zh": "代码仓库问题和“涉及”问题关系的私有保存视图通常可用",
-        "title_en": "Private saved views for repository issues and “Relates to” issue relationship is generally available",
-        "title_original": "Private saved views for repository issues and “Relates to” issue relationship is generally available",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://github.blog/changelog/2026-09-25-personal-saved-views-for-repository-issues-and-more",
-        "source": "GitHub Changelog",
-        "source_name": "Official AI Updates"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-09-26T18:59:48.596273Z"
+        "scored_at": "2026-09-26T19:59:11.619535Z"
       }
     },
     {
@@ -1265,15 +988,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5583,
-      "importance": 0.5583,
-      "importance_score": 0.5583,
+      "score": 0.5559,
+      "importance": 0.5559,
+      "importance_score": 0.5559,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9305,
+        "recency": 0.9172,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1298,7 +1021,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-26T18:59:48.596273Z"
+        "scored_at": "2026-09-26T19:59:11.619535Z"
       }
     },
     {
@@ -1404,15 +1127,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5564,
-      "importance": 0.5564,
-      "importance_score": 0.5564,
+      "score": 0.554,
+      "importance": 0.554,
+      "importance_score": 0.554,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9201,
+        "recency": 0.9069,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1437,7 +1160,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-26T18:59:48.596273Z"
+        "scored_at": "2026-09-26T19:59:11.619535Z"
       }
     },
     {
@@ -1514,15 +1237,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5386,
-      "importance": 0.5386,
-      "importance_score": 0.5386,
+      "score": 0.5361,
+      "importance": 0.5361,
+      "importance_score": 0.5361,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9597,
+        "recency": 0.946,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1547,7 +1270,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-26T18:59:48.596273Z"
+        "scored_at": "2026-09-26T19:59:11.619535Z"
       }
     },
     {
@@ -1624,15 +1347,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5339,
-      "importance": 0.5339,
-      "importance_score": 0.5339,
+      "score": 0.5315,
+      "importance": 0.5315,
+      "importance_score": 0.5315,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9341,
+        "recency": 0.9207,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1657,7 +1380,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-26T18:59:48.596273Z"
+        "scored_at": "2026-09-26T19:59:11.619535Z"
       }
     },
     {
@@ -1734,15 +1457,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5316,
-      "importance": 0.5316,
-      "importance_score": 0.5316,
+      "score": 0.5292,
+      "importance": 0.5292,
+      "importance_score": 0.5292,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.921,
+        "recency": 0.9079,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1767,7 +1490,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-26T18:59:48.596273Z"
+        "scored_at": "2026-09-26T19:59:11.619535Z"
       }
     },
     {
@@ -1873,15 +1596,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5275,
-      "importance": 0.5275,
-      "importance_score": 0.5275,
+      "score": 0.5256,
+      "importance": 0.5256,
+      "importance_score": 0.5256,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7595,
+        "recency": 0.7486,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1906,7 +1629,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-26T18:59:48.596273Z"
+        "scored_at": "2026-09-26T19:59:11.619535Z"
       }
     },
     {
@@ -1983,15 +1706,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5377,
-      "importance": 0.5377,
-      "importance_score": 0.5377,
+      "score": 0.5352,
+      "importance": 0.5352,
+      "importance_score": 0.5352,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9547,
+        "recency": 0.9411,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -2016,7 +1739,337 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-26T18:59:48.596273Z"
+        "scored_at": "2026-09-26T19:59:11.619535Z"
+      }
+    },
+    {
+      "story_id": "story_d01366eeb4af",
+      "title": "Mistral首席执行官：人工智能是软件。是可以控制的 / CEO of Mistral: AI is software. It can be controlled",
+      "url": "https://www.lemonde.fr/en/economy/article/2026/09/24/arthur-mensch-ceo-of-french-start-up-mistral-ai-ai-is-software-it-can-be-controlled_6757890_19.html",
+      "primary_url": "https://www.lemonde.fr/en/economy/article/2026/09/24/arthur-mensch-ceo-of-french-start-up-mistral-ai-ai-is-software-it-can-be-controlled_6757890_19.html",
+      "source": "Hacker News · 24h最热",
+      "source_name": "Zeli",
+      "sources": [
+        {
+          "id": "858db12029d307f76b67e38032273552de7f9f28",
+          "title": "Mistral首席执行官：人工智能是软件。是可以控制的 / CEO of Mistral: AI is software. It can be controlled",
+          "title_zh": "Mistral首席执行官：人工智能是软件。是可以控制的",
+          "title_en": "CEO of Mistral: AI is software. It can be controlled",
+          "title_original": "CEO of Mistral: AI is software. It can be controlled",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.lemonde.fr/en/economy/article/2026/09/24/arthur-mensch-ceo-of-french-start-up-mistral-ai-ai-is-software-it-can-be-controlled_6757890_19.html",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-09-26T12:52:04Z"
+        },
+        {
+          "id": "db1cdd78f5bb17353f7d3065f76528d6ebf8c577",
+          "title": "Mistral首席执行官：人工智能是软件。是可以控制的 / CEO of Mistral: AI is software. It can be controlled",
+          "title_zh": "Mistral首席执行官：人工智能是软件。是可以控制的",
+          "title_en": "CEO of Mistral: AI is software. It can be controlled",
+          "title_original": "CEO of Mistral: AI is software. It can be controlled",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=49856034",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-09-26T12:52:04Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News · 24h最热",
+        "hackernews"
+      ],
+      "items": [
+        {
+          "id": "858db12029d307f76b67e38032273552de7f9f28",
+          "title": "Mistral首席执行官：人工智能是软件。是可以控制的 / CEO of Mistral: AI is software. It can be controlled",
+          "title_zh": "Mistral首席执行官：人工智能是软件。是可以控制的",
+          "title_en": "CEO of Mistral: AI is software. It can be controlled",
+          "title_original": "CEO of Mistral: AI is software. It can be controlled",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.lemonde.fr/en/economy/article/2026/09/24/arthur-mensch-ceo-of-french-start-up-mistral-ai-ai-is-software-it-can-be-controlled_6757890_19.html",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-09-26T12:52:04Z"
+        },
+        {
+          "id": "db1cdd78f5bb17353f7d3065f76528d6ebf8c577",
+          "title": "Mistral首席执行官：人工智能是软件。是可以控制的 / CEO of Mistral: AI is software. It can be controlled",
+          "title_zh": "Mistral首席执行官：人工智能是软件。是可以控制的",
+          "title_en": "CEO of Mistral: AI is software. It can be controlled",
+          "title_original": "CEO of Mistral: AI is software. It can be controlled",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=49856034",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-09-26T12:52:04Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5287,
+      "importance": 0.5287,
+      "importance_score": 0.5287,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9049,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-09-26T12:52:04Z",
+      "latest_at": "2026-09-26T12:52:04Z",
+      "primary_item": {
+        "id": "858db12029d307f76b67e38032273552de7f9f28",
+        "title": "Mistral首席执行官：人工智能是软件。是可以控制的 / CEO of Mistral: AI is software. It can be controlled",
+        "title_zh": "Mistral首席执行官：人工智能是软件。是可以控制的",
+        "title_en": "CEO of Mistral: AI is software. It can be controlled",
+        "title_original": "CEO of Mistral: AI is software. It can be controlled",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://www.lemonde.fr/en/economy/article/2026/09/24/arthur-mensch-ceo-of-french-start-up-mistral-ai-ai-is-software-it-can-be-controlled_6757890_19.html",
+        "source": "Hacker News · 24h最热",
+        "source_name": "Zeli"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-09-26T19:59:11.619535Z"
+      }
+    },
+    {
+      "story_id": "story_be7ab868267a",
+      "title": "告诉 HN：Codex 已关闭 / Tell HN: Codex Is Down",
+      "url": "https://news.ycombinator.com/item?id=49851032",
+      "primary_url": "https://news.ycombinator.com/item?id=49851032",
+      "source": "Hacker News (黑客新闻)",
+      "source_name": "Info Flow",
+      "sources": [
+        {
+          "id": "5c19c31f504b87fa6b05300ae0e6c142efa7e37c",
+          "title": "告诉 HN：Codex 已关闭 / Tell HN: Codex Is Down",
+          "title_zh": "告诉 HN：Codex 已关闭",
+          "title_en": "Tell HN: Codex Is Down",
+          "title_original": "Tell HN: Codex Is Down",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=49851032",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-09-25T22:51:44Z"
+        },
+        {
+          "id": "558bbb7d48f93f90aa1d0b1cfda4f7665fc0f83c",
+          "title": "告诉 HN：Codex 已关闭 [已修复] / Tell HN: Codex Is Down [fixed]",
+          "title_zh": "告诉 HN：Codex 已关闭 [已修复]",
+          "title_en": "Tell HN: Codex Is Down [fixed]",
+          "title_original": "Tell HN: Codex Is Down [fixed]",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=49851032",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-09-25T22:51:44Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News",
+        "Hacker News (黑客新闻)"
+      ],
+      "items": [
+        {
+          "id": "5c19c31f504b87fa6b05300ae0e6c142efa7e37c",
+          "title": "告诉 HN：Codex 已关闭 / Tell HN: Codex Is Down",
+          "title_zh": "告诉 HN：Codex 已关闭",
+          "title_en": "Tell HN: Codex Is Down",
+          "title_original": "Tell HN: Codex Is Down",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=49851032",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-09-25T22:51:44Z"
+        },
+        {
+          "id": "558bbb7d48f93f90aa1d0b1cfda4f7665fc0f83c",
+          "title": "告诉 HN：Codex 已关闭 [已修复] / Tell HN: Codex Is Down [fixed]",
+          "title_zh": "告诉 HN：Codex 已关闭 [已修复]",
+          "title_en": "Tell HN: Codex Is Down [fixed]",
+          "title_original": "Tell HN: Codex Is Down [fixed]",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=49851032",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-09-25T22:51:44Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.4989,
+      "importance": 0.4989,
+      "importance_score": 0.4989,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.7392,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-09-25T22:51:44Z",
+      "latest_at": "2026-09-25T22:51:44Z",
+      "primary_item": {
+        "id": "5c19c31f504b87fa6b05300ae0e6c142efa7e37c",
+        "title": "告诉 HN：Codex 已关闭 / Tell HN: Codex Is Down",
+        "title_zh": "告诉 HN：Codex 已关闭",
+        "title_en": "Tell HN: Codex Is Down",
+        "title_original": "Tell HN: Codex Is Down",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://news.ycombinator.com/item?id=49851032",
+        "source": "Hacker News (黑客新闻)",
+        "source_name": "Info Flow"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 0,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-09-26T19:59:11.619535Z"
+      }
+    },
+    {
+      "story_id": "story_100d2be86f26",
+      "title": "Copilot+ PC 品牌已死 / The Copilot+ PC brand is dead",
+      "url": "https://www.windowscentral.com/microsoft/windows-11/the-copilot-pc-brand-is-dead-microsoft-and-pc-makers-quietly-pull-back-on-tarnished-windows-11-ai-pc-branding",
+      "primary_url": "https://www.windowscentral.com/microsoft/windows-11/the-copilot-pc-brand-is-dead-microsoft-and-pc-makers-quietly-pull-back-on-tarnished-windows-11-ai-pc-branding",
+      "source": "Hacker News",
+      "source_name": "TechURLs",
+      "sources": [
+        {
+          "id": "bee4aff7b9a795df3b737d83c827500f9b398964",
+          "title": "Copilot+ PC 品牌已死 / The Copilot+ PC brand is dead",
+          "title_zh": "Copilot+ PC 品牌已死",
+          "title_en": "The Copilot+ PC brand is dead",
+          "title_original": "The Copilot+ PC brand is dead",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.windowscentral.com/microsoft/windows-11/the-copilot-pc-brand-is-dead-microsoft-and-pc-makers-quietly-pull-back-on-tarnished-windows-11-ai-pc-branding",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-09-26T09:55:38Z"
+        },
+        {
+          "id": "cf33160c987de0ce329760ffc271d966f4194c1b",
+          "title": "Copilot+ PC 品牌已死 / The Copilot+ PC brand is dead",
+          "title_zh": "Copilot+ PC 品牌已死",
+          "title_en": "The Copilot+ PC brand is dead",
+          "title_original": "The Copilot+ PC brand is dead",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=49854945",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-09-26T09:55:38Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News",
+        "hackernews"
+      ],
+      "items": [
+        {
+          "id": "bee4aff7b9a795df3b737d83c827500f9b398964",
+          "title": "Copilot+ PC 品牌已死 / The Copilot+ PC brand is dead",
+          "title_zh": "Copilot+ PC 品牌已死",
+          "title_en": "The Copilot+ PC brand is dead",
+          "title_original": "The Copilot+ PC brand is dead",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.windowscentral.com/microsoft/windows-11/the-copilot-pc-brand-is-dead-microsoft-and-pc-makers-quietly-pull-back-on-tarnished-windows-11-ai-pc-branding",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-09-26T09:55:38Z"
+        },
+        {
+          "id": "cf33160c987de0ce329760ffc271d966f4194c1b",
+          "title": "Copilot+ PC 品牌已死 / The Copilot+ PC brand is dead",
+          "title_zh": "Copilot+ PC 品牌已死",
+          "title_en": "The Copilot+ PC brand is dead",
+          "title_original": "The Copilot+ PC brand is dead",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=49854945",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-09-26T09:55:38Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5219,
+      "importance": 0.5219,
+      "importance_score": 0.5219,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.8673,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-09-26T09:55:38Z",
+      "latest_at": "2026-09-26T09:55:38Z",
+      "primary_item": {
+        "id": "bee4aff7b9a795df3b737d83c827500f9b398964",
+        "title": "Copilot+ PC 品牌已死 / The Copilot+ PC brand is dead",
+        "title_zh": "Copilot+ PC 品牌已死",
+        "title_en": "The Copilot+ PC brand is dead",
+        "title_original": "The Copilot+ PC brand is dead",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://www.windowscentral.com/microsoft/windows-11/the-copilot-pc-brand-is-dead-microsoft-and-pc-makers-quietly-pull-back-on-tarnished-windows-11-ai-pc-branding",
+        "source": "Hacker News",
+        "source_name": "TechURLs"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-09-26T19:59:11.619535Z"
       }
     }
   ]
