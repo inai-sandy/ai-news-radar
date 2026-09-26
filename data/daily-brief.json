@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-26T21:47:19.757564Z",
+  "generated_at": "2026-09-26T22:47:18.781843Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -48,15 +48,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8174,
-      "importance": 0.8174,
-      "importance_score": 0.8174,
+      "score": 0.8155,
+      "importance": 0.8155,
+      "importance_score": 0.8155,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.98,
-        "recency": 0.73,
+        "recency": 0.7196,
         "story_heat": 0.0
       },
       "category": "official",
@@ -83,7 +83,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-26T21:59:07.090807Z"
+        "scored_at": "2026-09-26T22:59:27.505793Z"
       }
     },
     {
@@ -160,15 +160,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.8156,
-      "importance": 0.8156,
-      "importance_score": 0.8156,
+      "score": 0.8133,
+      "importance": 0.8133,
+      "importance_score": 0.8133,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.86,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8945,
+        "recency": 0.8816,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -195,7 +195,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-26T21:59:07.090807Z"
+        "scored_at": "2026-09-26T22:59:27.505793Z"
       }
     },
     {
@@ -243,15 +243,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7943,
-      "importance": 0.7943,
-      "importance_score": 0.7943,
+      "score": 0.7924,
+      "importance": 0.7924,
+      "importance_score": 0.7924,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.7239,
+        "recency": 0.7135,
         "story_heat": 0.0
       },
       "category": "official",
@@ -278,89 +278,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-26T21:59:07.090807Z"
-      }
-    },
-    {
-      "story_id": "story_0c49918f9a48",
-      "title": "Claude 无人值守算出 N=4 超杨-米尔斯理论九圈散射振幅，刷新人类八圈纪录",
-      "url": "https://www.ithome.com/1/007/444.htm",
-      "primary_url": "https://www.ithome.com/1/007/444.htm",
-      "source": "IT之家（RSS）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "9279fb40dd812920f93b7be74e145079d81085ab",
-          "title": "Claude 无人值守算出 N=4 超杨-米尔斯理论九圈散射振幅，刷新人类八圈纪录",
-          "title_zh": "Claude 无人值守算出 N=4 超杨-米尔斯理论九圈散射振幅，刷新人类八圈纪录",
-          "title_en": null,
-          "title_original": "Claude 无人值守算出 N=4 超杨-米尔斯理论九圈散射振幅，刷新人类八圈纪录",
-          "summary": "Anthropic 宣布 Claude 在 Claude Science 系统中仅凭一条提示词、无人监督连续运行数天，算出平面 N=4 超杨-米尔斯理论六粒子振幅的九圈结果，超越 Lance Dixon 团队 2023 年的八圈纪录，总成本几千美元，其中直接自举路线的 Python 运行成本仅约 100 美元。",
-          "recommend_reason_zh": null,
-          "url": "https://www.ithome.com/1/007/444.htm",
-          "source": "IT之家（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-26T15:44:10Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "IT之家（RSS）"
-      ],
-      "items": [
-        {
-          "id": "9279fb40dd812920f93b7be74e145079d81085ab",
-          "title": "Claude 无人值守算出 N=4 超杨-米尔斯理论九圈散射振幅，刷新人类八圈纪录",
-          "title_zh": "Claude 无人值守算出 N=4 超杨-米尔斯理论九圈散射振幅，刷新人类八圈纪录",
-          "title_en": null,
-          "title_original": "Claude 无人值守算出 N=4 超杨-米尔斯理论九圈散射振幅，刷新人类八圈纪录",
-          "summary": "Anthropic 宣布 Claude 在 Claude Science 系统中仅凭一条提示词、无人监督连续运行数天，算出平面 N=4 超杨-米尔斯理论六粒子振幅的九圈结果，超越 Lance Dixon 团队 2023 年的八圈纪录，总成本几千美元，其中直接自举路线的 Python 运行成本仅约 100 美元。",
-          "recommend_reason_zh": null,
-          "url": "https://www.ithome.com/1/007/444.htm",
-          "source": "IT之家（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-26T15:44:10Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7765,
-      "importance": 0.7765,
-      "importance_score": 0.7765,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.8,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.9163,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-26T15:44:10Z",
-      "latest_at": "2026-09-26T15:44:10Z",
-      "primary_item": {
-        "id": "9279fb40dd812920f93b7be74e145079d81085ab",
-        "title": "Claude 无人值守算出 N=4 超杨-米尔斯理论九圈散射振幅，刷新人类八圈纪录",
-        "title_zh": "Claude 无人值守算出 N=4 超杨-米尔斯理论九圈散射振幅，刷新人类八圈纪录",
-        "title_en": null,
-        "title_original": "Claude 无人值守算出 N=4 超杨-米尔斯理论九圈散射振幅，刷新人类八圈纪录",
-        "summary": "Anthropic 宣布 Claude 在 Claude Science 系统中仅凭一条提示词、无人监督连续运行数天，算出平面 N=4 超杨-米尔斯理论六粒子振幅的九圈结果，超越 Lance Dixon 团队 2023 年的八圈纪录，总成本几千美元，其中直接自举路线的 Python 运行成本仅约 100 美元。",
-        "recommend_reason_zh": null,
-        "url": "https://www.ithome.com/1/007/444.htm",
-        "source": "IT之家（RSS）",
-        "source_name": "AI HOT"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-09-26T21:59:07.090807Z"
+        "scored_at": "2026-09-26T22:59:27.505793Z"
       }
     },
     {
@@ -408,15 +326,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7765,
-      "importance": 0.7765,
-      "importance_score": 0.7765,
+      "score": 0.7743,
+      "importance": 0.7743,
+      "importance_score": 0.7743,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.85,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8327,
+        "recency": 0.8208,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -442,7 +360,89 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-26T21:59:07.090807Z"
+        "scored_at": "2026-09-26T22:59:27.505793Z"
+      }
+    },
+    {
+      "story_id": "story_0c49918f9a48",
+      "title": "Claude 无人值守算出 N=4 超杨-米尔斯理论九圈散射振幅，刷新人类八圈纪录",
+      "url": "https://www.ithome.com/1/007/444.htm",
+      "primary_url": "https://www.ithome.com/1/007/444.htm",
+      "source": "IT之家（RSS）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "9279fb40dd812920f93b7be74e145079d81085ab",
+          "title": "Claude 无人值守算出 N=4 超杨-米尔斯理论九圈散射振幅，刷新人类八圈纪录",
+          "title_zh": "Claude 无人值守算出 N=4 超杨-米尔斯理论九圈散射振幅，刷新人类八圈纪录",
+          "title_en": null,
+          "title_original": "Claude 无人值守算出 N=4 超杨-米尔斯理论九圈散射振幅，刷新人类八圈纪录",
+          "summary": "Anthropic 宣布 Claude 在 Claude Science 系统中仅凭一条提示词、无人监督连续运行数天，算出平面 N=4 超杨-米尔斯理论六粒子振幅的九圈结果，超越 Lance Dixon 团队 2023 年的八圈纪录，总成本几千美元，其中直接自举路线的 Python 运行成本仅约 100 美元。",
+          "recommend_reason_zh": null,
+          "url": "https://www.ithome.com/1/007/444.htm",
+          "source": "IT之家（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-26T15:44:10Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "IT之家（RSS）"
+      ],
+      "items": [
+        {
+          "id": "9279fb40dd812920f93b7be74e145079d81085ab",
+          "title": "Claude 无人值守算出 N=4 超杨-米尔斯理论九圈散射振幅，刷新人类八圈纪录",
+          "title_zh": "Claude 无人值守算出 N=4 超杨-米尔斯理论九圈散射振幅，刷新人类八圈纪录",
+          "title_en": null,
+          "title_original": "Claude 无人值守算出 N=4 超杨-米尔斯理论九圈散射振幅，刷新人类八圈纪录",
+          "summary": "Anthropic 宣布 Claude 在 Claude Science 系统中仅凭一条提示词、无人监督连续运行数天，算出平面 N=4 超杨-米尔斯理论六粒子振幅的九圈结果，超越 Lance Dixon 团队 2023 年的八圈纪录，总成本几千美元，其中直接自举路线的 Python 运行成本仅约 100 美元。",
+          "recommend_reason_zh": null,
+          "url": "https://www.ithome.com/1/007/444.htm",
+          "source": "IT之家（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-26T15:44:10Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7742,
+      "importance": 0.7742,
+      "importance_score": 0.7742,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.8,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9032,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-26T15:44:10Z",
+      "latest_at": "2026-09-26T15:44:10Z",
+      "primary_item": {
+        "id": "9279fb40dd812920f93b7be74e145079d81085ab",
+        "title": "Claude 无人值守算出 N=4 超杨-米尔斯理论九圈散射振幅，刷新人类八圈纪录",
+        "title_zh": "Claude 无人值守算出 N=4 超杨-米尔斯理论九圈散射振幅，刷新人类八圈纪录",
+        "title_en": null,
+        "title_original": "Claude 无人值守算出 N=4 超杨-米尔斯理论九圈散射振幅，刷新人类八圈纪录",
+        "summary": "Anthropic 宣布 Claude 在 Claude Science 系统中仅凭一条提示词、无人监督连续运行数天，算出平面 N=4 超杨-米尔斯理论六粒子振幅的九圈结果，超越 Lance Dixon 团队 2023 年的八圈纪录，总成本几千美元，其中直接自举路线的 Python 运行成本仅约 100 美元。",
+        "recommend_reason_zh": null,
+        "url": "https://www.ithome.com/1/007/444.htm",
+        "source": "IT之家（RSS）",
+        "source_name": "AI HOT"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-09-26T22:59:27.505793Z"
       }
     },
     {
@@ -519,15 +519,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.774,
-      "importance": 0.774,
-      "importance_score": 0.774,
+      "score": 0.7721,
+      "importance": 0.7721,
+      "importance_score": 0.7721,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.82,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.73,
+        "recency": 0.7195,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -554,7 +554,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-26T21:59:07.090807Z"
+        "scored_at": "2026-09-26T22:59:27.505793Z"
       }
     },
     {
@@ -602,15 +602,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7737,
-      "importance": 0.7737,
-      "importance_score": 0.7737,
+      "score": 0.7713,
+      "importance": 0.7713,
+      "importance_score": 0.7713,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.78,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9338,
+        "recency": 0.9204,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -636,7 +636,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-26T21:59:07.090807Z"
+        "scored_at": "2026-09-26T22:59:27.505793Z"
       }
     },
     {
@@ -684,15 +684,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7466,
-      "importance": 0.7466,
-      "importance_score": 0.7466,
+      "score": 0.7446,
+      "importance": 0.7446,
+      "importance_score": 0.7446,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.78,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7836,
+        "recency": 0.7724,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -717,7 +717,146 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-26T21:59:07.090807Z"
+        "scored_at": "2026-09-26T22:59:27.505793Z"
+      }
+    },
+    {
+      "story_id": "story_100d2be86f26",
+      "title": "Copilot 电脑品牌已不复存在",
+      "url": "https://www.windowscentral.com/microsoft/windows-11/the-copilot-pc-brand-is-dead-microsoft-and-pc-makers-quietly-pull-back-on-tarnished-windows-11-ai-pc-branding",
+      "primary_url": "https://www.windowscentral.com/microsoft/windows-11/the-copilot-pc-brand-is-dead-microsoft-and-pc-makers-quietly-pull-back-on-tarnished-windows-11-ai-pc-branding",
+      "source": "www.windowscentral.com",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "718a8eb6c33ddb07652d5067add1882bdd022836",
+          "title": "Copilot 电脑品牌已不复存在",
+          "title_zh": "Copilot 电脑品牌已不复存在",
+          "title_en": null,
+          "title_original": "Copilot 电脑品牌已不复存在",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.windowscentral.com/microsoft/windows-11/the-copilot-pc-brand-is-dead-microsoft-and-pc-makers-quietly-pull-back-on-tarnished-windows-11-ai-pc-branding",
+          "source": "www.windowscentral.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-09-26T21:55:10.332000Z"
+        },
+        {
+          "id": "31c0591852d46da3b0845519adcd6cdfa5ce8c8b",
+          "title": "Copilot 电脑品牌已不复存在 / The Copilot+ PC brand is dead",
+          "title_zh": "Copilot 电脑品牌已不复存在",
+          "title_en": "The Copilot+ PC brand is dead",
+          "title_original": "The Copilot+ PC brand is dead",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.windowscentral.com/microsoft/windows-11/the-copilot-pc-brand-is-dead-microsoft-and-pc-makers-quietly-pull-back-on-tarnished-windows-11-ai-pc-branding",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-09-26T09:55:38Z"
+        },
+        {
+          "id": "cf33160c987de0ce329760ffc271d966f4194c1b",
+          "title": "Copilot+ PC 品牌已死 / The Copilot+ PC brand is dead",
+          "title_zh": "Copilot+ PC 品牌已死",
+          "title_en": "The Copilot+ PC brand is dead",
+          "title_original": "The Copilot+ PC brand is dead",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=49854945",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-09-26T09:55:38Z"
+        }
+      ],
+      "source_count": 3,
+      "source_names": [
+        "Hacker News · 24h最热",
+        "hackernews",
+        "www.windowscentral.com"
+      ],
+      "items": [
+        {
+          "id": "718a8eb6c33ddb07652d5067add1882bdd022836",
+          "title": "Copilot 电脑品牌已不复存在",
+          "title_zh": "Copilot 电脑品牌已不复存在",
+          "title_en": null,
+          "title_original": "Copilot 电脑品牌已不复存在",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.windowscentral.com/microsoft/windows-11/the-copilot-pc-brand-is-dead-microsoft-and-pc-makers-quietly-pull-back-on-tarnished-windows-11-ai-pc-branding",
+          "source": "www.windowscentral.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-09-26T21:55:10.332000Z"
+        },
+        {
+          "id": "31c0591852d46da3b0845519adcd6cdfa5ce8c8b",
+          "title": "Copilot 电脑品牌已不复存在 / The Copilot+ PC brand is dead",
+          "title_zh": "Copilot 电脑品牌已不复存在",
+          "title_en": "The Copilot+ PC brand is dead",
+          "title_original": "The Copilot+ PC brand is dead",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.windowscentral.com/microsoft/windows-11/the-copilot-pc-brand-is-dead-microsoft-and-pc-makers-quietly-pull-back-on-tarnished-windows-11-ai-pc-branding",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-09-26T09:55:38Z"
+        },
+        {
+          "id": "cf33160c987de0ce329760ffc271d966f4194c1b",
+          "title": "Copilot+ PC 品牌已死 / The Copilot+ PC brand is dead",
+          "title_zh": "Copilot+ PC 品牌已死",
+          "title_en": "The Copilot+ PC brand is dead",
+          "title_original": "The Copilot+ PC brand is dead",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=49854945",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-09-26T09:55:38Z"
+        }
+      ],
+      "item_count": 3,
+      "duplicate_count": 3,
+      "score": 0.5686,
+      "importance": 0.5686,
+      "importance_score": 0.5686,
+      "importance_label": "多源热议",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9875,
+        "story_heat": 0.5
+      },
+      "category": "multi_source",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-09-26T09:55:38Z",
+      "latest_at": "2026-09-26T21:55:10.332000Z",
+      "primary_item": {
+        "id": "718a8eb6c33ddb07652d5067add1882bdd022836",
+        "title": "Copilot 电脑品牌已不复存在",
+        "title_zh": "Copilot 电脑品牌已不复存在",
+        "title_en": null,
+        "title_original": "Copilot 电脑品牌已不复存在",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://www.windowscentral.com/microsoft/windows-11/the-copilot-pc-brand-is-dead-microsoft-and-pc-makers-quietly-pull-back-on-tarnished-windows-11-ai-pc-branding",
+        "source": "www.windowscentral.com",
+        "source_name": "Buzzing"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-09-26T22:59:27.505793Z"
       }
     },
     {
@@ -823,15 +962,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5671,
-      "importance": 0.5671,
-      "importance_score": 0.5671,
+      "score": 0.5646,
+      "importance": 0.5646,
+      "importance_score": 0.5646,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9797,
+        "recency": 0.9656,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -856,7 +995,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-26T21:59:07.090807Z"
+        "scored_at": "2026-09-26T22:59:27.505793Z"
       }
     },
     {
@@ -882,7 +1021,7 @@
           "published_at": "2026-09-26T13:48:03.398000Z"
         },
         {
-          "id": "0f1257162bc0c26c7be23e75058a925a814839cb",
+          "id": "1c877b373403382f063f970da0b5434e8c0e99cc",
           "title": "没有AI的一个月 / One Month Without AI",
           "title_zh": "没有AI的一个月",
           "title_en": "One Month Without AI",
@@ -890,9 +1029,9 @@
           "summary": null,
           "recommend_reason_zh": null,
           "url": "https://blog.bustikiller.com/2026/09/25/one-month-without-ai.html",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
           "published_at": "2026-09-26T10:08:21Z"
         },
         {
@@ -912,7 +1051,7 @@
       ],
       "source_count": 3,
       "source_names": [
-        "Hacker News",
+        "Hacker News · 24h最热",
         "blog.bustikiller.com",
         "hackernews"
       ],
@@ -932,7 +1071,7 @@
           "published_at": "2026-09-26T13:48:03.398000Z"
         },
         {
-          "id": "0f1257162bc0c26c7be23e75058a925a814839cb",
+          "id": "1c877b373403382f063f970da0b5434e8c0e99cc",
           "title": "没有AI的一个月 / One Month Without AI",
           "title_zh": "没有AI的一个月",
           "title_en": "One Month Without AI",
@@ -940,9 +1079,9 @@
           "summary": null,
           "recommend_reason_zh": null,
           "url": "https://blog.bustikiller.com/2026/09/25/one-month-without-ai.html",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
           "published_at": "2026-09-26T10:08:21Z"
         },
         {
@@ -962,15 +1101,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5512,
-      "importance": 0.5512,
-      "importance_score": 0.5512,
+      "score": 0.5489,
+      "importance": 0.5489,
+      "importance_score": 0.5489,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8911,
+        "recency": 0.8783,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -995,7 +1134,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-26T21:59:07.090807Z"
+        "scored_at": "2026-09-26T22:59:27.505793Z"
       }
     },
     {
@@ -1101,15 +1240,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5494,
-      "importance": 0.5494,
-      "importance_score": 0.5494,
+      "score": 0.5471,
+      "importance": 0.5471,
+      "importance_score": 0.5471,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8811,
+        "recency": 0.8685,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1134,7 +1273,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-26T21:59:07.090807Z"
+        "scored_at": "2026-09-26T22:59:27.505793Z"
       }
     },
     {
@@ -1211,15 +1350,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5371,
-      "importance": 0.5371,
-      "importance_score": 0.5371,
+      "score": 0.5347,
+      "importance": 0.5347,
+      "importance_score": 0.5347,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9519,
+        "recency": 0.9383,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1244,7 +1383,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-26T21:59:07.090807Z"
+        "scored_at": "2026-09-26T22:59:27.505793Z"
       }
     },
     {
@@ -1321,15 +1460,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5246,
-      "importance": 0.5246,
-      "importance_score": 0.5246,
+      "score": 0.5223,
+      "importance": 0.5223,
+      "importance_score": 0.5223,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.882,
+        "recency": 0.8694,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1354,7 +1493,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-26T21:59:07.090807Z"
+        "scored_at": "2026-09-26T22:59:27.505793Z"
       }
     },
     {
@@ -1431,15 +1570,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5312,
-      "importance": 0.5312,
-      "importance_score": 0.5312,
+      "score": 0.5289,
+      "importance": 0.5289,
+      "importance_score": 0.5289,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.919,
+        "recency": 0.9059,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1464,7 +1603,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-26T21:59:07.090807Z"
+        "scored_at": "2026-09-26T22:59:27.505793Z"
       }
     },
     {
@@ -1541,15 +1680,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4951,
-      "importance": 0.4951,
-      "importance_score": 0.4951,
+      "score": 0.4932,
+      "importance": 0.4932,
+      "importance_score": 0.4932,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7182,
+        "recency": 0.7079,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1574,7 +1713,7 @@
       "persona_score": 0,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-26T21:59:07.090807Z"
+        "scored_at": "2026-09-26T22:59:27.505793Z"
       }
     },
     {
@@ -1651,15 +1790,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.524,
-      "importance": 0.524,
-      "importance_score": 0.524,
+      "score": 0.5218,
+      "importance": 0.5218,
+      "importance_score": 0.5218,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8791,
+        "recency": 0.8665,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1684,7 +1823,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-26T21:59:07.090807Z"
+        "scored_at": "2026-09-26T22:59:27.505793Z"
       }
     },
     {
@@ -1761,15 +1900,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5304,
-      "importance": 0.5304,
-      "importance_score": 0.5304,
+      "score": 0.528,
+      "importance": 0.528,
+      "importance_score": 0.528,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9143,
+        "recency": 0.9012,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1794,227 +1933,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-26T21:59:07.090807Z"
-      }
-    },
-    {
-      "story_id": "story_100d2be86f26",
-      "title": "Copilot+ PC 品牌已死 / The Copilot+ PC brand is dead",
-      "url": "https://www.windowscentral.com/microsoft/windows-11/the-copilot-pc-brand-is-dead-microsoft-and-pc-makers-quietly-pull-back-on-tarnished-windows-11-ai-pc-branding",
-      "primary_url": "https://www.windowscentral.com/microsoft/windows-11/the-copilot-pc-brand-is-dead-microsoft-and-pc-makers-quietly-pull-back-on-tarnished-windows-11-ai-pc-branding",
-      "source": "Hacker News · 24h最热",
-      "source_name": "Zeli",
-      "sources": [
-        {
-          "id": "31c0591852d46da3b0845519adcd6cdfa5ce8c8b",
-          "title": "Copilot+ PC 品牌已死 / The Copilot+ PC brand is dead",
-          "title_zh": "Copilot+ PC 品牌已死",
-          "title_en": "The Copilot+ PC brand is dead",
-          "title_original": "The Copilot+ PC brand is dead",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.windowscentral.com/microsoft/windows-11/the-copilot-pc-brand-is-dead-microsoft-and-pc-makers-quietly-pull-back-on-tarnished-windows-11-ai-pc-branding",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-09-26T09:55:38Z"
-        },
-        {
-          "id": "cf33160c987de0ce329760ffc271d966f4194c1b",
-          "title": "Copilot+ PC 品牌已死 / The Copilot+ PC brand is dead",
-          "title_zh": "Copilot+ PC 品牌已死",
-          "title_en": "The Copilot+ PC brand is dead",
-          "title_original": "The Copilot+ PC brand is dead",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=49854945",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-09-26T09:55:38Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News · 24h最热",
-        "hackernews"
-      ],
-      "items": [
-        {
-          "id": "31c0591852d46da3b0845519adcd6cdfa5ce8c8b",
-          "title": "Copilot+ PC 品牌已死 / The Copilot+ PC brand is dead",
-          "title_zh": "Copilot+ PC 品牌已死",
-          "title_en": "The Copilot+ PC brand is dead",
-          "title_original": "The Copilot+ PC brand is dead",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.windowscentral.com/microsoft/windows-11/the-copilot-pc-brand-is-dead-microsoft-and-pc-makers-quietly-pull-back-on-tarnished-windows-11-ai-pc-branding",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-09-26T09:55:38Z"
-        },
-        {
-          "id": "cf33160c987de0ce329760ffc271d966f4194c1b",
-          "title": "Copilot+ PC 品牌已死 / The Copilot+ PC brand is dead",
-          "title_zh": "Copilot+ PC 品牌已死",
-          "title_en": "The Copilot+ PC brand is dead",
-          "title_original": "The Copilot+ PC brand is dead",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=49854945",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-09-26T09:55:38Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5175,
-      "importance": 0.5175,
-      "importance_score": 0.5175,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.8426,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-09-26T09:55:38Z",
-      "latest_at": "2026-09-26T09:55:38Z",
-      "primary_item": {
-        "id": "31c0591852d46da3b0845519adcd6cdfa5ce8c8b",
-        "title": "Copilot+ PC 品牌已死 / The Copilot+ PC brand is dead",
-        "title_zh": "Copilot+ PC 品牌已死",
-        "title_en": "The Copilot+ PC brand is dead",
-        "title_original": "The Copilot+ PC brand is dead",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://www.windowscentral.com/microsoft/windows-11/the-copilot-pc-brand-is-dead-microsoft-and-pc-makers-quietly-pull-back-on-tarnished-windows-11-ai-pc-branding",
-        "source": "Hacker News · 24h最热",
-        "source_name": "Zeli"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-09-26T21:59:07.090807Z"
-      }
-    },
-    {
-      "story_id": "story_c857b57932d9",
-      "title": "AI代购值得信赖吗？ / Can AI Shopping Agents Be Trusted?",
-      "url": "https://www.f-secure.com/en/partners/insights/can-ai-shopping-agents-be-trusted-we-built-one-to-find-out",
-      "primary_url": "https://www.f-secure.com/en/partners/insights/can-ai-shopping-agents-be-trusted-we-built-one-to-find-out",
-      "source": "Hacker News",
-      "source_name": "TechURLs",
-      "sources": [
-        {
-          "id": "9e74d59c134c0cb481a62a20b8f1baca9016baa6",
-          "title": "AI代购值得信赖吗？ / Can AI Shopping Agents Be Trusted?",
-          "title_zh": "AI代购值得信赖吗？",
-          "title_en": "Can AI Shopping Agents Be Trusted?",
-          "title_original": "Can AI Shopping Agents Be Trusted?",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.f-secure.com/en/partners/insights/can-ai-shopping-agents-be-trusted-we-built-one-to-find-out",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-09-26T05:36:46Z"
-        },
-        {
-          "id": "ef6ca06dde86baa1426bc46851b56bd52f55d510",
-          "title": "AI代购值得信赖吗？ / Can AI Shopping Agents Be Trusted?",
-          "title_zh": "AI代购值得信赖吗？",
-          "title_en": "Can AI Shopping Agents Be Trusted?",
-          "title_original": "Can AI Shopping Agents Be Trusted?",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=49853522",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-09-26T05:36:46Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News",
-        "hackernews"
-      ],
-      "items": [
-        {
-          "id": "9e74d59c134c0cb481a62a20b8f1baca9016baa6",
-          "title": "AI代购值得信赖吗？ / Can AI Shopping Agents Be Trusted?",
-          "title_zh": "AI代购值得信赖吗？",
-          "title_en": "Can AI Shopping Agents Be Trusted?",
-          "title_original": "Can AI Shopping Agents Be Trusted?",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.f-secure.com/en/partners/insights/can-ai-shopping-agents-be-trusted-we-built-one-to-find-out",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-09-26T05:36:46Z"
-        },
-        {
-          "id": "ef6ca06dde86baa1426bc46851b56bd52f55d510",
-          "title": "AI代购值得信赖吗？ / Can AI Shopping Agents Be Trusted?",
-          "title_zh": "AI代购值得信赖吗？",
-          "title_en": "Can AI Shopping Agents Be Trusted?",
-          "title_original": "Can AI Shopping Agents Be Trusted?",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=49853522",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-09-26T05:36:46Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5083,
-      "importance": 0.5083,
-      "importance_score": 0.5083,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.7917,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-09-26T05:36:46Z",
-      "latest_at": "2026-09-26T05:36:46Z",
-      "primary_item": {
-        "id": "9e74d59c134c0cb481a62a20b8f1baca9016baa6",
-        "title": "AI代购值得信赖吗？ / Can AI Shopping Agents Be Trusted?",
-        "title_zh": "AI代购值得信赖吗？",
-        "title_en": "Can AI Shopping Agents Be Trusted?",
-        "title_original": "Can AI Shopping Agents Be Trusted?",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://www.f-secure.com/en/partners/insights/can-ai-shopping-agents-be-trusted-we-built-one-to-find-out",
-        "source": "Hacker News",
-        "source_name": "TechURLs"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-09-26T21:59:07.090807Z"
+        "scored_at": "2026-09-26T22:59:27.505793Z"
       }
     },
     {
@@ -2091,15 +2010,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.496,
-      "importance": 0.496,
-      "importance_score": 0.496,
+      "score": 0.4942,
+      "importance": 0.4942,
+      "importance_score": 0.4942,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7235,
+        "recency": 0.7131,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -2124,7 +2043,117 @@
       "persona_score": 0,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-26T21:59:07.090807Z"
+        "scored_at": "2026-09-26T22:59:27.505793Z"
+      }
+    },
+    {
+      "story_id": "story_c857b57932d9",
+      "title": "AI代购值得信赖吗？ / Can AI Shopping Agents Be Trusted?",
+      "url": "https://www.f-secure.com/en/partners/insights/can-ai-shopping-agents-be-trusted-we-built-one-to-find-out",
+      "primary_url": "https://www.f-secure.com/en/partners/insights/can-ai-shopping-agents-be-trusted-we-built-one-to-find-out",
+      "source": "Hacker News",
+      "source_name": "TechURLs",
+      "sources": [
+        {
+          "id": "9e74d59c134c0cb481a62a20b8f1baca9016baa6",
+          "title": "AI代购值得信赖吗？ / Can AI Shopping Agents Be Trusted?",
+          "title_zh": "AI代购值得信赖吗？",
+          "title_en": "Can AI Shopping Agents Be Trusted?",
+          "title_original": "Can AI Shopping Agents Be Trusted?",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.f-secure.com/en/partners/insights/can-ai-shopping-agents-be-trusted-we-built-one-to-find-out",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-09-26T05:36:46Z"
+        },
+        {
+          "id": "ef6ca06dde86baa1426bc46851b56bd52f55d510",
+          "title": "AI代购值得信赖吗？ / Can AI Shopping Agents Be Trusted?",
+          "title_zh": "AI代购值得信赖吗？",
+          "title_en": "Can AI Shopping Agents Be Trusted?",
+          "title_original": "Can AI Shopping Agents Be Trusted?",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=49853522",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-09-26T05:36:46Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News",
+        "hackernews"
+      ],
+      "items": [
+        {
+          "id": "9e74d59c134c0cb481a62a20b8f1baca9016baa6",
+          "title": "AI代购值得信赖吗？ / Can AI Shopping Agents Be Trusted?",
+          "title_zh": "AI代购值得信赖吗？",
+          "title_en": "Can AI Shopping Agents Be Trusted?",
+          "title_original": "Can AI Shopping Agents Be Trusted?",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.f-secure.com/en/partners/insights/can-ai-shopping-agents-be-trusted-we-built-one-to-find-out",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-09-26T05:36:46Z"
+        },
+        {
+          "id": "ef6ca06dde86baa1426bc46851b56bd52f55d510",
+          "title": "AI代购值得信赖吗？ / Can AI Shopping Agents Be Trusted?",
+          "title_zh": "AI代购值得信赖吗？",
+          "title_en": "Can AI Shopping Agents Be Trusted?",
+          "title_original": "Can AI Shopping Agents Be Trusted?",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=49853522",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-09-26T05:36:46Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5063,
+      "importance": 0.5063,
+      "importance_score": 0.5063,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.7803,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-09-26T05:36:46Z",
+      "latest_at": "2026-09-26T05:36:46Z",
+      "primary_item": {
+        "id": "9e74d59c134c0cb481a62a20b8f1baca9016baa6",
+        "title": "AI代购值得信赖吗？ / Can AI Shopping Agents Be Trusted?",
+        "title_zh": "AI代购值得信赖吗？",
+        "title_en": "Can AI Shopping Agents Be Trusted?",
+        "title_original": "Can AI Shopping Agents Be Trusted?",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://www.f-secure.com/en/partners/insights/can-ai-shopping-agents-be-trusted-we-built-one-to-find-out",
+        "source": "Hacker News",
+        "source_name": "TechURLs"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-09-26T22:59:27.505793Z"
       }
     }
   ]
