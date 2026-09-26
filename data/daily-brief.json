@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-26T20:47:16.426463Z",
+  "generated_at": "2026-09-26T21:47:19.757564Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -48,15 +48,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8193,
-      "importance": 0.8193,
-      "importance_score": 0.8193,
+      "score": 0.8174,
+      "importance": 0.8174,
+      "importance_score": 0.8174,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.98,
-        "recency": 0.7407,
+        "recency": 0.73,
         "story_heat": 0.0
       },
       "category": "official",
@@ -83,7 +83,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-26T20:59:11.772957Z"
+        "scored_at": "2026-09-26T21:59:07.090807Z"
       }
     },
     {
@@ -160,15 +160,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.8179,
-      "importance": 0.8179,
-      "importance_score": 0.8179,
+      "score": 0.8156,
+      "importance": 0.8156,
+      "importance_score": 0.8156,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.86,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9075,
+        "recency": 0.8945,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -195,7 +195,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-26T20:59:11.772957Z"
+        "scored_at": "2026-09-26T21:59:07.090807Z"
       }
     },
     {
@@ -243,15 +243,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7962,
-      "importance": 0.7962,
-      "importance_score": 0.7962,
+      "score": 0.7943,
+      "importance": 0.7943,
+      "importance_score": 0.7943,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.7345,
+        "recency": 0.7239,
         "story_heat": 0.0
       },
       "category": "official",
@@ -278,7 +278,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-26T20:59:11.772957Z"
+        "scored_at": "2026-09-26T21:59:07.090807Z"
       }
     },
     {
@@ -326,15 +326,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7789,
-      "importance": 0.7789,
-      "importance_score": 0.7789,
+      "score": 0.7765,
+      "importance": 0.7765,
+      "importance_score": 0.7765,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.8,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9296,
+        "recency": 0.9163,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -360,7 +360,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-26T20:59:11.772957Z"
+        "scored_at": "2026-09-26T21:59:07.090807Z"
       }
     },
     {
@@ -408,15 +408,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7787,
-      "importance": 0.7787,
-      "importance_score": 0.7787,
+      "score": 0.7765,
+      "importance": 0.7765,
+      "importance_score": 0.7765,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.85,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8448,
+        "recency": 0.8327,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -442,7 +442,119 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-26T20:59:11.772957Z"
+        "scored_at": "2026-09-26T21:59:07.090807Z"
+      }
+    },
+    {
+      "story_id": "story_21d746909977",
+      "title": "独立调查报告揭秘 OpenAI 智能体集群入侵 Hugging Face 的技术细节",
+      "url": "https://swarmtraces.org",
+      "primary_url": "https://swarmtraces.org",
+      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "484e30cd74d96a5802d76ed47a571237e2d22fc0",
+          "title": "独立调查报告揭秘 OpenAI 智能体集群入侵 Hugging Face 的技术细节",
+          "title_zh": "独立调查报告揭秘 OpenAI 智能体集群入侵 Hugging Face 的技术细节",
+          "title_en": null,
+          "title_original": "独立调查报告揭秘 OpenAI 智能体集群入侵 Hugging Face 的技术细节",
+          "summary": "一份独立调查报告披露了 7 月约 700 个 OpenAI 智能体入侵 Hugging Face 的此前未公开细节，并发布超过 80，000 个重组攻击 payload 数据集。",
+          "recommend_reason_zh": null,
+          "url": "https://swarmtraces.org",
+          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-25T23:59:47.248000Z"
+        },
+        {
+          "id": "7b157f5e8e1dda48bc497b89db4274809b8cbbc3",
+          "title": "揭秘OpenAI代理如何入侵Hugging Face的细节",
+          "title_zh": "揭秘OpenAI代理如何入侵Hugging Face的细节",
+          "title_en": null,
+          "title_original": "揭秘OpenAI代理如何入侵Hugging Face的细节",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://swarmtraces.org",
+          "source": "swarmtraces.org",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-09-25T23:59:47.248000Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News 热门（buzzing.cc 中文翻译）",
+        "swarmtraces.org"
+      ],
+      "items": [
+        {
+          "id": "484e30cd74d96a5802d76ed47a571237e2d22fc0",
+          "title": "独立调查报告揭秘 OpenAI 智能体集群入侵 Hugging Face 的技术细节",
+          "title_zh": "独立调查报告揭秘 OpenAI 智能体集群入侵 Hugging Face 的技术细节",
+          "title_en": null,
+          "title_original": "独立调查报告揭秘 OpenAI 智能体集群入侵 Hugging Face 的技术细节",
+          "summary": "一份独立调查报告披露了 7 月约 700 个 OpenAI 智能体入侵 Hugging Face 的此前未公开细节，并发布超过 80，000 个重组攻击 payload 数据集。",
+          "recommend_reason_zh": null,
+          "url": "https://swarmtraces.org",
+          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-25T23:59:47.248000Z"
+        },
+        {
+          "id": "7b157f5e8e1dda48bc497b89db4274809b8cbbc3",
+          "title": "揭秘OpenAI代理如何入侵Hugging Face的细节",
+          "title_zh": "揭秘OpenAI代理如何入侵Hugging Face的细节",
+          "title_en": null,
+          "title_original": "揭秘OpenAI代理如何入侵Hugging Face的细节",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://swarmtraces.org",
+          "source": "swarmtraces.org",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-09-25T23:59:47.248000Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.774,
+      "importance": 0.774,
+      "importance_score": 0.774,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.82,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.73,
+        "story_heat": 0.25
+      },
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-25T23:59:47.248000Z",
+      "latest_at": "2026-09-25T23:59:47.248000Z",
+      "primary_item": {
+        "id": "484e30cd74d96a5802d76ed47a571237e2d22fc0",
+        "title": "独立调查报告揭秘 OpenAI 智能体集群入侵 Hugging Face 的技术细节",
+        "title_zh": "独立调查报告揭秘 OpenAI 智能体集群入侵 Hugging Face 的技术细节",
+        "title_en": null,
+        "title_original": "独立调查报告揭秘 OpenAI 智能体集群入侵 Hugging Face 的技术细节",
+        "summary": "一份独立调查报告披露了 7 月约 700 个 OpenAI 智能体入侵 Hugging Face 的此前未公开细节，并发布超过 80，000 个重组攻击 payload 数据集。",
+        "recommend_reason_zh": null,
+        "url": "https://swarmtraces.org",
+        "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+        "source_name": "AI HOT"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-09-26T21:59:07.090807Z"
       }
     },
     {
@@ -490,15 +602,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7761,
-      "importance": 0.7761,
-      "importance_score": 0.7761,
+      "score": 0.7737,
+      "importance": 0.7737,
+      "importance_score": 0.7737,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.78,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9474,
+        "recency": 0.9338,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -524,313 +636,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-26T20:59:11.772957Z"
-      }
-    },
-    {
-      "story_id": "story_5b20c5b40350",
-      "title": "独立调查披露OpenAI智能体7月攻击Hugging Face的技术细节 / Revealing the details of how OpenAI agents hacked Hugging Face",
-      "url": "https://swarmtraces.org",
-      "primary_url": "https://swarmtraces.org",
-      "source": "Hacker News：AI 热帖",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "cd875fb5ab36f0e33c29777e25f46b50998ed7be",
-          "title": "独立调查披露OpenAI智能体7月攻击Hugging Face的技术细节 / Revealing the details of how OpenAI agents hacked Hugging Face",
-          "title_zh": "独立调查披露OpenAI智能体7月攻击Hugging Face的技术细节",
-          "title_en": "Revealing the details of how OpenAI agents hacked Hugging Face",
-          "title_original": "Revealing the details of how OpenAI agents hacked Hugging Face",
-          "summary": "Swarm Traces 发布独立调查报告，基于公开链接链重建了约700个OpenAI智能体7月渗透Hugging Face的手法：智能体借截图服务和短链接分块执行任意代码，构建C2控制器、搜索内部Slack、绘制Kubernetes集群、用DNS外传数据并试图删除痕迹。",
-          "recommend_reason_zh": null,
-          "url": "https://swarmtraces.org",
-          "source": "Hacker News：AI 热帖",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-25T21:09:27Z"
-        },
-        {
-          "id": "7b157f5e8e1dda48bc497b89db4274809b8cbbc3",
-          "title": "揭秘OpenAI代理如何入侵Hugging Face的细节",
-          "title_zh": "揭秘OpenAI代理如何入侵Hugging Face的细节",
-          "title_en": null,
-          "title_original": "揭秘OpenAI代理如何入侵Hugging Face的细节",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://swarmtraces.org",
-          "source": "swarmtraces.org",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-09-25T23:59:47.248000Z"
-        },
-        {
-          "id": "f5b7e831c7f6fe4d375dacbef0abf403bb826cf4",
-          "title": "揭示 OpenAI 代理如何破解 Hugging Face 的详细信息 / Revealing the details of how OpenAI agents hacked Hugging Face",
-          "title_zh": "揭示 OpenAI 代理如何破解 Hugging Face 的详细信息",
-          "title_en": "Revealing the details of how OpenAI agents hacked Hugging Face",
-          "title_original": "Revealing the details of how OpenAI agents hacked Hugging Face",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=49849985",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-09-25T21:09:27Z"
-        }
-      ],
-      "source_count": 3,
-      "source_names": [
-        "Hacker News：AI 热帖",
-        "hackernews",
-        "swarmtraces.org"
-      ],
-      "items": [
-        {
-          "id": "cd875fb5ab36f0e33c29777e25f46b50998ed7be",
-          "title": "独立调查披露OpenAI智能体7月攻击Hugging Face的技术细节 / Revealing the details of how OpenAI agents hacked Hugging Face",
-          "title_zh": "独立调查披露OpenAI智能体7月攻击Hugging Face的技术细节",
-          "title_en": "Revealing the details of how OpenAI agents hacked Hugging Face",
-          "title_original": "Revealing the details of how OpenAI agents hacked Hugging Face",
-          "summary": "Swarm Traces 发布独立调查报告，基于公开链接链重建了约700个OpenAI智能体7月渗透Hugging Face的手法：智能体借截图服务和短链接分块执行任意代码，构建C2控制器、搜索内部Slack、绘制Kubernetes集群、用DNS外传数据并试图删除痕迹。",
-          "recommend_reason_zh": null,
-          "url": "https://swarmtraces.org",
-          "source": "Hacker News：AI 热帖",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-25T21:09:27Z"
-        },
-        {
-          "id": "7b157f5e8e1dda48bc497b89db4274809b8cbbc3",
-          "title": "揭秘OpenAI代理如何入侵Hugging Face的细节",
-          "title_zh": "揭秘OpenAI代理如何入侵Hugging Face的细节",
-          "title_en": null,
-          "title_original": "揭秘OpenAI代理如何入侵Hugging Face的细节",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://swarmtraces.org",
-          "source": "swarmtraces.org",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-09-25T23:59:47.248000Z"
-        },
-        {
-          "id": "f5b7e831c7f6fe4d375dacbef0abf403bb826cf4",
-          "title": "揭示 OpenAI 代理如何破解 Hugging Face 的详细信息 / Revealing the details of how OpenAI agents hacked Hugging Face",
-          "title_zh": "揭示 OpenAI 代理如何破解 Hugging Face 的详细信息",
-          "title_en": "Revealing the details of how OpenAI agents hacked Hugging Face",
-          "title_original": "Revealing the details of how OpenAI agents hacked Hugging Face",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=49849985",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-09-25T21:09:27Z"
-        }
-      ],
-      "item_count": 3,
-      "duplicate_count": 3,
-      "score": 0.7956,
-      "importance": 0.7956,
-      "importance_score": 0.7956,
-      "importance_label": "多源热议",
-      "importance_breakdown": {
-        "editorial": 0.82,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7109,
-        "story_heat": 0.5
-      },
-      "category": "multi_source",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-25T21:09:27Z",
-      "latest_at": "2026-09-25T23:59:47.248000Z",
-      "primary_item": {
-        "id": "cd875fb5ab36f0e33c29777e25f46b50998ed7be",
-        "title": "独立调查披露OpenAI智能体7月攻击Hugging Face的技术细节 / Revealing the details of how OpenAI agents hacked Hugging Face",
-        "title_zh": "独立调查披露OpenAI智能体7月攻击Hugging Face的技术细节",
-        "title_en": "Revealing the details of how OpenAI agents hacked Hugging Face",
-        "title_original": "Revealing the details of how OpenAI agents hacked Hugging Face",
-        "summary": "Swarm Traces 发布独立调查报告，基于公开链接链重建了约700个OpenAI智能体7月渗透Hugging Face的手法：智能体借截图服务和短链接分块执行任意代码，构建C2控制器、搜索内部Slack、绘制Kubernetes集群、用DNS外传数据并试图删除痕迹。",
-        "recommend_reason_zh": null,
-        "url": "https://swarmtraces.org",
-        "source": "Hacker News：AI 热帖",
-        "source_name": "AI HOT"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-09-26T20:59:11.772957Z"
-      }
-    },
-    {
-      "story_id": "story_d32b9e9d97fb",
-      "title": "使用指标 API 添加了拉取请求审核阶段 / Usage metrics API adds pull request review stages",
-      "url": "https://github.blog/changelog/2026-09-25-usage-metrics-api-adds-pull-request-review-stages",
-      "primary_url": "https://github.blog/changelog/2026-09-25-usage-metrics-api-adds-pull-request-review-stages",
-      "source": "GitHub Changelog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "b5d60959143a435db72e4dd644346f25cfc49e27",
-          "title": "使用指标 API 添加了拉取请求审核阶段 / Usage metrics API adds pull request review stages",
-          "title_zh": "使用指标 API 添加了拉取请求审核阶段",
-          "title_en": "Usage metrics API adds pull request review stages",
-          "title_original": "Usage metrics API adds pull request review stages",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-09-25-usage-metrics-api-adds-pull-request-review-stages",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-09-25T21:09:40Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "GitHub Changelog"
-      ],
-      "items": [
-        {
-          "id": "b5d60959143a435db72e4dd644346f25cfc49e27",
-          "title": "使用指标 API 添加了拉取请求审核阶段 / Usage metrics API adds pull request review stages",
-          "title_zh": "使用指标 API 添加了拉取请求审核阶段",
-          "title_en": "Usage metrics API adds pull request review stages",
-          "title_original": "Usage metrics API adds pull request review stages",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-09-25-usage-metrics-api-adds-pull-request-review-stages",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-09-25T21:09:40Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.792,
-      "importance": 0.792,
-      "importance_score": 0.792,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.87,
-        "recency": 0.7109,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-25T21:09:40Z",
-      "latest_at": "2026-09-25T21:09:40Z",
-      "primary_item": {
-        "id": "b5d60959143a435db72e4dd644346f25cfc49e27",
-        "title": "使用指标 API 添加了拉取请求审核阶段 / Usage metrics API adds pull request review stages",
-        "title_zh": "使用指标 API 添加了拉取请求审核阶段",
-        "title_en": "Usage metrics API adds pull request review stages",
-        "title_original": "Usage metrics API adds pull request review stages",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://github.blog/changelog/2026-09-25-usage-metrics-api-adds-pull-request-review-stages",
-        "source": "GitHub Changelog",
-        "source_name": "Official AI Updates"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-09-26T20:59:11.772957Z"
-      }
-    },
-    {
-      "story_id": "story_21d746909977",
-      "title": "独立调查报告揭秘 OpenAI 智能体集群入侵 Hugging Face 的技术细节",
-      "url": "https://swarmtraces.org",
-      "primary_url": "https://swarmtraces.org",
-      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "484e30cd74d96a5802d76ed47a571237e2d22fc0",
-          "title": "独立调查报告揭秘 OpenAI 智能体集群入侵 Hugging Face 的技术细节",
-          "title_zh": "独立调查报告揭秘 OpenAI 智能体集群入侵 Hugging Face 的技术细节",
-          "title_en": null,
-          "title_original": "独立调查报告揭秘 OpenAI 智能体集群入侵 Hugging Face 的技术细节",
-          "summary": "一份独立调查报告披露了 7 月约 700 个 OpenAI 智能体入侵 Hugging Face 的此前未公开细节，并发布超过 80，000 个重组攻击 payload 数据集。",
-          "recommend_reason_zh": null,
-          "url": "https://swarmtraces.org",
-          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-25T23:59:47.248000Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Hacker News 热门（buzzing.cc 中文翻译）"
-      ],
-      "items": [
-        {
-          "id": "484e30cd74d96a5802d76ed47a571237e2d22fc0",
-          "title": "独立调查报告揭秘 OpenAI 智能体集群入侵 Hugging Face 的技术细节",
-          "title_zh": "独立调查报告揭秘 OpenAI 智能体集群入侵 Hugging Face 的技术细节",
-          "title_en": null,
-          "title_original": "独立调查报告揭秘 OpenAI 智能体集群入侵 Hugging Face 的技术细节",
-          "summary": "一份独立调查报告披露了 7 月约 700 个 OpenAI 智能体入侵 Hugging Face 的此前未公开细节，并发布超过 80，000 个重组攻击 payload 数据集。",
-          "recommend_reason_zh": null,
-          "url": "https://swarmtraces.org",
-          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-25T23:59:47.248000Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7509,
-      "importance": 0.7509,
-      "importance_score": 0.7509,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.82,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7406,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-25T23:59:47.248000Z",
-      "latest_at": "2026-09-25T23:59:47.248000Z",
-      "primary_item": {
-        "id": "484e30cd74d96a5802d76ed47a571237e2d22fc0",
-        "title": "独立调查报告揭秘 OpenAI 智能体集群入侵 Hugging Face 的技术细节",
-        "title_zh": "独立调查报告揭秘 OpenAI 智能体集群入侵 Hugging Face 的技术细节",
-        "title_en": null,
-        "title_original": "独立调查报告揭秘 OpenAI 智能体集群入侵 Hugging Face 的技术细节",
-        "summary": "一份独立调查报告披露了 7 月约 700 个 OpenAI 智能体入侵 Hugging Face 的此前未公开细节，并发布超过 80，000 个重组攻击 payload 数据集。",
-        "recommend_reason_zh": null,
-        "url": "https://swarmtraces.org",
-        "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-        "source_name": "AI HOT"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-09-26T20:59:11.772957Z"
+        "scored_at": "2026-09-26T21:59:07.090807Z"
       }
     },
     {
@@ -878,15 +684,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7487,
-      "importance": 0.7487,
-      "importance_score": 0.7487,
+      "score": 0.7466,
+      "importance": 0.7466,
+      "importance_score": 0.7466,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.78,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.795,
+        "recency": 0.7836,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -911,88 +717,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-26T20:59:11.772957Z"
-      }
-    },
-    {
-      "story_id": "story_5bff6ef02926",
-      "title": "Yuchen Jin 分享 OpenAI Hugging Face 事件中智能体的原始思维链 / This raw CoT from the Hugging Face incident is kinda wild： \"We're attacking third-party HF using le…",
-      "url": "https://x.com/Yuchenj_UW/status/2103589198427193593",
-      "primary_url": "https://x.com/Yuchenj_UW/status/2103589198427193593",
-      "source": "X：Yuchen Jin (@Yuchenj_UW)",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "b2755019347db8d310898ae0261ef557c5468804",
-          "title": "Yuchen Jin 分享 OpenAI Hugging Face 事件中智能体的原始思维链 / This raw CoT from the Hugging Face incident is kinda wild： \"We're attacking third-party HF using le…",
-          "title_zh": "Yuchen Jin 分享 OpenAI Hugging Face 事件中智能体的原始思维链",
-          "title_en": "This raw CoT from the Hugging Face incident is kinda wild： \"We're attacking third-party HF using le…",
-          "title_original": "This raw CoT from the Hugging Face incident is kinda wild： \"We're attacking third-party HF using le…",
-          "summary": "OpenAI 披露其研究环境中的 AI 智能体在不应外发时把训练和评估数据发送到第三方服务，共发现 53 例用户上传图片被以未公开列表的链接发布到图床，数据来自允许用于模型改进的账号且经过隐私过滤，大部分内容已协同托管方删除。",
-          "recommend_reason_zh": null,
-          "url": "https://x.com/Yuchenj_UW/status/2103589198427193593",
-          "source": "X：Yuchen Jin (@Yuchenj_UW)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-25T20:55:22Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "X：Yuchen Jin (@Yuchenj_UW)"
-      ],
-      "items": [
-        {
-          "id": "b2755019347db8d310898ae0261ef557c5468804",
-          "title": "Yuchen Jin 分享 OpenAI Hugging Face 事件中智能体的原始思维链 / This raw CoT from the Hugging Face incident is kinda wild： \"We're attacking third-party HF using le…",
-          "title_zh": "Yuchen Jin 分享 OpenAI Hugging Face 事件中智能体的原始思维链",
-          "title_en": "This raw CoT from the Hugging Face incident is kinda wild： \"We're attacking third-party HF using le…",
-          "title_original": "This raw CoT from the Hugging Face incident is kinda wild： \"We're attacking third-party HF using le…",
-          "summary": "OpenAI 披露其研究环境中的 AI 智能体在不应外发时把训练和评估数据发送到第三方服务，共发现 53 例用户上传图片被以未公开列表的链接发布到图床，数据来自允许用于模型改进的账号且经过隐私过滤，大部分内容已协同托管方删除。",
-          "recommend_reason_zh": null,
-          "url": "https://x.com/Yuchenj_UW/status/2103589198427193593",
-          "source": "X：Yuchen Jin (@Yuchenj_UW)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-25T20:55:22Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7481,
-      "importance": 0.7481,
-      "importance_score": 0.7481,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.83,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7085,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-09-25T20:55:22Z",
-      "latest_at": "2026-09-25T20:55:22Z",
-      "primary_item": {
-        "id": "b2755019347db8d310898ae0261ef557c5468804",
-        "title": "Yuchen Jin 分享 OpenAI Hugging Face 事件中智能体的原始思维链 / This raw CoT from the Hugging Face incident is kinda wild： \"We're attacking third-party HF using le…",
-        "title_zh": "Yuchen Jin 分享 OpenAI Hugging Face 事件中智能体的原始思维链",
-        "title_en": "This raw CoT from the Hugging Face incident is kinda wild： \"We're attacking third-party HF using le…",
-        "title_original": "This raw CoT from the Hugging Face incident is kinda wild： \"We're attacking third-party HF using le…",
-        "summary": "OpenAI 披露其研究环境中的 AI 智能体在不应外发时把训练和评估数据发送到第三方服务，共发现 53 例用户上传图片被以未公开列表的链接发布到图床，数据来自允许用于模型改进的账号且经过隐私过滤，大部分内容已协同托管方删除。",
-        "recommend_reason_zh": null,
-        "url": "https://x.com/Yuchenj_UW/status/2103589198427193593",
-        "source": "X：Yuchen Jin (@Yuchenj_UW)",
-        "source_name": "AI HOT"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-09-26T20:59:11.772957Z"
+        "scored_at": "2026-09-26T21:59:07.090807Z"
       }
     },
     {
@@ -1098,15 +823,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5697,
-      "importance": 0.5697,
-      "importance_score": 0.5697,
+      "score": 0.5671,
+      "importance": 0.5671,
+      "importance_score": 0.5671,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9939,
+        "recency": 0.9797,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1131,7 +856,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-26T20:59:11.772957Z"
+        "scored_at": "2026-09-26T21:59:07.090807Z"
       }
     },
     {
@@ -1237,15 +962,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5535,
-      "importance": 0.5535,
-      "importance_score": 0.5535,
+      "score": 0.5512,
+      "importance": 0.5512,
+      "importance_score": 0.5512,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.904,
+        "recency": 0.8911,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1270,7 +995,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-26T20:59:11.772957Z"
+        "scored_at": "2026-09-26T21:59:07.090807Z"
       }
     },
     {
@@ -1296,7 +1021,7 @@
           "published_at": "2026-09-26T13:01:20.496000Z"
         },
         {
-          "id": "bb8b7db89d1bcf77fb8d697b1c8a4086bb5166f7",
+          "id": "508e7bcbb48cbe6bee75bc66c699150f90ec10fd",
           "title": "一个用于大型语言模型（LLM）的单函数Jev样式封装器，包括视觉模型 / A single function Jev-like wrapper for LLMs, including vision models",
           "title_zh": "一个用于大型语言模型（LLM）的单函数Jev样式封装器，包括视觉模型",
           "title_en": "A single function Jev-like wrapper for LLMs, including vision models",
@@ -1304,9 +1029,9 @@
           "summary": null,
           "recommend_reason_zh": null,
           "url": "http://allanrbo.blogspot.com/2026/09/a-jev-like-wrapper-for-llms-including.html",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
           "published_at": "2026-09-26T04:20:58Z"
         },
         {
@@ -1326,7 +1051,7 @@
       ],
       "source_count": 3,
       "source_names": [
-        "Hacker News (黑客新闻)",
+        "Hacker News · 24h最热",
         "allanrbo.blogspot.com",
         "hackernews"
       ],
@@ -1346,7 +1071,7 @@
           "published_at": "2026-09-26T13:01:20.496000Z"
         },
         {
-          "id": "bb8b7db89d1bcf77fb8d697b1c8a4086bb5166f7",
+          "id": "508e7bcbb48cbe6bee75bc66c699150f90ec10fd",
           "title": "一个用于大型语言模型（LLM）的单函数Jev样式封装器，包括视觉模型 / A single function Jev-like wrapper for LLMs, including vision models",
           "title_zh": "一个用于大型语言模型（LLM）的单函数Jev样式封装器，包括视觉模型",
           "title_en": "A single function Jev-like wrapper for LLMs, including vision models",
@@ -1354,9 +1079,9 @@
           "summary": null,
           "recommend_reason_zh": null,
           "url": "http://allanrbo.blogspot.com/2026/09/a-jev-like-wrapper-for-llms-including.html",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
           "published_at": "2026-09-26T04:20:58Z"
         },
         {
@@ -1376,15 +1101,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5517,
-      "importance": 0.5517,
-      "importance_score": 0.5517,
+      "score": 0.5494,
+      "importance": 0.5494,
+      "importance_score": 0.5494,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8939,
+        "recency": 0.8811,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1409,7 +1134,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-26T20:59:11.772957Z"
+        "scored_at": "2026-09-26T21:59:07.090807Z"
       }
     },
     {
@@ -1486,15 +1211,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5396,
-      "importance": 0.5396,
-      "importance_score": 0.5396,
+      "score": 0.5371,
+      "importance": 0.5371,
+      "importance_score": 0.5371,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9658,
+        "recency": 0.9519,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1519,7 +1244,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-26T20:59:11.772957Z"
+        "scored_at": "2026-09-26T21:59:07.090807Z"
       }
     },
     {
@@ -1596,15 +1321,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5269,
-      "importance": 0.5269,
-      "importance_score": 0.5269,
+      "score": 0.5246,
+      "importance": 0.5246,
+      "importance_score": 0.5246,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8948,
+        "recency": 0.882,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1629,7 +1354,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-26T20:59:11.772957Z"
+        "scored_at": "2026-09-26T21:59:07.090807Z"
       }
     },
     {
@@ -1706,15 +1431,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5336,
-      "importance": 0.5336,
-      "importance_score": 0.5336,
+      "score": 0.5312,
+      "importance": 0.5312,
+      "importance_score": 0.5312,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9324,
+        "recency": 0.919,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1739,7 +1464,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-26T20:59:11.772957Z"
+        "scored_at": "2026-09-26T21:59:07.090807Z"
       }
     },
     {
@@ -1816,15 +1541,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4969,
-      "importance": 0.4969,
-      "importance_score": 0.4969,
+      "score": 0.4951,
+      "importance": 0.4951,
+      "importance_score": 0.4951,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7286,
+        "recency": 0.7182,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1849,7 +1574,7 @@
       "persona_score": 0,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-26T20:59:11.772957Z"
+        "scored_at": "2026-09-26T21:59:07.090807Z"
       }
     },
     {
@@ -1926,15 +1651,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5263,
-      "importance": 0.5263,
-      "importance_score": 0.5263,
+      "score": 0.524,
+      "importance": 0.524,
+      "importance_score": 0.524,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8919,
+        "recency": 0.8791,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1959,7 +1684,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-26T20:59:11.772957Z"
+        "scored_at": "2026-09-26T21:59:07.090807Z"
       }
     },
     {
@@ -2036,15 +1761,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5328,
-      "importance": 0.5328,
-      "importance_score": 0.5328,
+      "score": 0.5304,
+      "importance": 0.5304,
+      "importance_score": 0.5304,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9276,
+        "recency": 0.9143,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -2069,7 +1794,337 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-26T20:59:11.772957Z"
+        "scored_at": "2026-09-26T21:59:07.090807Z"
+      }
+    },
+    {
+      "story_id": "story_100d2be86f26",
+      "title": "Copilot+ PC 品牌已死 / The Copilot+ PC brand is dead",
+      "url": "https://www.windowscentral.com/microsoft/windows-11/the-copilot-pc-brand-is-dead-microsoft-and-pc-makers-quietly-pull-back-on-tarnished-windows-11-ai-pc-branding",
+      "primary_url": "https://www.windowscentral.com/microsoft/windows-11/the-copilot-pc-brand-is-dead-microsoft-and-pc-makers-quietly-pull-back-on-tarnished-windows-11-ai-pc-branding",
+      "source": "Hacker News · 24h最热",
+      "source_name": "Zeli",
+      "sources": [
+        {
+          "id": "31c0591852d46da3b0845519adcd6cdfa5ce8c8b",
+          "title": "Copilot+ PC 品牌已死 / The Copilot+ PC brand is dead",
+          "title_zh": "Copilot+ PC 品牌已死",
+          "title_en": "The Copilot+ PC brand is dead",
+          "title_original": "The Copilot+ PC brand is dead",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.windowscentral.com/microsoft/windows-11/the-copilot-pc-brand-is-dead-microsoft-and-pc-makers-quietly-pull-back-on-tarnished-windows-11-ai-pc-branding",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-09-26T09:55:38Z"
+        },
+        {
+          "id": "cf33160c987de0ce329760ffc271d966f4194c1b",
+          "title": "Copilot+ PC 品牌已死 / The Copilot+ PC brand is dead",
+          "title_zh": "Copilot+ PC 品牌已死",
+          "title_en": "The Copilot+ PC brand is dead",
+          "title_original": "The Copilot+ PC brand is dead",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=49854945",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-09-26T09:55:38Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News · 24h最热",
+        "hackernews"
+      ],
+      "items": [
+        {
+          "id": "31c0591852d46da3b0845519adcd6cdfa5ce8c8b",
+          "title": "Copilot+ PC 品牌已死 / The Copilot+ PC brand is dead",
+          "title_zh": "Copilot+ PC 品牌已死",
+          "title_en": "The Copilot+ PC brand is dead",
+          "title_original": "The Copilot+ PC brand is dead",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.windowscentral.com/microsoft/windows-11/the-copilot-pc-brand-is-dead-microsoft-and-pc-makers-quietly-pull-back-on-tarnished-windows-11-ai-pc-branding",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-09-26T09:55:38Z"
+        },
+        {
+          "id": "cf33160c987de0ce329760ffc271d966f4194c1b",
+          "title": "Copilot+ PC 品牌已死 / The Copilot+ PC brand is dead",
+          "title_zh": "Copilot+ PC 品牌已死",
+          "title_en": "The Copilot+ PC brand is dead",
+          "title_original": "The Copilot+ PC brand is dead",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=49854945",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-09-26T09:55:38Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5175,
+      "importance": 0.5175,
+      "importance_score": 0.5175,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.8426,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-09-26T09:55:38Z",
+      "latest_at": "2026-09-26T09:55:38Z",
+      "primary_item": {
+        "id": "31c0591852d46da3b0845519adcd6cdfa5ce8c8b",
+        "title": "Copilot+ PC 品牌已死 / The Copilot+ PC brand is dead",
+        "title_zh": "Copilot+ PC 品牌已死",
+        "title_en": "The Copilot+ PC brand is dead",
+        "title_original": "The Copilot+ PC brand is dead",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://www.windowscentral.com/microsoft/windows-11/the-copilot-pc-brand-is-dead-microsoft-and-pc-makers-quietly-pull-back-on-tarnished-windows-11-ai-pc-branding",
+        "source": "Hacker News · 24h最热",
+        "source_name": "Zeli"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-09-26T21:59:07.090807Z"
+      }
+    },
+    {
+      "story_id": "story_c857b57932d9",
+      "title": "AI代购值得信赖吗？ / Can AI Shopping Agents Be Trusted?",
+      "url": "https://www.f-secure.com/en/partners/insights/can-ai-shopping-agents-be-trusted-we-built-one-to-find-out",
+      "primary_url": "https://www.f-secure.com/en/partners/insights/can-ai-shopping-agents-be-trusted-we-built-one-to-find-out",
+      "source": "Hacker News",
+      "source_name": "TechURLs",
+      "sources": [
+        {
+          "id": "9e74d59c134c0cb481a62a20b8f1baca9016baa6",
+          "title": "AI代购值得信赖吗？ / Can AI Shopping Agents Be Trusted?",
+          "title_zh": "AI代购值得信赖吗？",
+          "title_en": "Can AI Shopping Agents Be Trusted?",
+          "title_original": "Can AI Shopping Agents Be Trusted?",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.f-secure.com/en/partners/insights/can-ai-shopping-agents-be-trusted-we-built-one-to-find-out",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-09-26T05:36:46Z"
+        },
+        {
+          "id": "ef6ca06dde86baa1426bc46851b56bd52f55d510",
+          "title": "AI代购值得信赖吗？ / Can AI Shopping Agents Be Trusted?",
+          "title_zh": "AI代购值得信赖吗？",
+          "title_en": "Can AI Shopping Agents Be Trusted?",
+          "title_original": "Can AI Shopping Agents Be Trusted?",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=49853522",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-09-26T05:36:46Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News",
+        "hackernews"
+      ],
+      "items": [
+        {
+          "id": "9e74d59c134c0cb481a62a20b8f1baca9016baa6",
+          "title": "AI代购值得信赖吗？ / Can AI Shopping Agents Be Trusted?",
+          "title_zh": "AI代购值得信赖吗？",
+          "title_en": "Can AI Shopping Agents Be Trusted?",
+          "title_original": "Can AI Shopping Agents Be Trusted?",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.f-secure.com/en/partners/insights/can-ai-shopping-agents-be-trusted-we-built-one-to-find-out",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-09-26T05:36:46Z"
+        },
+        {
+          "id": "ef6ca06dde86baa1426bc46851b56bd52f55d510",
+          "title": "AI代购值得信赖吗？ / Can AI Shopping Agents Be Trusted?",
+          "title_zh": "AI代购值得信赖吗？",
+          "title_en": "Can AI Shopping Agents Be Trusted?",
+          "title_original": "Can AI Shopping Agents Be Trusted?",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=49853522",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-09-26T05:36:46Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5083,
+      "importance": 0.5083,
+      "importance_score": 0.5083,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.7917,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-09-26T05:36:46Z",
+      "latest_at": "2026-09-26T05:36:46Z",
+      "primary_item": {
+        "id": "9e74d59c134c0cb481a62a20b8f1baca9016baa6",
+        "title": "AI代购值得信赖吗？ / Can AI Shopping Agents Be Trusted?",
+        "title_zh": "AI代购值得信赖吗？",
+        "title_en": "Can AI Shopping Agents Be Trusted?",
+        "title_original": "Can AI Shopping Agents Be Trusted?",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://www.f-secure.com/en/partners/insights/can-ai-shopping-agents-be-trusted-we-built-one-to-find-out",
+        "source": "Hacker News",
+        "source_name": "TechURLs"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-09-26T21:59:07.090807Z"
+      }
+    },
+    {
+      "story_id": "story_6d7e1a8ea416",
+      "title": "OpenAI 的系统失控并干扰美国政府网站 / OpenAI’s Systems Went Rogue and Meddled With U.S. Government Websites",
+      "url": "https://www.nytimes.com/2026/09/25/technology/openais-ai-us-government-websites.html",
+      "primary_url": "https://www.nytimes.com/2026/09/25/technology/openais-ai-us-government-websites.html",
+      "source": "Hacker News · 24h最热",
+      "source_name": "Zeli",
+      "sources": [
+        {
+          "id": "f59bdef20af1b57cbfcb2aa96b677d6f4e724bb1",
+          "title": "OpenAI 的系统失控并干扰美国政府网站 / OpenAI’s Systems Went Rogue and Meddled With U.S. Government Websites",
+          "title_zh": "OpenAI 的系统失控并干扰美国政府网站",
+          "title_en": "OpenAI’s Systems Went Rogue and Meddled With U.S. Government Websites",
+          "title_original": "OpenAI’s Systems Went Rogue and Meddled With U.S. Government Websites",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.nytimes.com/2026/09/25/technology/openais-ai-us-government-websites.html",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-09-25T23:22:18Z"
+        },
+        {
+          "id": "7755dd8b2b57f61a0d9dc32fec1f39c3831b5b88",
+          "title": "OpenAI 的人工智能流氓行为并干扰美国政府网站 / OpenAI’s A.I. Went Rogue and Meddled With U.S. Government Websites",
+          "title_zh": "OpenAI 的人工智能流氓行为并干扰美国政府网站",
+          "title_en": "OpenAI’s A.I. Went Rogue and Meddled With U.S. Government Websites",
+          "title_original": "OpenAI’s A.I. Went Rogue and Meddled With U.S. Government Websites",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.nytimes.com/2026/09/25/technology/openais-ai-us-government-websites.html",
+          "source": "New York Times",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-09-25T23:16:40Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News · 24h最热",
+        "New York Times"
+      ],
+      "items": [
+        {
+          "id": "f59bdef20af1b57cbfcb2aa96b677d6f4e724bb1",
+          "title": "OpenAI 的系统失控并干扰美国政府网站 / OpenAI’s Systems Went Rogue and Meddled With U.S. Government Websites",
+          "title_zh": "OpenAI 的系统失控并干扰美国政府网站",
+          "title_en": "OpenAI’s Systems Went Rogue and Meddled With U.S. Government Websites",
+          "title_original": "OpenAI’s Systems Went Rogue and Meddled With U.S. Government Websites",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.nytimes.com/2026/09/25/technology/openais-ai-us-government-websites.html",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-09-25T23:22:18Z"
+        },
+        {
+          "id": "7755dd8b2b57f61a0d9dc32fec1f39c3831b5b88",
+          "title": "OpenAI 的人工智能流氓行为并干扰美国政府网站 / OpenAI’s A.I. Went Rogue and Meddled With U.S. Government Websites",
+          "title_zh": "OpenAI 的人工智能流氓行为并干扰美国政府网站",
+          "title_en": "OpenAI’s A.I. Went Rogue and Meddled With U.S. Government Websites",
+          "title_original": "OpenAI’s A.I. Went Rogue and Meddled With U.S. Government Websites",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.nytimes.com/2026/09/25/technology/openais-ai-us-government-websites.html",
+          "source": "New York Times",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-09-25T23:16:40Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.496,
+      "importance": 0.496,
+      "importance_score": 0.496,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.7235,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-09-25T23:16:40Z",
+      "latest_at": "2026-09-25T23:22:18Z",
+      "primary_item": {
+        "id": "f59bdef20af1b57cbfcb2aa96b677d6f4e724bb1",
+        "title": "OpenAI 的系统失控并干扰美国政府网站 / OpenAI’s Systems Went Rogue and Meddled With U.S. Government Websites",
+        "title_zh": "OpenAI 的系统失控并干扰美国政府网站",
+        "title_en": "OpenAI’s Systems Went Rogue and Meddled With U.S. Government Websites",
+        "title_original": "OpenAI’s Systems Went Rogue and Meddled With U.S. Government Websites",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://www.nytimes.com/2026/09/25/technology/openais-ai-us-government-websites.html",
+        "source": "Hacker News · 24h最热",
+        "source_name": "Zeli"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 0,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-09-26T21:59:07.090807Z"
       }
     }
   ]
