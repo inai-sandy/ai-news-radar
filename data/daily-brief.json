@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-26T12:47:22.106962Z",
+  "generated_at": "2026-09-26T13:47:18.677797Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -48,15 +48,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8356,
-      "importance": 0.8356,
-      "importance_score": 0.8356,
+      "score": 0.8335,
+      "importance": 0.8335,
+      "importance_score": 0.8335,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.98,
-        "recency": 0.8314,
+        "recency": 0.8195,
         "story_heat": 0.0
       },
       "category": "official",
@@ -83,7 +83,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-26T12:56:46.445472Z"
+        "scored_at": "2026-09-26T13:58:12.253602Z"
       }
     },
     {
@@ -160,15 +160,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.8342,
-      "importance": 0.8342,
-      "importance_score": 0.8342,
+      "score": 0.8323,
+      "importance": 0.8323,
+      "importance_score": 0.8323,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.7624,
+        "recency": 0.7514,
         "story_heat": 0.25
       },
       "category": "official",
@@ -196,7 +196,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-26T12:56:46.445472Z"
+        "scored_at": "2026-09-26T13:58:12.253602Z"
       }
     },
     {
@@ -244,15 +244,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8192,
-      "importance": 0.8192,
-      "importance_score": 0.8192,
+      "score": 0.8172,
+      "importance": 0.8172,
+      "importance_score": 0.8172,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.7735,
+        "recency": 0.7624,
         "story_heat": 0.0
       },
       "category": "official",
@@ -279,7 +279,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-26T12:56:46.445472Z"
+        "scored_at": "2026-09-26T13:58:12.253602Z"
       }
     },
     {
@@ -327,15 +327,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8124,
-      "importance": 0.8124,
-      "importance_score": 0.8124,
+      "score": 0.8103,
+      "importance": 0.8103,
+      "importance_score": 0.8103,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.8244,
+        "recency": 0.8126,
         "story_heat": 0.0
       },
       "category": "official",
@@ -362,7 +362,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-26T12:56:46.445472Z"
+        "scored_at": "2026-09-26T13:58:12.253602Z"
       }
     },
     {
@@ -468,15 +468,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.8112,
-      "importance": 0.8112,
-      "importance_score": 0.8112,
+      "score": 0.8092,
+      "importance": 0.8092,
+      "importance_score": 0.8092,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.82,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7979,
+        "recency": 0.7865,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -503,7 +503,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-26T12:56:46.445472Z"
+        "scored_at": "2026-09-26T13:58:12.253602Z"
       }
     },
     {
@@ -638,15 +638,15 @@
       ],
       "item_count": 4,
       "duplicate_count": 4,
-      "score": 0.8058,
-      "importance": 0.8058,
-      "importance_score": 0.8058,
+      "score": 0.8038,
+      "importance": 0.8038,
+      "importance_score": 0.8038,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.74,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7622,
+        "recency": 0.7513,
         "story_heat": 0.75
       },
       "category": "multi_source",
@@ -673,7 +673,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-26T12:56:46.445472Z"
+        "scored_at": "2026-09-26T13:58:12.253602Z"
       }
     },
     {
@@ -721,15 +721,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7973,
-      "importance": 0.7973,
-      "importance_score": 0.7973,
+      "score": 0.7948,
+      "importance": 0.7948,
+      "importance_score": 0.7948,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.85,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9483,
+        "recency": 0.9347,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -755,7 +755,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-26T12:56:46.445472Z"
+        "scored_at": "2026-09-26T13:58:12.253602Z"
       }
     },
     {
@@ -803,15 +803,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8081,
-      "importance": 0.8081,
-      "importance_score": 0.8081,
+      "score": 0.8062,
+      "importance": 0.8062,
+      "importance_score": 0.8062,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.7561,
+        "recency": 0.7453,
         "story_heat": 0.0
       },
       "category": "official",
@@ -838,7 +838,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-26T12:56:46.445472Z"
+        "scored_at": "2026-09-26T13:58:12.253602Z"
       }
     },
     {
@@ -915,15 +915,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7725,
-      "importance": 0.7725,
-      "importance_score": 0.7725,
+      "score": 0.7706,
+      "importance": 0.7706,
+      "importance_score": 0.7706,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.81,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7386,
+        "recency": 0.728,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -950,7 +950,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-26T12:56:46.445472Z"
+        "scored_at": "2026-09-26T13:58:12.253602Z"
       }
     },
     {
@@ -998,15 +998,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7672,
-      "importance": 0.7672,
-      "importance_score": 0.7672,
+      "score": 0.7651,
+      "importance": 0.7651,
+      "importance_score": 0.7651,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.82,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8313,
+        "recency": 0.8194,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1032,7 +1032,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-26T12:56:46.445472Z"
+        "scored_at": "2026-09-26T13:58:12.253602Z"
       }
     },
     {
@@ -1080,15 +1080,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7662,
-      "importance": 0.7662,
-      "importance_score": 0.7662,
+      "score": 0.7639,
+      "importance": 0.7639,
+      "importance_score": 0.7639,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.78,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8923,
+        "recency": 0.8796,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1114,7 +1114,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-26T12:56:46.445472Z"
+        "scored_at": "2026-09-26T13:58:12.253602Z"
       }
     },
     {
@@ -1162,15 +1162,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7637,
-      "importance": 0.7637,
-      "importance_score": 0.7637,
+      "score": 0.7617,
+      "importance": 0.7617,
+      "importance_score": 0.7617,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.83,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7952,
+        "recency": 0.7838,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1196,7 +1196,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-26T12:56:46.445472Z"
+        "scored_at": "2026-09-26T13:58:12.253602Z"
       }
     },
     {
@@ -1302,15 +1302,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.7909,
-      "importance": 0.7909,
-      "importance_score": 0.7909,
+      "score": 0.789,
+      "importance": 0.789,
+      "importance_score": 0.789,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.79,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7352,
+        "recency": 0.7247,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1337,7 +1337,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-26T12:56:46.445472Z"
+        "scored_at": "2026-09-26T13:58:12.253602Z"
       }
     },
     {
@@ -1385,15 +1385,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7557,
-      "importance": 0.7557,
-      "importance_score": 0.7557,
+      "score": 0.7537,
+      "importance": 0.7537,
+      "importance_score": 0.7537,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.66,
         "source_tier": 1.0,
         "ai_relevance": 1.0,
-        "recency": 0.7648,
+        "recency": 0.7539,
         "story_heat": 0.0
       },
       "category": "official",
@@ -1419,7 +1419,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-26T12:56:46.445472Z"
+        "scored_at": "2026-09-26T13:58:12.253602Z"
       }
     },
     {
@@ -1467,15 +1467,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8076,
-      "importance": 0.8076,
-      "importance_score": 0.8076,
+      "score": 0.8056,
+      "importance": 0.8056,
+      "importance_score": 0.8056,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.798,
+        "recency": 0.7865,
         "story_heat": 0.0
       },
       "category": "official",
@@ -1502,7 +1502,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-26T12:56:46.445472Z"
+        "scored_at": "2026-09-26T13:58:12.253602Z"
       }
     },
     {
@@ -1579,15 +1579,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7438,
-      "importance": 0.7438,
-      "importance_score": 0.7438,
+      "score": 0.7418,
+      "importance": 0.7418,
+      "importance_score": 0.7418,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.69,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7787,
+        "recency": 0.7675,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -1613,7 +1613,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-26T12:56:46.445472Z"
+        "scored_at": "2026-09-26T13:58:12.253602Z"
       }
     },
     {
@@ -1661,15 +1661,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7274,
-      "importance": 0.7274,
-      "importance_score": 0.7274,
+      "score": 0.7254,
+      "importance": 0.7254,
+      "importance_score": 0.7254,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.71,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7936,
+        "recency": 0.7822,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1694,7 +1694,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-26T12:56:46.445472Z"
+        "scored_at": "2026-09-26T13:58:12.253602Z"
       }
     },
     {
@@ -1771,15 +1771,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7573,
-      "importance": 0.7573,
-      "importance_score": 0.7573,
+      "score": 0.7554,
+      "importance": 0.7554,
+      "importance_score": 0.7554,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.76,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7371,
+        "recency": 0.7266,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -1806,88 +1806,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-26T12:56:46.445472Z"
-      }
-    },
-    {
-      "story_id": "story_ef0bb9e0a293",
-      "title": "Cognition 宣布年化收入运行率突破 10 亿美元 / Cognition Crosses $1B in Annualized Revenue Run Rate",
-      "url": "https://cognition.com/blog/1b-run-rate",
-      "primary_url": "https://cognition.com/blog/1b-run-rate",
-      "source": "Cognition 模型 / Devin 博客（网页）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "610696a3bff4d2e722260fd295531b17af651ebc",
-          "title": "Cognition 宣布年化收入运行率突破 10 亿美元 / Cognition Crosses $1B in Annualized Revenue Run Rate",
-          "title_zh": "Cognition 宣布年化收入运行率突破 10 亿美元",
-          "title_en": "Cognition Crosses $1B in Annualized Revenue Run Rate",
-          "title_original": "Cognition Crosses $1B in Annualized Revenue Run Rate",
-          "summary": "Cognition 宣布年化收入运行率突破 10 亿美元。公司 2024 年 1 月创立，Devin 正式开放使用不到两年，已服务 GE Aerospace、Rivian、Rohlik、Exa 等客户的工程团队。",
-          "recommend_reason_zh": null,
-          "url": "https://cognition.com/blog/1b-run-rate",
-          "source": "Cognition 模型 / Devin 博客（网页）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-25T15:42:15.643000Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Cognition 模型 / Devin 博客（网页）"
-      ],
-      "items": [
-        {
-          "id": "610696a3bff4d2e722260fd295531b17af651ebc",
-          "title": "Cognition 宣布年化收入运行率突破 10 亿美元 / Cognition Crosses $1B in Annualized Revenue Run Rate",
-          "title_zh": "Cognition 宣布年化收入运行率突破 10 亿美元",
-          "title_en": "Cognition Crosses $1B in Annualized Revenue Run Rate",
-          "title_original": "Cognition Crosses $1B in Annualized Revenue Run Rate",
-          "summary": "Cognition 宣布年化收入运行率突破 10 亿美元。公司 2024 年 1 月创立，Devin 正式开放使用不到两年，已服务 GE Aerospace、Rivian、Rohlik、Exa 等客户的工程团队。",
-          "recommend_reason_zh": null,
-          "url": "https://cognition.com/blog/1b-run-rate",
-          "source": "Cognition 模型 / Devin 博客（网页）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-25T15:42:15.643000Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7204,
-      "importance": 0.7204,
-      "importance_score": 0.7204,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7375,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-09-25T15:42:15.643000Z",
-      "latest_at": "2026-09-25T15:42:15.643000Z",
-      "primary_item": {
-        "id": "610696a3bff4d2e722260fd295531b17af651ebc",
-        "title": "Cognition 宣布年化收入运行率突破 10 亿美元 / Cognition Crosses $1B in Annualized Revenue Run Rate",
-        "title_zh": "Cognition 宣布年化收入运行率突破 10 亿美元",
-        "title_en": "Cognition Crosses $1B in Annualized Revenue Run Rate",
-        "title_original": "Cognition Crosses $1B in Annualized Revenue Run Rate",
-        "summary": "Cognition 宣布年化收入运行率突破 10 亿美元。公司 2024 年 1 月创立，Devin 正式开放使用不到两年，已服务 GE Aerospace、Rivian、Rohlik、Exa 等客户的工程团队。",
-        "recommend_reason_zh": null,
-        "url": "https://cognition.com/blog/1b-run-rate",
-        "source": "Cognition 模型 / Devin 博客（网页）",
-        "source_name": "AI HOT"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-09-26T12:56:46.445472Z"
+        "scored_at": "2026-09-26T13:58:12.253602Z"
       }
     },
     {
@@ -1935,15 +1854,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8067,
-      "importance": 0.8067,
-      "importance_score": 0.8067,
+      "score": 0.8048,
+      "importance": 0.8048,
+      "importance_score": 0.8048,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.7483,
+        "recency": 0.7376,
         "story_heat": 0.0
       },
       "category": "official",
@@ -1970,7 +1889,90 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-26T12:56:46.445472Z"
+        "scored_at": "2026-09-26T13:58:12.253602Z"
+      }
+    },
+    {
+      "story_id": "story_42a4c6c0a2d7",
+      "title": "Slack 和 Microsoft Teams 的 GitHub Copilot 更新 / Updates to GitHub Copilot for Slack and Microsoft Teams",
+      "url": "https://github.blog/changelog/2026-09-25-updates-to-github-copilot-for-slack-and-microsoft-teams",
+      "primary_url": "https://github.blog/changelog/2026-09-25-updates-to-github-copilot-for-slack-and-microsoft-teams",
+      "source": "GitHub Changelog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "258f7545dc1f75de09b8800d8db521fd4d5db997",
+          "title": "Slack 和 Microsoft Teams 的 GitHub Copilot 更新 / Updates to GitHub Copilot for Slack and Microsoft Teams",
+          "title_zh": "Slack 和 Microsoft Teams 的 GitHub Copilot 更新",
+          "title_en": "Updates to GitHub Copilot for Slack and Microsoft Teams",
+          "title_original": "Updates to GitHub Copilot for Slack and Microsoft Teams",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://github.blog/changelog/2026-09-25-updates-to-github-copilot-for-slack-and-microsoft-teams",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-09-25T16:33:42Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "GitHub Changelog"
+      ],
+      "items": [
+        {
+          "id": "258f7545dc1f75de09b8800d8db521fd4d5db997",
+          "title": "Slack 和 Microsoft Teams 的 GitHub Copilot 更新 / Updates to GitHub Copilot for Slack and Microsoft Teams",
+          "title_zh": "Slack 和 Microsoft Teams 的 GitHub Copilot 更新",
+          "title_en": "Updates to GitHub Copilot for Slack and Microsoft Teams",
+          "title_original": "Updates to GitHub Copilot for Slack and Microsoft Teams",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://github.blog/changelog/2026-09-25-updates-to-github-copilot-for-slack-and-microsoft-teams",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-09-25T16:33:42Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8045,
+      "importance": 0.8045,
+      "importance_score": 0.8045,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.91,
+        "recency": 0.736,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-25T16:33:42Z",
+      "latest_at": "2026-09-25T16:33:42Z",
+      "primary_item": {
+        "id": "258f7545dc1f75de09b8800d8db521fd4d5db997",
+        "title": "Slack 和 Microsoft Teams 的 GitHub Copilot 更新 / Updates to GitHub Copilot for Slack and Microsoft Teams",
+        "title_zh": "Slack 和 Microsoft Teams 的 GitHub Copilot 更新",
+        "title_en": "Updates to GitHub Copilot for Slack and Microsoft Teams",
+        "title_original": "Updates to GitHub Copilot for Slack and Microsoft Teams",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://github.blog/changelog/2026-09-25-updates-to-github-copilot-for-slack-and-microsoft-teams",
+        "source": "GitHub Changelog",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-09-26T13:58:12.253602Z"
       }
     }
   ]
