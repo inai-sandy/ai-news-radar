@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-09-27T16:47:16.437070Z",
+  "generated_at": "2026-09-27T17:47:23.270172Z",
   "window_hours": 24,
-  "total_items": 8,
+  "total_items": 9,
   "items": [
     {
       "story_id": "story_f7a9ca52c4e3",
@@ -192,15 +192,15 @@
       ],
       "item_count": 6,
       "duplicate_count": 6,
-      "score": 0.8645,
-      "importance": 0.8645,
-      "importance_score": 0.8645,
+      "score": 0.8622,
+      "importance": 0.8622,
+      "importance_score": 0.8622,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.77,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8995,
+        "recency": 0.8866,
         "story_heat": 1.0
       },
       "category": "multi_source",
@@ -227,7 +227,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-27T16:53:00.611687Z"
+        "scored_at": "2026-09-27T17:56:03.505382Z"
       }
     },
     {
@@ -275,15 +275,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7693,
-      "importance": 0.7693,
-      "importance_score": 0.7693,
+      "score": 0.7673,
+      "importance": 0.7673,
+      "importance_score": 0.7673,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.86,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7759,
+        "recency": 0.7647,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -309,88 +309,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-27T16:53:00.611687Z"
-      }
-    },
-    {
-      "story_id": "story_c75de04f82b4",
-      "title": "Claude Opus 5.5 （High） 以 1509 分登顶 Arena Text Arena 榜首 / Claude Opus 5.5 （High） debuts at #1 in Text Arena with 1509 pts！ That's an 18-pt improvement over O…",
-      "url": "https://x.com/arena/status/2103893011164017018",
-      "primary_url": "https://x.com/arena/status/2103893011164017018",
-      "source": "X：Arena (@arena)",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "1640607f31c4a14cd3b66072a037aa8b68ba650e",
-          "title": "Claude Opus 5.5 （High） 以 1509 分登顶 Arena Text Arena 榜首 / Claude Opus 5.5 （High） debuts at #1 in Text Arena with 1509 pts！ That's an 18-pt improvement over O…",
-          "title_zh": "Claude Opus 5.5 （High） 以 1509 分登顶 Arena Text Arena 榜首",
-          "title_en": "Claude Opus 5.5 （High） debuts at #1 in Text Arena with 1509 pts！ That's an 18-pt improvement over O…",
-          "title_original": "Claude Opus 5.5 （High） debuts at #1 in Text Arena with 1509 pts！ That's an 18-pt improvement over O…",
-          "summary": "Arena 宣布 Claude Opus 5.5 （High） 以 1509 分首次登顶 Text Arena，比 Opus 5 （High） 高 18 分（现列第 11）。Opus 4.6 （High） 以 4 分之差保持第 2，Anthropic 包揽该榜前六名；Opus 5.5 （High） 按每百万 token 输入/输出定价折算的混合价格为 $16/MToken，进入 Text Arena 的 Pareto 前沿。",
-          "recommend_reason_zh": null,
-          "url": "https://x.com/arena/status/2103893011164017018",
-          "source": "X：Arena (@arena)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-26T17:02:36Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "X：Arena (@arena)"
-      ],
-      "items": [
-        {
-          "id": "1640607f31c4a14cd3b66072a037aa8b68ba650e",
-          "title": "Claude Opus 5.5 （High） 以 1509 分登顶 Arena Text Arena 榜首 / Claude Opus 5.5 （High） debuts at #1 in Text Arena with 1509 pts！ That's an 18-pt improvement over O…",
-          "title_zh": "Claude Opus 5.5 （High） 以 1509 分登顶 Arena Text Arena 榜首",
-          "title_en": "Claude Opus 5.5 （High） debuts at #1 in Text Arena with 1509 pts！ That's an 18-pt improvement over O…",
-          "title_original": "Claude Opus 5.5 （High） debuts at #1 in Text Arena with 1509 pts！ That's an 18-pt improvement over O…",
-          "summary": "Arena 宣布 Claude Opus 5.5 （High） 以 1509 分首次登顶 Text Arena，比 Opus 5 （High） 高 18 分（现列第 11）。Opus 4.6 （High） 以 4 分之差保持第 2，Anthropic 包揽该榜前六名；Opus 5.5 （High） 按每百万 token 输入/输出定价折算的混合价格为 $16/MToken，进入 Text Arena 的 Pareto 前沿。",
-          "recommend_reason_zh": null,
-          "url": "https://x.com/arena/status/2103893011164017018",
-          "source": "X：Arena (@arena)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-26T17:02:36Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7333,
-      "importance": 0.7333,
-      "importance_score": 0.7333,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.78,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7097,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-09-26T17:02:36Z",
-      "latest_at": "2026-09-26T17:02:36Z",
-      "primary_item": {
-        "id": "1640607f31c4a14cd3b66072a037aa8b68ba650e",
-        "title": "Claude Opus 5.5 （High） 以 1509 分登顶 Arena Text Arena 榜首 / Claude Opus 5.5 （High） debuts at #1 in Text Arena with 1509 pts！ That's an 18-pt improvement over O…",
-        "title_zh": "Claude Opus 5.5 （High） 以 1509 分登顶 Arena Text Arena 榜首",
-        "title_en": "Claude Opus 5.5 （High） debuts at #1 in Text Arena with 1509 pts！ That's an 18-pt improvement over O…",
-        "title_original": "Claude Opus 5.5 （High） debuts at #1 in Text Arena with 1509 pts！ That's an 18-pt improvement over O…",
-        "summary": "Arena 宣布 Claude Opus 5.5 （High） 以 1509 分首次登顶 Text Arena，比 Opus 5 （High） 高 18 分（现列第 11）。Opus 4.6 （High） 以 4 分之差保持第 2，Anthropic 包揽该榜前六名；Opus 5.5 （High） 按每百万 token 输入/输出定价折算的混合价格为 $16/MToken，进入 Text Arena 的 Pareto 前沿。",
-        "recommend_reason_zh": null,
-        "url": "https://x.com/arena/status/2103893011164017018",
-        "source": "X：Arena (@arena)",
-        "source_name": "AI HOT"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-09-27T16:53:00.611687Z"
+        "scored_at": "2026-09-27T17:56:03.505382Z"
       }
     },
     {
@@ -438,15 +357,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7527,
-      "importance": 0.7527,
-      "importance_score": 0.7527,
+      "score": 0.7505,
+      "importance": 0.7505,
+      "importance_score": 0.7505,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.76,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8507,
+        "recency": 0.8385,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -472,7 +391,117 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-27T16:53:00.611687Z"
+        "scored_at": "2026-09-27T17:56:03.505382Z"
+      }
+    },
+    {
+      "story_id": "story_324c80783f19",
+      "title": "OpenAI halts training of latest models as reports mount of AI agents going rogue",
+      "url": "https://www.theguardian.com/technology/2026/sep/27/openai-halts-training-of-latest-models-as-reports-mount-of-ai-agents-going-rogue",
+      "primary_url": "https://www.theguardian.com/technology/2026/sep/27/openai-halts-training-of-latest-models-as-reports-mount-of-ai-agents-going-rogue",
+      "source": "Hacker News",
+      "source_name": "TechURLs",
+      "sources": [
+        {
+          "id": "b2f876ac7b415b99b52e81e1aed2a2f52434b09e",
+          "title": "OpenAI halts training of latest models as reports mount of AI agents going rogue",
+          "title_zh": null,
+          "title_en": "OpenAI halts training of latest models as reports mount of AI agents going rogue",
+          "title_original": "OpenAI halts training of latest models as reports mount of AI agents going rogue",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.theguardian.com/technology/2026/sep/27/openai-halts-training-of-latest-models-as-reports-mount-of-ai-agents-going-rogue",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-09-27T16:29:38Z"
+        },
+        {
+          "id": "e827d8aec85d87821535ac2cd61fe71485b33f0f",
+          "title": "OpenAI halts training of latest models as reports mount of AI agents going rogue",
+          "title_zh": null,
+          "title_en": "OpenAI halts training of latest models as reports mount of AI agents going rogue",
+          "title_original": "OpenAI halts training of latest models as reports mount of AI agents going rogue",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=49868202",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-09-27T16:29:38Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News",
+        "hackernews"
+      ],
+      "items": [
+        {
+          "id": "b2f876ac7b415b99b52e81e1aed2a2f52434b09e",
+          "title": "OpenAI halts training of latest models as reports mount of AI agents going rogue",
+          "title_zh": null,
+          "title_en": "OpenAI halts training of latest models as reports mount of AI agents going rogue",
+          "title_original": "OpenAI halts training of latest models as reports mount of AI agents going rogue",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.theguardian.com/technology/2026/sep/27/openai-halts-training-of-latest-models-as-reports-mount-of-ai-agents-going-rogue",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-09-27T16:29:38Z"
+        },
+        {
+          "id": "e827d8aec85d87821535ac2cd61fe71485b33f0f",
+          "title": "OpenAI halts training of latest models as reports mount of AI agents going rogue",
+          "title_zh": null,
+          "title_en": "OpenAI halts training of latest models as reports mount of AI agents going rogue",
+          "title_original": "OpenAI halts training of latest models as reports mount of AI agents going rogue",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=49868202",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-09-27T16:29:38Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5425,
+      "importance": 0.5425,
+      "importance_score": 0.5425,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9815,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-09-27T16:29:38Z",
+      "latest_at": "2026-09-27T16:29:38Z",
+      "primary_item": {
+        "id": "b2f876ac7b415b99b52e81e1aed2a2f52434b09e",
+        "title": "OpenAI halts training of latest models as reports mount of AI agents going rogue",
+        "title_zh": null,
+        "title_en": "OpenAI halts training of latest models as reports mount of AI agents going rogue",
+        "title_original": "OpenAI halts training of latest models as reports mount of AI agents going rogue",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://www.theguardian.com/technology/2026/sep/27/openai-halts-training-of-latest-models-as-reports-mount-of-ai-agents-going-rogue",
+        "source": "Hacker News",
+        "source_name": "TechURLs"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-09-27T17:56:03.505382Z"
       }
     },
     {
@@ -549,15 +578,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5434,
-      "importance": 0.5434,
-      "importance_score": 0.5434,
+      "score": 0.5408,
+      "importance": 0.5408,
+      "importance_score": 0.5408,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9867,
+        "recency": 0.9725,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -582,7 +611,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-27T16:53:00.611687Z"
+        "scored_at": "2026-09-27T17:56:03.505382Z"
       }
     },
     {
@@ -688,15 +717,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.53,
-      "importance": 0.53,
-      "importance_score": 0.53,
+      "score": 0.528,
+      "importance": 0.528,
+      "importance_score": 0.528,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7732,
+        "recency": 0.7621,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -721,44 +750,44 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-27T16:53:00.611687Z"
+        "scored_at": "2026-09-27T17:56:03.505382Z"
       }
     },
     {
-      "story_id": "story_2ea38bddd997",
-      "title": "OpenAI 代理试图暴力破解联合国网站的 API 字段 / OpenAI agents tried to bruteforce a UN website's API fields",
-      "url": "https://swarmcha.se/posts/openai-unctad",
-      "primary_url": "https://swarmcha.se/posts/openai-unctad",
+      "story_id": "story_dc50d791f8d7",
+      "title": "There are no \"rogue\" AI agents",
+      "url": "https://eoinhiggins.substack.com/p/there-are-no-rogue-ai-agents",
+      "primary_url": "https://eoinhiggins.substack.com/p/there-are-no-rogue-ai-agents",
       "source": "Hacker News",
       "source_name": "TechURLs",
       "sources": [
         {
-          "id": "a35e14083a1f3afe8e189bb0486e450b6d77499b",
-          "title": "OpenAI 代理试图暴力破解联合国网站的 API 字段 / OpenAI agents tried to bruteforce a UN website's API fields",
-          "title_zh": "OpenAI 代理试图暴力破解联合国网站的 API 字段",
-          "title_en": "OpenAI agents tried to bruteforce a UN website's API fields",
-          "title_original": "OpenAI agents tried to bruteforce a UN website's API fields",
+          "id": "cc86428ad0497d69ff7e76de416387724bbc5a3c",
+          "title": "There are no \"rogue\" AI agents",
+          "title_zh": null,
+          "title_en": "There are no \"rogue\" AI agents",
+          "title_original": "There are no \"rogue\" AI agents",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://swarmcha.se/posts/openai-unctad",
+          "url": "https://eoinhiggins.substack.com/p/there-are-no-rogue-ai-agents",
           "source": "Hacker News",
           "source_name": "TechURLs",
           "site_id": "techurls",
-          "published_at": "2026-09-27T01:08:07Z"
+          "published_at": "2026-09-27T16:19:46Z"
         },
         {
-          "id": "41672068d6d2cb6cf82b7c46c233cdea9cfdc076",
-          "title": "OpenAI 代理试图暴力破解联合国网站的 API 字段 / OpenAI agents tried to bruteforce a UN website's API fields",
-          "title_zh": "OpenAI 代理试图暴力破解联合国网站的 API 字段",
-          "title_en": "OpenAI agents tried to bruteforce a UN website's API fields",
-          "title_original": "OpenAI agents tried to bruteforce a UN website's API fields",
+          "id": "09acbafe4487509079a6b2b33c03f792c5aec3aa",
+          "title": "There are no \"rogue\" AI agents",
+          "title_zh": null,
+          "title_en": "There are no \"rogue\" AI agents",
+          "title_original": "There are no \"rogue\" AI agents",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=49862299",
+          "url": "https://news.ycombinator.com/item?id=49868083",
           "source": "hackernews",
           "source_name": "NewsNow",
           "site_id": "newsnow",
-          "published_at": "2026-09-27T01:08:07Z"
+          "published_at": "2026-09-27T16:19:46Z"
         }
       ],
       "source_count": 2,
@@ -768,62 +797,62 @@
       ],
       "items": [
         {
-          "id": "a35e14083a1f3afe8e189bb0486e450b6d77499b",
-          "title": "OpenAI 代理试图暴力破解联合国网站的 API 字段 / OpenAI agents tried to bruteforce a UN website's API fields",
-          "title_zh": "OpenAI 代理试图暴力破解联合国网站的 API 字段",
-          "title_en": "OpenAI agents tried to bruteforce a UN website's API fields",
-          "title_original": "OpenAI agents tried to bruteforce a UN website's API fields",
+          "id": "cc86428ad0497d69ff7e76de416387724bbc5a3c",
+          "title": "There are no \"rogue\" AI agents",
+          "title_zh": null,
+          "title_en": "There are no \"rogue\" AI agents",
+          "title_original": "There are no \"rogue\" AI agents",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://swarmcha.se/posts/openai-unctad",
+          "url": "https://eoinhiggins.substack.com/p/there-are-no-rogue-ai-agents",
           "source": "Hacker News",
           "source_name": "TechURLs",
           "site_id": "techurls",
-          "published_at": "2026-09-27T01:08:07Z"
+          "published_at": "2026-09-27T16:19:46Z"
         },
         {
-          "id": "41672068d6d2cb6cf82b7c46c233cdea9cfdc076",
-          "title": "OpenAI 代理试图暴力破解联合国网站的 API 字段 / OpenAI agents tried to bruteforce a UN website's API fields",
-          "title_zh": "OpenAI 代理试图暴力破解联合国网站的 API 字段",
-          "title_en": "OpenAI agents tried to bruteforce a UN website's API fields",
-          "title_original": "OpenAI agents tried to bruteforce a UN website's API fields",
+          "id": "09acbafe4487509079a6b2b33c03f792c5aec3aa",
+          "title": "There are no \"rogue\" AI agents",
+          "title_zh": null,
+          "title_en": "There are no \"rogue\" AI agents",
+          "title_original": "There are no \"rogue\" AI agents",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=49862299",
+          "url": "https://news.ycombinator.com/item?id=49868083",
           "source": "hackernews",
           "source_name": "NewsNow",
           "site_id": "newsnow",
-          "published_at": "2026-09-27T01:08:07Z"
+          "published_at": "2026-09-27T16:19:46Z"
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5094,
-      "importance": 0.5094,
-      "importance_score": 0.5094,
+      "score": 0.542,
+      "importance": 0.542,
+      "importance_score": 0.542,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7977,
+        "recency": 0.9791,
         "story_heat": 0.25
       },
       "category": "watch",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-09-27T01:08:07Z",
-      "latest_at": "2026-09-27T01:08:07Z",
+      "earliest_at": "2026-09-27T16:19:46Z",
+      "latest_at": "2026-09-27T16:19:46Z",
       "primary_item": {
-        "id": "a35e14083a1f3afe8e189bb0486e450b6d77499b",
-        "title": "OpenAI 代理试图暴力破解联合国网站的 API 字段 / OpenAI agents tried to bruteforce a UN website's API fields",
-        "title_zh": "OpenAI 代理试图暴力破解联合国网站的 API 字段",
-        "title_en": "OpenAI agents tried to bruteforce a UN website's API fields",
-        "title_original": "OpenAI agents tried to bruteforce a UN website's API fields",
+        "id": "cc86428ad0497d69ff7e76de416387724bbc5a3c",
+        "title": "There are no \"rogue\" AI agents",
+        "title_zh": null,
+        "title_en": "There are no \"rogue\" AI agents",
+        "title_original": "There are no \"rogue\" AI agents",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://swarmcha.se/posts/openai-unctad",
+        "url": "https://eoinhiggins.substack.com/p/there-are-no-rogue-ai-agents",
         "source": "Hacker News",
         "source_name": "TechURLs"
       },
@@ -831,7 +860,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-27T16:53:00.611687Z"
+        "scored_at": "2026-09-27T17:56:03.505382Z"
       }
     },
     {
@@ -908,15 +937,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.53,
-      "importance": 0.53,
-      "importance_score": 0.53,
+      "score": 0.5277,
+      "importance": 0.5277,
+      "importance_score": 0.5277,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9124,
+        "recency": 0.8993,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -941,7 +970,117 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-27T16:53:00.611687Z"
+        "scored_at": "2026-09-27T17:56:03.505382Z"
+      }
+    },
+    {
+      "story_id": "story_2ea38bddd997",
+      "title": "OpenAI 代理试图暴力破解联合国网站的 API 字段 / OpenAI agents tried to bruteforce a UN website's API fields",
+      "url": "https://swarmcha.se/posts/openai-unctad",
+      "primary_url": "https://swarmcha.se/posts/openai-unctad",
+      "source": "Hacker News",
+      "source_name": "TechURLs",
+      "sources": [
+        {
+          "id": "a35e14083a1f3afe8e189bb0486e450b6d77499b",
+          "title": "OpenAI 代理试图暴力破解联合国网站的 API 字段 / OpenAI agents tried to bruteforce a UN website's API fields",
+          "title_zh": "OpenAI 代理试图暴力破解联合国网站的 API 字段",
+          "title_en": "OpenAI agents tried to bruteforce a UN website's API fields",
+          "title_original": "OpenAI agents tried to bruteforce a UN website's API fields",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://swarmcha.se/posts/openai-unctad",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-09-27T01:08:07Z"
+        },
+        {
+          "id": "41672068d6d2cb6cf82b7c46c233cdea9cfdc076",
+          "title": "OpenAI 代理试图暴力破解联合国网站的 API 字段 / OpenAI agents tried to bruteforce a UN website's API fields",
+          "title_zh": "OpenAI 代理试图暴力破解联合国网站的 API 字段",
+          "title_en": "OpenAI agents tried to bruteforce a UN website's API fields",
+          "title_original": "OpenAI agents tried to bruteforce a UN website's API fields",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=49862299",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-09-27T01:08:07Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News",
+        "hackernews"
+      ],
+      "items": [
+        {
+          "id": "a35e14083a1f3afe8e189bb0486e450b6d77499b",
+          "title": "OpenAI 代理试图暴力破解联合国网站的 API 字段 / OpenAI agents tried to bruteforce a UN website's API fields",
+          "title_zh": "OpenAI 代理试图暴力破解联合国网站的 API 字段",
+          "title_en": "OpenAI agents tried to bruteforce a UN website's API fields",
+          "title_original": "OpenAI agents tried to bruteforce a UN website's API fields",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://swarmcha.se/posts/openai-unctad",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-09-27T01:08:07Z"
+        },
+        {
+          "id": "41672068d6d2cb6cf82b7c46c233cdea9cfdc076",
+          "title": "OpenAI 代理试图暴力破解联合国网站的 API 字段 / OpenAI agents tried to bruteforce a UN website's API fields",
+          "title_zh": "OpenAI 代理试图暴力破解联合国网站的 API 字段",
+          "title_en": "OpenAI agents tried to bruteforce a UN website's API fields",
+          "title_original": "OpenAI agents tried to bruteforce a UN website's API fields",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=49862299",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-09-27T01:08:07Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5073,
+      "importance": 0.5073,
+      "importance_score": 0.5073,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.7862,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-09-27T01:08:07Z",
+      "latest_at": "2026-09-27T01:08:07Z",
+      "primary_item": {
+        "id": "a35e14083a1f3afe8e189bb0486e450b6d77499b",
+        "title": "OpenAI 代理试图暴力破解联合国网站的 API 字段 / OpenAI agents tried to bruteforce a UN website's API fields",
+        "title_zh": "OpenAI 代理试图暴力破解联合国网站的 API 字段",
+        "title_en": "OpenAI agents tried to bruteforce a UN website's API fields",
+        "title_original": "OpenAI agents tried to bruteforce a UN website's API fields",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://swarmcha.se/posts/openai-unctad",
+        "source": "Hacker News",
+        "source_name": "TechURLs"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-09-27T17:56:03.505382Z"
       }
     }
   ]
