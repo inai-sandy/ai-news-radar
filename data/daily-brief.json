@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-28T19:47:18.243738Z",
+  "generated_at": "2026-09-28T20:47:19.530833Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -48,15 +48,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8556,
-      "importance": 0.8556,
-      "importance_score": 0.8556,
+      "score": 0.8531,
+      "importance": 0.8531,
+      "importance_score": 0.8531,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.9754,
+        "recency": 0.9614,
         "story_heat": 0.0
       },
       "category": "official",
@@ -83,7 +83,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-28T20:07:10.786241Z"
+        "scored_at": "2026-09-28T21:10:06.755938Z"
       }
     },
     {
@@ -131,15 +131,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.848,
-      "importance": 0.848,
-      "importance_score": 0.848,
+      "score": 0.8454,
+      "importance": 0.8454,
+      "importance_score": 0.8454,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.9,
-        "recency": 0.9887,
+        "recency": 0.9745,
         "story_heat": 0.0
       },
       "category": "official",
@@ -166,7 +166,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-28T20:07:10.786241Z"
+        "scored_at": "2026-09-28T21:10:06.755938Z"
       }
     },
     {
@@ -214,15 +214,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8357,
-      "importance": 0.8357,
-      "importance_score": 0.8357,
+      "score": 0.8334,
+      "importance": 0.8334,
+      "importance_score": 0.8334,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.8649,
+        "recency": 0.8525,
         "story_heat": 0.0
       },
       "category": "official",
@@ -249,7 +249,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-28T20:07:10.786241Z"
+        "scored_at": "2026-09-28T21:10:06.755938Z"
       }
     },
     {
@@ -297,15 +297,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8339,
-      "importance": 0.8339,
-      "importance_score": 0.8339,
+      "score": 0.8314,
+      "importance": 0.8314,
+      "importance_score": 0.8314,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.79,
         "source_tier": 1.0,
         "ai_relevance": 1.0,
-        "recency": 0.983,
+        "recency": 0.9689,
         "story_heat": 0.0
       },
       "category": "official",
@@ -331,7 +331,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-28T20:07:10.786241Z"
+        "scored_at": "2026-09-28T21:10:06.755938Z"
       }
     },
     {
@@ -408,15 +408,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.8329,
-      "importance": 0.8329,
-      "importance_score": 0.8329,
+      "score": 0.8304,
+      "importance": 0.8304,
+      "importance_score": 0.8304,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.87,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9741,
+        "recency": 0.9601,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -443,7 +443,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-28T20:07:10.786241Z"
+        "scored_at": "2026-09-28T21:10:06.755938Z"
       }
     },
     {
@@ -549,15 +549,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.8229,
-      "importance": 0.8229,
-      "importance_score": 0.8229,
+      "score": 0.8204,
+      "importance": 0.8204,
+      "importance_score": 0.8204,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.76,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9626,
+        "recency": 0.9488,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -584,7 +584,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-28T20:07:10.786241Z"
+        "scored_at": "2026-09-28T21:10:06.755938Z"
       }
     },
     {
@@ -632,15 +632,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8216,
-      "importance": 0.8216,
-      "importance_score": 0.8216,
+      "score": 0.8195,
+      "importance": 0.8195,
+      "importance_score": 0.8195,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.8314,
+        "recency": 0.8195,
         "story_heat": 0.0
       },
       "category": "official",
@@ -667,7 +667,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-28T20:07:10.786241Z"
+        "scored_at": "2026-09-28T21:10:06.755938Z"
       }
     },
     {
@@ -715,15 +715,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8213,
-      "importance": 0.8213,
-      "importance_score": 0.8213,
+      "score": 0.8193,
+      "importance": 0.8193,
+      "importance_score": 0.8193,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.98,
-        "recency": 0.7514,
+        "recency": 0.7407,
         "story_heat": 0.0
       },
       "category": "official",
@@ -750,7 +750,90 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-28T20:07:10.786241Z"
+        "scored_at": "2026-09-28T21:10:06.755938Z"
+      }
+    },
+    {
+      "story_id": "story_aee032fed00c",
+      "title": "Self-hosted runner version enforcement date has moved",
+      "url": "https://github.blog/changelog/2026-09-28-self-hosted-runner-version-enforcement-date-has-moved",
+      "primary_url": "https://github.blog/changelog/2026-09-28-self-hosted-runner-version-enforcement-date-has-moved",
+      "source": "GitHub Changelog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "e950a19f5573ca6db9c8090f6edc109741d7a753",
+          "title": "Self-hosted runner version enforcement date has moved",
+          "title_zh": null,
+          "title_en": "Self-hosted runner version enforcement date has moved",
+          "title_original": "Self-hosted runner version enforcement date has moved",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://github.blog/changelog/2026-09-28-self-hosted-runner-version-enforcement-date-has-moved",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-09-28T19:22:46Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "GitHub Changelog"
+      ],
+      "items": [
+        {
+          "id": "e950a19f5573ca6db9c8090f6edc109741d7a753",
+          "title": "Self-hosted runner version enforcement date has moved",
+          "title_zh": null,
+          "title_en": "Self-hosted runner version enforcement date has moved",
+          "title_original": "Self-hosted runner version enforcement date has moved",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://github.blog/changelog/2026-09-28-self-hosted-runner-version-enforcement-date-has-moved",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-09-28T19:22:46Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8404,
+      "importance": 0.8404,
+      "importance_score": 0.8404,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.87,
+        "recency": 0.9799,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-28T19:22:46Z",
+      "latest_at": "2026-09-28T19:22:46Z",
+      "primary_item": {
+        "id": "e950a19f5573ca6db9c8090f6edc109741d7a753",
+        "title": "Self-hosted runner version enforcement date has moved",
+        "title_zh": null,
+        "title_en": "Self-hosted runner version enforcement date has moved",
+        "title_original": "Self-hosted runner version enforcement date has moved",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://github.blog/changelog/2026-09-28-self-hosted-runner-version-enforcement-date-has-moved",
+        "source": "GitHub Changelog",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-09-28T21:10:06.755938Z"
       }
     },
     {
@@ -798,15 +881,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7989,
-      "importance": 0.7989,
-      "importance_score": 0.7989,
+      "score": 0.7964,
+      "importance": 0.7964,
+      "importance_score": 0.7964,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.83,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9906,
+        "recency": 0.9764,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -832,7 +915,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-28T20:07:10.786241Z"
+        "scored_at": "2026-09-28T21:10:06.755938Z"
       }
     },
     {
@@ -880,15 +963,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7943,
-      "importance": 0.7943,
-      "importance_score": 0.7943,
+      "score": 0.7918,
+      "importance": 0.7918,
+      "importance_score": 0.7918,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.82,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9819,
+        "recency": 0.9678,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -914,89 +997,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-28T20:07:10.786241Z"
-      }
-    },
-    {
-      "story_id": "story_c7ce35660cda",
-      "title": "Anthropic 发布 Claude Sonnet 5.5，基准接近 Opus 5.5 且单任务成本最多降 30% / Anthropic's Claude Sonnet 5.5 nearly matches Opus 5.5 on benchmarks while costing up to 30 percent less per task",
-      "url": "https://the-decoder.com/anthropics-claude-sonnet-5-5-nearly-matches-opus-5-5-on-benchmarks-while-costing-up-to-30-percent-less-per-task",
-      "primary_url": "https://the-decoder.com/anthropics-claude-sonnet-5-5-nearly-matches-opus-5-5-on-benchmarks-while-costing-up-to-30-percent-less-per-task",
-      "source": "The Decoder：AI News（RSS）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "d7a0e355965d8e4311112be246758dfe00a3051a",
-          "title": "Anthropic 发布 Claude Sonnet 5.5，基准接近 Opus 5.5 且单任务成本最多降 30% / Anthropic's Claude Sonnet 5.5 nearly matches Opus 5.5 on benchmarks while costing up to 30 percent less per task",
-          "title_zh": "Anthropic 发布 Claude Sonnet 5.5，基准接近 Opus 5.5 且单任务成本最多降 30%",
-          "title_en": "Anthropic's Claude Sonnet 5.5 nearly matches Opus 5.5 on benchmarks while costing up to 30 percent less per task",
-          "title_original": "Anthropic's Claude Sonnet 5.5 nearly matches Opus 5.5 on benchmarks while costing up to 30 percent less per task",
-          "summary": "Anthropic 发布 Claude 5.5 系列第二款模型 Claude Sonnet 5.5，输出速度提升超过 30%，因单任务消耗 token 更少，有效成本最多降低 30%，多项基准接近 Opus 5.5。",
-          "recommend_reason_zh": null,
-          "url": "https://the-decoder.com/anthropics-claude-sonnet-5-5-nearly-matches-opus-5-5-on-benchmarks-while-costing-up-to-30-percent-less-per-task",
-          "source": "The Decoder：AI News（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-28T18:02:10Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "The Decoder：AI News（RSS）"
-      ],
-      "items": [
-        {
-          "id": "d7a0e355965d8e4311112be246758dfe00a3051a",
-          "title": "Anthropic 发布 Claude Sonnet 5.5，基准接近 Opus 5.5 且单任务成本最多降 30% / Anthropic's Claude Sonnet 5.5 nearly matches Opus 5.5 on benchmarks while costing up to 30 percent less per task",
-          "title_zh": "Anthropic 发布 Claude Sonnet 5.5，基准接近 Opus 5.5 且单任务成本最多降 30%",
-          "title_en": "Anthropic's Claude Sonnet 5.5 nearly matches Opus 5.5 on benchmarks while costing up to 30 percent less per task",
-          "title_original": "Anthropic's Claude Sonnet 5.5 nearly matches Opus 5.5 on benchmarks while costing up to 30 percent less per task",
-          "summary": "Anthropic 发布 Claude 5.5 系列第二款模型 Claude Sonnet 5.5，输出速度提升超过 30%，因单任务消耗 token 更少，有效成本最多降低 30%，多项基准接近 Opus 5.5。",
-          "recommend_reason_zh": null,
-          "url": "https://the-decoder.com/anthropics-claude-sonnet-5-5-nearly-matches-opus-5-5-on-benchmarks-while-costing-up-to-30-percent-less-per-task",
-          "source": "The Decoder：AI News（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-28T18:02:10Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7901,
-      "importance": 0.7901,
-      "importance_score": 0.7901,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.81,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.975,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-28T18:02:10Z",
-      "latest_at": "2026-09-28T18:02:10Z",
-      "primary_item": {
-        "id": "d7a0e355965d8e4311112be246758dfe00a3051a",
-        "title": "Anthropic 发布 Claude Sonnet 5.5，基准接近 Opus 5.5 且单任务成本最多降 30% / Anthropic's Claude Sonnet 5.5 nearly matches Opus 5.5 on benchmarks while costing up to 30 percent less per task",
-        "title_zh": "Anthropic 发布 Claude Sonnet 5.5，基准接近 Opus 5.5 且单任务成本最多降 30%",
-        "title_en": "Anthropic's Claude Sonnet 5.5 nearly matches Opus 5.5 on benchmarks while costing up to 30 percent less per task",
-        "title_original": "Anthropic's Claude Sonnet 5.5 nearly matches Opus 5.5 on benchmarks while costing up to 30 percent less per task",
-        "summary": "Anthropic 发布 Claude 5.5 系列第二款模型 Claude Sonnet 5.5，输出速度提升超过 30%，因单任务消耗 token 更少，有效成本最多降低 30%，多项基准接近 Opus 5.5。",
-        "recommend_reason_zh": null,
-        "url": "https://the-decoder.com/anthropics-claude-sonnet-5-5-nearly-matches-opus-5-5-on-benchmarks-while-costing-up-to-30-percent-less-per-task",
-        "source": "The Decoder：AI News（RSS）",
-        "source_name": "AI HOT"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-09-28T20:07:10.786241Z"
+        "scored_at": "2026-09-28T21:10:06.755938Z"
       }
     },
     {
@@ -1044,15 +1045,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7901,
-      "importance": 0.7901,
-      "importance_score": 0.7901,
+      "score": 0.7879,
+      "importance": 0.7879,
+      "importance_score": 0.7879,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.88,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8583,
+        "recency": 0.846,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1078,7 +1079,89 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-28T20:07:10.786241Z"
+        "scored_at": "2026-09-28T21:10:06.755938Z"
+      }
+    },
+    {
+      "story_id": "story_c7ce35660cda",
+      "title": "Anthropic 发布 Claude Sonnet 5.5，基准接近 Opus 5.5 且单任务成本最多降 30% / Anthropic's Claude Sonnet 5.5 nearly matches Opus 5.5 on benchmarks while costing up to 30 percent less per task",
+      "url": "https://the-decoder.com/anthropics-claude-sonnet-5-5-nearly-matches-opus-5-5-on-benchmarks-while-costing-up-to-30-percent-less-per-task",
+      "primary_url": "https://the-decoder.com/anthropics-claude-sonnet-5-5-nearly-matches-opus-5-5-on-benchmarks-while-costing-up-to-30-percent-less-per-task",
+      "source": "The Decoder：AI News（RSS）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "d7a0e355965d8e4311112be246758dfe00a3051a",
+          "title": "Anthropic 发布 Claude Sonnet 5.5，基准接近 Opus 5.5 且单任务成本最多降 30% / Anthropic's Claude Sonnet 5.5 nearly matches Opus 5.5 on benchmarks while costing up to 30 percent less per task",
+          "title_zh": "Anthropic 发布 Claude Sonnet 5.5，基准接近 Opus 5.5 且单任务成本最多降 30%",
+          "title_en": "Anthropic's Claude Sonnet 5.5 nearly matches Opus 5.5 on benchmarks while costing up to 30 percent less per task",
+          "title_original": "Anthropic's Claude Sonnet 5.5 nearly matches Opus 5.5 on benchmarks while costing up to 30 percent less per task",
+          "summary": "Anthropic 发布 Claude 5.5 系列第二款模型 Claude Sonnet 5.5，输出速度提升超过 30%，因单任务消耗 token 更少，有效成本最多降低 30%，多项基准接近 Opus 5.5。",
+          "recommend_reason_zh": null,
+          "url": "https://the-decoder.com/anthropics-claude-sonnet-5-5-nearly-matches-opus-5-5-on-benchmarks-while-costing-up-to-30-percent-less-per-task",
+          "source": "The Decoder：AI News（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-28T18:02:10Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "The Decoder：AI News（RSS）"
+      ],
+      "items": [
+        {
+          "id": "d7a0e355965d8e4311112be246758dfe00a3051a",
+          "title": "Anthropic 发布 Claude Sonnet 5.5，基准接近 Opus 5.5 且单任务成本最多降 30% / Anthropic's Claude Sonnet 5.5 nearly matches Opus 5.5 on benchmarks while costing up to 30 percent less per task",
+          "title_zh": "Anthropic 发布 Claude Sonnet 5.5，基准接近 Opus 5.5 且单任务成本最多降 30%",
+          "title_en": "Anthropic's Claude Sonnet 5.5 nearly matches Opus 5.5 on benchmarks while costing up to 30 percent less per task",
+          "title_original": "Anthropic's Claude Sonnet 5.5 nearly matches Opus 5.5 on benchmarks while costing up to 30 percent less per task",
+          "summary": "Anthropic 发布 Claude 5.5 系列第二款模型 Claude Sonnet 5.5，输出速度提升超过 30%，因单任务消耗 token 更少，有效成本最多降低 30%，多项基准接近 Opus 5.5。",
+          "recommend_reason_zh": null,
+          "url": "https://the-decoder.com/anthropics-claude-sonnet-5-5-nearly-matches-opus-5-5-on-benchmarks-while-costing-up-to-30-percent-less-per-task",
+          "source": "The Decoder：AI News（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-28T18:02:10Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7876,
+      "importance": 0.7876,
+      "importance_score": 0.7876,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.81,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.961,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-28T18:02:10Z",
+      "latest_at": "2026-09-28T18:02:10Z",
+      "primary_item": {
+        "id": "d7a0e355965d8e4311112be246758dfe00a3051a",
+        "title": "Anthropic 发布 Claude Sonnet 5.5，基准接近 Opus 5.5 且单任务成本最多降 30% / Anthropic's Claude Sonnet 5.5 nearly matches Opus 5.5 on benchmarks while costing up to 30 percent less per task",
+        "title_zh": "Anthropic 发布 Claude Sonnet 5.5，基准接近 Opus 5.5 且单任务成本最多降 30%",
+        "title_en": "Anthropic's Claude Sonnet 5.5 nearly matches Opus 5.5 on benchmarks while costing up to 30 percent less per task",
+        "title_original": "Anthropic's Claude Sonnet 5.5 nearly matches Opus 5.5 on benchmarks while costing up to 30 percent less per task",
+        "summary": "Anthropic 发布 Claude 5.5 系列第二款模型 Claude Sonnet 5.5，输出速度提升超过 30%，因单任务消耗 token 更少，有效成本最多降低 30%，多项基准接近 Opus 5.5。",
+        "recommend_reason_zh": null,
+        "url": "https://the-decoder.com/anthropics-claude-sonnet-5-5-nearly-matches-opus-5-5-on-benchmarks-while-costing-up-to-30-percent-less-per-task",
+        "source": "The Decoder：AI News（RSS）",
+        "source_name": "AI HOT"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-09-28T21:10:06.755938Z"
       }
     },
     {
@@ -1126,15 +1209,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7842,
-      "importance": 0.7842,
-      "importance_score": 0.7842,
+      "score": 0.7817,
+      "importance": 0.7817,
+      "importance_score": 0.7817,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.79,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9755,
+        "recency": 0.9615,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1160,7 +1243,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-28T20:07:10.786241Z"
+        "scored_at": "2026-09-28T21:10:06.755938Z"
       }
     },
     {
@@ -1208,15 +1291,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7827,
-      "importance": 0.7827,
-      "importance_score": 0.7827,
+      "score": 0.7805,
+      "importance": 0.7805,
+      "importance_score": 0.7805,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.88,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.817,
+        "recency": 0.8052,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1242,7 +1325,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-28T20:07:10.786241Z"
+        "scored_at": "2026-09-28T21:10:06.755938Z"
       }
     },
     {
@@ -1290,15 +1373,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7778,
-      "importance": 0.7778,
-      "importance_score": 0.7778,
+      "score": 0.7753,
+      "importance": 0.7753,
+      "importance_score": 0.7753,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.78,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9567,
+        "recency": 0.943,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1324,7 +1407,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-28T20:07:10.786241Z"
+        "scored_at": "2026-09-28T21:10:06.755938Z"
       }
     },
     {
@@ -1372,15 +1455,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7766,
-      "importance": 0.7766,
-      "importance_score": 0.7766,
+      "score": 0.774,
+      "importance": 0.774,
+      "importance_score": 0.774,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.75,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.9857,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1406,7 +1489,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-28T20:07:10.786241Z"
+        "scored_at": "2026-09-28T21:10:06.755938Z"
       }
     },
     {
@@ -1483,15 +1566,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.8055,
-      "importance": 0.8055,
-      "importance_score": 0.8055,
+      "score": 0.8033,
+      "importance": 0.8033,
+      "importance_score": 0.8033,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.86,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8381,
+        "recency": 0.8261,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -1518,7 +1601,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-28T20:07:10.786241Z"
+        "scored_at": "2026-09-28T21:10:06.755938Z"
       }
     },
     {
@@ -1566,15 +1649,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7754,
-      "importance": 0.7754,
-      "importance_score": 0.7754,
+      "score": 0.7728,
+      "importance": 0.7728,
+      "importance_score": 0.7728,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.76,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9764,
+        "recency": 0.9624,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1600,7 +1683,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-28T20:07:10.786241Z"
+        "scored_at": "2026-09-28T21:10:06.755938Z"
       }
     },
     {
@@ -1648,15 +1731,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7729,
-      "importance": 0.7729,
-      "importance_score": 0.7729,
+      "score": 0.7707,
+      "importance": 0.7707,
+      "importance_score": 0.7707,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.82,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8628,
+        "recency": 0.8504,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1682,89 +1765,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-28T20:07:10.786241Z"
-      }
-    },
-    {
-      "story_id": "story_8b8dccd9434b",
-      "title": "Claude Opus 5.5 (High) 进入 Agent Arena 第 2 名，成本比 Opus 5 (Max) 低 56% / Claude Opus 5.5 (High) from @AnthropicAI just entered Agent Arena at #2, with a net improvement score of +12.15%. Only Fable 5.1 (Max) ra...",
-      "url": "https://x.com/arena/status/2104617283679379704",
-      "primary_url": "https://x.com/arena/status/2104617283679379704",
-      "source": "X：Arena (@arena)",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "673fe1a9253e490b85a9a49471ec1e3e46a3c345",
-          "title": "Claude Opus 5.5 (High) 进入 Agent Arena 第 2 名，成本比 Opus 5 (Max) 低 56% / Claude Opus 5.5 (High) from @AnthropicAI just entered Agent Arena at #2, with a net improvement score of +12.15%. Only Fable 5.1 (Max) ra...",
-          "title_zh": "Claude Opus 5.5 (High) 进入 Agent Arena 第 2 名，成本比 Opus 5 (Max) 低 56%",
-          "title_en": "Claude Opus 5.5 (High) from @AnthropicAI just entered Agent Arena at #2, with a net improvement score of +12.15%. Only Fable 5.1 (Max) ra...",
-          "title_original": "Claude Opus 5.5 (High) from @AnthropicAI just entered Agent Arena at #2, with a net improvement score of +12.15%. Only Fable 5.1 (Max) ra...",
-          "summary": "Arena 公布 Claude Opus 5.5 (High) 进入 Agent Arena 排名第 2，净改进分 +12.15%，仅次于 Fable 5.1 (Max)。",
-          "recommend_reason_zh": null,
-          "url": "https://x.com/arena/status/2104617283679379704",
-          "source": "X：Arena (@arena)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-28T17:00:36Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "X：Arena (@arena)"
-      ],
-      "items": [
-        {
-          "id": "673fe1a9253e490b85a9a49471ec1e3e46a3c345",
-          "title": "Claude Opus 5.5 (High) 进入 Agent Arena 第 2 名，成本比 Opus 5 (Max) 低 56% / Claude Opus 5.5 (High) from @AnthropicAI just entered Agent Arena at #2, with a net improvement score of +12.15%. Only Fable 5.1 (Max) ra...",
-          "title_zh": "Claude Opus 5.5 (High) 进入 Agent Arena 第 2 名，成本比 Opus 5 (Max) 低 56%",
-          "title_en": "Claude Opus 5.5 (High) from @AnthropicAI just entered Agent Arena at #2, with a net improvement score of +12.15%. Only Fable 5.1 (Max) ra...",
-          "title_original": "Claude Opus 5.5 (High) from @AnthropicAI just entered Agent Arena at #2, with a net improvement score of +12.15%. Only Fable 5.1 (Max) ra...",
-          "summary": "Arena 公布 Claude Opus 5.5 (High) 进入 Agent Arena 排名第 2，净改进分 +12.15%，仅次于 Fable 5.1 (Max)。",
-          "recommend_reason_zh": null,
-          "url": "https://x.com/arena/status/2104617283679379704",
-          "source": "X：Arena (@arena)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-28T17:00:36Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7695,
-      "importance": 0.7695,
-      "importance_score": 0.7695,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.75,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.9607,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-28T17:00:36Z",
-      "latest_at": "2026-09-28T17:00:36Z",
-      "primary_item": {
-        "id": "673fe1a9253e490b85a9a49471ec1e3e46a3c345",
-        "title": "Claude Opus 5.5 (High) 进入 Agent Arena 第 2 名，成本比 Opus 5 (Max) 低 56% / Claude Opus 5.5 (High) from @AnthropicAI just entered Agent Arena at #2, with a net improvement score of +12.15%. Only Fable 5.1 (Max) ra...",
-        "title_zh": "Claude Opus 5.5 (High) 进入 Agent Arena 第 2 名，成本比 Opus 5 (Max) 低 56%",
-        "title_en": "Claude Opus 5.5 (High) from @AnthropicAI just entered Agent Arena at #2, with a net improvement score of +12.15%. Only Fable 5.1 (Max) ra...",
-        "title_original": "Claude Opus 5.5 (High) from @AnthropicAI just entered Agent Arena at #2, with a net improvement score of +12.15%. Only Fable 5.1 (Max) ra...",
-        "summary": "Arena 公布 Claude Opus 5.5 (High) 进入 Agent Arena 排名第 2，净改进分 +12.15%，仅次于 Fable 5.1 (Max)。",
-        "recommend_reason_zh": null,
-        "url": "https://x.com/arena/status/2104617283679379704",
-        "source": "X：Arena (@arena)",
-        "source_name": "AI HOT"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-09-28T20:07:10.786241Z"
+        "scored_at": "2026-09-28T21:10:06.755938Z"
       }
     }
   ]
