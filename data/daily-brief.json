@@ -1,8 +1,173 @@
 {
-  "generated_at": "2026-09-28T08:47:24.222577Z",
+  "generated_at": "2026-09-28T09:47:18.611432Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
+    {
+      "story_id": "story_299644506077",
+      "title": "Holo4：为多面手计算机使用代理提供支持 / Holo4: powering generalist computer-use agents",
+      "url": "https://huggingface.co/blog/Hcompany/holo4",
+      "primary_url": "https://huggingface.co/blog/Hcompany/holo4",
+      "source": "Hugging Face Blog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "d71f45cd9039539f9fe378c80828a34f54cedaf4",
+          "title": "Holo4：为多面手计算机使用代理提供支持 / Holo4: powering generalist computer-use agents",
+          "title_zh": "Holo4：为多面手计算机使用代理提供支持",
+          "title_en": "Holo4: powering generalist computer-use agents",
+          "title_original": "Holo4: powering generalist computer-use agents",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://huggingface.co/blog/Hcompany/holo4",
+          "source": "Hugging Face Blog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-09-28T09:44:05Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Hugging Face Blog"
+      ],
+      "items": [
+        {
+          "id": "d71f45cd9039539f9fe378c80828a34f54cedaf4",
+          "title": "Holo4：为多面手计算机使用代理提供支持 / Holo4: powering generalist computer-use agents",
+          "title_zh": "Holo4：为多面手计算机使用代理提供支持",
+          "title_en": "Holo4: powering generalist computer-use agents",
+          "title_original": "Holo4: powering generalist computer-use agents",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://huggingface.co/blog/Hcompany/holo4",
+          "source": "Hugging Face Blog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-09-28T09:44:05Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8599,
+      "importance": 0.8599,
+      "importance_score": 0.8599,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.95,
+        "recency": 0.9992,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-28T09:44:05Z",
+      "latest_at": "2026-09-28T09:44:05Z",
+      "primary_item": {
+        "id": "d71f45cd9039539f9fe378c80828a34f54cedaf4",
+        "title": "Holo4：为多面手计算机使用代理提供支持 / Holo4: powering generalist computer-use agents",
+        "title_zh": "Holo4：为多面手计算机使用代理提供支持",
+        "title_en": "Holo4: powering generalist computer-use agents",
+        "title_original": "Holo4: powering generalist computer-use agents",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://huggingface.co/blog/Hcompany/holo4",
+        "source": "Hugging Face Blog",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-09-28T09:48:02.936650Z"
+      }
+    },
+    {
+      "story_id": "story_3622c48a5055",
+      "title": "英伟达联合超100家伙伴推出开放代理安全平台 / Today, with over 100 industry partners, we introduced the NVIDIA Open Agent Safety Platform, bringing together OpenShell and Sentry.",
+      "url": "https://x.com/JensenHuang/status/2104499465055023424",
+      "primary_url": "https://x.com/JensenHuang/status/2104499465055023424",
+      "source": "X：Jensen Huang (@JensenHuang)",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "313d612771791ee3e9d2f3e1eb7618cb5ea71fc5",
+          "title": "英伟达联合超100家伙伴推出开放代理安全平台 / Today, with over 100 industry partners, we introduced the NVIDIA Open Agent Safety Platform, bringing together OpenShell and Sentry.",
+          "title_zh": "英伟达联合超100家伙伴推出开放代理安全平台",
+          "title_en": "Today, with over 100 industry partners, we introduced the NVIDIA Open Agent Safety Platform, bringing together OpenShell and Sentry.",
+          "title_original": "Today, with over 100 industry partners, we introduced the NVIDIA Open Agent Safety Platform, bringing together OpenShell and Sentry.",
+          "summary": "2026年9月28日，黄仁勋在X平台宣布，英伟达联合超过100家行业伙伴，推出NVIDIA Open Agent Safety Platform，整合OpenShell与Sentry两大组件。该平台旨在构建安全代理系统的信任层，强调“安全是信任的基础”，并称其为“AI经济的基石”。",
+          "recommend_reason_zh": null,
+          "url": "https://x.com/JensenHuang/status/2104499465055023424",
+          "source": "X：Jensen Huang (@JensenHuang)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-28T09:12:26Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "X：Jensen Huang (@JensenHuang)"
+      ],
+      "items": [
+        {
+          "id": "313d612771791ee3e9d2f3e1eb7618cb5ea71fc5",
+          "title": "英伟达联合超100家伙伴推出开放代理安全平台 / Today, with over 100 industry partners, we introduced the NVIDIA Open Agent Safety Platform, bringing together OpenShell and Sentry.",
+          "title_zh": "英伟达联合超100家伙伴推出开放代理安全平台",
+          "title_en": "Today, with over 100 industry partners, we introduced the NVIDIA Open Agent Safety Platform, bringing together OpenShell and Sentry.",
+          "title_original": "Today, with over 100 industry partners, we introduced the NVIDIA Open Agent Safety Platform, bringing together OpenShell and Sentry.",
+          "summary": "2026年9月28日，黄仁勋在X平台宣布，英伟达联合超过100家行业伙伴，推出NVIDIA Open Agent Safety Platform，整合OpenShell与Sentry两大组件。该平台旨在构建安全代理系统的信任层，强调“安全是信任的基础”，并称其为“AI经济的基石”。",
+          "recommend_reason_zh": null,
+          "url": "https://x.com/JensenHuang/status/2104499465055023424",
+          "source": "X：Jensen Huang (@JensenHuang)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-28T09:12:26Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8141,
+      "importance": 0.8141,
+      "importance_score": 0.8141,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.88,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9916,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-28T09:12:26Z",
+      "latest_at": "2026-09-28T09:12:26Z",
+      "primary_item": {
+        "id": "313d612771791ee3e9d2f3e1eb7618cb5ea71fc5",
+        "title": "英伟达联合超100家伙伴推出开放代理安全平台 / Today, with over 100 industry partners, we introduced the NVIDIA Open Agent Safety Platform, bringing together OpenShell and Sentry.",
+        "title_zh": "英伟达联合超100家伙伴推出开放代理安全平台",
+        "title_en": "Today, with over 100 industry partners, we introduced the NVIDIA Open Agent Safety Platform, bringing together OpenShell and Sentry.",
+        "title_original": "Today, with over 100 industry partners, we introduced the NVIDIA Open Agent Safety Platform, bringing together OpenShell and Sentry.",
+        "summary": "2026年9月28日，黄仁勋在X平台宣布，英伟达联合超过100家行业伙伴，推出NVIDIA Open Agent Safety Platform，整合OpenShell与Sentry两大组件。该平台旨在构建安全代理系统的信任层，强调“安全是信任的基础”，并称其为“AI经济的基石”。",
+        "recommend_reason_zh": null,
+        "url": "https://x.com/JensenHuang/status/2104499465055023424",
+        "source": "X：Jensen Huang (@JensenHuang)",
+        "source_name": "AI HOT"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-09-28T09:48:02.936650Z"
+      }
+    },
     {
       "story_id": "story_2a0ca0e1dfae",
       "title": "Anthropic CEO Dario Amodei：DeepSeek并未削弱芯片出口管制必要性 / On DeepSeek and Export Controls",
@@ -48,15 +213,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.808,
-      "importance": 0.808,
-      "importance_score": 0.808,
+      "score": 0.8055,
+      "importance": 0.8055,
+      "importance_score": 0.8055,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.88,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9576,
+        "recency": 0.9439,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -82,7 +247,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-28T08:48:02.256610Z"
+        "scored_at": "2026-09-28T09:48:02.936650Z"
       }
     },
     {
@@ -130,15 +295,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8019,
-      "importance": 0.8019,
-      "importance_score": 0.8019,
+      "score": 0.7994,
+      "importance": 0.7994,
+      "importance_score": 0.7994,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.85,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9741,
+        "recency": 0.9602,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -164,7 +329,89 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-28T08:48:02.256610Z"
+        "scored_at": "2026-09-28T09:48:02.936650Z"
+      }
+    },
+    {
+      "story_id": "story_e4e54fd17b80",
+      "title": "英伟达发布AI智能体安全平台，含实时隔离异常智能体的Sentry系统",
+      "url": "https://www.ithome.com/1/007/937.htm",
+      "primary_url": "https://www.ithome.com/1/007/937.htm",
+      "source": "IT之家（RSS）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "46fc85e0b9e4a6b82565020330053d9a85eff4f2",
+          "title": "英伟达发布AI智能体安全平台，含实时隔离异常智能体的Sentry系统",
+          "title_zh": "英伟达发布AI智能体安全平台，含实时隔离异常智能体的Sentry系统",
+          "title_en": null,
+          "title_original": "英伟达发布AI智能体安全平台，含实时隔离异常智能体的Sentry系统",
+          "summary": "英伟达发布开放式AI智能体安全平台，包含OpenShell安全软件与NVIDIA Sentry看门狗系统。OpenShell可对运行在CPU的AI智能体设定边界，支持开源/闭源模型及第三方硬件。Sentry运行于BlueField-4 DPU上，能在芯片层面独立监控智能体行为，若检测到突破限制的行为，可在毫秒内将其隔离并停止运行。目前Anthropic、SpaceX等公司已与其合作采用该平台。",
+          "recommend_reason_zh": null,
+          "url": "https://www.ithome.com/1/007/937.htm",
+          "source": "IT之家（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-28T09:33:59Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "IT之家（RSS）"
+      ],
+      "items": [
+        {
+          "id": "46fc85e0b9e4a6b82565020330053d9a85eff4f2",
+          "title": "英伟达发布AI智能体安全平台，含实时隔离异常智能体的Sentry系统",
+          "title_zh": "英伟达发布AI智能体安全平台，含实时隔离异常智能体的Sentry系统",
+          "title_en": null,
+          "title_original": "英伟达发布AI智能体安全平台，含实时隔离异常智能体的Sentry系统",
+          "summary": "英伟达发布开放式AI智能体安全平台，包含OpenShell安全软件与NVIDIA Sentry看门狗系统。OpenShell可对运行在CPU的AI智能体设定边界，支持开源/闭源模型及第三方硬件。Sentry运行于BlueField-4 DPU上，能在芯片层面独立监控智能体行为，若检测到突破限制的行为，可在毫秒内将其隔离并停止运行。目前Anthropic、SpaceX等公司已与其合作采用该平台。",
+          "recommend_reason_zh": null,
+          "url": "https://www.ithome.com/1/007/937.htm",
+          "source": "IT之家（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-28T09:33:59Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.797,
+      "importance": 0.797,
+      "importance_score": 0.797,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.82,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9968,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-28T09:33:59Z",
+      "latest_at": "2026-09-28T09:33:59Z",
+      "primary_item": {
+        "id": "46fc85e0b9e4a6b82565020330053d9a85eff4f2",
+        "title": "英伟达发布AI智能体安全平台，含实时隔离异常智能体的Sentry系统",
+        "title_zh": "英伟达发布AI智能体安全平台，含实时隔离异常智能体的Sentry系统",
+        "title_en": null,
+        "title_original": "英伟达发布AI智能体安全平台，含实时隔离异常智能体的Sentry系统",
+        "summary": "英伟达发布开放式AI智能体安全平台，包含OpenShell安全软件与NVIDIA Sentry看门狗系统。OpenShell可对运行在CPU的AI智能体设定边界，支持开源/闭源模型及第三方硬件。Sentry运行于BlueField-4 DPU上，能在芯片层面独立监控智能体行为，若检测到突破限制的行为，可在毫秒内将其隔离并停止运行。目前Anthropic、SpaceX等公司已与其合作采用该平台。",
+        "recommend_reason_zh": null,
+        "url": "https://www.ithome.com/1/007/937.htm",
+        "source": "IT之家（RSS）",
+        "source_name": "AI HOT"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-09-28T09:48:02.936650Z"
       }
     },
     {
@@ -212,15 +459,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.79,
-      "importance": 0.79,
-      "importance_score": 0.79,
+      "score": 0.7875,
+      "importance": 0.7875,
+      "importance_score": 0.7875,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.82,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9576,
+        "recency": 0.9439,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -246,7 +493,89 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-28T08:48:02.256610Z"
+        "scored_at": "2026-09-28T09:48:02.936650Z"
+      }
+    },
+    {
+      "story_id": "story_bdc6459bc2b0",
+      "title": "MIT利用AI算法优化RNA疫苗配方，实现室温稳定保存一年 / New formulation helps RNA vaccines withstand high temperatures",
+      "url": "https://news.mit.edu/2026/new-formulation-helps-rna-vaccines-withstand-high-temperatures-0928",
+      "primary_url": "https://news.mit.edu/2026/new-formulation-helps-rna-vaccines-withstand-high-temperatures-0928",
+      "source": "MIT News（RSS）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "85b238f8cd19489978004e283867c2ca5dc5d1de",
+          "title": "MIT利用AI算法优化RNA疫苗配方，实现室温稳定保存一年 / New formulation helps RNA vaccines withstand high temperatures",
+          "title_zh": "MIT利用AI算法优化RNA疫苗配方，实现室温稳定保存一年",
+          "title_en": "New formulation helps RNA vaccines withstand high temperatures",
+          "title_original": "New formulation helps RNA vaccines withstand high temperatures",
+          "summary": "MIT研究人员借助AI算法优化脂质纳米颗粒（LNP）的辅料配比，成功开发出耐热性更强的RNA疫苗配方。该配方使疫苗在室温下可稳定保存一年，或在37摄氏度下保存两个月，且在小鼠实验中产生的免疫反应与Moderna类似。AI算法通过少量实验数据快速收敛至最优解，将原本需数月的筛选过程缩短至几周。相关成果发表于《Nature Biotechnology》。",
+          "recommend_reason_zh": null,
+          "url": "https://news.mit.edu/2026/new-formulation-helps-rna-vaccines-withstand-high-temperatures-0928",
+          "source": "MIT News（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-28T09:00:00Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "MIT News（RSS）"
+      ],
+      "items": [
+        {
+          "id": "85b238f8cd19489978004e283867c2ca5dc5d1de",
+          "title": "MIT利用AI算法优化RNA疫苗配方，实现室温稳定保存一年 / New formulation helps RNA vaccines withstand high temperatures",
+          "title_zh": "MIT利用AI算法优化RNA疫苗配方，实现室温稳定保存一年",
+          "title_en": "New formulation helps RNA vaccines withstand high temperatures",
+          "title_original": "New formulation helps RNA vaccines withstand high temperatures",
+          "summary": "MIT研究人员借助AI算法优化脂质纳米颗粒（LNP）的辅料配比，成功开发出耐热性更强的RNA疫苗配方。该配方使疫苗在室温下可稳定保存一年，或在37摄氏度下保存两个月，且在小鼠实验中产生的免疫反应与Moderna类似。AI算法通过少量实验数据快速收敛至最优解，将原本需数月的筛选过程缩短至几周。相关成果发表于《Nature Biotechnology》。",
+          "recommend_reason_zh": null,
+          "url": "https://news.mit.edu/2026/new-formulation-helps-rna-vaccines-withstand-high-temperatures-0928",
+          "source": "MIT News（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-28T09:00:00Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7836,
+      "importance": 0.7836,
+      "importance_score": 0.7836,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.78,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9887,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-28T09:00:00Z",
+      "latest_at": "2026-09-28T09:00:00Z",
+      "primary_item": {
+        "id": "85b238f8cd19489978004e283867c2ca5dc5d1de",
+        "title": "MIT利用AI算法优化RNA疫苗配方，实现室温稳定保存一年 / New formulation helps RNA vaccines withstand high temperatures",
+        "title_zh": "MIT利用AI算法优化RNA疫苗配方，实现室温稳定保存一年",
+        "title_en": "New formulation helps RNA vaccines withstand high temperatures",
+        "title_original": "New formulation helps RNA vaccines withstand high temperatures",
+        "summary": "MIT研究人员借助AI算法优化脂质纳米颗粒（LNP）的辅料配比，成功开发出耐热性更强的RNA疫苗配方。该配方使疫苗在室温下可稳定保存一年，或在37摄氏度下保存两个月，且在小鼠实验中产生的免疫反应与Moderna类似。AI算法通过少量实验数据快速收敛至最优解，将原本需数月的筛选过程缩短至几周。相关成果发表于《Nature Biotechnology》。",
+        "recommend_reason_zh": null,
+        "url": "https://news.mit.edu/2026/new-formulation-helps-rna-vaccines-withstand-high-temperatures-0928",
+        "source": "MIT News（RSS）",
+        "source_name": "AI HOT"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-09-28T09:48:02.936650Z"
       }
     },
     {
@@ -294,15 +623,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.782,
-      "importance": 0.782,
-      "importance_score": 0.782,
+      "score": 0.7794,
+      "importance": 0.7794,
+      "importance_score": 0.7794,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.78,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9798,
+        "recency": 0.9658,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -328,7 +657,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-28T08:48:02.256610Z"
+        "scored_at": "2026-09-28T09:48:02.936650Z"
       }
     },
     {
@@ -376,15 +705,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.778,
-      "importance": 0.778,
-      "importance_score": 0.778,
+      "score": 0.7755,
+      "importance": 0.7755,
+      "importance_score": 0.7755,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.78,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9576,
+        "recency": 0.9439,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -410,89 +739,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-28T08:48:02.256610Z"
-      }
-    },
-    {
-      "story_id": "story_1d61061d4469",
-      "title": "Meta 推出 Hologram 拟真虚拟形象，秋季上线雷朋眼镜与 Quest 头显",
-      "url": "https://www.ithome.com/1/007/767.htm",
-      "primary_url": "https://www.ithome.com/1/007/767.htm",
-      "source": "IT之家（RSS）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "b8dac7905383a680b9929d7f3f4afc92b76cb666",
-          "title": "Meta 推出 Hologram 拟真虚拟形象，秋季上线雷朋眼镜与 Quest 头显",
-          "title_zh": "Meta 推出 Hologram 拟真虚拟形象，秋季上线雷朋眼镜与 Quest 头显",
-          "title_en": null,
-          "title_original": "Meta 推出 Hologram 拟真虚拟形象，秋季上线雷朋眼镜与 Quest 头显",
-          "summary": "Meta 宣布将于今年秋季在雷朋 Display 智能眼镜、Quest 头显及新轻薄头显上推出“Hologram”功能。该功能利用生成式 AI（实时扩散模型）创建高度拟真的用户虚拟形象，替代传统摄像头画面用于 WhatsApp 视频通话。用户需通过手机 Meta AI 应用采集面部表情和语音数据完成建模。雷朋版基于音频驱动生成 2D 视频流，Quest 版支持 3D 等身立体呈现。目前存在细节粗糙、侧倾变形等技术局限。",
-          "recommend_reason_zh": null,
-          "url": "https://www.ithome.com/1/007/767.htm",
-          "source": "IT之家（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-28T04:31:04Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "IT之家（RSS）"
-      ],
-      "items": [
-        {
-          "id": "b8dac7905383a680b9929d7f3f4afc92b76cb666",
-          "title": "Meta 推出 Hologram 拟真虚拟形象，秋季上线雷朋眼镜与 Quest 头显",
-          "title_zh": "Meta 推出 Hologram 拟真虚拟形象，秋季上线雷朋眼镜与 Quest 头显",
-          "title_en": null,
-          "title_original": "Meta 推出 Hologram 拟真虚拟形象，秋季上线雷朋眼镜与 Quest 头显",
-          "summary": "Meta 宣布将于今年秋季在雷朋 Display 智能眼镜、Quest 头显及新轻薄头显上推出“Hologram”功能。该功能利用生成式 AI（实时扩散模型）创建高度拟真的用户虚拟形象，替代传统摄像头画面用于 WhatsApp 视频通话。用户需通过手机 Meta AI 应用采集面部表情和语音数据完成建模。雷朋版基于音频驱动生成 2D 视频流，Quest 版支持 3D 等身立体呈现。目前存在细节粗糙、侧倾变形等技术局限。",
-          "recommend_reason_zh": null,
-          "url": "https://www.ithome.com/1/007/767.htm",
-          "source": "IT之家（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-28T04:31:04Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7748,
-      "importance": 0.7748,
-      "importance_score": 0.7748,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.78,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.9402,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-28T04:31:04Z",
-      "latest_at": "2026-09-28T04:31:04Z",
-      "primary_item": {
-        "id": "b8dac7905383a680b9929d7f3f4afc92b76cb666",
-        "title": "Meta 推出 Hologram 拟真虚拟形象，秋季上线雷朋眼镜与 Quest 头显",
-        "title_zh": "Meta 推出 Hologram 拟真虚拟形象，秋季上线雷朋眼镜与 Quest 头显",
-        "title_en": null,
-        "title_original": "Meta 推出 Hologram 拟真虚拟形象，秋季上线雷朋眼镜与 Quest 头显",
-        "summary": "Meta 宣布将于今年秋季在雷朋 Display 智能眼镜、Quest 头显及新轻薄头显上推出“Hologram”功能。该功能利用生成式 AI（实时扩散模型）创建高度拟真的用户虚拟形象，替代传统摄像头画面用于 WhatsApp 视频通话。用户需通过手机 Meta AI 应用采集面部表情和语音数据完成建模。雷朋版基于音频驱动生成 2D 视频流，Quest 版支持 3D 等身立体呈现。目前存在细节粗糙、侧倾变形等技术局限。",
-        "recommend_reason_zh": null,
-        "url": "https://www.ithome.com/1/007/767.htm",
-        "source": "IT之家（RSS）",
-        "source_name": "AI HOT"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-09-28T08:48:02.256610Z"
+        "scored_at": "2026-09-28T09:48:02.936650Z"
       }
     },
     {
@@ -540,15 +787,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7676,
-      "importance": 0.7676,
-      "importance_score": 0.7676,
+      "score": 0.765,
+      "importance": 0.765,
+      "importance_score": 0.765,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.9857,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -574,7 +821,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-28T08:48:02.256610Z"
+        "scored_at": "2026-09-28T09:48:02.936650Z"
       }
     },
     {
@@ -622,15 +869,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.79,
-      "importance": 0.79,
-      "importance_score": 0.79,
+      "score": 0.7875,
+      "importance": 0.7875,
+      "importance_score": 0.7875,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.82,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9576,
+        "recency": 0.9439,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -656,119 +903,171 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-28T08:48:02.256610Z"
+        "scored_at": "2026-09-28T09:48:02.936650Z"
       }
     },
     {
-      "story_id": "story_f24ebd079ef8",
-      "title": "Authors Guild v. OpenAI 新文件披露高管早已知道大规模盗版书籍训练违法",
-      "url": "https://authorsguild.org/news/ag-v-openai-top-execs-knew-mass-book-piracy-was-illegal",
-      "primary_url": "https://authorsguild.org/news/ag-v-openai-top-execs-knew-mass-book-piracy-was-illegal",
-      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+      "story_id": "story_77b6e25d654a",
+      "title": "NVIDIA 发布开源智能体安全平台，提供芯片级持续监控与隔离 / NVIDIA Open Agent Safety Platform: A Reference for Continuous In-Silicon Agent Monitoring",
+      "url": "https://developer.nvidia.com/blog/nvidia-open-agent-safety-platform-a-reference-for-continuous-in-silicon-agent-monitoring",
+      "primary_url": "https://developer.nvidia.com/blog/nvidia-open-agent-safety-platform-a-reference-for-continuous-in-silicon-agent-monitoring",
+      "source": "NVIDIA Technical Blog：Agentic AI / Generative AI",
       "source_name": "AI HOT",
       "sources": [
         {
-          "id": "17d3afe5be918a4976449e35beeb04120851926c",
-          "title": "Authors Guild v. OpenAI 新文件披露高管早已知道大规模盗版书籍训练违法",
-          "title_zh": "Authors Guild v. OpenAI 新文件披露高管早已知道大规模盗版书籍训练违法",
-          "title_en": null,
-          "title_original": "Authors Guild v. OpenAI 新文件披露高管早已知道大规模盗版书籍训练违法",
-          "summary": "Authors Guild v. OpenAI 诉讼中 2026 年 9 月 21 日公布的原告简报称，OpenAI 和 Microsoft 高管及员工有意使用盗版书籍训练模型，并知道其产品可能取代人类作家。",
+          "id": "90c0d2b2191a2d70fd865670d3b43105b9f16d76",
+          "title": "NVIDIA 发布开源智能体安全平台，提供芯片级持续监控与隔离 / NVIDIA Open Agent Safety Platform: A Reference for Continuous In-Silicon Agent Monitoring",
+          "title_zh": "NVIDIA 发布开源智能体安全平台，提供芯片级持续监控与隔离",
+          "title_en": "NVIDIA Open Agent Safety Platform: A Reference for Continuous In-Silicon Agent Monitoring",
+          "title_original": "NVIDIA Open Agent Safety Platform: A Reference for Continuous In-Silicon Agent Monitoring",
+          "summary": "NVIDIA 推出 NVIDIA Open Agent Safety Platform，包含开源运行时 OpenShell、硬件层 Sentry 及 DOCA 技术。该平台旨在通过内核级隔离、零信任环境和带外（out-of-band）监控来防止 AI 智能体行为漂移和越权。OpenShell 将操作指令转化为可验证策略，BlueField DPU 在模型路径上提供实时策略执行与身份治理，确保即使主机不可信时也能独立保护系统。",
           "recommend_reason_zh": null,
-          "url": "https://authorsguild.org/news/ag-v-openai-top-execs-knew-mass-book-piracy-was-illegal",
-          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+          "url": "https://developer.nvidia.com/blog/nvidia-open-agent-safety-platform-a-reference-for-continuous-in-silicon-agent-monitoring",
+          "source": "NVIDIA Technical Blog：Agentic AI / Generative AI",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-09-27T09:27:15.061000Z"
-        },
-        {
-          "id": "d199d71813277a4539e7d5f3772f709667e13283",
-          "title": "OpenAI 担心在 Hacker News 上出现的内容可能引发的“舆论影响”",
-          "title_zh": "OpenAI 担心在 Hacker News 上出现的内容可能引发的“舆论影响”",
-          "title_en": null,
-          "title_original": "OpenAI 担心在 Hacker News 上出现的内容可能引发的“舆论影响”",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://authorsguild.org/news/ag-v-openai-top-execs-knew-mass-book-piracy-was-illegal",
-          "source": "authorsguild.org",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-09-27T09:27:15.061000Z"
+          "published_at": "2026-09-27T16:00:00Z"
         }
       ],
-      "source_count": 2,
+      "source_count": 1,
       "source_names": [
-        "Hacker News 热门（buzzing.cc 中文翻译）",
-        "authorsguild.org"
+        "NVIDIA Technical Blog：Agentic AI / Generative AI"
       ],
       "items": [
         {
-          "id": "17d3afe5be918a4976449e35beeb04120851926c",
-          "title": "Authors Guild v. OpenAI 新文件披露高管早已知道大规模盗版书籍训练违法",
-          "title_zh": "Authors Guild v. OpenAI 新文件披露高管早已知道大规模盗版书籍训练违法",
-          "title_en": null,
-          "title_original": "Authors Guild v. OpenAI 新文件披露高管早已知道大规模盗版书籍训练违法",
-          "summary": "Authors Guild v. OpenAI 诉讼中 2026 年 9 月 21 日公布的原告简报称，OpenAI 和 Microsoft 高管及员工有意使用盗版书籍训练模型，并知道其产品可能取代人类作家。",
+          "id": "90c0d2b2191a2d70fd865670d3b43105b9f16d76",
+          "title": "NVIDIA 发布开源智能体安全平台，提供芯片级持续监控与隔离 / NVIDIA Open Agent Safety Platform: A Reference for Continuous In-Silicon Agent Monitoring",
+          "title_zh": "NVIDIA 发布开源智能体安全平台，提供芯片级持续监控与隔离",
+          "title_en": "NVIDIA Open Agent Safety Platform: A Reference for Continuous In-Silicon Agent Monitoring",
+          "title_original": "NVIDIA Open Agent Safety Platform: A Reference for Continuous In-Silicon Agent Monitoring",
+          "summary": "NVIDIA 推出 NVIDIA Open Agent Safety Platform，包含开源运行时 OpenShell、硬件层 Sentry 及 DOCA 技术。该平台旨在通过内核级隔离、零信任环境和带外（out-of-band）监控来防止 AI 智能体行为漂移和越权。OpenShell 将操作指令转化为可验证策略，BlueField DPU 在模型路径上提供实时策略执行与身份治理，确保即使主机不可信时也能独立保护系统。",
           "recommend_reason_zh": null,
-          "url": "https://authorsguild.org/news/ag-v-openai-top-execs-knew-mass-book-piracy-was-illegal",
-          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+          "url": "https://developer.nvidia.com/blog/nvidia-open-agent-safety-platform-a-reference-for-continuous-in-silicon-agent-monitoring",
+          "source": "NVIDIA Technical Blog：Agentic AI / Generative AI",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-09-27T09:27:15.061000Z"
-        },
-        {
-          "id": "d199d71813277a4539e7d5f3772f709667e13283",
-          "title": "OpenAI 担心在 Hacker News 上出现的内容可能引发的“舆论影响”",
-          "title_zh": "OpenAI 担心在 Hacker News 上出现的内容可能引发的“舆论影响”",
-          "title_en": null,
-          "title_original": "OpenAI 担心在 Hacker News 上出现的内容可能引发的“舆论影响”",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://authorsguild.org/news/ag-v-openai-top-execs-knew-mass-book-piracy-was-illegal",
-          "source": "authorsguild.org",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-09-27T09:27:15.061000Z"
+          "published_at": "2026-09-27T16:00:00Z"
         }
       ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.7591,
-      "importance": 0.7591,
-      "importance_score": 0.7591,
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7568,
+      "importance": 0.7568,
+      "importance_score": 0.7568,
       "importance_label": "行业动态",
       "importance_breakdown": {
-        "editorial": 0.78,
+        "editorial": 0.82,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7139,
-        "story_heat": 0.25
+        "recency": 0.7735,
+        "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "multi_source",
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-09-27T09:27:15.061000Z",
-      "latest_at": "2026-09-27T09:27:15.061000Z",
+      "earliest_at": "2026-09-27T16:00:00Z",
+      "latest_at": "2026-09-27T16:00:00Z",
       "primary_item": {
-        "id": "17d3afe5be918a4976449e35beeb04120851926c",
-        "title": "Authors Guild v. OpenAI 新文件披露高管早已知道大规模盗版书籍训练违法",
-        "title_zh": "Authors Guild v. OpenAI 新文件披露高管早已知道大规模盗版书籍训练违法",
-        "title_en": null,
-        "title_original": "Authors Guild v. OpenAI 新文件披露高管早已知道大规模盗版书籍训练违法",
-        "summary": "Authors Guild v. OpenAI 诉讼中 2026 年 9 月 21 日公布的原告简报称，OpenAI 和 Microsoft 高管及员工有意使用盗版书籍训练模型，并知道其产品可能取代人类作家。",
+        "id": "90c0d2b2191a2d70fd865670d3b43105b9f16d76",
+        "title": "NVIDIA 发布开源智能体安全平台，提供芯片级持续监控与隔离 / NVIDIA Open Agent Safety Platform: A Reference for Continuous In-Silicon Agent Monitoring",
+        "title_zh": "NVIDIA 发布开源智能体安全平台，提供芯片级持续监控与隔离",
+        "title_en": "NVIDIA Open Agent Safety Platform: A Reference for Continuous In-Silicon Agent Monitoring",
+        "title_original": "NVIDIA Open Agent Safety Platform: A Reference for Continuous In-Silicon Agent Monitoring",
+        "summary": "NVIDIA 推出 NVIDIA Open Agent Safety Platform，包含开源运行时 OpenShell、硬件层 Sentry 及 DOCA 技术。该平台旨在通过内核级隔离、零信任环境和带外（out-of-band）监控来防止 AI 智能体行为漂移和越权。OpenShell 将操作指令转化为可验证策略，BlueField DPU 在模型路径上提供实时策略执行与身份治理，确保即使主机不可信时也能独立保护系统。",
         "recommend_reason_zh": null,
-        "url": "https://authorsguild.org/news/ag-v-openai-top-execs-knew-mass-book-piracy-was-illegal",
-        "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+        "url": "https://developer.nvidia.com/blog/nvidia-open-agent-safety-platform-a-reference-for-continuous-in-silicon-agent-monitoring",
+        "source": "NVIDIA Technical Blog：Agentic AI / Generative AI",
         "source_name": "AI HOT"
       },
       "persona_id": "pragmatic",
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-28T08:48:02.256610Z"
+        "scored_at": "2026-09-28T09:48:02.936650Z"
+      }
+    },
+    {
+      "story_id": "story_1d61061d4469",
+      "title": "Meta 推出 Hologram 拟真虚拟形象，秋季上线雷朋眼镜与 Quest 头显",
+      "url": "https://www.ithome.com/1/007/767.htm",
+      "primary_url": "https://www.ithome.com/1/007/767.htm",
+      "source": "IT之家（RSS）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "b8dac7905383a680b9929d7f3f4afc92b76cb666",
+          "title": "Meta 推出 Hologram 拟真虚拟形象，秋季上线雷朋眼镜与 Quest 头显",
+          "title_zh": "Meta 推出 Hologram 拟真虚拟形象，秋季上线雷朋眼镜与 Quest 头显",
+          "title_en": null,
+          "title_original": "Meta 推出 Hologram 拟真虚拟形象，秋季上线雷朋眼镜与 Quest 头显",
+          "summary": "Meta 宣布将于今年秋季在雷朋 Display 智能眼镜、Quest 头显及新轻薄头显上推出“Hologram”功能。该功能利用生成式 AI（实时扩散模型）创建高度拟真的用户虚拟形象，替代传统摄像头画面用于 WhatsApp 视频通话。用户需通过手机 Meta AI 应用采集面部表情和语音数据完成建模。雷朋版基于音频驱动生成 2D 视频流，Quest 版支持 3D 等身立体呈现。目前存在细节粗糙、侧倾变形等技术局限。",
+          "recommend_reason_zh": null,
+          "url": "https://www.ithome.com/1/007/767.htm",
+          "source": "IT之家（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-28T04:31:04Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "IT之家（RSS）"
+      ],
+      "items": [
+        {
+          "id": "b8dac7905383a680b9929d7f3f4afc92b76cb666",
+          "title": "Meta 推出 Hologram 拟真虚拟形象，秋季上线雷朋眼镜与 Quest 头显",
+          "title_zh": "Meta 推出 Hologram 拟真虚拟形象，秋季上线雷朋眼镜与 Quest 头显",
+          "title_en": null,
+          "title_original": "Meta 推出 Hologram 拟真虚拟形象，秋季上线雷朋眼镜与 Quest 头显",
+          "summary": "Meta 宣布将于今年秋季在雷朋 Display 智能眼镜、Quest 头显及新轻薄头显上推出“Hologram”功能。该功能利用生成式 AI（实时扩散模型）创建高度拟真的用户虚拟形象，替代传统摄像头画面用于 WhatsApp 视频通话。用户需通过手机 Meta AI 应用采集面部表情和语音数据完成建模。雷朋版基于音频驱动生成 2D 视频流，Quest 版支持 3D 等身立体呈现。目前存在细节粗糙、侧倾变形等技术局限。",
+          "recommend_reason_zh": null,
+          "url": "https://www.ithome.com/1/007/767.htm",
+          "source": "IT之家（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-28T04:31:04Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7724,
+      "importance": 0.7724,
+      "importance_score": 0.7724,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.78,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9267,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-28T04:31:04Z",
+      "latest_at": "2026-09-28T04:31:04Z",
+      "primary_item": {
+        "id": "b8dac7905383a680b9929d7f3f4afc92b76cb666",
+        "title": "Meta 推出 Hologram 拟真虚拟形象，秋季上线雷朋眼镜与 Quest 头显",
+        "title_zh": "Meta 推出 Hologram 拟真虚拟形象，秋季上线雷朋眼镜与 Quest 头显",
+        "title_en": null,
+        "title_original": "Meta 推出 Hologram 拟真虚拟形象，秋季上线雷朋眼镜与 Quest 头显",
+        "summary": "Meta 宣布将于今年秋季在雷朋 Display 智能眼镜、Quest 头显及新轻薄头显上推出“Hologram”功能。该功能利用生成式 AI（实时扩散模型）创建高度拟真的用户虚拟形象，替代传统摄像头画面用于 WhatsApp 视频通话。用户需通过手机 Meta AI 应用采集面部表情和语音数据完成建模。雷朋版基于音频驱动生成 2D 视频流，Quest 版支持 3D 等身立体呈现。目前存在细节粗糙、侧倾变形等技术局限。",
+        "recommend_reason_zh": null,
+        "url": "https://www.ithome.com/1/007/767.htm",
+        "source": "IT之家（RSS）",
+        "source_name": "AI HOT"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-09-28T09:48:02.936650Z"
       }
     },
     {
@@ -816,15 +1115,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7676,
-      "importance": 0.7676,
-      "importance_score": 0.7676,
+      "score": 0.765,
+      "importance": 0.765,
+      "importance_score": 0.765,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.9857,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -850,7 +1149,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-28T08:48:02.256610Z"
+        "scored_at": "2026-09-28T09:48:02.936650Z"
       }
     },
     {
@@ -898,15 +1197,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.79,
-      "importance": 0.79,
-      "importance_score": 0.79,
+      "score": 0.7875,
+      "importance": 0.7875,
+      "importance_score": 0.7875,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.82,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9576,
+        "recency": 0.9439,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -932,7 +1231,88 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-28T08:48:02.256610Z"
+        "scored_at": "2026-09-28T09:48:02.936650Z"
+      }
+    },
+    {
+      "story_id": "story_2f15dd10fd58",
+      "title": "NVIDIA 发布开源运行时 OpenShell，为 AI Agent 提供权限管控与安全沙箱 / Add Runtime Controls to AI Agents with NVIDIA OpenShell",
+      "url": "https://developer.nvidia.com/blog/add-runtime-controls-to-ai-agents-with-nvidia-openshell",
+      "primary_url": "https://developer.nvidia.com/blog/add-runtime-controls-to-ai-agents-with-nvidia-openshell",
+      "source": "NVIDIA Technical Blog：Agentic AI / Generative AI",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "291bc67f6050fcadb723324bff88a6f99a6e73f7",
+          "title": "NVIDIA 发布开源运行时 OpenShell，为 AI Agent 提供权限管控与安全沙箱 / Add Runtime Controls to AI Agents with NVIDIA OpenShell",
+          "title_zh": "NVIDIA 发布开源运行时 OpenShell，为 AI Agent 提供权限管控与安全沙箱",
+          "title_en": "Add Runtime Controls to AI Agents with NVIDIA OpenShell",
+          "title_original": "Add Runtime Controls to AI Agents with NVIDIA OpenShell",
+          "summary": "NVIDIA 推出开源项目 NVIDIA OpenShell 0.1.0，这是一个用于定义和执行 AI Agent 访问权限的运行时。它通过沙箱执行、受控服务访问、凭证管理和形式化策略分析，在 Agent 工作负载外部强制实施权限控制。OpenShell 支持 Codex、Claude Code 等框架，允许团队在不重写 Agent 的情况下限制 API 操作、保护凭证并审查权限变更。Cadence、Slack 和 Gecko Robotics 等组织已在芯片设计、企业自动化和物理 AI 等领域采用该技术。",
+          "recommend_reason_zh": null,
+          "url": "https://developer.nvidia.com/blog/add-runtime-controls-to-ai-agents-with-nvidia-openshell",
+          "source": "NVIDIA Technical Blog：Agentic AI / Generative AI",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-27T16:00:00Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "NVIDIA Technical Blog：Agentic AI / Generative AI"
+      ],
+      "items": [
+        {
+          "id": "291bc67f6050fcadb723324bff88a6f99a6e73f7",
+          "title": "NVIDIA 发布开源运行时 OpenShell，为 AI Agent 提供权限管控与安全沙箱 / Add Runtime Controls to AI Agents with NVIDIA OpenShell",
+          "title_zh": "NVIDIA 发布开源运行时 OpenShell，为 AI Agent 提供权限管控与安全沙箱",
+          "title_en": "Add Runtime Controls to AI Agents with NVIDIA OpenShell",
+          "title_original": "Add Runtime Controls to AI Agents with NVIDIA OpenShell",
+          "summary": "NVIDIA 推出开源项目 NVIDIA OpenShell 0.1.0，这是一个用于定义和执行 AI Agent 访问权限的运行时。它通过沙箱执行、受控服务访问、凭证管理和形式化策略分析，在 Agent 工作负载外部强制实施权限控制。OpenShell 支持 Codex、Claude Code 等框架，允许团队在不重写 Agent 的情况下限制 API 操作、保护凭证并审查权限变更。Cadence、Slack 和 Gecko Robotics 等组织已在芯片设计、企业自动化和物理 AI 等领域采用该技术。",
+          "recommend_reason_zh": null,
+          "url": "https://developer.nvidia.com/blog/add-runtime-controls-to-ai-agents-with-nvidia-openshell",
+          "source": "NVIDIA Technical Blog：Agentic AI / Generative AI",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-27T16:00:00Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7448,
+      "importance": 0.7448,
+      "importance_score": 0.7448,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.78,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.7735,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-09-27T16:00:00Z",
+      "latest_at": "2026-09-27T16:00:00Z",
+      "primary_item": {
+        "id": "291bc67f6050fcadb723324bff88a6f99a6e73f7",
+        "title": "NVIDIA 发布开源运行时 OpenShell，为 AI Agent 提供权限管控与安全沙箱 / Add Runtime Controls to AI Agents with NVIDIA OpenShell",
+        "title_zh": "NVIDIA 发布开源运行时 OpenShell，为 AI Agent 提供权限管控与安全沙箱",
+        "title_en": "Add Runtime Controls to AI Agents with NVIDIA OpenShell",
+        "title_original": "Add Runtime Controls to AI Agents with NVIDIA OpenShell",
+        "summary": "NVIDIA 推出开源项目 NVIDIA OpenShell 0.1.0，这是一个用于定义和执行 AI Agent 访问权限的运行时。它通过沙箱执行、受控服务访问、凭证管理和形式化策略分析，在 Agent 工作负载外部强制实施权限控制。OpenShell 支持 Codex、Claude Code 等框架，允许团队在不重写 Agent 的情况下限制 API 操作、保护凭证并审查权限变更。Cadence、Slack 和 Gecko Robotics 等组织已在芯片设计、企业自动化和物理 AI 等领域采用该技术。",
+        "recommend_reason_zh": null,
+        "url": "https://developer.nvidia.com/blog/add-runtime-controls-to-ai-agents-with-nvidia-openshell",
+        "source": "NVIDIA Technical Blog：Agentic AI / Generative AI",
+        "source_name": "AI HOT"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-09-28T09:48:02.936650Z"
       }
     },
     {
@@ -980,15 +1360,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7676,
-      "importance": 0.7676,
-      "importance_score": 0.7676,
+      "score": 0.765,
+      "importance": 0.765,
+      "importance_score": 0.765,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.9857,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1014,7 +1394,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-28T08:48:02.256610Z"
+        "scored_at": "2026-09-28T09:48:02.936650Z"
       }
     },
     {
@@ -1062,15 +1442,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7625,
-      "importance": 0.7625,
-      "importance_score": 0.7625,
+      "score": 0.76,
+      "importance": 0.76,
+      "importance_score": 0.76,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9717,
+        "recency": 0.9577,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1096,7 +1476,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-28T08:48:02.256610Z"
+        "scored_at": "2026-09-28T09:48:02.936650Z"
       }
     },
     {
@@ -1144,15 +1524,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7625,
-      "importance": 0.7625,
-      "importance_score": 0.7625,
+      "score": 0.76,
+      "importance": 0.76,
+      "importance_score": 0.76,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9717,
+        "recency": 0.9577,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1178,7 +1558,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-28T08:48:02.256610Z"
+        "scored_at": "2026-09-28T09:48:02.936650Z"
       }
     },
     {
@@ -1226,15 +1606,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7625,
-      "importance": 0.7625,
-      "importance_score": 0.7625,
+      "score": 0.76,
+      "importance": 0.76,
+      "importance_score": 0.76,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9717,
+        "recency": 0.9577,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1260,588 +1640,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-28T08:48:02.256610Z"
-      }
-    },
-    {
-      "story_id": "story_3aaf9af93102",
-      "title": "智谱ZCode落地新轮补偿:赠付费用户8张重置卡，已彻底移除代码快照上传链路",
-      "url": "https://www.aibase.com/news/31377",
-      "primary_url": "https://www.aibase.com/news/31377",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "d7985784238219b19133489fd003b5f9b7b84887",
-          "title": "智谱ZCode落地新轮补偿:赠付费用户8张重置卡，已彻底移除代码快照上传链路",
-          "title_zh": "智谱ZCode落地新轮补偿:赠付费用户8张重置卡，已彻底移除代码快照上传链路",
-          "title_en": null,
-          "title_original": "智谱ZCode落地新轮补偿:赠付费用户8张重置卡，已彻底移除代码快照上传链路",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/31377",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-09-28T06:47:56.477555Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "d7985784238219b19133489fd003b5f9b7b84887",
-          "title": "智谱ZCode落地新轮补偿:赠付费用户8张重置卡，已彻底移除代码快照上传链路",
-          "title_zh": "智谱ZCode落地新轮补偿:赠付费用户8张重置卡，已彻底移除代码快照上传链路",
-          "title_en": null,
-          "title_original": "智谱ZCode落地新轮补偿:赠付费用户8张重置卡，已彻底移除代码快照上传链路",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/31377",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-09-28T06:47:56.477555Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7625,
-      "importance": 0.7625,
-      "importance_score": 0.7625,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.9717,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-28T06:47:56.477555Z",
-      "latest_at": "2026-09-28T06:47:56.477555Z",
-      "primary_item": {
-        "id": "d7985784238219b19133489fd003b5f9b7b84887",
-        "title": "智谱ZCode落地新轮补偿:赠付费用户8张重置卡，已彻底移除代码快照上传链路",
-        "title_zh": "智谱ZCode落地新轮补偿:赠付费用户8张重置卡，已彻底移除代码快照上传链路",
-        "title_en": null,
-        "title_original": "智谱ZCode落地新轮补偿:赠付费用户8张重置卡，已彻底移除代码快照上传链路",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/31377",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-09-28T08:48:02.256610Z"
-      }
-    },
-    {
-      "story_id": "story_f856ac65e0b0",
-      "title": "随着人工智能提升了律师事务所的效率，客户们不禁问道：“我的折扣呢？”",
-      "url": "https://www.nytimes.com/2026/09/26/business/dealbook/ai-law-discount-billable-hour.html",
-      "primary_url": "https://www.nytimes.com/2026/09/26/business/dealbook/ai-law-discount-billable-hour.html",
-      "source": "www.nytimes.com",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "a49df21d97655247cf384fc1e99006464a325091",
-          "title": "随着人工智能提升了律师事务所的效率，客户们不禁问道：“我的折扣呢？”",
-          "title_zh": "随着人工智能提升了律师事务所的效率，客户们不禁问道：“我的折扣呢？”",
-          "title_en": null,
-          "title_original": "随着人工智能提升了律师事务所的效率，客户们不禁问道：“我的折扣呢？”",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.nytimes.com/2026/09/26/business/dealbook/ai-law-discount-billable-hour.html",
-          "source": "www.nytimes.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-09-28T05:36:13.514000Z"
-        },
-        {
-          "id": "5b584627e6c8fb967df531c17bdbd386ea1f4820",
-          "title": "随着人工智能提升了律师事务所的效率，客户们不禁问道：“我的折扣呢？” / As A.I. Makes Law Firms More Efficient, Clients Ask: 'Where's My Discount?'",
-          "title_zh": "随着人工智能提升了律师事务所的效率，客户们不禁问道：“我的折扣呢？”",
-          "title_en": "As A.I. Makes Law Firms More Efficient, Clients Ask: 'Where's My Discount?'",
-          "title_original": "As A.I. Makes Law Firms More Efficient, Clients Ask: 'Where's My Discount?'",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.nytimes.com/2026/09/26/business/dealbook/ai-law-discount-billable-hour.html",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-09-28T01:30:17Z"
-        },
-        {
-          "id": "84e7cfb73a2992d0abd0aaf0aade9062ac72291d",
-          "title": "作为 A.I.使律师事务所更有效率，客户会问：“我的折扣在哪里？” / As A.I. makes law firms more efficient, clients ask: 'Where's my discount?'",
-          "title_zh": "作为 A.I.使律师事务所更有效率，客户会问：“我的折扣在哪里？”",
-          "title_en": "As A.I. makes law firms more efficient, clients ask: 'Where's my discount?'",
-          "title_original": "As A.I. makes law firms more efficient, clients ask: 'Where's my discount?'",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=49872522",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-09-28T01:30:17Z"
-        }
-      ],
-      "source_count": 3,
-      "source_names": [
-        "Hacker News",
-        "hackernews",
-        "www.nytimes.com"
-      ],
-      "items": [
-        {
-          "id": "a49df21d97655247cf384fc1e99006464a325091",
-          "title": "随着人工智能提升了律师事务所的效率，客户们不禁问道：“我的折扣呢？”",
-          "title_zh": "随着人工智能提升了律师事务所的效率，客户们不禁问道：“我的折扣呢？”",
-          "title_en": null,
-          "title_original": "随着人工智能提升了律师事务所的效率，客户们不禁问道：“我的折扣呢？”",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.nytimes.com/2026/09/26/business/dealbook/ai-law-discount-billable-hour.html",
-          "source": "www.nytimes.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-09-28T05:36:13.514000Z"
-        },
-        {
-          "id": "5b584627e6c8fb967df531c17bdbd386ea1f4820",
-          "title": "随着人工智能提升了律师事务所的效率，客户们不禁问道：“我的折扣呢？” / As A.I. Makes Law Firms More Efficient, Clients Ask: 'Where's My Discount?'",
-          "title_zh": "随着人工智能提升了律师事务所的效率，客户们不禁问道：“我的折扣呢？”",
-          "title_en": "As A.I. Makes Law Firms More Efficient, Clients Ask: 'Where's My Discount?'",
-          "title_original": "As A.I. Makes Law Firms More Efficient, Clients Ask: 'Where's My Discount?'",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.nytimes.com/2026/09/26/business/dealbook/ai-law-discount-billable-hour.html",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-09-28T01:30:17Z"
-        },
-        {
-          "id": "84e7cfb73a2992d0abd0aaf0aade9062ac72291d",
-          "title": "作为 A.I.使律师事务所更有效率，客户会问：“我的折扣在哪里？” / As A.I. makes law firms more efficient, clients ask: 'Where's my discount?'",
-          "title_zh": "作为 A.I.使律师事务所更有效率，客户会问：“我的折扣在哪里？”",
-          "title_en": "As A.I. makes law firms more efficient, clients ask: 'Where's my discount?'",
-          "title_original": "As A.I. makes law firms more efficient, clients ask: 'Where's my discount?'",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=49872522",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-09-28T01:30:17Z"
-        }
-      ],
-      "item_count": 3,
-      "duplicate_count": 3,
-      "score": 0.5627,
-      "importance": 0.5627,
-      "importance_score": 0.5627,
-      "importance_label": "多源热议",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.955,
-        "story_heat": 0.5
-      },
-      "category": "multi_source",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-09-28T01:30:17Z",
-      "latest_at": "2026-09-28T05:36:13.514000Z",
-      "primary_item": {
-        "id": "a49df21d97655247cf384fc1e99006464a325091",
-        "title": "随着人工智能提升了律师事务所的效率，客户们不禁问道：“我的折扣呢？”",
-        "title_zh": "随着人工智能提升了律师事务所的效率，客户们不禁问道：“我的折扣呢？”",
-        "title_en": null,
-        "title_original": "随着人工智能提升了律师事务所的效率，客户们不禁问道：“我的折扣呢？”",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://www.nytimes.com/2026/09/26/business/dealbook/ai-law-discount-billable-hour.html",
-        "source": "www.nytimes.com",
-        "source_name": "Buzzing"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-09-28T08:48:02.256610Z"
-      }
-    },
-    {
-      "story_id": "story_ce201f4e3030",
-      "title": "人工智能中的快思考和慢思考：元认知的作用 / Thinking Fast and Slow in AI: The Role of Metacognition",
-      "url": "https://arxiv.org/abs/2110.01834",
-      "primary_url": "https://arxiv.org/abs/2110.01834",
-      "source": "Hacker News",
-      "source_name": "TechURLs",
-      "sources": [
-        {
-          "id": "bd759afec60026bd52f458365fdcf654371f656b",
-          "title": "人工智能中的快思考和慢思考：元认知的作用 / Thinking Fast and Slow in AI: The Role of Metacognition",
-          "title_zh": "人工智能中的快思考和慢思考：元认知的作用",
-          "title_en": "Thinking Fast and Slow in AI: The Role of Metacognition",
-          "title_original": "Thinking Fast and Slow in AI: The Role of Metacognition",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://arxiv.org/abs/2110.01834",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-09-28T03:23:53Z"
-        },
-        {
-          "id": "cac66fbe7406e3414e2ac67bb87378c553112d9b",
-          "title": "人工智能中的快思考和慢思考：元认知的作用 / Thinking Fast and Slow in AI: The Role of Metacognition",
-          "title_zh": "人工智能中的快思考和慢思考：元认知的作用",
-          "title_en": "Thinking Fast and Slow in AI: The Role of Metacognition",
-          "title_original": "Thinking Fast and Slow in AI: The Role of Metacognition",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=49873241",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-09-28T03:23:53Z"
-        },
-        {
-          "id": "badd62fc0bd047ba3770957d078dc63ebe54b32b",
-          "title": "人工智能中的快思考和慢思考：元认知的作用 (2021) / Thinking fast and slow in AI: The role of metacognition (2021)",
-          "title_zh": "人工智能中的快思考和慢思考：元认知的作用 (2021)",
-          "title_en": "Thinking fast and slow in AI: The role of metacognition (2021)",
-          "title_original": "Thinking fast and slow in AI: The role of metacognition (2021)",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://arxiv.org/abs/2110.01834",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-09-28T03:23:53Z"
-        }
-      ],
-      "source_count": 3,
-      "source_names": [
-        "Hacker News",
-        "Hacker News (黑客新闻)",
-        "hackernews"
-      ],
-      "items": [
-        {
-          "id": "bd759afec60026bd52f458365fdcf654371f656b",
-          "title": "人工智能中的快思考和慢思考：元认知的作用 / Thinking Fast and Slow in AI: The Role of Metacognition",
-          "title_zh": "人工智能中的快思考和慢思考：元认知的作用",
-          "title_en": "Thinking Fast and Slow in AI: The Role of Metacognition",
-          "title_original": "Thinking Fast and Slow in AI: The Role of Metacognition",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://arxiv.org/abs/2110.01834",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-09-28T03:23:53Z"
-        },
-        {
-          "id": "cac66fbe7406e3414e2ac67bb87378c553112d9b",
-          "title": "人工智能中的快思考和慢思考：元认知的作用 / Thinking Fast and Slow in AI: The Role of Metacognition",
-          "title_zh": "人工智能中的快思考和慢思考：元认知的作用",
-          "title_en": "Thinking Fast and Slow in AI: The Role of Metacognition",
-          "title_original": "Thinking Fast and Slow in AI: The Role of Metacognition",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=49873241",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-09-28T03:23:53Z"
-        },
-        {
-          "id": "badd62fc0bd047ba3770957d078dc63ebe54b32b",
-          "title": "人工智能中的快思考和慢思考：元认知的作用 (2021) / Thinking fast and slow in AI: The role of metacognition (2021)",
-          "title_zh": "人工智能中的快思考和慢思考：元认知的作用 (2021)",
-          "title_en": "Thinking fast and slow in AI: The role of metacognition (2021)",
-          "title_original": "Thinking fast and slow in AI: The role of metacognition (2021)",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://arxiv.org/abs/2110.01834",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-09-28T03:23:53Z"
-        }
-      ],
-      "item_count": 3,
-      "duplicate_count": 3,
-      "score": 0.5573,
-      "importance": 0.5573,
-      "importance_score": 0.5573,
-      "importance_label": "多源热议",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.9251,
-        "story_heat": 0.5
-      },
-      "category": "multi_source",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-09-28T03:23:53Z",
-      "latest_at": "2026-09-28T03:23:53Z",
-      "primary_item": {
-        "id": "bd759afec60026bd52f458365fdcf654371f656b",
-        "title": "人工智能中的快思考和慢思考：元认知的作用 / Thinking Fast and Slow in AI: The Role of Metacognition",
-        "title_zh": "人工智能中的快思考和慢思考：元认知的作用",
-        "title_en": "Thinking Fast and Slow in AI: The Role of Metacognition",
-        "title_original": "Thinking Fast and Slow in AI: The Role of Metacognition",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://arxiv.org/abs/2110.01834",
-        "source": "Hacker News",
-        "source_name": "TechURLs"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-09-28T08:48:02.256610Z"
-      }
-    },
-    {
-      "story_id": "story_c9d61f225fe5",
-      "title": "Show HN: TinyAIArena：观看AI代理之间的激战",
-      "url": "https://tinyaiarena.com",
-      "primary_url": "https://tinyaiarena.com",
-      "source": "tinyaiarena.com",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "e2cfcfdcf10765429fcf9dc95231bb043b14a178",
-          "title": "Show HN: TinyAIArena：观看AI代理之间的激战",
-          "title_zh": "Show HN: TinyAIArena：观看AI代理之间的激战",
-          "title_en": null,
-          "title_original": "Show HN: TinyAIArena：观看AI代理之间的激战",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://tinyaiarena.com",
-          "source": "tinyaiarena.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-09-28T02:12:19.167000Z"
-        },
-        {
-          "id": "7baaee475f83ead0438562951c8d6fe93df3dacc",
-          "title": "Show HN: TinyAIArena：观看AI代理之间的激战 / Show HN: TinyAIArena watch AI agents battle it out",
-          "title_zh": "Show HN: TinyAIArena：观看AI代理之间的激战",
-          "title_en": "Show HN: TinyAIArena watch AI agents battle it out",
-          "title_original": "Show HN: TinyAIArena watch AI agents battle it out",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://tinyaiarena.com",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-09-27T15:51:28Z"
-        },
-        {
-          "id": "0d2ec493a74f10e587a746aa965482cf9b293acf",
-          "title": "Show HN：TinyAIArena 观看 AI 代理决一胜负 / Show HN: TinyAIArena watch AI agents battle it out",
-          "title_zh": "Show HN：TinyAIArena 观看 AI 代理决一胜负",
-          "title_en": "Show HN: TinyAIArena watch AI agents battle it out",
-          "title_original": "Show HN: TinyAIArena watch AI agents battle it out",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=49867775",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-09-27T15:51:28Z"
-        }
-      ],
-      "source_count": 3,
-      "source_names": [
-        "Hacker News · 24h最热",
-        "hackernews",
-        "tinyaiarena.com"
-      ],
-      "items": [
-        {
-          "id": "e2cfcfdcf10765429fcf9dc95231bb043b14a178",
-          "title": "Show HN: TinyAIArena：观看AI代理之间的激战",
-          "title_zh": "Show HN: TinyAIArena：观看AI代理之间的激战",
-          "title_en": null,
-          "title_original": "Show HN: TinyAIArena：观看AI代理之间的激战",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://tinyaiarena.com",
-          "source": "tinyaiarena.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-09-28T02:12:19.167000Z"
-        },
-        {
-          "id": "7baaee475f83ead0438562951c8d6fe93df3dacc",
-          "title": "Show HN: TinyAIArena：观看AI代理之间的激战 / Show HN: TinyAIArena watch AI agents battle it out",
-          "title_zh": "Show HN: TinyAIArena：观看AI代理之间的激战",
-          "title_en": "Show HN: TinyAIArena watch AI agents battle it out",
-          "title_original": "Show HN: TinyAIArena watch AI agents battle it out",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://tinyaiarena.com",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-09-27T15:51:28Z"
-        },
-        {
-          "id": "0d2ec493a74f10e587a746aa965482cf9b293acf",
-          "title": "Show HN：TinyAIArena 观看 AI 代理决一胜负 / Show HN: TinyAIArena watch AI agents battle it out",
-          "title_zh": "Show HN：TinyAIArena 观看 AI 代理决一胜负",
-          "title_en": "Show HN: TinyAIArena watch AI agents battle it out",
-          "title_original": "Show HN: TinyAIArena watch AI agents battle it out",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=49867775",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-09-27T15:51:28Z"
-        }
-      ],
-      "item_count": 3,
-      "duplicate_count": 3,
-      "score": 0.5545,
-      "importance": 0.5545,
-      "importance_score": 0.5545,
-      "importance_label": "多源热议",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.9093,
-        "story_heat": 0.5
-      },
-      "category": "multi_source",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-09-27T15:51:28Z",
-      "latest_at": "2026-09-28T02:12:19.167000Z",
-      "primary_item": {
-        "id": "e2cfcfdcf10765429fcf9dc95231bb043b14a178",
-        "title": "Show HN: TinyAIArena：观看AI代理之间的激战",
-        "title_zh": "Show HN: TinyAIArena：观看AI代理之间的激战",
-        "title_en": null,
-        "title_original": "Show HN: TinyAIArena：观看AI代理之间的激战",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://tinyaiarena.com",
-        "source": "tinyaiarena.com",
-        "source_name": "Buzzing"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-09-28T08:48:02.256610Z"
-      }
-    },
-    {
-      "story_id": "story_9117f82403b6",
-      "title": "英伟达发布1亿参数免费模型Nemotron3，支持8人实时语音分割识别",
-      "url": "https://www.aibase.com/news/31382",
-      "primary_url": "https://www.aibase.com/news/31382",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "ca3e0a5ce469cfdef60906b1f24fd4a5e15baaa6",
-          "title": "英伟达发布1亿参数免费模型Nemotron3，支持8人实时语音分割识别",
-          "title_zh": "英伟达发布1亿参数免费模型Nemotron3，支持8人实时语音分割识别",
-          "title_en": null,
-          "title_original": "英伟达发布1亿参数免费模型Nemotron3，支持8人实时语音分割识别",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/31382",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-09-28T06:47:56.477555Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "ca3e0a5ce469cfdef60906b1f24fd4a5e15baaa6",
-          "title": "英伟达发布1亿参数免费模型Nemotron3，支持8人实时语音分割识别",
-          "title_zh": "英伟达发布1亿参数免费模型Nemotron3，支持8人实时语音分割识别",
-          "title_en": null,
-          "title_original": "英伟达发布1亿参数免费模型Nemotron3，支持8人实时语音分割识别",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/31382",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-09-28T06:47:56.477555Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7625,
-      "importance": 0.7625,
-      "importance_score": 0.7625,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.9717,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-28T06:47:56.477555Z",
-      "latest_at": "2026-09-28T06:47:56.477555Z",
-      "primary_item": {
-        "id": "ca3e0a5ce469cfdef60906b1f24fd4a5e15baaa6",
-        "title": "英伟达发布1亿参数免费模型Nemotron3，支持8人实时语音分割识别",
-        "title_zh": "英伟达发布1亿参数免费模型Nemotron3，支持8人实时语音分割识别",
-        "title_en": null,
-        "title_original": "英伟达发布1亿参数免费模型Nemotron3，支持8人实时语音分割识别",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/31382",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-09-28T08:48:02.256610Z"
+        "scored_at": "2026-09-28T09:48:02.936650Z"
       }
     }
   ]
