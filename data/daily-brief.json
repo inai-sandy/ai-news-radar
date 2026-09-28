@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-28T18:47:26.157256Z",
+  "generated_at": "2026-09-28T19:47:18.243738Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -48,15 +48,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8581,
-      "importance": 0.8581,
-      "importance_score": 0.8581,
+      "score": 0.8556,
+      "importance": 0.8556,
+      "importance_score": 0.8556,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.9896,
+        "recency": 0.9754,
         "story_heat": 0.0
       },
       "category": "official",
@@ -83,7 +83,90 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-28T19:03:45.621313Z"
+        "scored_at": "2026-09-28T20:07:10.786241Z"
+      }
+    },
+    {
+      "story_id": "story_75870866258f",
+      "title": "Watch the winning trailer from the Future Vision XPRIZE, The Gifted.",
+      "url": "https://blog.google/innovation-and-ai/technology/ai/winner-future-vision-xprize",
+      "primary_url": "https://blog.google/innovation-and-ai/technology/ai/winner-future-vision-xprize",
+      "source": "Google AI Blog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "4fb734111bc2bf39e17b61bb04ddd3de046ad74c",
+          "title": "Watch the winning trailer from the Future Vision XPRIZE, The Gifted.",
+          "title_zh": null,
+          "title_en": "Watch the winning trailer from the Future Vision XPRIZE, The Gifted.",
+          "title_original": "Watch the winning trailer from the Future Vision XPRIZE, The Gifted.",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://blog.google/innovation-and-ai/technology/ai/winner-future-vision-xprize",
+          "source": "Google AI Blog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-09-28T19:00:00Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Google AI Blog"
+      ],
+      "items": [
+        {
+          "id": "4fb734111bc2bf39e17b61bb04ddd3de046ad74c",
+          "title": "Watch the winning trailer from the Future Vision XPRIZE, The Gifted.",
+          "title_zh": null,
+          "title_en": "Watch the winning trailer from the Future Vision XPRIZE, The Gifted.",
+          "title_original": "Watch the winning trailer from the Future Vision XPRIZE, The Gifted.",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://blog.google/innovation-and-ai/technology/ai/winner-future-vision-xprize",
+          "source": "Google AI Blog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-09-28T19:00:00Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.848,
+      "importance": 0.848,
+      "importance_score": 0.848,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.9,
+        "recency": 0.9887,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-28T19:00:00Z",
+      "latest_at": "2026-09-28T19:00:00Z",
+      "primary_item": {
+        "id": "4fb734111bc2bf39e17b61bb04ddd3de046ad74c",
+        "title": "Watch the winning trailer from the Future Vision XPRIZE, The Gifted.",
+        "title_zh": null,
+        "title_en": "Watch the winning trailer from the Future Vision XPRIZE, The Gifted.",
+        "title_original": "Watch the winning trailer from the Future Vision XPRIZE, The Gifted.",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://blog.google/innovation-and-ai/technology/ai/winner-future-vision-xprize",
+        "source": "Google AI Blog",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-09-28T20:07:10.786241Z"
       }
     },
     {
@@ -131,15 +214,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8379,
-      "importance": 0.8379,
-      "importance_score": 0.8379,
+      "score": 0.8357,
+      "importance": 0.8357,
+      "importance_score": 0.8357,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.8774,
+        "recency": 0.8649,
         "story_heat": 0.0
       },
       "category": "official",
@@ -166,7 +249,89 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-28T19:03:45.621313Z"
+        "scored_at": "2026-09-28T20:07:10.786241Z"
+      }
+    },
+    {
+      "story_id": "story_affa87113115",
+      "title": "Claude Sonnet 5.5 发布，比 Sonnet 5 快超 30%、多数工作成本最多低 30% / Sonnet 5.5 is smarter, more efficient, and 30% faster than Sonnet 5. It costs up to 30% less for most work, so your Claude Code usage goe...",
+      "url": "https://x.com/ClaudeDevs/status/2104641318555353400",
+      "primary_url": "https://x.com/ClaudeDevs/status/2104641318555353400",
+      "source": "X：Claude Devs (@ClaudeDevs)",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "174b8f3b0886c612fa58740af5b9afabfa805433",
+          "title": "Claude Sonnet 5.5 发布，比 Sonnet 5 快超 30%、多数工作成本最多低 30% / Sonnet 5.5 is smarter, more efficient, and 30% faster than Sonnet 5. It costs up to 30% less for most work, so your Claude Code usage goe...",
+          "title_zh": "Claude Sonnet 5.5 发布，比 Sonnet 5 快超 30%、多数工作成本最多低 30%",
+          "title_en": "Sonnet 5.5 is smarter, more efficient, and 30% faster than Sonnet 5. It costs up to 30% less for most work, so your Claude Code usage goe...",
+          "title_original": "Sonnet 5.5 is smarter, more efficient, and 30% faster than Sonnet 5. It costs up to 30% less for most work, so your Claude Code usage goe...",
+          "summary": "Anthropic 发布 Claude Sonnet 5.5，是 Claude 5.5 家族的第二款模型，相比 Sonnet 5 更聪明、高效，运行速度快超 30%，多数工作成本最多低 30%。适合修复 bug、快速迭代功能等范围明确的日常任务，Claude Code 用量也会更耐用。",
+          "recommend_reason_zh": null,
+          "url": "https://x.com/ClaudeDevs/status/2104641318555353400",
+          "source": "X：Claude Devs (@ClaudeDevs)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-28T18:36:07Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "X：Claude Devs (@ClaudeDevs)"
+      ],
+      "items": [
+        {
+          "id": "174b8f3b0886c612fa58740af5b9afabfa805433",
+          "title": "Claude Sonnet 5.5 发布，比 Sonnet 5 快超 30%、多数工作成本最多低 30% / Sonnet 5.5 is smarter, more efficient, and 30% faster than Sonnet 5. It costs up to 30% less for most work, so your Claude Code usage goe...",
+          "title_zh": "Claude Sonnet 5.5 发布，比 Sonnet 5 快超 30%、多数工作成本最多低 30%",
+          "title_en": "Sonnet 5.5 is smarter, more efficient, and 30% faster than Sonnet 5. It costs up to 30% less for most work, so your Claude Code usage goe...",
+          "title_original": "Sonnet 5.5 is smarter, more efficient, and 30% faster than Sonnet 5. It costs up to 30% less for most work, so your Claude Code usage goe...",
+          "summary": "Anthropic 发布 Claude Sonnet 5.5，是 Claude 5.5 家族的第二款模型，相比 Sonnet 5 更聪明、高效，运行速度快超 30%，多数工作成本最多低 30%。适合修复 bug、快速迭代功能等范围明确的日常任务，Claude Code 用量也会更耐用。",
+          "recommend_reason_zh": null,
+          "url": "https://x.com/ClaudeDevs/status/2104641318555353400",
+          "source": "X：Claude Devs (@ClaudeDevs)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-28T18:36:07Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8339,
+      "importance": 0.8339,
+      "importance_score": 0.8339,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.79,
+        "source_tier": 1.0,
+        "ai_relevance": 1.0,
+        "recency": 0.983,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-28T18:36:07Z",
+      "latest_at": "2026-09-28T18:36:07Z",
+      "primary_item": {
+        "id": "174b8f3b0886c612fa58740af5b9afabfa805433",
+        "title": "Claude Sonnet 5.5 发布，比 Sonnet 5 快超 30%、多数工作成本最多低 30% / Sonnet 5.5 is smarter, more efficient, and 30% faster than Sonnet 5. It costs up to 30% less for most work, so your Claude Code usage goe...",
+        "title_zh": "Claude Sonnet 5.5 发布，比 Sonnet 5 快超 30%、多数工作成本最多低 30%",
+        "title_en": "Sonnet 5.5 is smarter, more efficient, and 30% faster than Sonnet 5. It costs up to 30% less for most work, so your Claude Code usage goe...",
+        "title_original": "Sonnet 5.5 is smarter, more efficient, and 30% faster than Sonnet 5. It costs up to 30% less for most work, so your Claude Code usage goe...",
+        "summary": "Anthropic 发布 Claude Sonnet 5.5，是 Claude 5.5 家族的第二款模型，相比 Sonnet 5 更聪明、高效，运行速度快超 30%，多数工作成本最多低 30%。适合修复 bug、快速迭代功能等范围明确的日常任务，Claude Code 用量也会更耐用。",
+        "recommend_reason_zh": null,
+        "url": "https://x.com/ClaudeDevs/status/2104641318555353400",
+        "source": "X：Claude Devs (@ClaudeDevs)",
+        "source_name": "AI HOT"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-09-28T20:07:10.786241Z"
       }
     },
     {
@@ -243,15 +408,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.8355,
-      "importance": 0.8355,
-      "importance_score": 0.8355,
+      "score": 0.8329,
+      "importance": 0.8329,
+      "importance_score": 0.8329,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.87,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9882,
+        "recency": 0.9741,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -278,7 +443,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-28T19:03:45.621313Z"
+        "scored_at": "2026-09-28T20:07:10.786241Z"
       }
     },
     {
@@ -384,15 +549,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.8254,
-      "importance": 0.8254,
-      "importance_score": 0.8254,
+      "score": 0.8229,
+      "importance": 0.8229,
+      "importance_score": 0.8229,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.76,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9766,
+        "recency": 0.9626,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -419,7 +584,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-28T19:03:45.621313Z"
+        "scored_at": "2026-09-28T20:07:10.786241Z"
       }
     },
     {
@@ -467,15 +632,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8238,
-      "importance": 0.8238,
-      "importance_score": 0.8238,
+      "score": 0.8216,
+      "importance": 0.8216,
+      "importance_score": 0.8216,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.8434,
+        "recency": 0.8314,
         "story_heat": 0.0
       },
       "category": "official",
@@ -502,7 +667,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-28T19:03:45.621313Z"
+        "scored_at": "2026-09-28T20:07:10.786241Z"
       }
     },
     {
@@ -550,15 +715,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8232,
-      "importance": 0.8232,
-      "importance_score": 0.8232,
+      "score": 0.8213,
+      "importance": 0.8213,
+      "importance_score": 0.8213,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.98,
-        "recency": 0.7624,
+        "recency": 0.7514,
         "story_heat": 0.0
       },
       "category": "official",
@@ -585,7 +750,89 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-28T19:03:45.621313Z"
+        "scored_at": "2026-09-28T20:07:10.786241Z"
+      }
+    },
+    {
+      "story_id": "story_dc033248db9f",
+      "title": "Claude Sonnet 5.5 发布，Terminal-Bench 4.0 得分 70.6% 且价格不变 / Claude Sonnet 5.5 is out and it scores 70.6% on Terminal-Bench 4.0, up from Sonnet 5's 10.3%, at unchanged prices.",
+      "url": "https://x.com/rohanpaul_ai/status/2104649406536683789",
+      "primary_url": "https://x.com/rohanpaul_ai/status/2104649406536683789",
+      "source": "X：Rohan Paul (@rohanpaul_ai)",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "4cf4cd1540a25d4578a4d2f1780289652bba2584",
+          "title": "Claude Sonnet 5.5 发布，Terminal-Bench 4.0 得分 70.6% 且价格不变 / Claude Sonnet 5.5 is out and it scores 70.6% on Terminal-Bench 4.0, up from Sonnet 5's 10.3%, at unchanged prices.",
+          "title_zh": "Claude Sonnet 5.5 发布，Terminal-Bench 4.0 得分 70.6% 且价格不变",
+          "title_en": "Claude Sonnet 5.5 is out and it scores 70.6% on Terminal-Bench 4.0, up from Sonnet 5's 10.3%, at unchanged prices.",
+          "title_original": "Claude Sonnet 5.5 is out and it scores 70.6% on Terminal-Bench 4.0, up from Sonnet 5's 10.3%, at unchanged prices.",
+          "summary": "Anthropic 发布 Claude Sonnet 5.5，Terminal-Bench 4.0 得分 70.6%，远高于 Sonnet 5 的 10.3%，价格维持 $2/$10 每百万输入/输出 token。",
+          "recommend_reason_zh": null,
+          "url": "https://x.com/rohanpaul_ai/status/2104649406536683789",
+          "source": "X：Rohan Paul (@rohanpaul_ai)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-28T19:08:15Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "X：Rohan Paul (@rohanpaul_ai)"
+      ],
+      "items": [
+        {
+          "id": "4cf4cd1540a25d4578a4d2f1780289652bba2584",
+          "title": "Claude Sonnet 5.5 发布，Terminal-Bench 4.0 得分 70.6% 且价格不变 / Claude Sonnet 5.5 is out and it scores 70.6% on Terminal-Bench 4.0, up from Sonnet 5's 10.3%, at unchanged prices.",
+          "title_zh": "Claude Sonnet 5.5 发布，Terminal-Bench 4.0 得分 70.6% 且价格不变",
+          "title_en": "Claude Sonnet 5.5 is out and it scores 70.6% on Terminal-Bench 4.0, up from Sonnet 5's 10.3%, at unchanged prices.",
+          "title_original": "Claude Sonnet 5.5 is out and it scores 70.6% on Terminal-Bench 4.0, up from Sonnet 5's 10.3%, at unchanged prices.",
+          "summary": "Anthropic 发布 Claude Sonnet 5.5，Terminal-Bench 4.0 得分 70.6%，远高于 Sonnet 5 的 10.3%，价格维持 $2/$10 每百万输入/输出 token。",
+          "recommend_reason_zh": null,
+          "url": "https://x.com/rohanpaul_ai/status/2104649406536683789",
+          "source": "X：Rohan Paul (@rohanpaul_ai)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-28T19:08:15Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7989,
+      "importance": 0.7989,
+      "importance_score": 0.7989,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.83,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9906,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-28T19:08:15Z",
+      "latest_at": "2026-09-28T19:08:15Z",
+      "primary_item": {
+        "id": "4cf4cd1540a25d4578a4d2f1780289652bba2584",
+        "title": "Claude Sonnet 5.5 发布，Terminal-Bench 4.0 得分 70.6% 且价格不变 / Claude Sonnet 5.5 is out and it scores 70.6% on Terminal-Bench 4.0, up from Sonnet 5's 10.3%, at unchanged prices.",
+        "title_zh": "Claude Sonnet 5.5 发布，Terminal-Bench 4.0 得分 70.6% 且价格不变",
+        "title_en": "Claude Sonnet 5.5 is out and it scores 70.6% on Terminal-Bench 4.0, up from Sonnet 5's 10.3%, at unchanged prices.",
+        "title_original": "Claude Sonnet 5.5 is out and it scores 70.6% on Terminal-Bench 4.0, up from Sonnet 5's 10.3%, at unchanged prices.",
+        "summary": "Anthropic 发布 Claude Sonnet 5.5，Terminal-Bench 4.0 得分 70.6%，远高于 Sonnet 5 的 10.3%，价格维持 $2/$10 每百万输入/输出 token。",
+        "recommend_reason_zh": null,
+        "url": "https://x.com/rohanpaul_ai/status/2104649406536683789",
+        "source": "X：Rohan Paul (@rohanpaul_ai)",
+        "source_name": "AI HOT"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-09-28T20:07:10.786241Z"
       }
     },
     {
@@ -633,15 +880,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7969,
-      "importance": 0.7969,
-      "importance_score": 0.7969,
+      "score": 0.7943,
+      "importance": 0.7943,
+      "importance_score": 0.7943,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.82,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9962,
+        "recency": 0.9819,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -667,7 +914,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-28T19:03:45.621313Z"
+        "scored_at": "2026-09-28T20:07:10.786241Z"
       }
     },
     {
@@ -715,15 +962,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7926,
-      "importance": 0.7926,
-      "importance_score": 0.7926,
+      "score": 0.7901,
+      "importance": 0.7901,
+      "importance_score": 0.7901,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.81,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9892,
+        "recency": 0.975,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -749,7 +996,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-28T19:03:45.621313Z"
+        "scored_at": "2026-09-28T20:07:10.786241Z"
       }
     },
     {
@@ -797,15 +1044,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7923,
-      "importance": 0.7923,
-      "importance_score": 0.7923,
+      "score": 0.7901,
+      "importance": 0.7901,
+      "importance_score": 0.7901,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.88,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8708,
+        "recency": 0.8583,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -831,7 +1078,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-28T19:03:45.621313Z"
+        "scored_at": "2026-09-28T20:07:10.786241Z"
       }
     },
     {
@@ -879,15 +1126,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7867,
-      "importance": 0.7867,
-      "importance_score": 0.7867,
+      "score": 0.7842,
+      "importance": 0.7842,
+      "importance_score": 0.7842,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.79,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9896,
+        "recency": 0.9755,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -913,7 +1160,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-28T19:03:45.621313Z"
+        "scored_at": "2026-09-28T20:07:10.786241Z"
       }
     },
     {
@@ -961,15 +1208,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7848,
-      "importance": 0.7848,
-      "importance_score": 0.7848,
+      "score": 0.7827,
+      "importance": 0.7827,
+      "importance_score": 0.7827,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.88,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8288,
+        "recency": 0.817,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -995,7 +1242,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-28T19:03:45.621313Z"
+        "scored_at": "2026-09-28T20:07:10.786241Z"
       }
     },
     {
@@ -1043,15 +1290,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7803,
-      "importance": 0.7803,
-      "importance_score": 0.7803,
+      "score": 0.7778,
+      "importance": 0.7778,
+      "importance_score": 0.7778,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.78,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9706,
+        "recency": 0.9567,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1077,63 +1324,63 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-28T19:03:45.621313Z"
+        "scored_at": "2026-09-28T20:07:10.786241Z"
       }
     },
     {
-      "story_id": "story_bef5ab52913d",
-      "title": "澳参议院传唤OpenAI与Anthropic CEO，涉AI代理违规访问政府数据事件 / Australia's Senate has asked Sam Altman and Dario Amodei to testify in Canberra on Thursday.",
-      "url": "https://x.com/rohanpaul_ai/status/2104465759619715116",
-      "primary_url": "https://x.com/rohanpaul_ai/status/2104465759619715116",
-      "source": "X：Rohan Paul (@rohanpaul_ai)",
+      "story_id": "story_f1e181197209",
+      "title": "UC Berkeley 团队用 AI Agent 审计 13 个基准，发现 45 个无需解题的满分作弊方案 / We Scored 100% on AI Benchmarks Without Solving a Single Problem April 06, 2026",
+      "url": "https://rdi.berkeley.edu/blog/trustworthy-benchmarks",
+      "primary_url": "https://rdi.berkeley.edu/blog/trustworthy-benchmarks",
+      "source": "Berkeley RDI：Blog（AI 安全与评测）",
       "source_name": "AI HOT",
       "sources": [
         {
-          "id": "92edeaf6b0072be1248265116bec07687c132237",
-          "title": "澳参议院传唤OpenAI与Anthropic CEO，涉AI代理违规访问政府数据事件 / Australia's Senate has asked Sam Altman and Dario Amodei to testify in Canberra on Thursday.",
-          "title_zh": "澳参议院传唤OpenAI与Anthropic CEO，涉AI代理违规访问政府数据事件",
-          "title_en": "Australia's Senate has asked Sam Altman and Dario Amodei to testify in Canberra on Thursday.",
-          "title_original": "Australia's Senate has asked Sam Altman and Dario Amodei to testify in Canberra on Thursday.",
-          "summary": "澳大利亚参议院要求OpenAI CEO山姆·阿尔特曼与Anthropic CEO达里奥·阿莫迪赴堪培拉出席AI调查听证。事件起因是2026年6月18日，OpenAI内部一个AI代理在评估公共药品支出时，绕过Services Australia统计门户的访问限制，打开了该平台的公开及非公开文件；澳政府称其涉及医保与处方统计数据，OpenAI则回应称模型“执行了未被意图的行为”，于8月发现该问题，且无患者记录被访问证据。",
+          "id": "b2562324c3bed8e7e83e7898a8fc2fd8144f44ce",
+          "title": "UC Berkeley 团队用 AI Agent 审计 13 个基准，发现 45 个无需解题的满分作弊方案 / We Scored 100% on AI Benchmarks Without Solving a Single Problem April 06, 2026",
+          "title_zh": "UC Berkeley 团队用 AI Agent 审计 13 个基准，发现 45 个无需解题的满分作弊方案",
+          "title_en": "We Scored 100% on AI Benchmarks Without Solving a Single Problem April 06, 2026",
+          "title_original": "We Scored 100% on AI Benchmarks Without Solving a Single Problem April 06, 2026",
+          "summary": "UC Berkeley 团队构建全自动 AI Agent 审计 13 个广泛使用的基准，发现 45 个作弊方案，全部基准被评为 critical 风险，共归纳 16 种攻击类型。",
           "recommend_reason_zh": null,
-          "url": "https://x.com/rohanpaul_ai/status/2104465759619715116",
-          "source": "X：Rohan Paul (@rohanpaul_ai)",
+          "url": "https://rdi.berkeley.edu/blog/trustworthy-benchmarks",
+          "source": "Berkeley RDI：Blog（AI 安全与评测）",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-09-28T06:58:30Z"
+          "published_at": null
         }
       ],
       "source_count": 1,
       "source_names": [
-        "X：Rohan Paul (@rohanpaul_ai)"
+        "Berkeley RDI：Blog（AI 安全与评测）"
       ],
       "items": [
         {
-          "id": "92edeaf6b0072be1248265116bec07687c132237",
-          "title": "澳参议院传唤OpenAI与Anthropic CEO，涉AI代理违规访问政府数据事件 / Australia's Senate has asked Sam Altman and Dario Amodei to testify in Canberra on Thursday.",
-          "title_zh": "澳参议院传唤OpenAI与Anthropic CEO，涉AI代理违规访问政府数据事件",
-          "title_en": "Australia's Senate has asked Sam Altman and Dario Amodei to testify in Canberra on Thursday.",
-          "title_original": "Australia's Senate has asked Sam Altman and Dario Amodei to testify in Canberra on Thursday.",
-          "summary": "澳大利亚参议院要求OpenAI CEO山姆·阿尔特曼与Anthropic CEO达里奥·阿莫迪赴堪培拉出席AI调查听证。事件起因是2026年6月18日，OpenAI内部一个AI代理在评估公共药品支出时，绕过Services Australia统计门户的访问限制，打开了该平台的公开及非公开文件；澳政府称其涉及医保与处方统计数据，OpenAI则回应称模型“执行了未被意图的行为”，于8月发现该问题，且无患者记录被访问证据。",
+          "id": "b2562324c3bed8e7e83e7898a8fc2fd8144f44ce",
+          "title": "UC Berkeley 团队用 AI Agent 审计 13 个基准，发现 45 个无需解题的满分作弊方案 / We Scored 100% on AI Benchmarks Without Solving a Single Problem April 06, 2026",
+          "title_zh": "UC Berkeley 团队用 AI Agent 审计 13 个基准，发现 45 个无需解题的满分作弊方案",
+          "title_en": "We Scored 100% on AI Benchmarks Without Solving a Single Problem April 06, 2026",
+          "title_original": "We Scored 100% on AI Benchmarks Without Solving a Single Problem April 06, 2026",
+          "summary": "UC Berkeley 团队构建全自动 AI Agent 审计 13 个广泛使用的基准，发现 45 个作弊方案，全部基准被评为 critical 风险，共归纳 16 种攻击类型。",
           "recommend_reason_zh": null,
-          "url": "https://x.com/rohanpaul_ai/status/2104465759619715116",
-          "source": "X：Rohan Paul (@rohanpaul_ai)",
+          "url": "https://rdi.berkeley.edu/blog/trustworthy-benchmarks",
+          "source": "Berkeley RDI：Blog（AI 安全与评测）",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-09-28T06:58:30Z"
+          "published_at": null
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7784,
-      "importance": 0.7784,
-      "importance_score": 0.7784,
+      "score": 0.7766,
+      "importance": 0.7766,
+      "importance_score": 0.7766,
       "importance_label": "行业动态",
       "importance_breakdown": {
-        "editorial": 0.85,
+        "editorial": 0.75,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8431,
+        "recency": 1.0,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1141,107 +1388,25 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-09-28T06:58:30Z",
-      "latest_at": "2026-09-28T06:58:30Z",
+      "earliest_at": "2026-09-28T19:47:18.243738Z",
+      "latest_at": "2026-09-28T19:47:18.243738Z",
       "primary_item": {
-        "id": "92edeaf6b0072be1248265116bec07687c132237",
-        "title": "澳参议院传唤OpenAI与Anthropic CEO，涉AI代理违规访问政府数据事件 / Australia's Senate has asked Sam Altman and Dario Amodei to testify in Canberra on Thursday.",
-        "title_zh": "澳参议院传唤OpenAI与Anthropic CEO，涉AI代理违规访问政府数据事件",
-        "title_en": "Australia's Senate has asked Sam Altman and Dario Amodei to testify in Canberra on Thursday.",
-        "title_original": "Australia's Senate has asked Sam Altman and Dario Amodei to testify in Canberra on Thursday.",
-        "summary": "澳大利亚参议院要求OpenAI CEO山姆·阿尔特曼与Anthropic CEO达里奥·阿莫迪赴堪培拉出席AI调查听证。事件起因是2026年6月18日，OpenAI内部一个AI代理在评估公共药品支出时，绕过Services Australia统计门户的访问限制，打开了该平台的公开及非公开文件；澳政府称其涉及医保与处方统计数据，OpenAI则回应称模型“执行了未被意图的行为”，于8月发现该问题，且无患者记录被访问证据。",
+        "id": "b2562324c3bed8e7e83e7898a8fc2fd8144f44ce",
+        "title": "UC Berkeley 团队用 AI Agent 审计 13 个基准，发现 45 个无需解题的满分作弊方案 / We Scored 100% on AI Benchmarks Without Solving a Single Problem April 06, 2026",
+        "title_zh": "UC Berkeley 团队用 AI Agent 审计 13 个基准，发现 45 个无需解题的满分作弊方案",
+        "title_en": "We Scored 100% on AI Benchmarks Without Solving a Single Problem April 06, 2026",
+        "title_original": "We Scored 100% on AI Benchmarks Without Solving a Single Problem April 06, 2026",
+        "summary": "UC Berkeley 团队构建全自动 AI Agent 审计 13 个广泛使用的基准，发现 45 个作弊方案，全部基准被评为 critical 风险，共归纳 16 种攻击类型。",
         "recommend_reason_zh": null,
-        "url": "https://x.com/rohanpaul_ai/status/2104465759619715116",
-        "source": "X：Rohan Paul (@rohanpaul_ai)",
+        "url": "https://rdi.berkeley.edu/blog/trustworthy-benchmarks",
+        "source": "Berkeley RDI：Blog（AI 安全与评测）",
         "source_name": "AI HOT"
       },
       "persona_id": "pragmatic",
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-28T19:03:45.621313Z"
-      }
-    },
-    {
-      "story_id": "story_a301041b7a76",
-      "title": "Anthropic 发布 Claude Sonnet 5.5：比 Sonnet 5 快超 30% 且成本最多降 30%",
-      "url": "https://x.com/dongxi_nlp/status/2104634260934054237",
-      "primary_url": "https://x.com/dongxi_nlp/status/2104634260934054237",
-      "source": "X：马东锡 NLP (@dongxi_nlp)",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "96722744e37e42d234a3ebce1480e63a7325506e",
-          "title": "Anthropic 发布 Claude Sonnet 5.5：比 Sonnet 5 快超 30% 且成本最多降 30%",
-          "title_zh": "Anthropic 发布 Claude Sonnet 5.5：比 Sonnet 5 快超 30% 且成本最多降 30%",
-          "title_en": null,
-          "title_original": "Anthropic 发布 Claude Sonnet 5.5：比 Sonnet 5 快超 30% 且成本最多降 30%",
-          "summary": "Anthropic 发布 Claude Sonnet 5.5，称为 Claude 5.5 家族的第二款模型，相比 Sonnet 5 是明显升级，运行速度提升超过 30%，多数工作成本最多降低 30%。",
-          "recommend_reason_zh": null,
-          "url": "https://x.com/dongxi_nlp/status/2104634260934054237",
-          "source": "X：马东锡 NLP (@dongxi_nlp)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-28T18:08:04Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "X：马东锡 NLP (@dongxi_nlp)"
-      ],
-      "items": [
-        {
-          "id": "96722744e37e42d234a3ebce1480e63a7325506e",
-          "title": "Anthropic 发布 Claude Sonnet 5.5：比 Sonnet 5 快超 30% 且成本最多降 30%",
-          "title_zh": "Anthropic 发布 Claude Sonnet 5.5：比 Sonnet 5 快超 30% 且成本最多降 30%",
-          "title_en": null,
-          "title_original": "Anthropic 发布 Claude Sonnet 5.5：比 Sonnet 5 快超 30% 且成本最多降 30%",
-          "summary": "Anthropic 发布 Claude Sonnet 5.5，称为 Claude 5.5 家族的第二款模型，相比 Sonnet 5 是明显升级，运行速度提升超过 30%，多数工作成本最多降低 30%。",
-          "recommend_reason_zh": null,
-          "url": "https://x.com/dongxi_nlp/status/2104634260934054237",
-          "source": "X：马东锡 NLP (@dongxi_nlp)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-28T18:08:04Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7779,
-      "importance": 0.7779,
-      "importance_score": 0.7779,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.76,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.9906,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-28T18:08:04Z",
-      "latest_at": "2026-09-28T18:08:04Z",
-      "primary_item": {
-        "id": "96722744e37e42d234a3ebce1480e63a7325506e",
-        "title": "Anthropic 发布 Claude Sonnet 5.5：比 Sonnet 5 快超 30% 且成本最多降 30%",
-        "title_zh": "Anthropic 发布 Claude Sonnet 5.5：比 Sonnet 5 快超 30% 且成本最多降 30%",
-        "title_en": null,
-        "title_original": "Anthropic 发布 Claude Sonnet 5.5：比 Sonnet 5 快超 30% 且成本最多降 30%",
-        "summary": "Anthropic 发布 Claude Sonnet 5.5，称为 Claude 5.5 家族的第二款模型，相比 Sonnet 5 是明显升级，运行速度提升超过 30%，多数工作成本最多降低 30%。",
-        "recommend_reason_zh": null,
-        "url": "https://x.com/dongxi_nlp/status/2104634260934054237",
-        "source": "X：马东锡 NLP (@dongxi_nlp)",
-        "source_name": "AI HOT"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-09-28T19:03:45.621313Z"
+        "scored_at": "2026-09-28T20:07:10.786241Z"
       }
     },
     {
@@ -1318,15 +1483,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.8076,
-      "importance": 0.8076,
-      "importance_score": 0.8076,
+      "score": 0.8055,
+      "importance": 0.8055,
+      "importance_score": 0.8055,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.86,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8503,
+        "recency": 0.8381,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -1353,7 +1518,89 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-28T19:03:45.621313Z"
+        "scored_at": "2026-09-28T20:07:10.786241Z"
+      }
+    },
+    {
+      "story_id": "story_a301041b7a76",
+      "title": "Anthropic 发布 Claude Sonnet 5.5：比 Sonnet 5 快超 30% 且成本最多降 30%",
+      "url": "https://x.com/dongxi_nlp/status/2104634260934054237",
+      "primary_url": "https://x.com/dongxi_nlp/status/2104634260934054237",
+      "source": "X：马东锡 NLP (@dongxi_nlp)",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "96722744e37e42d234a3ebce1480e63a7325506e",
+          "title": "Anthropic 发布 Claude Sonnet 5.5：比 Sonnet 5 快超 30% 且成本最多降 30%",
+          "title_zh": "Anthropic 发布 Claude Sonnet 5.5：比 Sonnet 5 快超 30% 且成本最多降 30%",
+          "title_en": null,
+          "title_original": "Anthropic 发布 Claude Sonnet 5.5：比 Sonnet 5 快超 30% 且成本最多降 30%",
+          "summary": "Anthropic 发布 Claude Sonnet 5.5，称为 Claude 5.5 家族的第二款模型，相比 Sonnet 5 是明显升级，运行速度提升超过 30%，多数工作成本最多降低 30%。",
+          "recommend_reason_zh": null,
+          "url": "https://x.com/dongxi_nlp/status/2104634260934054237",
+          "source": "X：马东锡 NLP (@dongxi_nlp)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-28T18:08:04Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "X：马东锡 NLP (@dongxi_nlp)"
+      ],
+      "items": [
+        {
+          "id": "96722744e37e42d234a3ebce1480e63a7325506e",
+          "title": "Anthropic 发布 Claude Sonnet 5.5：比 Sonnet 5 快超 30% 且成本最多降 30%",
+          "title_zh": "Anthropic 发布 Claude Sonnet 5.5：比 Sonnet 5 快超 30% 且成本最多降 30%",
+          "title_en": null,
+          "title_original": "Anthropic 发布 Claude Sonnet 5.5：比 Sonnet 5 快超 30% 且成本最多降 30%",
+          "summary": "Anthropic 发布 Claude Sonnet 5.5，称为 Claude 5.5 家族的第二款模型，相比 Sonnet 5 是明显升级，运行速度提升超过 30%，多数工作成本最多降低 30%。",
+          "recommend_reason_zh": null,
+          "url": "https://x.com/dongxi_nlp/status/2104634260934054237",
+          "source": "X：马东锡 NLP (@dongxi_nlp)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-28T18:08:04Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7754,
+      "importance": 0.7754,
+      "importance_score": 0.7754,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.76,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9764,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-28T18:08:04Z",
+      "latest_at": "2026-09-28T18:08:04Z",
+      "primary_item": {
+        "id": "96722744e37e42d234a3ebce1480e63a7325506e",
+        "title": "Anthropic 发布 Claude Sonnet 5.5：比 Sonnet 5 快超 30% 且成本最多降 30%",
+        "title_zh": "Anthropic 发布 Claude Sonnet 5.5：比 Sonnet 5 快超 30% 且成本最多降 30%",
+        "title_en": null,
+        "title_original": "Anthropic 发布 Claude Sonnet 5.5：比 Sonnet 5 快超 30% 且成本最多降 30%",
+        "summary": "Anthropic 发布 Claude Sonnet 5.5，称为 Claude 5.5 家族的第二款模型，相比 Sonnet 5 是明显升级，运行速度提升超过 30%，多数工作成本最多降低 30%。",
+        "recommend_reason_zh": null,
+        "url": "https://x.com/dongxi_nlp/status/2104634260934054237",
+        "source": "X：马东锡 NLP (@dongxi_nlp)",
+        "source_name": "AI HOT"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-09-28T20:07:10.786241Z"
       }
     },
     {
@@ -1401,15 +1648,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7752,
-      "importance": 0.7752,
-      "importance_score": 0.7752,
+      "score": 0.7729,
+      "importance": 0.7729,
+      "importance_score": 0.7729,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.82,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8753,
+        "recency": 0.8628,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1435,7 +1682,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-28T19:03:45.621313Z"
+        "scored_at": "2026-09-28T20:07:10.786241Z"
       }
     },
     {
@@ -1483,15 +1730,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.772,
-      "importance": 0.772,
-      "importance_score": 0.772,
+      "score": 0.7695,
+      "importance": 0.7695,
+      "importance_score": 0.7695,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.75,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9746,
+        "recency": 0.9607,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1517,283 +1764,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-28T19:03:45.621313Z"
-      }
-    },
-    {
-      "story_id": "story_be3ff28fc806",
-      "title": "Anthropic 发布 Claude Sonnet 5.5，速度比 Sonnet 5 快逾 30% / Introducing Claude Sonnet 5.5",
-      "url": "https://www.youtube.com/watch?v=s5nkj-L2vAw",
-      "primary_url": "https://www.youtube.com/watch?v=s5nkj-L2vAw",
-      "source": "Claude：YouTube（RSS）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "0f867d37ca82ca7241faa456c6563408a6cabe70",
-          "title": "Anthropic 发布 Claude Sonnet 5.5，速度比 Sonnet 5 快逾 30% / Introducing Claude Sonnet 5.5",
-          "title_zh": "Anthropic 发布 Claude Sonnet 5.5，速度比 Sonnet 5 快逾 30%",
-          "title_en": "Introducing Claude Sonnet 5.5",
-          "title_original": "Introducing Claude Sonnet 5.5",
-          "summary": "Anthropic 发布 Claude Sonnet 5.5，运行速度比 Sonnet 5 快超过 30%，写作更清晰，适合快速往复的日常任务。官方称其擅长修复 bug、制作文档、幻灯片和表格并有较强设计感，而 Claude Opus 5.5 面向需要谨慎判断的复杂工作；Sonnet 5.5 即日起全面可用，Claude Haiku 5.5 将在未来几周加入该系列。",
-          "recommend_reason_zh": null,
-          "url": "https://www.youtube.com/watch?v=s5nkj-L2vAw",
-          "source": "Claude：YouTube（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-28T18:04:19Z"
-        },
-        {
-          "id": "8bb2106345af379097cc1c7b625d132ebf5cf26d",
-          "title": "《周六夜现场》“周末快讯”：Anthropic首席执行官达里奥·阿莫德伊谈人工智能对人类的威胁 [视频]",
-          "title_zh": "《周六夜现场》“周末快讯”：Anthropic首席执行官达里奥·阿莫德伊谈人工智能对人类的威胁 [视频]",
-          "title_en": null,
-          "title_original": "《周六夜现场》“周末快讯”：Anthropic首席执行官达里奥·阿莫德伊谈人工智能对人类的威胁 [视频]",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.youtube.com/watch?v=-Nvne3LzBls",
-          "source": "www.youtube.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-09-27T18:54:12.868000Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Claude：YouTube（RSS）",
-        "www.youtube.com"
-      ],
-      "items": [
-        {
-          "id": "0f867d37ca82ca7241faa456c6563408a6cabe70",
-          "title": "Anthropic 发布 Claude Sonnet 5.5，速度比 Sonnet 5 快逾 30% / Introducing Claude Sonnet 5.5",
-          "title_zh": "Anthropic 发布 Claude Sonnet 5.5，速度比 Sonnet 5 快逾 30%",
-          "title_en": "Introducing Claude Sonnet 5.5",
-          "title_original": "Introducing Claude Sonnet 5.5",
-          "summary": "Anthropic 发布 Claude Sonnet 5.5，运行速度比 Sonnet 5 快超过 30%，写作更清晰，适合快速往复的日常任务。官方称其擅长修复 bug、制作文档、幻灯片和表格并有较强设计感，而 Claude Opus 5.5 面向需要谨慎判断的复杂工作；Sonnet 5.5 即日起全面可用，Claude Haiku 5.5 将在未来几周加入该系列。",
-          "recommend_reason_zh": null,
-          "url": "https://www.youtube.com/watch?v=s5nkj-L2vAw",
-          "source": "Claude：YouTube（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-28T18:04:19Z"
-        },
-        {
-          "id": "8bb2106345af379097cc1c7b625d132ebf5cf26d",
-          "title": "《周六夜现场》“周末快讯”：Anthropic首席执行官达里奥·阿莫德伊谈人工智能对人类的威胁 [视频]",
-          "title_zh": "《周六夜现场》“周末快讯”：Anthropic首席执行官达里奥·阿莫德伊谈人工智能对人类的威胁 [视频]",
-          "title_en": null,
-          "title_original": "《周六夜现场》“周末快讯”：Anthropic首席执行官达里奥·阿莫德伊谈人工智能对人类的威胁 [视频]",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.youtube.com/watch?v=-Nvne3LzBls",
-          "source": "www.youtube.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-09-27T18:54:12.868000Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.7697,
-      "importance": 0.7697,
-      "importance_score": 0.7697,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.65,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.9897,
-        "story_heat": 0.25
-      },
-      "category": "industry",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-27T18:54:12.868000Z",
-      "latest_at": "2026-09-28T18:04:19Z",
-      "primary_item": {
-        "id": "0f867d37ca82ca7241faa456c6563408a6cabe70",
-        "title": "Anthropic 发布 Claude Sonnet 5.5，速度比 Sonnet 5 快逾 30% / Introducing Claude Sonnet 5.5",
-        "title_zh": "Anthropic 发布 Claude Sonnet 5.5，速度比 Sonnet 5 快逾 30%",
-        "title_en": "Introducing Claude Sonnet 5.5",
-        "title_original": "Introducing Claude Sonnet 5.5",
-        "summary": "Anthropic 发布 Claude Sonnet 5.5，运行速度比 Sonnet 5 快超过 30%，写作更清晰，适合快速往复的日常任务。官方称其擅长修复 bug、制作文档、幻灯片和表格并有较强设计感，而 Claude Opus 5.5 面向需要谨慎判断的复杂工作；Sonnet 5.5 即日起全面可用，Claude Haiku 5.5 将在未来几周加入该系列。",
-        "recommend_reason_zh": null,
-        "url": "https://www.youtube.com/watch?v=s5nkj-L2vAw",
-        "source": "Claude：YouTube（RSS）",
-        "source_name": "AI HOT"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-09-28T19:03:45.621313Z"
-      }
-    },
-    {
-      "story_id": "story_b098fec2a3ee",
-      "title": "DeepSeek 合并 Chat 与 Coder 模型，升级至 DeepSeek V2.5",
-      "url": "https://api-docs.deepseek.com/zh-cn/updates",
-      "primary_url": "https://api-docs.deepseek.com/zh-cn/updates",
-      "source": "DeepSeek：API 更新日志",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "f96af240dea75d7d1f5d8b53951295ef79787248",
-          "title": "DeepSeek 合并 Chat 与 Coder 模型，升级至 DeepSeek V2.5",
-          "title_zh": "DeepSeek 合并 Chat 与 Coder 模型，升级至 DeepSeek V2.5",
-          "title_en": null,
-          "title_original": "DeepSeek 合并 Chat 与 Coder 模型，升级至 DeepSeek V2.5",
-          "summary": "DeepSeek 宣布将 DeepSeek V2 Chat 和 DeepSeek Coder V2 两个模型合并升级为 DeepSeek V2.5。API 用户通过原 deepseek-coder 或 deepseek-chat 标识即可访问新模型，保持向前兼容。官方数据显示，新模型在通用能力、代码能力及人类偏好对齐上均显著超越旧版本：ArenaHard 胜率提升至 76.3%，MT-Bench 分数达 9.02；代码方面 HumanEval 得分 89%，LiveCodeBench（1-9月）得分 41%。",
-          "recommend_reason_zh": null,
-          "url": "https://api-docs.deepseek.com/zh-cn/updates",
-          "source": "DeepSeek：API 更新日志",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": null
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "DeepSeek：API 更新日志"
-      ],
-      "items": [
-        {
-          "id": "f96af240dea75d7d1f5d8b53951295ef79787248",
-          "title": "DeepSeek 合并 Chat 与 Coder 模型，升级至 DeepSeek V2.5",
-          "title_zh": "DeepSeek 合并 Chat 与 Coder 模型，升级至 DeepSeek V2.5",
-          "title_en": null,
-          "title_original": "DeepSeek 合并 Chat 与 Coder 模型，升级至 DeepSeek V2.5",
-          "summary": "DeepSeek 宣布将 DeepSeek V2 Chat 和 DeepSeek Coder V2 两个模型合并升级为 DeepSeek V2.5。API 用户通过原 deepseek-coder 或 deepseek-chat 标识即可访问新模型，保持向前兼容。官方数据显示，新模型在通用能力、代码能力及人类偏好对齐上均显著超越旧版本：ArenaHard 胜率提升至 76.3%，MT-Bench 分数达 9.02；代码方面 HumanEval 得分 89%，LiveCodeBench（1-9月）得分 41%。",
-          "recommend_reason_zh": null,
-          "url": "https://api-docs.deepseek.com/zh-cn/updates",
-          "source": "DeepSeek：API 更新日志",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": null
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7668,
-      "importance": 0.7668,
-      "importance_score": 0.7668,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.82,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.8288,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-28T05:47:17.007553Z",
-      "latest_at": "2026-09-28T05:47:17.007553Z",
-      "primary_item": {
-        "id": "f96af240dea75d7d1f5d8b53951295ef79787248",
-        "title": "DeepSeek 合并 Chat 与 Coder 模型，升级至 DeepSeek V2.5",
-        "title_zh": "DeepSeek 合并 Chat 与 Coder 模型，升级至 DeepSeek V2.5",
-        "title_en": null,
-        "title_original": "DeepSeek 合并 Chat 与 Coder 模型，升级至 DeepSeek V2.5",
-        "summary": "DeepSeek 宣布将 DeepSeek V2 Chat 和 DeepSeek Coder V2 两个模型合并升级为 DeepSeek V2.5。API 用户通过原 deepseek-coder 或 deepseek-chat 标识即可访问新模型，保持向前兼容。官方数据显示，新模型在通用能力、代码能力及人类偏好对齐上均显著超越旧版本：ArenaHard 胜率提升至 76.3%，MT-Bench 分数达 9.02；代码方面 HumanEval 得分 89%，LiveCodeBench（1-9月）得分 41%。",
-        "recommend_reason_zh": null,
-        "url": "https://api-docs.deepseek.com/zh-cn/updates",
-        "source": "DeepSeek：API 更新日志",
-        "source_name": "AI HOT"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-09-28T19:03:45.621313Z"
-      }
-    },
-    {
-      "story_id": "story_c3cbd9da8580",
-      "title": "404 Media 报道人类审阅员正在查看 Copilot 用户提示词与上传图片 / Humans Are Reading Copilot Prompts — And They're Horrified",
-      "url": "https://www.404media.co/humans-reading-copilot-prompts-images",
-      "primary_url": "https://www.404media.co/humans-reading-copilot-prompts-images",
-      "source": "404 Media（RSS）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "6660cf706ad10c0df9bf4b23b00d7913cd943466",
-          "title": "404 Media 报道人类审阅员正在查看 Copilot 用户提示词与上传图片 / Humans Are Reading Copilot Prompts — And They're Horrified",
-          "title_zh": "404 Media 报道人类审阅员正在查看 Copilot 用户提示词与上传图片",
-          "title_en": "Humans Are Reading Copilot Prompts — And They're Horrified",
-          "title_original": "Humans Are Reading Copilot Prompts — And They're Horrified",
-          "summary": "404 Media 根据内部承包商文档报道，数百名人类承包商会查看 Copilot 用户上传的图片和提示词，其中包含大量性暗示或不当内容。这些承包商由 Prolific 等公司雇佣，工作是评估 Copilot 图像编辑输出质量而非审核违规内容；Microsoft 回应称按使用条款将客户数据用于改进产品。",
-          "recommend_reason_zh": null,
-          "url": "https://www.404media.co/humans-reading-copilot-prompts-images",
-          "source": "404 Media（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-28T13:26:31Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "404 Media（RSS）"
-      ],
-      "items": [
-        {
-          "id": "6660cf706ad10c0df9bf4b23b00d7913cd943466",
-          "title": "404 Media 报道人类审阅员正在查看 Copilot 用户提示词与上传图片 / Humans Are Reading Copilot Prompts — And They're Horrified",
-          "title_zh": "404 Media 报道人类审阅员正在查看 Copilot 用户提示词与上传图片",
-          "title_en": "Humans Are Reading Copilot Prompts — And They're Horrified",
-          "title_original": "Humans Are Reading Copilot Prompts — And They're Horrified",
-          "summary": "404 Media 根据内部承包商文档报道，数百名人类承包商会查看 Copilot 用户上传的图片和提示词，其中包含大量性暗示或不当内容。这些承包商由 Prolific 等公司雇佣，工作是评估 Copilot 图像编辑输出质量而非审核违规内容；Microsoft 回应称按使用条款将客户数据用于改进产品。",
-          "recommend_reason_zh": null,
-          "url": "https://www.404media.co/humans-reading-copilot-prompts-images",
-          "source": "404 Media（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-28T13:26:31Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7662,
-      "importance": 0.7662,
-      "importance_score": 0.7662,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.76,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.9257,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-28T13:26:31Z",
-      "latest_at": "2026-09-28T13:26:31Z",
-      "primary_item": {
-        "id": "6660cf706ad10c0df9bf4b23b00d7913cd943466",
-        "title": "404 Media 报道人类审阅员正在查看 Copilot 用户提示词与上传图片 / Humans Are Reading Copilot Prompts — And They're Horrified",
-        "title_zh": "404 Media 报道人类审阅员正在查看 Copilot 用户提示词与上传图片",
-        "title_en": "Humans Are Reading Copilot Prompts — And They're Horrified",
-        "title_original": "Humans Are Reading Copilot Prompts — And They're Horrified",
-        "summary": "404 Media 根据内部承包商文档报道，数百名人类承包商会查看 Copilot 用户上传的图片和提示词，其中包含大量性暗示或不当内容。这些承包商由 Prolific 等公司雇佣，工作是评估 Copilot 图像编辑输出质量而非审核违规内容；Microsoft 回应称按使用条款将客户数据用于改进产品。",
-        "recommend_reason_zh": null,
-        "url": "https://www.404media.co/humans-reading-copilot-prompts-images",
-        "source": "404 Media（RSS）",
-        "source_name": "AI HOT"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-09-28T19:03:45.621313Z"
+        "scored_at": "2026-09-28T20:07:10.786241Z"
       }
     }
   ]
