@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-28T07:47:19.314398Z",
+  "generated_at": "2026-09-28T08:47:24.222577Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -48,15 +48,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8105,
-      "importance": 0.8105,
-      "importance_score": 0.8105,
+      "score": 0.808,
+      "importance": 0.808,
+      "importance_score": 0.808,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.88,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9715,
+        "recency": 0.9576,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -82,7 +82,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-28T07:48:02.808471Z"
+        "scored_at": "2026-09-28T08:48:02.256610Z"
       }
     },
     {
@@ -130,15 +130,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8045,
-      "importance": 0.8045,
-      "importance_score": 0.8045,
+      "score": 0.8019,
+      "importance": 0.8019,
+      "importance_score": 0.8019,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.85,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9883,
+        "recency": 0.9741,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -164,7 +164,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-28T07:48:02.808471Z"
+        "scored_at": "2026-09-28T08:48:02.256610Z"
       }
     },
     {
@@ -212,15 +212,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7925,
-      "importance": 0.7925,
-      "importance_score": 0.7925,
+      "score": 0.79,
+      "importance": 0.79,
+      "importance_score": 0.79,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.82,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9715,
+        "recency": 0.9576,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -246,7 +246,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-28T07:48:02.808471Z"
+        "scored_at": "2026-09-28T08:48:02.256610Z"
       }
     },
     {
@@ -294,15 +294,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7845,
-      "importance": 0.7845,
-      "importance_score": 0.7845,
+      "score": 0.782,
+      "importance": 0.782,
+      "importance_score": 0.782,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.78,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9941,
+        "recency": 0.9798,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -328,7 +328,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-28T07:48:02.808471Z"
+        "scored_at": "2026-09-28T08:48:02.256610Z"
       }
     },
     {
@@ -376,15 +376,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7805,
-      "importance": 0.7805,
-      "importance_score": 0.7805,
+      "score": 0.778,
+      "importance": 0.778,
+      "importance_score": 0.778,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.78,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9715,
+        "recency": 0.9576,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -410,7 +410,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-28T07:48:02.808471Z"
+        "scored_at": "2026-09-28T08:48:02.256610Z"
       }
     },
     {
@@ -458,15 +458,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7773,
-      "importance": 0.7773,
-      "importance_score": 0.7773,
+      "score": 0.7748,
+      "importance": 0.7748,
+      "importance_score": 0.7748,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.78,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9539,
+        "recency": 0.9402,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -492,30 +492,30 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-28T07:48:02.808471Z"
+        "scored_at": "2026-09-28T08:48:02.256610Z"
       }
     },
     {
-      "story_id": "story_1bb2feafc8a4",
-      "title": "OpenAI 重排 Pro 档位：5x和20x用量承诺下线",
-      "url": "https://www.aibase.com/news/31379",
-      "primary_url": "https://www.aibase.com/news/31379",
+      "story_id": "story_939d4ba70b3b",
+      "title": "千问App接入夸克网盘，AI直接翻文件成新内容",
+      "url": "https://www.aibase.com/news/31386",
+      "primary_url": "https://www.aibase.com/news/31386",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "d522927d6e5640973796661e6ca32fc3d3e246e5",
-          "title": "OpenAI 重排 Pro 档位：5x和20x用量承诺下线",
-          "title_zh": "OpenAI 重排 Pro 档位：5x和20x用量承诺下线",
+          "id": "82af95aecd7ee918a361416c6d451cda6b3afa66",
+          "title": "千问App接入夸克网盘，AI直接翻文件成新内容",
+          "title_zh": "千问App接入夸克网盘，AI直接翻文件成新内容",
           "title_en": null,
-          "title_original": "OpenAI 重排 Pro 档位：5x和20x用量承诺下线",
+          "title_original": "千问App接入夸克网盘，AI直接翻文件成新内容",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/31379",
+          "url": "https://www.aibase.com/news/31386",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-09-28T06:47:56.477555Z"
+          "published_at": "2026-09-28T08:47:24.222577Z"
         }
       ],
       "source_count": 1,
@@ -524,31 +524,31 @@
       ],
       "items": [
         {
-          "id": "d522927d6e5640973796661e6ca32fc3d3e246e5",
-          "title": "OpenAI 重排 Pro 档位：5x和20x用量承诺下线",
-          "title_zh": "OpenAI 重排 Pro 档位：5x和20x用量承诺下线",
+          "id": "82af95aecd7ee918a361416c6d451cda6b3afa66",
+          "title": "千问App接入夸克网盘，AI直接翻文件成新内容",
+          "title_zh": "千问App接入夸克网盘，AI直接翻文件成新内容",
           "title_en": null,
-          "title_original": "OpenAI 重排 Pro 档位：5x和20x用量承诺下线",
+          "title_original": "千问App接入夸克网盘，AI直接翻文件成新内容",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/31379",
+          "url": "https://www.aibase.com/news/31386",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-09-28T06:47:56.477555Z"
+          "published_at": "2026-09-28T08:47:24.222577Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.765,
-      "importance": 0.765,
-      "importance_score": 0.765,
+      "score": 0.7676,
+      "importance": 0.7676,
+      "importance_score": 0.7676,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9858,
+        "recency": 1.0,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -556,17 +556,17 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-09-28T06:47:56.477555Z",
-      "latest_at": "2026-09-28T06:47:56.477555Z",
+      "earliest_at": "2026-09-28T08:47:24.222577Z",
+      "latest_at": "2026-09-28T08:47:24.222577Z",
       "primary_item": {
-        "id": "d522927d6e5640973796661e6ca32fc3d3e246e5",
-        "title": "OpenAI 重排 Pro 档位：5x和20x用量承诺下线",
-        "title_zh": "OpenAI 重排 Pro 档位：5x和20x用量承诺下线",
+        "id": "82af95aecd7ee918a361416c6d451cda6b3afa66",
+        "title": "千问App接入夸克网盘，AI直接翻文件成新内容",
+        "title_zh": "千问App接入夸克网盘，AI直接翻文件成新内容",
         "title_en": null,
-        "title_original": "OpenAI 重排 Pro 档位：5x和20x用量承诺下线",
+        "title_original": "千问App接入夸克网盘，AI直接翻文件成新内容",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/31379",
+        "url": "https://www.aibase.com/news/31386",
         "source": "AIbase",
         "source_name": "AIbase"
       },
@@ -574,7 +574,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-28T07:48:02.808471Z"
+        "scored_at": "2026-09-28T08:48:02.256610Z"
       }
     },
     {
@@ -622,15 +622,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7925,
-      "importance": 0.7925,
-      "importance_score": 0.7925,
+      "score": 0.79,
+      "importance": 0.79,
+      "importance_score": 0.79,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.82,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9715,
+        "recency": 0.9576,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -656,7 +656,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-28T07:48:02.808471Z"
+        "scored_at": "2026-09-28T08:48:02.256610Z"
       }
     },
     {
@@ -733,15 +733,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.761,
-      "importance": 0.761,
-      "importance_score": 0.761,
+      "score": 0.7591,
+      "importance": 0.7591,
+      "importance_score": 0.7591,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.78,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7243,
+        "recency": 0.7139,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -768,30 +768,30 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-28T07:48:02.808471Z"
+        "scored_at": "2026-09-28T08:48:02.256610Z"
       }
     },
     {
-      "story_id": "story_85428ac91ad4",
-      "title": "​MiniMax 全新文本模型 M3.1-Flash-Preview 正式公测",
-      "url": "https://www.aibase.com/news/31383",
-      "primary_url": "https://www.aibase.com/news/31383",
+      "story_id": "story_07f54f217147",
+      "title": "千问牵手夸克网盘：授权后翻找整理资料，照片还能秒变海报",
+      "url": "https://www.aibase.com/news/31387",
+      "primary_url": "https://www.aibase.com/news/31387",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "a261e2259e52485ea33c81d8152e0cb157f70c75",
-          "title": "​MiniMax 全新文本模型 M3.1-Flash-Preview 正式公测",
-          "title_zh": "​MiniMax 全新文本模型 M3.1-Flash-Preview 正式公测",
+          "id": "24c35998e786f8bf0d4bb34f67391d61977dd44f",
+          "title": "千问牵手夸克网盘：授权后翻找整理资料，照片还能秒变海报",
+          "title_zh": "千问牵手夸克网盘：授权后翻找整理资料，照片还能秒变海报",
           "title_en": null,
-          "title_original": "​MiniMax 全新文本模型 M3.1-Flash-Preview 正式公测",
+          "title_original": "千问牵手夸克网盘：授权后翻找整理资料，照片还能秒变海报",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/31383",
+          "url": "https://www.aibase.com/news/31387",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-09-28T06:47:56.477555Z"
+          "published_at": "2026-09-28T08:47:24.222577Z"
         }
       ],
       "source_count": 1,
@@ -800,31 +800,31 @@
       ],
       "items": [
         {
-          "id": "a261e2259e52485ea33c81d8152e0cb157f70c75",
-          "title": "​MiniMax 全新文本模型 M3.1-Flash-Preview 正式公测",
-          "title_zh": "​MiniMax 全新文本模型 M3.1-Flash-Preview 正式公测",
+          "id": "24c35998e786f8bf0d4bb34f67391d61977dd44f",
+          "title": "千问牵手夸克网盘：授权后翻找整理资料，照片还能秒变海报",
+          "title_zh": "千问牵手夸克网盘：授权后翻找整理资料，照片还能秒变海报",
           "title_en": null,
-          "title_original": "​MiniMax 全新文本模型 M3.1-Flash-Preview 正式公测",
+          "title_original": "千问牵手夸克网盘：授权后翻找整理资料，照片还能秒变海报",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/31383",
+          "url": "https://www.aibase.com/news/31387",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-09-28T06:47:56.477555Z"
+          "published_at": "2026-09-28T08:47:24.222577Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.765,
-      "importance": 0.765,
-      "importance_score": 0.765,
+      "score": 0.7676,
+      "importance": 0.7676,
+      "importance_score": 0.7676,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9858,
+        "recency": 1.0,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -832,17 +832,17 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-09-28T06:47:56.477555Z",
-      "latest_at": "2026-09-28T06:47:56.477555Z",
+      "earliest_at": "2026-09-28T08:47:24.222577Z",
+      "latest_at": "2026-09-28T08:47:24.222577Z",
       "primary_item": {
-        "id": "a261e2259e52485ea33c81d8152e0cb157f70c75",
-        "title": "​MiniMax 全新文本模型 M3.1-Flash-Preview 正式公测",
-        "title_zh": "​MiniMax 全新文本模型 M3.1-Flash-Preview 正式公测",
+        "id": "24c35998e786f8bf0d4bb34f67391d61977dd44f",
+        "title": "千问牵手夸克网盘：授权后翻找整理资料，照片还能秒变海报",
+        "title_zh": "千问牵手夸克网盘：授权后翻找整理资料，照片还能秒变海报",
         "title_en": null,
-        "title_original": "​MiniMax 全新文本模型 M3.1-Flash-Preview 正式公测",
+        "title_original": "千问牵手夸克网盘：授权后翻找整理资料，照片还能秒变海报",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/31383",
+        "url": "https://www.aibase.com/news/31387",
         "source": "AIbase",
         "source_name": "AIbase"
       },
@@ -850,7 +850,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-28T07:48:02.808471Z"
+        "scored_at": "2026-09-28T08:48:02.256610Z"
       }
     },
     {
@@ -898,15 +898,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7925,
-      "importance": 0.7925,
-      "importance_score": 0.7925,
+      "score": 0.79,
+      "importance": 0.79,
+      "importance_score": 0.79,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.82,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9715,
+        "recency": 0.9576,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -932,7 +932,253 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-28T07:48:02.808471Z"
+        "scored_at": "2026-09-28T08:48:02.256610Z"
+      }
+    },
+    {
+      "story_id": "story_0b17a2bb6448",
+      "title": "暗网疯抢 AI 算力：顶配账号打三折卖，黑客白嫖大模型搞攻击",
+      "url": "https://www.aibase.com/news/31384",
+      "primary_url": "https://www.aibase.com/news/31384",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "a02247fdf68446233c3477e7f0dd4a99dd665f25",
+          "title": "暗网疯抢 AI 算力：顶配账号打三折卖，黑客白嫖大模型搞攻击",
+          "title_zh": "暗网疯抢 AI 算力：顶配账号打三折卖，黑客白嫖大模型搞攻击",
+          "title_en": null,
+          "title_original": "暗网疯抢 AI 算力：顶配账号打三折卖，黑客白嫖大模型搞攻击",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/31384",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-09-28T08:47:24.222577Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "a02247fdf68446233c3477e7f0dd4a99dd665f25",
+          "title": "暗网疯抢 AI 算力：顶配账号打三折卖，黑客白嫖大模型搞攻击",
+          "title_zh": "暗网疯抢 AI 算力：顶配账号打三折卖，黑客白嫖大模型搞攻击",
+          "title_en": null,
+          "title_original": "暗网疯抢 AI 算力：顶配账号打三折卖，黑客白嫖大模型搞攻击",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/31384",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-09-28T08:47:24.222577Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7676,
+      "importance": 0.7676,
+      "importance_score": 0.7676,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-28T08:47:24.222577Z",
+      "latest_at": "2026-09-28T08:47:24.222577Z",
+      "primary_item": {
+        "id": "a02247fdf68446233c3477e7f0dd4a99dd665f25",
+        "title": "暗网疯抢 AI 算力：顶配账号打三折卖，黑客白嫖大模型搞攻击",
+        "title_zh": "暗网疯抢 AI 算力：顶配账号打三折卖，黑客白嫖大模型搞攻击",
+        "title_en": null,
+        "title_original": "暗网疯抢 AI 算力：顶配账号打三折卖，黑客白嫖大模型搞攻击",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://www.aibase.com/news/31384",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-09-28T08:48:02.256610Z"
+      }
+    },
+    {
+      "story_id": "story_1bb2feafc8a4",
+      "title": "OpenAI 重排 Pro 档位：5x和20x用量承诺下线",
+      "url": "https://www.aibase.com/news/31379",
+      "primary_url": "https://www.aibase.com/news/31379",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "d522927d6e5640973796661e6ca32fc3d3e246e5",
+          "title": "OpenAI 重排 Pro 档位：5x和20x用量承诺下线",
+          "title_zh": "OpenAI 重排 Pro 档位：5x和20x用量承诺下线",
+          "title_en": null,
+          "title_original": "OpenAI 重排 Pro 档位：5x和20x用量承诺下线",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/31379",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-09-28T06:47:56.477555Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "d522927d6e5640973796661e6ca32fc3d3e246e5",
+          "title": "OpenAI 重排 Pro 档位：5x和20x用量承诺下线",
+          "title_zh": "OpenAI 重排 Pro 档位：5x和20x用量承诺下线",
+          "title_en": null,
+          "title_original": "OpenAI 重排 Pro 档位：5x和20x用量承诺下线",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/31379",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-09-28T06:47:56.477555Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7625,
+      "importance": 0.7625,
+      "importance_score": 0.7625,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9717,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-28T06:47:56.477555Z",
+      "latest_at": "2026-09-28T06:47:56.477555Z",
+      "primary_item": {
+        "id": "d522927d6e5640973796661e6ca32fc3d3e246e5",
+        "title": "OpenAI 重排 Pro 档位：5x和20x用量承诺下线",
+        "title_zh": "OpenAI 重排 Pro 档位：5x和20x用量承诺下线",
+        "title_en": null,
+        "title_original": "OpenAI 重排 Pro 档位：5x和20x用量承诺下线",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://www.aibase.com/news/31379",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-09-28T08:48:02.256610Z"
+      }
+    },
+    {
+      "story_id": "story_85428ac91ad4",
+      "title": "​MiniMax 全新文本模型 M3.1-Flash-Preview 正式公测",
+      "url": "https://www.aibase.com/news/31383",
+      "primary_url": "https://www.aibase.com/news/31383",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "a261e2259e52485ea33c81d8152e0cb157f70c75",
+          "title": "​MiniMax 全新文本模型 M3.1-Flash-Preview 正式公测",
+          "title_zh": "​MiniMax 全新文本模型 M3.1-Flash-Preview 正式公测",
+          "title_en": null,
+          "title_original": "​MiniMax 全新文本模型 M3.1-Flash-Preview 正式公测",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/31383",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-09-28T06:47:56.477555Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "a261e2259e52485ea33c81d8152e0cb157f70c75",
+          "title": "​MiniMax 全新文本模型 M3.1-Flash-Preview 正式公测",
+          "title_zh": "​MiniMax 全新文本模型 M3.1-Flash-Preview 正式公测",
+          "title_en": null,
+          "title_original": "​MiniMax 全新文本模型 M3.1-Flash-Preview 正式公测",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/31383",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-09-28T06:47:56.477555Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7625,
+      "importance": 0.7625,
+      "importance_score": 0.7625,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9717,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-28T06:47:56.477555Z",
+      "latest_at": "2026-09-28T06:47:56.477555Z",
+      "primary_item": {
+        "id": "a261e2259e52485ea33c81d8152e0cb157f70c75",
+        "title": "​MiniMax 全新文本模型 M3.1-Flash-Preview 正式公测",
+        "title_zh": "​MiniMax 全新文本模型 M3.1-Flash-Preview 正式公测",
+        "title_en": null,
+        "title_original": "​MiniMax 全新文本模型 M3.1-Flash-Preview 正式公测",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://www.aibase.com/news/31383",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-09-28T08:48:02.256610Z"
       }
     },
     {
@@ -980,15 +1226,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.765,
-      "importance": 0.765,
-      "importance_score": 0.765,
+      "score": 0.7625,
+      "importance": 0.7625,
+      "importance_score": 0.7625,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9858,
+        "recency": 0.9717,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1014,7 +1260,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-28T07:48:02.808471Z"
+        "scored_at": "2026-09-28T08:48:02.256610Z"
       }
     },
     {
@@ -1062,15 +1308,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.765,
-      "importance": 0.765,
-      "importance_score": 0.765,
+      "score": 0.7625,
+      "importance": 0.7625,
+      "importance_score": 0.7625,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9858,
+        "recency": 0.9717,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1096,253 +1342,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-28T07:48:02.808471Z"
-      }
-    },
-    {
-      "story_id": "story_9117f82403b6",
-      "title": "英伟达发布1亿参数免费模型Nemotron3，支持8人实时语音分割识别",
-      "url": "https://www.aibase.com/news/31382",
-      "primary_url": "https://www.aibase.com/news/31382",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "ca3e0a5ce469cfdef60906b1f24fd4a5e15baaa6",
-          "title": "英伟达发布1亿参数免费模型Nemotron3，支持8人实时语音分割识别",
-          "title_zh": "英伟达发布1亿参数免费模型Nemotron3，支持8人实时语音分割识别",
-          "title_en": null,
-          "title_original": "英伟达发布1亿参数免费模型Nemotron3，支持8人实时语音分割识别",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/31382",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-09-28T06:47:56.477555Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "ca3e0a5ce469cfdef60906b1f24fd4a5e15baaa6",
-          "title": "英伟达发布1亿参数免费模型Nemotron3，支持8人实时语音分割识别",
-          "title_zh": "英伟达发布1亿参数免费模型Nemotron3，支持8人实时语音分割识别",
-          "title_en": null,
-          "title_original": "英伟达发布1亿参数免费模型Nemotron3，支持8人实时语音分割识别",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/31382",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-09-28T06:47:56.477555Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.765,
-      "importance": 0.765,
-      "importance_score": 0.765,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.9858,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-28T06:47:56.477555Z",
-      "latest_at": "2026-09-28T06:47:56.477555Z",
-      "primary_item": {
-        "id": "ca3e0a5ce469cfdef60906b1f24fd4a5e15baaa6",
-        "title": "英伟达发布1亿参数免费模型Nemotron3，支持8人实时语音分割识别",
-        "title_zh": "英伟达发布1亿参数免费模型Nemotron3，支持8人实时语音分割识别",
-        "title_en": null,
-        "title_original": "英伟达发布1亿参数免费模型Nemotron3，支持8人实时语音分割识别",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/31382",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-09-28T07:48:02.808471Z"
-      }
-    },
-    {
-      "story_id": "story_4942527d74f8",
-      "title": "谷歌在印度测试 Gemini 内直购 Flipkart 商品，全面进军端内交易生态",
-      "url": "https://www.aibase.com/news/31380",
-      "primary_url": "https://www.aibase.com/news/31380",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "fb181ab5c1b86d26c69a27bc790f919c30816e27",
-          "title": "谷歌在印度测试 Gemini 内直购 Flipkart 商品，全面进军端内交易生态",
-          "title_zh": "谷歌在印度测试 Gemini 内直购 Flipkart 商品，全面进军端内交易生态",
-          "title_en": null,
-          "title_original": "谷歌在印度测试 Gemini 内直购 Flipkart 商品，全面进军端内交易生态",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/31380",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-09-28T06:47:56.477555Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "fb181ab5c1b86d26c69a27bc790f919c30816e27",
-          "title": "谷歌在印度测试 Gemini 内直购 Flipkart 商品，全面进军端内交易生态",
-          "title_zh": "谷歌在印度测试 Gemini 内直购 Flipkart 商品，全面进军端内交易生态",
-          "title_en": null,
-          "title_original": "谷歌在印度测试 Gemini 内直购 Flipkart 商品，全面进军端内交易生态",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/31380",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-09-28T06:47:56.477555Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.765,
-      "importance": 0.765,
-      "importance_score": 0.765,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.9858,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-28T06:47:56.477555Z",
-      "latest_at": "2026-09-28T06:47:56.477555Z",
-      "primary_item": {
-        "id": "fb181ab5c1b86d26c69a27bc790f919c30816e27",
-        "title": "谷歌在印度测试 Gemini 内直购 Flipkart 商品，全面进军端内交易生态",
-        "title_zh": "谷歌在印度测试 Gemini 内直购 Flipkart 商品，全面进军端内交易生态",
-        "title_en": null,
-        "title_original": "谷歌在印度测试 Gemini 内直购 Flipkart 商品，全面进军端内交易生态",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/31380",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-09-28T07:48:02.808471Z"
-      }
-    },
-    {
-      "story_id": "story_67fd4dc43332",
-      "title": "谷歌把 Colab 算力塞进 AI 会员：Ultra 用户免挂标签页也能跑长训练",
-      "url": "https://www.aibase.com/news/31381",
-      "primary_url": "https://www.aibase.com/news/31381",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "5150ad110c67fe57735ab978a9dcd0b28a11c7b8",
-          "title": "谷歌把 Colab 算力塞进 AI 会员：Ultra 用户免挂标签页也能跑长训练",
-          "title_zh": "谷歌把 Colab 算力塞进 AI 会员：Ultra 用户免挂标签页也能跑长训练",
-          "title_en": null,
-          "title_original": "谷歌把 Colab 算力塞进 AI 会员：Ultra 用户免挂标签页也能跑长训练",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/31381",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-09-28T06:47:56.477555Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "5150ad110c67fe57735ab978a9dcd0b28a11c7b8",
-          "title": "谷歌把 Colab 算力塞进 AI 会员：Ultra 用户免挂标签页也能跑长训练",
-          "title_zh": "谷歌把 Colab 算力塞进 AI 会员：Ultra 用户免挂标签页也能跑长训练",
-          "title_en": null,
-          "title_original": "谷歌把 Colab 算力塞进 AI 会员：Ultra 用户免挂标签页也能跑长训练",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/31381",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-09-28T06:47:56.477555Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.765,
-      "importance": 0.765,
-      "importance_score": 0.765,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.9858,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-28T06:47:56.477555Z",
-      "latest_at": "2026-09-28T06:47:56.477555Z",
-      "primary_item": {
-        "id": "5150ad110c67fe57735ab978a9dcd0b28a11c7b8",
-        "title": "谷歌把 Colab 算力塞进 AI 会员：Ultra 用户免挂标签页也能跑长训练",
-        "title_zh": "谷歌把 Colab 算力塞进 AI 会员：Ultra 用户免挂标签页也能跑长训练",
-        "title_en": null,
-        "title_original": "谷歌把 Colab 算力塞进 AI 会员：Ultra 用户免挂标签页也能跑长训练",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/31381",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-09-28T07:48:02.808471Z"
+        "scored_at": "2026-09-28T08:48:02.256610Z"
       }
     },
     {
@@ -1448,15 +1448,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5652,
-      "importance": 0.5652,
-      "importance_score": 0.5652,
+      "score": 0.5627,
+      "importance": 0.5627,
+      "importance_score": 0.5627,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9689,
+        "recency": 0.955,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1481,7 +1481,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-28T07:48:02.808471Z"
+        "scored_at": "2026-09-28T08:48:02.256610Z"
       }
     },
     {
@@ -1587,15 +1587,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5597,
-      "importance": 0.5597,
-      "importance_score": 0.5597,
+      "score": 0.5573,
+      "importance": 0.5573,
+      "importance_score": 0.5573,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9386,
+        "recency": 0.9251,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1620,7 +1620,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-28T07:48:02.808471Z"
+        "scored_at": "2026-09-28T08:48:02.256610Z"
       }
     },
     {
@@ -1726,15 +1726,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5569,
-      "importance": 0.5569,
-      "importance_score": 0.5569,
+      "score": 0.5545,
+      "importance": 0.5545,
+      "importance_score": 0.5545,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9225,
+        "recency": 0.9093,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1759,146 +1759,89 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-28T07:48:02.808471Z"
+        "scored_at": "2026-09-28T08:48:02.256610Z"
       }
     },
     {
-      "story_id": "story_47a080855edb",
-      "title": "“作为语言模型”：聊天模板切换了大语言模型的自指代语气",
-      "url": "https://arxiv.org/abs/2609.25021",
-      "primary_url": "https://arxiv.org/abs/2609.25021",
-      "source": "arxiv.org",
-      "source_name": "Buzzing",
+      "story_id": "story_9117f82403b6",
+      "title": "英伟达发布1亿参数免费模型Nemotron3，支持8人实时语音分割识别",
+      "url": "https://www.aibase.com/news/31382",
+      "primary_url": "https://www.aibase.com/news/31382",
+      "source": "AIbase",
+      "source_name": "AIbase",
       "sources": [
         {
-          "id": "9bb747ea93d2d2f1c2bd956586b6a8f10227068a",
-          "title": "“作为语言模型”：聊天模板切换了大语言模型的自指代语气",
-          "title_zh": "“作为语言模型”：聊天模板切换了大语言模型的自指代语气",
+          "id": "ca3e0a5ce469cfdef60906b1f24fd4a5e15baaa6",
+          "title": "英伟达发布1亿参数免费模型Nemotron3，支持8人实时语音分割识别",
+          "title_zh": "英伟达发布1亿参数免费模型Nemotron3，支持8人实时语音分割识别",
           "title_en": null,
-          "title_original": "“作为语言模型”：聊天模板切换了大语言模型的自指代语气",
+          "title_original": "英伟达发布1亿参数免费模型Nemotron3，支持8人实时语音分割识别",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://arxiv.org/abs/2609.25021",
-          "source": "arxiv.org",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-09-27T23:49:58.724000Z"
-        },
-        {
-          "id": "c855af49750f129fc2d526ad58a2b2da90ac1157",
-          "title": "“作为语言模型”：聊天模板切换了大语言模型的自指代语气 / \"As a Language Model\": Chat Template Switches LLM Self-Referential Voice",
-          "title_zh": "“作为语言模型”：聊天模板切换了大语言模型的自指代语气",
-          "title_en": "\"As a Language Model\": Chat Template Switches LLM Self-Referential Voice",
-          "title_original": "\"As a Language Model\": Chat Template Switches LLM Self-Referential Voice",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://arxiv.org/abs/2609.25021",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-09-27T10:26:25Z"
-        },
-        {
-          "id": "95840a4f4ca7ac30329544bbd7322762e71a20d2",
-          "title": "“作为语言模型”：聊天模板切换 LLM 自指语音 / \"As a Language Model\": Chat Template Switches LLM Self-Referential Voice",
-          "title_zh": "“作为语言模型”：聊天模板切换 LLM 自指语音",
-          "title_en": "\"As a Language Model\": Chat Template Switches LLM Self-Referential Voice",
-          "title_original": "\"As a Language Model\": Chat Template Switches LLM Self-Referential Voice",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=49865343",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-09-27T10:26:25Z"
+          "url": "https://www.aibase.com/news/31382",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-09-28T06:47:56.477555Z"
         }
       ],
-      "source_count": 3,
+      "source_count": 1,
       "source_names": [
-        "Hacker News · 24h最热",
-        "arxiv.org",
-        "hackernews"
+        "AIbase"
       ],
       "items": [
         {
-          "id": "9bb747ea93d2d2f1c2bd956586b6a8f10227068a",
-          "title": "“作为语言模型”：聊天模板切换了大语言模型的自指代语气",
-          "title_zh": "“作为语言模型”：聊天模板切换了大语言模型的自指代语气",
+          "id": "ca3e0a5ce469cfdef60906b1f24fd4a5e15baaa6",
+          "title": "英伟达发布1亿参数免费模型Nemotron3，支持8人实时语音分割识别",
+          "title_zh": "英伟达发布1亿参数免费模型Nemotron3，支持8人实时语音分割识别",
           "title_en": null,
-          "title_original": "“作为语言模型”：聊天模板切换了大语言模型的自指代语气",
+          "title_original": "英伟达发布1亿参数免费模型Nemotron3，支持8人实时语音分割识别",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://arxiv.org/abs/2609.25021",
-          "source": "arxiv.org",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-09-27T23:49:58.724000Z"
-        },
-        {
-          "id": "c855af49750f129fc2d526ad58a2b2da90ac1157",
-          "title": "“作为语言模型”：聊天模板切换了大语言模型的自指代语气 / \"As a Language Model\": Chat Template Switches LLM Self-Referential Voice",
-          "title_zh": "“作为语言模型”：聊天模板切换了大语言模型的自指代语气",
-          "title_en": "\"As a Language Model\": Chat Template Switches LLM Self-Referential Voice",
-          "title_original": "\"As a Language Model\": Chat Template Switches LLM Self-Referential Voice",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://arxiv.org/abs/2609.25021",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-09-27T10:26:25Z"
-        },
-        {
-          "id": "95840a4f4ca7ac30329544bbd7322762e71a20d2",
-          "title": "“作为语言模型”：聊天模板切换 LLM 自指语音 / \"As a Language Model\": Chat Template Switches LLM Self-Referential Voice",
-          "title_zh": "“作为语言模型”：聊天模板切换 LLM 自指语音",
-          "title_en": "\"As a Language Model\": Chat Template Switches LLM Self-Referential Voice",
-          "title_original": "\"As a Language Model\": Chat Template Switches LLM Self-Referential Voice",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=49865343",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-09-27T10:26:25Z"
+          "url": "https://www.aibase.com/news/31382",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-09-28T06:47:56.477555Z"
         }
       ],
-      "item_count": 3,
-      "duplicate_count": 3,
-      "score": 0.5513,
-      "importance": 0.5513,
-      "importance_score": 0.5513,
-      "importance_label": "多源热议",
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7625,
+      "importance": 0.7625,
+      "importance_score": 0.7625,
+      "importance_label": "行业动态",
       "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.8915,
-        "story_heat": 0.5
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9717,
+        "story_heat": 0.0
       },
-      "category": "multi_source",
+      "category": "industry",
       "reasons": [
-        "multi_source"
+        "high_ai_relevance",
+        "high_importance"
       ],
-      "earliest_at": "2026-09-27T10:26:25Z",
-      "latest_at": "2026-09-27T23:49:58.724000Z",
+      "earliest_at": "2026-09-28T06:47:56.477555Z",
+      "latest_at": "2026-09-28T06:47:56.477555Z",
       "primary_item": {
-        "id": "9bb747ea93d2d2f1c2bd956586b6a8f10227068a",
-        "title": "“作为语言模型”：聊天模板切换了大语言模型的自指代语气",
-        "title_zh": "“作为语言模型”：聊天模板切换了大语言模型的自指代语气",
+        "id": "ca3e0a5ce469cfdef60906b1f24fd4a5e15baaa6",
+        "title": "英伟达发布1亿参数免费模型Nemotron3，支持8人实时语音分割识别",
+        "title_zh": "英伟达发布1亿参数免费模型Nemotron3，支持8人实时语音分割识别",
         "title_en": null,
-        "title_original": "“作为语言模型”：聊天模板切换了大语言模型的自指代语气",
+        "title_original": "英伟达发布1亿参数免费模型Nemotron3，支持8人实时语音分割识别",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://arxiv.org/abs/2609.25021",
-        "source": "arxiv.org",
-        "source_name": "Buzzing"
+        "url": "https://www.aibase.com/news/31382",
+        "source": "AIbase",
+        "source_name": "AIbase"
       },
       "persona_id": "pragmatic",
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-28T07:48:02.808471Z"
+        "scored_at": "2026-09-28T08:48:02.256610Z"
       }
     }
   ]
