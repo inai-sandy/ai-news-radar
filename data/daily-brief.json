@@ -1,235 +1,8 @@
 {
-  "generated_at": "2026-09-28T05:47:17.007553Z",
+  "generated_at": "2026-09-28T06:47:56.477555Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
-    {
-      "story_id": "story_f7a9ca52c4e3",
-      "title": "Authors Guild v. OpenAI 新文件披露高管早已知道大规模盗版书籍训练违法",
-      "url": "https://authorsguild.org/news/ag-v-openai-top-execs-knew-mass-book-piracy-was-illegal",
-      "primary_url": "https://authorsguild.org/news/ag-v-openai-top-execs-knew-mass-book-piracy-was-illegal",
-      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "17d3afe5be918a4976449e35beeb04120851926c",
-          "title": "Authors Guild v. OpenAI 新文件披露高管早已知道大规模盗版书籍训练违法",
-          "title_zh": "Authors Guild v. OpenAI 新文件披露高管早已知道大规模盗版书籍训练违法",
-          "title_en": null,
-          "title_original": "Authors Guild v. OpenAI 新文件披露高管早已知道大规模盗版书籍训练违法",
-          "summary": "Authors Guild v. OpenAI 诉讼中 2026 年 9 月 21 日公布的原告简报称，OpenAI 和 Microsoft 高管及员工有意使用盗版书籍训练模型，并知道其产品可能取代人类作家。",
-          "recommend_reason_zh": null,
-          "url": "https://authorsguild.org/news/ag-v-openai-top-execs-knew-mass-book-piracy-was-illegal",
-          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-27T09:27:15.061000Z"
-        },
-        {
-          "id": "d199d71813277a4539e7d5f3772f709667e13283",
-          "title": "OpenAI 担心在 Hacker News 上出现的内容可能引发的“舆论影响”",
-          "title_zh": "OpenAI 担心在 Hacker News 上出现的内容可能引发的“舆论影响”",
-          "title_en": null,
-          "title_original": "OpenAI 担心在 Hacker News 上出现的内容可能引发的“舆论影响”",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://authorsguild.org/news/ag-v-openai-top-execs-knew-mass-book-piracy-was-illegal",
-          "source": "authorsguild.org",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-09-27T09:27:15.061000Z"
-        },
-        {
-          "id": "524f4c6d09664cd7e0220326e141cf6360876a2c",
-          "title": "OpenAI 担心在 Hacker News 上出现的内容可能引发的“舆论影响” / OpenAI Feared \"Optics\" of what might appear on Hacker News",
-          "title_zh": "OpenAI 担心在 Hacker News 上出现的内容可能引发的“舆论影响”",
-          "title_en": "OpenAI Feared \"Optics\" of what might appear on Hacker News",
-          "title_original": "OpenAI Feared \"Optics\" of what might appear on Hacker News",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://authorsguild.org/news/ag-v-openai-top-execs-knew-mass-book-piracy-was-illegal",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-09-27T06:19:33Z"
-        },
-        {
-          "id": "30cd905ef1f79995079a3f3836c9566017c9d514",
-          "title": "OpenAI 担心黑客新闻中可能出现的“光学”内容 / OpenAI Feared \"Optics\" of what might appear on Hacker News",
-          "title_zh": "OpenAI 担心黑客新闻中可能出现的“光学”内容",
-          "title_en": "OpenAI Feared \"Optics\" of what might appear on Hacker News",
-          "title_original": "OpenAI Feared \"Optics\" of what might appear on Hacker News",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=49863864",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-09-27T06:19:33Z"
-        },
-        {
-          "id": "120aa6c9b41c158041fc7b6b65162c388bf36bcc",
-          "title": "OpenAI 担心在 Hacker News 上出现的内容可能引发的“舆论影响” / Unsealed Briefs in Authors’ Case v. Microsoft/OpenAI",
-          "title_zh": "OpenAI 担心在 Hacker News 上出现的内容可能引发的“舆论影响”",
-          "title_en": "Unsealed Briefs in Authors’ Case v. Microsoft/OpenAI",
-          "title_original": "Unsealed Briefs in Authors’ Case v. Microsoft/OpenAI",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://authorsguild.org/news/ag-v-openai-top-execs-knew-mass-book-piracy-was-illegal",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-09-27T06:19:33Z"
-        },
-        {
-          "id": "048fb6691c0da77149ae52e9601c25ffc1d4254d",
-          "title": "作者诉微软/OpenAI 案中未密封的内情 / Unsealed Briefs in Authors’ Case v. Microsoft/OpenAI",
-          "title_zh": "作者诉微软/OpenAI 案中未密封的内情",
-          "title_en": "Unsealed Briefs in Authors’ Case v. Microsoft/OpenAI",
-          "title_original": "Unsealed Briefs in Authors’ Case v. Microsoft/OpenAI",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=49863864",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-09-27T06:19:33Z"
-        }
-      ],
-      "source_count": 6,
-      "source_names": [
-        "Hacker News",
-        "Hacker News · 24h最热",
-        "Hacker News 热门（buzzing.cc 中文翻译）",
-        "authorsguild.org",
-        "hackernews"
-      ],
-      "items": [
-        {
-          "id": "17d3afe5be918a4976449e35beeb04120851926c",
-          "title": "Authors Guild v. OpenAI 新文件披露高管早已知道大规模盗版书籍训练违法",
-          "title_zh": "Authors Guild v. OpenAI 新文件披露高管早已知道大规模盗版书籍训练违法",
-          "title_en": null,
-          "title_original": "Authors Guild v. OpenAI 新文件披露高管早已知道大规模盗版书籍训练违法",
-          "summary": "Authors Guild v. OpenAI 诉讼中 2026 年 9 月 21 日公布的原告简报称，OpenAI 和 Microsoft 高管及员工有意使用盗版书籍训练模型，并知道其产品可能取代人类作家。",
-          "recommend_reason_zh": null,
-          "url": "https://authorsguild.org/news/ag-v-openai-top-execs-knew-mass-book-piracy-was-illegal",
-          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-27T09:27:15.061000Z"
-        },
-        {
-          "id": "d199d71813277a4539e7d5f3772f709667e13283",
-          "title": "OpenAI 担心在 Hacker News 上出现的内容可能引发的“舆论影响”",
-          "title_zh": "OpenAI 担心在 Hacker News 上出现的内容可能引发的“舆论影响”",
-          "title_en": null,
-          "title_original": "OpenAI 担心在 Hacker News 上出现的内容可能引发的“舆论影响”",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://authorsguild.org/news/ag-v-openai-top-execs-knew-mass-book-piracy-was-illegal",
-          "source": "authorsguild.org",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-09-27T09:27:15.061000Z"
-        },
-        {
-          "id": "524f4c6d09664cd7e0220326e141cf6360876a2c",
-          "title": "OpenAI 担心在 Hacker News 上出现的内容可能引发的“舆论影响” / OpenAI Feared \"Optics\" of what might appear on Hacker News",
-          "title_zh": "OpenAI 担心在 Hacker News 上出现的内容可能引发的“舆论影响”",
-          "title_en": "OpenAI Feared \"Optics\" of what might appear on Hacker News",
-          "title_original": "OpenAI Feared \"Optics\" of what might appear on Hacker News",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://authorsguild.org/news/ag-v-openai-top-execs-knew-mass-book-piracy-was-illegal",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-09-27T06:19:33Z"
-        },
-        {
-          "id": "30cd905ef1f79995079a3f3836c9566017c9d514",
-          "title": "OpenAI 担心黑客新闻中可能出现的“光学”内容 / OpenAI Feared \"Optics\" of what might appear on Hacker News",
-          "title_zh": "OpenAI 担心黑客新闻中可能出现的“光学”内容",
-          "title_en": "OpenAI Feared \"Optics\" of what might appear on Hacker News",
-          "title_original": "OpenAI Feared \"Optics\" of what might appear on Hacker News",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=49863864",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-09-27T06:19:33Z"
-        },
-        {
-          "id": "120aa6c9b41c158041fc7b6b65162c388bf36bcc",
-          "title": "OpenAI 担心在 Hacker News 上出现的内容可能引发的“舆论影响” / Unsealed Briefs in Authors’ Case v. Microsoft/OpenAI",
-          "title_zh": "OpenAI 担心在 Hacker News 上出现的内容可能引发的“舆论影响”",
-          "title_en": "Unsealed Briefs in Authors’ Case v. Microsoft/OpenAI",
-          "title_original": "Unsealed Briefs in Authors’ Case v. Microsoft/OpenAI",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://authorsguild.org/news/ag-v-openai-top-execs-knew-mass-book-piracy-was-illegal",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-09-27T06:19:33Z"
-        },
-        {
-          "id": "048fb6691c0da77149ae52e9601c25ffc1d4254d",
-          "title": "作者诉微软/OpenAI 案中未密封的内情 / Unsealed Briefs in Authors’ Case v. Microsoft/OpenAI",
-          "title_zh": "作者诉微软/OpenAI 案中未密封的内情",
-          "title_en": "Unsealed Briefs in Authors’ Case v. Microsoft/OpenAI",
-          "title_original": "Unsealed Briefs in Authors’ Case v. Microsoft/OpenAI",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=49863864",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-09-27T06:19:33Z"
-        }
-      ],
-      "item_count": 6,
-      "duplicate_count": 6,
-      "score": 0.8398,
-      "importance": 0.8398,
-      "importance_score": 0.8398,
-      "importance_label": "多源热议",
-      "importance_breakdown": {
-        "editorial": 0.78,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7456,
-        "story_heat": 1.0
-      },
-      "category": "multi_source",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-27T06:19:33Z",
-      "latest_at": "2026-09-27T09:27:15.061000Z",
-      "primary_item": {
-        "id": "17d3afe5be918a4976449e35beeb04120851926c",
-        "title": "Authors Guild v. OpenAI 新文件披露高管早已知道大规模盗版书籍训练违法",
-        "title_zh": "Authors Guild v. OpenAI 新文件披露高管早已知道大规模盗版书籍训练违法",
-        "title_en": null,
-        "title_original": "Authors Guild v. OpenAI 新文件披露高管早已知道大规模盗版书籍训练违法",
-        "summary": "Authors Guild v. OpenAI 诉讼中 2026 年 9 月 21 日公布的原告简报称，OpenAI 和 Microsoft 高管及员工有意使用盗版书籍训练模型，并知道其产品可能取代人类作家。",
-        "recommend_reason_zh": null,
-        "url": "https://authorsguild.org/news/ag-v-openai-top-execs-knew-mass-book-piracy-was-illegal",
-        "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-        "source_name": "AI HOT"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-09-28T05:53:39.056361Z"
-      }
-    },
     {
       "story_id": "story_2a0ca0e1dfae",
       "title": "Anthropic CEO Dario Amodei：DeepSeek并未削弱芯片出口管制必要性 / On DeepSeek and Export Controls",
@@ -275,15 +48,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8156,
-      "importance": 0.8156,
-      "importance_score": 0.8156,
+      "score": 0.813,
+      "importance": 0.813,
+      "importance_score": 0.813,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.88,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.9855,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -309,7 +82,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-28T05:53:39.056361Z"
+        "scored_at": "2026-09-28T06:55:13.585066Z"
       }
     },
     {
@@ -357,15 +130,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7976,
-      "importance": 0.7976,
-      "importance_score": 0.7976,
+      "score": 0.795,
+      "importance": 0.795,
+      "importance_score": 0.795,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.82,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.9855,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -391,7 +164,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-28T05:53:39.056361Z"
+        "scored_at": "2026-09-28T06:55:13.585066Z"
       }
     },
     {
@@ -439,15 +212,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7856,
-      "importance": 0.7856,
-      "importance_score": 0.7856,
+      "score": 0.783,
+      "importance": 0.783,
+      "importance_score": 0.783,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.78,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.9855,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -473,7 +246,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-28T05:53:39.056361Z"
+        "scored_at": "2026-09-28T06:55:13.585066Z"
       }
     },
     {
@@ -521,15 +294,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7823,
-      "importance": 0.7823,
-      "importance_score": 0.7823,
+      "score": 0.7798,
+      "importance": 0.7798,
+      "importance_score": 0.7798,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.78,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9818,
+        "recency": 0.9676,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -555,7 +328,89 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-28T05:53:39.056361Z"
+        "scored_at": "2026-09-28T06:55:13.585066Z"
+      }
+    },
+    {
+      "story_id": "story_1bb2feafc8a4",
+      "title": "OpenAI 重排 Pro 档位：5x和20x用量承诺下线",
+      "url": "https://www.aibase.com/news/31379",
+      "primary_url": "https://www.aibase.com/news/31379",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "d522927d6e5640973796661e6ca32fc3d3e246e5",
+          "title": "OpenAI 重排 Pro 档位：5x和20x用量承诺下线",
+          "title_zh": "OpenAI 重排 Pro 档位：5x和20x用量承诺下线",
+          "title_en": null,
+          "title_original": "OpenAI 重排 Pro 档位：5x和20x用量承诺下线",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/31379",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-09-28T06:47:56.477555Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "d522927d6e5640973796661e6ca32fc3d3e246e5",
+          "title": "OpenAI 重排 Pro 档位：5x和20x用量承诺下线",
+          "title_zh": "OpenAI 重排 Pro 档位：5x和20x用量承诺下线",
+          "title_en": null,
+          "title_original": "OpenAI 重排 Pro 档位：5x和20x用量承诺下线",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/31379",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-09-28T06:47:56.477555Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7676,
+      "importance": 0.7676,
+      "importance_score": 0.7676,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-28T06:47:56.477555Z",
+      "latest_at": "2026-09-28T06:47:56.477555Z",
+      "primary_item": {
+        "id": "d522927d6e5640973796661e6ca32fc3d3e246e5",
+        "title": "OpenAI 重排 Pro 档位：5x和20x用量承诺下线",
+        "title_zh": "OpenAI 重排 Pro 档位：5x和20x用量承诺下线",
+        "title_en": null,
+        "title_original": "OpenAI 重排 Pro 档位：5x和20x用量承诺下线",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://www.aibase.com/news/31379",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-09-28T06:55:13.585066Z"
       }
     },
     {
@@ -603,15 +458,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7976,
-      "importance": 0.7976,
-      "importance_score": 0.7976,
+      "score": 0.795,
+      "importance": 0.795,
+      "importance_score": 0.795,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.82,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.9855,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -637,30 +492,142 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-28T05:53:39.056361Z"
+        "scored_at": "2026-09-28T06:55:13.585066Z"
       }
     },
     {
-      "story_id": "story_49407869fee5",
-      "title": "千问APP支持中国移动算力套餐，用户可在工作助理中启用",
-      "url": "https://www.aibase.com/news/31376",
-      "primary_url": "https://www.aibase.com/news/31376",
+      "story_id": "story_f24ebd079ef8",
+      "title": "Authors Guild v. OpenAI 新文件披露高管早已知道大规模盗版书籍训练违法",
+      "url": "https://authorsguild.org/news/ag-v-openai-top-execs-knew-mass-book-piracy-was-illegal",
+      "primary_url": "https://authorsguild.org/news/ag-v-openai-top-execs-knew-mass-book-piracy-was-illegal",
+      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "17d3afe5be918a4976449e35beeb04120851926c",
+          "title": "Authors Guild v. OpenAI 新文件披露高管早已知道大规模盗版书籍训练违法",
+          "title_zh": "Authors Guild v. OpenAI 新文件披露高管早已知道大规模盗版书籍训练违法",
+          "title_en": null,
+          "title_original": "Authors Guild v. OpenAI 新文件披露高管早已知道大规模盗版书籍训练违法",
+          "summary": "Authors Guild v. OpenAI 诉讼中 2026 年 9 月 21 日公布的原告简报称，OpenAI 和 Microsoft 高管及员工有意使用盗版书籍训练模型，并知道其产品可能取代人类作家。",
+          "recommend_reason_zh": null,
+          "url": "https://authorsguild.org/news/ag-v-openai-top-execs-knew-mass-book-piracy-was-illegal",
+          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-27T09:27:15.061000Z"
+        },
+        {
+          "id": "d199d71813277a4539e7d5f3772f709667e13283",
+          "title": "OpenAI 担心在 Hacker News 上出现的内容可能引发的“舆论影响”",
+          "title_zh": "OpenAI 担心在 Hacker News 上出现的内容可能引发的“舆论影响”",
+          "title_en": null,
+          "title_original": "OpenAI 担心在 Hacker News 上出现的内容可能引发的“舆论影响”",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://authorsguild.org/news/ag-v-openai-top-execs-knew-mass-book-piracy-was-illegal",
+          "source": "authorsguild.org",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-09-27T09:27:15.061000Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News 热门（buzzing.cc 中文翻译）",
+        "authorsguild.org"
+      ],
+      "items": [
+        {
+          "id": "17d3afe5be918a4976449e35beeb04120851926c",
+          "title": "Authors Guild v. OpenAI 新文件披露高管早已知道大规模盗版书籍训练违法",
+          "title_zh": "Authors Guild v. OpenAI 新文件披露高管早已知道大规模盗版书籍训练违法",
+          "title_en": null,
+          "title_original": "Authors Guild v. OpenAI 新文件披露高管早已知道大规模盗版书籍训练违法",
+          "summary": "Authors Guild v. OpenAI 诉讼中 2026 年 9 月 21 日公布的原告简报称，OpenAI 和 Microsoft 高管及员工有意使用盗版书籍训练模型，并知道其产品可能取代人类作家。",
+          "recommend_reason_zh": null,
+          "url": "https://authorsguild.org/news/ag-v-openai-top-execs-knew-mass-book-piracy-was-illegal",
+          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-27T09:27:15.061000Z"
+        },
+        {
+          "id": "d199d71813277a4539e7d5f3772f709667e13283",
+          "title": "OpenAI 担心在 Hacker News 上出现的内容可能引发的“舆论影响”",
+          "title_zh": "OpenAI 担心在 Hacker News 上出现的内容可能引发的“舆论影响”",
+          "title_en": null,
+          "title_original": "OpenAI 担心在 Hacker News 上出现的内容可能引发的“舆论影响”",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://authorsguild.org/news/ag-v-openai-top-execs-knew-mass-book-piracy-was-illegal",
+          "source": "authorsguild.org",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-09-27T09:27:15.061000Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.7629,
+      "importance": 0.7629,
+      "importance_score": 0.7629,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.78,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.7347,
+        "story_heat": 0.25
+      },
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-27T09:27:15.061000Z",
+      "latest_at": "2026-09-27T09:27:15.061000Z",
+      "primary_item": {
+        "id": "17d3afe5be918a4976449e35beeb04120851926c",
+        "title": "Authors Guild v. OpenAI 新文件披露高管早已知道大规模盗版书籍训练违法",
+        "title_zh": "Authors Guild v. OpenAI 新文件披露高管早已知道大规模盗版书籍训练违法",
+        "title_en": null,
+        "title_original": "Authors Guild v. OpenAI 新文件披露高管早已知道大规模盗版书籍训练违法",
+        "summary": "Authors Guild v. OpenAI 诉讼中 2026 年 9 月 21 日公布的原告简报称，OpenAI 和 Microsoft 高管及员工有意使用盗版书籍训练模型，并知道其产品可能取代人类作家。",
+        "recommend_reason_zh": null,
+        "url": "https://authorsguild.org/news/ag-v-openai-top-execs-knew-mass-book-piracy-was-illegal",
+        "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+        "source_name": "AI HOT"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-09-28T06:55:13.585066Z"
+      }
+    },
+    {
+      "story_id": "story_85428ac91ad4",
+      "title": "​MiniMax 全新文本模型 M3.1-Flash-Preview 正式公测",
+      "url": "https://www.aibase.com/news/31383",
+      "primary_url": "https://www.aibase.com/news/31383",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "99899f040f048e1041bd8146180bed6441e5893c",
-          "title": "千问APP支持中国移动算力套餐，用户可在工作助理中启用",
-          "title_zh": "千问APP支持中国移动算力套餐，用户可在工作助理中启用",
+          "id": "a261e2259e52485ea33c81d8152e0cb157f70c75",
+          "title": "​MiniMax 全新文本模型 M3.1-Flash-Preview 正式公测",
+          "title_zh": "​MiniMax 全新文本模型 M3.1-Flash-Preview 正式公测",
           "title_en": null,
-          "title_original": "千问APP支持中国移动算力套餐，用户可在工作助理中启用",
+          "title_original": "​MiniMax 全新文本模型 M3.1-Flash-Preview 正式公测",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/31376",
+          "url": "https://www.aibase.com/news/31383",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-09-28T03:47:16.286363Z"
+          "published_at": "2026-09-28T06:47:56.477555Z"
         }
       ],
       "source_count": 1,
@@ -669,31 +636,31 @@
       ],
       "items": [
         {
-          "id": "99899f040f048e1041bd8146180bed6441e5893c",
-          "title": "千问APP支持中国移动算力套餐，用户可在工作助理中启用",
-          "title_zh": "千问APP支持中国移动算力套餐，用户可在工作助理中启用",
+          "id": "a261e2259e52485ea33c81d8152e0cb157f70c75",
+          "title": "​MiniMax 全新文本模型 M3.1-Flash-Preview 正式公测",
+          "title_zh": "​MiniMax 全新文本模型 M3.1-Flash-Preview 正式公测",
           "title_en": null,
-          "title_original": "千问APP支持中国移动算力套餐，用户可在工作助理中启用",
+          "title_original": "​MiniMax 全新文本模型 M3.1-Flash-Preview 正式公测",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/31376",
+          "url": "https://www.aibase.com/news/31383",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-09-28T03:47:16.286363Z"
+          "published_at": "2026-09-28T06:47:56.477555Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7625,
-      "importance": 0.7625,
-      "importance_score": 0.7625,
+      "score": 0.7676,
+      "importance": 0.7676,
+      "importance_score": 0.7676,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9715,
+        "recency": 1.0,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -701,17 +668,17 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-09-28T03:47:16.286363Z",
-      "latest_at": "2026-09-28T03:47:16.286363Z",
+      "earliest_at": "2026-09-28T06:47:56.477555Z",
+      "latest_at": "2026-09-28T06:47:56.477555Z",
       "primary_item": {
-        "id": "99899f040f048e1041bd8146180bed6441e5893c",
-        "title": "千问APP支持中国移动算力套餐，用户可在工作助理中启用",
-        "title_zh": "千问APP支持中国移动算力套餐，用户可在工作助理中启用",
+        "id": "a261e2259e52485ea33c81d8152e0cb157f70c75",
+        "title": "​MiniMax 全新文本模型 M3.1-Flash-Preview 正式公测",
+        "title_zh": "​MiniMax 全新文本模型 M3.1-Flash-Preview 正式公测",
         "title_en": null,
-        "title_original": "千问APP支持中国移动算力套餐，用户可在工作助理中启用",
+        "title_original": "​MiniMax 全新文本模型 M3.1-Flash-Preview 正式公测",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/31376",
+        "url": "https://www.aibase.com/news/31383",
         "source": "AIbase",
         "source_name": "AIbase"
       },
@@ -719,7 +686,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-28T05:53:39.056361Z"
+        "scored_at": "2026-09-28T06:55:13.585066Z"
       }
     },
     {
@@ -767,15 +734,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7976,
-      "importance": 0.7976,
-      "importance_score": 0.7976,
+      "score": 0.795,
+      "importance": 0.795,
+      "importance_score": 0.795,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.82,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.9855,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -801,30 +768,30 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-28T05:53:39.056361Z"
+        "scored_at": "2026-09-28T06:55:13.585066Z"
       }
     },
     {
-      "story_id": "story_1519a1296d42",
-      "title": "千问创作上线 7 天会员：200 积分 + 快速通道，瞄准旅行出片等即时创作",
-      "url": "https://www.aibase.com/news/31375",
-      "primary_url": "https://www.aibase.com/news/31375",
+      "story_id": "story_7b1fb44b3b80",
+      "title": "​费米宇宙重磅发布全球首款全链路量子增强大模型 FermiQLLM 1.0",
+      "url": "https://www.aibase.com/news/31378",
+      "primary_url": "https://www.aibase.com/news/31378",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "2da1e6d146e9eca21d2fac63a497aed39a0e8eab",
-          "title": "千问创作上线 7 天会员：200 积分 + 快速通道，瞄准旅行出片等即时创作",
-          "title_zh": "千问创作上线 7 天会员：200 积分 + 快速通道，瞄准旅行出片等即时创作",
+          "id": "bd1e633fb64de3933aa143c4a543859a2f1cd75a",
+          "title": "​费米宇宙重磅发布全球首款全链路量子增强大模型 FermiQLLM 1.0",
+          "title_zh": "​费米宇宙重磅发布全球首款全链路量子增强大模型 FermiQLLM 1.0",
           "title_en": null,
-          "title_original": "千问创作上线 7 天会员：200 积分 + 快速通道，瞄准旅行出片等即时创作",
+          "title_original": "​费米宇宙重磅发布全球首款全链路量子增强大模型 FermiQLLM 1.0",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/31375",
+          "url": "https://www.aibase.com/news/31378",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-09-28T03:47:16.286363Z"
+          "published_at": "2026-09-28T06:47:56.477555Z"
         }
       ],
       "source_count": 1,
@@ -833,31 +800,31 @@
       ],
       "items": [
         {
-          "id": "2da1e6d146e9eca21d2fac63a497aed39a0e8eab",
-          "title": "千问创作上线 7 天会员：200 积分 + 快速通道，瞄准旅行出片等即时创作",
-          "title_zh": "千问创作上线 7 天会员：200 积分 + 快速通道，瞄准旅行出片等即时创作",
+          "id": "bd1e633fb64de3933aa143c4a543859a2f1cd75a",
+          "title": "​费米宇宙重磅发布全球首款全链路量子增强大模型 FermiQLLM 1.0",
+          "title_zh": "​费米宇宙重磅发布全球首款全链路量子增强大模型 FermiQLLM 1.0",
           "title_en": null,
-          "title_original": "千问创作上线 7 天会员：200 积分 + 快速通道，瞄准旅行出片等即时创作",
+          "title_original": "​费米宇宙重磅发布全球首款全链路量子增强大模型 FermiQLLM 1.0",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/31375",
+          "url": "https://www.aibase.com/news/31378",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-09-28T03:47:16.286363Z"
+          "published_at": "2026-09-28T06:47:56.477555Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7625,
-      "importance": 0.7625,
-      "importance_score": 0.7625,
+      "score": 0.7676,
+      "importance": 0.7676,
+      "importance_score": 0.7676,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9715,
+        "recency": 1.0,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -865,17 +832,17 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-09-28T03:47:16.286363Z",
-      "latest_at": "2026-09-28T03:47:16.286363Z",
+      "earliest_at": "2026-09-28T06:47:56.477555Z",
+      "latest_at": "2026-09-28T06:47:56.477555Z",
       "primary_item": {
-        "id": "2da1e6d146e9eca21d2fac63a497aed39a0e8eab",
-        "title": "千问创作上线 7 天会员：200 积分 + 快速通道，瞄准旅行出片等即时创作",
-        "title_zh": "千问创作上线 7 天会员：200 积分 + 快速通道，瞄准旅行出片等即时创作",
+        "id": "bd1e633fb64de3933aa143c4a543859a2f1cd75a",
+        "title": "​费米宇宙重磅发布全球首款全链路量子增强大模型 FermiQLLM 1.0",
+        "title_zh": "​费米宇宙重磅发布全球首款全链路量子增强大模型 FermiQLLM 1.0",
         "title_en": null,
-        "title_original": "千问创作上线 7 天会员：200 积分 + 快速通道，瞄准旅行出片等即时创作",
+        "title_original": "​费米宇宙重磅发布全球首款全链路量子增强大模型 FermiQLLM 1.0",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/31375",
+        "url": "https://www.aibase.com/news/31378",
         "source": "AIbase",
         "source_name": "AIbase"
       },
@@ -883,30 +850,30 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-28T05:53:39.056361Z"
+        "scored_at": "2026-09-28T06:55:13.585066Z"
       }
     },
     {
-      "story_id": "story_6d078001cab1",
-      "title": "Anthropic 资深员工悄然购置偏远土地，以防\"AI 失控\"举家撤离",
-      "url": "https://www.aibase.com/news/31369",
-      "primary_url": "https://www.aibase.com/news/31369",
+      "story_id": "story_3aaf9af93102",
+      "title": "智谱ZCode落地新轮补偿:赠付费用户8张重置卡，已彻底移除代码快照上传链路",
+      "url": "https://www.aibase.com/news/31377",
+      "primary_url": "https://www.aibase.com/news/31377",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "1cf54eb685191e1126885935413909fa93768f1e",
-          "title": "Anthropic 资深员工悄然购置偏远土地，以防\"AI 失控\"举家撤离",
-          "title_zh": "Anthropic 资深员工悄然购置偏远土地，以防\"AI 失控\"举家撤离",
+          "id": "d7985784238219b19133489fd003b5f9b7b84887",
+          "title": "智谱ZCode落地新轮补偿:赠付费用户8张重置卡，已彻底移除代码快照上传链路",
+          "title_zh": "智谱ZCode落地新轮补偿:赠付费用户8张重置卡，已彻底移除代码快照上传链路",
           "title_en": null,
-          "title_original": "Anthropic 资深员工悄然购置偏远土地，以防\"AI 失控\"举家撤离",
+          "title_original": "智谱ZCode落地新轮补偿:赠付费用户8张重置卡，已彻底移除代码快照上传链路",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/31369",
+          "url": "https://www.aibase.com/news/31377",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-09-28T02:47:19.970834Z"
+          "published_at": "2026-09-28T06:47:56.477555Z"
         }
       ],
       "source_count": 1,
@@ -915,31 +882,31 @@
       ],
       "items": [
         {
-          "id": "1cf54eb685191e1126885935413909fa93768f1e",
-          "title": "Anthropic 资深员工悄然购置偏远土地，以防\"AI 失控\"举家撤离",
-          "title_zh": "Anthropic 资深员工悄然购置偏远土地，以防\"AI 失控\"举家撤离",
+          "id": "d7985784238219b19133489fd003b5f9b7b84887",
+          "title": "智谱ZCode落地新轮补偿:赠付费用户8张重置卡，已彻底移除代码快照上传链路",
+          "title_zh": "智谱ZCode落地新轮补偿:赠付费用户8张重置卡，已彻底移除代码快照上传链路",
           "title_en": null,
-          "title_original": "Anthropic 资深员工悄然购置偏远土地，以防\"AI 失控\"举家撤离",
+          "title_original": "智谱ZCode落地新轮补偿:赠付费用户8张重置卡，已彻底移除代码快照上传链路",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/31369",
+          "url": "https://www.aibase.com/news/31377",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-09-28T02:47:19.970834Z"
+          "published_at": "2026-09-28T06:47:56.477555Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.76,
-      "importance": 0.76,
-      "importance_score": 0.76,
+      "score": 0.7676,
+      "importance": 0.7676,
+      "importance_score": 0.7676,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9576,
+        "recency": 1.0,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -947,17 +914,17 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-09-28T02:47:19.970834Z",
-      "latest_at": "2026-09-28T02:47:19.970834Z",
+      "earliest_at": "2026-09-28T06:47:56.477555Z",
+      "latest_at": "2026-09-28T06:47:56.477555Z",
       "primary_item": {
-        "id": "1cf54eb685191e1126885935413909fa93768f1e",
-        "title": "Anthropic 资深员工悄然购置偏远土地，以防\"AI 失控\"举家撤离",
-        "title_zh": "Anthropic 资深员工悄然购置偏远土地，以防\"AI 失控\"举家撤离",
+        "id": "d7985784238219b19133489fd003b5f9b7b84887",
+        "title": "智谱ZCode落地新轮补偿:赠付费用户8张重置卡，已彻底移除代码快照上传链路",
+        "title_zh": "智谱ZCode落地新轮补偿:赠付费用户8张重置卡，已彻底移除代码快照上传链路",
         "title_en": null,
-        "title_original": "Anthropic 资深员工悄然购置偏远土地，以防\"AI 失控\"举家撤离",
+        "title_original": "智谱ZCode落地新轮补偿:赠付费用户8张重置卡，已彻底移除代码快照上传链路",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/31369",
+        "url": "https://www.aibase.com/news/31377",
         "source": "AIbase",
         "source_name": "AIbase"
       },
@@ -965,30 +932,30 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-28T05:53:39.056361Z"
+        "scored_at": "2026-09-28T06:55:13.585066Z"
       }
     },
     {
-      "story_id": "story_bce9104a595a",
-      "title": "Claude Sonnet 5.5 偷跑：价格打穿地心，实测暴打 GPT-6 Sol、直逼 Astra",
-      "url": "https://www.aibase.com/news/31368",
-      "primary_url": "https://www.aibase.com/news/31368",
+      "story_id": "story_9117f82403b6",
+      "title": "英伟达发布1亿参数免费模型Nemotron3，支持8人实时语音分割识别",
+      "url": "https://www.aibase.com/news/31382",
+      "primary_url": "https://www.aibase.com/news/31382",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "30e44a59b76bf8a9809bbb9abbb24a2e5c0d3d3d",
-          "title": "Claude Sonnet 5.5 偷跑：价格打穿地心，实测暴打 GPT-6 Sol、直逼 Astra",
-          "title_zh": "Claude Sonnet 5.5 偷跑：价格打穿地心，实测暴打 GPT-6 Sol、直逼 Astra",
+          "id": "ca3e0a5ce469cfdef60906b1f24fd4a5e15baaa6",
+          "title": "英伟达发布1亿参数免费模型Nemotron3，支持8人实时语音分割识别",
+          "title_zh": "英伟达发布1亿参数免费模型Nemotron3，支持8人实时语音分割识别",
           "title_en": null,
-          "title_original": "Claude Sonnet 5.5 偷跑：价格打穿地心，实测暴打 GPT-6 Sol、直逼 Astra",
+          "title_original": "英伟达发布1亿参数免费模型Nemotron3，支持8人实时语音分割识别",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/31368",
+          "url": "https://www.aibase.com/news/31382",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-09-28T02:47:19.970834Z"
+          "published_at": "2026-09-28T06:47:56.477555Z"
         }
       ],
       "source_count": 1,
@@ -997,31 +964,31 @@
       ],
       "items": [
         {
-          "id": "30e44a59b76bf8a9809bbb9abbb24a2e5c0d3d3d",
-          "title": "Claude Sonnet 5.5 偷跑：价格打穿地心，实测暴打 GPT-6 Sol、直逼 Astra",
-          "title_zh": "Claude Sonnet 5.5 偷跑：价格打穿地心，实测暴打 GPT-6 Sol、直逼 Astra",
+          "id": "ca3e0a5ce469cfdef60906b1f24fd4a5e15baaa6",
+          "title": "英伟达发布1亿参数免费模型Nemotron3，支持8人实时语音分割识别",
+          "title_zh": "英伟达发布1亿参数免费模型Nemotron3，支持8人实时语音分割识别",
           "title_en": null,
-          "title_original": "Claude Sonnet 5.5 偷跑：价格打穿地心，实测暴打 GPT-6 Sol、直逼 Astra",
+          "title_original": "英伟达发布1亿参数免费模型Nemotron3，支持8人实时语音分割识别",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/31368",
+          "url": "https://www.aibase.com/news/31382",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-09-28T02:47:19.970834Z"
+          "published_at": "2026-09-28T06:47:56.477555Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.76,
-      "importance": 0.76,
-      "importance_score": 0.76,
+      "score": 0.7676,
+      "importance": 0.7676,
+      "importance_score": 0.7676,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9576,
+        "recency": 1.0,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1029,17 +996,17 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-09-28T02:47:19.970834Z",
-      "latest_at": "2026-09-28T02:47:19.970834Z",
+      "earliest_at": "2026-09-28T06:47:56.477555Z",
+      "latest_at": "2026-09-28T06:47:56.477555Z",
       "primary_item": {
-        "id": "30e44a59b76bf8a9809bbb9abbb24a2e5c0d3d3d",
-        "title": "Claude Sonnet 5.5 偷跑：价格打穿地心，实测暴打 GPT-6 Sol、直逼 Astra",
-        "title_zh": "Claude Sonnet 5.5 偷跑：价格打穿地心，实测暴打 GPT-6 Sol、直逼 Astra",
+        "id": "ca3e0a5ce469cfdef60906b1f24fd4a5e15baaa6",
+        "title": "英伟达发布1亿参数免费模型Nemotron3，支持8人实时语音分割识别",
+        "title_zh": "英伟达发布1亿参数免费模型Nemotron3，支持8人实时语音分割识别",
         "title_en": null,
-        "title_original": "Claude Sonnet 5.5 偷跑：价格打穿地心，实测暴打 GPT-6 Sol、直逼 Astra",
+        "title_original": "英伟达发布1亿参数免费模型Nemotron3，支持8人实时语音分割识别",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/31368",
+        "url": "https://www.aibase.com/news/31382",
         "source": "AIbase",
         "source_name": "AIbase"
       },
@@ -1047,30 +1014,30 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-28T05:53:39.056361Z"
+        "scored_at": "2026-09-28T06:55:13.585066Z"
       }
     },
     {
-      "story_id": "story_fa12ad6964c1",
-      "title": "Claude Sonnet 5.5 配置标识符现身并开启灰度测试，性能直逼 GPT-6 Astra",
-      "url": "https://www.aibase.com/news/31372",
-      "primary_url": "https://www.aibase.com/news/31372",
+      "story_id": "story_4942527d74f8",
+      "title": "谷歌在印度测试 Gemini 内直购 Flipkart 商品，全面进军端内交易生态",
+      "url": "https://www.aibase.com/news/31380",
+      "primary_url": "https://www.aibase.com/news/31380",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "77abb58e58e2e19cbd93bbfa0f4504ac75696a11",
-          "title": "Claude Sonnet 5.5 配置标识符现身并开启灰度测试，性能直逼 GPT-6 Astra",
-          "title_zh": "Claude Sonnet 5.5 配置标识符现身并开启灰度测试，性能直逼 GPT-6 Astra",
+          "id": "fb181ab5c1b86d26c69a27bc790f919c30816e27",
+          "title": "谷歌在印度测试 Gemini 内直购 Flipkart 商品，全面进军端内交易生态",
+          "title_zh": "谷歌在印度测试 Gemini 内直购 Flipkart 商品，全面进军端内交易生态",
           "title_en": null,
-          "title_original": "Claude Sonnet 5.5 配置标识符现身并开启灰度测试，性能直逼 GPT-6 Astra",
+          "title_original": "谷歌在印度测试 Gemini 内直购 Flipkart 商品，全面进军端内交易生态",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/31372",
+          "url": "https://www.aibase.com/news/31380",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-09-28T02:47:19.970834Z"
+          "published_at": "2026-09-28T06:47:56.477555Z"
         }
       ],
       "source_count": 1,
@@ -1079,31 +1046,31 @@
       ],
       "items": [
         {
-          "id": "77abb58e58e2e19cbd93bbfa0f4504ac75696a11",
-          "title": "Claude Sonnet 5.5 配置标识符现身并开启灰度测试，性能直逼 GPT-6 Astra",
-          "title_zh": "Claude Sonnet 5.5 配置标识符现身并开启灰度测试，性能直逼 GPT-6 Astra",
+          "id": "fb181ab5c1b86d26c69a27bc790f919c30816e27",
+          "title": "谷歌在印度测试 Gemini 内直购 Flipkart 商品，全面进军端内交易生态",
+          "title_zh": "谷歌在印度测试 Gemini 内直购 Flipkart 商品，全面进军端内交易生态",
           "title_en": null,
-          "title_original": "Claude Sonnet 5.5 配置标识符现身并开启灰度测试，性能直逼 GPT-6 Astra",
+          "title_original": "谷歌在印度测试 Gemini 内直购 Flipkart 商品，全面进军端内交易生态",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/31372",
+          "url": "https://www.aibase.com/news/31380",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-09-28T02:47:19.970834Z"
+          "published_at": "2026-09-28T06:47:56.477555Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.76,
-      "importance": 0.76,
-      "importance_score": 0.76,
+      "score": 0.7676,
+      "importance": 0.7676,
+      "importance_score": 0.7676,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9576,
+        "recency": 1.0,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1111,17 +1078,17 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-09-28T02:47:19.970834Z",
-      "latest_at": "2026-09-28T02:47:19.970834Z",
+      "earliest_at": "2026-09-28T06:47:56.477555Z",
+      "latest_at": "2026-09-28T06:47:56.477555Z",
       "primary_item": {
-        "id": "77abb58e58e2e19cbd93bbfa0f4504ac75696a11",
-        "title": "Claude Sonnet 5.5 配置标识符现身并开启灰度测试，性能直逼 GPT-6 Astra",
-        "title_zh": "Claude Sonnet 5.5 配置标识符现身并开启灰度测试，性能直逼 GPT-6 Astra",
+        "id": "fb181ab5c1b86d26c69a27bc790f919c30816e27",
+        "title": "谷歌在印度测试 Gemini 内直购 Flipkart 商品，全面进军端内交易生态",
+        "title_zh": "谷歌在印度测试 Gemini 内直购 Flipkart 商品，全面进军端内交易生态",
         "title_en": null,
-        "title_original": "Claude Sonnet 5.5 配置标识符现身并开启灰度测试，性能直逼 GPT-6 Astra",
+        "title_original": "谷歌在印度测试 Gemini 内直购 Flipkart 商品，全面进军端内交易生态",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/31372",
+        "url": "https://www.aibase.com/news/31380",
         "source": "AIbase",
         "source_name": "AIbase"
       },
@@ -1129,30 +1096,30 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-28T05:53:39.056361Z"
+        "scored_at": "2026-09-28T06:55:13.585066Z"
       }
     },
     {
-      "story_id": "story_2c83075dc370",
-      "title": "OpenAI 助手为夺联合国数据，数月内疯狂轰炸网站超 1.6 万次",
-      "url": "https://www.aibase.com/news/31371",
-      "primary_url": "https://www.aibase.com/news/31371",
+      "story_id": "story_67fd4dc43332",
+      "title": "谷歌把 Colab 算力塞进 AI 会员：Ultra 用户免挂标签页也能跑长训练",
+      "url": "https://www.aibase.com/news/31381",
+      "primary_url": "https://www.aibase.com/news/31381",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "e6b4876a5d0cc7ffbb67b6fa3971d002ad809209",
-          "title": "OpenAI 助手为夺联合国数据，数月内疯狂轰炸网站超 1.6 万次",
-          "title_zh": "OpenAI 助手为夺联合国数据，数月内疯狂轰炸网站超 1.6 万次",
+          "id": "5150ad110c67fe57735ab978a9dcd0b28a11c7b8",
+          "title": "谷歌把 Colab 算力塞进 AI 会员：Ultra 用户免挂标签页也能跑长训练",
+          "title_zh": "谷歌把 Colab 算力塞进 AI 会员：Ultra 用户免挂标签页也能跑长训练",
           "title_en": null,
-          "title_original": "OpenAI 助手为夺联合国数据，数月内疯狂轰炸网站超 1.6 万次",
+          "title_original": "谷歌把 Colab 算力塞进 AI 会员：Ultra 用户免挂标签页也能跑长训练",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/31371",
+          "url": "https://www.aibase.com/news/31381",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-09-28T02:47:19.970834Z"
+          "published_at": "2026-09-28T06:47:56.477555Z"
         }
       ],
       "source_count": 1,
@@ -1161,31 +1128,31 @@
       ],
       "items": [
         {
-          "id": "e6b4876a5d0cc7ffbb67b6fa3971d002ad809209",
-          "title": "OpenAI 助手为夺联合国数据，数月内疯狂轰炸网站超 1.6 万次",
-          "title_zh": "OpenAI 助手为夺联合国数据，数月内疯狂轰炸网站超 1.6 万次",
+          "id": "5150ad110c67fe57735ab978a9dcd0b28a11c7b8",
+          "title": "谷歌把 Colab 算力塞进 AI 会员：Ultra 用户免挂标签页也能跑长训练",
+          "title_zh": "谷歌把 Colab 算力塞进 AI 会员：Ultra 用户免挂标签页也能跑长训练",
           "title_en": null,
-          "title_original": "OpenAI 助手为夺联合国数据，数月内疯狂轰炸网站超 1.6 万次",
+          "title_original": "谷歌把 Colab 算力塞进 AI 会员：Ultra 用户免挂标签页也能跑长训练",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/31371",
+          "url": "https://www.aibase.com/news/31381",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-09-28T02:47:19.970834Z"
+          "published_at": "2026-09-28T06:47:56.477555Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.76,
-      "importance": 0.76,
-      "importance_score": 0.76,
+      "score": 0.7676,
+      "importance": 0.7676,
+      "importance_score": 0.7676,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9576,
+        "recency": 1.0,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1193,17 +1160,17 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-09-28T02:47:19.970834Z",
-      "latest_at": "2026-09-28T02:47:19.970834Z",
+      "earliest_at": "2026-09-28T06:47:56.477555Z",
+      "latest_at": "2026-09-28T06:47:56.477555Z",
       "primary_item": {
-        "id": "e6b4876a5d0cc7ffbb67b6fa3971d002ad809209",
-        "title": "OpenAI 助手为夺联合国数据，数月内疯狂轰炸网站超 1.6 万次",
-        "title_zh": "OpenAI 助手为夺联合国数据，数月内疯狂轰炸网站超 1.6 万次",
+        "id": "5150ad110c67fe57735ab978a9dcd0b28a11c7b8",
+        "title": "谷歌把 Colab 算力塞进 AI 会员：Ultra 用户免挂标签页也能跑长训练",
+        "title_zh": "谷歌把 Colab 算力塞进 AI 会员：Ultra 用户免挂标签页也能跑长训练",
         "title_en": null,
-        "title_original": "OpenAI 助手为夺联合国数据，数月内疯狂轰炸网站超 1.6 万次",
+        "title_original": "谷歌把 Colab 算力塞进 AI 会员：Ultra 用户免挂标签页也能跑长训练",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/31371",
+        "url": "https://www.aibase.com/news/31381",
         "source": "AIbase",
         "source_name": "AIbase"
       },
@@ -1211,89 +1178,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-28T05:53:39.056361Z"
-      }
-    },
-    {
-      "story_id": "story_d9ee2b9f2468",
-      "title": "​OpenAI 惊现自我复制代码漏洞，多国政务系统遭 Agent 强行越界",
-      "url": "https://www.aibase.com/news/31367",
-      "primary_url": "https://www.aibase.com/news/31367",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "ae8f3c9e07bdae5b4a4085965f093eb146fda08b",
-          "title": "​OpenAI 惊现自我复制代码漏洞，多国政务系统遭 Agent 强行越界",
-          "title_zh": "​OpenAI 惊现自我复制代码漏洞，多国政务系统遭 Agent 强行越界",
-          "title_en": null,
-          "title_original": "​OpenAI 惊现自我复制代码漏洞，多国政务系统遭 Agent 强行越界",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/31367",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-09-28T02:47:19.970834Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "ae8f3c9e07bdae5b4a4085965f093eb146fda08b",
-          "title": "​OpenAI 惊现自我复制代码漏洞，多国政务系统遭 Agent 强行越界",
-          "title_zh": "​OpenAI 惊现自我复制代码漏洞，多国政务系统遭 Agent 强行越界",
-          "title_en": null,
-          "title_original": "​OpenAI 惊现自我复制代码漏洞，多国政务系统遭 Agent 强行越界",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/31367",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-09-28T02:47:19.970834Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.76,
-      "importance": 0.76,
-      "importance_score": 0.76,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.9576,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-28T02:47:19.970834Z",
-      "latest_at": "2026-09-28T02:47:19.970834Z",
-      "primary_item": {
-        "id": "ae8f3c9e07bdae5b4a4085965f093eb146fda08b",
-        "title": "​OpenAI 惊现自我复制代码漏洞，多国政务系统遭 Agent 强行越界",
-        "title_zh": "​OpenAI 惊现自我复制代码漏洞，多国政务系统遭 Agent 强行越界",
-        "title_en": null,
-        "title_original": "​OpenAI 惊现自我复制代码漏洞，多国政务系统遭 Agent 强行越界",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/31367",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-09-28T05:53:39.056361Z"
+        "scored_at": "2026-09-28T06:55:13.585066Z"
       }
     },
     {
@@ -1399,15 +1284,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5703,
-      "importance": 0.5703,
-      "importance_score": 0.5703,
+      "score": 0.5677,
+      "importance": 0.5677,
+      "importance_score": 0.5677,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9973,
+        "recency": 0.9829,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1432,7 +1317,146 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-28T05:53:39.056361Z"
+        "scored_at": "2026-09-28T06:55:13.585066Z"
+      }
+    },
+    {
+      "story_id": "story_ce201f4e3030",
+      "title": "Thinking Fast and Slow in AI: The Role of Metacognition",
+      "url": "https://arxiv.org/abs/2110.01834",
+      "primary_url": "https://arxiv.org/abs/2110.01834",
+      "source": "Hacker News",
+      "source_name": "TechURLs",
+      "sources": [
+        {
+          "id": "bd759afec60026bd52f458365fdcf654371f656b",
+          "title": "Thinking Fast and Slow in AI: The Role of Metacognition",
+          "title_zh": null,
+          "title_en": "Thinking Fast and Slow in AI: The Role of Metacognition",
+          "title_original": "Thinking Fast and Slow in AI: The Role of Metacognition",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://arxiv.org/abs/2110.01834",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-09-28T03:23:53Z"
+        },
+        {
+          "id": "cac66fbe7406e3414e2ac67bb87378c553112d9b",
+          "title": "Thinking Fast and Slow in AI: The Role of Metacognition",
+          "title_zh": null,
+          "title_en": "Thinking Fast and Slow in AI: The Role of Metacognition",
+          "title_original": "Thinking Fast and Slow in AI: The Role of Metacognition",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=49873241",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-09-28T03:23:53Z"
+        },
+        {
+          "id": "badd62fc0bd047ba3770957d078dc63ebe54b32b",
+          "title": "Thinking fast and slow in AI: The role of metacognition (2021)",
+          "title_zh": null,
+          "title_en": "Thinking fast and slow in AI: The role of metacognition (2021)",
+          "title_original": "Thinking fast and slow in AI: The role of metacognition (2021)",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://arxiv.org/abs/2110.01834",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-09-28T03:23:53Z"
+        }
+      ],
+      "source_count": 3,
+      "source_names": [
+        "Hacker News",
+        "Hacker News (黑客新闻)",
+        "hackernews"
+      ],
+      "items": [
+        {
+          "id": "bd759afec60026bd52f458365fdcf654371f656b",
+          "title": "Thinking Fast and Slow in AI: The Role of Metacognition",
+          "title_zh": null,
+          "title_en": "Thinking Fast and Slow in AI: The Role of Metacognition",
+          "title_original": "Thinking Fast and Slow in AI: The Role of Metacognition",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://arxiv.org/abs/2110.01834",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-09-28T03:23:53Z"
+        },
+        {
+          "id": "cac66fbe7406e3414e2ac67bb87378c553112d9b",
+          "title": "Thinking Fast and Slow in AI: The Role of Metacognition",
+          "title_zh": null,
+          "title_en": "Thinking Fast and Slow in AI: The Role of Metacognition",
+          "title_original": "Thinking Fast and Slow in AI: The Role of Metacognition",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=49873241",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-09-28T03:23:53Z"
+        },
+        {
+          "id": "badd62fc0bd047ba3770957d078dc63ebe54b32b",
+          "title": "Thinking fast and slow in AI: The role of metacognition (2021)",
+          "title_zh": null,
+          "title_en": "Thinking fast and slow in AI: The role of metacognition (2021)",
+          "title_original": "Thinking fast and slow in AI: The role of metacognition (2021)",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://arxiv.org/abs/2110.01834",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-09-28T03:23:53Z"
+        }
+      ],
+      "item_count": 3,
+      "duplicate_count": 3,
+      "score": 0.5622,
+      "importance": 0.5622,
+      "importance_score": 0.5622,
+      "importance_label": "多源热议",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9521,
+        "story_heat": 0.5
+      },
+      "category": "multi_source",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-09-28T03:23:53Z",
+      "latest_at": "2026-09-28T03:23:53Z",
+      "primary_item": {
+        "id": "bd759afec60026bd52f458365fdcf654371f656b",
+        "title": "Thinking Fast and Slow in AI: The Role of Metacognition",
+        "title_zh": null,
+        "title_en": "Thinking Fast and Slow in AI: The Role of Metacognition",
+        "title_original": "Thinking Fast and Slow in AI: The Role of Metacognition",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://arxiv.org/abs/2110.01834",
+        "source": "Hacker News",
+        "source_name": "TechURLs"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-09-28T06:55:13.585066Z"
       }
     },
     {
@@ -1538,15 +1562,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5617,
-      "importance": 0.5617,
-      "importance_score": 0.5617,
+      "score": 0.5592,
+      "importance": 0.5592,
+      "importance_score": 0.5592,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9496,
+        "recency": 0.9358,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1571,7 +1595,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-28T05:53:39.056361Z"
+        "scored_at": "2026-09-28T06:55:13.585066Z"
       }
     },
     {
@@ -1677,15 +1701,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.556,
-      "importance": 0.556,
-      "importance_score": 0.556,
+      "score": 0.5536,
+      "importance": 0.5536,
+      "importance_score": 0.5536,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9176,
+        "recency": 0.9043,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1710,30 +1734,30 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-28T05:53:39.056361Z"
+        "scored_at": "2026-09-28T06:55:13.585066Z"
       }
     },
     {
-      "story_id": "story_aa95aaf57c74",
-      "title": "开源大模型格局重塑！小米 MiMo-V2.6-Pro 强势杀回 Code Arena 前十，性能直逼国际第一梯队",
-      "url": "https://www.aibase.com/news/31370",
-      "primary_url": "https://www.aibase.com/news/31370",
+      "story_id": "story_49407869fee5",
+      "title": "千问APP支持中国移动算力套餐，用户可在工作助理中启用",
+      "url": "https://www.aibase.com/news/31376",
+      "primary_url": "https://www.aibase.com/news/31376",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "56905426724026cfa1eb0d259a258a29bc036d8a",
-          "title": "开源大模型格局重塑！小米 MiMo-V2.6-Pro 强势杀回 Code Arena 前十，性能直逼国际第一梯队",
-          "title_zh": "开源大模型格局重塑！小米 MiMo-V2.6-Pro 强势杀回 Code Arena 前十，性能直逼国际第一梯队",
+          "id": "99899f040f048e1041bd8146180bed6441e5893c",
+          "title": "千问APP支持中国移动算力套餐，用户可在工作助理中启用",
+          "title_zh": "千问APP支持中国移动算力套餐，用户可在工作助理中启用",
           "title_en": null,
-          "title_original": "开源大模型格局重塑！小米 MiMo-V2.6-Pro 强势杀回 Code Arena 前十，性能直逼国际第一梯队",
+          "title_original": "千问APP支持中国移动算力套餐，用户可在工作助理中启用",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/31370",
+          "url": "https://www.aibase.com/news/31376",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-09-28T02:47:19.970834Z"
+          "published_at": "2026-09-28T03:47:16.286363Z"
         }
       ],
       "source_count": 1,
@@ -1742,31 +1766,31 @@
       ],
       "items": [
         {
-          "id": "56905426724026cfa1eb0d259a258a29bc036d8a",
-          "title": "开源大模型格局重塑！小米 MiMo-V2.6-Pro 强势杀回 Code Arena 前十，性能直逼国际第一梯队",
-          "title_zh": "开源大模型格局重塑！小米 MiMo-V2.6-Pro 强势杀回 Code Arena 前十，性能直逼国际第一梯队",
+          "id": "99899f040f048e1041bd8146180bed6441e5893c",
+          "title": "千问APP支持中国移动算力套餐，用户可在工作助理中启用",
+          "title_zh": "千问APP支持中国移动算力套餐，用户可在工作助理中启用",
           "title_en": null,
-          "title_original": "开源大模型格局重塑！小米 MiMo-V2.6-Pro 强势杀回 Code Arena 前十，性能直逼国际第一梯队",
+          "title_original": "千问APP支持中国移动算力套餐，用户可在工作助理中启用",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/31370",
+          "url": "https://www.aibase.com/news/31376",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-09-28T02:47:19.970834Z"
+          "published_at": "2026-09-28T03:47:16.286363Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.76,
-      "importance": 0.76,
-      "importance_score": 0.76,
+      "score": 0.7599,
+      "importance": 0.7599,
+      "importance_score": 0.7599,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9576,
+        "recency": 0.9574,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1774,17 +1798,17 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-09-28T02:47:19.970834Z",
-      "latest_at": "2026-09-28T02:47:19.970834Z",
+      "earliest_at": "2026-09-28T03:47:16.286363Z",
+      "latest_at": "2026-09-28T03:47:16.286363Z",
       "primary_item": {
-        "id": "56905426724026cfa1eb0d259a258a29bc036d8a",
-        "title": "开源大模型格局重塑！小米 MiMo-V2.6-Pro 强势杀回 Code Arena 前十，性能直逼国际第一梯队",
-        "title_zh": "开源大模型格局重塑！小米 MiMo-V2.6-Pro 强势杀回 Code Arena 前十，性能直逼国际第一梯队",
+        "id": "99899f040f048e1041bd8146180bed6441e5893c",
+        "title": "千问APP支持中国移动算力套餐，用户可在工作助理中启用",
+        "title_zh": "千问APP支持中国移动算力套餐，用户可在工作助理中启用",
         "title_en": null,
-        "title_original": "开源大模型格局重塑！小米 MiMo-V2.6-Pro 强势杀回 Code Arena 前十，性能直逼国际第一梯队",
+        "title_original": "千问APP支持中国移动算力套餐，用户可在工作助理中启用",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/31370",
+        "url": "https://www.aibase.com/news/31376",
         "source": "AIbase",
         "source_name": "AIbase"
       },
@@ -1792,7 +1816,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-28T05:53:39.056361Z"
+        "scored_at": "2026-09-28T06:55:13.585066Z"
       }
     },
     {
@@ -1898,15 +1922,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5446,
-      "importance": 0.5446,
-      "importance_score": 0.5446,
+      "score": 0.5424,
+      "importance": 0.5424,
+      "importance_score": 0.5424,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8546,
+        "recency": 0.8422,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1931,146 +1955,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-28T05:53:39.056361Z"
-      }
-    },
-    {
-      "story_id": "story_dc50d791f8d7",
-      "title": "不存在“失控”的人工智能代理",
-      "url": "https://eoinhiggins.substack.com/p/there-are-no-rogue-ai-agents",
-      "primary_url": "https://eoinhiggins.substack.com/p/there-are-no-rogue-ai-agents",
-      "source": "eoinhiggins.substack.com",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "634519ae43df8d95c26447cdc97bbb59d63e0670",
-          "title": "不存在“失控”的人工智能代理",
-          "title_zh": "不存在“失控”的人工智能代理",
-          "title_en": null,
-          "title_original": "不存在“失控”的人工智能代理",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://eoinhiggins.substack.com/p/there-are-no-rogue-ai-agents",
-          "source": "eoinhiggins.substack.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-09-27T17:51:03.203000Z"
-        },
-        {
-          "id": "c49a7536c1acdbcb353926e7100029e7762e7e49",
-          "title": "不存在“失控”的人工智能代理 / There are no \"rogue\" AI agents",
-          "title_zh": "不存在“失控”的人工智能代理",
-          "title_en": "There are no \"rogue\" AI agents",
-          "title_original": "There are no \"rogue\" AI agents",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://eoinhiggins.substack.com/p/there-are-no-rogue-ai-agents",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-09-27T16:19:46Z"
-        },
-        {
-          "id": "09acbafe4487509079a6b2b33c03f792c5aec3aa",
-          "title": "不存在“流氓”人工智能代理 / There are no \"rogue\" AI agents",
-          "title_zh": "不存在“流氓”人工智能代理",
-          "title_en": "There are no \"rogue\" AI agents",
-          "title_original": "There are no \"rogue\" AI agents",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=49868083",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-09-27T16:19:46Z"
-        }
-      ],
-      "source_count": 3,
-      "source_names": [
-        "Hacker News · 24h最热",
-        "eoinhiggins.substack.com",
-        "hackernews"
-      ],
-      "items": [
-        {
-          "id": "634519ae43df8d95c26447cdc97bbb59d63e0670",
-          "title": "不存在“失控”的人工智能代理",
-          "title_zh": "不存在“失控”的人工智能代理",
-          "title_en": null,
-          "title_original": "不存在“失控”的人工智能代理",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://eoinhiggins.substack.com/p/there-are-no-rogue-ai-agents",
-          "source": "eoinhiggins.substack.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-09-27T17:51:03.203000Z"
-        },
-        {
-          "id": "c49a7536c1acdbcb353926e7100029e7762e7e49",
-          "title": "不存在“失控”的人工智能代理 / There are no \"rogue\" AI agents",
-          "title_zh": "不存在“失控”的人工智能代理",
-          "title_en": "There are no \"rogue\" AI agents",
-          "title_original": "There are no \"rogue\" AI agents",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://eoinhiggins.substack.com/p/there-are-no-rogue-ai-agents",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-09-27T16:19:46Z"
-        },
-        {
-          "id": "09acbafe4487509079a6b2b33c03f792c5aec3aa",
-          "title": "不存在“流氓”人工智能代理 / There are no \"rogue\" AI agents",
-          "title_zh": "不存在“流氓”人工智能代理",
-          "title_en": "There are no \"rogue\" AI agents",
-          "title_original": "There are no \"rogue\" AI agents",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=49868083",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-09-27T16:19:46Z"
-        }
-      ],
-      "item_count": 3,
-      "duplicate_count": 3,
-      "score": 0.5423,
-      "importance": 0.5423,
-      "importance_score": 0.5423,
-      "importance_label": "多源热议",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.8417,
-        "story_heat": 0.5
-      },
-      "category": "multi_source",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-09-27T16:19:46Z",
-      "latest_at": "2026-09-27T17:51:03.203000Z",
-      "primary_item": {
-        "id": "634519ae43df8d95c26447cdc97bbb59d63e0670",
-        "title": "不存在“失控”的人工智能代理",
-        "title_zh": "不存在“失控”的人工智能代理",
-        "title_en": null,
-        "title_original": "不存在“失控”的人工智能代理",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://eoinhiggins.substack.com/p/there-are-no-rogue-ai-agents",
-        "source": "eoinhiggins.substack.com",
-        "source_name": "Buzzing"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-09-28T05:53:39.056361Z"
+        "scored_at": "2026-09-28T06:55:13.585066Z"
       }
     }
   ]
