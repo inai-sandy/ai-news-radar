@@ -1,8 +1,91 @@
 {
-  "generated_at": "2026-09-29T12:47:23.778582Z",
+  "generated_at": "2026-09-29T13:47:20.660297Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
+    {
+      "story_id": "story_a2df1f649cab",
+      "title": "获取正确的源代码，而不仅仅是事实：MCP 代理的源感知验证 / Getting the Source Right, Not Just the Fact: Source-Aware Verification for MCP Agents",
+      "url": "https://huggingface.co/blog/MultiverseComputingCAI/getting-the-source-right-not-just-the-fact-source",
+      "primary_url": "https://huggingface.co/blog/MultiverseComputingCAI/getting-the-source-right-not-just-the-fact-source",
+      "source": "Hugging Face Blog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "9baf50548a49a1286d6439cae3f912053b8f9914",
+          "title": "获取正确的源代码，而不仅仅是事实：MCP 代理的源感知验证 / Getting the Source Right, Not Just the Fact: Source-Aware Verification for MCP Agents",
+          "title_zh": "获取正确的源代码，而不仅仅是事实：MCP 代理的源感知验证",
+          "title_en": "Getting the Source Right, Not Just the Fact: Source-Aware Verification for MCP Agents",
+          "title_original": "Getting the Source Right, Not Just the Fact: Source-Aware Verification for MCP Agents",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://huggingface.co/blog/MultiverseComputingCAI/getting-the-source-right-not-just-the-fact-source",
+          "source": "Hugging Face Blog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-09-29T13:07:00Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Hugging Face Blog"
+      ],
+      "items": [
+        {
+          "id": "9baf50548a49a1286d6439cae3f912053b8f9914",
+          "title": "获取正确的源代码，而不仅仅是事实：MCP 代理的源感知验证 / Getting the Source Right, Not Just the Fact: Source-Aware Verification for MCP Agents",
+          "title_zh": "获取正确的源代码，而不仅仅是事实：MCP 代理的源感知验证",
+          "title_en": "Getting the Source Right, Not Just the Fact: Source-Aware Verification for MCP Agents",
+          "title_original": "Getting the Source Right, Not Just the Fact: Source-Aware Verification for MCP Agents",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://huggingface.co/blog/MultiverseComputingCAI/getting-the-source-right-not-just-the-fact-source",
+          "source": "Hugging Face Blog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-09-29T13:07:00Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8663,
+      "importance": 0.8663,
+      "importance_score": 0.8663,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.99,
+        "recency": 0.9903,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-29T13:07:00Z",
+      "latest_at": "2026-09-29T13:07:00Z",
+      "primary_item": {
+        "id": "9baf50548a49a1286d6439cae3f912053b8f9914",
+        "title": "获取正确的源代码，而不仅仅是事实：MCP 代理的源感知验证 / Getting the Source Right, Not Just the Fact: Source-Aware Verification for MCP Agents",
+        "title_zh": "获取正确的源代码，而不仅仅是事实：MCP 代理的源感知验证",
+        "title_en": "Getting the Source Right, Not Just the Fact: Source-Aware Verification for MCP Agents",
+        "title_original": "Getting the Source Right, Not Just the Fact: Source-Aware Verification for MCP Agents",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://huggingface.co/blog/MultiverseComputingCAI/getting-the-source-right-not-just-the-fact-source",
+        "source": "Hugging Face Blog",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-09-29T13:48:11.741647Z"
+      }
+    },
     {
       "story_id": "story_c49bc1306894",
       "title": "OpenAI 披露模型在训练评估中未经授权访问澳大利亚政府网站事件及整改措施 / How we will do better for Australia",
@@ -48,15 +131,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8238,
-      "importance": 0.8238,
-      "importance_score": 0.8238,
+      "score": 0.8216,
+      "importance": 0.8216,
+      "importance_score": 0.8216,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.8435,
+        "recency": 0.8314,
         "story_heat": 0.0
       },
       "category": "official",
@@ -83,7 +166,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-29T13:26:20.173904Z"
+        "scored_at": "2026-09-29T13:48:11.741647Z"
       }
     },
     {
@@ -124,8 +207,8 @@
         },
         {
           "id": "269a46f85949862f4eda55fdd3ed88635ff5608d",
-          "title": "AI companies leak data to advertisers [pdf]",
-          "title_zh": null,
+          "title": "人工智能公司向广告商泄露数据 [pdf] / AI companies leak data to advertisers [pdf]",
+          "title_zh": "人工智能公司向广告商泄露数据 [pdf]",
           "title_en": "AI companies leak data to advertisers [pdf]",
           "title_original": "AI companies leak data to advertisers [pdf]",
           "summary": null,
@@ -174,8 +257,8 @@
         },
         {
           "id": "269a46f85949862f4eda55fdd3ed88635ff5608d",
-          "title": "AI companies leak data to advertisers [pdf]",
-          "title_zh": null,
+          "title": "人工智能公司向广告商泄露数据 [pdf] / AI companies leak data to advertisers [pdf]",
+          "title_zh": "人工智能公司向广告商泄露数据 [pdf]",
           "title_en": "AI companies leak data to advertisers [pdf]",
           "title_original": "AI companies leak data to advertisers [pdf]",
           "summary": null,
@@ -189,15 +272,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.8232,
-      "importance": 0.8232,
-      "importance_score": 0.8232,
+      "score": 0.8207,
+      "importance": 0.8207,
+      "importance_score": 0.8207,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.77,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9476,
+        "recency": 0.934,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -224,12 +307,12 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-29T13:26:20.173904Z"
+        "scored_at": "2026-09-29T13:48:11.741647Z"
       }
     },
     {
       "story_id": "story_c04a80da7898",
-      "title": "Claude Sonnet 5.5 in GitHub Copilot",
+      "title": "GitHub Copilot 中的Claude十四行诗 5.5 / Claude Sonnet 5.5 in GitHub Copilot",
       "url": "https://github.blog/changelog/2026-09-28-claude-sonnet-5-5-in-github-copilot",
       "primary_url": "https://github.blog/changelog/2026-09-28-claude-sonnet-5-5-in-github-copilot",
       "source": "GitHub Changelog",
@@ -237,8 +320,8 @@
       "sources": [
         {
           "id": "6ca7b84b71814e47e7dcc1f8dcf148c56a3b433e",
-          "title": "Claude Sonnet 5.5 in GitHub Copilot",
-          "title_zh": null,
+          "title": "GitHub Copilot 中的Claude十四行诗 5.5 / Claude Sonnet 5.5 in GitHub Copilot",
+          "title_zh": "GitHub Copilot 中的Claude十四行诗 5.5",
           "title_en": "Claude Sonnet 5.5 in GitHub Copilot",
           "title_original": "Claude Sonnet 5.5 in GitHub Copilot",
           "summary": null,
@@ -257,8 +340,8 @@
       "items": [
         {
           "id": "6ca7b84b71814e47e7dcc1f8dcf148c56a3b433e",
-          "title": "Claude Sonnet 5.5 in GitHub Copilot",
-          "title_zh": null,
+          "title": "GitHub Copilot 中的Claude十四行诗 5.5 / Claude Sonnet 5.5 in GitHub Copilot",
+          "title_zh": "GitHub Copilot 中的Claude十四行诗 5.5",
           "title_en": "Claude Sonnet 5.5 in GitHub Copilot",
           "title_original": "Claude Sonnet 5.5 in GitHub Copilot",
           "summary": null,
@@ -272,15 +355,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8174,
-      "importance": 0.8174,
-      "importance_score": 0.8174,
+      "score": 0.8154,
+      "importance": 0.8154,
+      "importance_score": 0.8154,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.7631,
+        "recency": 0.7522,
         "story_heat": 0.0
       },
       "category": "official",
@@ -293,8 +376,8 @@
       "latest_at": "2026-09-28T18:03:57Z",
       "primary_item": {
         "id": "6ca7b84b71814e47e7dcc1f8dcf148c56a3b433e",
-        "title": "Claude Sonnet 5.5 in GitHub Copilot",
-        "title_zh": null,
+        "title": "GitHub Copilot 中的Claude十四行诗 5.5 / Claude Sonnet 5.5 in GitHub Copilot",
+        "title_zh": "GitHub Copilot 中的Claude十四行诗 5.5",
         "title_en": "Claude Sonnet 5.5 in GitHub Copilot",
         "title_original": "Claude Sonnet 5.5 in GitHub Copilot",
         "summary": null,
@@ -307,7 +390,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-29T13:26:20.173904Z"
+        "scored_at": "2026-09-29T13:48:11.741647Z"
       }
     },
     {
@@ -442,15 +525,15 @@
       ],
       "item_count": 4,
       "duplicate_count": 4,
-      "score": 0.8102,
-      "importance": 0.8102,
-      "importance_score": 0.8102,
+      "score": 0.8082,
+      "importance": 0.8082,
+      "importance_score": 0.8082,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.76,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7531,
+        "recency": 0.7423,
         "story_heat": 0.75
       },
       "category": "multi_source",
@@ -477,12 +560,12 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-29T13:26:20.173904Z"
+        "scored_at": "2026-09-29T13:48:11.741647Z"
       }
     },
     {
       "story_id": "story_75870866258f",
-      "title": "Watch the winning trailer from the Future Vision XPRIZE, The Gifted.",
+      "title": "观看 Future Vision XPRIZE 的获奖预告片《天才》。 / Watch the winning trailer from the Future Vision XPRIZE, The Gifted.",
       "url": "https://blog.google/innovation-and-ai/technology/ai/winner-future-vision-xprize",
       "primary_url": "https://blog.google/innovation-and-ai/technology/ai/winner-future-vision-xprize",
       "source": "Google AI Blog",
@@ -490,8 +573,8 @@
       "sources": [
         {
           "id": "4fb734111bc2bf39e17b61bb04ddd3de046ad74c",
-          "title": "Watch the winning trailer from the Future Vision XPRIZE, The Gifted.",
-          "title_zh": null,
+          "title": "观看 Future Vision XPRIZE 的获奖预告片《天才》。 / Watch the winning trailer from the Future Vision XPRIZE, The Gifted.",
+          "title_zh": "观看 Future Vision XPRIZE 的获奖预告片《天才》。",
           "title_en": "Watch the winning trailer from the Future Vision XPRIZE, The Gifted.",
           "title_original": "Watch the winning trailer from the Future Vision XPRIZE, The Gifted.",
           "summary": null,
@@ -510,8 +593,8 @@
       "items": [
         {
           "id": "4fb734111bc2bf39e17b61bb04ddd3de046ad74c",
-          "title": "Watch the winning trailer from the Future Vision XPRIZE, The Gifted.",
-          "title_zh": null,
+          "title": "观看 Future Vision XPRIZE 的获奖预告片《天才》。 / Watch the winning trailer from the Future Vision XPRIZE, The Gifted.",
+          "title_zh": "观看 Future Vision XPRIZE 的获奖预告片《天才》。",
           "title_en": "Watch the winning trailer from the Future Vision XPRIZE, The Gifted.",
           "title_original": "Watch the winning trailer from the Future Vision XPRIZE, The Gifted.",
           "summary": null,
@@ -525,15 +608,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8092,
-      "importance": 0.8092,
-      "importance_score": 0.8092,
+      "score": 0.8072,
+      "importance": 0.8072,
+      "importance_score": 0.8072,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.9,
-        "recency": 0.7734,
+        "recency": 0.7624,
         "story_heat": 0.0
       },
       "category": "official",
@@ -546,8 +629,8 @@
       "latest_at": "2026-09-28T19:00:00Z",
       "primary_item": {
         "id": "4fb734111bc2bf39e17b61bb04ddd3de046ad74c",
-        "title": "Watch the winning trailer from the Future Vision XPRIZE, The Gifted.",
-        "title_zh": null,
+        "title": "观看 Future Vision XPRIZE 的获奖预告片《天才》。 / Watch the winning trailer from the Future Vision XPRIZE, The Gifted.",
+        "title_zh": "观看 Future Vision XPRIZE 的获奖预告片《天才》。",
         "title_en": "Watch the winning trailer from the Future Vision XPRIZE, The Gifted.",
         "title_original": "Watch the winning trailer from the Future Vision XPRIZE, The Gifted.",
         "summary": null,
@@ -560,7 +643,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-29T13:26:20.173904Z"
+        "scored_at": "2026-09-29T13:48:11.741647Z"
       }
     },
     {
@@ -608,15 +691,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8047,
-      "importance": 0.8047,
-      "importance_score": 0.8047,
+      "score": 0.8026,
+      "importance": 0.8026,
+      "importance_score": 0.8026,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.8,
         "source_tier": 1.0,
         "ai_relevance": 1.0,
-        "recency": 0.804,
+        "recency": 0.7925,
         "story_heat": 0.0
       },
       "category": "official",
@@ -642,7 +725,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-29T13:26:20.173904Z"
+        "scored_at": "2026-09-29T13:48:11.741647Z"
       }
     },
     {
@@ -690,15 +773,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7874,
-      "importance": 0.7874,
-      "importance_score": 0.7874,
+      "score": 0.7852,
+      "importance": 0.7852,
+      "importance_score": 0.7852,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.87,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8601,
+        "recency": 0.8478,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -724,12 +807,12 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-29T13:26:20.173904Z"
+        "scored_at": "2026-09-29T13:48:11.741647Z"
       }
     },
     {
       "story_id": "story_4015f64ac105",
-      "title": "Towards safety cases for frontier AI training",
+      "title": "前沿人工智能训练的安全案例 / Towards safety cases for frontier AI training",
       "url": "https://openai.com/index/towards-safety-cases-for-frontier-ai-training",
       "primary_url": "https://openai.com/index/towards-safety-cases-for-frontier-ai-training",
       "source": "OpenAI News",
@@ -737,8 +820,8 @@
       "sources": [
         {
           "id": "c1f808e273524bad08492a038dae36a455e222a3",
-          "title": "Towards safety cases for frontier AI training",
-          "title_zh": null,
+          "title": "前沿人工智能训练的安全案例 / Towards safety cases for frontier AI training",
+          "title_zh": "前沿人工智能训练的安全案例",
           "title_en": "Towards safety cases for frontier AI training",
           "title_original": "Towards safety cases for frontier AI training",
           "summary": null,
@@ -757,8 +840,8 @@
       "items": [
         {
           "id": "c1f808e273524bad08492a038dae36a455e222a3",
-          "title": "Towards safety cases for frontier AI training",
-          "title_zh": null,
+          "title": "前沿人工智能训练的安全案例 / Towards safety cases for frontier AI training",
+          "title_zh": "前沿人工智能训练的安全案例",
           "title_en": "Towards safety cases for frontier AI training",
           "title_original": "Towards safety cases for frontier AI training",
           "summary": null,
@@ -772,15 +855,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8112,
-      "importance": 0.8112,
-      "importance_score": 0.8112,
+      "score": 0.8092,
+      "importance": 0.8092,
+      "importance_score": 0.8092,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.7734,
+        "recency": 0.7624,
         "story_heat": 0.0
       },
       "category": "official",
@@ -793,8 +876,8 @@
       "latest_at": "2026-09-28T19:00:00Z",
       "primary_item": {
         "id": "c1f808e273524bad08492a038dae36a455e222a3",
-        "title": "Towards safety cases for frontier AI training",
-        "title_zh": null,
+        "title": "前沿人工智能训练的安全案例 / Towards safety cases for frontier AI training",
+        "title_zh": "前沿人工智能训练的安全案例",
         "title_en": "Towards safety cases for frontier AI training",
         "title_original": "Towards safety cases for frontier AI training",
         "summary": null,
@@ -807,7 +890,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-29T13:26:20.173904Z"
+        "scored_at": "2026-09-29T13:48:11.741647Z"
       }
     },
     {
@@ -855,15 +938,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7786,
-      "importance": 0.7786,
-      "importance_score": 0.7786,
+      "score": 0.7764,
+      "importance": 0.7764,
+      "importance_score": 0.7764,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.86,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8275,
+        "recency": 0.8157,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -889,7 +972,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-29T13:26:20.173904Z"
+        "scored_at": "2026-09-29T13:48:11.741647Z"
       }
     },
     {
@@ -937,15 +1020,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7777,
-      "importance": 0.7777,
-      "importance_score": 0.7777,
+      "score": 0.7752,
+      "importance": 0.7752,
+      "importance_score": 0.7752,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.79,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9392,
+        "recency": 0.9257,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -971,12 +1054,12 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-29T13:26:20.173904Z"
+        "scored_at": "2026-09-29T13:48:11.741647Z"
       }
     },
     {
       "story_id": "story_aee032fed00c",
-      "title": "Self-hosted runner version enforcement date has moved",
+      "title": "自托管运行程序版本的实施日期已更改 / Self-hosted runner version enforcement date has moved",
       "url": "https://github.blog/changelog/2026-09-28-self-hosted-runner-version-enforcement-date-has-moved",
       "primary_url": "https://github.blog/changelog/2026-09-28-self-hosted-runner-version-enforcement-date-has-moved",
       "source": "GitHub Changelog",
@@ -984,8 +1067,8 @@
       "sources": [
         {
           "id": "e950a19f5573ca6db9c8090f6edc109741d7a753",
-          "title": "Self-hosted runner version enforcement date has moved",
-          "title_zh": null,
+          "title": "自托管运行程序版本的实施日期已更改 / Self-hosted runner version enforcement date has moved",
+          "title_zh": "自托管运行程序版本的实施日期已更改",
           "title_en": "Self-hosted runner version enforcement date has moved",
           "title_original": "Self-hosted runner version enforcement date has moved",
           "summary": null,
@@ -1004,8 +1087,8 @@
       "items": [
         {
           "id": "e950a19f5573ca6db9c8090f6edc109741d7a753",
-          "title": "Self-hosted runner version enforcement date has moved",
-          "title_zh": null,
+          "title": "自托管运行程序版本的实施日期已更改 / Self-hosted runner version enforcement date has moved",
+          "title_zh": "自托管运行程序版本的实施日期已更改",
           "title_en": "Self-hosted runner version enforcement date has moved",
           "title_original": "Self-hosted runner version enforcement date has moved",
           "summary": null,
@@ -1019,15 +1102,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.804,
-      "importance": 0.804,
-      "importance_score": 0.804,
+      "score": 0.802,
+      "importance": 0.802,
+      "importance_score": 0.802,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.7777,
+        "recency": 0.7666,
         "story_heat": 0.0
       },
       "category": "official",
@@ -1040,8 +1123,8 @@
       "latest_at": "2026-09-28T19:22:46Z",
       "primary_item": {
         "id": "e950a19f5573ca6db9c8090f6edc109741d7a753",
-        "title": "Self-hosted runner version enforcement date has moved",
-        "title_zh": null,
+        "title": "自托管运行程序版本的实施日期已更改 / Self-hosted runner version enforcement date has moved",
+        "title_zh": "自托管运行程序版本的实施日期已更改",
         "title_en": "Self-hosted runner version enforcement date has moved",
         "title_original": "Self-hosted runner version enforcement date has moved",
         "summary": null,
@@ -1054,7 +1137,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-29T13:26:20.173904Z"
+        "scored_at": "2026-09-29T13:48:11.741647Z"
       }
     },
     {
@@ -1095,8 +1178,8 @@
         },
         {
           "id": "0e39b6b90af3e9ad24b491ee69b08957951a8540",
-          "title": "We found 24 Android vulnerabilities using our open source AI security agent",
-          "title_zh": null,
+          "title": "我们使用我们的开源 AI 安全代理发现了 24 个 Android 漏洞 / We found 24 Android vulnerabilities using our open source AI security agent",
+          "title_zh": "我们使用我们的开源 AI 安全代理发现了 24 个 Android 漏洞",
           "title_en": "We found 24 Android vulnerabilities using our open source AI security agent",
           "title_original": "We found 24 Android vulnerabilities using our open source AI security agent",
           "summary": null,
@@ -1145,8 +1228,8 @@
         },
         {
           "id": "0e39b6b90af3e9ad24b491ee69b08957951a8540",
-          "title": "We found 24 Android vulnerabilities using our open source AI security agent",
-          "title_zh": null,
+          "title": "我们使用我们的开源 AI 安全代理发现了 24 个 Android 漏洞 / We found 24 Android vulnerabilities using our open source AI security agent",
+          "title_zh": "我们使用我们的开源 AI 安全代理发现了 24 个 Android 漏洞",
           "title_en": "We found 24 Android vulnerabilities using our open source AI security agent",
           "title_original": "We found 24 Android vulnerabilities using our open source AI security agent",
           "summary": null,
@@ -1160,15 +1243,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.7738,
-      "importance": 0.7738,
-      "importance_score": 0.7738,
+      "score": 0.7718,
+      "importance": 0.7718,
+      "importance_score": 0.7718,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.71,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7734,
+        "recency": 0.7624,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1195,7 +1278,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-29T13:26:20.173904Z"
+        "scored_at": "2026-09-29T13:48:11.741647Z"
       }
     },
     {
@@ -1243,15 +1326,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7954,
-      "importance": 0.7954,
-      "importance_score": 0.7954,
+      "score": 0.7934,
+      "importance": 0.7934,
+      "importance_score": 0.7934,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.79,
         "source_tier": 1.0,
         "ai_relevance": 1.0,
-        "recency": 0.769,
+        "recency": 0.758,
         "story_heat": 0.0
       },
       "category": "official",
@@ -1277,7 +1360,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-29T13:26:20.173904Z"
+        "scored_at": "2026-09-29T13:48:11.741647Z"
       }
     },
     {
@@ -1354,15 +1437,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7948,
-      "importance": 0.7948,
-      "importance_score": 0.7948,
+      "score": 0.7928,
+      "importance": 0.7928,
+      "importance_score": 0.7928,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.87,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.762,
+        "recency": 0.7511,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -1389,7 +1472,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-29T13:26:20.173904Z"
+        "scored_at": "2026-09-29T13:48:11.741647Z"
       }
     },
     {
@@ -1437,15 +1520,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7625,
-      "importance": 0.7625,
-      "importance_score": 0.7625,
+      "score": 0.76,
+      "importance": 0.76,
+      "importance_score": 0.76,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9715,
+        "recency": 0.9576,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1471,7 +1554,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-29T13:26:20.173904Z"
+        "scored_at": "2026-09-29T13:48:11.741647Z"
       }
     },
     {
@@ -1519,15 +1602,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.762,
-      "importance": 0.762,
-      "importance_score": 0.762,
+      "score": 0.7599,
+      "importance": 0.7599,
+      "importance_score": 0.7599,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.82,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8022,
+        "recency": 0.7907,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1553,7 +1636,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-29T13:26:20.173904Z"
+        "scored_at": "2026-09-29T13:48:11.741647Z"
       }
     },
     {
@@ -1601,15 +1684,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7595,
-      "importance": 0.7595,
-      "importance_score": 0.7595,
+      "score": 0.7573,
+      "importance": 0.7573,
+      "importance_score": 0.7573,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.79,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8384,
+        "recency": 0.8263,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1635,7 +1718,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-29T13:26:20.173904Z"
+        "scored_at": "2026-09-29T13:48:11.741647Z"
       }
     },
     {
@@ -1683,15 +1766,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7583,
-      "importance": 0.7583,
-      "importance_score": 0.7583,
+      "score": 0.7564,
+      "importance": 0.7564,
+      "importance_score": 0.7564,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.84,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7484,
+        "recency": 0.7377,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1717,7 +1800,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-29T13:26:20.173904Z"
+        "scored_at": "2026-09-29T13:48:11.741647Z"
       }
     },
     {
@@ -1765,15 +1848,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7561,
-      "importance": 0.7561,
-      "importance_score": 0.7561,
+      "score": 0.7541,
+      "importance": 0.7541,
+      "importance_score": 0.7541,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.81,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7862,
+        "recency": 0.7749,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1799,89 +1882,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-29T13:26:20.173904Z"
-      }
-    },
-    {
-      "story_id": "story_4bbadd003175",
-      "title": "Anthropic 发布 Claude Sonnet 5.5，Artificial Analysis 智能指数得分 56，仅次于 Opus 5.5 / Anthropic has launched Claude Sonnet 5.5: it scores 56 on the Artificial Analysis Intelligence Index, just 2 points behind Opus 5.5 (max)...",
-      "url": "https://x.com/ArtificialAnlys/status/2104640155843989864",
-      "primary_url": "https://x.com/ArtificialAnlys/status/2104640155843989864",
-      "source": "X：Artificial Analysis (@ArtificialAnlys)",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "ca94cccd0c3586f5a94d867af37eee8487bd3da1",
-          "title": "Anthropic 发布 Claude Sonnet 5.5，Artificial Analysis 智能指数得分 56，仅次于 Opus 5.5 / Anthropic has launched Claude Sonnet 5.5: it scores 56 on the Artificial Analysis Intelligence Index, just 2 points behind Opus 5.5 (max)...",
-          "title_zh": "Anthropic 发布 Claude Sonnet 5.5，Artificial Analysis 智能指数得分 56，仅次于 Opus 5.5",
-          "title_en": "Anthropic has launched Claude Sonnet 5.5: it scores 56 on the Artificial Analysis Intelligence Index, just 2 points behind Opus 5.5 (max)...",
-          "title_original": "Anthropic has launched Claude Sonnet 5.5: it scores 56 on the Artificial Analysis Intelligence Index, just 2 points behind Opus 5.5 (max)...",
-          "summary": "Anthropic 发布 Claude Sonnet 5.5，在 Artificial Analysis Intelligence Index 得 56 分，仅比 Opus 5.5（max）低 2 分，max effort 下比 Sonnet 5 高 18 分。",
-          "recommend_reason_zh": null,
-          "url": "https://x.com/ArtificialAnlys/status/2104640155843989864",
-          "source": "X：Artificial Analysis (@ArtificialAnlys)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-28T18:31:30Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "X：Artificial Analysis (@ArtificialAnlys)"
-      ],
-      "items": [
-        {
-          "id": "ca94cccd0c3586f5a94d867af37eee8487bd3da1",
-          "title": "Anthropic 发布 Claude Sonnet 5.5，Artificial Analysis 智能指数得分 56，仅次于 Opus 5.5 / Anthropic has launched Claude Sonnet 5.5: it scores 56 on the Artificial Analysis Intelligence Index, just 2 points behind Opus 5.5 (max)...",
-          "title_zh": "Anthropic 发布 Claude Sonnet 5.5，Artificial Analysis 智能指数得分 56，仅次于 Opus 5.5",
-          "title_en": "Anthropic has launched Claude Sonnet 5.5: it scores 56 on the Artificial Analysis Intelligence Index, just 2 points behind Opus 5.5 (max)...",
-          "title_original": "Anthropic has launched Claude Sonnet 5.5: it scores 56 on the Artificial Analysis Intelligence Index, just 2 points behind Opus 5.5 (max)...",
-          "summary": "Anthropic 发布 Claude Sonnet 5.5，在 Artificial Analysis Intelligence Index 得 56 分，仅比 Opus 5.5（max）低 2 分，max effort 下比 Sonnet 5 高 18 分。",
-          "recommend_reason_zh": null,
-          "url": "https://x.com/ArtificialAnlys/status/2104640155843989864",
-          "source": "X：Artificial Analysis (@ArtificialAnlys)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-28T18:31:30Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7559,
-      "importance": 0.7559,
-      "importance_score": 0.7559,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.82,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7682,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-28T18:31:30Z",
-      "latest_at": "2026-09-28T18:31:30Z",
-      "primary_item": {
-        "id": "ca94cccd0c3586f5a94d867af37eee8487bd3da1",
-        "title": "Anthropic 发布 Claude Sonnet 5.5，Artificial Analysis 智能指数得分 56，仅次于 Opus 5.5 / Anthropic has launched Claude Sonnet 5.5: it scores 56 on the Artificial Analysis Intelligence Index, just 2 points behind Opus 5.5 (max)...",
-        "title_zh": "Anthropic 发布 Claude Sonnet 5.5，Artificial Analysis 智能指数得分 56，仅次于 Opus 5.5",
-        "title_en": "Anthropic has launched Claude Sonnet 5.5: it scores 56 on the Artificial Analysis Intelligence Index, just 2 points behind Opus 5.5 (max)...",
-        "title_original": "Anthropic has launched Claude Sonnet 5.5: it scores 56 on the Artificial Analysis Intelligence Index, just 2 points behind Opus 5.5 (max)...",
-        "summary": "Anthropic 发布 Claude Sonnet 5.5，在 Artificial Analysis Intelligence Index 得 56 分，仅比 Opus 5.5（max）低 2 分，max effort 下比 Sonnet 5 高 18 分。",
-        "recommend_reason_zh": null,
-        "url": "https://x.com/ArtificialAnlys/status/2104640155843989864",
-        "source": "X：Artificial Analysis (@ArtificialAnlys)",
-        "source_name": "AI HOT"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-09-29T13:26:20.173904Z"
+        "scored_at": "2026-09-29T13:48:11.741647Z"
       }
     }
   ]
