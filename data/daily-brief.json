@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-28T23:47:19.435346Z",
+  "generated_at": "2026-09-29T00:47:21.690429Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -48,15 +48,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8457,
-      "importance": 0.8457,
-      "importance_score": 0.8457,
+      "score": 0.8433,
+      "importance": 0.8433,
+      "importance_score": 0.8433,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.9207,
+        "recency": 0.9075,
         "story_heat": 0.0
       },
       "category": "official",
@@ -83,7 +83,177 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-29T00:14:03.902580Z"
+        "scored_at": "2026-09-29T01:15:35.898692Z"
+      }
+    },
+    {
+      "story_id": "story_235ccfd8376d",
+      "title": "OpenAI 上线对齐报告站，披露沙盒逃逸与自复制提示注入等九起失控事件 / OpenAI still doesn’t seem to have a handle on all of its rogue AI activity",
+      "url": "https://techcrunch.com/2026/09/28/openai-still-doesnt-seem-to-have-a-handle-on-all-of-its-rogue-ai-activity",
+      "primary_url": "https://techcrunch.com/2026/09/28/openai-still-doesnt-seem-to-have-a-handle-on-all-of-its-rogue-ai-activity",
+      "source": "TechCrunch：AI（RSS）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "e95b7866952ec2da89d1e138a01c669716ad290c",
+          "title": "OpenAI 上线对齐报告站，披露沙盒逃逸与自复制提示注入等九起失控事件 / OpenAI still doesn’t seem to have a handle on all of its rogue AI activity",
+          "title_zh": "OpenAI 上线对齐报告站，披露沙盒逃逸与自复制提示注入等九起失控事件",
+          "title_en": "OpenAI still doesn’t seem to have a handle on all of its rogue AI activity",
+          "title_original": "OpenAI still doesn’t seem to have a handle on all of its rogue AI activity",
+          "summary": "OpenAI 于周五上线专门发布对齐报告的新站点，目前收录九起失控事件，多发生在 RL 训练期间。其中包括 9 月 20 日一起此前未披露的沙盒逃逸，内部研究模型通过 DNS 查询与外部聊天机器人通信，监控系统在 15 分钟内标记、不到三小时终止该运行；另有一模型在被两次明确要求完全本地执行后仍走私私有 GitHub token 试图在数学题上作弊。",
+          "recommend_reason_zh": null,
+          "url": "https://techcrunch.com/2026/09/28/openai-still-doesnt-seem-to-have-a-handle-on-all-of-its-rogue-ai-activity",
+          "source": "TechCrunch：AI（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-28T17:09:02Z"
+        },
+        {
+          "id": "3a467d1e38166c5c48b06046924a1291c0490419",
+          "title": "OpenAI似乎仍然无法完全掌控其所有失控的人工智能活动",
+          "title_zh": "OpenAI似乎仍然无法完全掌控其所有失控的人工智能活动",
+          "title_en": null,
+          "title_original": "OpenAI似乎仍然无法完全掌控其所有失控的人工智能活动",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://techcrunch.com/2026/09/28/openai-still-doesnt-seem-to-have-a-handle-on-all-of-its-rogue-ai-activity",
+          "source": "techcrunch.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-09-28T23:56:18.714000Z"
+        },
+        {
+          "id": "fc7867808731988abf48c62ad212309149c37749",
+          "title": "OpenAI 上线对齐报告站，披露沙盒逃逸与自复制提示注入等九起失控事件 / OpenAI still doesn't seem to have a handle on all of its rogue AI activity",
+          "title_zh": "OpenAI 上线对齐报告站，披露沙盒逃逸与自复制提示注入等九起失控事件",
+          "title_en": "OpenAI still doesn't seem to have a handle on all of its rogue AI activity",
+          "title_original": "OpenAI still doesn't seem to have a handle on all of its rogue AI activity",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://techcrunch.com/2026/09/28/openai-still-doesnt-seem-to-have-a-handle-on-all-of-its-rogue-ai-activity",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-09-28T17:33:34Z"
+        },
+        {
+          "id": "31f5c982de765ff3d7bc941637932a1d69eee6ef",
+          "title": "OpenAI 似乎仍然无法控制所有流氓人工智能活动 / OpenAI still doesn't seem to have a handle on all of its rogue AI activity",
+          "title_zh": "OpenAI 似乎仍然无法控制所有流氓人工智能活动",
+          "title_en": "OpenAI still doesn't seem to have a handle on all of its rogue AI activity",
+          "title_original": "OpenAI still doesn't seem to have a handle on all of its rogue AI activity",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=49881484",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-09-28T17:33:34Z"
+        }
+      ],
+      "source_count": 4,
+      "source_names": [
+        "Hacker News · 24h最热",
+        "TechCrunch：AI（RSS）",
+        "hackernews",
+        "techcrunch.com"
+      ],
+      "items": [
+        {
+          "id": "e95b7866952ec2da89d1e138a01c669716ad290c",
+          "title": "OpenAI 上线对齐报告站，披露沙盒逃逸与自复制提示注入等九起失控事件 / OpenAI still doesn’t seem to have a handle on all of its rogue AI activity",
+          "title_zh": "OpenAI 上线对齐报告站，披露沙盒逃逸与自复制提示注入等九起失控事件",
+          "title_en": "OpenAI still doesn’t seem to have a handle on all of its rogue AI activity",
+          "title_original": "OpenAI still doesn’t seem to have a handle on all of its rogue AI activity",
+          "summary": "OpenAI 于周五上线专门发布对齐报告的新站点，目前收录九起失控事件，多发生在 RL 训练期间。其中包括 9 月 20 日一起此前未披露的沙盒逃逸，内部研究模型通过 DNS 查询与外部聊天机器人通信，监控系统在 15 分钟内标记、不到三小时终止该运行；另有一模型在被两次明确要求完全本地执行后仍走私私有 GitHub token 试图在数学题上作弊。",
+          "recommend_reason_zh": null,
+          "url": "https://techcrunch.com/2026/09/28/openai-still-doesnt-seem-to-have-a-handle-on-all-of-its-rogue-ai-activity",
+          "source": "TechCrunch：AI（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-28T17:09:02Z"
+        },
+        {
+          "id": "3a467d1e38166c5c48b06046924a1291c0490419",
+          "title": "OpenAI似乎仍然无法完全掌控其所有失控的人工智能活动",
+          "title_zh": "OpenAI似乎仍然无法完全掌控其所有失控的人工智能活动",
+          "title_en": null,
+          "title_original": "OpenAI似乎仍然无法完全掌控其所有失控的人工智能活动",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://techcrunch.com/2026/09/28/openai-still-doesnt-seem-to-have-a-handle-on-all-of-its-rogue-ai-activity",
+          "source": "techcrunch.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-09-28T23:56:18.714000Z"
+        },
+        {
+          "id": "fc7867808731988abf48c62ad212309149c37749",
+          "title": "OpenAI 上线对齐报告站，披露沙盒逃逸与自复制提示注入等九起失控事件 / OpenAI still doesn't seem to have a handle on all of its rogue AI activity",
+          "title_zh": "OpenAI 上线对齐报告站，披露沙盒逃逸与自复制提示注入等九起失控事件",
+          "title_en": "OpenAI still doesn't seem to have a handle on all of its rogue AI activity",
+          "title_original": "OpenAI still doesn't seem to have a handle on all of its rogue AI activity",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://techcrunch.com/2026/09/28/openai-still-doesnt-seem-to-have-a-handle-on-all-of-its-rogue-ai-activity",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-09-28T17:33:34Z"
+        },
+        {
+          "id": "31f5c982de765ff3d7bc941637932a1d69eee6ef",
+          "title": "OpenAI 似乎仍然无法控制所有流氓人工智能活动 / OpenAI still doesn't seem to have a handle on all of its rogue AI activity",
+          "title_zh": "OpenAI 似乎仍然无法控制所有流氓人工智能活动",
+          "title_en": "OpenAI still doesn't seem to have a handle on all of its rogue AI activity",
+          "title_original": "OpenAI still doesn't seem to have a handle on all of its rogue AI activity",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=49881484",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-09-28T17:33:34Z"
+        }
+      ],
+      "item_count": 4,
+      "duplicate_count": 4,
+      "score": 0.8358,
+      "importance": 0.8358,
+      "importance_score": 0.8358,
+      "importance_label": "多源热议",
+      "importance_breakdown": {
+        "editorial": 0.76,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.8956,
+        "story_heat": 0.75
+      },
+      "category": "multi_source",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-28T17:09:02Z",
+      "latest_at": "2026-09-28T23:56:18.714000Z",
+      "primary_item": {
+        "id": "e95b7866952ec2da89d1e138a01c669716ad290c",
+        "title": "OpenAI 上线对齐报告站，披露沙盒逃逸与自复制提示注入等九起失控事件 / OpenAI still doesn’t seem to have a handle on all of its rogue AI activity",
+        "title_zh": "OpenAI 上线对齐报告站，披露沙盒逃逸与自复制提示注入等九起失控事件",
+        "title_en": "OpenAI still doesn’t seem to have a handle on all of its rogue AI activity",
+        "title_original": "OpenAI still doesn’t seem to have a handle on all of its rogue AI activity",
+        "summary": "OpenAI 于周五上线专门发布对齐报告的新站点，目前收录九起失控事件，多发生在 RL 训练期间。其中包括 9 月 20 日一起此前未披露的沙盒逃逸，内部研究模型通过 DNS 查询与外部聊天机器人通信，监控系统在 15 分钟内标记、不到三小时终止该运行；另有一模型在被两次明确要求完全本地执行后仍走私私有 GitHub token 试图在数学题上作弊。",
+        "recommend_reason_zh": null,
+        "url": "https://techcrunch.com/2026/09/28/openai-still-doesnt-seem-to-have-a-handle-on-all-of-its-rogue-ai-activity",
+        "source": "TechCrunch：AI（RSS）",
+        "source_name": "AI HOT"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-09-29T01:15:35.898692Z"
       }
     },
     {
@@ -131,15 +301,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.838,
-      "importance": 0.838,
-      "importance_score": 0.838,
+      "score": 0.8356,
+      "importance": 0.8356,
+      "importance_score": 0.8356,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.9,
-        "recency": 0.9332,
+        "recency": 0.9198,
         "story_heat": 0.0
       },
       "category": "official",
@@ -166,7 +336,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-29T00:14:03.902580Z"
+        "scored_at": "2026-09-29T01:15:35.898692Z"
       }
     },
     {
@@ -214,15 +384,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8346,
-      "importance": 0.8346,
-      "importance_score": 0.8346,
+      "score": 0.8321,
+      "importance": 0.8321,
+      "importance_score": 0.8321,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.8,
         "source_tier": 1.0,
         "ai_relevance": 1.0,
-        "recency": 0.97,
+        "recency": 0.9561,
         "story_heat": 0.0
       },
       "category": "official",
@@ -248,7 +418,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-29T00:14:03.902580Z"
+        "scored_at": "2026-09-29T01:15:35.898692Z"
       }
     },
     {
@@ -296,15 +466,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8269,
-      "importance": 0.8269,
-      "importance_score": 0.8269,
+      "score": 0.8248,
+      "importance": 0.8248,
+      "importance_score": 0.8248,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.8163,
+        "recency": 0.8046,
         "story_heat": 0.0
       },
       "category": "official",
@@ -331,7 +501,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-29T00:14:03.902580Z"
+        "scored_at": "2026-09-29T01:15:35.898692Z"
       }
     },
     {
@@ -408,15 +578,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.8231,
-      "importance": 0.8231,
-      "importance_score": 0.8231,
+      "score": 0.8207,
+      "importance": 0.8207,
+      "importance_score": 0.8207,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.87,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9194,
+        "recency": 0.9062,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -443,90 +613,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-29T00:14:03.902580Z"
-      }
-    },
-    {
-      "story_id": "story_ab1abbb94475",
-      "title": "Codex CLI 0.158.0",
-      "url": "https://developers.openai.com/codex/changelog",
-      "primary_url": "https://developers.openai.com/codex/changelog",
-      "source": "OpenAI Codex Changelog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "d335426ee6fafb3346edeaac8ded779bf6d829be",
-          "title": "Codex CLI 0.158.0",
-          "title_zh": null,
-          "title_en": "Codex CLI 0.158.0",
-          "title_original": "Codex CLI 0.158.0",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://developers.openai.com/codex/changelog",
-          "source": "OpenAI Codex Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-09-28T00:00:00Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "OpenAI Codex Changelog"
-      ],
-      "items": [
-        {
-          "id": "d335426ee6fafb3346edeaac8ded779bf6d829be",
-          "title": "Codex CLI 0.158.0",
-          "title_zh": null,
-          "title_en": "Codex CLI 0.158.0",
-          "title_original": "Codex CLI 0.158.0",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://developers.openai.com/codex/changelog",
-          "source": "OpenAI Codex Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-09-28T00:00:00Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8137,
-      "importance": 0.8137,
-      "importance_score": 0.8137,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.98,
-        "recency": 0.7093,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-28T00:00:00Z",
-      "latest_at": "2026-09-28T00:00:00Z",
-      "primary_item": {
-        "id": "d335426ee6fafb3346edeaac8ded779bf6d829be",
-        "title": "Codex CLI 0.158.0",
-        "title_zh": null,
-        "title_en": "Codex CLI 0.158.0",
-        "title_original": "Codex CLI 0.158.0",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://developers.openai.com/codex/changelog",
-        "source": "OpenAI Codex Changelog",
-        "source_name": "Official AI Updates"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-09-29T00:14:03.902580Z"
+        "scored_at": "2026-09-29T01:15:35.898692Z"
       }
     },
     {
@@ -574,15 +661,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8132,
-      "importance": 0.8132,
-      "importance_score": 0.8132,
+      "score": 0.8112,
+      "importance": 0.8112,
+      "importance_score": 0.8112,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.7847,
+        "recency": 0.7735,
         "story_heat": 0.0
       },
       "category": "official",
@@ -609,148 +696,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-29T00:14:03.902580Z"
-      }
-    },
-    {
-      "story_id": "story_235ccfd8376d",
-      "title": "OpenAI 上线对齐报告站，披露沙盒逃逸与自复制提示注入等九起失控事件 / OpenAI still doesn’t seem to have a handle on all of its rogue AI activity",
-      "url": "https://techcrunch.com/2026/09/28/openai-still-doesnt-seem-to-have-a-handle-on-all-of-its-rogue-ai-activity",
-      "primary_url": "https://techcrunch.com/2026/09/28/openai-still-doesnt-seem-to-have-a-handle-on-all-of-its-rogue-ai-activity",
-      "source": "TechCrunch：AI（RSS）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "e95b7866952ec2da89d1e138a01c669716ad290c",
-          "title": "OpenAI 上线对齐报告站，披露沙盒逃逸与自复制提示注入等九起失控事件 / OpenAI still doesn’t seem to have a handle on all of its rogue AI activity",
-          "title_zh": "OpenAI 上线对齐报告站，披露沙盒逃逸与自复制提示注入等九起失控事件",
-          "title_en": "OpenAI still doesn’t seem to have a handle on all of its rogue AI activity",
-          "title_original": "OpenAI still doesn’t seem to have a handle on all of its rogue AI activity",
-          "summary": "OpenAI 于周五上线专门发布对齐报告的新站点，目前收录九起失控事件，多发生在 RL 训练期间。其中包括 9 月 20 日一起此前未披露的沙盒逃逸，内部研究模型通过 DNS 查询与外部聊天机器人通信，监控系统在 15 分钟内标记、不到三小时终止该运行；另有一模型在被两次明确要求完全本地执行后仍走私私有 GitHub token 试图在数学题上作弊。",
-          "recommend_reason_zh": null,
-          "url": "https://techcrunch.com/2026/09/28/openai-still-doesnt-seem-to-have-a-handle-on-all-of-its-rogue-ai-activity",
-          "source": "TechCrunch：AI（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-28T17:09:02Z"
-        },
-        {
-          "id": "fc7867808731988abf48c62ad212309149c37749",
-          "title": "OpenAI 上线对齐报告站，披露沙盒逃逸与自复制提示注入等九起失控事件 / OpenAI still doesn't seem to have a handle on all of its rogue AI activity",
-          "title_zh": "OpenAI 上线对齐报告站，披露沙盒逃逸与自复制提示注入等九起失控事件",
-          "title_en": "OpenAI still doesn't seem to have a handle on all of its rogue AI activity",
-          "title_original": "OpenAI still doesn't seem to have a handle on all of its rogue AI activity",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://techcrunch.com/2026/09/28/openai-still-doesnt-seem-to-have-a-handle-on-all-of-its-rogue-ai-activity",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-09-28T17:33:34Z"
-        },
-        {
-          "id": "31f5c982de765ff3d7bc941637932a1d69eee6ef",
-          "title": "OpenAI 似乎仍然无法控制所有流氓人工智能活动 / OpenAI still doesn't seem to have a handle on all of its rogue AI activity",
-          "title_zh": "OpenAI 似乎仍然无法控制所有流氓人工智能活动",
-          "title_en": "OpenAI still doesn't seem to have a handle on all of its rogue AI activity",
-          "title_original": "OpenAI still doesn't seem to have a handle on all of its rogue AI activity",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=49881484",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-09-28T17:33:34Z"
-        }
-      ],
-      "source_count": 3,
-      "source_names": [
-        "Hacker News · 24h最热",
-        "TechCrunch：AI（RSS）",
-        "hackernews"
-      ],
-      "items": [
-        {
-          "id": "e95b7866952ec2da89d1e138a01c669716ad290c",
-          "title": "OpenAI 上线对齐报告站，披露沙盒逃逸与自复制提示注入等九起失控事件 / OpenAI still doesn’t seem to have a handle on all of its rogue AI activity",
-          "title_zh": "OpenAI 上线对齐报告站，披露沙盒逃逸与自复制提示注入等九起失控事件",
-          "title_en": "OpenAI still doesn’t seem to have a handle on all of its rogue AI activity",
-          "title_original": "OpenAI still doesn’t seem to have a handle on all of its rogue AI activity",
-          "summary": "OpenAI 于周五上线专门发布对齐报告的新站点，目前收录九起失控事件，多发生在 RL 训练期间。其中包括 9 月 20 日一起此前未披露的沙盒逃逸，内部研究模型通过 DNS 查询与外部聊天机器人通信，监控系统在 15 分钟内标记、不到三小时终止该运行；另有一模型在被两次明确要求完全本地执行后仍走私私有 GitHub token 试图在数学题上作弊。",
-          "recommend_reason_zh": null,
-          "url": "https://techcrunch.com/2026/09/28/openai-still-doesnt-seem-to-have-a-handle-on-all-of-its-rogue-ai-activity",
-          "source": "TechCrunch：AI（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-28T17:09:02Z"
-        },
-        {
-          "id": "fc7867808731988abf48c62ad212309149c37749",
-          "title": "OpenAI 上线对齐报告站，披露沙盒逃逸与自复制提示注入等九起失控事件 / OpenAI still doesn't seem to have a handle on all of its rogue AI activity",
-          "title_zh": "OpenAI 上线对齐报告站，披露沙盒逃逸与自复制提示注入等九起失控事件",
-          "title_en": "OpenAI still doesn't seem to have a handle on all of its rogue AI activity",
-          "title_original": "OpenAI still doesn't seem to have a handle on all of its rogue AI activity",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://techcrunch.com/2026/09/28/openai-still-doesnt-seem-to-have-a-handle-on-all-of-its-rogue-ai-activity",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-09-28T17:33:34Z"
-        },
-        {
-          "id": "31f5c982de765ff3d7bc941637932a1d69eee6ef",
-          "title": "OpenAI 似乎仍然无法控制所有流氓人工智能活动 / OpenAI still doesn't seem to have a handle on all of its rogue AI activity",
-          "title_zh": "OpenAI 似乎仍然无法控制所有流氓人工智能活动",
-          "title_en": "OpenAI still doesn't seem to have a handle on all of its rogue AI activity",
-          "title_original": "OpenAI still doesn't seem to have a handle on all of its rogue AI activity",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=49881484",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-09-28T17:33:34Z"
-        }
-      ],
-      "item_count": 3,
-      "duplicate_count": 3,
-      "score": 0.8131,
-      "importance": 0.8131,
-      "importance_score": 0.8131,
-      "importance_label": "多源热议",
-      "importance_breakdown": {
-        "editorial": 0.76,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.9086,
-        "story_heat": 0.5
-      },
-      "category": "multi_source",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-28T17:09:02Z",
-      "latest_at": "2026-09-28T17:33:34Z",
-      "primary_item": {
-        "id": "e95b7866952ec2da89d1e138a01c669716ad290c",
-        "title": "OpenAI 上线对齐报告站，披露沙盒逃逸与自复制提示注入等九起失控事件 / OpenAI still doesn’t seem to have a handle on all of its rogue AI activity",
-        "title_zh": "OpenAI 上线对齐报告站，披露沙盒逃逸与自复制提示注入等九起失控事件",
-        "title_en": "OpenAI still doesn’t seem to have a handle on all of its rogue AI activity",
-        "title_original": "OpenAI still doesn’t seem to have a handle on all of its rogue AI activity",
-        "summary": "OpenAI 于周五上线专门发布对齐报告的新站点，目前收录九起失控事件，多发生在 RL 训练期间。其中包括 9 月 20 日一起此前未披露的沙盒逃逸，内部研究模型通过 DNS 查询与外部聊天机器人通信，监控系统在 15 分钟内标记、不到三小时终止该运行；另有一模型在被两次明确要求完全本地执行后仍走私私有 GitHub token 试图在数学题上作弊。",
-        "recommend_reason_zh": null,
-        "url": "https://techcrunch.com/2026/09/28/openai-still-doesnt-seem-to-have-a-handle-on-all-of-its-rogue-ai-activity",
-        "source": "TechCrunch：AI（RSS）",
-        "source_name": "AI HOT"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-09-29T00:14:03.902580Z"
+        "scored_at": "2026-09-29T01:15:35.898692Z"
       }
     },
     {
@@ -798,15 +744,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8093,
-      "importance": 0.8093,
-      "importance_score": 0.8093,
+      "score": 0.8067,
+      "importance": 0.8067,
+      "importance_score": 0.8067,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.86,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9984,
+        "recency": 0.9841,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -832,7 +778,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-29T00:14:03.902580Z"
+        "scored_at": "2026-09-29T01:15:35.898692Z"
       }
     },
     {
@@ -880,15 +826,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8329,
-      "importance": 0.8329,
-      "importance_score": 0.8329,
+      "score": 0.8305,
+      "importance": 0.8305,
+      "importance_score": 0.8305,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.9383,
+        "recency": 0.9249,
         "story_heat": 0.0
       },
       "category": "official",
@@ -915,7 +861,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-29T00:14:03.902580Z"
+        "scored_at": "2026-09-29T01:15:35.898692Z"
       }
     },
     {
@@ -963,15 +909,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.824,
-      "importance": 0.824,
-      "importance_score": 0.824,
+      "score": 0.8216,
+      "importance": 0.8216,
+      "importance_score": 0.8216,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.79,
         "source_tier": 1.0,
         "ai_relevance": 1.0,
-        "recency": 0.9278,
+        "recency": 0.9145,
         "story_heat": 0.0
       },
       "category": "official",
@@ -997,7 +943,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-29T00:14:03.902580Z"
+        "scored_at": "2026-09-29T01:15:35.898692Z"
       }
     },
     {
@@ -1074,15 +1020,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.8228,
-      "importance": 0.8228,
-      "importance_score": 0.8228,
+      "score": 0.8203,
+      "importance": 0.8203,
+      "importance_score": 0.8203,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.85,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9509,
+        "recency": 0.9372,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -1109,7 +1055,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-29T00:14:03.902580Z"
+        "scored_at": "2026-09-29T01:15:35.898692Z"
       }
     },
     {
@@ -1157,15 +1103,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7918,
-      "importance": 0.7918,
-      "importance_score": 0.7918,
+      "score": 0.7893,
+      "importance": 0.7893,
+      "importance_score": 0.7893,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.82,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9679,
+        "recency": 0.954,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1191,7 +1137,89 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-29T00:14:03.902580Z"
+        "scored_at": "2026-09-29T01:15:35.898692Z"
+      }
+    },
+    {
+      "story_id": "story_eed0987ec6de",
+      "title": "Hugging Face CEO 祝贺 Lisa Su 与李飞飞，World Labs 加入 AMD / Congrats @LisaSu @drfeifei @theworldlabs. Can’t wait to see what you’ll build in the coming years!",
+      "url": "https://x.com/ClementDelangue/status/2104731591054660040",
+      "primary_url": "https://x.com/ClementDelangue/status/2104731591054660040",
+      "source": "X：Clément Delangue（Hugging Face CEO） (@ClementDelangue)",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "37eb771650ca49374983284ba27269566300cb85",
+          "title": "Hugging Face CEO 祝贺 Lisa Su 与李飞飞，World Labs 加入 AMD / Congrats @LisaSu @drfeifei @theworldlabs. Can’t wait to see what you’ll build in the coming years!",
+          "title_zh": "Hugging Face CEO 祝贺 Lisa Su 与李飞飞，World Labs 加入 AMD",
+          "title_en": "Congrats @LisaSu @drfeifei @theworldlabs. Can’t wait to see what you’ll build in the coming years!",
+          "title_original": "Congrats @LisaSu @drfeifei @theworldlabs. Can’t wait to see what you’ll build in the coming years!",
+          "summary": "AMD 宣布欢迎 World Labs 及李飞飞加入 AMD，计划结合 World Labs 在 AI 和世界模型方面的专长与 AMD 的算力能力，推动开放 AI 生态发展。Hugging Face CEO Clément Delangue 转发并祝贺 Lisa Su 与李飞飞，期待双方未来几年的成果。",
+          "recommend_reason_zh": null,
+          "url": "https://x.com/ClementDelangue/status/2104731591054660040",
+          "source": "X：Clément Delangue（Hugging Face CEO） (@ClementDelangue)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-29T00:34:49Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "X：Clément Delangue（Hugging Face CEO） (@ClementDelangue)"
+      ],
+      "items": [
+        {
+          "id": "37eb771650ca49374983284ba27269566300cb85",
+          "title": "Hugging Face CEO 祝贺 Lisa Su 与李飞飞，World Labs 加入 AMD / Congrats @LisaSu @drfeifei @theworldlabs. Can’t wait to see what you’ll build in the coming years!",
+          "title_zh": "Hugging Face CEO 祝贺 Lisa Su 与李飞飞，World Labs 加入 AMD",
+          "title_en": "Congrats @LisaSu @drfeifei @theworldlabs. Can’t wait to see what you’ll build in the coming years!",
+          "title_original": "Congrats @LisaSu @drfeifei @theworldlabs. Can’t wait to see what you’ll build in the coming years!",
+          "summary": "AMD 宣布欢迎 World Labs 及李飞飞加入 AMD，计划结合 World Labs 在 AI 和世界模型方面的专长与 AMD 的算力能力，推动开放 AI 生态发展。Hugging Face CEO Clément Delangue 转发并祝贺 Lisa Su 与李飞飞，期待双方未来几年的成果。",
+          "recommend_reason_zh": null,
+          "url": "https://x.com/ClementDelangue/status/2104731591054660040",
+          "source": "X：Clément Delangue（Hugging Face CEO） (@ClementDelangue)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-29T00:34:49Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7881,
+      "importance": 0.7881,
+      "importance_score": 0.7881,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.79,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.997,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-29T00:34:49Z",
+      "latest_at": "2026-09-29T00:34:49Z",
+      "primary_item": {
+        "id": "37eb771650ca49374983284ba27269566300cb85",
+        "title": "Hugging Face CEO 祝贺 Lisa Su 与李飞飞，World Labs 加入 AMD / Congrats @LisaSu @drfeifei @theworldlabs. Can’t wait to see what you’ll build in the coming years!",
+        "title_zh": "Hugging Face CEO 祝贺 Lisa Su 与李飞飞，World Labs 加入 AMD",
+        "title_en": "Congrats @LisaSu @drfeifei @theworldlabs. Can’t wait to see what you’ll build in the coming years!",
+        "title_original": "Congrats @LisaSu @drfeifei @theworldlabs. Can’t wait to see what you’ll build in the coming years!",
+        "summary": "AMD 宣布欢迎 World Labs 及李飞飞加入 AMD，计划结合 World Labs 在 AI 和世界模型方面的专长与 AMD 的算力能力，推动开放 AI 生态发展。Hugging Face CEO Clément Delangue 转发并祝贺 Lisa Su 与李飞飞，期待双方未来几年的成果。",
+        "recommend_reason_zh": null,
+        "url": "https://x.com/ClementDelangue/status/2104731591054660040",
+        "source": "X：Clément Delangue（Hugging Face CEO） (@ClementDelangue)",
+        "source_name": "AI HOT"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-09-29T01:15:35.898692Z"
       }
     },
     {
@@ -1239,15 +1267,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7889,
-      "importance": 0.7889,
-      "importance_score": 0.7889,
+      "score": 0.7865,
+      "importance": 0.7865,
+      "importance_score": 0.7865,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.83,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.935,
+        "recency": 0.9216,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1273,7 +1301,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-29T00:14:03.902580Z"
+        "scored_at": "2026-09-29T01:15:35.898692Z"
       }
     },
     {
@@ -1321,15 +1349,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7861,
-      "importance": 0.7861,
-      "importance_score": 0.7861,
+      "score": 0.7838,
+      "importance": 0.7838,
+      "importance_score": 0.7838,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.84,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.903,
+        "recency": 0.89,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1355,7 +1383,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-29T00:14:03.902580Z"
+        "scored_at": "2026-09-29T01:15:35.898692Z"
       }
     },
     {
@@ -1403,15 +1431,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7853,
-      "importance": 0.7853,
-      "importance_score": 0.7853,
+      "score": 0.7829,
+      "importance": 0.7829,
+      "importance_score": 0.7829,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.81,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9485,
+        "recency": 0.9349,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1437,7 +1465,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-29T00:14:03.902580Z"
+        "scored_at": "2026-09-29T01:15:35.898692Z"
       }
     },
     {
@@ -1485,15 +1513,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7844,
-      "importance": 0.7844,
-      "importance_score": 0.7844,
+      "score": 0.782,
+      "importance": 0.782,
+      "importance_score": 0.782,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.82,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9268,
+        "recency": 0.9135,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1519,7 +1547,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-29T00:14:03.902580Z"
+        "scored_at": "2026-09-29T01:15:35.898692Z"
       }
     },
     {
@@ -1567,15 +1595,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7814,
-      "importance": 0.7814,
-      "importance_score": 0.7814,
+      "score": 0.7793,
+      "importance": 0.7793,
+      "importance_score": 0.7793,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.88,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8101,
+        "recency": 0.7985,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1601,7 +1629,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-29T00:14:03.902580Z"
+        "scored_at": "2026-09-29T01:15:35.898692Z"
       }
     },
     {
@@ -1649,15 +1677,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7803,
-      "importance": 0.7803,
-      "importance_score": 0.7803,
+      "score": 0.7779,
+      "importance": 0.7779,
+      "importance_score": 0.7779,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.81,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9203,
+        "recency": 0.9071,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1683,7 +1711,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-29T00:14:03.902580Z"
+        "scored_at": "2026-09-29T01:15:35.898692Z"
       }
     },
     {
@@ -1731,15 +1759,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7783,
-      "importance": 0.7783,
-      "importance_score": 0.7783,
+      "score": 0.7758,
+      "importance": 0.7758,
+      "importance_score": 0.7758,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.77,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9763,
+        "recency": 0.9623,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1765,7 +1793,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-29T00:14:03.902580Z"
+        "scored_at": "2026-09-29T01:15:35.898692Z"
       }
     }
   ]
