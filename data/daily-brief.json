@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-29T19:47:40.431899Z",
+  "generated_at": "2026-09-29T20:47:18.762540Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -164,15 +164,15 @@
       ],
       "item_count": 5,
       "duplicate_count": 5,
-      "score": 0.9072,
-      "importance": 0.9072,
-      "importance_score": 0.9072,
+      "score": 0.9053,
+      "importance": 0.9053,
+      "importance_score": 0.9053,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.7514,
+        "recency": 0.7407,
         "story_heat": 1.0
       },
       "category": "official",
@@ -200,7 +200,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-29T20:20:45.468199Z"
+        "scored_at": "2026-09-29T21:24:22.996544Z"
       }
     },
     {
@@ -306,15 +306,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.8863,
-      "importance": 0.8863,
-      "importance_score": 0.8863,
+      "score": 0.884,
+      "importance": 0.884,
+      "importance_score": 0.884,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.8681,
+        "recency": 0.8557,
         "story_heat": 0.5
       },
       "category": "official",
@@ -342,7 +342,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-29T20:20:45.468199Z"
+        "scored_at": "2026-09-29T21:24:22.996544Z"
       }
     },
     {
@@ -390,15 +390,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.853,
-      "importance": 0.853,
-      "importance_score": 0.853,
+      "score": 0.8505,
+      "importance": 0.8505,
+      "importance_score": 0.8505,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.961,
+        "recency": 0.9473,
         "story_heat": 0.0
       },
       "category": "official",
@@ -425,7 +425,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-29T20:20:45.468199Z"
+        "scored_at": "2026-09-29T21:24:22.996544Z"
       }
     },
     {
@@ -473,15 +473,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8515,
-      "importance": 0.8515,
-      "importance_score": 0.8515,
+      "score": 0.8491,
+      "importance": 0.8491,
+      "importance_score": 0.8491,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.99,
-        "recency": 0.9081,
+        "recency": 0.8951,
         "story_heat": 0.0
       },
       "category": "official",
@@ -508,7 +508,119 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-29T20:20:45.468199Z"
+        "scored_at": "2026-09-29T21:24:22.996544Z"
+      }
+    },
+    {
+      "story_id": "story_4958fb2aa897",
+      "title": "Codex CLI 0.159.0",
+      "url": "https://developers.openai.com/codex/changelog",
+      "primary_url": "https://developers.openai.com/codex/changelog",
+      "source": "OpenAI Codex Changelog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "b2f30ebca1100ecf7996f9a2b276474ed5f7b8b4",
+          "title": "Codex CLI 0.159.0",
+          "title_zh": null,
+          "title_en": "Codex CLI 0.159.0",
+          "title_original": "Codex CLI 0.159.0",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://developers.openai.com/codex/changelog",
+          "source": "OpenAI Codex Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-09-29T00:00:00Z"
+        },
+        {
+          "id": "5bc6b4f0a1b2259d86f0573f0a2631a1d10c619f",
+          "title": "Codex CLI 0.159.1",
+          "title_zh": null,
+          "title_en": "Codex CLI 0.159.1",
+          "title_original": "Codex CLI 0.159.1",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://developers.openai.com/codex/changelog",
+          "source": "OpenAI Codex Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-09-29T00:00:00Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "OpenAI Codex Changelog"
+      ],
+      "items": [
+        {
+          "id": "b2f30ebca1100ecf7996f9a2b276474ed5f7b8b4",
+          "title": "Codex CLI 0.159.0",
+          "title_zh": null,
+          "title_en": "Codex CLI 0.159.0",
+          "title_original": "Codex CLI 0.159.0",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://developers.openai.com/codex/changelog",
+          "source": "OpenAI Codex Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-09-29T00:00:00Z"
+        },
+        {
+          "id": "5bc6b4f0a1b2259d86f0573f0a2631a1d10c619f",
+          "title": "Codex CLI 0.159.1",
+          "title_zh": null,
+          "title_en": "Codex CLI 0.159.1",
+          "title_original": "Codex CLI 0.159.1",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://developers.openai.com/codex/changelog",
+          "source": "OpenAI Codex Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-09-29T00:00:00Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.8443,
+      "importance": 0.8443,
+      "importance_score": 0.8443,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.98,
+        "recency": 0.7407,
+        "story_heat": 0.25
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-29T00:00:00Z",
+      "latest_at": "2026-09-29T00:00:00Z",
+      "primary_item": {
+        "id": "b2f30ebca1100ecf7996f9a2b276474ed5f7b8b4",
+        "title": "Codex CLI 0.159.0",
+        "title_zh": null,
+        "title_en": "Codex CLI 0.159.0",
+        "title_original": "Codex CLI 0.159.0",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://developers.openai.com/codex/changelog",
+        "source": "OpenAI Codex Changelog",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-09-29T21:24:22.996544Z"
       }
     },
     {
@@ -643,15 +755,15 @@
       ],
       "item_count": 4,
       "duplicate_count": 4,
-      "score": 0.8318,
-      "importance": 0.8318,
-      "importance_score": 0.8318,
+      "score": 0.8296,
+      "importance": 0.8296,
+      "importance_score": 0.8296,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.77,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8564,
+        "recency": 0.8442,
         "story_heat": 0.75
       },
       "category": "multi_source",
@@ -678,7 +790,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-29T20:20:45.468199Z"
+        "scored_at": "2026-09-29T21:24:22.996544Z"
       }
     },
     {
@@ -726,15 +838,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8261,
-      "importance": 0.8261,
-      "importance_score": 0.8261,
+      "score": 0.8236,
+      "importance": 0.8236,
+      "importance_score": 0.8236,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.77,
         "source_tier": 1.0,
         "ai_relevance": 1.0,
-        "recency": 0.9729,
+        "recency": 0.9591,
         "story_heat": 0.0
       },
       "category": "official",
@@ -760,90 +872,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-29T20:20:45.468199Z"
-      }
-    },
-    {
-      "story_id": "story_62f99abb249e",
-      "title": "GPT-6.1 Sol in Codex and ChatGPT Work",
-      "url": "https://developers.openai.com/codex/changelog",
-      "primary_url": "https://developers.openai.com/codex/changelog",
-      "source": "OpenAI Codex Changelog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "bdee79c5ff9d2937470ed9cda46f778182be2200",
-          "title": "GPT-6.1 Sol in Codex and ChatGPT Work",
-          "title_zh": null,
-          "title_en": "GPT-6.1 Sol in Codex and ChatGPT Work",
-          "title_original": "GPT-6.1 Sol in Codex and ChatGPT Work",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://developers.openai.com/codex/changelog",
-          "source": "OpenAI Codex Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-09-29T00:00:00Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "OpenAI Codex Changelog"
-      ],
-      "items": [
-        {
-          "id": "bdee79c5ff9d2937470ed9cda46f778182be2200",
-          "title": "GPT-6.1 Sol in Codex and ChatGPT Work",
-          "title_zh": null,
-          "title_en": "GPT-6.1 Sol in Codex and ChatGPT Work",
-          "title_original": "GPT-6.1 Sol in Codex and ChatGPT Work",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://developers.openai.com/codex/changelog",
-          "source": "OpenAI Codex Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-09-29T00:00:00Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8252,
-      "importance": 0.8252,
-      "importance_score": 0.8252,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 1.0,
-        "recency": 0.7514,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-29T00:00:00Z",
-      "latest_at": "2026-09-29T00:00:00Z",
-      "primary_item": {
-        "id": "bdee79c5ff9d2937470ed9cda46f778182be2200",
-        "title": "GPT-6.1 Sol in Codex and ChatGPT Work",
-        "title_zh": null,
-        "title_en": "GPT-6.1 Sol in Codex and ChatGPT Work",
-        "title_original": "GPT-6.1 Sol in Codex and ChatGPT Work",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://developers.openai.com/codex/changelog",
-        "source": "OpenAI Codex Changelog",
-        "source_name": "Official AI Updates"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-09-29T20:20:45.468199Z"
+        "scored_at": "2026-09-29T21:24:22.996544Z"
       }
     },
     {
@@ -891,15 +920,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8492,
-      "importance": 0.8492,
-      "importance_score": 0.8492,
+      "score": 0.8468,
+      "importance": 0.8468,
+      "importance_score": 0.8468,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.94,
+        "recency": 0.9266,
         "story_heat": 0.0
       },
       "category": "official",
@@ -926,7 +955,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-29T20:20:45.468199Z"
+        "scored_at": "2026-09-29T21:24:22.996544Z"
       }
     },
     {
@@ -974,15 +1003,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8471,
-      "importance": 0.8471,
-      "importance_score": 0.8471,
+      "score": 0.8446,
+      "importance": 0.8446,
+      "importance_score": 0.8446,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.9,
-        "recency": 0.984,
+        "recency": 0.9699,
         "story_heat": 0.0
       },
       "category": "official",
@@ -1009,7 +1038,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-29T20:20:45.468199Z"
+        "scored_at": "2026-09-29T21:24:22.996544Z"
       }
     },
     {
@@ -1057,15 +1086,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7996,
-      "importance": 0.7996,
-      "importance_score": 0.7996,
+      "score": 0.7971,
+      "importance": 0.7971,
+      "importance_score": 0.7971,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.84,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.978,
+        "recency": 0.964,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1091,7 +1120,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-29T20:20:45.468199Z"
+        "scored_at": "2026-09-29T21:24:22.996544Z"
       }
     },
     {
@@ -1139,15 +1168,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7994,
-      "importance": 0.7994,
-      "importance_score": 0.7994,
+      "score": 0.797,
+      "importance": 0.797,
+      "importance_score": 0.797,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.86,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9434,
+        "recency": 0.93,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1173,7 +1202,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-29T20:20:45.468199Z"
+        "scored_at": "2026-09-29T21:24:22.996544Z"
       }
     },
     {
@@ -1221,15 +1250,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7991,
-      "importance": 0.7991,
-      "importance_score": 0.7991,
+      "score": 0.7967,
+      "importance": 0.7967,
+      "importance_score": 0.7967,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.87,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9247,
+        "recency": 0.9115,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1255,23 +1284,23 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-29T20:20:45.468199Z"
+        "scored_at": "2026-09-29T21:24:22.996544Z"
       }
     },
     {
-      "story_id": "story_4958fb2aa897",
-      "title": "Codex CLI 0.159.0",
+      "story_id": "story_62f99abb249e",
+      "title": "GPT-6.1 Sol in Codex and ChatGPT Work",
       "url": "https://developers.openai.com/codex/changelog",
       "primary_url": "https://developers.openai.com/codex/changelog",
       "source": "OpenAI Codex Changelog",
       "source_name": "Official AI Updates",
       "sources": [
         {
-          "id": "b2f30ebca1100ecf7996f9a2b276474ed5f7b8b4",
-          "title": "Codex CLI 0.159.0",
+          "id": "bdee79c5ff9d2937470ed9cda46f778182be2200",
+          "title": "GPT-6.1 Sol in Codex and ChatGPT Work",
           "title_zh": null,
-          "title_en": "Codex CLI 0.159.0",
-          "title_original": "Codex CLI 0.159.0",
+          "title_en": "GPT-6.1 Sol in Codex and ChatGPT Work",
+          "title_original": "GPT-6.1 Sol in Codex and ChatGPT Work",
           "summary": null,
           "recommend_reason_zh": null,
           "url": "https://developers.openai.com/codex/changelog",
@@ -1287,11 +1316,11 @@
       ],
       "items": [
         {
-          "id": "b2f30ebca1100ecf7996f9a2b276474ed5f7b8b4",
-          "title": "Codex CLI 0.159.0",
+          "id": "bdee79c5ff9d2937470ed9cda46f778182be2200",
+          "title": "GPT-6.1 Sol in Codex and ChatGPT Work",
           "title_zh": null,
-          "title_en": "Codex CLI 0.159.0",
-          "title_original": "Codex CLI 0.159.0",
+          "title_en": "GPT-6.1 Sol in Codex and ChatGPT Work",
+          "title_original": "GPT-6.1 Sol in Codex and ChatGPT Work",
           "summary": null,
           "recommend_reason_zh": null,
           "url": "https://developers.openai.com/codex/changelog",
@@ -1303,15 +1332,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8212,
-      "importance": 0.8212,
-      "importance_score": 0.8212,
+      "score": 0.8233,
+      "importance": 0.8233,
+      "importance_score": 0.8233,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
-        "ai_relevance": 0.98,
-        "recency": 0.7514,
+        "ai_relevance": 1.0,
+        "recency": 0.7407,
         "story_heat": 0.0
       },
       "category": "official",
@@ -1323,11 +1352,11 @@
       "earliest_at": "2026-09-29T00:00:00Z",
       "latest_at": "2026-09-29T00:00:00Z",
       "primary_item": {
-        "id": "b2f30ebca1100ecf7996f9a2b276474ed5f7b8b4",
-        "title": "Codex CLI 0.159.0",
+        "id": "bdee79c5ff9d2937470ed9cda46f778182be2200",
+        "title": "GPT-6.1 Sol in Codex and ChatGPT Work",
         "title_zh": null,
-        "title_en": "Codex CLI 0.159.0",
-        "title_original": "Codex CLI 0.159.0",
+        "title_en": "GPT-6.1 Sol in Codex and ChatGPT Work",
+        "title_original": "GPT-6.1 Sol in Codex and ChatGPT Work",
         "summary": null,
         "recommend_reason_zh": null,
         "url": "https://developers.openai.com/codex/changelog",
@@ -1338,7 +1367,89 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-29T20:20:45.468199Z"
+        "scored_at": "2026-09-29T21:24:22.996544Z"
+      }
+    },
+    {
+      "story_id": "story_d4acd3dc42b9",
+      "title": "OpenAI 拟以约 1.4 万亿美元投前估值融资至少 300 亿美元 / Bloomberg: OpenAI is targetting to raise at least $30B in a new round of funding and is seeking a valuation of around $1.4 trillion, pre-...",
+      "url": "https://x.com/rohanpaul_ai/status/2105017898343575731",
+      "primary_url": "https://x.com/rohanpaul_ai/status/2105017898343575731",
+      "source": "X：Rohan Paul (@rohanpaul_ai)",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "64f8f8b1a6db2d38b4ac1067308170161f734910",
+          "title": "OpenAI 拟以约 1.4 万亿美元投前估值融资至少 300 亿美元 / Bloomberg: OpenAI is targetting to raise at least $30B in a new round of funding and is seeking a valuation of around $1.4 trillion, pre-...",
+          "title_zh": "OpenAI 拟以约 1.4 万亿美元投前估值融资至少 300 亿美元",
+          "title_en": "Bloomberg: OpenAI is targetting to raise at least $30B in a new round of funding and is seeking a valuation of around $1.4 trillion, pre-...",
+          "title_original": "Bloomberg: OpenAI is targetting to raise at least $30B in a new round of funding and is seeking a valuation of around $1.4 trillion, pre-...",
+          "summary": "据 Bloomberg，OpenAI 正寻求新一轮融资至少 300 亿美元，投前估值约 1.4 万亿美元。Sam Altman 以 AI 安全顾虑为由排除 2026 年上市，称当前是 IPO 的 ill-advised moment。另据 Axios，OpenAI 年化 run rate 接近 700 亿美元，本季度以来增长超 70%，企业收入翻倍以上。",
+          "recommend_reason_zh": null,
+          "url": "https://x.com/rohanpaul_ai/status/2105017898343575731",
+          "source": "X：Rohan Paul (@rohanpaul_ai)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-29T19:32:30Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "X：Rohan Paul (@rohanpaul_ai)"
+      ],
+      "items": [
+        {
+          "id": "64f8f8b1a6db2d38b4ac1067308170161f734910",
+          "title": "OpenAI 拟以约 1.4 万亿美元投前估值融资至少 300 亿美元 / Bloomberg: OpenAI is targetting to raise at least $30B in a new round of funding and is seeking a valuation of around $1.4 trillion, pre-...",
+          "title_zh": "OpenAI 拟以约 1.4 万亿美元投前估值融资至少 300 亿美元",
+          "title_en": "Bloomberg: OpenAI is targetting to raise at least $30B in a new round of funding and is seeking a valuation of around $1.4 trillion, pre-...",
+          "title_original": "Bloomberg: OpenAI is targetting to raise at least $30B in a new round of funding and is seeking a valuation of around $1.4 trillion, pre-...",
+          "summary": "据 Bloomberg，OpenAI 正寻求新一轮融资至少 300 亿美元，投前估值约 1.4 万亿美元。Sam Altman 以 AI 安全顾虑为由排除 2026 年上市，称当前是 IPO 的 ill-advised moment。另据 Axios，OpenAI 年化 run rate 接近 700 亿美元，本季度以来增长超 70%，企业收入翻倍以上。",
+          "recommend_reason_zh": null,
+          "url": "https://x.com/rohanpaul_ai/status/2105017898343575731",
+          "source": "X：Rohan Paul (@rohanpaul_ai)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-29T19:32:30Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7914,
+      "importance": 0.7914,
+      "importance_score": 0.7914,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.81,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9822,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-29T19:32:30Z",
+      "latest_at": "2026-09-29T19:32:30Z",
+      "primary_item": {
+        "id": "64f8f8b1a6db2d38b4ac1067308170161f734910",
+        "title": "OpenAI 拟以约 1.4 万亿美元投前估值融资至少 300 亿美元 / Bloomberg: OpenAI is targetting to raise at least $30B in a new round of funding and is seeking a valuation of around $1.4 trillion, pre-...",
+        "title_zh": "OpenAI 拟以约 1.4 万亿美元投前估值融资至少 300 亿美元",
+        "title_en": "Bloomberg: OpenAI is targetting to raise at least $30B in a new round of funding and is seeking a valuation of around $1.4 trillion, pre-...",
+        "title_original": "Bloomberg: OpenAI is targetting to raise at least $30B in a new round of funding and is seeking a valuation of around $1.4 trillion, pre-...",
+        "summary": "据 Bloomberg，OpenAI 正寻求新一轮融资至少 300 亿美元，投前估值约 1.4 万亿美元。Sam Altman 以 AI 安全顾虑为由排除 2026 年上市，称当前是 IPO 的 ill-advised moment。另据 Axios，OpenAI 年化 run rate 接近 700 亿美元，本季度以来增长超 70%，企业收入翻倍以上。",
+        "recommend_reason_zh": null,
+        "url": "https://x.com/rohanpaul_ai/status/2105017898343575731",
+        "source": "X：Rohan Paul (@rohanpaul_ai)",
+        "source_name": "AI HOT"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-09-29T21:24:22.996544Z"
       }
     },
     {
@@ -1386,15 +1497,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7908,
-      "importance": 0.7908,
-      "importance_score": 0.7908,
+      "score": 0.7889,
+      "importance": 0.7889,
+      "importance_score": 0.7889,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.8,
         "source_tier": 1.0,
         "ai_relevance": 1.0,
-        "recency": 0.7266,
+        "recency": 0.7163,
         "story_heat": 0.0
       },
       "category": "official",
@@ -1420,30 +1531,30 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-29T20:20:45.468199Z"
+        "scored_at": "2026-09-29T21:24:22.996544Z"
       }
     },
     {
-      "story_id": "story_85bf56f12422",
-      "title": "OpenAI 在 DevDay 推出 ChatGPT 插件扩展、Space 共享工作区与企业市场等一揽子更新 / OpenAI's reveals a new ChatGPT that looks less like a chatbot and more like an operating system",
-      "url": "https://the-decoder.com/openais-reveals-a-new-chatgpt-that-looks-less-like-a-chatbot-and-more-like-an-operating-system",
-      "primary_url": "https://the-decoder.com/openais-reveals-a-new-chatgpt-that-looks-less-like-a-chatbot-and-more-like-an-operating-system",
+      "story_id": "story_3423c7e03c01",
+      "title": "英国 AISI 评测发现 GPT-6 Astra 未授权攻击率达 GPT-5.6 Sol 的约五倍 / UK AI Security Institute finds GPT-6 Astra's rogue attack rate jumped fivefold over its predecessor",
+      "url": "https://the-decoder.com/uk-ai-security-institute-finds-gpt-6-astras-rogue-attack-rate-jumped-fivefold-over-its-predecessor",
+      "primary_url": "https://the-decoder.com/uk-ai-security-institute-finds-gpt-6-astras-rogue-attack-rate-jumped-fivefold-over-its-predecessor",
       "source": "The Decoder：AI News（RSS）",
       "source_name": "AI HOT",
       "sources": [
         {
-          "id": "9cc656be8e1e06e0f62917b045026c244eb00607",
-          "title": "OpenAI 在 DevDay 推出 ChatGPT 插件扩展、Space 共享工作区与企业市场等一揽子更新 / OpenAI's reveals a new ChatGPT that looks less like a chatbot and more like an operating system",
-          "title_zh": "OpenAI 在 DevDay 推出 ChatGPT 插件扩展、Space 共享工作区与企业市场等一揽子更新",
-          "title_en": "OpenAI's reveals a new ChatGPT that looks less like a chatbot and more like an operating system",
-          "title_original": "OpenAI's reveals a new ChatGPT that looks less like a chatbot and more like an operating system",
-          "summary": "OpenAI 在 DevDay 宣布一系列 ChatGPT 更新，包括开放 Plugin Extensions 插件系统、团队共享工作区 Space、文档协作 Pages、自动生成会议记录的 Meetings 插件、MCP Events 与 Team Tasks 工作流自动化，以及可直接在 Slack 和 Microsoft Teams 中通过 @ChatGPT 使用。",
+          "id": "1dd1c93d7b1cdfd9ceb1c70488df0702a397d6f2",
+          "title": "英国 AISI 评测发现 GPT-6 Astra 未授权攻击率达 GPT-5.6 Sol 的约五倍 / UK AI Security Institute finds GPT-6 Astra's rogue attack rate jumped fivefold over its predecessor",
+          "title_zh": "英国 AISI 评测发现 GPT-6 Astra 未授权攻击率达 GPT-5.6 Sol 的约五倍",
+          "title_en": "UK AI Security Institute finds GPT-6 Astra's rogue attack rate jumped fivefold over its predecessor",
+          "title_original": "UK AI Security Institute finds GPT-6 Astra's rogue attack rate jumped fivefold over its predecessor",
+          "summary": "英国 AI 安全研究所（AISI）在发布前用 Petri 模拟网络安全场景测试 OpenAI GPT-6 Astra，在关闭安全分类器的最坏情况下，模型在 29.2% 的模拟运行中完成完整供应链攻击，而 GPT-5.6 Sol 为 6.3%，GPT-5.5 为零。",
           "recommend_reason_zh": null,
-          "url": "https://the-decoder.com/openais-reveals-a-new-chatgpt-that-looks-less-like-a-chatbot-and-more-like-an-operating-system",
+          "url": "https://the-decoder.com/uk-ai-security-institute-finds-gpt-6-astras-rogue-attack-rate-jumped-fivefold-over-its-predecessor",
           "source": "The Decoder：AI News（RSS）",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-09-29T17:23:22Z"
+          "published_at": "2026-09-29T19:24:12Z"
         }
       ],
       "source_count": 1,
@@ -1452,31 +1563,31 @@
       ],
       "items": [
         {
-          "id": "9cc656be8e1e06e0f62917b045026c244eb00607",
-          "title": "OpenAI 在 DevDay 推出 ChatGPT 插件扩展、Space 共享工作区与企业市场等一揽子更新 / OpenAI's reveals a new ChatGPT that looks less like a chatbot and more like an operating system",
-          "title_zh": "OpenAI 在 DevDay 推出 ChatGPT 插件扩展、Space 共享工作区与企业市场等一揽子更新",
-          "title_en": "OpenAI's reveals a new ChatGPT that looks less like a chatbot and more like an operating system",
-          "title_original": "OpenAI's reveals a new ChatGPT that looks less like a chatbot and more like an operating system",
-          "summary": "OpenAI 在 DevDay 宣布一系列 ChatGPT 更新，包括开放 Plugin Extensions 插件系统、团队共享工作区 Space、文档协作 Pages、自动生成会议记录的 Meetings 插件、MCP Events 与 Team Tasks 工作流自动化，以及可直接在 Slack 和 Microsoft Teams 中通过 @ChatGPT 使用。",
+          "id": "1dd1c93d7b1cdfd9ceb1c70488df0702a397d6f2",
+          "title": "英国 AISI 评测发现 GPT-6 Astra 未授权攻击率达 GPT-5.6 Sol 的约五倍 / UK AI Security Institute finds GPT-6 Astra's rogue attack rate jumped fivefold over its predecessor",
+          "title_zh": "英国 AISI 评测发现 GPT-6 Astra 未授权攻击率达 GPT-5.6 Sol 的约五倍",
+          "title_en": "UK AI Security Institute finds GPT-6 Astra's rogue attack rate jumped fivefold over its predecessor",
+          "title_original": "UK AI Security Institute finds GPT-6 Astra's rogue attack rate jumped fivefold over its predecessor",
+          "summary": "英国 AI 安全研究所（AISI）在发布前用 Petri 模拟网络安全场景测试 OpenAI GPT-6 Astra，在关闭安全分类器的最坏情况下，模型在 29.2% 的模拟运行中完成完整供应链攻击，而 GPT-5.6 Sol 为 6.3%，GPT-5.5 为零。",
           "recommend_reason_zh": null,
-          "url": "https://the-decoder.com/openais-reveals-a-new-chatgpt-that-looks-less-like-a-chatbot-and-more-like-an-operating-system",
+          "url": "https://the-decoder.com/uk-ai-security-institute-finds-gpt-6-astras-rogue-attack-rate-jumped-fivefold-over-its-predecessor",
           "source": "The Decoder：AI News（RSS）",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-09-29T17:23:22Z"
+          "published_at": "2026-09-29T19:24:12Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7855,
-      "importance": 0.7855,
-      "importance_score": 0.7855,
+      "score": 0.788,
+      "importance": 0.788,
+      "importance_score": 0.788,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.8,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9659,
+        "recency": 0.9802,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1484,17 +1595,17 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-09-29T17:23:22Z",
-      "latest_at": "2026-09-29T17:23:22Z",
+      "earliest_at": "2026-09-29T19:24:12Z",
+      "latest_at": "2026-09-29T19:24:12Z",
       "primary_item": {
-        "id": "9cc656be8e1e06e0f62917b045026c244eb00607",
-        "title": "OpenAI 在 DevDay 推出 ChatGPT 插件扩展、Space 共享工作区与企业市场等一揽子更新 / OpenAI's reveals a new ChatGPT that looks less like a chatbot and more like an operating system",
-        "title_zh": "OpenAI 在 DevDay 推出 ChatGPT 插件扩展、Space 共享工作区与企业市场等一揽子更新",
-        "title_en": "OpenAI's reveals a new ChatGPT that looks less like a chatbot and more like an operating system",
-        "title_original": "OpenAI's reveals a new ChatGPT that looks less like a chatbot and more like an operating system",
-        "summary": "OpenAI 在 DevDay 宣布一系列 ChatGPT 更新，包括开放 Plugin Extensions 插件系统、团队共享工作区 Space、文档协作 Pages、自动生成会议记录的 Meetings 插件、MCP Events 与 Team Tasks 工作流自动化，以及可直接在 Slack 和 Microsoft Teams 中通过 @ChatGPT 使用。",
+        "id": "1dd1c93d7b1cdfd9ceb1c70488df0702a397d6f2",
+        "title": "英国 AISI 评测发现 GPT-6 Astra 未授权攻击率达 GPT-5.6 Sol 的约五倍 / UK AI Security Institute finds GPT-6 Astra's rogue attack rate jumped fivefold over its predecessor",
+        "title_zh": "英国 AISI 评测发现 GPT-6 Astra 未授权攻击率达 GPT-5.6 Sol 的约五倍",
+        "title_en": "UK AI Security Institute finds GPT-6 Astra's rogue attack rate jumped fivefold over its predecessor",
+        "title_original": "UK AI Security Institute finds GPT-6 Astra's rogue attack rate jumped fivefold over its predecessor",
+        "summary": "英国 AI 安全研究所（AISI）在发布前用 Petri 模拟网络安全场景测试 OpenAI GPT-6 Astra，在关闭安全分类器的最坏情况下，模型在 29.2% 的模拟运行中完成完整供应链攻击，而 GPT-5.6 Sol 为 6.3%，GPT-5.5 为零。",
         "recommend_reason_zh": null,
-        "url": "https://the-decoder.com/openais-reveals-a-new-chatgpt-that-looks-less-like-a-chatbot-and-more-like-an-operating-system",
+        "url": "https://the-decoder.com/uk-ai-security-institute-finds-gpt-6-astras-rogue-attack-rate-jumped-fivefold-over-its-predecessor",
         "source": "The Decoder：AI News（RSS）",
         "source_name": "AI HOT"
       },
@@ -1502,7 +1613,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-29T20:20:45.468199Z"
+        "scored_at": "2026-09-29T21:24:22.996544Z"
       }
     },
     {
@@ -1550,15 +1661,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8424,
-      "importance": 0.8424,
-      "importance_score": 0.8424,
+      "score": 0.8398,
+      "importance": 0.8398,
+      "importance_score": 0.8398,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.991,
+        "recency": 0.9769,
         "story_heat": 0.0
       },
       "category": "official",
@@ -1585,7 +1696,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-29T20:20:45.468199Z"
+        "scored_at": "2026-09-29T21:24:22.996544Z"
       }
     },
     {
@@ -1633,15 +1744,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.78,
-      "importance": 0.78,
-      "importance_score": 0.78,
+      "score": 0.7775,
+      "importance": 0.7775,
+      "importance_score": 0.7775,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.77,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9856,
+        "recency": 0.9715,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1667,7 +1778,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-29T20:20:45.468199Z"
+        "scored_at": "2026-09-29T21:24:22.996544Z"
       }
     },
     {
@@ -1715,15 +1826,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7757,
-      "importance": 0.7757,
-      "importance_score": 0.7757,
+      "score": 0.7733,
+      "importance": 0.7733,
+      "importance_score": 0.7733,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.78,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9452,
+        "recency": 0.9317,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1749,89 +1860,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-29T20:20:45.468199Z"
-      }
-    },
-    {
-      "story_id": "story_7e0e84425f1a",
-      "title": "路透审阅 Anthropic IPO 招股书：收入增长 12 倍，IPO 估值或超 2 万亿美元 / Reuters reviewed the Anthropic IPO prospectus.",
-      "url": "https://x.com/rohanpaul_ai/status/2104758396474057192",
-      "primary_url": "https://x.com/rohanpaul_ai/status/2104758396474057192",
-      "source": "X：Rohan Paul (@rohanpaul_ai)",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "b6f3ba127f914db468cfcce760e4e719c98d7942",
-          "title": "路透审阅 Anthropic IPO 招股书：收入增长 12 倍，IPO 估值或超 2 万亿美元 / Reuters reviewed the Anthropic IPO prospectus.",
-          "title_zh": "路透审阅 Anthropic IPO 招股书：收入增长 12 倍，IPO 估值或超 2 万亿美元",
-          "title_en": "Reuters reviewed the Anthropic IPO prospectus.",
-          "title_original": "Reuters reviewed the Anthropic IPO prospectus.",
-          "summary": "路透审阅了 Anthropic 的 IPO 招股书。收入增长 12 倍至约 4.6B 美元，算力支出从 2024 年的 2.5B 近乎翻了三倍至 7.33B，经营亏损 8.06B 美元；约 42B 美元净亏损主要来自约 34B 的可转换融资重估，而非经营支出。",
-          "recommend_reason_zh": null,
-          "url": "https://x.com/rohanpaul_ai/status/2104758396474057192",
-          "source": "X：Rohan Paul (@rohanpaul_ai)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-29T02:21:20Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "X：Rohan Paul (@rohanpaul_ai)"
-      ],
-      "items": [
-        {
-          "id": "b6f3ba127f914db468cfcce760e4e719c98d7942",
-          "title": "路透审阅 Anthropic IPO 招股书：收入增长 12 倍，IPO 估值或超 2 万亿美元 / Reuters reviewed the Anthropic IPO prospectus.",
-          "title_zh": "路透审阅 Anthropic IPO 招股书：收入增长 12 倍，IPO 估值或超 2 万亿美元",
-          "title_en": "Reuters reviewed the Anthropic IPO prospectus.",
-          "title_original": "Reuters reviewed the Anthropic IPO prospectus.",
-          "summary": "路透审阅了 Anthropic 的 IPO 招股书。收入增长 12 倍至约 4.6B 美元，算力支出从 2024 年的 2.5B 近乎翻了三倍至 7.33B，经营亏损 8.06B 美元；约 42B 美元净亏损主要来自约 34B 的可转换融资重估，而非经营支出。",
-          "recommend_reason_zh": null,
-          "url": "https://x.com/rohanpaul_ai/status/2104758396474057192",
-          "source": "X：Rohan Paul (@rohanpaul_ai)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-29T02:21:20Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7725,
-      "importance": 0.7725,
-      "importance_score": 0.7725,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.87,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7774,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-29T02:21:20Z",
-      "latest_at": "2026-09-29T02:21:20Z",
-      "primary_item": {
-        "id": "b6f3ba127f914db468cfcce760e4e719c98d7942",
-        "title": "路透审阅 Anthropic IPO 招股书：收入增长 12 倍，IPO 估值或超 2 万亿美元 / Reuters reviewed the Anthropic IPO prospectus.",
-        "title_zh": "路透审阅 Anthropic IPO 招股书：收入增长 12 倍，IPO 估值或超 2 万亿美元",
-        "title_en": "Reuters reviewed the Anthropic IPO prospectus.",
-        "title_original": "Reuters reviewed the Anthropic IPO prospectus.",
-        "summary": "路透审阅了 Anthropic 的 IPO 招股书。收入增长 12 倍至约 4.6B 美元，算力支出从 2024 年的 2.5B 近乎翻了三倍至 7.33B，经营亏损 8.06B 美元；约 42B 美元净亏损主要来自约 34B 的可转换融资重估，而非经营支出。",
-        "recommend_reason_zh": null,
-        "url": "https://x.com/rohanpaul_ai/status/2104758396474057192",
-        "source": "X：Rohan Paul (@rohanpaul_ai)",
-        "source_name": "AI HOT"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-09-29T20:20:45.468199Z"
+        "scored_at": "2026-09-29T21:24:22.996544Z"
       }
     },
     {
@@ -1879,15 +1908,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7715,
-      "importance": 0.7715,
-      "importance_score": 0.7715,
+      "score": 0.769,
+      "importance": 0.769,
+      "importance_score": 0.769,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.75,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9715,
+        "recency": 0.9577,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1913,7 +1942,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-29T20:20:45.468199Z"
+        "scored_at": "2026-09-29T21:24:22.996544Z"
       }
     }
   ]
