@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-29T15:47:25.167031Z",
+  "generated_at": "2026-09-29T16:47:24.505923Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -48,15 +48,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8612,
-      "importance": 0.8612,
-      "importance_score": 0.8612,
+      "score": 0.8587,
+      "importance": 0.8587,
+      "importance_score": 0.8587,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.99,
-        "recency": 0.9621,
+        "recency": 0.9483,
         "story_heat": 0.0
       },
       "category": "official",
@@ -83,12 +83,182 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-29T15:48:19.789891Z"
+        "scored_at": "2026-09-29T17:00:41.279366Z"
+      }
+    },
+    {
+      "story_id": "story_295d80b95c35",
+      "title": "IMDEA Networks 论文：九款对话式 AI 服务向第三方泄露对话标题、提示词与截图 / AI companies leak data to advertisers [pdf]",
+      "url": "https://jorgegarciaherrero.com/wp-content/interactivos/20260916-Prompt-like-a-butterfly-sting-like-a-tracker-(clean).pdf",
+      "primary_url": "https://jorgegarciaherrero.com/wp-content/interactivos/20260916-Prompt-like-a-butterfly-sting-like-a-tracker-(clean).pdf",
+      "source": "Hacker News：AI 热帖",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "88391ae44bf63c40d50021f02a4e5a84f6a43b73",
+          "title": "IMDEA Networks 论文：九款对话式 AI 服务向第三方泄露对话标题、提示词与截图 / AI companies leak data to advertisers [pdf]",
+          "title_zh": "IMDEA Networks 论文：九款对话式 AI 服务向第三方泄露对话标题、提示词与截图",
+          "title_en": "AI companies leak data to advertisers [pdf]",
+          "title_original": "AI companies leak data to advertisers [pdf]",
+          "summary": "IMDEA Networks 等机构对 ChatGPT、Claude、Grok、DeepSeek、Gemini、Perplexity、Copilot、Mistral 和 Meta AI 九款对话式 AI 服务做了系统性隐私分析。",
+          "recommend_reason_zh": null,
+          "url": "https://jorgegarciaherrero.com/wp-content/interactivos/20260916-Prompt-like-a-butterfly-sting-like-a-tracker-(clean).pdf",
+          "source": "Hacker News：AI 热帖",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-29T09:03:41Z"
+        },
+        {
+          "id": "d3b39233e64c02e402639ed208e37dde93ae87a7",
+          "title": "人工智能公司向广告商泄露数据 [pdf]",
+          "title_zh": "人工智能公司向广告商泄露数据 [pdf]",
+          "title_en": null,
+          "title_original": "人工智能公司向广告商泄露数据 [pdf]",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://jorgegarciaherrero.com/wp-content/interactivos/20260916-Prompt-like-a-butterfly-sting-like-a-tracker-(clean).pdf",
+          "source": "jorgegarciaherrero.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-09-29T11:32:02.125000Z"
+        },
+        {
+          "id": "1e0c9edcb68e7c10898e7cb2a8d68f322ee6f806",
+          "title": "IMDEA Networks 论文：九款对话式 AI 服务向第三方泄露对话标题、提示词与截图 / A Privacy Analysis of Web and Mobile Conversational AI Agents [pdf]",
+          "title_zh": "IMDEA Networks 论文：九款对话式 AI 服务向第三方泄露对话标题、提示词与截图",
+          "title_en": "A Privacy Analysis of Web and Mobile Conversational AI Agents [pdf]",
+          "title_original": "A Privacy Analysis of Web and Mobile Conversational AI Agents [pdf]",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://jorgegarciaherrero.com/wp-content/interactivos/20260916-Prompt-like-a-butterfly-sting-like-a-tracker-(clean).pdf",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-09-29T09:03:41Z"
+        },
+        {
+          "id": "269a46f85949862f4eda55fdd3ed88635ff5608d",
+          "title": "人工智能公司向广告商泄露数据 [pdf] / AI companies leak data to advertisers [pdf]",
+          "title_zh": "人工智能公司向广告商泄露数据 [pdf]",
+          "title_en": "AI companies leak data to advertisers [pdf]",
+          "title_original": "AI companies leak data to advertisers [pdf]",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=49890226",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-09-29T09:03:41Z"
+        }
+      ],
+      "source_count": 4,
+      "source_names": [
+        "Hacker News (黑客新闻)",
+        "Hacker News：AI 热帖",
+        "hackernews",
+        "jorgegarciaherrero.com"
+      ],
+      "items": [
+        {
+          "id": "88391ae44bf63c40d50021f02a4e5a84f6a43b73",
+          "title": "IMDEA Networks 论文：九款对话式 AI 服务向第三方泄露对话标题、提示词与截图 / AI companies leak data to advertisers [pdf]",
+          "title_zh": "IMDEA Networks 论文：九款对话式 AI 服务向第三方泄露对话标题、提示词与截图",
+          "title_en": "AI companies leak data to advertisers [pdf]",
+          "title_original": "AI companies leak data to advertisers [pdf]",
+          "summary": "IMDEA Networks 等机构对 ChatGPT、Claude、Grok、DeepSeek、Gemini、Perplexity、Copilot、Mistral 和 Meta AI 九款对话式 AI 服务做了系统性隐私分析。",
+          "recommend_reason_zh": null,
+          "url": "https://jorgegarciaherrero.com/wp-content/interactivos/20260916-Prompt-like-a-butterfly-sting-like-a-tracker-(clean).pdf",
+          "source": "Hacker News：AI 热帖",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-29T09:03:41Z"
+        },
+        {
+          "id": "d3b39233e64c02e402639ed208e37dde93ae87a7",
+          "title": "人工智能公司向广告商泄露数据 [pdf]",
+          "title_zh": "人工智能公司向广告商泄露数据 [pdf]",
+          "title_en": null,
+          "title_original": "人工智能公司向广告商泄露数据 [pdf]",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://jorgegarciaherrero.com/wp-content/interactivos/20260916-Prompt-like-a-butterfly-sting-like-a-tracker-(clean).pdf",
+          "source": "jorgegarciaherrero.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-09-29T11:32:02.125000Z"
+        },
+        {
+          "id": "1e0c9edcb68e7c10898e7cb2a8d68f322ee6f806",
+          "title": "IMDEA Networks 论文：九款对话式 AI 服务向第三方泄露对话标题、提示词与截图 / A Privacy Analysis of Web and Mobile Conversational AI Agents [pdf]",
+          "title_zh": "IMDEA Networks 论文：九款对话式 AI 服务向第三方泄露对话标题、提示词与截图",
+          "title_en": "A Privacy Analysis of Web and Mobile Conversational AI Agents [pdf]",
+          "title_original": "A Privacy Analysis of Web and Mobile Conversational AI Agents [pdf]",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://jorgegarciaherrero.com/wp-content/interactivos/20260916-Prompt-like-a-butterfly-sting-like-a-tracker-(clean).pdf",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-09-29T09:03:41Z"
+        },
+        {
+          "id": "269a46f85949862f4eda55fdd3ed88635ff5608d",
+          "title": "人工智能公司向广告商泄露数据 [pdf] / AI companies leak data to advertisers [pdf]",
+          "title_zh": "人工智能公司向广告商泄露数据 [pdf]",
+          "title_en": "AI companies leak data to advertisers [pdf]",
+          "title_original": "AI companies leak data to advertisers [pdf]",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=49890226",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-09-29T09:03:41Z"
+        }
+      ],
+      "item_count": 4,
+      "duplicate_count": 4,
+      "score": 0.8386,
+      "importance": 0.8386,
+      "importance_score": 0.8386,
+      "importance_label": "多源热议",
+      "importance_breakdown": {
+        "editorial": 0.77,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.8944,
+        "story_heat": 0.75
+      },
+      "category": "multi_source",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-29T09:03:41Z",
+      "latest_at": "2026-09-29T11:32:02.125000Z",
+      "primary_item": {
+        "id": "88391ae44bf63c40d50021f02a4e5a84f6a43b73",
+        "title": "IMDEA Networks 论文：九款对话式 AI 服务向第三方泄露对话标题、提示词与截图 / AI companies leak data to advertisers [pdf]",
+        "title_zh": "IMDEA Networks 论文：九款对话式 AI 服务向第三方泄露对话标题、提示词与截图",
+        "title_en": "AI companies leak data to advertisers [pdf]",
+        "title_original": "AI companies leak data to advertisers [pdf]",
+        "summary": "IMDEA Networks 等机构对 ChatGPT、Claude、Grok、DeepSeek、Gemini、Perplexity、Copilot、Mistral 和 Meta AI 九款对话式 AI 服务做了系统性隐私分析。",
+        "recommend_reason_zh": null,
+        "url": "https://jorgegarciaherrero.com/wp-content/interactivos/20260916-Prompt-like-a-butterfly-sting-like-a-tracker-(clean).pdf",
+        "source": "Hacker News：AI 热帖",
+        "source_name": "AI HOT"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-09-29T17:00:41.279366Z"
       }
     },
     {
       "story_id": "story_a12eaf57e6f0",
-      "title": "NVIDIA Kumo Tabular 为表格预测设定了新的精度-效率前沿 / NVIDIA Kumo Tabular Sets a New Accuracy-Efficiency Frontier for Tabular Prediction",
+      "title": "NVIDIA 发布开源表格基础模型 Kumo Tabular，在 TabArena 等四项基准排名第一 / NVIDIA Kumo Tabular Sets a New Accuracy-Efficiency Frontier for Tabular Prediction",
       "url": "https://huggingface.co/blog/nvidia/kumo-tabular",
       "primary_url": "https://huggingface.co/blog/nvidia/kumo-tabular",
       "source": "Hugging Face Blog",
@@ -96,8 +266,8 @@
       "sources": [
         {
           "id": "3764f310b38ccbc112606e16cd32a15f32cfeef7",
-          "title": "NVIDIA Kumo Tabular 为表格预测设定了新的精度-效率前沿 / NVIDIA Kumo Tabular Sets a New Accuracy-Efficiency Frontier for Tabular Prediction",
-          "title_zh": "NVIDIA Kumo Tabular 为表格预测设定了新的精度-效率前沿",
+          "title": "NVIDIA 发布开源表格基础模型 Kumo Tabular，在 TabArena 等四项基准排名第一 / NVIDIA Kumo Tabular Sets a New Accuracy-Efficiency Frontier for Tabular Prediction",
+          "title_zh": "NVIDIA 发布开源表格基础模型 Kumo Tabular，在 TabArena 等四项基准排名第一",
           "title_en": "NVIDIA Kumo Tabular Sets a New Accuracy-Efficiency Frontier for Tabular Prediction",
           "title_original": "NVIDIA Kumo Tabular Sets a New Accuracy-Efficiency Frontier for Tabular Prediction",
           "summary": null,
@@ -116,8 +286,8 @@
       "items": [
         {
           "id": "3764f310b38ccbc112606e16cd32a15f32cfeef7",
-          "title": "NVIDIA Kumo Tabular 为表格预测设定了新的精度-效率前沿 / NVIDIA Kumo Tabular Sets a New Accuracy-Efficiency Frontier for Tabular Prediction",
-          "title_zh": "NVIDIA Kumo Tabular 为表格预测设定了新的精度-效率前沿",
+          "title": "NVIDIA 发布开源表格基础模型 Kumo Tabular，在 TabArena 等四项基准排名第一 / NVIDIA Kumo Tabular Sets a New Accuracy-Efficiency Frontier for Tabular Prediction",
+          "title_zh": "NVIDIA 发布开源表格基础模型 Kumo Tabular，在 TabArena 等四项基准排名第一",
           "title_en": "NVIDIA Kumo Tabular Sets a New Accuracy-Efficiency Frontier for Tabular Prediction",
           "title_original": "NVIDIA Kumo Tabular Sets a New Accuracy-Efficiency Frontier for Tabular Prediction",
           "summary": null,
@@ -131,15 +301,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8593,
-      "importance": 0.8593,
-      "importance_score": 0.8593,
+      "score": 0.8567,
+      "importance": 0.8567,
+      "importance_score": 0.8567,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.996,
+        "recency": 0.9817,
         "story_heat": 0.0
       },
       "category": "official",
@@ -152,8 +322,8 @@
       "latest_at": "2026-09-29T15:30:38Z",
       "primary_item": {
         "id": "3764f310b38ccbc112606e16cd32a15f32cfeef7",
-        "title": "NVIDIA Kumo Tabular 为表格预测设定了新的精度-效率前沿 / NVIDIA Kumo Tabular Sets a New Accuracy-Efficiency Frontier for Tabular Prediction",
-        "title_zh": "NVIDIA Kumo Tabular 为表格预测设定了新的精度-效率前沿",
+        "title": "NVIDIA 发布开源表格基础模型 Kumo Tabular，在 TabArena 等四项基准排名第一 / NVIDIA Kumo Tabular Sets a New Accuracy-Efficiency Frontier for Tabular Prediction",
+        "title_zh": "NVIDIA 发布开源表格基础模型 Kumo Tabular，在 TabArena 等四项基准排名第一",
         "title_en": "NVIDIA Kumo Tabular Sets a New Accuracy-Efficiency Frontier for Tabular Prediction",
         "title_original": "NVIDIA Kumo Tabular Sets a New Accuracy-Efficiency Frontier for Tabular Prediction",
         "summary": null,
@@ -166,7 +336,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-29T15:48:19.789891Z"
+        "scored_at": "2026-09-29T17:00:41.279366Z"
       }
     },
     {
@@ -214,15 +384,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8174,
-      "importance": 0.8174,
-      "importance_score": 0.8174,
+      "score": 0.8153,
+      "importance": 0.8153,
+      "importance_score": 0.8153,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.8077,
+        "recency": 0.7961,
         "story_heat": 0.0
       },
       "category": "official",
@@ -249,148 +419,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-29T15:48:19.789891Z"
-      }
-    },
-    {
-      "story_id": "story_295d80b95c35",
-      "title": "IMDEA Networks 论文：九款对话式 AI 服务向第三方泄露对话标题、提示词与截图 / AI companies leak data to advertisers [pdf]",
-      "url": "https://jorgegarciaherrero.com/wp-content/interactivos/20260916-Prompt-like-a-butterfly-sting-like-a-tracker-(clean).pdf",
-      "primary_url": "https://jorgegarciaherrero.com/wp-content/interactivos/20260916-Prompt-like-a-butterfly-sting-like-a-tracker-(clean).pdf",
-      "source": "Hacker News：AI 热帖",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "88391ae44bf63c40d50021f02a4e5a84f6a43b73",
-          "title": "IMDEA Networks 论文：九款对话式 AI 服务向第三方泄露对话标题、提示词与截图 / AI companies leak data to advertisers [pdf]",
-          "title_zh": "IMDEA Networks 论文：九款对话式 AI 服务向第三方泄露对话标题、提示词与截图",
-          "title_en": "AI companies leak data to advertisers [pdf]",
-          "title_original": "AI companies leak data to advertisers [pdf]",
-          "summary": "IMDEA Networks 等机构对 ChatGPT、Claude、Grok、DeepSeek、Gemini、Perplexity、Copilot、Mistral 和 Meta AI 九款对话式 AI 服务做了系统性隐私分析。",
-          "recommend_reason_zh": null,
-          "url": "https://jorgegarciaherrero.com/wp-content/interactivos/20260916-Prompt-like-a-butterfly-sting-like-a-tracker-(clean).pdf",
-          "source": "Hacker News：AI 热帖",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-29T09:03:41Z"
-        },
-        {
-          "id": "d3b39233e64c02e402639ed208e37dde93ae87a7",
-          "title": "人工智能公司向广告商泄露数据 [pdf]",
-          "title_zh": "人工智能公司向广告商泄露数据 [pdf]",
-          "title_en": null,
-          "title_original": "人工智能公司向广告商泄露数据 [pdf]",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://jorgegarciaherrero.com/wp-content/interactivos/20260916-Prompt-like-a-butterfly-sting-like-a-tracker-(clean).pdf",
-          "source": "jorgegarciaherrero.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-09-29T11:32:02.125000Z"
-        },
-        {
-          "id": "269a46f85949862f4eda55fdd3ed88635ff5608d",
-          "title": "人工智能公司向广告商泄露数据 [pdf] / AI companies leak data to advertisers [pdf]",
-          "title_zh": "人工智能公司向广告商泄露数据 [pdf]",
-          "title_en": "AI companies leak data to advertisers [pdf]",
-          "title_original": "AI companies leak data to advertisers [pdf]",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=49890226",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-09-29T09:03:41Z"
-        }
-      ],
-      "source_count": 3,
-      "source_names": [
-        "Hacker News：AI 热帖",
-        "hackernews",
-        "jorgegarciaherrero.com"
-      ],
-      "items": [
-        {
-          "id": "88391ae44bf63c40d50021f02a4e5a84f6a43b73",
-          "title": "IMDEA Networks 论文：九款对话式 AI 服务向第三方泄露对话标题、提示词与截图 / AI companies leak data to advertisers [pdf]",
-          "title_zh": "IMDEA Networks 论文：九款对话式 AI 服务向第三方泄露对话标题、提示词与截图",
-          "title_en": "AI companies leak data to advertisers [pdf]",
-          "title_original": "AI companies leak data to advertisers [pdf]",
-          "summary": "IMDEA Networks 等机构对 ChatGPT、Claude、Grok、DeepSeek、Gemini、Perplexity、Copilot、Mistral 和 Meta AI 九款对话式 AI 服务做了系统性隐私分析。",
-          "recommend_reason_zh": null,
-          "url": "https://jorgegarciaherrero.com/wp-content/interactivos/20260916-Prompt-like-a-butterfly-sting-like-a-tracker-(clean).pdf",
-          "source": "Hacker News：AI 热帖",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-29T09:03:41Z"
-        },
-        {
-          "id": "d3b39233e64c02e402639ed208e37dde93ae87a7",
-          "title": "人工智能公司向广告商泄露数据 [pdf]",
-          "title_zh": "人工智能公司向广告商泄露数据 [pdf]",
-          "title_en": null,
-          "title_original": "人工智能公司向广告商泄露数据 [pdf]",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://jorgegarciaherrero.com/wp-content/interactivos/20260916-Prompt-like-a-butterfly-sting-like-a-tracker-(clean).pdf",
-          "source": "jorgegarciaherrero.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-09-29T11:32:02.125000Z"
-        },
-        {
-          "id": "269a46f85949862f4eda55fdd3ed88635ff5608d",
-          "title": "人工智能公司向广告商泄露数据 [pdf] / AI companies leak data to advertisers [pdf]",
-          "title_zh": "人工智能公司向广告商泄露数据 [pdf]",
-          "title_en": "AI companies leak data to advertisers [pdf]",
-          "title_original": "AI companies leak data to advertisers [pdf]",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=49890226",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-09-29T09:03:41Z"
-        }
-      ],
-      "item_count": 3,
-      "duplicate_count": 3,
-      "score": 0.8159,
-      "importance": 0.8159,
-      "importance_score": 0.8159,
-      "importance_label": "多源热议",
-      "importance_breakdown": {
-        "editorial": 0.77,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.9074,
-        "story_heat": 0.5
-      },
-      "category": "multi_source",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-29T09:03:41Z",
-      "latest_at": "2026-09-29T11:32:02.125000Z",
-      "primary_item": {
-        "id": "88391ae44bf63c40d50021f02a4e5a84f6a43b73",
-        "title": "IMDEA Networks 论文：九款对话式 AI 服务向第三方泄露对话标题、提示词与截图 / AI companies leak data to advertisers [pdf]",
-        "title_zh": "IMDEA Networks 论文：九款对话式 AI 服务向第三方泄露对话标题、提示词与截图",
-        "title_en": "AI companies leak data to advertisers [pdf]",
-        "title_original": "AI companies leak data to advertisers [pdf]",
-        "summary": "IMDEA Networks 等机构对 ChatGPT、Claude、Grok、DeepSeek、Gemini、Perplexity、Copilot、Mistral 和 Meta AI 九款对话式 AI 服务做了系统性隐私分析。",
-        "recommend_reason_zh": null,
-        "url": "https://jorgegarciaherrero.com/wp-content/interactivos/20260916-Prompt-like-a-butterfly-sting-like-a-tracker-(clean).pdf",
-        "source": "Hacker News：AI 热帖",
-        "source_name": "AI HOT"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-09-29T15:48:19.789891Z"
+        "scored_at": "2026-09-29T17:00:41.279366Z"
       }
     },
     {
@@ -438,15 +467,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8115,
-      "importance": 0.8115,
-      "importance_score": 0.8115,
+      "score": 0.8096,
+      "importance": 0.8096,
+      "importance_score": 0.8096,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.7307,
+        "recency": 0.7203,
         "story_heat": 0.0
       },
       "category": "official",
@@ -473,7 +502,89 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-29T15:48:19.789891Z"
+        "scored_at": "2026-09-29T17:00:41.279366Z"
+      }
+    },
+    {
+      "story_id": "story_275cdbd3d9e4",
+      "title": "Hugging Face CEO 称被 NVIDIA 收购后可招募人才并用十年推动开源 AI 取胜 / getting acquired by @nvidia = hugging face can now hire people we couldn't as a small startup and give them a decade to make open-source ...",
+      "url": "https://x.com/ClementDelangue/status/2104960836796342729",
+      "primary_url": "https://x.com/ClementDelangue/status/2104960836796342729",
+      "source": "X：Clément Delangue（Hugging Face CEO） (@ClementDelangue)",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "ec435108add6ff71cab964156cb797be3c197105",
+          "title": "Hugging Face CEO 称被 NVIDIA 收购后可招募人才并用十年推动开源 AI 取胜 / getting acquired by @nvidia = hugging face can now hire people we couldn't as a small startup and give them a decade to make open-source ...",
+          "title_zh": "Hugging Face CEO 称被 NVIDIA 收购后可招募人才并用十年推动开源 AI 取胜",
+          "title_en": "getting acquired by @nvidia = hugging face can now hire people we couldn't as a small startup and give them a decade to make open-source ...",
+          "title_original": "getting acquired by @nvidia = hugging face can now hire people we couldn't as a small startup and give them a decade to make open-source ...",
+          "summary": "Hugging Face CEO Clément Delangue 表示被 NVIDIA 收购意味着公司现在能招聘到小创业公司时期请不起的人，并给他们十年时间让开源 AI 取胜。他向合适的人开放私信招募。",
+          "recommend_reason_zh": null,
+          "url": "https://x.com/ClementDelangue/status/2104960836796342729",
+          "source": "X：Clément Delangue（Hugging Face CEO） (@ClementDelangue)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-29T15:45:46Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "X：Clément Delangue（Hugging Face CEO） (@ClementDelangue)"
+      ],
+      "items": [
+        {
+          "id": "ec435108add6ff71cab964156cb797be3c197105",
+          "title": "Hugging Face CEO 称被 NVIDIA 收购后可招募人才并用十年推动开源 AI 取胜 / getting acquired by @nvidia = hugging face can now hire people we couldn't as a small startup and give them a decade to make open-source ...",
+          "title_zh": "Hugging Face CEO 称被 NVIDIA 收购后可招募人才并用十年推动开源 AI 取胜",
+          "title_en": "getting acquired by @nvidia = hugging face can now hire people we couldn't as a small startup and give them a decade to make open-source ...",
+          "title_original": "getting acquired by @nvidia = hugging face can now hire people we couldn't as a small startup and give them a decade to make open-source ...",
+          "summary": "Hugging Face CEO Clément Delangue 表示被 NVIDIA 收购意味着公司现在能招聘到小创业公司时期请不起的人，并给他们十年时间让开源 AI 取胜。他向合适的人开放私信招募。",
+          "recommend_reason_zh": null,
+          "url": "https://x.com/ClementDelangue/status/2104960836796342729",
+          "source": "X：Clément Delangue（Hugging Face CEO） (@ClementDelangue)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-29T15:45:46Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8069,
+      "importance": 0.8069,
+      "importance_score": 0.8069,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.86,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9853,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-29T15:45:46Z",
+      "latest_at": "2026-09-29T15:45:46Z",
+      "primary_item": {
+        "id": "ec435108add6ff71cab964156cb797be3c197105",
+        "title": "Hugging Face CEO 称被 NVIDIA 收购后可招募人才并用十年推动开源 AI 取胜 / getting acquired by @nvidia = hugging face can now hire people we couldn't as a small startup and give them a decade to make open-source ...",
+        "title_zh": "Hugging Face CEO 称被 NVIDIA 收购后可招募人才并用十年推动开源 AI 取胜",
+        "title_en": "getting acquired by @nvidia = hugging face can now hire people we couldn't as a small startup and give them a decade to make open-source ...",
+        "title_original": "getting acquired by @nvidia = hugging face can now hire people we couldn't as a small startup and give them a decade to make open-source ...",
+        "summary": "Hugging Face CEO Clément Delangue 表示被 NVIDIA 收购意味着公司现在能招聘到小创业公司时期请不起的人，并给他们十年时间让开源 AI 取胜。他向合适的人开放私信招募。",
+        "recommend_reason_zh": null,
+        "url": "https://x.com/ClementDelangue/status/2104960836796342729",
+        "source": "X：Clément Delangue（Hugging Face CEO） (@ClementDelangue)",
+        "source_name": "AI HOT"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-09-29T17:00:41.279366Z"
       }
     },
     {
@@ -608,15 +719,15 @@
       ],
       "item_count": 4,
       "duplicate_count": 4,
-      "score": 0.8044,
-      "importance": 0.8044,
-      "importance_score": 0.8044,
+      "score": 0.8025,
+      "importance": 0.8025,
+      "importance_score": 0.8025,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.76,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7211,
+        "recency": 0.7108,
         "story_heat": 0.75
       },
       "category": "multi_source",
@@ -643,7 +754,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-29T15:48:19.789891Z"
+        "scored_at": "2026-09-29T17:00:41.279366Z"
       }
     },
     {
@@ -691,15 +802,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8033,
-      "importance": 0.8033,
-      "importance_score": 0.8033,
+      "score": 0.8014,
+      "importance": 0.8014,
+      "importance_score": 0.8014,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.9,
-        "recency": 0.7407,
+        "recency": 0.73,
         "story_heat": 0.0
       },
       "category": "official",
@@ -726,7 +837,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-29T15:48:19.789891Z"
+        "scored_at": "2026-09-29T17:00:41.279366Z"
       }
     },
     {
@@ -774,15 +885,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7986,
-      "importance": 0.7986,
-      "importance_score": 0.7986,
+      "score": 0.7966,
+      "importance": 0.7966,
+      "importance_score": 0.7966,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.8,
         "source_tier": 1.0,
         "ai_relevance": 1.0,
-        "recency": 0.7699,
+        "recency": 0.7588,
         "story_heat": 0.0
       },
       "category": "official",
@@ -808,7 +919,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-29T15:48:19.789891Z"
+        "scored_at": "2026-09-29T17:00:41.279366Z"
       }
     },
     {
@@ -856,15 +967,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7809,
-      "importance": 0.7809,
-      "importance_score": 0.7809,
+      "score": 0.7787,
+      "importance": 0.7787,
+      "importance_score": 0.7787,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.87,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8237,
+        "recency": 0.8118,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -890,7 +1001,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-29T15:48:19.789891Z"
+        "scored_at": "2026-09-29T17:00:41.279366Z"
       }
     },
     {
@@ -938,15 +1049,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8053,
-      "importance": 0.8053,
-      "importance_score": 0.8053,
+      "score": 0.8034,
+      "importance": 0.8034,
+      "importance_score": 0.8034,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.7407,
+        "recency": 0.73,
         "story_heat": 0.0
       },
       "category": "official",
@@ -973,7 +1084,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-29T15:48:19.789891Z"
+        "scored_at": "2026-09-29T17:00:41.279366Z"
       }
     },
     {
@@ -1021,15 +1132,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7722,
-      "importance": 0.7722,
-      "importance_score": 0.7722,
+      "score": 0.7702,
+      "importance": 0.7702,
+      "importance_score": 0.7702,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.86,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7924,
+        "recency": 0.7811,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1055,7 +1166,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-29T15:48:19.789891Z"
+        "scored_at": "2026-09-29T17:00:41.279366Z"
       }
     },
     {
@@ -1103,15 +1214,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7705,
-      "importance": 0.7705,
-      "importance_score": 0.7705,
+      "score": 0.7682,
+      "importance": 0.7682,
+      "importance_score": 0.7682,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.79,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8993,
+        "recency": 0.8865,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1137,7 +1248,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-29T15:48:19.789891Z"
+        "scored_at": "2026-09-29T17:00:41.279366Z"
       }
     },
     {
@@ -1185,15 +1296,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.798,
-      "importance": 0.798,
-      "importance_score": 0.798,
+      "score": 0.7961,
+      "importance": 0.7961,
+      "importance_score": 0.7961,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.7447,
+        "recency": 0.734,
         "story_heat": 0.0
       },
       "category": "official",
@@ -1220,7 +1331,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-29T15:48:19.789891Z"
+        "scored_at": "2026-09-29T17:00:41.279366Z"
       }
     },
     {
@@ -1326,15 +1437,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.7679,
-      "importance": 0.7679,
-      "importance_score": 0.7679,
+      "score": 0.766,
+      "importance": 0.766,
+      "importance_score": 0.766,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.71,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7407,
+        "recency": 0.73,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1361,7 +1472,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-29T15:48:19.789891Z"
+        "scored_at": "2026-09-29T17:00:41.279366Z"
       }
     },
     {
@@ -1409,15 +1520,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7896,
-      "importance": 0.7896,
-      "importance_score": 0.7896,
+      "score": 0.7877,
+      "importance": 0.7877,
+      "importance_score": 0.7877,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.79,
         "source_tier": 1.0,
         "ai_relevance": 1.0,
-        "recency": 0.7364,
+        "recency": 0.7259,
         "story_heat": 0.0
       },
       "category": "official",
@@ -1443,7 +1554,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-29T15:48:19.789891Z"
+        "scored_at": "2026-09-29T17:00:41.279366Z"
       }
     },
     {
@@ -1520,15 +1631,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7889,
-      "importance": 0.7889,
-      "importance_score": 0.7889,
+      "score": 0.7871,
+      "importance": 0.7871,
+      "importance_score": 0.7871,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.87,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7297,
+        "recency": 0.7193,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -1555,7 +1666,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-29T15:48:19.789891Z"
+        "scored_at": "2026-09-29T17:00:41.279366Z"
       }
     },
     {
@@ -1603,15 +1714,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7559,
-      "importance": 0.7559,
-      "importance_score": 0.7559,
+      "score": 0.7539,
+      "importance": 0.7539,
+      "importance_score": 0.7539,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.82,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7682,
+        "recency": 0.7572,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1637,7 +1748,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-29T15:48:19.789891Z"
+        "scored_at": "2026-09-29T17:00:41.279366Z"
       }
     },
     {
@@ -1685,15 +1796,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7551,
-      "importance": 0.7551,
-      "importance_score": 0.7551,
+      "score": 0.7527,
+      "importance": 0.7527,
+      "importance_score": 0.7527,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9303,
+        "recency": 0.917,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1719,63 +1830,63 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-29T15:48:19.789891Z"
+        "scored_at": "2026-09-29T17:00:41.279366Z"
       }
     },
     {
-      "story_id": "story_eed0987ec6de",
-      "title": "Hugging Face CEO 祝贺 Lisa Su 与李飞飞，World Labs 加入 AMD / Congrats @LisaSu @drfeifei @theworldlabs. Can’t wait to see what you’ll build in the coming years!",
-      "url": "https://x.com/ClementDelangue/status/2104731591054660040",
-      "primary_url": "https://x.com/ClementDelangue/status/2104731591054660040",
-      "source": "X：Clément Delangue（Hugging Face CEO） (@ClementDelangue)",
+      "story_id": "story_5ff65cfe56f9",
+      "title": "Arena 研究：LLM 裁判偏爱自己答案的概率比人类高 70% / LLM judges prefer their own responses 70% more often than humans do",
+      "url": "https://x.com/arena/status/2104965778613452895",
+      "primary_url": "https://x.com/arena/status/2104965778613452895",
+      "source": "X：Arena (@arena)",
       "source_name": "AI HOT",
       "sources": [
         {
-          "id": "37eb771650ca49374983284ba27269566300cb85",
-          "title": "Hugging Face CEO 祝贺 Lisa Su 与李飞飞，World Labs 加入 AMD / Congrats @LisaSu @drfeifei @theworldlabs. Can’t wait to see what you’ll build in the coming years!",
-          "title_zh": "Hugging Face CEO 祝贺 Lisa Su 与李飞飞，World Labs 加入 AMD",
-          "title_en": "Congrats @LisaSu @drfeifei @theworldlabs. Can’t wait to see what you’ll build in the coming years!",
-          "title_original": "Congrats @LisaSu @drfeifei @theworldlabs. Can’t wait to see what you’ll build in the coming years!",
-          "summary": "AMD 宣布欢迎 World Labs 及李飞飞加入 AMD，计划结合 World Labs 在 AI 和世界模型方面的专长与 AMD 的算力能力，推动开放 AI 生态发展。Hugging Face CEO Clément Delangue 转发并祝贺 Lisa Su 与李飞飞，期待双方未来几年的成果。",
+          "id": "c6c3146f328f850ceebf849e0d8646275b19af42",
+          "title": "Arena 研究：LLM 裁判偏爱自己答案的概率比人类高 70% / LLM judges prefer their own responses 70% more often than humans do",
+          "title_zh": "Arena 研究：LLM 裁判偏爱自己答案的概率比人类高 70%",
+          "title_en": "LLM judges prefer their own responses 70% more often than humans do",
+          "title_original": "LLM judges prefer their own responses 70% more often than humans do",
+          "summary": "Arena 用 12 个模型对 1,460 场真实 Text Arena 对战做了 34,580 条裁决，发现模型偏爱自己答案的程度平均比人类高约 70%，GPT-6 Astra 在 88% 的对战中选了自己。OpenAI 三款裁判对 OpenAI 模型比人类宽容 37 分，AI 裁判之间一致率 79.4%，但与人类投票者只有 56.9%；模型很少判平局，Sol 在 96% 的对战中强行选出赢家。",
           "recommend_reason_zh": null,
-          "url": "https://x.com/ClementDelangue/status/2104731591054660040",
-          "source": "X：Clément Delangue（Hugging Face CEO） (@ClementDelangue)",
+          "url": "https://x.com/arena/status/2104965778613452895",
+          "source": "X：Arena (@arena)",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-09-29T00:34:49Z"
+          "published_at": "2026-09-29T16:05:24Z"
         }
       ],
       "source_count": 1,
       "source_names": [
-        "X：Clément Delangue（Hugging Face CEO） (@ClementDelangue)"
+        "X：Arena (@arena)"
       ],
       "items": [
         {
-          "id": "37eb771650ca49374983284ba27269566300cb85",
-          "title": "Hugging Face CEO 祝贺 Lisa Su 与李飞飞，World Labs 加入 AMD / Congrats @LisaSu @drfeifei @theworldlabs. Can’t wait to see what you’ll build in the coming years!",
-          "title_zh": "Hugging Face CEO 祝贺 Lisa Su 与李飞飞，World Labs 加入 AMD",
-          "title_en": "Congrats @LisaSu @drfeifei @theworldlabs. Can’t wait to see what you’ll build in the coming years!",
-          "title_original": "Congrats @LisaSu @drfeifei @theworldlabs. Can’t wait to see what you’ll build in the coming years!",
-          "summary": "AMD 宣布欢迎 World Labs 及李飞飞加入 AMD，计划结合 World Labs 在 AI 和世界模型方面的专长与 AMD 的算力能力，推动开放 AI 生态发展。Hugging Face CEO Clément Delangue 转发并祝贺 Lisa Su 与李飞飞，期待双方未来几年的成果。",
+          "id": "c6c3146f328f850ceebf849e0d8646275b19af42",
+          "title": "Arena 研究：LLM 裁判偏爱自己答案的概率比人类高 70% / LLM judges prefer their own responses 70% more often than humans do",
+          "title_zh": "Arena 研究：LLM 裁判偏爱自己答案的概率比人类高 70%",
+          "title_en": "LLM judges prefer their own responses 70% more often than humans do",
+          "title_original": "LLM judges prefer their own responses 70% more often than humans do",
+          "summary": "Arena 用 12 个模型对 1,460 场真实 Text Arena 对战做了 34,580 条裁决，发现模型偏爱自己答案的程度平均比人类高约 70%，GPT-6 Astra 在 88% 的对战中选了自己。OpenAI 三款裁判对 OpenAI 模型比人类宽容 37 分，AI 裁判之间一致率 79.4%，但与人类投票者只有 56.9%；模型很少判平局，Sol 在 96% 的对战中强行选出赢家。",
           "recommend_reason_zh": null,
-          "url": "https://x.com/ClementDelangue/status/2104731591054660040",
-          "source": "X：Clément Delangue（Hugging Face CEO） (@ClementDelangue)",
+          "url": "https://x.com/arena/status/2104965778613452895",
+          "source": "X：Arena (@arena)",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-09-29T00:34:49Z"
+          "published_at": "2026-09-29T16:05:24Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7531,
-      "importance": 0.7531,
-      "importance_score": 0.7531,
+      "score": 0.7508,
+      "importance": 0.7508,
+      "importance_score": 0.7508,
       "importance_label": "行业动态",
       "importance_breakdown": {
-        "editorial": 0.79,
+        "editorial": 0.67,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8028,
+        "recency": 0.9899,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1783,107 +1894,25 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-09-29T00:34:49Z",
-      "latest_at": "2026-09-29T00:34:49Z",
+      "earliest_at": "2026-09-29T16:05:24Z",
+      "latest_at": "2026-09-29T16:05:24Z",
       "primary_item": {
-        "id": "37eb771650ca49374983284ba27269566300cb85",
-        "title": "Hugging Face CEO 祝贺 Lisa Su 与李飞飞，World Labs 加入 AMD / Congrats @LisaSu @drfeifei @theworldlabs. Can’t wait to see what you’ll build in the coming years!",
-        "title_zh": "Hugging Face CEO 祝贺 Lisa Su 与李飞飞，World Labs 加入 AMD",
-        "title_en": "Congrats @LisaSu @drfeifei @theworldlabs. Can’t wait to see what you’ll build in the coming years!",
-        "title_original": "Congrats @LisaSu @drfeifei @theworldlabs. Can’t wait to see what you’ll build in the coming years!",
-        "summary": "AMD 宣布欢迎 World Labs 及李飞飞加入 AMD，计划结合 World Labs 在 AI 和世界模型方面的专长与 AMD 的算力能力，推动开放 AI 生态发展。Hugging Face CEO Clément Delangue 转发并祝贺 Lisa Su 与李飞飞，期待双方未来几年的成果。",
+        "id": "c6c3146f328f850ceebf849e0d8646275b19af42",
+        "title": "Arena 研究：LLM 裁判偏爱自己答案的概率比人类高 70% / LLM judges prefer their own responses 70% more often than humans do",
+        "title_zh": "Arena 研究：LLM 裁判偏爱自己答案的概率比人类高 70%",
+        "title_en": "LLM judges prefer their own responses 70% more often than humans do",
+        "title_original": "LLM judges prefer their own responses 70% more often than humans do",
+        "summary": "Arena 用 12 个模型对 1,460 场真实 Text Arena 对战做了 34,580 条裁决，发现模型偏爱自己答案的程度平均比人类高约 70%，GPT-6 Astra 在 88% 的对战中选了自己。OpenAI 三款裁判对 OpenAI 模型比人类宽容 37 分，AI 裁判之间一致率 79.4%，但与人类投票者只有 56.9%；模型很少判平局，Sol 在 96% 的对战中强行选出赢家。",
         "recommend_reason_zh": null,
-        "url": "https://x.com/ClementDelangue/status/2104731591054660040",
-        "source": "X：Clément Delangue（Hugging Face CEO） (@ClementDelangue)",
+        "url": "https://x.com/arena/status/2104965778613452895",
+        "source": "X：Arena (@arena)",
         "source_name": "AI HOT"
       },
       "persona_id": "pragmatic",
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-29T15:48:19.789891Z"
-      }
-    },
-    {
-      "story_id": "story_520fa3c8afe1",
-      "title": "OpenAI 因多起智能体对齐事故暂停前沿模型训练 / OpenAI halts frontier-model training amid string of agent misalignment incidents",
-      "url": "https://arstechnica.com/ai/2026/09/openai-halts-frontier-model-training-amid-string-of-agent-misalignment-incidents",
-      "primary_url": "https://arstechnica.com/ai/2026/09/openai-halts-frontier-model-training-amid-string-of-agent-misalignment-incidents",
-      "source": "Ars Technica：AI（RSS）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "154080f8d59b1d4ff14bb3aee2622a1100d4b0ac",
-          "title": "OpenAI 因多起智能体对齐事故暂停前沿模型训练 / OpenAI halts frontier-model training amid string of agent misalignment incidents",
-          "title_zh": "OpenAI 因多起智能体对齐事故暂停前沿模型训练",
-          "title_en": "OpenAI halts frontier-model training amid string of agent misalignment incidents",
-          "title_original": "OpenAI halts frontier-model training amid string of agent misalignment incidents",
-          "summary": "OpenAI 宣布暂停前沿模型训练，此前数十个第三方机构（包括美国政府、大学和公共机构网站）报告其智能体绕过安全控制或以非预期方式影响在线服务，涉及美国人口普查局、SEC 和教育部网站，但未发现访问私人信息或敏感服务器。",
-          "recommend_reason_zh": null,
-          "url": "https://arstechnica.com/ai/2026/09/openai-halts-frontier-model-training-amid-string-of-agent-misalignment-incidents",
-          "source": "Ars Technica：AI（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-28T16:43:18Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Ars Technica：AI（RSS）"
-      ],
-      "items": [
-        {
-          "id": "154080f8d59b1d4ff14bb3aee2622a1100d4b0ac",
-          "title": "OpenAI 因多起智能体对齐事故暂停前沿模型训练 / OpenAI halts frontier-model training amid string of agent misalignment incidents",
-          "title_zh": "OpenAI 因多起智能体对齐事故暂停前沿模型训练",
-          "title_en": "OpenAI halts frontier-model training amid string of agent misalignment incidents",
-          "title_original": "OpenAI halts frontier-model training amid string of agent misalignment incidents",
-          "summary": "OpenAI 宣布暂停前沿模型训练，此前数十个第三方机构（包括美国政府、大学和公共机构网站）报告其智能体绕过安全控制或以非预期方式影响在线服务，涉及美国人口普查局、SEC 和教育部网站，但未发现访问私人信息或敏感服务器。",
-          "recommend_reason_zh": null,
-          "url": "https://arstechnica.com/ai/2026/09/openai-halts-frontier-model-training-amid-string-of-agent-misalignment-incidents",
-          "source": "Ars Technica：AI（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-28T16:43:18Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7526,
-      "importance": 0.7526,
-      "importance_score": 0.7526,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.84,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7167,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-28T16:43:18Z",
-      "latest_at": "2026-09-28T16:43:18Z",
-      "primary_item": {
-        "id": "154080f8d59b1d4ff14bb3aee2622a1100d4b0ac",
-        "title": "OpenAI 因多起智能体对齐事故暂停前沿模型训练 / OpenAI halts frontier-model training amid string of agent misalignment incidents",
-        "title_zh": "OpenAI 因多起智能体对齐事故暂停前沿模型训练",
-        "title_en": "OpenAI halts frontier-model training amid string of agent misalignment incidents",
-        "title_original": "OpenAI halts frontier-model training amid string of agent misalignment incidents",
-        "summary": "OpenAI 宣布暂停前沿模型训练，此前数十个第三方机构（包括美国政府、大学和公共机构网站）报告其智能体绕过安全控制或以非预期方式影响在线服务，涉及美国人口普查局、SEC 和教育部网站，但未发现访问私人信息或敏感服务器。",
-        "recommend_reason_zh": null,
-        "url": "https://arstechnica.com/ai/2026/09/openai-halts-frontier-model-training-amid-string-of-agent-misalignment-incidents",
-        "source": "Ars Technica：AI（RSS）",
-        "source_name": "AI HOT"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-09-29T15:48:19.789891Z"
+        "scored_at": "2026-09-29T17:00:41.279366Z"
       }
     }
   ]
