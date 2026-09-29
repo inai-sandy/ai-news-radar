@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-29T08:47:21.148484Z",
+  "generated_at": "2026-09-29T09:47:26.813492Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -48,15 +48,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8329,
-      "importance": 0.8329,
-      "importance_score": 0.8329,
+      "score": 0.8305,
+      "importance": 0.8305,
+      "importance_score": 0.8305,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.8936,
+        "recency": 0.8808,
         "story_heat": 0.0
       },
       "category": "official",
@@ -83,7 +83,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-29T09:24:56.831921Z"
+        "scored_at": "2026-09-29T10:26:09.941814Z"
       }
     },
     {
@@ -131,15 +131,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8255,
-      "importance": 0.8255,
-      "importance_score": 0.8255,
+      "score": 0.8234,
+      "importance": 0.8234,
+      "importance_score": 0.8234,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.8085,
+        "recency": 0.7969,
         "story_heat": 0.0
       },
       "category": "official",
@@ -166,7 +166,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-29T09:24:56.831921Z"
+        "scored_at": "2026-09-29T10:26:09.941814Z"
       }
     },
     {
@@ -301,15 +301,15 @@
       ],
       "item_count": 4,
       "duplicate_count": 4,
-      "score": 0.8182,
-      "importance": 0.8182,
-      "importance_score": 0.8182,
+      "score": 0.8162,
+      "importance": 0.8162,
+      "importance_score": 0.8162,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.76,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7979,
+        "recency": 0.7864,
         "story_heat": 0.75
       },
       "category": "multi_source",
@@ -336,7 +336,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-29T09:24:56.831921Z"
+        "scored_at": "2026-09-29T10:26:09.941814Z"
       }
     },
     {
@@ -384,15 +384,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8175,
-      "importance": 0.8175,
-      "importance_score": 0.8175,
+      "score": 0.8154,
+      "importance": 0.8154,
+      "importance_score": 0.8154,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.9,
-        "recency": 0.8194,
+        "recency": 0.8077,
         "story_heat": 0.0
       },
       "category": "official",
@@ -419,7 +419,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-29T09:24:56.831921Z"
+        "scored_at": "2026-09-29T10:26:09.941814Z"
       }
     },
     {
@@ -467,15 +467,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8133,
-      "importance": 0.8133,
-      "importance_score": 0.8133,
+      "score": 0.8111,
+      "importance": 0.8111,
+      "importance_score": 0.8111,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.8,
         "source_tier": 1.0,
         "ai_relevance": 1.0,
-        "recency": 0.8518,
+        "recency": 0.8396,
         "story_heat": 0.0
       },
       "category": "official",
@@ -501,90 +501,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-29T09:24:56.831921Z"
-      }
-    },
-    {
-      "story_id": "story_299644506077",
-      "title": "H Company 发布 Holo4 智能体模型系列，含 27B 与 35B-A3B 两个版本 / Holo4: powering generalist computer-use agents",
-      "url": "https://huggingface.co/blog/Hcompany/holo4",
-      "primary_url": "https://huggingface.co/blog/Hcompany/holo4",
-      "source": "Hugging Face Blog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "d71f45cd9039539f9fe378c80828a34f54cedaf4",
-          "title": "H Company 发布 Holo4 智能体模型系列，含 27B 与 35B-A3B 两个版本 / Holo4: powering generalist computer-use agents",
-          "title_zh": "H Company 发布 Holo4 智能体模型系列，含 27B 与 35B-A3B 两个版本",
-          "title_en": "Holo4: powering generalist computer-use agents",
-          "title_original": "Holo4: powering generalist computer-use agents",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://huggingface.co/blog/Hcompany/holo4",
-          "source": "Hugging Face Blog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-09-28T09:44:05Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Hugging Face Blog"
-      ],
-      "items": [
-        {
-          "id": "d71f45cd9039539f9fe378c80828a34f54cedaf4",
-          "title": "H Company 发布 Holo4 智能体模型系列，含 27B 与 35B-A3B 两个版本 / Holo4: powering generalist computer-use agents",
-          "title_zh": "H Company 发布 Holo4 智能体模型系列，含 27B 与 35B-A3B 两个版本",
-          "title_en": "Holo4: powering generalist computer-use agents",
-          "title_original": "Holo4: powering generalist computer-use agents",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://huggingface.co/blog/Hcompany/holo4",
-          "source": "Hugging Face Blog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-09-28T09:44:05Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.809,
-      "importance": 0.809,
-      "importance_score": 0.809,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.95,
-        "recency": 0.7168,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-28T09:44:05Z",
-      "latest_at": "2026-09-28T09:44:05Z",
-      "primary_item": {
-        "id": "d71f45cd9039539f9fe378c80828a34f54cedaf4",
-        "title": "H Company 发布 Holo4 智能体模型系列，含 27B 与 35B-A3B 两个版本 / Holo4: powering generalist computer-use agents",
-        "title_zh": "H Company 发布 Holo4 智能体模型系列，含 27B 与 35B-A3B 两个版本",
-        "title_en": "Holo4: powering generalist computer-use agents",
-        "title_original": "Holo4: powering generalist computer-use agents",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://huggingface.co/blog/Hcompany/holo4",
-        "source": "Hugging Face Blog",
-        "source_name": "Official AI Updates"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-09-29T09:24:56.831921Z"
+        "scored_at": "2026-09-29T10:26:09.941814Z"
       }
     },
     {
@@ -661,15 +578,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.8029,
-      "importance": 0.8029,
-      "importance_score": 0.8029,
+      "score": 0.8008,
+      "importance": 0.8008,
+      "importance_score": 0.8008,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.87,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8073,
+        "recency": 0.7958,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -696,7 +613,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-29T09:24:56.831921Z"
+        "scored_at": "2026-09-29T10:26:09.941814Z"
       }
     },
     {
@@ -744,15 +661,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7966,
-      "importance": 0.7966,
-      "importance_score": 0.7966,
+      "score": 0.7943,
+      "importance": 0.7943,
+      "importance_score": 0.7943,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.87,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9113,
+        "recency": 0.8982,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -778,7 +695,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-29T09:24:56.831921Z"
+        "scored_at": "2026-09-29T10:26:09.941814Z"
       }
     },
     {
@@ -826,15 +743,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8195,
-      "importance": 0.8195,
-      "importance_score": 0.8195,
+      "score": 0.8174,
+      "importance": 0.8174,
+      "importance_score": 0.8174,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.8194,
+        "recency": 0.8077,
         "story_heat": 0.0
       },
       "category": "official",
@@ -861,7 +778,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-29T09:24:56.831921Z"
+        "scored_at": "2026-09-29T10:26:09.941814Z"
       }
     },
     {
@@ -909,15 +826,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7874,
-      "importance": 0.7874,
-      "importance_score": 0.7874,
+      "score": 0.7851,
+      "importance": 0.7851,
+      "importance_score": 0.7851,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.86,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8767,
+        "recency": 0.8641,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -943,7 +860,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-29T09:24:56.831921Z"
+        "scored_at": "2026-09-29T10:26:09.941814Z"
       }
     },
     {
@@ -991,15 +908,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8123,
-      "importance": 0.8123,
-      "importance_score": 0.8123,
+      "score": 0.8102,
+      "importance": 0.8102,
+      "importance_score": 0.8102,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.824,
+        "recency": 0.8121,
         "story_heat": 0.0
       },
       "category": "official",
@@ -1026,7 +943,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-29T09:24:56.831921Z"
+        "scored_at": "2026-09-29T10:26:09.941814Z"
       }
     },
     {
@@ -1132,15 +1049,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.7821,
-      "importance": 0.7821,
-      "importance_score": 0.7821,
+      "score": 0.78,
+      "importance": 0.78,
+      "importance_score": 0.78,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.71,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8194,
+        "recency": 0.8077,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1167,7 +1084,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-29T09:24:56.831921Z"
+        "scored_at": "2026-09-29T10:26:09.941814Z"
       }
     },
     {
@@ -1215,15 +1132,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8037,
-      "importance": 0.8037,
-      "importance_score": 0.8037,
+      "score": 0.8015,
+      "importance": 0.8015,
+      "importance_score": 0.8015,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.79,
         "source_tier": 1.0,
         "ai_relevance": 1.0,
-        "recency": 0.8148,
+        "recency": 0.8031,
         "story_heat": 0.0
       },
       "category": "official",
@@ -1249,7 +1166,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-29T09:24:56.831921Z"
+        "scored_at": "2026-09-29T10:26:09.941814Z"
       }
     },
     {
@@ -1326,15 +1243,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.8019,
-      "importance": 0.8019,
-      "importance_score": 0.8019,
+      "score": 0.7997,
+      "importance": 0.7997,
+      "importance_score": 0.7997,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.85,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.835,
+        "recency": 0.823,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -1361,7 +1278,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-29T09:24:56.831921Z"
+        "scored_at": "2026-09-29T10:26:09.941814Z"
       }
     },
     {
@@ -1409,15 +1326,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7706,
-      "importance": 0.7706,
-      "importance_score": 0.7706,
+      "score": 0.7684,
+      "importance": 0.7684,
+      "importance_score": 0.7684,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.82,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8499,
+        "recency": 0.8377,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1443,7 +1360,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-29T09:24:56.831921Z"
+        "scored_at": "2026-09-29T10:26:09.941814Z"
       }
     },
     {
@@ -1491,15 +1408,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7685,
-      "importance": 0.7685,
-      "importance_score": 0.7685,
+      "score": 0.7662,
+      "importance": 0.7662,
+      "importance_score": 0.7662,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.79,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8882,
+        "recency": 0.8755,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1525,7 +1442,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-29T09:24:56.831921Z"
+        "scored_at": "2026-09-29T10:26:09.941814Z"
       }
     },
     {
@@ -1573,15 +1490,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7676,
-      "importance": 0.7676,
-      "importance_score": 0.7676,
+      "score": 0.765,
+      "importance": 0.765,
+      "importance_score": 0.765,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.9856,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1607,7 +1524,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-29T09:24:56.831921Z"
+        "scored_at": "2026-09-29T10:26:09.941814Z"
       }
     },
     {
@@ -1655,15 +1572,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7663,
-      "importance": 0.7663,
-      "importance_score": 0.7663,
+      "score": 0.7643,
+      "importance": 0.7643,
+      "importance_score": 0.7643,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.84,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7929,
+        "recency": 0.7815,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1689,7 +1606,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-29T09:24:56.831921Z"
+        "scored_at": "2026-09-29T10:26:09.941814Z"
       }
     },
     {
@@ -1737,15 +1654,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7645,
-      "importance": 0.7645,
-      "importance_score": 0.7645,
+      "score": 0.7624,
+      "importance": 0.7624,
+      "importance_score": 0.7624,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.81,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8329,
+        "recency": 0.821,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1771,7 +1688,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-29T09:24:56.831921Z"
+        "scored_at": "2026-09-29T10:26:09.941814Z"
       }
     },
     {
@@ -1819,15 +1736,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7641,
-      "importance": 0.7641,
-      "importance_score": 0.7641,
+      "score": 0.762,
+      "importance": 0.762,
+      "importance_score": 0.762,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.82,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8138,
+        "recency": 0.8022,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1853,7 +1770,89 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-29T09:24:56.831921Z"
+        "scored_at": "2026-09-29T10:26:09.941814Z"
+      }
+    },
+    {
+      "story_id": "story_c7ce35660cda",
+      "title": "Anthropic 发布 Claude Sonnet 5.5，基准接近 Opus 5.5 且单任务成本最多降 30% / Anthropic's Claude Sonnet 5.5 nearly matches Opus 5.5 on benchmarks while costing up to 30 percent less per task",
+      "url": "https://the-decoder.com/anthropics-claude-sonnet-5-5-nearly-matches-opus-5-5-on-benchmarks-while-costing-up-to-30-percent-less-per-task",
+      "primary_url": "https://the-decoder.com/anthropics-claude-sonnet-5-5-nearly-matches-opus-5-5-on-benchmarks-while-costing-up-to-30-percent-less-per-task",
+      "source": "The Decoder：AI News（RSS）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "d7a0e355965d8e4311112be246758dfe00a3051a",
+          "title": "Anthropic 发布 Claude Sonnet 5.5，基准接近 Opus 5.5 且单任务成本最多降 30% / Anthropic's Claude Sonnet 5.5 nearly matches Opus 5.5 on benchmarks while costing up to 30 percent less per task",
+          "title_zh": "Anthropic 发布 Claude Sonnet 5.5，基准接近 Opus 5.5 且单任务成本最多降 30%",
+          "title_en": "Anthropic's Claude Sonnet 5.5 nearly matches Opus 5.5 on benchmarks while costing up to 30 percent less per task",
+          "title_original": "Anthropic's Claude Sonnet 5.5 nearly matches Opus 5.5 on benchmarks while costing up to 30 percent less per task",
+          "summary": "Anthropic 发布 Claude 5.5 系列第二款模型 Claude Sonnet 5.5，输出速度提升超过 30%，因单任务消耗 token 更少，有效成本最多降低 30%，多项基准接近 Opus 5.5。",
+          "recommend_reason_zh": null,
+          "url": "https://the-decoder.com/anthropics-claude-sonnet-5-5-nearly-matches-opus-5-5-on-benchmarks-while-costing-up-to-30-percent-less-per-task",
+          "source": "The Decoder：AI News（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-28T18:02:10Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "The Decoder：AI News（RSS）"
+      ],
+      "items": [
+        {
+          "id": "d7a0e355965d8e4311112be246758dfe00a3051a",
+          "title": "Anthropic 发布 Claude Sonnet 5.5，基准接近 Opus 5.5 且单任务成本最多降 30% / Anthropic's Claude Sonnet 5.5 nearly matches Opus 5.5 on benchmarks while costing up to 30 percent less per task",
+          "title_zh": "Anthropic 发布 Claude Sonnet 5.5，基准接近 Opus 5.5 且单任务成本最多降 30%",
+          "title_en": "Anthropic's Claude Sonnet 5.5 nearly matches Opus 5.5 on benchmarks while costing up to 30 percent less per task",
+          "title_original": "Anthropic's Claude Sonnet 5.5 nearly matches Opus 5.5 on benchmarks while costing up to 30 percent less per task",
+          "summary": "Anthropic 发布 Claude 5.5 系列第二款模型 Claude Sonnet 5.5，输出速度提升超过 30%，因单任务消耗 token 更少，有效成本最多降低 30%，多项基准接近 Opus 5.5。",
+          "recommend_reason_zh": null,
+          "url": "https://the-decoder.com/anthropics-claude-sonnet-5-5-nearly-matches-opus-5-5-on-benchmarks-while-costing-up-to-30-percent-less-per-task",
+          "source": "The Decoder：AI News（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-28T18:02:10Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.758,
+      "importance": 0.758,
+      "importance_score": 0.758,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.81,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.7965,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-28T18:02:10Z",
+      "latest_at": "2026-09-28T18:02:10Z",
+      "primary_item": {
+        "id": "d7a0e355965d8e4311112be246758dfe00a3051a",
+        "title": "Anthropic 发布 Claude Sonnet 5.5，基准接近 Opus 5.5 且单任务成本最多降 30% / Anthropic's Claude Sonnet 5.5 nearly matches Opus 5.5 on benchmarks while costing up to 30 percent less per task",
+        "title_zh": "Anthropic 发布 Claude Sonnet 5.5，基准接近 Opus 5.5 且单任务成本最多降 30%",
+        "title_en": "Anthropic's Claude Sonnet 5.5 nearly matches Opus 5.5 on benchmarks while costing up to 30 percent less per task",
+        "title_original": "Anthropic's Claude Sonnet 5.5 nearly matches Opus 5.5 on benchmarks while costing up to 30 percent less per task",
+        "summary": "Anthropic 发布 Claude 5.5 系列第二款模型 Claude Sonnet 5.5，输出速度提升超过 30%，因单任务消耗 token 更少，有效成本最多降低 30%，多项基准接近 Opus 5.5。",
+        "recommend_reason_zh": null,
+        "url": "https://the-decoder.com/anthropics-claude-sonnet-5-5-nearly-matches-opus-5-5-on-benchmarks-while-costing-up-to-30-percent-less-per-task",
+        "source": "The Decoder：AI News（RSS）",
+        "source_name": "AI HOT"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-09-29T10:26:09.941814Z"
       }
     }
   ]
