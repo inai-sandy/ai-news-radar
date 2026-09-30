@@ -1,8 +1,91 @@
 {
-  "generated_at": "2026-09-30T19:47:24.104989Z",
+  "generated_at": "2026-09-30T20:47:20.674688Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
+    {
+      "story_id": "story_8db3959cb7d3",
+      "title": "Google DeepMind 发布 Gemini 4 Argon，面向可信网络防御者先行开放 / Gemini 4 Argon: our next era of frontier intelligence",
+      "url": "https://deepmind.google/blog/gemini-4-argon-our-next-era-of-frontier-intelligence",
+      "primary_url": "https://deepmind.google/blog/gemini-4-argon-our-next-era-of-frontier-intelligence",
+      "source": "Google DeepMind",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "03f7d3f595a6bf82f5d42323137111d7c1f5735c",
+          "title": "Google DeepMind 发布 Gemini 4 Argon，面向可信网络防御者先行开放 / Gemini 4 Argon: our next era of frontier intelligence",
+          "title_zh": "Google DeepMind 发布 Gemini 4 Argon，面向可信网络防御者先行开放",
+          "title_en": "Gemini 4 Argon: our next era of frontier intelligence",
+          "title_original": "Gemini 4 Argon: our next era of frontier intelligence",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://deepmind.google/blog/gemini-4-argon-our-next-era-of-frontier-intelligence",
+          "source": "Google DeepMind",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-09-30T20:01:45Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Google DeepMind"
+      ],
+      "items": [
+        {
+          "id": "03f7d3f595a6bf82f5d42323137111d7c1f5735c",
+          "title": "Google DeepMind 发布 Gemini 4 Argon，面向可信网络防御者先行开放 / Gemini 4 Argon: our next era of frontier intelligence",
+          "title_zh": "Google DeepMind 发布 Gemini 4 Argon，面向可信网络防御者先行开放",
+          "title_en": "Gemini 4 Argon: our next era of frontier intelligence",
+          "title_original": "Gemini 4 Argon: our next era of frontier intelligence",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://deepmind.google/blog/gemini-4-argon-our-next-era-of-frontier-intelligence",
+          "source": "Google DeepMind",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-09-30T20:01:45Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.85,
+      "importance": 0.85,
+      "importance_score": 0.85,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.91,
+        "recency": 0.9891,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-30T20:01:45Z",
+      "latest_at": "2026-09-30T20:01:45Z",
+      "primary_item": {
+        "id": "03f7d3f595a6bf82f5d42323137111d7c1f5735c",
+        "title": "Google DeepMind 发布 Gemini 4 Argon，面向可信网络防御者先行开放 / Gemini 4 Argon: our next era of frontier intelligence",
+        "title_zh": "Google DeepMind 发布 Gemini 4 Argon，面向可信网络防御者先行开放",
+        "title_en": "Gemini 4 Argon: our next era of frontier intelligence",
+        "title_original": "Gemini 4 Argon: our next era of frontier intelligence",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://deepmind.google/blog/gemini-4-argon-our-next-era-of-frontier-intelligence",
+        "source": "Google DeepMind",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-09-30T21:32:20.510850Z"
+      }
+    },
     {
       "story_id": "story_a67dcb1766e6",
       "title": "HydraFusion in VS Code and the GitHub Copilot app",
@@ -48,15 +131,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8388,
-      "importance": 0.8388,
-      "importance_score": 0.8388,
+      "score": 0.8364,
+      "importance": 0.8364,
+      "importance_score": 0.8364,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.9267,
+        "recency": 0.9135,
         "story_heat": 0.0
       },
       "category": "official",
@@ -83,90 +166,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-30T20:28:35.592303Z"
-      }
-    },
-    {
-      "story_id": "story_0d7ed6e47e0a",
-      "title": "Google DeepMind 发布 SynthID Bio，为 AI 生成的蛋白质嵌入可验证水印 / Introducing SynthID Bio",
-      "url": "https://deepmind.google/blog/introducing-synthid-bio",
-      "primary_url": "https://deepmind.google/blog/introducing-synthid-bio",
-      "source": "Google DeepMind",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "5d7e56106a762acbb4c67730a4afc6241efed734",
-          "title": "Google DeepMind 发布 SynthID Bio，为 AI 生成的蛋白质嵌入可验证水印 / Introducing SynthID Bio",
-          "title_zh": "Google DeepMind 发布 SynthID Bio，为 AI 生成的蛋白质嵌入可验证水印",
-          "title_en": "Introducing SynthID Bio",
-          "title_original": "Introducing SynthID Bio",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://deepmind.google/blog/introducing-synthid-bio",
-          "source": "Google DeepMind",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-09-30T15:03:07Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Google DeepMind"
-      ],
-      "items": [
-        {
-          "id": "5d7e56106a762acbb4c67730a4afc6241efed734",
-          "title": "Google DeepMind 发布 SynthID Bio，为 AI 生成的蛋白质嵌入可验证水印 / Introducing SynthID Bio",
-          "title_zh": "Google DeepMind 发布 SynthID Bio，为 AI 生成的蛋白质嵌入可验证水印",
-          "title_en": "Introducing SynthID Bio",
-          "title_original": "Introducing SynthID Bio",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://deepmind.google/blog/introducing-synthid-bio",
-          "source": "Google DeepMind",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-09-30T15:03:07Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8321,
-      "importance": 0.8321,
-      "importance_score": 0.8321,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.87,
-        "recency": 0.9339,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-30T15:03:07Z",
-      "latest_at": "2026-09-30T15:03:07Z",
-      "primary_item": {
-        "id": "5d7e56106a762acbb4c67730a4afc6241efed734",
-        "title": "Google DeepMind 发布 SynthID Bio，为 AI 生成的蛋白质嵌入可验证水印 / Introducing SynthID Bio",
-        "title_zh": "Google DeepMind 发布 SynthID Bio，为 AI 生成的蛋白质嵌入可验证水印",
-        "title_en": "Introducing SynthID Bio",
-        "title_original": "Introducing SynthID Bio",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://deepmind.google/blog/introducing-synthid-bio",
-        "source": "Google DeepMind",
-        "source_name": "Official AI Updates"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-09-30T20:28:35.592303Z"
+        "scored_at": "2026-09-30T21:32:20.510850Z"
       }
     },
     {
@@ -214,15 +214,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8294,
-      "importance": 0.8294,
-      "importance_score": 0.8294,
+      "score": 0.8271,
+      "importance": 0.8271,
+      "importance_score": 0.8271,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.8745,
+        "recency": 0.8619,
         "story_heat": 0.0
       },
       "category": "official",
@@ -249,7 +249,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-30T20:28:35.592303Z"
+        "scored_at": "2026-09-30T21:32:20.510850Z"
       }
     },
     {
@@ -297,15 +297,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8253,
-      "importance": 0.8253,
-      "importance_score": 0.8253,
+      "score": 0.8233,
+      "importance": 0.8233,
+      "importance_score": 0.8233,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 1.0,
-        "recency": 0.7514,
+        "recency": 0.7407,
         "story_heat": 0.0
       },
       "category": "official",
@@ -332,7 +332,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-30T20:28:35.592303Z"
+        "scored_at": "2026-09-30T21:32:20.510850Z"
       }
     },
     {
@@ -380,15 +380,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8364,
-      "importance": 0.8364,
-      "importance_score": 0.8364,
+      "score": 0.8339,
+      "importance": 0.8339,
+      "importance_score": 0.8339,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.9578,
+        "recency": 0.9441,
         "story_heat": 0.0
       },
       "category": "official",
@@ -415,7 +415,90 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-30T20:28:35.592303Z"
+        "scored_at": "2026-09-30T21:32:20.510850Z"
+      }
+    },
+    {
+      "story_id": "story_0d7ed6e47e0a",
+      "title": "Google DeepMind 发布 SynthID Bio，为 AI 生成的蛋白质嵌入可验证水印 / Introducing SynthID Bio",
+      "url": "https://deepmind.google/blog/introducing-synthid-bio",
+      "primary_url": "https://deepmind.google/blog/introducing-synthid-bio",
+      "source": "Google DeepMind",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "5d7e56106a762acbb4c67730a4afc6241efed734",
+          "title": "Google DeepMind 发布 SynthID Bio，为 AI 生成的蛋白质嵌入可验证水印 / Introducing SynthID Bio",
+          "title_zh": "Google DeepMind 发布 SynthID Bio，为 AI 生成的蛋白质嵌入可验证水印",
+          "title_en": "Introducing SynthID Bio",
+          "title_original": "Introducing SynthID Bio",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://deepmind.google/blog/introducing-synthid-bio",
+          "source": "Google DeepMind",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-09-30T15:03:07Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Google DeepMind"
+      ],
+      "items": [
+        {
+          "id": "5d7e56106a762acbb4c67730a4afc6241efed734",
+          "title": "Google DeepMind 发布 SynthID Bio，为 AI 生成的蛋白质嵌入可验证水印 / Introducing SynthID Bio",
+          "title_zh": "Google DeepMind 发布 SynthID Bio，为 AI 生成的蛋白质嵌入可验证水印",
+          "title_en": "Introducing SynthID Bio",
+          "title_original": "Introducing SynthID Bio",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://deepmind.google/blog/introducing-synthid-bio",
+          "source": "Google DeepMind",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-09-30T15:03:07Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8297,
+      "importance": 0.8297,
+      "importance_score": 0.8297,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.87,
+        "recency": 0.9205,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-30T15:03:07Z",
+      "latest_at": "2026-09-30T15:03:07Z",
+      "primary_item": {
+        "id": "5d7e56106a762acbb4c67730a4afc6241efed734",
+        "title": "Google DeepMind 发布 SynthID Bio，为 AI 生成的蛋白质嵌入可验证水印 / Introducing SynthID Bio",
+        "title_zh": "Google DeepMind 发布 SynthID Bio，为 AI 生成的蛋白质嵌入可验证水印",
+        "title_en": "Introducing SynthID Bio",
+        "title_original": "Introducing SynthID Bio",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://deepmind.google/blog/introducing-synthid-bio",
+        "source": "Google DeepMind",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-09-30T21:32:20.510850Z"
       }
     },
     {
@@ -463,15 +546,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8283,
-      "importance": 0.8283,
-      "importance_score": 0.8283,
+      "score": 0.826,
+      "importance": 0.826,
+      "importance_score": 0.826,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.8682,
+        "recency": 0.8557,
         "story_heat": 0.0
       },
       "category": "official",
@@ -498,7 +581,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-30T20:28:35.592303Z"
+        "scored_at": "2026-09-30T21:32:20.510850Z"
       }
     },
     {
@@ -546,15 +629,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7888,
-      "importance": 0.7888,
-      "importance_score": 0.7888,
+      "score": 0.7864,
+      "importance": 0.7864,
+      "importance_score": 0.7864,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.82,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9513,
+        "recency": 0.9377,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -580,7 +663,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-30T20:28:35.592303Z"
+        "scored_at": "2026-09-30T21:32:20.510850Z"
       }
     },
     {
@@ -628,15 +711,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.786,
-      "importance": 0.786,
-      "importance_score": 0.786,
+      "score": 0.7835,
+      "importance": 0.7835,
+      "importance_score": 0.7835,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.79,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9856,
+        "recency": 0.9715,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -662,119 +745,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-30T20:28:35.592303Z"
-      }
-    },
-    {
-      "story_id": "story_789068731278",
-      "title": "OpenAI 据报道洽谈以约 1.4 万亿美元估值融资至少 300 亿美元 / OpenAI reportedly in talks to raise $30B round at $1.4T valuation",
-      "url": "https://techcrunch.com/2026/09/29/openai-reportedly-in-talks-to-raise-30b-round-at-1-4t-valuation",
-      "primary_url": "https://techcrunch.com/2026/09/29/openai-reportedly-in-talks-to-raise-30b-round-at-1-4t-valuation",
-      "source": "TechCrunch：AI（RSS）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "498dc000c78d24ef9003ed81482127745fdc4a1b",
-          "title": "OpenAI 据报道洽谈以约 1.4 万亿美元估值融资至少 300 亿美元 / OpenAI reportedly in talks to raise $30B round at $1.4T valuation",
-          "title_zh": "OpenAI 据报道洽谈以约 1.4 万亿美元估值融资至少 300 亿美元",
-          "title_en": "OpenAI reportedly in talks to raise $30B round at $1.4T valuation",
-          "title_original": "OpenAI reportedly in talks to raise $30B round at $1.4T valuation",
-          "summary": "据 Bloomberg 报道，OpenAI 正与投资者洽谈在 IPO 前融资至少 300 亿美元，估值约 1.4 万亿美元。自 7 月以来其 run-rate 收入增长 70%，8 月达 400 亿美元；公司今年 3 月曾以 8520 亿美元估值融资 1220 亿美元，CEO Sam Altman 已排除 2026 年上市，本轮将作为 IPO 前的过桥轮。",
-          "recommend_reason_zh": null,
-          "url": "https://techcrunch.com/2026/09/29/openai-reportedly-in-talks-to-raise-30b-round-at-1-4t-valuation",
-          "source": "TechCrunch：AI（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-29T19:52:37Z"
-        },
-        {
-          "id": "50995d2157f72a22df0cd3ef3e5bbd2052988e9b",
-          "title": "据报道 OpenAI 正在洽谈以 1.4T 估值筹集 300 亿美元资金 / OpenAI repotedly in talks to raise $30B round at $1.4T valuation",
-          "title_zh": "据报道 OpenAI 正在洽谈以 1.4T 估值筹集 300 亿美元资金",
-          "title_en": "OpenAI repotedly in talks to raise $30B round at $1.4T valuation",
-          "title_original": "OpenAI repotedly in talks to raise $30B round at $1.4T valuation",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://techcrunch.com/2026/09/29/openai-repotedly-in-talks-to-raise-30b-round-at-1-4t-valuation",
-          "source": "TechCrunch AI",
-          "source_name": "Curated Media",
-          "site_id": "curated_media",
-          "published_at": "2026-09-29T19:52:37Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "TechCrunch AI",
-        "TechCrunch：AI（RSS）"
-      ],
-      "items": [
-        {
-          "id": "498dc000c78d24ef9003ed81482127745fdc4a1b",
-          "title": "OpenAI 据报道洽谈以约 1.4 万亿美元估值融资至少 300 亿美元 / OpenAI reportedly in talks to raise $30B round at $1.4T valuation",
-          "title_zh": "OpenAI 据报道洽谈以约 1.4 万亿美元估值融资至少 300 亿美元",
-          "title_en": "OpenAI reportedly in talks to raise $30B round at $1.4T valuation",
-          "title_original": "OpenAI reportedly in talks to raise $30B round at $1.4T valuation",
-          "summary": "据 Bloomberg 报道，OpenAI 正与投资者洽谈在 IPO 前融资至少 300 亿美元，估值约 1.4 万亿美元。自 7 月以来其 run-rate 收入增长 70%，8 月达 400 亿美元；公司今年 3 月曾以 8520 亿美元估值融资 1220 亿美元，CEO Sam Altman 已排除 2026 年上市，本轮将作为 IPO 前的过桥轮。",
-          "recommend_reason_zh": null,
-          "url": "https://techcrunch.com/2026/09/29/openai-reportedly-in-talks-to-raise-30b-round-at-1-4t-valuation",
-          "source": "TechCrunch：AI（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-29T19:52:37Z"
-        },
-        {
-          "id": "50995d2157f72a22df0cd3ef3e5bbd2052988e9b",
-          "title": "据报道 OpenAI 正在洽谈以 1.4T 估值筹集 300 亿美元资金 / OpenAI repotedly in talks to raise $30B round at $1.4T valuation",
-          "title_zh": "据报道 OpenAI 正在洽谈以 1.4T 估值筹集 300 亿美元资金",
-          "title_en": "OpenAI repotedly in talks to raise $30B round at $1.4T valuation",
-          "title_original": "OpenAI repotedly in talks to raise $30B round at $1.4T valuation",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://techcrunch.com/2026/09/29/openai-repotedly-in-talks-to-raise-30b-round-at-1-4t-valuation",
-          "source": "TechCrunch AI",
-          "source_name": "Curated Media",
-          "site_id": "curated_media",
-          "published_at": "2026-09-29T19:52:37Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.773,
-      "importance": 0.773,
-      "importance_score": 0.773,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.83,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.708,
-        "story_heat": 0.25
-      },
-      "category": "industry",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-29T19:52:37Z",
-      "latest_at": "2026-09-29T19:52:37Z",
-      "primary_item": {
-        "id": "498dc000c78d24ef9003ed81482127745fdc4a1b",
-        "title": "OpenAI 据报道洽谈以约 1.4 万亿美元估值融资至少 300 亿美元 / OpenAI reportedly in talks to raise $30B round at $1.4T valuation",
-        "title_zh": "OpenAI 据报道洽谈以约 1.4 万亿美元估值融资至少 300 亿美元",
-        "title_en": "OpenAI reportedly in talks to raise $30B round at $1.4T valuation",
-        "title_original": "OpenAI reportedly in talks to raise $30B round at $1.4T valuation",
-        "summary": "据 Bloomberg 报道，OpenAI 正与投资者洽谈在 IPO 前融资至少 300 亿美元，估值约 1.4 万亿美元。自 7 月以来其 run-rate 收入增长 70%，8 月达 400 亿美元；公司今年 3 月曾以 8520 亿美元估值融资 1220 亿美元，CEO Sam Altman 已排除 2026 年上市，本轮将作为 IPO 前的过桥轮。",
-        "recommend_reason_zh": null,
-        "url": "https://techcrunch.com/2026/09/29/openai-reportedly-in-talks-to-raise-30b-round-at-1-4t-valuation",
-        "source": "TechCrunch：AI（RSS）",
-        "source_name": "AI HOT"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-09-30T20:28:35.592303Z"
+        "scored_at": "2026-09-30T21:32:20.510850Z"
       }
     },
     {
@@ -822,15 +793,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7714,
-      "importance": 0.7714,
-      "importance_score": 0.7714,
+      "score": 0.7694,
+      "importance": 0.7694,
+      "importance_score": 0.7694,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.87,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7713,
+        "recency": 0.7602,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -856,7 +827,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-30T20:28:35.592303Z"
+        "scored_at": "2026-09-30T21:32:20.510850Z"
       }
     },
     {
@@ -904,15 +875,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8284,
-      "importance": 0.8284,
-      "importance_score": 0.8284,
+      "score": 0.826,
+      "importance": 0.826,
+      "importance_score": 0.826,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.9133,
+        "recency": 0.9002,
         "story_heat": 0.0
       },
       "category": "official",
@@ -939,30 +910,30 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-30T20:28:35.592303Z"
+        "scored_at": "2026-09-30T21:32:20.510850Z"
       }
     },
     {
-      "story_id": "story_4b81e15f89c2",
-      "title": "OpenAI 发布 GPT-6.1 Sol，主打智能体编码与跨应用工作流 / Give your coding agents more room to work.",
-      "url": "https://x.com/OpenAIDevs/status/2105073621144338660",
-      "primary_url": "https://x.com/OpenAIDevs/status/2105073621144338660",
+      "story_id": "story_024f628f3f4f",
+      "title": "OpenAI 推出 Codex 云环境，可复用配置并跨设备跟进任务 / Run Codex tasks in reusable cloud environments, then follow progress and steer them from your phone or another computer:",
+      "url": "https://x.com/OpenAIDevs/status/2105073633731461197",
+      "primary_url": "https://x.com/OpenAIDevs/status/2105073633731461197",
       "source": "X：OpenAI Developers (@OpenAIDevs)",
       "source_name": "AI HOT",
       "sources": [
         {
-          "id": "22322fba0cf42ea683557a9b807e006a3ecf75bd",
-          "title": "OpenAI 发布 GPT-6.1 Sol，主打智能体编码与跨应用工作流 / Give your coding agents more room to work.",
-          "title_zh": "OpenAI 发布 GPT-6.1 Sol，主打智能体编码与跨应用工作流",
-          "title_en": "Give your coding agents more room to work.",
-          "title_original": "Give your coding agents more room to work.",
-          "summary": "OpenAI 发布 GPT-6.1 Sol，称其在编码、computer use 和跨应用工作流中表现强劲，价格低于 GPT-6 Astra。引用内容提到其面向复杂重构、深度代码库调查和长时间运行的智能体，缓存输入享有较标准输入定价 95% 的折扣，并附文档链接 https://developers.openai.com/api/docs/models/gpt-6.1-sol。",
+          "id": "c139fbe41498c0fad9b40a766f14d60c7713d80f",
+          "title": "OpenAI 推出 Codex 云环境，可复用配置并跨设备跟进任务 / Run Codex tasks in reusable cloud environments, then follow progress and steer them from your phone or another computer:",
+          "title_zh": "OpenAI 推出 Codex 云环境，可复用配置并跨设备跟进任务",
+          "title_en": "Run Codex tasks in reusable cloud environments, then follow progress and steer them from your phone or another computer:",
+          "title_original": "Run Codex tasks in reusable cloud environments, then follow progress and steer them from your phone or another computer:",
+          "summary": "OpenAI 推出 Codex cloud environments，可在可复用的云环境中运行 Codex 任务，仓库、依赖、脚本和设置已预先就位，减少配置并加快启动。用户合上电脑后智能体继续运行，可通过手机或另一台电脑跟进进度并调整任务，文档见 https://learn.chatgpt.com/docs/cloud。",
           "recommend_reason_zh": null,
-          "url": "https://x.com/OpenAIDevs/status/2105073621144338660",
+          "url": "https://x.com/OpenAIDevs/status/2105073633731461197",
           "source": "X：OpenAI Developers (@OpenAIDevs)",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-09-29T23:13:56Z"
+          "published_at": "2026-09-29T23:13:59Z"
         }
       ],
       "source_count": 1,
@@ -971,31 +942,31 @@
       ],
       "items": [
         {
-          "id": "22322fba0cf42ea683557a9b807e006a3ecf75bd",
-          "title": "OpenAI 发布 GPT-6.1 Sol，主打智能体编码与跨应用工作流 / Give your coding agents more room to work.",
-          "title_zh": "OpenAI 发布 GPT-6.1 Sol，主打智能体编码与跨应用工作流",
-          "title_en": "Give your coding agents more room to work.",
-          "title_original": "Give your coding agents more room to work.",
-          "summary": "OpenAI 发布 GPT-6.1 Sol，称其在编码、computer use 和跨应用工作流中表现强劲，价格低于 GPT-6 Astra。引用内容提到其面向复杂重构、深度代码库调查和长时间运行的智能体，缓存输入享有较标准输入定价 95% 的折扣，并附文档链接 https://developers.openai.com/api/docs/models/gpt-6.1-sol。",
+          "id": "c139fbe41498c0fad9b40a766f14d60c7713d80f",
+          "title": "OpenAI 推出 Codex 云环境，可复用配置并跨设备跟进任务 / Run Codex tasks in reusable cloud environments, then follow progress and steer them from your phone or another computer:",
+          "title_zh": "OpenAI 推出 Codex 云环境，可复用配置并跨设备跟进任务",
+          "title_en": "Run Codex tasks in reusable cloud environments, then follow progress and steer them from your phone or another computer:",
+          "title_original": "Run Codex tasks in reusable cloud environments, then follow progress and steer them from your phone or another computer:",
+          "summary": "OpenAI 推出 Codex cloud environments，可在可复用的云环境中运行 Codex 任务，仓库、依赖、脚本和设置已预先就位，减少配置并加快启动。用户合上电脑后智能体继续运行，可通过手机或另一台电脑跟进进度并调整任务，文档见 https://learn.chatgpt.com/docs/cloud。",
           "recommend_reason_zh": null,
-          "url": "https://x.com/OpenAIDevs/status/2105073621144338660",
+          "url": "https://x.com/OpenAIDevs/status/2105073633731461197",
           "source": "X：OpenAI Developers (@OpenAIDevs)",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-09-29T23:13:56Z"
+          "published_at": "2026-09-29T23:13:59Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7638,
-      "importance": 0.7638,
-      "importance_score": 0.7638,
+      "score": 0.7619,
+      "importance": 0.7619,
+      "importance_score": 0.7619,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.7,
         "source_tier": 1.0,
         "ai_relevance": 1.0,
-        "recency": 0.7431,
+        "recency": 0.7325,
         "story_heat": 0.0
       },
       "category": "official",
@@ -1003,17 +974,17 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-09-29T23:13:56Z",
-      "latest_at": "2026-09-29T23:13:56Z",
+      "earliest_at": "2026-09-29T23:13:59Z",
+      "latest_at": "2026-09-29T23:13:59Z",
       "primary_item": {
-        "id": "22322fba0cf42ea683557a9b807e006a3ecf75bd",
-        "title": "OpenAI 发布 GPT-6.1 Sol，主打智能体编码与跨应用工作流 / Give your coding agents more room to work.",
-        "title_zh": "OpenAI 发布 GPT-6.1 Sol，主打智能体编码与跨应用工作流",
-        "title_en": "Give your coding agents more room to work.",
-        "title_original": "Give your coding agents more room to work.",
-        "summary": "OpenAI 发布 GPT-6.1 Sol，称其在编码、computer use 和跨应用工作流中表现强劲，价格低于 GPT-6 Astra。引用内容提到其面向复杂重构、深度代码库调查和长时间运行的智能体，缓存输入享有较标准输入定价 95% 的折扣，并附文档链接 https://developers.openai.com/api/docs/models/gpt-6.1-sol。",
+        "id": "c139fbe41498c0fad9b40a766f14d60c7713d80f",
+        "title": "OpenAI 推出 Codex 云环境，可复用配置并跨设备跟进任务 / Run Codex tasks in reusable cloud environments, then follow progress and steer them from your phone or another computer:",
+        "title_zh": "OpenAI 推出 Codex 云环境，可复用配置并跨设备跟进任务",
+        "title_en": "Run Codex tasks in reusable cloud environments, then follow progress and steer them from your phone or another computer:",
+        "title_original": "Run Codex tasks in reusable cloud environments, then follow progress and steer them from your phone or another computer:",
+        "summary": "OpenAI 推出 Codex cloud environments，可在可复用的云环境中运行 Codex 任务，仓库、依赖、脚本和设置已预先就位，减少配置并加快启动。用户合上电脑后智能体继续运行，可通过手机或另一台电脑跟进进度并调整任务，文档见 https://learn.chatgpt.com/docs/cloud。",
         "recommend_reason_zh": null,
-        "url": "https://x.com/OpenAIDevs/status/2105073621144338660",
+        "url": "https://x.com/OpenAIDevs/status/2105073633731461197",
         "source": "X：OpenAI Developers (@OpenAIDevs)",
         "source_name": "AI HOT"
       },
@@ -1021,7 +992,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-30T20:28:35.592303Z"
+        "scored_at": "2026-09-30T21:32:20.510850Z"
       }
     },
     {
@@ -1069,15 +1040,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7621,
-      "importance": 0.7621,
-      "importance_score": 0.7621,
+      "score": 0.7597,
+      "importance": 0.7597,
+      "importance_score": 0.7597,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.76,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9026,
+        "recency": 0.8896,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1103,7 +1074,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-30T20:28:35.592303Z"
+        "scored_at": "2026-09-30T21:32:20.510850Z"
       }
     },
     {
@@ -1151,15 +1122,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7588,
-      "importance": 0.7588,
-      "importance_score": 0.7588,
+      "score": 0.7563,
+      "importance": 0.7563,
+      "importance_score": 0.7563,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.7,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9844,
+        "recency": 0.9703,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1185,7 +1156,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-30T20:28:35.592303Z"
+        "scored_at": "2026-09-30T21:32:20.510850Z"
       }
     },
     {
@@ -1233,21 +1204,20 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7502,
-      "importance": 0.7502,
-      "importance_score": 0.7502,
+      "score": 0.7482,
+      "importance": 0.7482,
+      "importance_score": 0.7482,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.8,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7699,
+        "recency": 0.7589,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-09-30T01:40:59.989000Z",
       "latest_at": "2026-09-30T01:40:59.989000Z",
@@ -1267,7 +1237,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-30T20:28:35.592303Z"
+        "scored_at": "2026-09-30T21:32:20.510850Z"
       }
     },
     {
@@ -1315,15 +1285,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7471,
-      "importance": 0.7471,
-      "importance_score": 0.7471,
+      "score": 0.7446,
+      "importance": 0.7446,
+      "importance_score": 0.7446,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.66,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9862,
+        "recency": 0.9721,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1348,7 +1318,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-30T20:28:35.592303Z"
+        "scored_at": "2026-09-30T21:32:20.510850Z"
       }
     },
     {
@@ -1396,15 +1366,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7466,
-      "importance": 0.7466,
-      "importance_score": 0.7466,
+      "score": 0.7441,
+      "importance": 0.7441,
+      "importance_score": 0.7441,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.67,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9664,
+        "recency": 0.9526,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1429,7 +1399,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-30T20:28:35.592303Z"
+        "scored_at": "2026-09-30T21:32:20.510850Z"
       }
     },
     {
@@ -1477,15 +1447,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7434,
-      "importance": 0.7434,
-      "importance_score": 0.7434,
+      "score": 0.7412,
+      "importance": 0.7412,
+      "importance_score": 0.7412,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8655,
+        "recency": 0.8531,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1510,7 +1480,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-30T20:28:35.592303Z"
+        "scored_at": "2026-09-30T21:32:20.510850Z"
       }
     },
     {
@@ -1558,15 +1528,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7396,
-      "importance": 0.7396,
-      "importance_score": 0.7396,
+      "score": 0.7377,
+      "importance": 0.7377,
+      "importance_score": 0.7377,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.79,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7279,
+        "recency": 0.7175,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1591,7 +1561,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-30T20:28:35.592303Z"
+        "scored_at": "2026-09-30T21:32:20.510850Z"
       }
     },
     {
@@ -1639,15 +1609,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7349,
-      "importance": 0.7349,
-      "importance_score": 0.7349,
+      "score": 0.7329,
+      "importance": 0.7329,
+      "importance_score": 0.7329,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.76,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7514,
+        "recency": 0.7407,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1672,7 +1642,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-30T20:28:35.592303Z"
+        "scored_at": "2026-09-30T21:32:20.510850Z"
       }
     }
   ]
