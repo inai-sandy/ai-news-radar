@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-30T11:47:19.816635Z",
+  "generated_at": "2026-09-30T12:47:23.323319Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -163,15 +163,15 @@
       ],
       "item_count": 5,
       "duplicate_count": 5,
-      "score": 0.9189,
-      "importance": 0.9189,
-      "importance_score": 0.9189,
+      "score": 0.9169,
+      "importance": 0.9169,
+      "importance_score": 0.9169,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.87,
         "source_tier": 1.0,
         "ai_relevance": 1.0,
-        "recency": 0.7661,
+        "recency": 0.7551,
         "story_heat": 1.0
       },
       "category": "official",
@@ -198,7 +198,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-30T11:48:16.713183Z"
+        "scored_at": "2026-09-30T13:08:25.099105Z"
       }
     },
     {
@@ -361,15 +361,15 @@
       ],
       "item_count": 5,
       "duplicate_count": 5,
-      "score": 0.9014,
-      "importance": 0.9014,
-      "importance_score": 0.9014,
+      "score": 0.8994,
+      "importance": 0.8994,
+      "importance_score": 0.8994,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.81,
         "source_tier": 1.0,
         "ai_relevance": 1.0,
-        "recency": 0.769,
+        "recency": 0.758,
         "story_heat": 1.0
       },
       "category": "official",
@@ -396,7 +396,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-30T11:48:16.713183Z"
+        "scored_at": "2026-09-30T13:08:25.099105Z"
       }
     },
     {
@@ -444,15 +444,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8177,
-      "importance": 0.8177,
-      "importance_score": 0.8177,
+      "score": 0.8159,
+      "importance": 0.8159,
+      "importance_score": 0.8159,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.99,
-        "recency": 0.7208,
+        "recency": 0.7105,
         "story_heat": 0.0
       },
       "category": "official",
@@ -479,7 +479,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-30T11:48:16.713183Z"
+        "scored_at": "2026-09-30T13:08:25.099105Z"
       }
     },
     {
@@ -527,15 +527,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8173,
-      "importance": 0.8173,
-      "importance_score": 0.8173,
+      "score": 0.8153,
+      "importance": 0.8153,
+      "importance_score": 0.8153,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.7628,
+        "recency": 0.7519,
         "story_heat": 0.0
       },
       "category": "official",
@@ -562,7 +562,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-30T11:48:16.713183Z"
+        "scored_at": "2026-09-30T13:08:25.099105Z"
       }
     },
     {
@@ -610,15 +610,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.79,
-      "importance": 0.79,
-      "importance_score": 0.79,
+      "score": 0.788,
+      "importance": 0.788,
+      "importance_score": 0.788,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.77,
         "source_tier": 1.0,
         "ai_relevance": 1.0,
-        "recency": 0.7723,
+        "recency": 0.7612,
         "story_heat": 0.0
       },
       "category": "official",
@@ -644,7 +644,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-30T11:48:16.713183Z"
+        "scored_at": "2026-09-30T13:08:25.099105Z"
       }
     },
     {
@@ -721,15 +721,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7886,
-      "importance": 0.7886,
-      "importance_score": 0.7886,
+      "score": 0.7866,
+      "importance": 0.7866,
+      "importance_score": 0.7866,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.83,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7947,
+        "recency": 0.7833,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -756,7 +756,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-30T11:48:16.713183Z"
+        "scored_at": "2026-09-30T13:08:25.099105Z"
       }
     },
     {
@@ -804,15 +804,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7884,
-      "importance": 0.7884,
-      "importance_score": 0.7884,
+      "score": 0.7862,
+      "importance": 0.7862,
+      "importance_score": 0.7862,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.87,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8657,
+        "recency": 0.8533,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -838,7 +838,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-30T11:48:16.713183Z"
+        "scored_at": "2026-09-30T13:08:25.099105Z"
       }
     },
     {
@@ -886,15 +886,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8143,
-      "importance": 0.8143,
-      "importance_score": 0.8143,
+      "score": 0.8124,
+      "importance": 0.8124,
+      "importance_score": 0.8124,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.7461,
+        "recency": 0.7354,
         "story_heat": 0.0
       },
       "category": "official",
@@ -921,7 +921,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-30T11:48:16.713183Z"
+        "scored_at": "2026-09-30T13:08:25.099105Z"
       }
     },
     {
@@ -969,15 +969,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8106,
-      "importance": 0.8106,
-      "importance_score": 0.8106,
+      "score": 0.8086,
+      "importance": 0.8086,
+      "importance_score": 0.8086,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.9,
-        "recency": 0.781,
+        "recency": 0.7698,
         "story_heat": 0.0
       },
       "category": "official",
@@ -1004,7 +1004,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-30T11:48:16.713183Z"
+        "scored_at": "2026-09-30T13:08:25.099105Z"
       }
     },
     {
@@ -1052,15 +1052,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7672,
-      "importance": 0.7672,
-      "importance_score": 0.7672,
+      "score": 0.7649,
+      "importance": 0.7649,
+      "importance_score": 0.7649,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.8,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8642,
+        "recency": 0.8518,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1086,7 +1086,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-30T11:48:16.713183Z"
+        "scored_at": "2026-09-30T13:08:25.099105Z"
       }
     },
     {
@@ -1134,15 +1134,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7647,
-      "importance": 0.7647,
-      "importance_score": 0.7647,
+      "score": 0.7628,
+      "importance": 0.7628,
+      "importance_score": 0.7628,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.87,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.734,
+        "recency": 0.7235,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1168,7 +1168,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-30T11:48:16.713183Z"
+        "scored_at": "2026-09-30T13:08:25.099105Z"
       }
     },
     {
@@ -1216,15 +1216,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7644,
-      "importance": 0.7644,
-      "importance_score": 0.7644,
+      "score": 0.7625,
+      "importance": 0.7625,
+      "importance_score": 0.7625,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.86,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7489,
+        "recency": 0.7381,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1250,7 +1250,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-30T11:48:16.713183Z"
+        "scored_at": "2026-09-30T13:08:25.099105Z"
       }
     },
     {
@@ -1298,15 +1298,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7633,
-      "importance": 0.7633,
-      "importance_score": 0.7633,
+      "score": 0.7613,
+      "importance": 0.7613,
+      "importance_score": 0.7613,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.84,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7763,
+        "recency": 0.7651,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1332,7 +1332,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-30T11:48:16.713183Z"
+        "scored_at": "2026-09-30T13:08:25.099105Z"
       }
     },
     {
@@ -1380,15 +1380,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7625,
-      "importance": 0.7625,
-      "importance_score": 0.7625,
+      "score": 0.76,
+      "importance": 0.76,
+      "importance_score": 0.76,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9715,
+        "recency": 0.9576,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1414,7 +1414,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-30T11:48:16.713183Z"
+        "scored_at": "2026-09-30T13:08:25.099105Z"
       }
     },
     {
@@ -1462,15 +1462,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.757,
-      "importance": 0.757,
-      "importance_score": 0.757,
+      "score": 0.7549,
+      "importance": 0.7549,
+      "importance_score": 0.7549,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.81,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7909,
+        "recency": 0.7795,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1496,7 +1496,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-30T11:48:16.713183Z"
+        "scored_at": "2026-09-30T13:08:25.099105Z"
       }
     },
     {
@@ -1544,15 +1544,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7557,
-      "importance": 0.7557,
-      "importance_score": 0.7557,
+      "score": 0.7536,
+      "importance": 0.7536,
+      "importance_score": 0.7536,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.79,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.817,
+        "recency": 0.8053,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1578,7 +1578,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-30T11:48:16.713183Z"
+        "scored_at": "2026-09-30T13:08:25.099105Z"
       }
     },
     {
@@ -1626,15 +1626,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7537,
-      "importance": 0.7537,
-      "importance_score": 0.7537,
+      "score": 0.7516,
+      "importance": 0.7516,
+      "importance_score": 0.7516,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.8,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7893,
+        "recency": 0.778,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1660,7 +1660,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-30T11:48:16.713183Z"
+        "scored_at": "2026-09-30T13:08:25.099105Z"
       }
     },
     {
@@ -1708,21 +1708,20 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7514,
-      "importance": 0.7514,
-      "importance_score": 0.7514,
+      "score": 0.7492,
+      "importance": 0.7492,
+      "importance_score": 0.7492,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.76,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8435,
+        "recency": 0.8314,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-09-30T00:00:00Z",
       "latest_at": "2026-09-30T00:00:00Z",
@@ -1742,30 +1741,30 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-30T11:48:16.713183Z"
+        "scored_at": "2026-09-30T13:08:25.099105Z"
       }
     },
     {
-      "story_id": "story_024f628f3f4f",
-      "title": "OpenAI 推出 Codex 云环境，可复用配置并跨设备跟进任务 / Run Codex tasks in reusable cloud environments, then follow progress and steer them from your phone or another computer:",
-      "url": "https://x.com/OpenAIDevs/status/2105073633731461197",
-      "primary_url": "https://x.com/OpenAIDevs/status/2105073633731461197",
+      "story_id": "story_4b81e15f89c2",
+      "title": "OpenAI 发布 GPT-6.1 Sol，主打智能体编码与跨应用工作流 / Give your coding agents more room to work.",
+      "url": "https://x.com/OpenAIDevs/status/2105073621144338660",
+      "primary_url": "https://x.com/OpenAIDevs/status/2105073621144338660",
       "source": "X：OpenAI Developers (@OpenAIDevs)",
       "source_name": "AI HOT",
       "sources": [
         {
-          "id": "c139fbe41498c0fad9b40a766f14d60c7713d80f",
-          "title": "OpenAI 推出 Codex 云环境，可复用配置并跨设备跟进任务 / Run Codex tasks in reusable cloud environments, then follow progress and steer them from your phone or another computer:",
-          "title_zh": "OpenAI 推出 Codex 云环境，可复用配置并跨设备跟进任务",
-          "title_en": "Run Codex tasks in reusable cloud environments, then follow progress and steer them from your phone or another computer:",
-          "title_original": "Run Codex tasks in reusable cloud environments, then follow progress and steer them from your phone or another computer:",
-          "summary": "OpenAI 推出 Codex cloud environments，可在可复用的云环境中运行 Codex 任务，仓库、依赖、脚本和设置已预先就位，减少配置并加快启动。用户合上电脑后智能体继续运行，可通过手机或另一台电脑跟进进度并调整任务，文档见 https://learn.chatgpt.com/docs/cloud。",
+          "id": "22322fba0cf42ea683557a9b807e006a3ecf75bd",
+          "title": "OpenAI 发布 GPT-6.1 Sol，主打智能体编码与跨应用工作流 / Give your coding agents more room to work.",
+          "title_zh": "OpenAI 发布 GPT-6.1 Sol，主打智能体编码与跨应用工作流",
+          "title_en": "Give your coding agents more room to work.",
+          "title_original": "Give your coding agents more room to work.",
+          "summary": "OpenAI 发布 GPT-6.1 Sol，称其在编码、computer use 和跨应用工作流中表现强劲，价格低于 GPT-6 Astra。引用内容提到其面向复杂重构、深度代码库调查和长时间运行的智能体，缓存输入享有较标准输入定价 95% 的折扣，并附文档链接 https://developers.openai.com/api/docs/models/gpt-6.1-sol。",
           "recommend_reason_zh": null,
-          "url": "https://x.com/OpenAIDevs/status/2105073633731461197",
+          "url": "https://x.com/OpenAIDevs/status/2105073621144338660",
           "source": "X：OpenAI Developers (@OpenAIDevs)",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-09-29T23:13:59Z"
+          "published_at": "2026-09-29T23:13:56Z"
         }
       ],
       "source_count": 1,
@@ -1774,31 +1773,31 @@
       ],
       "items": [
         {
-          "id": "c139fbe41498c0fad9b40a766f14d60c7713d80f",
-          "title": "OpenAI 推出 Codex 云环境，可复用配置并跨设备跟进任务 / Run Codex tasks in reusable cloud environments, then follow progress and steer them from your phone or another computer:",
-          "title_zh": "OpenAI 推出 Codex 云环境，可复用配置并跨设备跟进任务",
-          "title_en": "Run Codex tasks in reusable cloud environments, then follow progress and steer them from your phone or another computer:",
-          "title_original": "Run Codex tasks in reusable cloud environments, then follow progress and steer them from your phone or another computer:",
-          "summary": "OpenAI 推出 Codex cloud environments，可在可复用的云环境中运行 Codex 任务，仓库、依赖、脚本和设置已预先就位，减少配置并加快启动。用户合上电脑后智能体继续运行，可通过手机或另一台电脑跟进进度并调整任务，文档见 https://learn.chatgpt.com/docs/cloud。",
+          "id": "22322fba0cf42ea683557a9b807e006a3ecf75bd",
+          "title": "OpenAI 发布 GPT-6.1 Sol，主打智能体编码与跨应用工作流 / Give your coding agents more room to work.",
+          "title_zh": "OpenAI 发布 GPT-6.1 Sol，主打智能体编码与跨应用工作流",
+          "title_en": "Give your coding agents more room to work.",
+          "title_original": "Give your coding agents more room to work.",
+          "summary": "OpenAI 发布 GPT-6.1 Sol，称其在编码、computer use 和跨应用工作流中表现强劲，价格低于 GPT-6 Astra。引用内容提到其面向复杂重构、深度代码库调查和长时间运行的智能体，缓存输入享有较标准输入定价 95% 的折扣，并附文档链接 https://developers.openai.com/api/docs/models/gpt-6.1-sol。",
           "recommend_reason_zh": null,
-          "url": "https://x.com/OpenAIDevs/status/2105073633731461197",
+          "url": "https://x.com/OpenAIDevs/status/2105073621144338660",
           "source": "X：OpenAI Developers (@OpenAIDevs)",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-09-29T23:13:59Z"
+          "published_at": "2026-09-29T23:13:56Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7802,
-      "importance": 0.7802,
-      "importance_score": 0.7802,
+      "score": 0.778,
+      "importance": 0.778,
+      "importance_score": 0.778,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.7,
         "source_tier": 1.0,
         "ai_relevance": 1.0,
-        "recency": 0.8342,
+        "recency": 0.8222,
         "story_heat": 0.0
       },
       "category": "official",
@@ -1806,17 +1805,17 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-09-29T23:13:59Z",
-      "latest_at": "2026-09-29T23:13:59Z",
+      "earliest_at": "2026-09-29T23:13:56Z",
+      "latest_at": "2026-09-29T23:13:56Z",
       "primary_item": {
-        "id": "c139fbe41498c0fad9b40a766f14d60c7713d80f",
-        "title": "OpenAI 推出 Codex 云环境，可复用配置并跨设备跟进任务 / Run Codex tasks in reusable cloud environments, then follow progress and steer them from your phone or another computer:",
-        "title_zh": "OpenAI 推出 Codex 云环境，可复用配置并跨设备跟进任务",
-        "title_en": "Run Codex tasks in reusable cloud environments, then follow progress and steer them from your phone or another computer:",
-        "title_original": "Run Codex tasks in reusable cloud environments, then follow progress and steer them from your phone or another computer:",
-        "summary": "OpenAI 推出 Codex cloud environments，可在可复用的云环境中运行 Codex 任务，仓库、依赖、脚本和设置已预先就位，减少配置并加快启动。用户合上电脑后智能体继续运行，可通过手机或另一台电脑跟进进度并调整任务，文档见 https://learn.chatgpt.com/docs/cloud。",
+        "id": "22322fba0cf42ea683557a9b807e006a3ecf75bd",
+        "title": "OpenAI 发布 GPT-6.1 Sol，主打智能体编码与跨应用工作流 / Give your coding agents more room to work.",
+        "title_zh": "OpenAI 发布 GPT-6.1 Sol，主打智能体编码与跨应用工作流",
+        "title_en": "Give your coding agents more room to work.",
+        "title_original": "Give your coding agents more room to work.",
+        "summary": "OpenAI 发布 GPT-6.1 Sol，称其在编码、computer use 和跨应用工作流中表现强劲，价格低于 GPT-6 Astra。引用内容提到其面向复杂重构、深度代码库调查和长时间运行的智能体，缓存输入享有较标准输入定价 95% 的折扣，并附文档链接 https://developers.openai.com/api/docs/models/gpt-6.1-sol。",
         "recommend_reason_zh": null,
-        "url": "https://x.com/OpenAIDevs/status/2105073633731461197",
+        "url": "https://x.com/OpenAIDevs/status/2105073621144338660",
         "source": "X：OpenAI Developers (@OpenAIDevs)",
         "source_name": "AI HOT"
       },
@@ -1824,7 +1823,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-30T11:48:16.713183Z"
+        "scored_at": "2026-09-30T13:08:25.099105Z"
       }
     },
     {
@@ -1872,15 +1871,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8056,
-      "importance": 0.8056,
-      "importance_score": 0.8056,
+      "score": 0.8036,
+      "importance": 0.8036,
+      "importance_score": 0.8036,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.7866,
+        "recency": 0.7753,
         "story_heat": 0.0
       },
       "category": "official",
@@ -1907,7 +1906,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-30T11:48:16.713183Z"
+        "scored_at": "2026-09-30T13:08:25.099105Z"
       }
     }
   ]
