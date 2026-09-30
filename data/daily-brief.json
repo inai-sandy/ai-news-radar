@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-30T03:47:24.637779Z",
+  "generated_at": "2026-09-30T04:47:56.606572Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -163,15 +163,15 @@
       ],
       "item_count": 5,
       "duplicate_count": 5,
-      "score": 0.9184,
-      "importance": 0.9184,
-      "importance_score": 0.9184,
+      "score": 0.9161,
+      "importance": 0.9161,
+      "importance_score": 0.9161,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.81,
         "source_tier": 1.0,
         "ai_relevance": 1.0,
-        "recency": 0.8632,
+        "recency": 0.8507,
         "story_heat": 1.0
       },
       "category": "official",
@@ -198,7 +198,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-30T03:57:19.083414Z"
+        "scored_at": "2026-09-30T04:48:59.431362Z"
       }
     },
     {
@@ -304,15 +304,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.8692,
-      "importance": 0.8692,
-      "importance_score": 0.8692,
+      "score": 0.8672,
+      "importance": 0.8672,
+      "importance_score": 0.8672,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.7734,
+        "recency": 0.7623,
         "story_heat": 0.5
       },
       "category": "official",
@@ -340,7 +340,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-30T03:57:19.083414Z"
+        "scored_at": "2026-09-30T04:48:59.431362Z"
       }
     },
     {
@@ -388,15 +388,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8341,
-      "importance": 0.8341,
-      "importance_score": 0.8341,
+      "score": 0.8319,
+      "importance": 0.8319,
+      "importance_score": 0.8319,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.8562,
+        "recency": 0.8438,
         "story_heat": 0.0
       },
       "category": "official",
@@ -423,7 +423,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-30T03:57:19.083414Z"
+        "scored_at": "2026-09-30T04:48:59.431362Z"
       }
     },
     {
@@ -471,15 +471,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8336,
-      "importance": 0.8336,
-      "importance_score": 0.8336,
+      "score": 0.8315,
+      "importance": 0.8315,
+      "importance_score": 0.8315,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.99,
-        "recency": 0.8091,
+        "recency": 0.7973,
         "story_heat": 0.0
       },
       "category": "official",
@@ -506,7 +506,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-30T03:57:19.083414Z"
+        "scored_at": "2026-09-30T04:48:59.431362Z"
       }
     },
     {
@@ -641,15 +641,15 @@
       ],
       "item_count": 4,
       "duplicate_count": 4,
-      "score": 0.8149,
-      "importance": 0.8149,
-      "importance_score": 0.8149,
+      "score": 0.813,
+      "importance": 0.813,
+      "importance_score": 0.813,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.77,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.763,
+        "recency": 0.752,
         "story_heat": 0.75
       },
       "category": "multi_source",
@@ -676,7 +676,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-30T03:57:19.083414Z"
+        "scored_at": "2026-09-30T04:48:59.431362Z"
       }
     },
     {
@@ -724,15 +724,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8075,
-      "importance": 0.8075,
-      "importance_score": 0.8075,
+      "score": 0.805,
+      "importance": 0.805,
+      "importance_score": 0.805,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.87,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9718,
+        "recency": 0.9577,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -758,7 +758,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-30T03:57:19.083414Z"
+        "scored_at": "2026-09-30T04:48:59.431362Z"
       }
     },
     {
@@ -806,15 +806,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.807,
-      "importance": 0.807,
-      "importance_score": 0.807,
+      "score": 0.8048,
+      "importance": 0.8048,
+      "importance_score": 0.8048,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.77,
         "source_tier": 1.0,
         "ai_relevance": 1.0,
-        "recency": 0.8669,
+        "recency": 0.8543,
         "story_heat": 0.0
       },
       "category": "official",
@@ -840,7 +840,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-30T03:57:19.083414Z"
+        "scored_at": "2026-09-30T04:48:59.431362Z"
       }
     },
     {
@@ -867,8 +867,8 @@
         },
         {
           "id": "50995d2157f72a22df0cd3ef3e5bbd2052988e9b",
-          "title": "OpenAI repotedly in talks to raise $30B round at $1.4T valuation",
-          "title_zh": null,
+          "title": "据报道 OpenAI 正在洽谈以 1.4T 估值筹集 300 亿美元资金 / OpenAI repotedly in talks to raise $30B round at $1.4T valuation",
+          "title_zh": "据报道 OpenAI 正在洽谈以 1.4T 估值筹集 300 亿美元资金",
           "title_en": "OpenAI repotedly in talks to raise $30B round at $1.4T valuation",
           "title_original": "OpenAI repotedly in talks to raise $30B round at $1.4T valuation",
           "summary": null,
@@ -902,8 +902,8 @@
         },
         {
           "id": "50995d2157f72a22df0cd3ef3e5bbd2052988e9b",
-          "title": "OpenAI repotedly in talks to raise $30B round at $1.4T valuation",
-          "title_zh": null,
+          "title": "据报道 OpenAI 正在洽谈以 1.4T 估值筹集 300 亿美元资金 / OpenAI repotedly in talks to raise $30B round at $1.4T valuation",
+          "title_zh": "据报道 OpenAI 正在洽谈以 1.4T 估值筹集 300 亿美元资金",
           "title_en": "OpenAI repotedly in talks to raise $30B round at $1.4T valuation",
           "title_original": "OpenAI repotedly in talks to raise $30B round at $1.4T valuation",
           "summary": null,
@@ -917,15 +917,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.8062,
-      "importance": 0.8062,
-      "importance_score": 0.8062,
+      "score": 0.8038,
+      "importance": 0.8038,
+      "importance_score": 0.8038,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.83,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.892,
+        "recency": 0.8791,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -952,7 +952,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-30T03:57:19.083414Z"
+        "scored_at": "2026-09-30T04:48:59.431362Z"
       }
     },
     {
@@ -1000,15 +1000,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8308,
-      "importance": 0.8308,
-      "importance_score": 0.8308,
+      "score": 0.8286,
+      "importance": 0.8286,
+      "importance_score": 0.8286,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.8375,
+        "recency": 0.8254,
         "story_heat": 0.0
       },
       "category": "official",
@@ -1035,12 +1035,12 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-30T03:57:19.083414Z"
+        "scored_at": "2026-09-30T04:48:59.431362Z"
       }
     },
     {
       "story_id": "story_ea535c078900",
-      "title": "Bring business context with external custom properties",
+      "title": "通过外部自定义属性引入业务上下文 / Bring business context with external custom properties",
       "url": "https://github.blog/changelog/2026-09-29-bring-business-context-with-external-custom-properties",
       "primary_url": "https://github.blog/changelog/2026-09-29-bring-business-context-with-external-custom-properties",
       "source": "GitHub Changelog",
@@ -1048,8 +1048,8 @@
       "sources": [
         {
           "id": "79190b043c8d82a028da882f09f9077d8e0aea6d",
-          "title": "Bring business context with external custom properties",
-          "title_zh": null,
+          "title": "通过外部自定义属性引入业务上下文 / Bring business context with external custom properties",
+          "title_zh": "通过外部自定义属性引入业务上下文",
           "title_en": "Bring business context with external custom properties",
           "title_original": "Bring business context with external custom properties",
           "summary": null,
@@ -1068,8 +1068,8 @@
       "items": [
         {
           "id": "79190b043c8d82a028da882f09f9077d8e0aea6d",
-          "title": "Bring business context with external custom properties",
-          "title_zh": null,
+          "title": "通过外部自定义属性引入业务上下文 / Bring business context with external custom properties",
+          "title_zh": "通过外部自定义属性引入业务上下文",
           "title_en": "Bring business context with external custom properties",
           "title_original": "Bring business context with external custom properties",
           "summary": null,
@@ -1083,15 +1083,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8278,
-      "importance": 0.8278,
-      "importance_score": 0.8278,
+      "score": 0.8255,
+      "importance": 0.8255,
+      "importance_score": 0.8255,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.9,
-        "recency": 0.8767,
+        "recency": 0.864,
         "story_heat": 0.0
       },
       "category": "official",
@@ -1104,8 +1104,8 @@
       "latest_at": "2026-09-29T18:40:27Z",
       "primary_item": {
         "id": "79190b043c8d82a028da882f09f9077d8e0aea6d",
-        "title": "Bring business context with external custom properties",
-        "title_zh": null,
+        "title": "通过外部自定义属性引入业务上下文 / Bring business context with external custom properties",
+        "title_zh": "通过外部自定义属性引入业务上下文",
         "title_en": "Bring business context with external custom properties",
         "title_original": "Bring business context with external custom properties",
         "summary": null,
@@ -1118,7 +1118,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-30T03:57:19.083414Z"
+        "scored_at": "2026-09-30T04:48:59.431362Z"
       }
     },
     {
@@ -1166,15 +1166,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7862,
-      "importance": 0.7862,
-      "importance_score": 0.7862,
+      "score": 0.7837,
+      "importance": 0.7837,
+      "importance_score": 0.7837,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.8,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.97,
+        "recency": 0.956,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1200,7 +1200,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-30T03:57:19.083414Z"
+        "scored_at": "2026-09-30T04:48:59.431362Z"
       }
     },
     {
@@ -1248,15 +1248,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8112,
-      "importance": 0.8112,
-      "importance_score": 0.8112,
+      "score": 0.8092,
+      "importance": 0.8092,
+      "importance_score": 0.8092,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.7734,
+        "recency": 0.7623,
         "story_heat": 0.0
       },
       "category": "official",
@@ -1283,89 +1283,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-30T03:57:19.083414Z"
-      }
-    },
-    {
-      "story_id": "story_275cdbd3d9e4",
-      "title": "Hugging Face CEO 称被 NVIDIA 收购后可招募人才并用十年推动开源 AI 取胜 / getting acquired by @nvidia = hugging face can now hire people we couldn't as a small startup and give them a decade to make open-source ...",
-      "url": "https://x.com/ClementDelangue/status/2104960836796342729",
-      "primary_url": "https://x.com/ClementDelangue/status/2104960836796342729",
-      "source": "X：Clément Delangue（Hugging Face CEO） (@ClementDelangue)",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "ec435108add6ff71cab964156cb797be3c197105",
-          "title": "Hugging Face CEO 称被 NVIDIA 收购后可招募人才并用十年推动开源 AI 取胜 / getting acquired by @nvidia = hugging face can now hire people we couldn't as a small startup and give them a decade to make open-source ...",
-          "title_zh": "Hugging Face CEO 称被 NVIDIA 收购后可招募人才并用十年推动开源 AI 取胜",
-          "title_en": "getting acquired by @nvidia = hugging face can now hire people we couldn't as a small startup and give them a decade to make open-source ...",
-          "title_original": "getting acquired by @nvidia = hugging face can now hire people we couldn't as a small startup and give them a decade to make open-source ...",
-          "summary": "Hugging Face CEO Clément Delangue 表示被 NVIDIA 收购意味着公司现在能招聘到小创业公司时期请不起的人，并给他们十年时间让开源 AI 取胜。他向合适的人开放私信招募。",
-          "recommend_reason_zh": null,
-          "url": "https://x.com/ClementDelangue/status/2104960836796342729",
-          "source": "X：Clément Delangue（Hugging Face CEO） (@ClementDelangue)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-29T15:45:46Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "X：Clément Delangue（Hugging Face CEO） (@ClementDelangue)"
-      ],
-      "items": [
-        {
-          "id": "ec435108add6ff71cab964156cb797be3c197105",
-          "title": "Hugging Face CEO 称被 NVIDIA 收购后可招募人才并用十年推动开源 AI 取胜 / getting acquired by @nvidia = hugging face can now hire people we couldn't as a small startup and give them a decade to make open-source ...",
-          "title_zh": "Hugging Face CEO 称被 NVIDIA 收购后可招募人才并用十年推动开源 AI 取胜",
-          "title_en": "getting acquired by @nvidia = hugging face can now hire people we couldn't as a small startup and give them a decade to make open-source ...",
-          "title_original": "getting acquired by @nvidia = hugging face can now hire people we couldn't as a small startup and give them a decade to make open-source ...",
-          "summary": "Hugging Face CEO Clément Delangue 表示被 NVIDIA 收购意味着公司现在能招聘到小创业公司时期请不起的人，并给他们十年时间让开源 AI 取胜。他向合适的人开放私信招募。",
-          "recommend_reason_zh": null,
-          "url": "https://x.com/ClementDelangue/status/2104960836796342729",
-          "source": "X：Clément Delangue（Hugging Face CEO） (@ClementDelangue)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-29T15:45:46Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7809,
-      "importance": 0.7809,
-      "importance_score": 0.7809,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.86,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.8406,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-29T15:45:46Z",
-      "latest_at": "2026-09-29T15:45:46Z",
-      "primary_item": {
-        "id": "ec435108add6ff71cab964156cb797be3c197105",
-        "title": "Hugging Face CEO 称被 NVIDIA 收购后可招募人才并用十年推动开源 AI 取胜 / getting acquired by @nvidia = hugging face can now hire people we couldn't as a small startup and give them a decade to make open-source ...",
-        "title_zh": "Hugging Face CEO 称被 NVIDIA 收购后可招募人才并用十年推动开源 AI 取胜",
-        "title_en": "getting acquired by @nvidia = hugging face can now hire people we couldn't as a small startup and give them a decade to make open-source ...",
-        "title_original": "getting acquired by @nvidia = hugging face can now hire people we couldn't as a small startup and give them a decade to make open-source ...",
-        "summary": "Hugging Face CEO Clément Delangue 表示被 NVIDIA 收购意味着公司现在能招聘到小创业公司时期请不起的人，并给他们十年时间让开源 AI 取胜。他向合适的人开放私信招募。",
-        "recommend_reason_zh": null,
-        "url": "https://x.com/ClementDelangue/status/2104960836796342729",
-        "source": "X：Clément Delangue（Hugging Face CEO） (@ClementDelangue)",
-        "source_name": "AI HOT"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-09-30T03:57:19.083414Z"
+        "scored_at": "2026-09-30T04:48:59.431362Z"
       }
     },
     {
@@ -1413,15 +1331,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7809,
-      "importance": 0.7809,
-      "importance_score": 0.7809,
+      "score": 0.7788,
+      "importance": 0.7788,
+      "importance_score": 0.7788,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.87,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8239,
+        "recency": 0.812,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1447,7 +1365,89 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-30T03:57:19.083414Z"
+        "scored_at": "2026-09-30T04:48:59.431362Z"
+      }
+    },
+    {
+      "story_id": "story_275cdbd3d9e4",
+      "title": "Hugging Face CEO 称被 NVIDIA 收购后可招募人才并用十年推动开源 AI 取胜 / getting acquired by @nvidia = hugging face can now hire people we couldn't as a small startup and give them a decade to make open-source ...",
+      "url": "https://x.com/ClementDelangue/status/2104960836796342729",
+      "primary_url": "https://x.com/ClementDelangue/status/2104960836796342729",
+      "source": "X：Clément Delangue（Hugging Face CEO） (@ClementDelangue)",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "ec435108add6ff71cab964156cb797be3c197105",
+          "title": "Hugging Face CEO 称被 NVIDIA 收购后可招募人才并用十年推动开源 AI 取胜 / getting acquired by @nvidia = hugging face can now hire people we couldn't as a small startup and give them a decade to make open-source ...",
+          "title_zh": "Hugging Face CEO 称被 NVIDIA 收购后可招募人才并用十年推动开源 AI 取胜",
+          "title_en": "getting acquired by @nvidia = hugging face can now hire people we couldn't as a small startup and give them a decade to make open-source ...",
+          "title_original": "getting acquired by @nvidia = hugging face can now hire people we couldn't as a small startup and give them a decade to make open-source ...",
+          "summary": "Hugging Face CEO Clément Delangue 表示被 NVIDIA 收购意味着公司现在能招聘到小创业公司时期请不起的人，并给他们十年时间让开源 AI 取胜。他向合适的人开放私信招募。",
+          "recommend_reason_zh": null,
+          "url": "https://x.com/ClementDelangue/status/2104960836796342729",
+          "source": "X：Clément Delangue（Hugging Face CEO） (@ClementDelangue)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-29T15:45:46Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "X：Clément Delangue（Hugging Face CEO） (@ClementDelangue)"
+      ],
+      "items": [
+        {
+          "id": "ec435108add6ff71cab964156cb797be3c197105",
+          "title": "Hugging Face CEO 称被 NVIDIA 收购后可招募人才并用十年推动开源 AI 取胜 / getting acquired by @nvidia = hugging face can now hire people we couldn't as a small startup and give them a decade to make open-source ...",
+          "title_zh": "Hugging Face CEO 称被 NVIDIA 收购后可招募人才并用十年推动开源 AI 取胜",
+          "title_en": "getting acquired by @nvidia = hugging face can now hire people we couldn't as a small startup and give them a decade to make open-source ...",
+          "title_original": "getting acquired by @nvidia = hugging face can now hire people we couldn't as a small startup and give them a decade to make open-source ...",
+          "summary": "Hugging Face CEO Clément Delangue 表示被 NVIDIA 收购意味着公司现在能招聘到小创业公司时期请不起的人，并给他们十年时间让开源 AI 取胜。他向合适的人开放私信招募。",
+          "recommend_reason_zh": null,
+          "url": "https://x.com/ClementDelangue/status/2104960836796342729",
+          "source": "X：Clément Delangue（Hugging Face CEO） (@ClementDelangue)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-29T15:45:46Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7787,
+      "importance": 0.7787,
+      "importance_score": 0.7787,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.86,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.8284,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-29T15:45:46Z",
+      "latest_at": "2026-09-29T15:45:46Z",
+      "primary_item": {
+        "id": "ec435108add6ff71cab964156cb797be3c197105",
+        "title": "Hugging Face CEO 称被 NVIDIA 收购后可招募人才并用十年推动开源 AI 取胜 / getting acquired by @nvidia = hugging face can now hire people we couldn't as a small startup and give them a decade to make open-source ...",
+        "title_zh": "Hugging Face CEO 称被 NVIDIA 收购后可招募人才并用十年推动开源 AI 取胜",
+        "title_en": "getting acquired by @nvidia = hugging face can now hire people we couldn't as a small startup and give them a decade to make open-source ...",
+        "title_original": "getting acquired by @nvidia = hugging face can now hire people we couldn't as a small startup and give them a decade to make open-source ...",
+        "summary": "Hugging Face CEO Clément Delangue 表示被 NVIDIA 收购意味着公司现在能招聘到小创业公司时期请不起的人，并给他们十年时间让开源 AI 取胜。他向合适的人开放私信招募。",
+        "recommend_reason_zh": null,
+        "url": "https://x.com/ClementDelangue/status/2104960836796342729",
+        "source": "X：Clément Delangue（Hugging Face CEO） (@ClementDelangue)",
+        "source_name": "AI HOT"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-09-30T04:48:59.431362Z"
       }
     },
     {
@@ -1495,15 +1495,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7804,
-      "importance": 0.7804,
-      "importance_score": 0.7804,
+      "score": 0.7782,
+      "importance": 0.7782,
+      "importance_score": 0.7782,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.84,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8713,
+        "recency": 0.8587,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1529,7 +1529,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-30T03:57:19.083414Z"
+        "scored_at": "2026-09-30T04:48:59.431362Z"
       }
     },
     {
@@ -1577,15 +1577,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7744,
-      "importance": 0.7744,
-      "importance_score": 0.7744,
+      "score": 0.7721,
+      "importance": 0.7721,
+      "importance_score": 0.7721,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.81,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8877,
+        "recency": 0.8749,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1611,7 +1611,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-30T03:57:19.083414Z"
+        "scored_at": "2026-09-30T04:48:59.431362Z"
       }
     },
     {
@@ -1659,15 +1659,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7737,
-      "importance": 0.7737,
-      "importance_score": 0.7737,
+      "score": 0.7713,
+      "importance": 0.7713,
+      "importance_score": 0.7713,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.79,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9171,
+        "recency": 0.9038,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1693,7 +1693,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-30T03:57:19.083414Z"
+        "scored_at": "2026-09-30T04:48:59.431362Z"
       }
     },
     {
@@ -1741,15 +1741,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7711,
-      "importance": 0.7711,
-      "importance_score": 0.7711,
+      "score": 0.7688,
+      "importance": 0.7688,
+      "importance_score": 0.7688,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.8,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8859,
+        "recency": 0.8731,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1775,7 +1775,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-30T03:57:19.083414Z"
+        "scored_at": "2026-09-30T04:48:59.431362Z"
       }
     },
     {
@@ -1823,15 +1823,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7985,
-      "importance": 0.7985,
-      "importance_score": 0.7985,
+      "score": 0.7961,
+      "importance": 0.7961,
+      "importance_score": 0.7961,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.7,
         "source_tier": 1.0,
         "ai_relevance": 1.0,
-        "recency": 0.9363,
+        "recency": 0.9228,
         "story_heat": 0.0
       },
       "category": "official",
@@ -1857,7 +1857,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-30T03:57:19.083414Z"
+        "scored_at": "2026-09-30T04:48:59.431362Z"
       }
     },
     {
@@ -1905,15 +1905,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7676,
-      "importance": 0.7676,
-      "importance_score": 0.7676,
+      "score": 0.765,
+      "importance": 0.765,
+      "importance_score": 0.765,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.9855,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1939,7 +1939,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-30T03:57:19.083414Z"
+        "scored_at": "2026-09-30T04:48:59.431362Z"
       }
     }
   ]
