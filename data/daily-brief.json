@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-30T17:47:22.405118Z",
+  "generated_at": "2026-09-30T18:47:24.489812Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -48,15 +48,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8437,
-      "importance": 0.8437,
-      "importance_score": 0.8437,
+      "score": 0.8412,
+      "importance": 0.8412,
+      "importance_score": 0.8412,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.9539,
+        "recency": 0.9402,
         "story_heat": 0.0
       },
       "category": "official",
@@ -83,7 +83,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-30T18:21:40.002570Z"
+        "scored_at": "2026-09-30T19:24:47.346762Z"
       }
     },
     {
@@ -131,15 +131,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.837,
-      "importance": 0.837,
-      "importance_score": 0.837,
+      "score": 0.8345,
+      "importance": 0.8345,
+      "importance_score": 0.8345,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.9612,
+        "recency": 0.9474,
         "story_heat": 0.0
       },
       "category": "official",
@@ -166,12 +166,12 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-30T18:21:40.002570Z"
+        "scored_at": "2026-09-30T19:24:47.346762Z"
       }
     },
     {
       "story_id": "story_0df28d41ad48",
-      "title": "Disrupting a coordinated model-distillation campaign",
+      "title": "OpenAI 披露并处置一起有组织的模型蒸馏攻击行动 / Disrupting a coordinated model-distillation campaign",
       "url": "https://openai.com/index/disrupting-a-coordinated-model-distillation-campaign",
       "primary_url": "https://openai.com/index/disrupting-a-coordinated-model-distillation-campaign",
       "source": "OpenAI News",
@@ -179,8 +179,8 @@
       "sources": [
         {
           "id": "677e69be9293919b541c7b1d7f5ddf99c4e569cc",
-          "title": "Disrupting a coordinated model-distillation campaign",
-          "title_zh": null,
+          "title": "OpenAI 披露并处置一起有组织的模型蒸馏攻击行动 / Disrupting a coordinated model-distillation campaign",
+          "title_zh": "OpenAI 披露并处置一起有组织的模型蒸馏攻击行动",
           "title_en": "Disrupting a coordinated model-distillation campaign",
           "title_original": "Disrupting a coordinated model-distillation campaign",
           "summary": null,
@@ -199,8 +199,8 @@
       "items": [
         {
           "id": "677e69be9293919b541c7b1d7f5ddf99c4e569cc",
-          "title": "Disrupting a coordinated model-distillation campaign",
-          "title_zh": null,
+          "title": "OpenAI 披露并处置一起有组织的模型蒸馏攻击行动 / Disrupting a coordinated model-distillation campaign",
+          "title_zh": "OpenAI 披露并处置一起有组织的模型蒸馏攻击行动",
           "title_en": "Disrupting a coordinated model-distillation campaign",
           "title_original": "Disrupting a coordinated model-distillation campaign",
           "summary": null,
@@ -214,15 +214,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.834,
-      "importance": 0.834,
-      "importance_score": 0.834,
+      "score": 0.8317,
+      "importance": 0.8317,
+      "importance_score": 0.8317,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.9001,
+        "recency": 0.8872,
         "story_heat": 0.0
       },
       "category": "official",
@@ -235,8 +235,8 @@
       "latest_at": "2026-09-30T10:30:00Z",
       "primary_item": {
         "id": "677e69be9293919b541c7b1d7f5ddf99c4e569cc",
-        "title": "Disrupting a coordinated model-distillation campaign",
-        "title_zh": null,
+        "title": "OpenAI 披露并处置一起有组织的模型蒸馏攻击行动 / Disrupting a coordinated model-distillation campaign",
+        "title_zh": "OpenAI 披露并处置一起有组织的模型蒸馏攻击行动",
         "title_en": "Disrupting a coordinated model-distillation campaign",
         "title_original": "Disrupting a coordinated model-distillation campaign",
         "summary": null,
@@ -249,7 +249,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-30T18:21:40.002570Z"
+        "scored_at": "2026-09-30T19:24:47.346762Z"
       }
     },
     {
@@ -297,15 +297,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8292,
-      "importance": 0.8292,
-      "importance_score": 0.8292,
+      "score": 0.8272,
+      "importance": 0.8272,
+      "importance_score": 0.8272,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 1.0,
-        "recency": 0.7735,
+        "recency": 0.7624,
         "story_heat": 0.0
       },
       "category": "official",
@@ -332,7 +332,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-30T18:21:40.002570Z"
+        "scored_at": "2026-09-30T19:24:47.346762Z"
       }
     },
     {
@@ -380,15 +380,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8415,
-      "importance": 0.8415,
-      "importance_score": 0.8415,
+      "score": 0.8389,
+      "importance": 0.8389,
+      "importance_score": 0.8389,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.9859,
+        "recency": 0.9718,
         "story_heat": 0.0
       },
       "category": "official",
@@ -415,7 +415,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-30T18:21:40.002570Z"
+        "scored_at": "2026-09-30T19:24:47.346762Z"
       }
     },
     {
@@ -463,15 +463,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8328,
-      "importance": 0.8328,
-      "importance_score": 0.8328,
+      "score": 0.8305,
+      "importance": 0.8305,
+      "importance_score": 0.8305,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.8936,
+        "recency": 0.8808,
         "story_heat": 0.0
       },
       "category": "official",
@@ -498,7 +498,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-30T18:21:40.002570Z"
+        "scored_at": "2026-09-30T19:24:47.346762Z"
       }
     },
     {
@@ -546,15 +546,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7939,
-      "importance": 0.7939,
-      "importance_score": 0.7939,
+      "score": 0.7913,
+      "importance": 0.7913,
+      "importance_score": 0.7913,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.82,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9792,
+        "recency": 0.9652,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -580,89 +580,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-30T18:21:40.002570Z"
-      }
-    },
-    {
-      "story_id": "story_ff8d2de99148",
-      "title": "OpenAI 发布 GPT-6.1 Sol，强化智能体编码与 computer use / GPT-6.1 Sol is here.",
-      "url": "https://x.com/OpenAIDevs/status/2104993035507712318",
-      "primary_url": "https://x.com/OpenAIDevs/status/2104993035507712318",
-      "source": "X：OpenAI Developers (@OpenAIDevs)",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "8859df6f78438bde7105c2c14049abda894caf11",
-          "title": "OpenAI 发布 GPT-6.1 Sol，强化智能体编码与 computer use / GPT-6.1 Sol is here.",
-          "title_zh": "OpenAI 发布 GPT-6.1 Sol，强化智能体编码与 computer use",
-          "title_en": "GPT-6.1 Sol is here.",
-          "title_original": "GPT-6.1 Sol is here.",
-          "summary": "OpenAI 发布 GPT-6.1 Sol，升级了智能体编码和 computer use 能力，接近 Astra 性能。缓存输入定价为标准输入价格的 95% 折扣，模型面向复杂重构、深度代码库调查和跨应用长时间运行的智能体。",
-          "recommend_reason_zh": null,
-          "url": "https://x.com/OpenAIDevs/status/2104993035507712318",
-          "source": "X：OpenAI Developers (@OpenAIDevs)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-29T17:53:43Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "X：OpenAI Developers (@OpenAIDevs)"
-      ],
-      "items": [
-        {
-          "id": "8859df6f78438bde7105c2c14049abda894caf11",
-          "title": "OpenAI 发布 GPT-6.1 Sol，强化智能体编码与 computer use / GPT-6.1 Sol is here.",
-          "title_zh": "OpenAI 发布 GPT-6.1 Sol，强化智能体编码与 computer use",
-          "title_en": "GPT-6.1 Sol is here.",
-          "title_original": "GPT-6.1 Sol is here.",
-          "summary": "OpenAI 发布 GPT-6.1 Sol，升级了智能体编码和 computer use 能力，接近 Astra 性能。缓存输入定价为标准输入价格的 95% 折扣，模型面向复杂重构、深度代码库调查和跨应用长时间运行的智能体。",
-          "recommend_reason_zh": null,
-          "url": "https://x.com/OpenAIDevs/status/2104993035507712318",
-          "source": "X：OpenAI Developers (@OpenAIDevs)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-29T17:53:43Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7785,
-      "importance": 0.7785,
-      "importance_score": 0.7785,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.77,
-        "source_tier": 1.0,
-        "ai_relevance": 1.0,
-        "recency": 0.7082,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-29T17:53:43Z",
-      "latest_at": "2026-09-29T17:53:43Z",
-      "primary_item": {
-        "id": "8859df6f78438bde7105c2c14049abda894caf11",
-        "title": "OpenAI 发布 GPT-6.1 Sol，强化智能体编码与 computer use / GPT-6.1 Sol is here.",
-        "title_zh": "OpenAI 发布 GPT-6.1 Sol，强化智能体编码与 computer use",
-        "title_en": "GPT-6.1 Sol is here.",
-        "title_original": "GPT-6.1 Sol is here.",
-        "summary": "OpenAI 发布 GPT-6.1 Sol，升级了智能体编码和 computer use 能力，接近 Astra 性能。缓存输入定价为标准输入价格的 95% 折扣，模型面向复杂重构、深度代码库调查和跨应用长时间运行的智能体。",
-        "recommend_reason_zh": null,
-        "url": "https://x.com/OpenAIDevs/status/2104993035507712318",
-        "source": "X：OpenAI Developers (@OpenAIDevs)",
-        "source_name": "AI HOT"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-09-30T18:21:40.002570Z"
+        "scored_at": "2026-09-30T19:24:47.346762Z"
       }
     },
     {
@@ -739,15 +657,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7768,
-      "importance": 0.7768,
-      "importance_score": 0.7768,
+      "score": 0.7749,
+      "importance": 0.7749,
+      "importance_score": 0.7749,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.83,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7287,
+        "recency": 0.7183,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -774,7 +692,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-30T18:21:40.002570Z"
+        "scored_at": "2026-09-30T19:24:47.346762Z"
       }
     },
     {
@@ -822,15 +740,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7755,
-      "importance": 0.7755,
-      "importance_score": 0.7755,
+      "score": 0.7734,
+      "importance": 0.7734,
+      "importance_score": 0.7734,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.87,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7939,
+        "recency": 0.7825,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -856,7 +774,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-30T18:21:40.002570Z"
+        "scored_at": "2026-09-30T19:24:47.346762Z"
       }
     },
     {
@@ -904,15 +822,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8332,
-      "importance": 0.8332,
-      "importance_score": 0.8332,
+      "score": 0.8308,
+      "importance": 0.8308,
+      "importance_score": 0.8308,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.94,
+        "recency": 0.9265,
         "story_heat": 0.0
       },
       "category": "official",
@@ -939,7 +857,89 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-30T18:21:40.002570Z"
+        "scored_at": "2026-09-30T19:24:47.346762Z"
+      }
+    },
+    {
+      "story_id": "story_4b81e15f89c2",
+      "title": "OpenAI 发布 GPT-6.1 Sol，主打智能体编码与跨应用工作流 / Give your coding agents more room to work.",
+      "url": "https://x.com/OpenAIDevs/status/2105073621144338660",
+      "primary_url": "https://x.com/OpenAIDevs/status/2105073621144338660",
+      "source": "X：OpenAI Developers (@OpenAIDevs)",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "22322fba0cf42ea683557a9b807e006a3ecf75bd",
+          "title": "OpenAI 发布 GPT-6.1 Sol，主打智能体编码与跨应用工作流 / Give your coding agents more room to work.",
+          "title_zh": "OpenAI 发布 GPT-6.1 Sol，主打智能体编码与跨应用工作流",
+          "title_en": "Give your coding agents more room to work.",
+          "title_original": "Give your coding agents more room to work.",
+          "summary": "OpenAI 发布 GPT-6.1 Sol，称其在编码、computer use 和跨应用工作流中表现强劲，价格低于 GPT-6 Astra。引用内容提到其面向复杂重构、深度代码库调查和长时间运行的智能体，缓存输入享有较标准输入定价 95% 的折扣，并附文档链接 https://developers.openai.com/api/docs/models/gpt-6.1-sol。",
+          "recommend_reason_zh": null,
+          "url": "https://x.com/OpenAIDevs/status/2105073621144338660",
+          "source": "X：OpenAI Developers (@OpenAIDevs)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-29T23:13:56Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "X：OpenAI Developers (@OpenAIDevs)"
+      ],
+      "items": [
+        {
+          "id": "22322fba0cf42ea683557a9b807e006a3ecf75bd",
+          "title": "OpenAI 发布 GPT-6.1 Sol，主打智能体编码与跨应用工作流 / Give your coding agents more room to work.",
+          "title_zh": "OpenAI 发布 GPT-6.1 Sol，主打智能体编码与跨应用工作流",
+          "title_en": "Give your coding agents more room to work.",
+          "title_original": "Give your coding agents more room to work.",
+          "summary": "OpenAI 发布 GPT-6.1 Sol，称其在编码、computer use 和跨应用工作流中表现强劲，价格低于 GPT-6 Astra。引用内容提到其面向复杂重构、深度代码库调查和长时间运行的智能体，缓存输入享有较标准输入定价 95% 的折扣，并附文档链接 https://developers.openai.com/api/docs/models/gpt-6.1-sol。",
+          "recommend_reason_zh": null,
+          "url": "https://x.com/OpenAIDevs/status/2105073621144338660",
+          "source": "X：OpenAI Developers (@OpenAIDevs)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-29T23:13:56Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7657,
+      "importance": 0.7657,
+      "importance_score": 0.7657,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.7,
+        "source_tier": 1.0,
+        "ai_relevance": 1.0,
+        "recency": 0.754,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-29T23:13:56Z",
+      "latest_at": "2026-09-29T23:13:56Z",
+      "primary_item": {
+        "id": "22322fba0cf42ea683557a9b807e006a3ecf75bd",
+        "title": "OpenAI 发布 GPT-6.1 Sol，主打智能体编码与跨应用工作流 / Give your coding agents more room to work.",
+        "title_zh": "OpenAI 发布 GPT-6.1 Sol，主打智能体编码与跨应用工作流",
+        "title_en": "Give your coding agents more room to work.",
+        "title_original": "Give your coding agents more room to work.",
+        "summary": "OpenAI 发布 GPT-6.1 Sol，称其在编码、computer use 和跨应用工作流中表现强劲，价格低于 GPT-6 Astra。引用内容提到其面向复杂重构、深度代码库调查和长时间运行的智能体，缓存输入享有较标准输入定价 95% 的折扣，并附文档链接 https://developers.openai.com/api/docs/models/gpt-6.1-sol。",
+        "recommend_reason_zh": null,
+        "url": "https://x.com/OpenAIDevs/status/2105073621144338660",
+        "source": "X：OpenAI Developers (@OpenAIDevs)",
+        "source_name": "AI HOT"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-09-30T19:24:47.346762Z"
       }
     },
     {
@@ -987,15 +987,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7668,
-      "importance": 0.7668,
-      "importance_score": 0.7668,
+      "score": 0.7644,
+      "importance": 0.7644,
+      "importance_score": 0.7644,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.76,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.929,
+        "recency": 0.9157,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1021,30 +1021,30 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-30T18:21:40.002570Z"
+        "scored_at": "2026-09-30T19:24:47.346762Z"
       }
     },
     {
-      "story_id": "story_54fc7d41042a",
-      "title": "Arena 开放限时测试 Claude Sonnet 5.5，Direct Mode 可用 48 小时 / Exciting update: you can now test Claude Sonnet 5.5 by @AnthropicAI directly in Arena for a limited time! Head to Direct Mode, and select...",
-      "url": "https://x.com/arena/status/2105311267619848419",
-      "primary_url": "https://x.com/arena/status/2105311267619848419",
+      "story_id": "story_9b1abafadbef",
+      "title": "GPT-6.1 Sol (Max) 以 1759 分登上 Code Arena: WebDev 第 3 名 / Exciting news: GPT-6.1 Sol (Max) by @OpenAI just landed the Code Arena: WebDev at #3 with 1759 pts, and at a blended $8/MToken it reshape...",
+      "url": "https://x.com/arena/status/2105367591174995999",
+      "primary_url": "https://x.com/arena/status/2105367591174995999",
       "source": "X：Arena (@arena)",
       "source_name": "AI HOT",
       "sources": [
         {
-          "id": "44ca452aff182d1cdbe3a0aab9f7d6df05bac414",
-          "title": "Arena 开放限时测试 Claude Sonnet 5.5，Direct Mode 可用 48 小时 / Exciting update: you can now test Claude Sonnet 5.5 by @AnthropicAI directly in Arena for a limited time! Head to Direct Mode, and select...",
-          "title_zh": "Arena 开放限时测试 Claude Sonnet 5.5，Direct Mode 可用 48 小时",
-          "title_en": "Exciting update: you can now test Claude Sonnet 5.5 by @AnthropicAI directly in Arena for a limited time! Head to Direct Mode, and select...",
-          "title_original": "Exciting update: you can now test Claude Sonnet 5.5 by @AnthropicAI directly in Arena for a limited time! Head to Direct Mode, and select...",
-          "summary": "Arena 宣布在 Direct Mode 限时开放 Anthropic 的 Claude Sonnet 5.5（High），截止 10 月 2 日上午 8 点（太平洋时间），之后仍可在 Battle 和 Agent Mode 使用。引用内容称 Claude Sonnet 5.5 是 Claude 5.5 系列第二款模型，比 Sonnet 5 快 30% 以上，多数工作成本最高降低 30%。",
+          "id": "653fb530daf9fb8b6ac7537900007685ee1c748c",
+          "title": "GPT-6.1 Sol (Max) 以 1759 分登上 Code Arena: WebDev 第 3 名 / Exciting news: GPT-6.1 Sol (Max) by @OpenAI just landed the Code Arena: WebDev at #3 with 1759 pts, and at a blended $8/MToken it reshape...",
+          "title_zh": "GPT-6.1 Sol (Max) 以 1759 分登上 Code Arena: WebDev 第 3 名",
+          "title_en": "Exciting news: GPT-6.1 Sol (Max) by @OpenAI just landed the Code Arena: WebDev at #3 with 1759 pts, and at a blended $8/MToken it reshape...",
+          "title_original": "Exciting news: GPT-6.1 Sol (Max) by @OpenAI just landed the Code Arena: WebDev at #3 with 1759 pts, and at a blended $8/MToken it reshape...",
+          "summary": "Arena 评测榜单显示，OpenAI 的 GPT-6.1 Sol (Max) 以 1759 分位列 Code Arena: WebDev 第 3 名，混合价格为 $8/MToken。相比 GPT-6 Sol (Max) 同价提升 70 分，排名上升 4 位，且在 Consumer Product 等所有类目均有提升。",
           "recommend_reason_zh": null,
-          "url": "https://x.com/arena/status/2105311267619848419",
+          "url": "https://x.com/arena/status/2105367591174995999",
           "source": "X：Arena (@arena)",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-09-30T14:58:15Z"
+          "published_at": "2026-09-30T18:42:04Z"
         }
       ],
       "source_count": 1,
@@ -1053,31 +1053,31 @@
       ],
       "items": [
         {
-          "id": "44ca452aff182d1cdbe3a0aab9f7d6df05bac414",
-          "title": "Arena 开放限时测试 Claude Sonnet 5.5，Direct Mode 可用 48 小时 / Exciting update: you can now test Claude Sonnet 5.5 by @AnthropicAI directly in Arena for a limited time! Head to Direct Mode, and select...",
-          "title_zh": "Arena 开放限时测试 Claude Sonnet 5.5，Direct Mode 可用 48 小时",
-          "title_en": "Exciting update: you can now test Claude Sonnet 5.5 by @AnthropicAI directly in Arena for a limited time! Head to Direct Mode, and select...",
-          "title_original": "Exciting update: you can now test Claude Sonnet 5.5 by @AnthropicAI directly in Arena for a limited time! Head to Direct Mode, and select...",
-          "summary": "Arena 宣布在 Direct Mode 限时开放 Anthropic 的 Claude Sonnet 5.5（High），截止 10 月 2 日上午 8 点（太平洋时间），之后仍可在 Battle 和 Agent Mode 使用。引用内容称 Claude Sonnet 5.5 是 Claude 5.5 系列第二款模型，比 Sonnet 5 快 30% 以上，多数工作成本最高降低 30%。",
+          "id": "653fb530daf9fb8b6ac7537900007685ee1c748c",
+          "title": "GPT-6.1 Sol (Max) 以 1759 分登上 Code Arena: WebDev 第 3 名 / Exciting news: GPT-6.1 Sol (Max) by @OpenAI just landed the Code Arena: WebDev at #3 with 1759 pts, and at a blended $8/MToken it reshape...",
+          "title_zh": "GPT-6.1 Sol (Max) 以 1759 分登上 Code Arena: WebDev 第 3 名",
+          "title_en": "Exciting news: GPT-6.1 Sol (Max) by @OpenAI just landed the Code Arena: WebDev at #3 with 1759 pts, and at a blended $8/MToken it reshape...",
+          "title_original": "Exciting news: GPT-6.1 Sol (Max) by @OpenAI just landed the Code Arena: WebDev at #3 with 1759 pts, and at a blended $8/MToken it reshape...",
+          "summary": "Arena 评测榜单显示，OpenAI 的 GPT-6.1 Sol (Max) 以 1759 分位列 Code Arena: WebDev 第 3 名，混合价格为 $8/MToken。相比 GPT-6 Sol (Max) 同价提升 70 分，排名上升 4 位，且在 Consumer Product 等所有类目均有提升。",
           "recommend_reason_zh": null,
-          "url": "https://x.com/arena/status/2105311267619848419",
+          "url": "https://x.com/arena/status/2105367591174995999",
           "source": "X：Arena (@arena)",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-09-30T14:58:15Z"
+          "published_at": "2026-09-30T18:42:04Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7574,
-      "importance": 0.7574,
-      "importance_score": 0.7574,
+      "score": 0.7614,
+      "importance": 0.7614,
+      "importance_score": 0.7614,
       "importance_label": "行业动态",
       "importance_breakdown": {
-        "editorial": 0.71,
+        "editorial": 0.7,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9601,
+        "recency": 0.9987,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1085,17 +1085,17 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-09-30T14:58:15Z",
-      "latest_at": "2026-09-30T14:58:15Z",
+      "earliest_at": "2026-09-30T18:42:04Z",
+      "latest_at": "2026-09-30T18:42:04Z",
       "primary_item": {
-        "id": "44ca452aff182d1cdbe3a0aab9f7d6df05bac414",
-        "title": "Arena 开放限时测试 Claude Sonnet 5.5，Direct Mode 可用 48 小时 / Exciting update: you can now test Claude Sonnet 5.5 by @AnthropicAI directly in Arena for a limited time! Head to Direct Mode, and select...",
-        "title_zh": "Arena 开放限时测试 Claude Sonnet 5.5，Direct Mode 可用 48 小时",
-        "title_en": "Exciting update: you can now test Claude Sonnet 5.5 by @AnthropicAI directly in Arena for a limited time! Head to Direct Mode, and select...",
-        "title_original": "Exciting update: you can now test Claude Sonnet 5.5 by @AnthropicAI directly in Arena for a limited time! Head to Direct Mode, and select...",
-        "summary": "Arena 宣布在 Direct Mode 限时开放 Anthropic 的 Claude Sonnet 5.5（High），截止 10 月 2 日上午 8 点（太平洋时间），之后仍可在 Battle 和 Agent Mode 使用。引用内容称 Claude Sonnet 5.5 是 Claude 5.5 系列第二款模型，比 Sonnet 5 快 30% 以上，多数工作成本最高降低 30%。",
+        "id": "653fb530daf9fb8b6ac7537900007685ee1c748c",
+        "title": "GPT-6.1 Sol (Max) 以 1759 分登上 Code Arena: WebDev 第 3 名 / Exciting news: GPT-6.1 Sol (Max) by @OpenAI just landed the Code Arena: WebDev at #3 with 1759 pts, and at a blended $8/MToken it reshape...",
+        "title_zh": "GPT-6.1 Sol (Max) 以 1759 分登上 Code Arena: WebDev 第 3 名",
+        "title_en": "Exciting news: GPT-6.1 Sol (Max) by @OpenAI just landed the Code Arena: WebDev at #3 with 1759 pts, and at a blended $8/MToken it reshape...",
+        "title_original": "Exciting news: GPT-6.1 Sol (Max) by @OpenAI just landed the Code Arena: WebDev at #3 with 1759 pts, and at a blended $8/MToken it reshape...",
+        "summary": "Arena 评测榜单显示，OpenAI 的 GPT-6.1 Sol (Max) 以 1759 分位列 Code Arena: WebDev 第 3 名，混合价格为 $8/MToken。相比 GPT-6 Sol (Max) 同价提升 70 分，排名上升 4 位，且在 Consumer Product 等所有类目均有提升。",
         "recommend_reason_zh": null,
-        "url": "https://x.com/arena/status/2105311267619848419",
+        "url": "https://x.com/arena/status/2105367591174995999",
         "source": "X：Arena (@arena)",
         "source_name": "AI HOT"
       },
@@ -1103,7 +1103,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-30T18:21:40.002570Z"
+        "scored_at": "2026-09-30T19:24:47.346762Z"
       }
     },
     {
@@ -1151,15 +1151,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7542,
-      "importance": 0.7542,
-      "importance_score": 0.7542,
+      "score": 0.7522,
+      "importance": 0.7522,
+      "importance_score": 0.7522,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.8,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7925,
+        "recency": 0.7811,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1185,7 +1185,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-30T18:21:40.002570Z"
+        "scored_at": "2026-09-30T19:24:47.346762Z"
       }
     },
     {
@@ -1233,21 +1233,20 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7517,
-      "importance": 0.7517,
-      "importance_score": 0.7517,
+      "score": 0.7491,
+      "importance": 0.7491,
+      "importance_score": 0.7491,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.67,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9947,
+        "recency": 0.9805,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-09-30T17:25:30Z",
       "latest_at": "2026-09-30T17:25:30Z",
@@ -1267,7 +1266,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-30T18:21:40.002570Z"
+        "scored_at": "2026-09-30T19:24:47.346762Z"
       }
     },
     {
@@ -1315,15 +1314,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.748,
-      "importance": 0.748,
-      "importance_score": 0.748,
+      "score": 0.7457,
+      "importance": 0.7457,
+      "importance_score": 0.7457,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8909,
+        "recency": 0.8781,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1348,7 +1347,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-30T18:21:40.002570Z"
+        "scored_at": "2026-09-30T19:24:47.346762Z"
       }
     },
     {
@@ -1396,15 +1395,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7451,
-      "importance": 0.7451,
-      "importance_score": 0.7451,
+      "score": 0.7433,
+      "importance": 0.7433,
+      "importance_score": 0.7433,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.81,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7252,
+        "recency": 0.7148,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1429,7 +1428,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-30T18:21:40.002570Z"
+        "scored_at": "2026-09-30T19:24:47.346762Z"
       }
     },
     {
@@ -1477,15 +1476,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7435,
-      "importance": 0.7435,
-      "importance_score": 0.7435,
+      "score": 0.7415,
+      "importance": 0.7415,
+      "importance_score": 0.7415,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.79,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7492,
+        "recency": 0.7385,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1510,7 +1509,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-30T18:21:40.002570Z"
+        "scored_at": "2026-09-30T19:24:47.346762Z"
       }
     },
     {
@@ -1558,15 +1557,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7394,
-      "importance": 0.7394,
-      "importance_score": 0.7394,
+      "score": 0.737,
+      "importance": 0.737,
+      "importance_score": 0.737,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.67,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9266,
+        "recency": 0.9133,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1591,7 +1590,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-30T18:21:40.002570Z"
+        "scored_at": "2026-09-30T19:24:47.346762Z"
       }
     },
     {
@@ -1639,15 +1638,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7388,
-      "importance": 0.7388,
-      "importance_score": 0.7388,
+      "score": 0.7368,
+      "importance": 0.7368,
+      "importance_score": 0.7368,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.76,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7735,
+        "recency": 0.7624,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1672,7 +1671,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-30T18:21:40.002570Z"
+        "scored_at": "2026-09-30T19:24:47.346762Z"
       }
     }
   ]
