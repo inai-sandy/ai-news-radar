@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-30T02:47:23.031825Z",
+  "generated_at": "2026-09-30T03:47:24.637779Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -163,15 +163,15 @@
       ],
       "item_count": 5,
       "duplicate_count": 5,
-      "score": 0.9206,
-      "importance": 0.9206,
-      "importance_score": 0.9206,
+      "score": 0.9184,
+      "importance": 0.9184,
+      "importance_score": 0.9184,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.81,
         "source_tier": 1.0,
         "ai_relevance": 1.0,
-        "recency": 0.8758,
+        "recency": 0.8632,
         "story_heat": 1.0
       },
       "category": "official",
@@ -198,7 +198,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-30T03:32:02.595671Z"
+        "scored_at": "2026-09-30T03:57:19.083414Z"
       }
     },
     {
@@ -304,15 +304,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.8712,
-      "importance": 0.8712,
-      "importance_score": 0.8712,
+      "score": 0.8692,
+      "importance": 0.8692,
+      "importance_score": 0.8692,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.7847,
+        "recency": 0.7734,
         "story_heat": 0.5
       },
       "category": "official",
@@ -340,7 +340,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-30T03:32:02.595671Z"
+        "scored_at": "2026-09-30T03:57:19.083414Z"
       }
     },
     {
@@ -388,15 +388,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8364,
-      "importance": 0.8364,
-      "importance_score": 0.8364,
+      "score": 0.8341,
+      "importance": 0.8341,
+      "importance_score": 0.8341,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.8687,
+        "recency": 0.8562,
         "story_heat": 0.0
       },
       "category": "official",
@@ -423,7 +423,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-30T03:32:02.595671Z"
+        "scored_at": "2026-09-30T03:57:19.083414Z"
       }
     },
     {
@@ -471,15 +471,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8357,
-      "importance": 0.8357,
-      "importance_score": 0.8357,
+      "score": 0.8336,
+      "importance": 0.8336,
+      "importance_score": 0.8336,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.99,
-        "recency": 0.8208,
+        "recency": 0.8091,
         "story_heat": 0.0
       },
       "category": "official",
@@ -506,7 +506,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-30T03:32:02.595671Z"
+        "scored_at": "2026-09-30T03:57:19.083414Z"
       }
     },
     {
@@ -546,7 +546,7 @@
           "published_at": "2026-09-29T11:32:02.125000Z"
         },
         {
-          "id": "1e0c9edcb68e7c10898e7cb2a8d68f322ee6f806",
+          "id": "21b2e8bce375c925ab34d59be5c66d3cad06deb7",
           "title": "IMDEA Networks 论文：九款对话式 AI 服务向第三方泄露对话标题、提示词与截图 / A Privacy Analysis of Web and Mobile Conversational AI Agents [pdf]",
           "title_zh": "IMDEA Networks 论文：九款对话式 AI 服务向第三方泄露对话标题、提示词与截图",
           "title_en": "A Privacy Analysis of Web and Mobile Conversational AI Agents [pdf]",
@@ -554,9 +554,9 @@
           "summary": null,
           "recommend_reason_zh": null,
           "url": "https://jorgegarciaherrero.com/wp-content/interactivos/20260916-Prompt-like-a-butterfly-sting-like-a-tracker-(clean).pdf",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
           "published_at": "2026-09-29T09:03:41Z"
         },
         {
@@ -576,7 +576,7 @@
       ],
       "source_count": 4,
       "source_names": [
-        "Hacker News (黑客新闻)",
+        "Hacker News · 24h最热",
         "Hacker News：AI 热帖",
         "hackernews",
         "jorgegarciaherrero.com"
@@ -611,7 +611,7 @@
           "published_at": "2026-09-29T11:32:02.125000Z"
         },
         {
-          "id": "1e0c9edcb68e7c10898e7cb2a8d68f322ee6f806",
+          "id": "21b2e8bce375c925ab34d59be5c66d3cad06deb7",
           "title": "IMDEA Networks 论文：九款对话式 AI 服务向第三方泄露对话标题、提示词与截图 / A Privacy Analysis of Web and Mobile Conversational AI Agents [pdf]",
           "title_zh": "IMDEA Networks 论文：九款对话式 AI 服务向第三方泄露对话标题、提示词与截图",
           "title_en": "A Privacy Analysis of Web and Mobile Conversational AI Agents [pdf]",
@@ -619,9 +619,9 @@
           "summary": null,
           "recommend_reason_zh": null,
           "url": "https://jorgegarciaherrero.com/wp-content/interactivos/20260916-Prompt-like-a-butterfly-sting-like-a-tracker-(clean).pdf",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
           "published_at": "2026-09-29T09:03:41Z"
         },
         {
@@ -641,15 +641,15 @@
       ],
       "item_count": 4,
       "duplicate_count": 4,
-      "score": 0.8169,
-      "importance": 0.8169,
-      "importance_score": 0.8169,
+      "score": 0.8149,
+      "importance": 0.8149,
+      "importance_score": 0.8149,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.77,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7741,
+        "recency": 0.763,
         "story_heat": 0.75
       },
       "category": "multi_source",
@@ -676,7 +676,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-30T03:32:02.595671Z"
+        "scored_at": "2026-09-30T03:57:19.083414Z"
       }
     },
     {
@@ -724,15 +724,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8101,
-      "importance": 0.8101,
-      "importance_score": 0.8101,
+      "score": 0.8075,
+      "importance": 0.8075,
+      "importance_score": 0.8075,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.87,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9859,
+        "recency": 0.9718,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -758,7 +758,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-30T03:32:02.595671Z"
+        "scored_at": "2026-09-30T03:57:19.083414Z"
       }
     },
     {
@@ -806,15 +806,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8093,
-      "importance": 0.8093,
-      "importance_score": 0.8093,
+      "score": 0.807,
+      "importance": 0.807,
+      "importance_score": 0.807,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.77,
         "source_tier": 1.0,
         "ai_relevance": 1.0,
-        "recency": 0.8795,
+        "recency": 0.8669,
         "story_heat": 0.0
       },
       "category": "official",
@@ -840,7 +840,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-30T03:32:02.595671Z"
+        "scored_at": "2026-09-30T03:57:19.083414Z"
       }
     },
     {
@@ -917,15 +917,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.8085,
-      "importance": 0.8085,
-      "importance_score": 0.8085,
+      "score": 0.8062,
+      "importance": 0.8062,
+      "importance_score": 0.8062,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.83,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.905,
+        "recency": 0.892,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -952,7 +952,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-30T03:32:02.595671Z"
+        "scored_at": "2026-09-30T03:57:19.083414Z"
       }
     },
     {
@@ -1000,15 +1000,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8329,
-      "importance": 0.8329,
-      "importance_score": 0.8329,
+      "score": 0.8308,
+      "importance": 0.8308,
+      "importance_score": 0.8308,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.8497,
+        "recency": 0.8375,
         "story_heat": 0.0
       },
       "category": "official",
@@ -1035,7 +1035,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-30T03:32:02.595671Z"
+        "scored_at": "2026-09-30T03:57:19.083414Z"
       }
     },
     {
@@ -1083,15 +1083,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8301,
-      "importance": 0.8301,
-      "importance_score": 0.8301,
+      "score": 0.8278,
+      "importance": 0.8278,
+      "importance_score": 0.8278,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.9,
-        "recency": 0.8894,
+        "recency": 0.8767,
         "story_heat": 0.0
       },
       "category": "official",
@@ -1118,7 +1118,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-30T03:32:02.595671Z"
+        "scored_at": "2026-09-30T03:57:19.083414Z"
       }
     },
     {
@@ -1166,15 +1166,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7887,
-      "importance": 0.7887,
-      "importance_score": 0.7887,
+      "score": 0.7862,
+      "importance": 0.7862,
+      "importance_score": 0.7862,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.8,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9841,
+        "recency": 0.97,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1200,7 +1200,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-30T03:32:02.595671Z"
+        "scored_at": "2026-09-30T03:57:19.083414Z"
       }
     },
     {
@@ -1248,15 +1248,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8132,
-      "importance": 0.8132,
-      "importance_score": 0.8132,
+      "score": 0.8112,
+      "importance": 0.8112,
+      "importance_score": 0.8112,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.7847,
+        "recency": 0.7734,
         "story_heat": 0.0
       },
       "category": "official",
@@ -1283,7 +1283,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-30T03:32:02.595671Z"
+        "scored_at": "2026-09-30T03:57:19.083414Z"
       }
     },
     {
@@ -1331,15 +1331,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7831,
-      "importance": 0.7831,
-      "importance_score": 0.7831,
+      "score": 0.7809,
+      "importance": 0.7809,
+      "importance_score": 0.7809,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.86,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8528,
+        "recency": 0.8406,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1365,7 +1365,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-30T03:32:02.595671Z"
+        "scored_at": "2026-09-30T03:57:19.083414Z"
       }
     },
     {
@@ -1413,15 +1413,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7831,
-      "importance": 0.7831,
-      "importance_score": 0.7831,
+      "score": 0.7809,
+      "importance": 0.7809,
+      "importance_score": 0.7809,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.87,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8359,
+        "recency": 0.8239,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1447,7 +1447,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-30T03:32:02.595671Z"
+        "scored_at": "2026-09-30T03:57:19.083414Z"
       }
     },
     {
@@ -1495,15 +1495,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7827,
-      "importance": 0.7827,
-      "importance_score": 0.7827,
+      "score": 0.7804,
+      "importance": 0.7804,
+      "importance_score": 0.7804,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.84,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.884,
+        "recency": 0.8713,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1529,7 +1529,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-30T03:32:02.595671Z"
+        "scored_at": "2026-09-30T03:57:19.083414Z"
       }
     },
     {
@@ -1577,15 +1577,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7767,
-      "importance": 0.7767,
-      "importance_score": 0.7767,
+      "score": 0.7744,
+      "importance": 0.7744,
+      "importance_score": 0.7744,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.81,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9006,
+        "recency": 0.8877,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1611,7 +1611,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-30T03:32:02.595671Z"
+        "scored_at": "2026-09-30T03:57:19.083414Z"
       }
     },
     {
@@ -1659,15 +1659,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7761,
-      "importance": 0.7761,
-      "importance_score": 0.7761,
+      "score": 0.7737,
+      "importance": 0.7737,
+      "importance_score": 0.7737,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.79,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9304,
+        "recency": 0.9171,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1693,7 +1693,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-30T03:32:02.595671Z"
+        "scored_at": "2026-09-30T03:57:19.083414Z"
       }
     },
     {
@@ -1741,15 +1741,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7734,
-      "importance": 0.7734,
-      "importance_score": 0.7734,
+      "score": 0.7711,
+      "importance": 0.7711,
+      "importance_score": 0.7711,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.8,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8988,
+        "recency": 0.8859,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1775,7 +1775,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-30T03:32:02.595671Z"
+        "scored_at": "2026-09-30T03:57:19.083414Z"
       }
     },
     {
@@ -1823,15 +1823,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.801,
-      "importance": 0.801,
-      "importance_score": 0.801,
+      "score": 0.7985,
+      "importance": 0.7985,
+      "importance_score": 0.7985,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.7,
         "source_tier": 1.0,
         "ai_relevance": 1.0,
-        "recency": 0.9499,
+        "recency": 0.9363,
         "story_heat": 0.0
       },
       "category": "official",
@@ -1857,30 +1857,30 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-30T03:32:02.595671Z"
+        "scored_at": "2026-09-30T03:57:19.083414Z"
       }
     },
     {
-      "story_id": "story_536cbee790d7",
-      "title": "谷歌向免费用户开放Gemini Skills服务，Gems功能将于11月完成整合",
-      "url": "https://www.aibase.com/news/31428",
-      "primary_url": "https://www.aibase.com/news/31428",
+      "story_id": "story_48fd42e6646b",
+      "title": "Anthropic 披露与 SpaceX 签署高达 845 亿美元巨额算力协议",
+      "url": "https://www.aibase.com/news/31430",
+      "primary_url": "https://www.aibase.com/news/31430",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "a8b2a1d9da5a860d642dc928989c3b93e0ca4830",
-          "title": "谷歌向免费用户开放Gemini Skills服务，Gems功能将于11月完成整合",
-          "title_zh": "谷歌向免费用户开放Gemini Skills服务，Gems功能将于11月完成整合",
+          "id": "43ad85e63502e35ede2b6ff3be78d5567dd2ab17",
+          "title": "Anthropic 披露与 SpaceX 签署高达 845 亿美元巨额算力协议",
+          "title_zh": "Anthropic 披露与 SpaceX 签署高达 845 亿美元巨额算力协议",
           "title_en": null,
-          "title_original": "谷歌向免费用户开放Gemini Skills服务，Gems功能将于11月完成整合",
+          "title_original": "Anthropic 披露与 SpaceX 签署高达 845 亿美元巨额算力协议",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/31428",
+          "url": "https://www.aibase.com/news/31430",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-09-30T02:47:23.031825Z"
+          "published_at": "2026-09-30T03:47:24.637779Z"
         }
       ],
       "source_count": 1,
@@ -1889,18 +1889,18 @@
       ],
       "items": [
         {
-          "id": "a8b2a1d9da5a860d642dc928989c3b93e0ca4830",
-          "title": "谷歌向免费用户开放Gemini Skills服务，Gems功能将于11月完成整合",
-          "title_zh": "谷歌向免费用户开放Gemini Skills服务，Gems功能将于11月完成整合",
+          "id": "43ad85e63502e35ede2b6ff3be78d5567dd2ab17",
+          "title": "Anthropic 披露与 SpaceX 签署高达 845 亿美元巨额算力协议",
+          "title_zh": "Anthropic 披露与 SpaceX 签署高达 845 亿美元巨额算力协议",
           "title_en": null,
-          "title_original": "谷歌向免费用户开放Gemini Skills服务，Gems功能将于11月完成整合",
+          "title_original": "Anthropic 披露与 SpaceX 签署高达 845 亿美元巨额算力协议",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/31428",
+          "url": "https://www.aibase.com/news/31430",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-09-30T02:47:23.031825Z"
+          "published_at": "2026-09-30T03:47:24.637779Z"
         }
       ],
       "item_count": 1,
@@ -1921,17 +1921,17 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-09-30T02:47:23.031825Z",
-      "latest_at": "2026-09-30T02:47:23.031825Z",
+      "earliest_at": "2026-09-30T03:47:24.637779Z",
+      "latest_at": "2026-09-30T03:47:24.637779Z",
       "primary_item": {
-        "id": "a8b2a1d9da5a860d642dc928989c3b93e0ca4830",
-        "title": "谷歌向免费用户开放Gemini Skills服务，Gems功能将于11月完成整合",
-        "title_zh": "谷歌向免费用户开放Gemini Skills服务，Gems功能将于11月完成整合",
+        "id": "43ad85e63502e35ede2b6ff3be78d5567dd2ab17",
+        "title": "Anthropic 披露与 SpaceX 签署高达 845 亿美元巨额算力协议",
+        "title_zh": "Anthropic 披露与 SpaceX 签署高达 845 亿美元巨额算力协议",
         "title_en": null,
-        "title_original": "谷歌向免费用户开放Gemini Skills服务，Gems功能将于11月完成整合",
+        "title_original": "Anthropic 披露与 SpaceX 签署高达 845 亿美元巨额算力协议",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/31428",
+        "url": "https://www.aibase.com/news/31430",
         "source": "AIbase",
         "source_name": "AIbase"
       },
@@ -1939,7 +1939,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-30T03:32:02.595671Z"
+        "scored_at": "2026-09-30T03:57:19.083414Z"
       }
     }
   ]
