@@ -1,29 +1,29 @@
 {
-  "generated_at": "2026-09-29T23:47:23.273884Z",
+  "generated_at": "2026-09-30T00:47:23.882522Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
     {
-      "story_id": "story_83e2e2180846",
+      "story_id": "story_3b1c935eea0a",
       "title": "OpenAI 发布常驻智能体 dots，由 GPT-6 Astra 驱动 / Introducing dots",
       "url": "https://openai.com/index/introducing-dots",
       "primary_url": "https://openai.com/index/introducing-dots",
-      "source": "OpenAI News",
-      "source_name": "Official AI Updates",
+      "source": "OpenAI：官网动态（RSS · 排除企业/客户案例）",
+      "source_name": "AI HOT",
       "sources": [
         {
-          "id": "2b11a94daa76944049a411e5efd75358f397d796",
+          "id": "058bb9eef35cccc5cd53e7c8748b2fa91d574ab2",
           "title": "OpenAI 发布常驻智能体 dots，由 GPT-6 Astra 驱动 / Introducing dots",
           "title_zh": "OpenAI 发布常驻智能体 dots，由 GPT-6 Astra 驱动",
           "title_en": "Introducing dots",
           "title_original": "Introducing dots",
-          "summary": null,
+          "summary": "OpenAI 发布名为 dots 的常驻智能体，由 GPT-6 Astra 驱动，拥有自己的云计算机，可 24/7 持续为用户工作，并通过插件生态连接超过 4,000 款应用。",
           "recommend_reason_zh": null,
           "url": "https://openai.com/index/introducing-dots",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-09-29T00:00:00Z"
+          "source": "OpenAI：官网动态（RSS · 排除企业/客户案例）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-29T17:36:13.593000Z"
         },
         {
           "id": "f84e3ce5af42d460f2987d8ecc41d2679d49b005",
@@ -69,8 +69,8 @@
         },
         {
           "id": "f5800fcde9d1657f69a08421b120dda90d3395db",
-          "title": "OpenAI 发布常驻智能体 dots，由 GPT-6 Astra 驱动 / Dots: Always-on agents",
-          "title_zh": "OpenAI 发布常驻智能体 dots，由 GPT-6 Astra 驱动",
+          "title": "OpenAI 发布常驻智能体 dots，由 GPT‑6 Astra 驱动 / Dots: Always-on agents",
+          "title_zh": "OpenAI 发布常驻智能体 dots，由 GPT‑6 Astra 驱动",
           "title_en": "Dots: Always-on agents",
           "title_original": "Dots: Always-on agents",
           "summary": null,
@@ -86,24 +86,23 @@
       "source_names": [
         "Hacker News",
         "Hacker News (黑客新闻)",
-        "OpenAI News",
         "OpenAI：官网动态（RSS · 排除企业/客户案例）",
         "openai.com"
       ],
       "items": [
         {
-          "id": "2b11a94daa76944049a411e5efd75358f397d796",
+          "id": "058bb9eef35cccc5cd53e7c8748b2fa91d574ab2",
           "title": "OpenAI 发布常驻智能体 dots，由 GPT-6 Astra 驱动 / Introducing dots",
           "title_zh": "OpenAI 发布常驻智能体 dots，由 GPT-6 Astra 驱动",
           "title_en": "Introducing dots",
           "title_original": "Introducing dots",
-          "summary": null,
+          "summary": "OpenAI 发布名为 dots 的常驻智能体，由 GPT-6 Astra 驱动，拥有自己的云计算机，可 24/7 持续为用户工作，并通过插件生态连接超过 4,000 款应用。",
           "recommend_reason_zh": null,
           "url": "https://openai.com/index/introducing-dots",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-09-29T00:00:00Z"
+          "source": "OpenAI：官网动态（RSS · 排除企业/客户案例）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-29T17:36:13.593000Z"
         },
         {
           "id": "f84e3ce5af42d460f2987d8ecc41d2679d49b005",
@@ -149,8 +148,8 @@
         },
         {
           "id": "f5800fcde9d1657f69a08421b120dda90d3395db",
-          "title": "OpenAI 发布常驻智能体 dots，由 GPT-6 Astra 驱动 / Dots: Always-on agents",
-          "title_zh": "OpenAI 发布常驻智能体 dots，由 GPT-6 Astra 驱动",
+          "title": "OpenAI 发布常驻智能体 dots，由 GPT‑6 Astra 驱动 / Dots: Always-on agents",
+          "title_zh": "OpenAI 发布常驻智能体 dots，由 GPT‑6 Astra 驱动",
           "title_en": "Dots: Always-on agents",
           "title_original": "Dots: Always-on agents",
           "summary": null,
@@ -164,48 +163,47 @@
       ],
       "item_count": 5,
       "duplicate_count": 5,
-      "score": 0.8997,
-      "importance": 0.8997,
-      "importance_score": 0.8997,
+      "score": 0.9253,
+      "importance": 0.9253,
+      "importance_score": 0.9253,
       "importance_label": "官方更新",
       "importance_breakdown": {
-        "editorial": 0.9,
+        "editorial": 0.81,
         "source_tier": 1.0,
-        "ai_relevance": 0.91,
-        "recency": 0.7093,
+        "ai_relevance": 1.0,
+        "recency": 0.9014,
         "story_heat": 1.0
       },
       "category": "official",
       "reasons": [
-        "official_source",
         "multi_source",
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-09-29T00:00:00Z",
+      "earliest_at": "2026-09-29T17:07:57Z",
       "latest_at": "2026-09-29T17:36:13.593000Z",
       "primary_item": {
-        "id": "2b11a94daa76944049a411e5efd75358f397d796",
+        "id": "058bb9eef35cccc5cd53e7c8748b2fa91d574ab2",
         "title": "OpenAI 发布常驻智能体 dots，由 GPT-6 Astra 驱动 / Introducing dots",
         "title_zh": "OpenAI 发布常驻智能体 dots，由 GPT-6 Astra 驱动",
         "title_en": "Introducing dots",
         "title_original": "Introducing dots",
-        "summary": null,
+        "summary": "OpenAI 发布名为 dots 的常驻智能体，由 GPT-6 Astra 驱动，拥有自己的云计算机，可 24/7 持续为用户工作，并通过插件生态连接超过 4,000 款应用。",
         "recommend_reason_zh": null,
         "url": "https://openai.com/index/introducing-dots",
-        "source": "OpenAI News",
-        "source_name": "Official AI Updates"
+        "source": "OpenAI：官网动态（RSS · 排除企业/客户案例）",
+        "source_name": "AI HOT"
       },
       "persona_id": "pragmatic",
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-30T00:31:26.405885Z"
+        "scored_at": "2026-09-30T01:31:41.749053Z"
       }
     },
     {
       "story_id": "story_632fc8ebf5dc",
-      "title": "OpenAI 发布 GPT-6.1 Sol，以约五分之一价格接近 GPT-6 Astra 智能 / Introducing GPT-6.1 Sol",
+      "title": "OpenAI 发布 GPT-6.1 Sol，以约五分之一价格接近 GPT-6 Astra 的智能水平 / Introducing GPT-6.1 Sol",
       "url": "https://openai.com/index/introducing-gpt-6-1-sol",
       "primary_url": "https://openai.com/index/introducing-gpt-6-1-sol",
       "source": "OpenAI News",
@@ -213,8 +211,8 @@
       "sources": [
         {
           "id": "79e8ec51dfc696a0fb49d867a814731799bbc3d6",
-          "title": "OpenAI 发布 GPT-6.1 Sol，以约五分之一价格接近 GPT-6 Astra 智能 / Introducing GPT-6.1 Sol",
-          "title_zh": "OpenAI 发布 GPT-6.1 Sol，以约五分之一价格接近 GPT-6 Astra 智能",
+          "title": "OpenAI 发布 GPT-6.1 Sol，以约五分之一价格接近 GPT-6 Astra 的智能水平 / Introducing GPT-6.1 Sol",
+          "title_zh": "OpenAI 发布 GPT-6.1 Sol，以约五分之一价格接近 GPT-6 Astra 的智能水平",
           "title_en": "Introducing GPT-6.1 Sol",
           "title_original": "Introducing GPT-6.1 Sol",
           "summary": null,
@@ -241,8 +239,8 @@
         },
         {
           "id": "38962e864ad8b46571505649290c8d777c5cbc56",
-          "title": "OpenAI 发布 GPT-6.1 Sol，以约五分之一价格接近 GPT-6 Astra 智能 / GPT 6.1 Sol: Near-Astra intelligence for a fifth of the price",
-          "title_zh": "OpenAI 发布 GPT-6.1 Sol，以约五分之一价格接近 GPT-6 Astra 智能",
+          "title": "OpenAI 发布 GPT-6.1 Sol，以约五分之一价格接近 GPT-6 Astra 的智能水平 / GPT 6.1 Sol: Near-Astra intelligence for a fifth of the price",
+          "title_zh": "OpenAI 发布 GPT-6.1 Sol，以约五分之一价格接近 GPT-6 Astra 的智能水平",
           "title_en": "GPT 6.1 Sol: Near-Astra intelligence for a fifth of the price",
           "title_original": "GPT 6.1 Sol: Near-Astra intelligence for a fifth of the price",
           "summary": null,
@@ -263,8 +261,8 @@
       "items": [
         {
           "id": "79e8ec51dfc696a0fb49d867a814731799bbc3d6",
-          "title": "OpenAI 发布 GPT-6.1 Sol，以约五分之一价格接近 GPT-6 Astra 智能 / Introducing GPT-6.1 Sol",
-          "title_zh": "OpenAI 发布 GPT-6.1 Sol，以约五分之一价格接近 GPT-6 Astra 智能",
+          "title": "OpenAI 发布 GPT-6.1 Sol，以约五分之一价格接近 GPT-6 Astra 的智能水平 / Introducing GPT-6.1 Sol",
+          "title_zh": "OpenAI 发布 GPT-6.1 Sol，以约五分之一价格接近 GPT-6 Astra 的智能水平",
           "title_en": "Introducing GPT-6.1 Sol",
           "title_original": "Introducing GPT-6.1 Sol",
           "summary": null,
@@ -291,8 +289,8 @@
         },
         {
           "id": "38962e864ad8b46571505649290c8d777c5cbc56",
-          "title": "OpenAI 发布 GPT-6.1 Sol，以约五分之一价格接近 GPT-6 Astra 智能 / GPT 6.1 Sol: Near-Astra intelligence for a fifth of the price",
-          "title_zh": "OpenAI 发布 GPT-6.1 Sol，以约五分之一价格接近 GPT-6 Astra 智能",
+          "title": "OpenAI 发布 GPT-6.1 Sol，以约五分之一价格接近 GPT-6 Astra 的智能水平 / GPT 6.1 Sol: Near-Astra intelligence for a fifth of the price",
+          "title_zh": "OpenAI 发布 GPT-6.1 Sol，以约五分之一价格接近 GPT-6 Astra 的智能水平",
           "title_en": "GPT 6.1 Sol: Near-Astra intelligence for a fifth of the price",
           "title_original": "GPT 6.1 Sol: Near-Astra intelligence for a fifth of the price",
           "summary": null,
@@ -306,15 +304,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.8775,
-      "importance": 0.8775,
-      "importance_score": 0.8775,
+      "score": 0.8754,
+      "importance": 0.8754,
+      "importance_score": 0.8754,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.8194,
+        "recency": 0.8077,
         "story_heat": 0.5
       },
       "category": "official",
@@ -328,8 +326,8 @@
       "latest_at": "2026-09-29T17:20:30.075000Z",
       "primary_item": {
         "id": "79e8ec51dfc696a0fb49d867a814731799bbc3d6",
-        "title": "OpenAI 发布 GPT-6.1 Sol，以约五分之一价格接近 GPT-6 Astra 智能 / Introducing GPT-6.1 Sol",
-        "title_zh": "OpenAI 发布 GPT-6.1 Sol，以约五分之一价格接近 GPT-6 Astra 智能",
+        "title": "OpenAI 发布 GPT-6.1 Sol，以约五分之一价格接近 GPT-6 Astra 的智能水平 / Introducing GPT-6.1 Sol",
+        "title_zh": "OpenAI 发布 GPT-6.1 Sol，以约五分之一价格接近 GPT-6 Astra 的智能水平",
         "title_en": "Introducing GPT-6.1 Sol",
         "title_original": "Introducing GPT-6.1 Sol",
         "summary": null,
@@ -342,7 +340,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-30T00:31:26.405885Z"
+        "scored_at": "2026-09-30T01:31:41.749053Z"
       }
     },
     {
@@ -390,15 +388,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8433,
-      "importance": 0.8433,
-      "importance_score": 0.8433,
+      "score": 0.8409,
+      "importance": 0.8409,
+      "importance_score": 0.8409,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.9071,
+        "recency": 0.8941,
         "story_heat": 0.0
       },
       "category": "official",
@@ -425,7 +423,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-30T00:31:26.405885Z"
+        "scored_at": "2026-09-30T01:31:41.749053Z"
       }
     },
     {
@@ -473,15 +471,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8423,
-      "importance": 0.8423,
-      "importance_score": 0.8423,
+      "score": 0.8401,
+      "importance": 0.8401,
+      "importance_score": 0.8401,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.99,
-        "recency": 0.8572,
+        "recency": 0.8449,
         "story_heat": 0.0
       },
       "category": "official",
@@ -508,119 +506,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-30T00:31:26.405885Z"
-      }
-    },
-    {
-      "story_id": "story_4958fb2aa897",
-      "title": "Codex CLI 0.159.0",
-      "url": "https://developers.openai.com/codex/changelog",
-      "primary_url": "https://developers.openai.com/codex/changelog",
-      "source": "OpenAI Codex Changelog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "b2f30ebca1100ecf7996f9a2b276474ed5f7b8b4",
-          "title": "Codex CLI 0.159.0",
-          "title_zh": null,
-          "title_en": "Codex CLI 0.159.0",
-          "title_original": "Codex CLI 0.159.0",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://developers.openai.com/codex/changelog",
-          "source": "OpenAI Codex Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-09-29T00:00:00Z"
-        },
-        {
-          "id": "5bc6b4f0a1b2259d86f0573f0a2631a1d10c619f",
-          "title": "Codex CLI 0.159.1",
-          "title_zh": null,
-          "title_en": "Codex CLI 0.159.1",
-          "title_original": "Codex CLI 0.159.1",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://developers.openai.com/codex/changelog",
-          "source": "OpenAI Codex Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-09-29T00:00:00Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "OpenAI Codex Changelog"
-      ],
-      "items": [
-        {
-          "id": "b2f30ebca1100ecf7996f9a2b276474ed5f7b8b4",
-          "title": "Codex CLI 0.159.0",
-          "title_zh": null,
-          "title_en": "Codex CLI 0.159.0",
-          "title_original": "Codex CLI 0.159.0",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://developers.openai.com/codex/changelog",
-          "source": "OpenAI Codex Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-09-29T00:00:00Z"
-        },
-        {
-          "id": "5bc6b4f0a1b2259d86f0573f0a2631a1d10c619f",
-          "title": "Codex CLI 0.159.1",
-          "title_zh": null,
-          "title_en": "Codex CLI 0.159.1",
-          "title_original": "Codex CLI 0.159.1",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://developers.openai.com/codex/changelog",
-          "source": "OpenAI Codex Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-09-29T00:00:00Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.8387,
-      "importance": 0.8387,
-      "importance_score": 0.8387,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.98,
-        "recency": 0.7093,
-        "story_heat": 0.25
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-29T00:00:00Z",
-      "latest_at": "2026-09-29T00:00:00Z",
-      "primary_item": {
-        "id": "b2f30ebca1100ecf7996f9a2b276474ed5f7b8b4",
-        "title": "Codex CLI 0.159.0",
-        "title_zh": null,
-        "title_en": "Codex CLI 0.159.0",
-        "title_original": "Codex CLI 0.159.0",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://developers.openai.com/codex/changelog",
-        "source": "OpenAI Codex Changelog",
-        "source_name": "Official AI Updates"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-09-30T00:31:26.405885Z"
+        "scored_at": "2026-09-30T01:31:41.749053Z"
       }
     },
     {
@@ -755,15 +641,15 @@
       ],
       "item_count": 4,
       "duplicate_count": 4,
-      "score": 0.8231,
-      "importance": 0.8231,
-      "importance_score": 0.8231,
+      "score": 0.821,
+      "importance": 0.821,
+      "importance_score": 0.821,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.77,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8084,
+        "recency": 0.7968,
         "story_heat": 0.75
       },
       "category": "multi_source",
@@ -790,7 +676,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-30T00:31:26.405885Z"
+        "scored_at": "2026-09-30T01:31:41.749053Z"
       }
     },
     {
@@ -838,15 +724,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8163,
-      "importance": 0.8163,
-      "importance_score": 0.8163,
+      "score": 0.8139,
+      "importance": 0.8139,
+      "importance_score": 0.8139,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.77,
         "source_tier": 1.0,
         "ai_relevance": 1.0,
-        "recency": 0.9184,
+        "recency": 0.9052,
         "story_heat": 0.0
       },
       "category": "official",
@@ -872,7 +758,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-30T00:31:26.405885Z"
+        "scored_at": "2026-09-30T01:31:41.749053Z"
       }
     },
     {
@@ -920,15 +806,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8397,
-      "importance": 0.8397,
-      "importance_score": 0.8397,
+      "score": 0.8374,
+      "importance": 0.8374,
+      "importance_score": 0.8374,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.8873,
+        "recency": 0.8746,
         "story_heat": 0.0
       },
       "category": "official",
@@ -955,7 +841,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-30T00:31:26.405885Z"
+        "scored_at": "2026-09-30T01:31:41.749053Z"
       }
     },
     {
@@ -1003,15 +889,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8372,
-      "importance": 0.8372,
-      "importance_score": 0.8372,
+      "score": 0.8348,
+      "importance": 0.8348,
+      "importance_score": 0.8348,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.9,
-        "recency": 0.9288,
+        "recency": 0.9155,
         "story_heat": 0.0
       },
       "category": "official",
@@ -1038,7 +924,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-30T00:31:26.405885Z"
+        "scored_at": "2026-09-30T01:31:41.749053Z"
       }
     },
     {
@@ -1086,15 +972,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7899,
-      "importance": 0.7899,
-      "importance_score": 0.7899,
+      "score": 0.7876,
+      "importance": 0.7876,
+      "importance_score": 0.7876,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.86,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8906,
+        "recency": 0.8778,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1120,89 +1006,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-30T00:31:26.405885Z"
-      }
-    },
-    {
-      "story_id": "story_9701b68169f6",
-      "title": "Claude Sonnet 5.5 (High) 以 1699 分登 Code Arena: WebDev 第 4 名 / Real-world results are in for Claude Sonnet 5.5 (High) by @AnthropicAI. It just landed #4 in Code Arena: WebDev with 1699 pts, and has re...",
-      "url": "https://x.com/arena/status/2104998408616558940",
-      "primary_url": "https://x.com/arena/status/2104998408616558940",
-      "source": "X：Arena (@arena)",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "a95da7bb5da8e6ada76d39a83574968ad4231c1d",
-          "title": "Claude Sonnet 5.5 (High) 以 1699 分登 Code Arena: WebDev 第 4 名 / Real-world results are in for Claude Sonnet 5.5 (High) by @AnthropicAI. It just landed #4 in Code Arena: WebDev with 1699 pts, and has re...",
-          "title_zh": "Claude Sonnet 5.5 (High) 以 1699 分登 Code Arena: WebDev 第 4 名",
-          "title_en": "Real-world results are in for Claude Sonnet 5.5 (High) by @AnthropicAI. It just landed #4 in Code Arena: WebDev with 1699 pts, and has re...",
-          "title_original": "Real-world results are in for Claude Sonnet 5.5 (High) by @AnthropicAI. It just landed #4 in Code Arena: WebDev with 1699 pts, and has re...",
-          "summary": "Arena 公布 Claude Sonnet 5.5 (High) 在 Code Arena: WebDev 以 1699 分排第 4，混合价格约 $8 per Mtoken，比第 2、3 名便宜 80%。相较 Sonnet 5 (High) 的 1540 分提升 159 分，Reference-Based Design、Simulations、Gaming 均从第 30 多名升至第 4。",
-          "recommend_reason_zh": null,
-          "url": "https://x.com/arena/status/2104998408616558940",
-          "source": "X：Arena (@arena)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-29T18:15:04Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "X：Arena (@arena)"
-      ],
-      "items": [
-        {
-          "id": "a95da7bb5da8e6ada76d39a83574968ad4231c1d",
-          "title": "Claude Sonnet 5.5 (High) 以 1699 分登 Code Arena: WebDev 第 4 名 / Real-world results are in for Claude Sonnet 5.5 (High) by @AnthropicAI. It just landed #4 in Code Arena: WebDev with 1699 pts, and has re...",
-          "title_zh": "Claude Sonnet 5.5 (High) 以 1699 分登 Code Arena: WebDev 第 4 名",
-          "title_en": "Real-world results are in for Claude Sonnet 5.5 (High) by @AnthropicAI. It just landed #4 in Code Arena: WebDev with 1699 pts, and has re...",
-          "title_original": "Real-world results are in for Claude Sonnet 5.5 (High) by @AnthropicAI. It just landed #4 in Code Arena: WebDev with 1699 pts, and has re...",
-          "summary": "Arena 公布 Claude Sonnet 5.5 (High) 在 Code Arena: WebDev 以 1699 分排第 4，混合价格约 $8 per Mtoken，比第 2、3 名便宜 80%。相较 Sonnet 5 (High) 的 1540 分提升 159 分，Reference-Based Design、Simulations、Gaming 均从第 30 多名升至第 4。",
-          "recommend_reason_zh": null,
-          "url": "https://x.com/arena/status/2104998408616558940",
-          "source": "X：Arena (@arena)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-29T18:15:04Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7898,
-      "importance": 0.7898,
-      "importance_score": 0.7898,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.84,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.9231,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-29T18:15:04Z",
-      "latest_at": "2026-09-29T18:15:04Z",
-      "primary_item": {
-        "id": "a95da7bb5da8e6ada76d39a83574968ad4231c1d",
-        "title": "Claude Sonnet 5.5 (High) 以 1699 分登 Code Arena: WebDev 第 4 名 / Real-world results are in for Claude Sonnet 5.5 (High) by @AnthropicAI. It just landed #4 in Code Arena: WebDev with 1699 pts, and has re...",
-        "title_zh": "Claude Sonnet 5.5 (High) 以 1699 分登 Code Arena: WebDev 第 4 名",
-        "title_en": "Real-world results are in for Claude Sonnet 5.5 (High) by @AnthropicAI. It just landed #4 in Code Arena: WebDev with 1699 pts, and has re...",
-        "title_original": "Real-world results are in for Claude Sonnet 5.5 (High) by @AnthropicAI. It just landed #4 in Code Arena: WebDev with 1699 pts, and has re...",
-        "summary": "Arena 公布 Claude Sonnet 5.5 (High) 在 Code Arena: WebDev 以 1699 分排第 4，混合价格约 $8 per Mtoken，比第 2、3 名便宜 80%。相较 Sonnet 5 (High) 的 1540 分提升 159 分，Reference-Based Design、Simulations、Gaming 均从第 30 多名升至第 4。",
-        "recommend_reason_zh": null,
-        "url": "https://x.com/arena/status/2104998408616558940",
-        "source": "X：Arena (@arena)",
-        "source_name": "AI HOT"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-09-30T00:31:26.405885Z"
+        "scored_at": "2026-09-30T01:31:41.749053Z"
       }
     },
     {
@@ -1250,15 +1054,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7897,
-      "importance": 0.7897,
-      "importance_score": 0.7897,
+      "score": 0.7875,
+      "importance": 0.7875,
+      "importance_score": 0.7875,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.87,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8729,
+        "recency": 0.8604,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1284,63 +1088,63 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-30T00:31:26.405885Z"
+        "scored_at": "2026-09-30T01:31:41.749053Z"
       }
     },
     {
-      "story_id": "story_62f99abb249e",
-      "title": "GPT-6.1 Sol in Codex and ChatGPT Work",
-      "url": "https://developers.openai.com/codex/changelog",
-      "primary_url": "https://developers.openai.com/codex/changelog",
-      "source": "OpenAI Codex Changelog",
+      "story_id": "story_4fbbd781192d",
+      "title": "OpenAI DevDay 2026 发布 GPT-6.1 Sol、常驻智能体 Dots 等 20 余项更新 / DevDay 2026 Recap",
+      "url": "https://openai.com/index/devday-2026-recap",
+      "primary_url": "https://openai.com/index/devday-2026-recap",
+      "source": "OpenAI News",
       "source_name": "Official AI Updates",
       "sources": [
         {
-          "id": "bdee79c5ff9d2937470ed9cda46f778182be2200",
-          "title": "GPT-6.1 Sol in Codex and ChatGPT Work",
-          "title_zh": null,
-          "title_en": "GPT-6.1 Sol in Codex and ChatGPT Work",
-          "title_original": "GPT-6.1 Sol in Codex and ChatGPT Work",
+          "id": "fe865f29c90443fb346190f239a0c160b5988efa",
+          "title": "OpenAI DevDay 2026 发布 GPT-6.1 Sol、常驻智能体 Dots 等 20 余项更新 / DevDay 2026 Recap",
+          "title_zh": "OpenAI DevDay 2026 发布 GPT-6.1 Sol、常驻智能体 Dots 等 20 余项更新",
+          "title_en": "DevDay 2026 Recap",
+          "title_original": "DevDay 2026 Recap",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://developers.openai.com/codex/changelog",
-          "source": "OpenAI Codex Changelog",
+          "url": "https://openai.com/index/devday-2026-recap",
+          "source": "OpenAI News",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-09-29T00:00:00Z"
+          "published_at": "2026-09-29T10:00:00Z"
         }
       ],
       "source_count": 1,
       "source_names": [
-        "OpenAI Codex Changelog"
+        "OpenAI News"
       ],
       "items": [
         {
-          "id": "bdee79c5ff9d2937470ed9cda46f778182be2200",
-          "title": "GPT-6.1 Sol in Codex and ChatGPT Work",
-          "title_zh": null,
-          "title_en": "GPT-6.1 Sol in Codex and ChatGPT Work",
-          "title_original": "GPT-6.1 Sol in Codex and ChatGPT Work",
+          "id": "fe865f29c90443fb346190f239a0c160b5988efa",
+          "title": "OpenAI DevDay 2026 发布 GPT-6.1 Sol、常驻智能体 Dots 等 20 余项更新 / DevDay 2026 Recap",
+          "title_zh": "OpenAI DevDay 2026 发布 GPT-6.1 Sol、常驻智能体 Dots 等 20 余项更新",
+          "title_en": "DevDay 2026 Recap",
+          "title_original": "DevDay 2026 Recap",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://developers.openai.com/codex/changelog",
-          "source": "OpenAI Codex Changelog",
+          "url": "https://openai.com/index/devday-2026-recap",
+          "source": "OpenAI News",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-09-29T00:00:00Z"
+          "published_at": "2026-09-29T10:00:00Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8177,
-      "importance": 0.8177,
-      "importance_score": 0.8177,
+      "score": 0.8174,
+      "importance": 0.8174,
+      "importance_score": 0.8174,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
-        "ai_relevance": 1.0,
-        "recency": 0.7093,
+        "ai_relevance": 0.91,
+        "recency": 0.8077,
         "story_heat": 0.0
       },
       "category": "official",
@@ -1349,25 +1153,107 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-09-29T00:00:00Z",
-      "latest_at": "2026-09-29T00:00:00Z",
+      "earliest_at": "2026-09-29T10:00:00Z",
+      "latest_at": "2026-09-29T10:00:00Z",
       "primary_item": {
-        "id": "bdee79c5ff9d2937470ed9cda46f778182be2200",
-        "title": "GPT-6.1 Sol in Codex and ChatGPT Work",
-        "title_zh": null,
-        "title_en": "GPT-6.1 Sol in Codex and ChatGPT Work",
-        "title_original": "GPT-6.1 Sol in Codex and ChatGPT Work",
+        "id": "fe865f29c90443fb346190f239a0c160b5988efa",
+        "title": "OpenAI DevDay 2026 发布 GPT-6.1 Sol、常驻智能体 Dots 等 20 余项更新 / DevDay 2026 Recap",
+        "title_zh": "OpenAI DevDay 2026 发布 GPT-6.1 Sol、常驻智能体 Dots 等 20 余项更新",
+        "title_en": "DevDay 2026 Recap",
+        "title_original": "DevDay 2026 Recap",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://developers.openai.com/codex/changelog",
-        "source": "OpenAI Codex Changelog",
+        "url": "https://openai.com/index/devday-2026-recap",
+        "source": "OpenAI News",
         "source_name": "Official AI Updates"
       },
       "persona_id": "pragmatic",
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-30T00:31:26.405885Z"
+        "scored_at": "2026-09-30T01:31:41.749053Z"
+      }
+    },
+    {
+      "story_id": "story_9701b68169f6",
+      "title": "Claude Sonnet 5.5 (High) 以 1699 分登 Code Arena: WebDev 第 4 名 / Real-world results are in for Claude Sonnet 5.5 (High) by @AnthropicAI. It just landed #4 in Code Arena: WebDev with 1699 pts, and has re...",
+      "url": "https://x.com/arena/status/2104998408616558940",
+      "primary_url": "https://x.com/arena/status/2104998408616558940",
+      "source": "X：Arena (@arena)",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "a95da7bb5da8e6ada76d39a83574968ad4231c1d",
+          "title": "Claude Sonnet 5.5 (High) 以 1699 分登 Code Arena: WebDev 第 4 名 / Real-world results are in for Claude Sonnet 5.5 (High) by @AnthropicAI. It just landed #4 in Code Arena: WebDev with 1699 pts, and has re...",
+          "title_zh": "Claude Sonnet 5.5 (High) 以 1699 分登 Code Arena: WebDev 第 4 名",
+          "title_en": "Real-world results are in for Claude Sonnet 5.5 (High) by @AnthropicAI. It just landed #4 in Code Arena: WebDev with 1699 pts, and has re...",
+          "title_original": "Real-world results are in for Claude Sonnet 5.5 (High) by @AnthropicAI. It just landed #4 in Code Arena: WebDev with 1699 pts, and has re...",
+          "summary": "Arena 公布 Claude Sonnet 5.5 (High) 在 Code Arena: WebDev 以 1699 分排第 4，混合价格约 $8 per Mtoken，比第 2、3 名便宜 80%。相较 Sonnet 5 (High) 的 1540 分提升 159 分，Reference-Based Design、Simulations、Gaming 均从第 30 多名升至第 4。",
+          "recommend_reason_zh": null,
+          "url": "https://x.com/arena/status/2104998408616558940",
+          "source": "X：Arena (@arena)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-29T18:15:04Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "X：Arena (@arena)"
+      ],
+      "items": [
+        {
+          "id": "a95da7bb5da8e6ada76d39a83574968ad4231c1d",
+          "title": "Claude Sonnet 5.5 (High) 以 1699 分登 Code Arena: WebDev 第 4 名 / Real-world results are in for Claude Sonnet 5.5 (High) by @AnthropicAI. It just landed #4 in Code Arena: WebDev with 1699 pts, and has re...",
+          "title_zh": "Claude Sonnet 5.5 (High) 以 1699 分登 Code Arena: WebDev 第 4 名",
+          "title_en": "Real-world results are in for Claude Sonnet 5.5 (High) by @AnthropicAI. It just landed #4 in Code Arena: WebDev with 1699 pts, and has re...",
+          "title_original": "Real-world results are in for Claude Sonnet 5.5 (High) by @AnthropicAI. It just landed #4 in Code Arena: WebDev with 1699 pts, and has re...",
+          "summary": "Arena 公布 Claude Sonnet 5.5 (High) 在 Code Arena: WebDev 以 1699 分排第 4，混合价格约 $8 per Mtoken，比第 2、3 名便宜 80%。相较 Sonnet 5 (High) 的 1540 分提升 159 分，Reference-Based Design、Simulations、Gaming 均从第 30 多名升至第 4。",
+          "recommend_reason_zh": null,
+          "url": "https://x.com/arena/status/2104998408616558940",
+          "source": "X：Arena (@arena)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-29T18:15:04Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7874,
+      "importance": 0.7874,
+      "importance_score": 0.7874,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.84,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9099,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-29T18:15:04Z",
+      "latest_at": "2026-09-29T18:15:04Z",
+      "primary_item": {
+        "id": "a95da7bb5da8e6ada76d39a83574968ad4231c1d",
+        "title": "Claude Sonnet 5.5 (High) 以 1699 分登 Code Arena: WebDev 第 4 名 / Real-world results are in for Claude Sonnet 5.5 (High) by @AnthropicAI. It just landed #4 in Code Arena: WebDev with 1699 pts, and has re...",
+        "title_zh": "Claude Sonnet 5.5 (High) 以 1699 分登 Code Arena: WebDev 第 4 名",
+        "title_en": "Real-world results are in for Claude Sonnet 5.5 (High) by @AnthropicAI. It just landed #4 in Code Arena: WebDev with 1699 pts, and has re...",
+        "title_original": "Real-world results are in for Claude Sonnet 5.5 (High) by @AnthropicAI. It just landed #4 in Code Arena: WebDev with 1699 pts, and has re...",
+        "summary": "Arena 公布 Claude Sonnet 5.5 (High) 在 Code Arena: WebDev 以 1699 分排第 4，混合价格约 $8 per Mtoken，比第 2、3 名便宜 80%。相较 Sonnet 5 (High) 的 1540 分提升 159 分，Reference-Based Design、Simulations、Gaming 均从第 30 多名升至第 4。",
+        "recommend_reason_zh": null,
+        "url": "https://x.com/arena/status/2104998408616558940",
+        "source": "X：Arena (@arena)",
+        "source_name": "AI HOT"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-09-30T01:31:41.749053Z"
       }
     },
     {
@@ -1415,15 +1301,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7839,
-      "importance": 0.7839,
-      "importance_score": 0.7839,
+      "score": 0.7815,
+      "importance": 0.7815,
+      "importance_score": 0.7815,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.81,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9405,
+        "recency": 0.927,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1449,7 +1335,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-30T00:31:26.405885Z"
+        "scored_at": "2026-09-30T01:31:41.749053Z"
       }
     },
     {
@@ -1497,15 +1383,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7835,
-      "importance": 0.7835,
-      "importance_score": 0.7835,
+      "score": 0.781,
+      "importance": 0.781,
+      "importance_score": 0.781,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.79,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9716,
+        "recency": 0.9577,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1531,7 +1417,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-30T00:31:26.405885Z"
+        "scored_at": "2026-09-30T01:31:41.749053Z"
       }
     },
     {
@@ -1579,15 +1465,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7806,
-      "importance": 0.7806,
-      "importance_score": 0.7806,
+      "score": 0.7781,
+      "importance": 0.7781,
+      "importance_score": 0.7781,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.8,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9386,
+        "recency": 0.9252,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1613,7 +1499,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-30T00:31:26.405885Z"
+        "scored_at": "2026-09-30T01:31:41.749053Z"
       }
     },
     {
@@ -1661,15 +1547,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8086,
-      "importance": 0.8086,
-      "importance_score": 0.8086,
+      "score": 0.806,
+      "importance": 0.806,
+      "importance_score": 0.806,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.7,
         "source_tier": 1.0,
         "ai_relevance": 1.0,
-        "recency": 0.992,
+        "recency": 0.9778,
         "story_heat": 0.0
       },
       "category": "official",
@@ -1695,7 +1581,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-30T00:31:26.405885Z"
+        "scored_at": "2026-09-30T01:31:41.749053Z"
       }
     },
     {
@@ -1743,15 +1629,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8324,
-      "importance": 0.8324,
-      "importance_score": 0.8324,
+      "score": 0.83,
+      "importance": 0.83,
+      "importance_score": 0.83,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.9354,
+        "recency": 0.922,
         "story_heat": 0.0
       },
       "category": "official",
@@ -1778,7 +1664,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-30T00:31:26.405885Z"
+        "scored_at": "2026-09-30T01:31:41.749053Z"
       }
     },
     {
@@ -1826,15 +1712,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7701,
-      "importance": 0.7701,
-      "importance_score": 0.7701,
+      "score": 0.7677,
+      "importance": 0.7677,
+      "importance_score": 0.7677,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.77,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9303,
+        "recency": 0.917,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1860,7 +1746,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-30T00:31:26.405885Z"
+        "scored_at": "2026-09-30T01:31:41.749053Z"
       }
     },
     {
@@ -1908,15 +1794,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7662,
-      "importance": 0.7662,
-      "importance_score": 0.7662,
+      "score": 0.7639,
+      "importance": 0.7639,
+      "importance_score": 0.7639,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.78,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8922,
+        "recency": 0.8794,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1942,7 +1828,89 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-30T00:31:26.405885Z"
+        "scored_at": "2026-09-30T01:31:41.749053Z"
+      }
+    },
+    {
+      "story_id": "story_98244353a42e",
+      "title": "ChatGPT 订阅额度现可在 60 多个合作方产品中直接使用 / You can now use your ChatGPT subscription directly in over 60 partners products. No little rules, you can just use all your included usag...",
+      "url": "https://x.com/thsottiaux/status/2104991529416999243",
+      "primary_url": "https://x.com/thsottiaux/status/2104991529416999243",
+      "source": "X：Tibo (@thsottiaux)",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "e8c26d7f027469255a76697dd93c2a00b5f3bf47",
+          "title": "ChatGPT 订阅额度现可在 60 多个合作方产品中直接使用 / You can now use your ChatGPT subscription directly in over 60 partners products. No little rules, you can just use all your included usag...",
+          "title_zh": "ChatGPT 订阅额度现可在 60 多个合作方产品中直接使用",
+          "title_en": "You can now use your ChatGPT subscription directly in over 60 partners products. No little rules, you can just use all your included usag...",
+          "title_original": "You can now use your ChatGPT subscription directly in over 60 partners products. No little rules, you can just use all your included usag...",
+          "summary": "ChatGPT 订阅现在可直接在超过 60 个合作方产品中使用，包含的用量可直接用于 Devin、OpenCode、Lovable 等产品。用户通过 Sign in with ChatGPT 登录即可使用。",
+          "recommend_reason_zh": null,
+          "url": "https://x.com/thsottiaux/status/2104991529416999243",
+          "source": "X：Tibo (@thsottiaux)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-29T17:47:44Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "X：Tibo (@thsottiaux)"
+      ],
+      "items": [
+        {
+          "id": "e8c26d7f027469255a76697dd93c2a00b5f3bf47",
+          "title": "ChatGPT 订阅额度现可在 60 多个合作方产品中直接使用 / You can now use your ChatGPT subscription directly in over 60 partners products. No little rules, you can just use all your included usag...",
+          "title_zh": "ChatGPT 订阅额度现可在 60 多个合作方产品中直接使用",
+          "title_en": "You can now use your ChatGPT subscription directly in over 60 partners products. No little rules, you can just use all your included usag...",
+          "title_original": "You can now use your ChatGPT subscription directly in over 60 partners products. No little rules, you can just use all your included usag...",
+          "summary": "ChatGPT 订阅现在可直接在超过 60 个合作方产品中使用，包含的用量可直接用于 Devin、OpenCode、Lovable 等产品。用户通过 Sign in with ChatGPT 登录即可使用。",
+          "recommend_reason_zh": null,
+          "url": "https://x.com/thsottiaux/status/2104991529416999243",
+          "source": "X：Tibo (@thsottiaux)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-29T17:47:44Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7593,
+      "importance": 0.7593,
+      "importance_score": 0.7593,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.75,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9039,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-29T17:47:44Z",
+      "latest_at": "2026-09-29T17:47:44Z",
+      "primary_item": {
+        "id": "e8c26d7f027469255a76697dd93c2a00b5f3bf47",
+        "title": "ChatGPT 订阅额度现可在 60 多个合作方产品中直接使用 / You can now use your ChatGPT subscription directly in over 60 partners products. No little rules, you can just use all your included usag...",
+        "title_zh": "ChatGPT 订阅额度现可在 60 多个合作方产品中直接使用",
+        "title_en": "You can now use your ChatGPT subscription directly in over 60 partners products. No little rules, you can just use all your included usag...",
+        "title_original": "You can now use your ChatGPT subscription directly in over 60 partners products. No little rules, you can just use all your included usag...",
+        "summary": "ChatGPT 订阅现在可直接在超过 60 个合作方产品中使用，包含的用量可直接用于 Devin、OpenCode、Lovable 等产品。用户通过 Sign in with ChatGPT 登录即可使用。",
+        "recommend_reason_zh": null,
+        "url": "https://x.com/thsottiaux/status/2104991529416999243",
+        "source": "X：Tibo (@thsottiaux)",
+        "source_name": "AI HOT"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-09-30T01:31:41.749053Z"
       }
     }
   ]
