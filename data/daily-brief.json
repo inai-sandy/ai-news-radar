@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-01T10:47:18.035028Z",
+  "generated_at": "2026-10-01T11:47:32.848610Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -48,15 +48,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8174,
-      "importance": 0.8174,
-      "importance_score": 0.8174,
+      "score": 0.8154,
+      "importance": 0.8154,
+      "importance_score": 0.8154,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.8081,
+        "recency": 0.7964,
         "story_heat": 0.0
       },
       "category": "official",
@@ -83,7 +83,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-01T10:48:14.256129Z"
+        "scored_at": "2026-10-01T11:48:22.374220Z"
       }
     },
     {
@@ -131,15 +131,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8116,
-      "importance": 0.8116,
-      "importance_score": 0.8116,
+      "score": 0.8095,
+      "importance": 0.8095,
+      "importance_score": 0.8095,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.8201,
+        "recency": 0.8083,
         "story_heat": 0.0
       },
       "category": "official",
@@ -166,7 +166,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-01T10:48:14.256129Z"
+        "scored_at": "2026-10-01T11:48:22.374220Z"
       }
     },
     {
@@ -214,15 +214,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8063,
-      "importance": 0.8063,
-      "importance_score": 0.8063,
+      "score": 0.8044,
+      "importance": 0.8044,
+      "importance_score": 0.8044,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.7463,
+        "recency": 0.7355,
         "story_heat": 0.0
       },
       "category": "official",
@@ -249,7 +249,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-01T10:48:14.256129Z"
+        "scored_at": "2026-10-01T11:48:22.374220Z"
       }
     },
     {
@@ -297,15 +297,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7994,
-      "importance": 0.7994,
-      "importance_score": 0.7994,
+      "score": 0.7974,
+      "importance": 0.7974,
+      "importance_score": 0.7974,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.752,
+        "recency": 0.7412,
         "story_heat": 0.0
       },
       "category": "official",
@@ -332,7 +332,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-01T10:48:14.256129Z"
+        "scored_at": "2026-10-01T11:48:22.374220Z"
       }
     },
     {
@@ -409,15 +409,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7656,
-      "importance": 0.7656,
-      "importance_score": 0.7656,
+      "score": 0.7632,
+      "importance": 0.7632,
+      "importance_score": 0.7632,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.68,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9164,
+        "recency": 0.9032,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -444,7 +444,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-01T10:48:14.256129Z"
+        "scored_at": "2026-10-01T11:48:22.374220Z"
       }
     },
     {
@@ -492,15 +492,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7574,
-      "importance": 0.7574,
-      "importance_score": 0.7574,
+      "score": 0.7552,
+      "importance": 0.7552,
+      "importance_score": 0.7552,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.79,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8265,
+        "recency": 0.8146,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -526,7 +526,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-01T10:48:14.256129Z"
+        "scored_at": "2026-10-01T11:48:22.374220Z"
       }
     },
     {
@@ -574,15 +574,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7564,
-      "importance": 0.7564,
-      "importance_score": 0.7564,
+      "score": 0.7543,
+      "importance": 0.7543,
+      "importance_score": 0.7543,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.79,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8213,
+        "recency": 0.8095,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -608,7 +608,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-01T10:48:14.256129Z"
+        "scored_at": "2026-10-01T11:48:22.374220Z"
       }
     },
     {
@@ -656,15 +656,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7555,
-      "importance": 0.7555,
-      "importance_score": 0.7555,
+      "score": 0.7535,
+      "importance": 0.7535,
+      "importance_score": 0.7535,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.82,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7661,
+        "recency": 0.755,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -690,7 +690,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-01T10:48:14.256129Z"
+        "scored_at": "2026-10-01T11:48:22.374220Z"
       }
     },
     {
@@ -738,15 +738,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7547,
-      "importance": 0.7547,
-      "importance_score": 0.7547,
+      "score": 0.7526,
+      "importance": 0.7526,
+      "importance_score": 0.7526,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.79,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8119,
+        "recency": 0.8002,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -772,7 +772,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-01T10:48:14.256129Z"
+        "scored_at": "2026-10-01T11:48:22.374220Z"
       }
     },
     {
@@ -820,21 +820,20 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7515,
-      "importance": 0.7515,
-      "importance_score": 0.7515,
+      "score": 0.7494,
+      "importance": 0.7494,
+      "importance_score": 0.7494,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.79,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7936,
+        "recency": 0.7822,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-09-30T18:47:01Z",
       "latest_at": "2026-09-30T18:47:01Z",
@@ -854,7 +853,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-01T10:48:14.256129Z"
+        "scored_at": "2026-10-01T11:48:22.374220Z"
       }
     },
     {
@@ -902,15 +901,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.745,
-      "importance": 0.745,
-      "importance_score": 0.745,
+      "score": 0.7425,
+      "importance": 0.7425,
+      "importance_score": 0.7425,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.67,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9577,
+        "recency": 0.9439,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -935,7 +934,88 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-01T10:48:14.256129Z"
+        "scored_at": "2026-10-01T11:48:22.374220Z"
+      }
+    },
+    {
+      "story_id": "story_9db480c23ef4",
+      "title": "Ethan Mollick 谈点与群：智能体自组织为何让管理假设失效 / The Dot and the Swarm",
+      "url": "https://www.oneusefulthing.org/p/the-dot-and-the-swarm",
+      "primary_url": "https://www.oneusefulthing.org/p/the-dot-and-the-swarm",
+      "source": "Ethan Mollick：One Useful Thing（RSS）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "f4d1bb95b4c1c4ef480458a314e5f4cdd932b05f",
+          "title": "Ethan Mollick 谈点与群：智能体自组织为何让管理假设失效 / The Dot and the Swarm",
+          "title_zh": "Ethan Mollick 谈点与群：智能体自组织为何让管理假设失效",
+          "title_en": "The Dot and the Swarm",
+          "title_original": "The Dot and the Swarm",
+          "summary": "Ethan Mollick 承认自己此前认为人类需像经理一样精心设计智能体组织的判断错了，Bitter Lesson 同样适用于组织管理。",
+          "recommend_reason_zh": null,
+          "url": "https://www.oneusefulthing.org/p/the-dot-and-the-swarm",
+          "source": "Ethan Mollick：One Useful Thing（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-01T10:54:12Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Ethan Mollick：One Useful Thing（RSS）"
+      ],
+      "items": [
+        {
+          "id": "f4d1bb95b4c1c4ef480458a314e5f4cdd932b05f",
+          "title": "Ethan Mollick 谈点与群：智能体自组织为何让管理假设失效 / The Dot and the Swarm",
+          "title_zh": "Ethan Mollick 谈点与群：智能体自组织为何让管理假设失效",
+          "title_en": "The Dot and the Swarm",
+          "title_original": "The Dot and the Swarm",
+          "summary": "Ethan Mollick 承认自己此前认为人类需像经理一样精心设计智能体组织的判断错了，Bitter Lesson 同样适用于组织管理。",
+          "recommend_reason_zh": null,
+          "url": "https://www.oneusefulthing.org/p/the-dot-and-the-swarm",
+          "source": "Ethan Mollick：One Useful Thing（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-01T10:54:12Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7413,
+      "importance": 0.7413,
+      "importance_score": 0.7413,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.64,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9872,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-10-01T10:54:12Z",
+      "latest_at": "2026-10-01T10:54:12Z",
+      "primary_item": {
+        "id": "f4d1bb95b4c1c4ef480458a314e5f4cdd932b05f",
+        "title": "Ethan Mollick 谈点与群：智能体自组织为何让管理假设失效 / The Dot and the Swarm",
+        "title_zh": "Ethan Mollick 谈点与群：智能体自组织为何让管理假设失效",
+        "title_en": "The Dot and the Swarm",
+        "title_original": "The Dot and the Swarm",
+        "summary": "Ethan Mollick 承认自己此前认为人类需像经理一样精心设计智能体组织的判断错了，Bitter Lesson 同样适用于组织管理。",
+        "recommend_reason_zh": null,
+        "url": "https://www.oneusefulthing.org/p/the-dot-and-the-swarm",
+        "source": "Ethan Mollick：One Useful Thing（RSS）",
+        "source_name": "AI HOT"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-10-01T11:48:22.374220Z"
       }
     },
     {
@@ -983,15 +1063,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8028,
-      "importance": 0.8028,
-      "importance_score": 0.8028,
+      "score": 0.8008,
+      "importance": 0.8008,
+      "importance_score": 0.8008,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.7713,
+        "recency": 0.7602,
         "story_heat": 0.0
       },
       "category": "official",
@@ -1018,7 +1098,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-01T10:48:14.256129Z"
+        "scored_at": "2026-10-01T11:48:22.374220Z"
       }
     },
     {
@@ -1066,15 +1146,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7304,
-      "importance": 0.7304,
-      "importance_score": 0.7304,
+      "score": 0.7285,
+      "importance": 0.7285,
+      "importance_score": 0.7285,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.76,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7268,
+        "recency": 0.7163,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1099,7 +1179,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-01T10:48:14.256129Z"
+        "scored_at": "2026-10-01T11:48:22.374220Z"
       }
     },
     {
@@ -1147,15 +1227,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7296,
-      "importance": 0.7296,
-      "importance_score": 0.7296,
+      "score": 0.7274,
+      "importance": 0.7274,
+      "importance_score": 0.7274,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.68,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8557,
+        "recency": 0.8434,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1180,7 +1260,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-01T10:48:14.256129Z"
+        "scored_at": "2026-10-01T11:48:22.374220Z"
       }
     },
     {
@@ -1228,15 +1308,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7964,
-      "importance": 0.7964,
-      "importance_score": 0.7964,
+      "score": 0.7945,
+      "importance": 0.7945,
+      "importance_score": 0.7945,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.7354,
+        "recency": 0.7248,
         "story_heat": 0.0
       },
       "category": "official",
@@ -1263,7 +1343,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-01T10:48:14.256129Z"
+        "scored_at": "2026-10-01T11:48:22.374220Z"
       }
     },
     {
@@ -1311,15 +1391,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7266,
-      "importance": 0.7266,
-      "importance_score": 0.7266,
+      "score": 0.7244,
+      "importance": 0.7244,
+      "importance_score": 0.7244,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.67,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8557,
+        "recency": 0.8434,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1344,7 +1424,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-01T10:48:14.256129Z"
+        "scored_at": "2026-10-01T11:48:22.374220Z"
       }
     },
     {
@@ -1392,15 +1472,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7243,
-      "importance": 0.7243,
-      "importance_score": 0.7243,
+      "score": 0.7222,
+      "importance": 0.7222,
+      "importance_score": 0.7222,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.7,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7927,
+        "recency": 0.7813,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1425,7 +1505,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-01T10:48:14.256129Z"
+        "scored_at": "2026-10-01T11:48:22.374220Z"
       }
     },
     {
@@ -1473,15 +1553,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.724,
-      "importance": 0.724,
-      "importance_score": 0.724,
+      "score": 0.7218,
+      "importance": 0.7218,
+      "importance_score": 0.7218,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.66,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8577,
+        "recency": 0.8453,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1506,7 +1586,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-01T10:48:14.256129Z"
+        "scored_at": "2026-10-01T11:48:22.374220Z"
       }
     },
     {
@@ -1554,15 +1634,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7266,
-      "importance": 0.7266,
-      "importance_score": 0.7266,
+      "score": 0.7244,
+      "importance": 0.7244,
+      "importance_score": 0.7244,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.67,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8557,
+        "recency": 0.8434,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1587,116 +1667,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-01T10:48:14.256129Z"
-      }
-    },
-    {
-      "story_id": "story_3ee67536745c",
-      "title": "Google announces Gemini 4 and says it&#8217;s so capable that only &#8216;trusted cyber defenders&#8217; can have it right now",
-      "url": "https://www.theverge.com/tech/1002980/google-gemini-4-argon",
-      "primary_url": "https://www.theverge.com/tech/1002980/google-gemini-4-argon",
-      "source": "The Verge",
-      "source_name": "Curated Media",
-      "sources": [
-        {
-          "id": "90d01ae673e6f9de7e9cb8ee26ef8ef66cf55f2d",
-          "title": "Google announces Gemini 4 and says it&#8217;s so capable that only &#8216;trusted cyber defenders&#8217; can have it right now",
-          "title_zh": null,
-          "title_en": "Google announces Gemini 4 and says it&#8217;s so capable that only &#8216;trusted cyber defenders&#8217; can have it right now",
-          "title_original": "Google announces Gemini 4 and says it&#8217;s so capable that only &#8216;trusted cyber defenders&#8217; can have it right now",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.theverge.com/tech/1002980/google-gemini-4-argon",
-          "source": "The Verge",
-          "source_name": "Curated Media",
-          "site_id": "curated_media",
-          "published_at": "2026-09-30T20:41:41Z"
-        },
-        {
-          "id": "9d4d1d911fe709c7d18848c3c5623444ef57c535",
-          "title": "Google announces Gemini 4 and says it’s so capable that only ‘trusted cyber defenders’ can have it right now",
-          "title_zh": null,
-          "title_en": "Google announces Gemini 4 and says it’s so capable that only ‘trusted cyber defenders’ can have it right now",
-          "title_original": "Google announces Gemini 4 and says it’s so capable that only ‘trusted cyber defenders’ can have it right now",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.theverge.com/tech/1002980/google-gemini-4-argon",
-          "source": "The Verge",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-09-30T20:41:41Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "The Verge"
-      ],
-      "items": [
-        {
-          "id": "90d01ae673e6f9de7e9cb8ee26ef8ef66cf55f2d",
-          "title": "Google announces Gemini 4 and says it&#8217;s so capable that only &#8216;trusted cyber defenders&#8217; can have it right now",
-          "title_zh": null,
-          "title_en": "Google announces Gemini 4 and says it&#8217;s so capable that only &#8216;trusted cyber defenders&#8217; can have it right now",
-          "title_original": "Google announces Gemini 4 and says it&#8217;s so capable that only &#8216;trusted cyber defenders&#8217; can have it right now",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.theverge.com/tech/1002980/google-gemini-4-argon",
-          "source": "The Verge",
-          "source_name": "Curated Media",
-          "site_id": "curated_media",
-          "published_at": "2026-09-30T20:41:41Z"
-        },
-        {
-          "id": "9d4d1d911fe709c7d18848c3c5623444ef57c535",
-          "title": "Google announces Gemini 4 and says it’s so capable that only ‘trusted cyber defenders’ can have it right now",
-          "title_zh": null,
-          "title_en": "Google announces Gemini 4 and says it’s so capable that only ‘trusted cyber defenders’ can have it right now",
-          "title_original": "Google announces Gemini 4 and says it’s so capable that only ‘trusted cyber defenders’ can have it right now",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.theverge.com/tech/1002980/google-gemini-4-argon",
-          "source": "The Verge",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-09-30T20:41:41Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5948,
-      "importance": 0.5948,
-      "importance_score": 0.5948,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.5112,
-        "source_tier": 0.58,
-        "ai_relevance": 0.71,
-        "recency": 0.8159,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-09-30T20:41:41Z",
-      "latest_at": "2026-09-30T20:41:41Z",
-      "primary_item": {
-        "id": "90d01ae673e6f9de7e9cb8ee26ef8ef66cf55f2d",
-        "title": "Google announces Gemini 4 and says it&#8217;s so capable that only &#8216;trusted cyber defenders&#8217; can have it right now",
-        "title_zh": null,
-        "title_en": "Google announces Gemini 4 and says it&#8217;s so capable that only &#8216;trusted cyber defenders&#8217; can have it right now",
-        "title_original": "Google announces Gemini 4 and says it&#8217;s so capable that only &#8216;trusted cyber defenders&#8217; can have it right now",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://www.theverge.com/tech/1002980/google-gemini-4-argon",
-        "source": "The Verge",
-        "source_name": "Curated Media"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-10-01T10:48:14.256129Z"
+        "scored_at": "2026-10-01T11:48:22.374220Z"
       }
     }
   ]
