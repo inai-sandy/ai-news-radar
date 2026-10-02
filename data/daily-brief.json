@@ -1,62 +1,62 @@
 {
-  "generated_at": "2026-10-02T14:47:21.934834Z",
+  "generated_at": "2026-10-02T15:47:24.604072Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
     {
-      "story_id": "story_7ba973037a20",
-      "title": "关于代码仓库安全建议的机密评论 / Confidential comments on repository security advisories",
-      "url": "https://github.blog/changelog/2026-10-02-confidential-comments-on-repository-security-advisories",
-      "primary_url": "https://github.blog/changelog/2026-10-02-confidential-comments-on-repository-security-advisories",
-      "source": "GitHub Changelog",
+      "story_id": "story_2e2e433e3cb1",
+      "title": "开源 AstaBrief，Asta 中的快速报告生成模型 / Open-sourcing AstaBrief, the fast report-generation model in Asta",
+      "url": "https://huggingface.co/blog/allenai/astabrief",
+      "primary_url": "https://huggingface.co/blog/allenai/astabrief",
+      "source": "Hugging Face Blog",
       "source_name": "Official AI Updates",
       "sources": [
         {
-          "id": "75d3ae652733e012708727418c039e9c82d67827",
-          "title": "关于代码仓库安全建议的机密评论 / Confidential comments on repository security advisories",
-          "title_zh": "关于代码仓库安全建议的机密评论",
-          "title_en": "Confidential comments on repository security advisories",
-          "title_original": "Confidential comments on repository security advisories",
+          "id": "48ab6be8be1ae5fa20bc6b26fcfcc2f5fdadf96d",
+          "title": "开源 AstaBrief，Asta 中的快速报告生成模型 / Open-sourcing AstaBrief, the fast report-generation model in Asta",
+          "title_zh": "开源 AstaBrief，Asta 中的快速报告生成模型",
+          "title_en": "Open-sourcing AstaBrief, the fast report-generation model in Asta",
+          "title_original": "Open-sourcing AstaBrief, the fast report-generation model in Asta",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-10-02-confidential-comments-on-repository-security-advisories",
-          "source": "GitHub Changelog",
+          "url": "https://huggingface.co/blog/allenai/astabrief",
+          "source": "Hugging Face Blog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-10-02T13:15:40Z"
+          "published_at": "2026-10-02T15:19:50Z"
         }
       ],
       "source_count": 1,
       "source_names": [
-        "GitHub Changelog"
+        "Hugging Face Blog"
       ],
       "items": [
         {
-          "id": "75d3ae652733e012708727418c039e9c82d67827",
-          "title": "关于代码仓库安全建议的机密评论 / Confidential comments on repository security advisories",
-          "title_zh": "关于代码仓库安全建议的机密评论",
-          "title_en": "Confidential comments on repository security advisories",
-          "title_original": "Confidential comments on repository security advisories",
+          "id": "48ab6be8be1ae5fa20bc6b26fcfcc2f5fdadf96d",
+          "title": "开源 AstaBrief，Asta 中的快速报告生成模型 / Open-sourcing AstaBrief, the fast report-generation model in Asta",
+          "title_zh": "开源 AstaBrief，Asta 中的快速报告生成模型",
+          "title_en": "Open-sourcing AstaBrief, the fast report-generation model in Asta",
+          "title_original": "Open-sourcing AstaBrief, the fast report-generation model in Asta",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-10-02-confidential-comments-on-repository-security-advisories",
-          "source": "GitHub Changelog",
+          "url": "https://huggingface.co/blog/allenai/astabrief",
+          "source": "Hugging Face Blog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-10-02T13:15:40Z"
+          "published_at": "2026-10-02T15:19:50Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8401,
-      "importance": 0.8401,
-      "importance_score": 0.8401,
+      "score": 0.8588,
+      "importance": 0.8588,
+      "importance_score": 0.8588,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
-        "ai_relevance": 0.87,
-        "recency": 0.9782,
+        "ai_relevance": 0.95,
+        "recency": 0.9934,
         "story_heat": 0.0
       },
       "category": "official",
@@ -65,17 +65,266 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-10-02T13:15:40Z",
-      "latest_at": "2026-10-02T13:15:40Z",
+      "earliest_at": "2026-10-02T15:19:50Z",
+      "latest_at": "2026-10-02T15:19:50Z",
       "primary_item": {
-        "id": "75d3ae652733e012708727418c039e9c82d67827",
-        "title": "关于代码仓库安全建议的机密评论 / Confidential comments on repository security advisories",
-        "title_zh": "关于代码仓库安全建议的机密评论",
-        "title_en": "Confidential comments on repository security advisories",
-        "title_original": "Confidential comments on repository security advisories",
+        "id": "48ab6be8be1ae5fa20bc6b26fcfcc2f5fdadf96d",
+        "title": "开源 AstaBrief，Asta 中的快速报告生成模型 / Open-sourcing AstaBrief, the fast report-generation model in Asta",
+        "title_zh": "开源 AstaBrief，Asta 中的快速报告生成模型",
+        "title_en": "Open-sourcing AstaBrief, the fast report-generation model in Asta",
+        "title_original": "Open-sourcing AstaBrief, the fast report-generation model in Asta",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://github.blog/changelog/2026-10-02-confidential-comments-on-repository-security-advisories",
+        "url": "https://huggingface.co/blog/allenai/astabrief",
+        "source": "Hugging Face Blog",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-10-02T15:48:16.522752Z"
+      }
+    },
+    {
+      "story_id": "story_8929dc6acd37",
+      "title": "人工智能正在改写开发者的职业阶梯。以下是如何脱颖而出。 / AI is rewriting the developer career ladder. Here’s how to stand out.",
+      "url": "https://github.blog/ai-and-ml/ai-is-rewriting-the-developer-career-ladder-heres-how-to-stand-out",
+      "primary_url": "https://github.blog/ai-and-ml/ai-is-rewriting-the-developer-career-ladder-heres-how-to-stand-out",
+      "source": "GitHub AI & ML",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "16e311d52410a05b592402e68322476c2a4512bd",
+          "title": "人工智能正在改写开发者的职业阶梯。以下是如何脱颖而出。 / AI is rewriting the developer career ladder. Here’s how to stand out.",
+          "title_zh": "人工智能正在改写开发者的职业阶梯。以下是如何脱颖而出。",
+          "title_en": "AI is rewriting the developer career ladder. Here’s how to stand out.",
+          "title_original": "AI is rewriting the developer career ladder. Here’s how to stand out.",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://github.blog/ai-and-ml/ai-is-rewriting-the-developer-career-ladder-heres-how-to-stand-out",
+          "source": "GitHub AI & ML",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-10-02T15:00:00Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "GitHub AI & ML"
+      ],
+      "items": [
+        {
+          "id": "16e311d52410a05b592402e68322476c2a4512bd",
+          "title": "人工智能正在改写开发者的职业阶梯。以下是如何脱颖而出。 / AI is rewriting the developer career ladder. Here’s how to stand out.",
+          "title_zh": "人工智能正在改写开发者的职业阶梯。以下是如何脱颖而出。",
+          "title_en": "AI is rewriting the developer career ladder. Here’s how to stand out.",
+          "title_original": "AI is rewriting the developer career ladder. Here’s how to stand out.",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://github.blog/ai-and-ml/ai-is-rewriting-the-developer-career-ladder-heres-how-to-stand-out",
+          "source": "GitHub AI & ML",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-10-02T15:00:00Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.848,
+      "importance": 0.848,
+      "importance_score": 0.848,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.9,
+        "recency": 0.9887,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-10-02T15:00:00Z",
+      "latest_at": "2026-10-02T15:00:00Z",
+      "primary_item": {
+        "id": "16e311d52410a05b592402e68322476c2a4512bd",
+        "title": "人工智能正在改写开发者的职业阶梯。以下是如何脱颖而出。 / AI is rewriting the developer career ladder. Here’s how to stand out.",
+        "title_zh": "人工智能正在改写开发者的职业阶梯。以下是如何脱颖而出。",
+        "title_en": "AI is rewriting the developer career ladder. Here’s how to stand out.",
+        "title_original": "AI is rewriting the developer career ladder. Here’s how to stand out.",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://github.blog/ai-and-ml/ai-is-rewriting-the-developer-career-ladder-heres-how-to-stand-out",
+        "source": "GitHub AI & ML",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-10-02T15:48:16.522752Z"
+      }
+    },
+    {
+      "story_id": "story_79c5530db8f1",
+      "title": "我们于 2026 年 9 月公布的最新 AI 新闻 / The latest AI news we announced in September 2026",
+      "url": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-september-2026",
+      "primary_url": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-september-2026",
+      "source": "Google AI Blog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "dd4c7d387fc53412a62e9d26adf403b628b46261",
+          "title": "我们于 2026 年 9 月公布的最新 AI 新闻 / The latest AI news we announced in September 2026",
+          "title_zh": "我们于 2026 年 9 月公布的最新 AI 新闻",
+          "title_en": "The latest AI news we announced in September 2026",
+          "title_original": "The latest AI news we announced in September 2026",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-september-2026",
+          "source": "Google AI Blog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-10-02T15:00:00Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Google AI Blog"
+      ],
+      "items": [
+        {
+          "id": "dd4c7d387fc53412a62e9d26adf403b628b46261",
+          "title": "我们于 2026 年 9 月公布的最新 AI 新闻 / The latest AI news we announced in September 2026",
+          "title_zh": "我们于 2026 年 9 月公布的最新 AI 新闻",
+          "title_en": "The latest AI news we announced in September 2026",
+          "title_original": "The latest AI news we announced in September 2026",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-september-2026",
+          "source": "Google AI Blog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-10-02T15:00:00Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.842,
+      "importance": 0.842,
+      "importance_score": 0.842,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.87,
+        "recency": 0.9887,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-10-02T15:00:00Z",
+      "latest_at": "2026-10-02T15:00:00Z",
+      "primary_item": {
+        "id": "dd4c7d387fc53412a62e9d26adf403b628b46261",
+        "title": "我们于 2026 年 9 月公布的最新 AI 新闻 / The latest AI news we announced in September 2026",
+        "title_zh": "我们于 2026 年 9 月公布的最新 AI 新闻",
+        "title_en": "The latest AI news we announced in September 2026",
+        "title_original": "The latest AI news we announced in September 2026",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-september-2026",
+        "source": "Google AI Blog",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-10-02T15:48:16.522752Z"
+      }
+    },
+    {
+      "story_id": "story_14dc0c8581ff",
+      "title": "SecurityAdvisory GraphQL API 的新字段 / New fields for SecurityAdvisory GraphQL API",
+      "url": "https://github.blog/changelog/2026-10-02-new-fields-for-securityadvisory-graphql-api",
+      "primary_url": "https://github.blog/changelog/2026-10-02-new-fields-for-securityadvisory-graphql-api",
+      "source": "GitHub Changelog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "983d5abca127c992de7dd3b2e4793328644c2a8e",
+          "title": "SecurityAdvisory GraphQL API 的新字段 / New fields for SecurityAdvisory GraphQL API",
+          "title_zh": "SecurityAdvisory GraphQL API 的新字段",
+          "title_en": "New fields for SecurityAdvisory GraphQL API",
+          "title_original": "New fields for SecurityAdvisory GraphQL API",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://github.blog/changelog/2026-10-02-new-fields-for-securityadvisory-graphql-api",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-10-02T13:18:00Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "GitHub Changelog"
+      ],
+      "items": [
+        {
+          "id": "983d5abca127c992de7dd3b2e4793328644c2a8e",
+          "title": "SecurityAdvisory GraphQL API 的新字段 / New fields for SecurityAdvisory GraphQL API",
+          "title_zh": "SecurityAdvisory GraphQL API 的新字段",
+          "title_en": "New fields for SecurityAdvisory GraphQL API",
+          "title_original": "New fields for SecurityAdvisory GraphQL API",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://github.blog/changelog/2026-10-02-new-fields-for-securityadvisory-graphql-api",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-10-02T13:18:00Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8376,
+      "importance": 0.8376,
+      "importance_score": 0.8376,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.87,
+        "recency": 0.9647,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-10-02T13:18:00Z",
+      "latest_at": "2026-10-02T13:18:00Z",
+      "primary_item": {
+        "id": "983d5abca127c992de7dd3b2e4793328644c2a8e",
+        "title": "SecurityAdvisory GraphQL API 的新字段 / New fields for SecurityAdvisory GraphQL API",
+        "title_zh": "SecurityAdvisory GraphQL API 的新字段",
+        "title_en": "New fields for SecurityAdvisory GraphQL API",
+        "title_original": "New fields for SecurityAdvisory GraphQL API",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://github.blog/changelog/2026-10-02-new-fields-for-securityadvisory-graphql-api",
         "source": "GitHub Changelog",
         "source_name": "Official AI Updates"
       },
@@ -83,7 +332,90 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-02T14:48:23.363551Z"
+        "scored_at": "2026-10-02T15:48:16.522752Z"
+      }
+    },
+    {
+      "story_id": "story_8251eed32ade",
+      "title": "公共预览版中的代码仓库安全咨询评论 API / Repository security advisory comments API in public preview",
+      "url": "https://github.blog/changelog/2026-10-02-repository-security-advisory-comments-api-in-public-preview",
+      "primary_url": "https://github.blog/changelog/2026-10-02-repository-security-advisory-comments-api-in-public-preview",
+      "source": "GitHub Changelog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "5cb2c95d9b30ba70feb24df708447eb935568270",
+          "title": "公共预览版中的代码仓库安全咨询评论 API / Repository security advisory comments API in public preview",
+          "title_zh": "公共预览版中的代码仓库安全咨询评论 API",
+          "title_en": "Repository security advisory comments API in public preview",
+          "title_original": "Repository security advisory comments API in public preview",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://github.blog/changelog/2026-10-02-repository-security-advisory-comments-api-in-public-preview",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-10-02T13:15:25Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "GitHub Changelog"
+      ],
+      "items": [
+        {
+          "id": "5cb2c95d9b30ba70feb24df708447eb935568270",
+          "title": "公共预览版中的代码仓库安全咨询评论 API / Repository security advisory comments API in public preview",
+          "title_zh": "公共预览版中的代码仓库安全咨询评论 API",
+          "title_en": "Repository security advisory comments API in public preview",
+          "title_original": "Repository security advisory comments API in public preview",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://github.blog/changelog/2026-10-02-repository-security-advisory-comments-api-in-public-preview",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-10-02T13:15:25Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8375,
+      "importance": 0.8375,
+      "importance_score": 0.8375,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.87,
+        "recency": 0.9641,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-10-02T13:15:25Z",
+      "latest_at": "2026-10-02T13:15:25Z",
+      "primary_item": {
+        "id": "5cb2c95d9b30ba70feb24df708447eb935568270",
+        "title": "公共预览版中的代码仓库安全咨询评论 API / Repository security advisory comments API in public preview",
+        "title_zh": "公共预览版中的代码仓库安全咨询评论 API",
+        "title_en": "Repository security advisory comments API in public preview",
+        "title_original": "Repository security advisory comments API in public preview",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://github.blog/changelog/2026-10-02-repository-security-advisory-comments-api-in-public-preview",
+        "source": "GitHub Changelog",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-10-02T15:48:16.522752Z"
       }
     },
     {
@@ -131,15 +463,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8341,
-      "importance": 0.8341,
-      "importance_score": 0.8341,
+      "score": 0.8319,
+      "importance": 0.8319,
+      "importance_score": 0.8319,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.856,
+        "recency": 0.8438,
         "story_heat": 0.0
       },
       "category": "official",
@@ -166,7 +498,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-02T14:48:23.363551Z"
+        "scored_at": "2026-10-02T15:48:16.522752Z"
       }
     },
     {
@@ -214,15 +546,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8034,
-      "importance": 0.8034,
-      "importance_score": 0.8034,
+      "score": 0.8015,
+      "importance": 0.8015,
+      "importance_score": 0.8015,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.73,
+        "recency": 0.7196,
         "story_heat": 0.0
       },
       "category": "official",
@@ -249,113 +581,30 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-02T14:48:23.363551Z"
+        "scored_at": "2026-10-02T15:48:16.522752Z"
       }
     },
     {
-      "story_id": "story_a97a1140e735",
-      "title": "Olmo-core 3 简介：面向大型 MoE 的开放、可扩展的培训基础设施 / Introducing Olmo-core 3: Open, scalable training infrastructure for large MoEs",
-      "url": "https://huggingface.co/blog/allenai/olmocore3",
-      "primary_url": "https://huggingface.co/blog/allenai/olmocore3",
-      "source": "Hugging Face Blog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "78202bf035ab1fe86671d2c35b2b22badb7c1865",
-          "title": "Olmo-core 3 简介：面向大型 MoE 的开放、可扩展的培训基础设施 / Introducing Olmo-core 3: Open, scalable training infrastructure for large MoEs",
-          "title_zh": "Olmo-core 3 简介：面向大型 MoE 的开放、可扩展的培训基础设施",
-          "title_en": "Introducing Olmo-core 3: Open, scalable training infrastructure for large MoEs",
-          "title_original": "Introducing Olmo-core 3: Open, scalable training infrastructure for large MoEs",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://huggingface.co/blog/allenai/olmocore3",
-          "source": "Hugging Face Blog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-10-01T15:01:43Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Hugging Face Blog"
-      ],
-      "items": [
-        {
-          "id": "78202bf035ab1fe86671d2c35b2b22badb7c1865",
-          "title": "Olmo-core 3 简介：面向大型 MoE 的开放、可扩展的培训基础设施 / Introducing Olmo-core 3: Open, scalable training infrastructure for large MoEs",
-          "title_zh": "Olmo-core 3 简介：面向大型 MoE 的开放、可扩展的培训基础设施",
-          "title_en": "Introducing Olmo-core 3: Open, scalable training infrastructure for large MoEs",
-          "title_original": "Introducing Olmo-core 3: Open, scalable training infrastructure for large MoEs",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://huggingface.co/blog/allenai/olmocore3",
-          "source": "Hugging Face Blog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-10-01T15:01:43Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8077,
-      "importance": 0.8077,
-      "importance_score": 0.8077,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.95,
-        "recency": 0.7096,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-10-01T15:01:43Z",
-      "latest_at": "2026-10-01T15:01:43Z",
-      "primary_item": {
-        "id": "78202bf035ab1fe86671d2c35b2b22badb7c1865",
-        "title": "Olmo-core 3 简介：面向大型 MoE 的开放、可扩展的培训基础设施 / Introducing Olmo-core 3: Open, scalable training infrastructure for large MoEs",
-        "title_zh": "Olmo-core 3 简介：面向大型 MoE 的开放、可扩展的培训基础设施",
-        "title_en": "Introducing Olmo-core 3: Open, scalable training infrastructure for large MoEs",
-        "title_original": "Introducing Olmo-core 3: Open, scalable training infrastructure for large MoEs",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://huggingface.co/blog/allenai/olmocore3",
-        "source": "Hugging Face Blog",
-        "source_name": "Official AI Updates"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-10-02T14:48:23.363551Z"
-      }
-    },
-    {
-      "story_id": "story_a8a59d3ec43f",
-      "title": "GitHub Copilot 现在可以通过计算机与桌面应用程序交互 / GitHub Copilot can now interact with desktop apps with computer use",
-      "url": "https://github.blog/changelog/2026-10-01-github-copilot-can-now-interact-with-desktop-apps",
-      "primary_url": "https://github.blog/changelog/2026-10-01-github-copilot-can-now-interact-with-desktop-apps",
+      "story_id": "story_7ba973037a20",
+      "title": "关于代码仓库安全建议的机密评论 / Confidential comments on repository security advisories",
+      "url": "https://github.blog/changelog/2026-10-02-confidential-comments-on-repository-security-advisories",
+      "primary_url": "https://github.blog/changelog/2026-10-02-confidential-comments-on-repository-security-advisories",
       "source": "GitHub Changelog",
       "source_name": "Official AI Updates",
       "sources": [
         {
-          "id": "9a48fa6ff9990eabb95b9c383f2b588984b0dbbf",
-          "title": "GitHub Copilot 现在可以通过计算机与桌面应用程序交互 / GitHub Copilot can now interact with desktop apps with computer use",
-          "title_zh": "GitHub Copilot 现在可以通过计算机与桌面应用程序交互",
-          "title_en": "GitHub Copilot can now interact with desktop apps with computer use",
-          "title_original": "GitHub Copilot can now interact with desktop apps with computer use",
+          "id": "75d3ae652733e012708727418c039e9c82d67827",
+          "title": "关于代码仓库安全建议的机密评论 / Confidential comments on repository security advisories",
+          "title_zh": "关于代码仓库安全建议的机密评论",
+          "title_en": "Confidential comments on repository security advisories",
+          "title_original": "Confidential comments on repository security advisories",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-10-01-github-copilot-can-now-interact-with-desktop-apps",
+          "url": "https://github.blog/changelog/2026-10-02-confidential-comments-on-repository-security-advisories",
           "source": "GitHub Changelog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-10-01T19:11:26Z"
+          "published_at": "2026-10-02T13:15:40Z"
         }
       ],
       "source_count": 1,
@@ -364,31 +613,31 @@
       ],
       "items": [
         {
-          "id": "9a48fa6ff9990eabb95b9c383f2b588984b0dbbf",
-          "title": "GitHub Copilot 现在可以通过计算机与桌面应用程序交互 / GitHub Copilot can now interact with desktop apps with computer use",
-          "title_zh": "GitHub Copilot 现在可以通过计算机与桌面应用程序交互",
-          "title_en": "GitHub Copilot can now interact with desktop apps with computer use",
-          "title_original": "GitHub Copilot can now interact with desktop apps with computer use",
+          "id": "75d3ae652733e012708727418c039e9c82d67827",
+          "title": "关于代码仓库安全建议的机密评论 / Confidential comments on repository security advisories",
+          "title_zh": "关于代码仓库安全建议的机密评论",
+          "title_en": "Confidential comments on repository security advisories",
+          "title_original": "Confidential comments on repository security advisories",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-10-01-github-copilot-can-now-interact-with-desktop-apps",
+          "url": "https://github.blog/changelog/2026-10-02-confidential-comments-on-repository-security-advisories",
           "source": "GitHub Changelog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-10-01T19:11:26Z"
+          "published_at": "2026-10-02T13:15:40Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8076,
-      "importance": 0.8076,
-      "importance_score": 0.8076,
+      "score": 0.8375,
+      "importance": 0.8375,
+      "importance_score": 0.8375,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
-        "ai_relevance": 0.91,
-        "recency": 0.7535,
+        "ai_relevance": 0.87,
+        "recency": 0.9641,
         "story_heat": 0.0
       },
       "category": "official",
@@ -397,17 +646,17 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-10-01T19:11:26Z",
-      "latest_at": "2026-10-01T19:11:26Z",
+      "earliest_at": "2026-10-02T13:15:40Z",
+      "latest_at": "2026-10-02T13:15:40Z",
       "primary_item": {
-        "id": "9a48fa6ff9990eabb95b9c383f2b588984b0dbbf",
-        "title": "GitHub Copilot 现在可以通过计算机与桌面应用程序交互 / GitHub Copilot can now interact with desktop apps with computer use",
-        "title_zh": "GitHub Copilot 现在可以通过计算机与桌面应用程序交互",
-        "title_en": "GitHub Copilot can now interact with desktop apps with computer use",
-        "title_original": "GitHub Copilot can now interact with desktop apps with computer use",
+        "id": "75d3ae652733e012708727418c039e9c82d67827",
+        "title": "关于代码仓库安全建议的机密评论 / Confidential comments on repository security advisories",
+        "title_zh": "关于代码仓库安全建议的机密评论",
+        "title_en": "Confidential comments on repository security advisories",
+        "title_original": "Confidential comments on repository security advisories",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://github.blog/changelog/2026-10-01-github-copilot-can-now-interact-with-desktop-apps",
+        "url": "https://github.blog/changelog/2026-10-02-confidential-comments-on-repository-security-advisories",
         "source": "GitHub Changelog",
         "source_name": "Official AI Updates"
       },
@@ -415,7 +664,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-02T14:48:23.363551Z"
+        "scored_at": "2026-10-02T15:48:16.522752Z"
       }
     },
     {
@@ -463,15 +712,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8015,
-      "importance": 0.8015,
-      "importance_score": 0.8015,
+      "score": 0.7997,
+      "importance": 0.7997,
+      "importance_score": 0.7997,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.7196,
+        "recency": 0.7093,
         "story_heat": 0.0
       },
       "category": "official",
@@ -498,7 +747,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-02T14:48:23.363551Z"
+        "scored_at": "2026-10-02T15:48:16.522752Z"
       }
     },
     {
@@ -546,15 +795,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7614,
-      "importance": 0.7614,
-      "importance_score": 0.7614,
+      "score": 0.759,
+      "importance": 0.759,
+      "importance_score": 0.759,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.76,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8986,
+        "recency": 0.8857,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -580,7 +829,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-02T14:48:23.363551Z"
+        "scored_at": "2026-10-02T15:48:16.522752Z"
       }
     },
     {
@@ -628,15 +877,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7546,
-      "importance": 0.7546,
-      "importance_score": 0.7546,
+      "score": 0.7527,
+      "importance": 0.7527,
+      "importance_score": 0.7527,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.67,
         "source_tier": 1.0,
         "ai_relevance": 1.0,
-        "recency": 0.7421,
+        "recency": 0.7315,
         "story_heat": 0.0
       },
       "category": "official",
@@ -662,7 +911,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-02T14:48:23.363551Z"
+        "scored_at": "2026-10-02T15:48:16.522752Z"
       }
     },
     {
@@ -710,15 +959,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7482,
-      "importance": 0.7482,
-      "importance_score": 0.7482,
+      "score": 0.7461,
+      "importance": 0.7461,
+      "importance_score": 0.7461,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.77,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8089,
+        "recency": 0.7973,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -743,7 +992,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-02T14:48:23.363551Z"
+        "scored_at": "2026-10-02T15:48:16.522752Z"
       }
     },
     {
@@ -791,15 +1040,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.748,
-      "importance": 0.748,
-      "importance_score": 0.748,
+      "score": 0.7455,
+      "importance": 0.7455,
+      "importance_score": 0.7455,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.67,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9746,
+        "recency": 0.9607,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -824,90 +1073,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-02T14:48:23.363551Z"
-      }
-    },
-    {
-      "story_id": "story_4360c0773884",
-      "title": "VS Code 中的 GitHub Copilot，2026 年 9 月发布 / GitHub Copilot in VS Code, September 2026 releases",
-      "url": "https://github.blog/changelog/2026-10-01-github-copilot-in-vs-code-september-2026-releases",
-      "primary_url": "https://github.blog/changelog/2026-10-01-github-copilot-in-vs-code-september-2026-releases",
-      "source": "GitHub Changelog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "3670b29c6a73e7815010767521ad6c93921fd71a",
-          "title": "VS Code 中的 GitHub Copilot，2026 年 9 月发布 / GitHub Copilot in VS Code, September 2026 releases",
-          "title_zh": "VS Code 中的 GitHub Copilot，2026 年 9 月发布",
-          "title_en": "GitHub Copilot in VS Code, September 2026 releases",
-          "title_original": "GitHub Copilot in VS Code, September 2026 releases",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-10-01-github-copilot-in-vs-code-september-2026-releases",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-10-01T19:09:10Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "GitHub Changelog"
-      ],
-      "items": [
-        {
-          "id": "3670b29c6a73e7815010767521ad6c93921fd71a",
-          "title": "VS Code 中的 GitHub Copilot，2026 年 9 月发布 / GitHub Copilot in VS Code, September 2026 releases",
-          "title_zh": "VS Code 中的 GitHub Copilot，2026 年 9 月发布",
-          "title_en": "GitHub Copilot in VS Code, September 2026 releases",
-          "title_original": "GitHub Copilot in VS Code, September 2026 releases",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-10-01-github-copilot-in-vs-code-september-2026-releases",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-10-01T19:09:10Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8076,
-      "importance": 0.8076,
-      "importance_score": 0.8076,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.91,
-        "recency": 0.7531,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-10-01T19:09:10Z",
-      "latest_at": "2026-10-01T19:09:10Z",
-      "primary_item": {
-        "id": "3670b29c6a73e7815010767521ad6c93921fd71a",
-        "title": "VS Code 中的 GitHub Copilot，2026 年 9 月发布 / GitHub Copilot in VS Code, September 2026 releases",
-        "title_zh": "VS Code 中的 GitHub Copilot，2026 年 9 月发布",
-        "title_en": "GitHub Copilot in VS Code, September 2026 releases",
-        "title_original": "GitHub Copilot in VS Code, September 2026 releases",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://github.blog/changelog/2026-10-01-github-copilot-in-vs-code-september-2026-releases",
-        "source": "GitHub Changelog",
-        "source_name": "Official AI Updates"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-10-02T14:48:23.363551Z"
+        "scored_at": "2026-10-02T15:48:16.522752Z"
       }
     },
     {
@@ -955,15 +1121,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7366,
-      "importance": 0.7366,
-      "importance_score": 0.7366,
+      "score": 0.7345,
+      "importance": 0.7345,
+      "importance_score": 0.7345,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.73,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.811,
+        "recency": 0.7994,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -988,7 +1154,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-02T14:48:23.363551Z"
+        "scored_at": "2026-10-02T15:48:16.522752Z"
       }
     },
     {
@@ -1036,15 +1202,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7586,
-      "importance": 0.7586,
-      "importance_score": 0.7586,
+      "score": 0.7564,
+      "importance": 0.7564,
+      "importance_score": 0.7564,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.8,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8164,
+        "recency": 0.8047,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1070,7 +1236,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-02T14:48:23.363551Z"
+        "scored_at": "2026-10-02T15:48:16.522752Z"
       }
     },
     {
@@ -1118,15 +1284,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7261,
-      "importance": 0.7261,
-      "importance_score": 0.7261,
+      "score": 0.7241,
+      "importance": 0.7241,
+      "importance_score": 0.7241,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7693,
+        "recency": 0.7583,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1151,7 +1317,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-02T14:48:23.363551Z"
+        "scored_at": "2026-10-02T15:48:16.522752Z"
       }
     },
     {
@@ -1199,15 +1365,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.723,
-      "importance": 0.723,
-      "importance_score": 0.723,
+      "score": 0.721,
+      "importance": 0.721,
+      "importance_score": 0.721,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.71,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7688,
+        "recency": 0.7578,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1232,30 +1398,30 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-02T14:48:23.363551Z"
+        "scored_at": "2026-10-02T15:48:16.522752Z"
       }
     },
     {
-      "story_id": "story_f107a55898ee",
-      "title": "Copilot CLI 和 Copilot 应用程序中的动态工作流程 / Dynamic workflows in Copilot CLI and the Copilot app",
-      "url": "https://github.blog/changelog/2026-10-01-dynamic-workflows-in-copilot-cli-and-the-copilot-app",
-      "primary_url": "https://github.blog/changelog/2026-10-01-dynamic-workflows-in-copilot-cli-and-the-copilot-app",
+      "story_id": "story_a8a59d3ec43f",
+      "title": "GitHub Copilot 现在可以通过计算机与桌面应用程序交互 / GitHub Copilot can now interact with desktop apps with computer use",
+      "url": "https://github.blog/changelog/2026-10-01-github-copilot-can-now-interact-with-desktop-apps",
+      "primary_url": "https://github.blog/changelog/2026-10-01-github-copilot-can-now-interact-with-desktop-apps",
       "source": "GitHub Changelog",
       "source_name": "Official AI Updates",
       "sources": [
         {
-          "id": "d8368277fa437aacb740cd4f8390b9eacc5c78de",
-          "title": "Copilot CLI 和 Copilot 应用程序中的动态工作流程 / Dynamic workflows in Copilot CLI and the Copilot app",
-          "title_zh": "Copilot CLI 和 Copilot 应用程序中的动态工作流程",
-          "title_en": "Dynamic workflows in Copilot CLI and the Copilot app",
-          "title_original": "Dynamic workflows in Copilot CLI and the Copilot app",
+          "id": "9a48fa6ff9990eabb95b9c383f2b588984b0dbbf",
+          "title": "GitHub Copilot 现在可以通过计算机与桌面应用程序交互 / GitHub Copilot can now interact with desktop apps with computer use",
+          "title_zh": "GitHub Copilot 现在可以通过计算机与桌面应用程序交互",
+          "title_en": "GitHub Copilot can now interact with desktop apps with computer use",
+          "title_original": "GitHub Copilot can now interact with desktop apps with computer use",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-10-01-dynamic-workflows-in-copilot-cli-and-the-copilot-app",
+          "url": "https://github.blog/changelog/2026-10-01-github-copilot-can-now-interact-with-desktop-apps",
           "source": "GitHub Changelog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-10-01T16:30:10Z"
+          "published_at": "2026-10-01T19:11:26Z"
         }
       ],
       "source_count": 1,
@@ -1264,31 +1430,31 @@
       ],
       "items": [
         {
-          "id": "d8368277fa437aacb740cd4f8390b9eacc5c78de",
-          "title": "Copilot CLI 和 Copilot 应用程序中的动态工作流程 / Dynamic workflows in Copilot CLI and the Copilot app",
-          "title_zh": "Copilot CLI 和 Copilot 应用程序中的动态工作流程",
-          "title_en": "Dynamic workflows in Copilot CLI and the Copilot app",
-          "title_original": "Dynamic workflows in Copilot CLI and the Copilot app",
+          "id": "9a48fa6ff9990eabb95b9c383f2b588984b0dbbf",
+          "title": "GitHub Copilot 现在可以通过计算机与桌面应用程序交互 / GitHub Copilot can now interact with desktop apps with computer use",
+          "title_zh": "GitHub Copilot 现在可以通过计算机与桌面应用程序交互",
+          "title_en": "GitHub Copilot can now interact with desktop apps with computer use",
+          "title_original": "GitHub Copilot can now interact with desktop apps with computer use",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-10-01-dynamic-workflows-in-copilot-cli-and-the-copilot-app",
+          "url": "https://github.blog/changelog/2026-10-01-github-copilot-can-now-interact-with-desktop-apps",
           "source": "GitHub Changelog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-10-01T16:30:10Z"
+          "published_at": "2026-10-01T19:11:26Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8025,
-      "importance": 0.8025,
-      "importance_score": 0.8025,
+      "score": 0.8057,
+      "importance": 0.8057,
+      "importance_score": 0.8057,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.7248,
+        "recency": 0.7427,
         "story_heat": 0.0
       },
       "category": "official",
@@ -1297,17 +1463,17 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-10-01T16:30:10Z",
-      "latest_at": "2026-10-01T16:30:10Z",
+      "earliest_at": "2026-10-01T19:11:26Z",
+      "latest_at": "2026-10-01T19:11:26Z",
       "primary_item": {
-        "id": "d8368277fa437aacb740cd4f8390b9eacc5c78de",
-        "title": "Copilot CLI 和 Copilot 应用程序中的动态工作流程 / Dynamic workflows in Copilot CLI and the Copilot app",
-        "title_zh": "Copilot CLI 和 Copilot 应用程序中的动态工作流程",
-        "title_en": "Dynamic workflows in Copilot CLI and the Copilot app",
-        "title_original": "Dynamic workflows in Copilot CLI and the Copilot app",
+        "id": "9a48fa6ff9990eabb95b9c383f2b588984b0dbbf",
+        "title": "GitHub Copilot 现在可以通过计算机与桌面应用程序交互 / GitHub Copilot can now interact with desktop apps with computer use",
+        "title_zh": "GitHub Copilot 现在可以通过计算机与桌面应用程序交互",
+        "title_en": "GitHub Copilot can now interact with desktop apps with computer use",
+        "title_original": "GitHub Copilot can now interact with desktop apps with computer use",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://github.blog/changelog/2026-10-01-dynamic-workflows-in-copilot-cli-and-the-copilot-app",
+        "url": "https://github.blog/changelog/2026-10-01-github-copilot-can-now-interact-with-desktop-apps",
         "source": "GitHub Changelog",
         "source_name": "Official AI Updates"
       },
@@ -1315,7 +1481,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-02T14:48:23.363551Z"
+        "scored_at": "2026-10-02T15:48:16.522752Z"
       }
     },
     {
@@ -1363,15 +1529,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7234,
-      "importance": 0.7234,
-      "importance_score": 0.7234,
+      "score": 0.7214,
+      "importance": 0.7214,
+      "importance_score": 0.7214,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.69,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8046,
+        "recency": 0.7931,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1396,111 +1562,30 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-02T14:48:23.363551Z"
+        "scored_at": "2026-10-02T15:48:16.522752Z"
       }
     },
     {
-      "story_id": "story_cff870b7e5ae",
-      "title": "Artificial Analysis 评测：Qwen-Image-2.1 登顶两个 AA-Image 榜单的开源权重模型 / Alibaba's Qwen-Image-2.1 is the new #1 open weights model on both the AA-Image leaderboards",
-      "url": "https://x.com/ArtificialAnlys/status/2105790682376065463",
-      "primary_url": "https://x.com/ArtificialAnlys/status/2105790682376065463",
-      "source": "X：Artificial Analysis (@ArtificialAnlys)",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "8e18fbe70daa6a142ef1934895750767f733646e",
-          "title": "Artificial Analysis 评测：Qwen-Image-2.1 登顶两个 AA-Image 榜单的开源权重模型 / Alibaba's Qwen-Image-2.1 is the new #1 open weights model on both the AA-Image leaderboards",
-          "title_zh": "Artificial Analysis 评测：Qwen-Image-2.1 登顶两个 AA-Image 榜单的开源权重模型",
-          "title_en": "Alibaba's Qwen-Image-2.1 is the new #1 open weights model on both the AA-Image leaderboards",
-          "title_original": "Alibaba's Qwen-Image-2.1 is the new #1 open weights model on both the AA-Image leaderboards",
-          "summary": "Artificial Analysis 自行本地部署评测了阿里 9 月 20 日以开源权重发布的 Qwen-Image-2.1，该模型在 AA-Image-T2I v2.0 和 AA-Image-Editing v2.0 上均排名第 18，为两个榜单上排名第一的开源权重模型，超过 Ideogram 4.0（Quality）和 HunyuanImage 3.0 Instruct。",
-          "recommend_reason_zh": null,
-          "url": "https://x.com/ArtificialAnlys/status/2105790682376065463",
-          "source": "X：Artificial Analysis (@ArtificialAnlys)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-01T22:43:17Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "X：Artificial Analysis (@ArtificialAnlys)"
-      ],
-      "items": [
-        {
-          "id": "8e18fbe70daa6a142ef1934895750767f733646e",
-          "title": "Artificial Analysis 评测：Qwen-Image-2.1 登顶两个 AA-Image 榜单的开源权重模型 / Alibaba's Qwen-Image-2.1 is the new #1 open weights model on both the AA-Image leaderboards",
-          "title_zh": "Artificial Analysis 评测：Qwen-Image-2.1 登顶两个 AA-Image 榜单的开源权重模型",
-          "title_en": "Alibaba's Qwen-Image-2.1 is the new #1 open weights model on both the AA-Image leaderboards",
-          "title_original": "Alibaba's Qwen-Image-2.1 is the new #1 open weights model on both the AA-Image leaderboards",
-          "summary": "Artificial Analysis 自行本地部署评测了阿里 9 月 20 日以开源权重发布的 Qwen-Image-2.1，该模型在 AA-Image-T2I v2.0 和 AA-Image-Editing v2.0 上均排名第 18，为两个榜单上排名第一的开源权重模型，超过 Ideogram 4.0（Quality）和 HunyuanImage 3.0 Instruct。",
-          "recommend_reason_zh": null,
-          "url": "https://x.com/ArtificialAnlys/status/2105790682376065463",
-          "source": "X：Artificial Analysis (@ArtificialAnlys)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-01T22:43:17Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7213,
-      "importance": 0.7213,
-      "importance_score": 0.7213,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.69,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7929,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-10-01T22:43:17Z",
-      "latest_at": "2026-10-01T22:43:17Z",
-      "primary_item": {
-        "id": "8e18fbe70daa6a142ef1934895750767f733646e",
-        "title": "Artificial Analysis 评测：Qwen-Image-2.1 登顶两个 AA-Image 榜单的开源权重模型 / Alibaba's Qwen-Image-2.1 is the new #1 open weights model on both the AA-Image leaderboards",
-        "title_zh": "Artificial Analysis 评测：Qwen-Image-2.1 登顶两个 AA-Image 榜单的开源权重模型",
-        "title_en": "Alibaba's Qwen-Image-2.1 is the new #1 open weights model on both the AA-Image leaderboards",
-        "title_original": "Alibaba's Qwen-Image-2.1 is the new #1 open weights model on both the AA-Image leaderboards",
-        "summary": "Artificial Analysis 自行本地部署评测了阿里 9 月 20 日以开源权重发布的 Qwen-Image-2.1，该模型在 AA-Image-T2I v2.0 和 AA-Image-Editing v2.0 上均排名第 18，为两个榜单上排名第一的开源权重模型，超过 Ideogram 4.0（Quality）和 HunyuanImage 3.0 Instruct。",
-        "recommend_reason_zh": null,
-        "url": "https://x.com/ArtificialAnlys/status/2105790682376065463",
-        "source": "X：Artificial Analysis (@ArtificialAnlys)",
-        "source_name": "AI HOT"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-10-02T14:48:23.363551Z"
-      }
-    },
-    {
-      "story_id": "story_025446a84602",
-      "title": "私人漏洞报告的结构化表格 / Structured forms for private vulnerability reports",
-      "url": "https://github.blog/changelog/2026-10-01-structured-forms-for-private-vulnerability-reports",
-      "primary_url": "https://github.blog/changelog/2026-10-01-structured-forms-for-private-vulnerability-reports",
+      "story_id": "story_4360c0773884",
+      "title": "VS Code 中的 GitHub Copilot，2026 年 9 月发布 / GitHub Copilot in VS Code, September 2026 releases",
+      "url": "https://github.blog/changelog/2026-10-01-github-copilot-in-vs-code-september-2026-releases",
+      "primary_url": "https://github.blog/changelog/2026-10-01-github-copilot-in-vs-code-september-2026-releases",
       "source": "GitHub Changelog",
       "source_name": "Official AI Updates",
       "sources": [
         {
-          "id": "ca059e6628b728224f13fba9352e61a9969427d2",
-          "title": "私人漏洞报告的结构化表格 / Structured forms for private vulnerability reports",
-          "title_zh": "私人漏洞报告的结构化表格",
-          "title_en": "Structured forms for private vulnerability reports",
-          "title_original": "Structured forms for private vulnerability reports",
+          "id": "3670b29c6a73e7815010767521ad6c93921fd71a",
+          "title": "VS Code 中的 GitHub Copilot，2026 年 9 月发布 / GitHub Copilot in VS Code, September 2026 releases",
+          "title_zh": "VS Code 中的 GitHub Copilot，2026 年 9 月发布",
+          "title_en": "GitHub Copilot in VS Code, September 2026 releases",
+          "title_original": "GitHub Copilot in VS Code, September 2026 releases",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-10-01-structured-forms-for-private-vulnerability-reports",
+          "url": "https://github.blog/changelog/2026-10-01-github-copilot-in-vs-code-september-2026-releases",
           "source": "GitHub Changelog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-10-01T19:57:28Z"
+          "published_at": "2026-10-01T19:09:10Z"
         }
       ],
       "source_count": 1,
@@ -1509,31 +1594,31 @@
       ],
       "items": [
         {
-          "id": "ca059e6628b728224f13fba9352e61a9969427d2",
-          "title": "私人漏洞报告的结构化表格 / Structured forms for private vulnerability reports",
-          "title_zh": "私人漏洞报告的结构化表格",
-          "title_en": "Structured forms for private vulnerability reports",
-          "title_original": "Structured forms for private vulnerability reports",
+          "id": "3670b29c6a73e7815010767521ad6c93921fd71a",
+          "title": "VS Code 中的 GitHub Copilot，2026 年 9 月发布 / GitHub Copilot in VS Code, September 2026 releases",
+          "title_zh": "VS Code 中的 GitHub Copilot，2026 年 9 月发布",
+          "title_en": "GitHub Copilot in VS Code, September 2026 releases",
+          "title_original": "GitHub Copilot in VS Code, September 2026 releases",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-10-01-structured-forms-for-private-vulnerability-reports",
+          "url": "https://github.blog/changelog/2026-10-01-github-copilot-in-vs-code-september-2026-releases",
           "source": "GitHub Changelog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-10-01T19:57:28Z"
+          "published_at": "2026-10-01T19:09:10Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8011,
-      "importance": 0.8011,
-      "importance_score": 0.8011,
+      "score": 0.8056,
+      "importance": 0.8056,
+      "importance_score": 0.8056,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
-        "ai_relevance": 0.87,
-        "recency": 0.7619,
+        "ai_relevance": 0.91,
+        "recency": 0.7423,
         "story_heat": 0.0
       },
       "category": "official",
@@ -1542,17 +1627,17 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-10-01T19:57:28Z",
-      "latest_at": "2026-10-01T19:57:28Z",
+      "earliest_at": "2026-10-01T19:09:10Z",
+      "latest_at": "2026-10-01T19:09:10Z",
       "primary_item": {
-        "id": "ca059e6628b728224f13fba9352e61a9969427d2",
-        "title": "私人漏洞报告的结构化表格 / Structured forms for private vulnerability reports",
-        "title_zh": "私人漏洞报告的结构化表格",
-        "title_en": "Structured forms for private vulnerability reports",
-        "title_original": "Structured forms for private vulnerability reports",
+        "id": "3670b29c6a73e7815010767521ad6c93921fd71a",
+        "title": "VS Code 中的 GitHub Copilot，2026 年 9 月发布 / GitHub Copilot in VS Code, September 2026 releases",
+        "title_zh": "VS Code 中的 GitHub Copilot，2026 年 9 月发布",
+        "title_en": "GitHub Copilot in VS Code, September 2026 releases",
+        "title_original": "GitHub Copilot in VS Code, September 2026 releases",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://github.blog/changelog/2026-10-01-structured-forms-for-private-vulnerability-reports",
+        "url": "https://github.blog/changelog/2026-10-01-github-copilot-in-vs-code-september-2026-releases",
         "source": "GitHub Changelog",
         "source_name": "Official AI Updates"
       },
@@ -1560,90 +1645,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-02T14:48:23.363551Z"
-      }
-    },
-    {
-      "story_id": "story_2b054efbb49a",
-      "title": "私人漏洞报告的速率限制 / Rate limits for private vulnerability reports",
-      "url": "https://github.blog/changelog/2026-10-01-rate-limits-for-private-vulnerability-reports",
-      "primary_url": "https://github.blog/changelog/2026-10-01-rate-limits-for-private-vulnerability-reports",
-      "source": "GitHub Changelog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "147a12f68e228f02b3cdd09aa33db76f7995db74",
-          "title": "私人漏洞报告的速率限制 / Rate limits for private vulnerability reports",
-          "title_zh": "私人漏洞报告的速率限制",
-          "title_en": "Rate limits for private vulnerability reports",
-          "title_original": "Rate limits for private vulnerability reports",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-10-01-rate-limits-for-private-vulnerability-reports",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-10-01T19:57:39Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "GitHub Changelog"
-      ],
-      "items": [
-        {
-          "id": "147a12f68e228f02b3cdd09aa33db76f7995db74",
-          "title": "私人漏洞报告的速率限制 / Rate limits for private vulnerability reports",
-          "title_zh": "私人漏洞报告的速率限制",
-          "title_en": "Rate limits for private vulnerability reports",
-          "title_original": "Rate limits for private vulnerability reports",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-10-01-rate-limits-for-private-vulnerability-reports",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-10-01T19:57:39Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8011,
-      "importance": 0.8011,
-      "importance_score": 0.8011,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.87,
-        "recency": 0.7619,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-10-01T19:57:39Z",
-      "latest_at": "2026-10-01T19:57:39Z",
-      "primary_item": {
-        "id": "147a12f68e228f02b3cdd09aa33db76f7995db74",
-        "title": "私人漏洞报告的速率限制 / Rate limits for private vulnerability reports",
-        "title_zh": "私人漏洞报告的速率限制",
-        "title_en": "Rate limits for private vulnerability reports",
-        "title_original": "Rate limits for private vulnerability reports",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://github.blog/changelog/2026-10-01-rate-limits-for-private-vulnerability-reports",
-        "source": "GitHub Changelog",
-        "source_name": "Official AI Updates"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-10-02T14:48:23.363551Z"
+        "scored_at": "2026-10-02T15:48:16.522752Z"
       }
     }
   ]
