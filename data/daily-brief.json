@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-10-02T13:47:17.940451Z",
+  "generated_at": "2026-10-02T14:47:21.934834Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
     {
       "story_id": "story_7ba973037a20",
-      "title": "Confidential comments on repository security advisories",
+      "title": "关于代码仓库安全建议的机密评论 / Confidential comments on repository security advisories",
       "url": "https://github.blog/changelog/2026-10-02-confidential-comments-on-repository-security-advisories",
       "primary_url": "https://github.blog/changelog/2026-10-02-confidential-comments-on-repository-security-advisories",
       "source": "GitHub Changelog",
@@ -13,8 +13,8 @@
       "sources": [
         {
           "id": "75d3ae652733e012708727418c039e9c82d67827",
-          "title": "Confidential comments on repository security advisories",
-          "title_zh": null,
+          "title": "关于代码仓库安全建议的机密评论 / Confidential comments on repository security advisories",
+          "title_zh": "关于代码仓库安全建议的机密评论",
           "title_en": "Confidential comments on repository security advisories",
           "title_original": "Confidential comments on repository security advisories",
           "summary": null,
@@ -33,8 +33,8 @@
       "items": [
         {
           "id": "75d3ae652733e012708727418c039e9c82d67827",
-          "title": "Confidential comments on repository security advisories",
-          "title_zh": null,
+          "title": "关于代码仓库安全建议的机密评论 / Confidential comments on repository security advisories",
+          "title_zh": "关于代码仓库安全建议的机密评论",
           "title_en": "Confidential comments on repository security advisories",
           "title_original": "Confidential comments on repository security advisories",
           "summary": null,
@@ -48,15 +48,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8426,
-      "importance": 0.8426,
-      "importance_score": 0.8426,
+      "score": 0.8401,
+      "importance": 0.8401,
+      "importance_score": 0.8401,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.9924,
+        "recency": 0.9782,
         "story_heat": 0.0
       },
       "category": "official",
@@ -69,8 +69,8 @@
       "latest_at": "2026-10-02T13:15:40Z",
       "primary_item": {
         "id": "75d3ae652733e012708727418c039e9c82d67827",
-        "title": "Confidential comments on repository security advisories",
-        "title_zh": null,
+        "title": "关于代码仓库安全建议的机密评论 / Confidential comments on repository security advisories",
+        "title_zh": "关于代码仓库安全建议的机密评论",
         "title_en": "Confidential comments on repository security advisories",
         "title_original": "Confidential comments on repository security advisories",
         "summary": null,
@@ -83,7 +83,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-02T14:02:31.382178Z"
+        "scored_at": "2026-10-02T14:48:23.363551Z"
       }
     },
     {
@@ -131,15 +131,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8363,
-      "importance": 0.8363,
-      "importance_score": 0.8363,
+      "score": 0.8341,
+      "importance": 0.8341,
+      "importance_score": 0.8341,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.8685,
+        "recency": 0.856,
         "story_heat": 0.0
       },
       "category": "official",
@@ -166,7 +166,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-02T14:02:31.382178Z"
+        "scored_at": "2026-10-02T14:48:23.363551Z"
       }
     },
     {
@@ -214,15 +214,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8053,
-      "importance": 0.8053,
-      "importance_score": 0.8053,
+      "score": 0.8034,
+      "importance": 0.8034,
+      "importance_score": 0.8034,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.7407,
+        "recency": 0.73,
         "story_heat": 0.0
       },
       "category": "official",
@@ -249,90 +249,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-02T14:02:31.382178Z"
-      }
-    },
-    {
-      "story_id": "story_a8a59d3ec43f",
-      "title": "GitHub Copilot 现在可以通过计算机与桌面应用程序交互 / GitHub Copilot can now interact with desktop apps with computer use",
-      "url": "https://github.blog/changelog/2026-10-01-github-copilot-can-now-interact-with-desktop-apps",
-      "primary_url": "https://github.blog/changelog/2026-10-01-github-copilot-can-now-interact-with-desktop-apps",
-      "source": "GitHub Changelog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "9a48fa6ff9990eabb95b9c383f2b588984b0dbbf",
-          "title": "GitHub Copilot 现在可以通过计算机与桌面应用程序交互 / GitHub Copilot can now interact with desktop apps with computer use",
-          "title_zh": "GitHub Copilot 现在可以通过计算机与桌面应用程序交互",
-          "title_en": "GitHub Copilot can now interact with desktop apps with computer use",
-          "title_original": "GitHub Copilot can now interact with desktop apps with computer use",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-10-01-github-copilot-can-now-interact-with-desktop-apps",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-10-01T19:11:26Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "GitHub Changelog"
-      ],
-      "items": [
-        {
-          "id": "9a48fa6ff9990eabb95b9c383f2b588984b0dbbf",
-          "title": "GitHub Copilot 现在可以通过计算机与桌面应用程序交互 / GitHub Copilot can now interact with desktop apps with computer use",
-          "title_zh": "GitHub Copilot 现在可以通过计算机与桌面应用程序交互",
-          "title_en": "GitHub Copilot can now interact with desktop apps with computer use",
-          "title_original": "GitHub Copilot can now interact with desktop apps with computer use",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-10-01-github-copilot-can-now-interact-with-desktop-apps",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-10-01T19:11:26Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8096,
-      "importance": 0.8096,
-      "importance_score": 0.8096,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.91,
-        "recency": 0.7645,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-10-01T19:11:26Z",
-      "latest_at": "2026-10-01T19:11:26Z",
-      "primary_item": {
-        "id": "9a48fa6ff9990eabb95b9c383f2b588984b0dbbf",
-        "title": "GitHub Copilot 现在可以通过计算机与桌面应用程序交互 / GitHub Copilot can now interact with desktop apps with computer use",
-        "title_zh": "GitHub Copilot 现在可以通过计算机与桌面应用程序交互",
-        "title_en": "GitHub Copilot can now interact with desktop apps with computer use",
-        "title_original": "GitHub Copilot can now interact with desktop apps with computer use",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://github.blog/changelog/2026-10-01-github-copilot-can-now-interact-with-desktop-apps",
-        "source": "GitHub Changelog",
-        "source_name": "Official AI Updates"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-10-02T14:02:31.382178Z"
+        "scored_at": "2026-10-02T14:48:23.363551Z"
       }
     },
     {
@@ -380,15 +297,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8096,
-      "importance": 0.8096,
-      "importance_score": 0.8096,
+      "score": 0.8077,
+      "importance": 0.8077,
+      "importance_score": 0.8077,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.7199,
+        "recency": 0.7096,
         "story_heat": 0.0
       },
       "category": "official",
@@ -415,7 +332,90 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-02T14:02:31.382178Z"
+        "scored_at": "2026-10-02T14:48:23.363551Z"
+      }
+    },
+    {
+      "story_id": "story_a8a59d3ec43f",
+      "title": "GitHub Copilot 现在可以通过计算机与桌面应用程序交互 / GitHub Copilot can now interact with desktop apps with computer use",
+      "url": "https://github.blog/changelog/2026-10-01-github-copilot-can-now-interact-with-desktop-apps",
+      "primary_url": "https://github.blog/changelog/2026-10-01-github-copilot-can-now-interact-with-desktop-apps",
+      "source": "GitHub Changelog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "9a48fa6ff9990eabb95b9c383f2b588984b0dbbf",
+          "title": "GitHub Copilot 现在可以通过计算机与桌面应用程序交互 / GitHub Copilot can now interact with desktop apps with computer use",
+          "title_zh": "GitHub Copilot 现在可以通过计算机与桌面应用程序交互",
+          "title_en": "GitHub Copilot can now interact with desktop apps with computer use",
+          "title_original": "GitHub Copilot can now interact with desktop apps with computer use",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://github.blog/changelog/2026-10-01-github-copilot-can-now-interact-with-desktop-apps",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-10-01T19:11:26Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "GitHub Changelog"
+      ],
+      "items": [
+        {
+          "id": "9a48fa6ff9990eabb95b9c383f2b588984b0dbbf",
+          "title": "GitHub Copilot 现在可以通过计算机与桌面应用程序交互 / GitHub Copilot can now interact with desktop apps with computer use",
+          "title_zh": "GitHub Copilot 现在可以通过计算机与桌面应用程序交互",
+          "title_en": "GitHub Copilot can now interact with desktop apps with computer use",
+          "title_original": "GitHub Copilot can now interact with desktop apps with computer use",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://github.blog/changelog/2026-10-01-github-copilot-can-now-interact-with-desktop-apps",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-10-01T19:11:26Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8076,
+      "importance": 0.8076,
+      "importance_score": 0.8076,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.91,
+        "recency": 0.7535,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-10-01T19:11:26Z",
+      "latest_at": "2026-10-01T19:11:26Z",
+      "primary_item": {
+        "id": "9a48fa6ff9990eabb95b9c383f2b588984b0dbbf",
+        "title": "GitHub Copilot 现在可以通过计算机与桌面应用程序交互 / GitHub Copilot can now interact with desktop apps with computer use",
+        "title_zh": "GitHub Copilot 现在可以通过计算机与桌面应用程序交互",
+        "title_en": "GitHub Copilot can now interact with desktop apps with computer use",
+        "title_original": "GitHub Copilot can now interact with desktop apps with computer use",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://github.blog/changelog/2026-10-01-github-copilot-can-now-interact-with-desktop-apps",
+        "source": "GitHub Changelog",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-10-02T14:48:23.363551Z"
       }
     },
     {
@@ -463,15 +463,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8034,
-      "importance": 0.8034,
-      "importance_score": 0.8034,
+      "score": 0.8015,
+      "importance": 0.8015,
+      "importance_score": 0.8015,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.7301,
+        "recency": 0.7196,
         "story_heat": 0.0
       },
       "category": "official",
@@ -498,7 +498,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-02T14:02:31.382178Z"
+        "scored_at": "2026-10-02T14:48:23.363551Z"
       }
     },
     {
@@ -546,15 +546,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7637,
-      "importance": 0.7637,
-      "importance_score": 0.7637,
+      "score": 0.7614,
+      "importance": 0.7614,
+      "importance_score": 0.7614,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.76,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9117,
+        "recency": 0.8986,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -580,7 +580,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-02T14:02:31.382178Z"
+        "scored_at": "2026-10-02T14:48:23.363551Z"
       }
     },
     {
@@ -628,15 +628,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7565,
-      "importance": 0.7565,
-      "importance_score": 0.7565,
+      "score": 0.7546,
+      "importance": 0.7546,
+      "importance_score": 0.7546,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.67,
         "source_tier": 1.0,
         "ai_relevance": 1.0,
-        "recency": 0.7529,
+        "recency": 0.7421,
         "story_heat": 0.0
       },
       "category": "official",
@@ -662,89 +662,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-02T14:02:31.382178Z"
-      }
-    },
-    {
-      "story_id": "story_d023c4690eff",
-      "title": "NVIDIA DGX Spark 推出 64GB 版本，10 月 23 日起以 $4,999 开售 / NVIDIA DGX Spark 64GB Gives Developers More Ways to Build and Scale Local AI",
-      "url": "https://blogs.nvidia.com/blog/local-ai-dgx-spark-64gb-sync",
-      "primary_url": "https://blogs.nvidia.com/blog/local-ai-dgx-spark-64gb-sync",
-      "source": "NVIDIA Blog（RSS）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "4704055ba4617f6054282d6374b0d71ea0596cdf",
-          "title": "NVIDIA DGX Spark 推出 64GB 版本，10 月 23 日起以 $4,999 开售 / NVIDIA DGX Spark 64GB Gives Developers More Ways to Build and Scale Local AI",
-          "title_zh": "NVIDIA DGX Spark 推出 64GB 版本，10 月 23 日起以 $4,999 开售",
-          "title_en": "NVIDIA DGX Spark 64GB Gives Developers More Ways to Build and Scale Local AI",
-          "title_original": "NVIDIA DGX Spark 64GB Gives Developers More Ways to Build and Scale Local AI",
-          "summary": "NVIDIA 宣布 DGX Spark 推出 64GB 统一内存新配置，10 月 23 日起由 Acer、ASUS、Dell、Gigabyte、HP 和 MSI 发售，起步价 $4,999，支持最高 1000 亿参数模型在端侧运行。",
-          "recommend_reason_zh": null,
-          "url": "https://blogs.nvidia.com/blog/local-ai-dgx-spark-64gb-sync",
-          "source": "NVIDIA Blog（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-02T13:00:39Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "NVIDIA Blog（RSS）"
-      ],
-      "items": [
-        {
-          "id": "4704055ba4617f6054282d6374b0d71ea0596cdf",
-          "title": "NVIDIA DGX Spark 推出 64GB 版本，10 月 23 日起以 $4,999 开售 / NVIDIA DGX Spark 64GB Gives Developers More Ways to Build and Scale Local AI",
-          "title_zh": "NVIDIA DGX Spark 推出 64GB 版本，10 月 23 日起以 $4,999 开售",
-          "title_en": "NVIDIA DGX Spark 64GB Gives Developers More Ways to Build and Scale Local AI",
-          "title_original": "NVIDIA DGX Spark 64GB Gives Developers More Ways to Build and Scale Local AI",
-          "summary": "NVIDIA 宣布 DGX Spark 推出 64GB 统一内存新配置，10 月 23 日起由 Acer、ASUS、Dell、Gigabyte、HP 和 MSI 发售，起步价 $4,999，支持最高 1000 亿参数模型在端侧运行。",
-          "recommend_reason_zh": null,
-          "url": "https://blogs.nvidia.com/blog/local-ai-dgx-spark-64gb-sync",
-          "source": "NVIDIA Blog（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-02T13:00:39Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7506,
-      "importance": 0.7506,
-      "importance_score": 0.7506,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.67,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.9888,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-10-02T13:00:39Z",
-      "latest_at": "2026-10-02T13:00:39Z",
-      "primary_item": {
-        "id": "4704055ba4617f6054282d6374b0d71ea0596cdf",
-        "title": "NVIDIA DGX Spark 推出 64GB 版本，10 月 23 日起以 $4,999 开售 / NVIDIA DGX Spark 64GB Gives Developers More Ways to Build and Scale Local AI",
-        "title_zh": "NVIDIA DGX Spark 推出 64GB 版本，10 月 23 日起以 $4,999 开售",
-        "title_en": "NVIDIA DGX Spark 64GB Gives Developers More Ways to Build and Scale Local AI",
-        "title_original": "NVIDIA DGX Spark 64GB Gives Developers More Ways to Build and Scale Local AI",
-        "summary": "NVIDIA 宣布 DGX Spark 推出 64GB 统一内存新配置，10 月 23 日起由 Acer、ASUS、Dell、Gigabyte、HP 和 MSI 发售，起步价 $4,999，支持最高 1000 亿参数模型在端侧运行。",
-        "recommend_reason_zh": null,
-        "url": "https://blogs.nvidia.com/blog/local-ai-dgx-spark-64gb-sync",
-        "source": "NVIDIA Blog（RSS）",
-        "source_name": "AI HOT"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-10-02T14:02:31.382178Z"
+        "scored_at": "2026-10-02T14:48:23.363551Z"
       }
     },
     {
@@ -792,21 +710,20 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7503,
-      "importance": 0.7503,
-      "importance_score": 0.7503,
+      "score": 0.7482,
+      "importance": 0.7482,
+      "importance_score": 0.7482,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.77,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8207,
+        "recency": 0.8089,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-10-02T00:06:15Z",
       "latest_at": "2026-10-02T00:06:15Z",
@@ -826,7 +743,88 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-02T14:02:31.382178Z"
+        "scored_at": "2026-10-02T14:48:23.363551Z"
+      }
+    },
+    {
+      "story_id": "story_d023c4690eff",
+      "title": "NVIDIA DGX Spark 推出 64GB 版本，10 月 23 日起以 $4,999 开售 / NVIDIA DGX Spark 64GB Gives Developers More Ways to Build and Scale Local AI",
+      "url": "https://blogs.nvidia.com/blog/local-ai-dgx-spark-64gb-sync",
+      "primary_url": "https://blogs.nvidia.com/blog/local-ai-dgx-spark-64gb-sync",
+      "source": "NVIDIA Blog（RSS）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "4704055ba4617f6054282d6374b0d71ea0596cdf",
+          "title": "NVIDIA DGX Spark 推出 64GB 版本，10 月 23 日起以 $4,999 开售 / NVIDIA DGX Spark 64GB Gives Developers More Ways to Build and Scale Local AI",
+          "title_zh": "NVIDIA DGX Spark 推出 64GB 版本，10 月 23 日起以 $4,999 开售",
+          "title_en": "NVIDIA DGX Spark 64GB Gives Developers More Ways to Build and Scale Local AI",
+          "title_original": "NVIDIA DGX Spark 64GB Gives Developers More Ways to Build and Scale Local AI",
+          "summary": "NVIDIA 宣布 DGX Spark 推出 64GB 统一内存新配置，10 月 23 日起由 Acer、ASUS、Dell、Gigabyte、HP 和 MSI 发售，起步价 $4,999，支持最高 1000 亿参数模型在端侧运行。",
+          "recommend_reason_zh": null,
+          "url": "https://blogs.nvidia.com/blog/local-ai-dgx-spark-64gb-sync",
+          "source": "NVIDIA Blog（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-02T13:00:39Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "NVIDIA Blog（RSS）"
+      ],
+      "items": [
+        {
+          "id": "4704055ba4617f6054282d6374b0d71ea0596cdf",
+          "title": "NVIDIA DGX Spark 推出 64GB 版本，10 月 23 日起以 $4,999 开售 / NVIDIA DGX Spark 64GB Gives Developers More Ways to Build and Scale Local AI",
+          "title_zh": "NVIDIA DGX Spark 推出 64GB 版本，10 月 23 日起以 $4,999 开售",
+          "title_en": "NVIDIA DGX Spark 64GB Gives Developers More Ways to Build and Scale Local AI",
+          "title_original": "NVIDIA DGX Spark 64GB Gives Developers More Ways to Build and Scale Local AI",
+          "summary": "NVIDIA 宣布 DGX Spark 推出 64GB 统一内存新配置，10 月 23 日起由 Acer、ASUS、Dell、Gigabyte、HP 和 MSI 发售，起步价 $4,999，支持最高 1000 亿参数模型在端侧运行。",
+          "recommend_reason_zh": null,
+          "url": "https://blogs.nvidia.com/blog/local-ai-dgx-spark-64gb-sync",
+          "source": "NVIDIA Blog（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-02T13:00:39Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.748,
+      "importance": 0.748,
+      "importance_score": 0.748,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.67,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9746,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-10-02T13:00:39Z",
+      "latest_at": "2026-10-02T13:00:39Z",
+      "primary_item": {
+        "id": "4704055ba4617f6054282d6374b0d71ea0596cdf",
+        "title": "NVIDIA DGX Spark 推出 64GB 版本，10 月 23 日起以 $4,999 开售 / NVIDIA DGX Spark 64GB Gives Developers More Ways to Build and Scale Local AI",
+        "title_zh": "NVIDIA DGX Spark 推出 64GB 版本，10 月 23 日起以 $4,999 开售",
+        "title_en": "NVIDIA DGX Spark 64GB Gives Developers More Ways to Build and Scale Local AI",
+        "title_original": "NVIDIA DGX Spark 64GB Gives Developers More Ways to Build and Scale Local AI",
+        "summary": "NVIDIA 宣布 DGX Spark 推出 64GB 统一内存新配置，10 月 23 日起由 Acer、ASUS、Dell、Gigabyte、HP 和 MSI 发售，起步价 $4,999，支持最高 1000 亿参数模型在端侧运行。",
+        "recommend_reason_zh": null,
+        "url": "https://blogs.nvidia.com/blog/local-ai-dgx-spark-64gb-sync",
+        "source": "NVIDIA Blog（RSS）",
+        "source_name": "AI HOT"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-10-02T14:48:23.363551Z"
       }
     },
     {
@@ -874,15 +872,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8095,
-      "importance": 0.8095,
-      "importance_score": 0.8095,
+      "score": 0.8076,
+      "importance": 0.8076,
+      "importance_score": 0.8076,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.7641,
+        "recency": 0.7531,
         "story_heat": 0.0
       },
       "category": "official",
@@ -909,7 +907,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-02T14:02:31.382178Z"
+        "scored_at": "2026-10-02T14:48:23.363551Z"
       }
     },
     {
@@ -957,15 +955,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7387,
-      "importance": 0.7387,
-      "importance_score": 0.7387,
+      "score": 0.7366,
+      "importance": 0.7366,
+      "importance_score": 0.7366,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.73,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8229,
+        "recency": 0.811,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -990,7 +988,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-02T14:02:31.382178Z"
+        "scored_at": "2026-10-02T14:48:23.363551Z"
       }
     },
     {
@@ -1038,15 +1036,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7607,
-      "importance": 0.7607,
-      "importance_score": 0.7607,
+      "score": 0.7586,
+      "importance": 0.7586,
+      "importance_score": 0.7586,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.8,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8283,
+        "recency": 0.8164,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1072,7 +1070,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-02T14:02:31.382178Z"
+        "scored_at": "2026-10-02T14:48:23.363551Z"
       }
     },
     {
@@ -1120,15 +1118,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7281,
-      "importance": 0.7281,
-      "importance_score": 0.7281,
+      "score": 0.7261,
+      "importance": 0.7261,
+      "importance_score": 0.7261,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7805,
+        "recency": 0.7693,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1153,7 +1151,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-02T14:02:31.382178Z"
+        "scored_at": "2026-10-02T14:48:23.363551Z"
       }
     },
     {
@@ -1201,15 +1199,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.725,
-      "importance": 0.725,
-      "importance_score": 0.725,
+      "score": 0.723,
+      "importance": 0.723,
+      "importance_score": 0.723,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.71,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.78,
+        "recency": 0.7688,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1234,88 +1232,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-02T14:02:31.382178Z"
-      }
-    },
-    {
-      "story_id": "story_f86658c50b9e",
-      "title": "FLUX 3 Image 现已登陆 Krea，支持多轮编辑与 4K 生成 / FLUX 3 Image is now on Krea.",
-      "url": "https://x.com/krea_ai/status/2105769469880799716",
-      "primary_url": "https://x.com/krea_ai/status/2105769469880799716",
-      "source": "X：Krea AI (@krea_ai)",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "f61f78ecb87af9a364695b370713ab95021622b4",
-          "title": "FLUX 3 Image 现已登陆 Krea，支持多轮编辑与 4K 生成 / FLUX 3 Image is now on Krea.",
-          "title_zh": "FLUX 3 Image 现已登陆 Krea，支持多轮编辑与 4K 生成",
-          "title_en": "FLUX 3 Image is now on Krea.",
-          "title_original": "FLUX 3 Image is now on Krea.",
-          "summary": "Krea 宣布 FLUX 3 Image 已上线其平台。新能力包括多轮编辑且不改动其他像素、用 bounding box 排版图像、最高 4K 生成，以及组合最多 10 个参考图。",
-          "recommend_reason_zh": null,
-          "url": "https://x.com/krea_ai/status/2105769469880799716",
-          "source": "X：Krea AI (@krea_ai)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-01T21:18:59Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "X：Krea AI (@krea_ai)"
-      ],
-      "items": [
-        {
-          "id": "f61f78ecb87af9a364695b370713ab95021622b4",
-          "title": "FLUX 3 Image 现已登陆 Krea，支持多轮编辑与 4K 生成 / FLUX 3 Image is now on Krea.",
-          "title_zh": "FLUX 3 Image 现已登陆 Krea，支持多轮编辑与 4K 生成",
-          "title_en": "FLUX 3 Image is now on Krea.",
-          "title_original": "FLUX 3 Image is now on Krea.",
-          "summary": "Krea 宣布 FLUX 3 Image 已上线其平台。新能力包括多轮编辑且不改动其他像素、用 bounding box 排版图像、最高 4K 生成，以及组合最多 10 个参考图。",
-          "recommend_reason_zh": null,
-          "url": "https://x.com/krea_ai/status/2105769469880799716",
-          "source": "X：Krea AI (@krea_ai)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-01T21:18:59Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7205,
-      "importance": 0.7205,
-      "importance_score": 0.7205,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.69,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7883,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-10-01T21:18:59Z",
-      "latest_at": "2026-10-01T21:18:59Z",
-      "primary_item": {
-        "id": "f61f78ecb87af9a364695b370713ab95021622b4",
-        "title": "FLUX 3 Image 现已登陆 Krea，支持多轮编辑与 4K 生成 / FLUX 3 Image is now on Krea.",
-        "title_zh": "FLUX 3 Image 现已登陆 Krea，支持多轮编辑与 4K 生成",
-        "title_en": "FLUX 3 Image is now on Krea.",
-        "title_original": "FLUX 3 Image is now on Krea.",
-        "summary": "Krea 宣布 FLUX 3 Image 已上线其平台。新能力包括多轮编辑且不改动其他像素、用 bounding box 排版图像、最高 4K 生成，以及组合最多 10 个参考图。",
-        "recommend_reason_zh": null,
-        "url": "https://x.com/krea_ai/status/2105769469880799716",
-        "source": "X：Krea AI (@krea_ai)",
-        "source_name": "AI HOT"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-10-02T14:02:31.382178Z"
+        "scored_at": "2026-10-02T14:48:23.363551Z"
       }
     },
     {
@@ -1363,15 +1280,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8044,
-      "importance": 0.8044,
-      "importance_score": 0.8044,
+      "score": 0.8025,
+      "importance": 0.8025,
+      "importance_score": 0.8025,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.7354,
+        "recency": 0.7248,
         "story_heat": 0.0
       },
       "category": "official",
@@ -1398,7 +1315,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-02T14:02:31.382178Z"
+        "scored_at": "2026-10-02T14:48:23.363551Z"
       }
     },
     {
@@ -1446,15 +1363,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7255,
-      "importance": 0.7255,
-      "importance_score": 0.7255,
+      "score": 0.7234,
+      "importance": 0.7234,
+      "importance_score": 0.7234,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.69,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8164,
+        "recency": 0.8046,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1479,7 +1396,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-02T14:02:31.382178Z"
+        "scored_at": "2026-10-02T14:48:23.363551Z"
       }
     },
     {
@@ -1527,15 +1444,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7234,
-      "importance": 0.7234,
-      "importance_score": 0.7234,
+      "score": 0.7213,
+      "importance": 0.7213,
+      "importance_score": 0.7213,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.69,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8045,
+        "recency": 0.7929,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1560,7 +1477,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-02T14:02:31.382178Z"
+        "scored_at": "2026-10-02T14:48:23.363551Z"
       }
     },
     {
@@ -1608,15 +1525,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8031,
-      "importance": 0.8031,
-      "importance_score": 0.8031,
+      "score": 0.8011,
+      "importance": 0.8011,
+      "importance_score": 0.8011,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.773,
+        "recency": 0.7619,
         "story_heat": 0.0
       },
       "category": "official",
@@ -1643,7 +1560,90 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-02T14:02:31.382178Z"
+        "scored_at": "2026-10-02T14:48:23.363551Z"
+      }
+    },
+    {
+      "story_id": "story_2b054efbb49a",
+      "title": "私人漏洞报告的速率限制 / Rate limits for private vulnerability reports",
+      "url": "https://github.blog/changelog/2026-10-01-rate-limits-for-private-vulnerability-reports",
+      "primary_url": "https://github.blog/changelog/2026-10-01-rate-limits-for-private-vulnerability-reports",
+      "source": "GitHub Changelog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "147a12f68e228f02b3cdd09aa33db76f7995db74",
+          "title": "私人漏洞报告的速率限制 / Rate limits for private vulnerability reports",
+          "title_zh": "私人漏洞报告的速率限制",
+          "title_en": "Rate limits for private vulnerability reports",
+          "title_original": "Rate limits for private vulnerability reports",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://github.blog/changelog/2026-10-01-rate-limits-for-private-vulnerability-reports",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-10-01T19:57:39Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "GitHub Changelog"
+      ],
+      "items": [
+        {
+          "id": "147a12f68e228f02b3cdd09aa33db76f7995db74",
+          "title": "私人漏洞报告的速率限制 / Rate limits for private vulnerability reports",
+          "title_zh": "私人漏洞报告的速率限制",
+          "title_en": "Rate limits for private vulnerability reports",
+          "title_original": "Rate limits for private vulnerability reports",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://github.blog/changelog/2026-10-01-rate-limits-for-private-vulnerability-reports",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-10-01T19:57:39Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8011,
+      "importance": 0.8011,
+      "importance_score": 0.8011,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.87,
+        "recency": 0.7619,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-10-01T19:57:39Z",
+      "latest_at": "2026-10-01T19:57:39Z",
+      "primary_item": {
+        "id": "147a12f68e228f02b3cdd09aa33db76f7995db74",
+        "title": "私人漏洞报告的速率限制 / Rate limits for private vulnerability reports",
+        "title_zh": "私人漏洞报告的速率限制",
+        "title_en": "Rate limits for private vulnerability reports",
+        "title_original": "Rate limits for private vulnerability reports",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://github.blog/changelog/2026-10-01-rate-limits-for-private-vulnerability-reports",
+        "source": "GitHub Changelog",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-10-02T14:48:23.363551Z"
       }
     }
   ]
