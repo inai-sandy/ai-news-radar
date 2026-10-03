@@ -1,29 +1,29 @@
 {
-  "generated_at": "2026-10-03T18:47:18.036394Z",
+  "generated_at": "2026-10-03T19:47:18.412141Z",
   "window_hours": 24,
-  "total_items": 13,
+  "total_items": 11,
   "items": [
     {
-      "story_id": "story_cc4a44476dc4",
-      "title": "Copilot 代码审查：API 支持和新的默认工作级别 / Copilot code review: API support and new default effort level",
-      "url": "https://github.blog/changelog/2026-10-02-copilot-code-review-api-support-and-new-default-effort-level",
-      "primary_url": "https://github.blog/changelog/2026-10-02-copilot-code-review-api-support-and-new-default-effort-level",
+      "story_id": "story_3f3282702712",
+      "title": "无状态 GitHub 应用程序安装令牌推出 / Stateless GitHub App installation tokens rolled out",
+      "url": "https://github.blog/changelog/2026-10-02-stateless-github-app-installation-tokens-rolled-out",
+      "primary_url": "https://github.blog/changelog/2026-10-02-stateless-github-app-installation-tokens-rolled-out",
       "source": "GitHub Changelog",
       "source_name": "Official AI Updates",
       "sources": [
         {
-          "id": "4c4bee02b6e6e7d087938a89098b4ad2a2e9898c",
-          "title": "Copilot 代码审查：API 支持和新的默认工作级别 / Copilot code review: API support and new default effort level",
-          "title_zh": "Copilot 代码审查：API 支持和新的默认工作级别",
-          "title_en": "Copilot code review: API support and new default effort level",
-          "title_original": "Copilot code review: API support and new default effort level",
+          "id": "b5bf08461ba8b82a49c1d56e22877e860c5093ab",
+          "title": "无状态 GitHub 应用程序安装令牌推出 / Stateless GitHub App installation tokens rolled out",
+          "title_zh": "无状态 GitHub 应用程序安装令牌推出",
+          "title_en": "Stateless GitHub App installation tokens rolled out",
+          "title_original": "Stateless GitHub App installation tokens rolled out",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-10-02-copilot-code-review-api-support-and-new-default-effort-level",
+          "url": "https://github.blog/changelog/2026-10-02-stateless-github-app-installation-tokens-rolled-out",
           "source": "GitHub Changelog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-10-02T19:13:50Z"
+          "published_at": "2026-10-02T22:18:23Z"
         }
       ],
       "source_count": 1,
@@ -32,31 +32,31 @@
       ],
       "items": [
         {
-          "id": "4c4bee02b6e6e7d087938a89098b4ad2a2e9898c",
-          "title": "Copilot 代码审查：API 支持和新的默认工作级别 / Copilot code review: API support and new default effort level",
-          "title_zh": "Copilot 代码审查：API 支持和新的默认工作级别",
-          "title_en": "Copilot code review: API support and new default effort level",
-          "title_original": "Copilot code review: API support and new default effort level",
+          "id": "b5bf08461ba8b82a49c1d56e22877e860c5093ab",
+          "title": "无状态 GitHub 应用程序安装令牌推出 / Stateless GitHub App installation tokens rolled out",
+          "title_zh": "无状态 GitHub 应用程序安装令牌推出",
+          "title_en": "Stateless GitHub App installation tokens rolled out",
+          "title_original": "Stateless GitHub App installation tokens rolled out",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-10-02-copilot-code-review-api-support-and-new-default-effort-level",
+          "url": "https://github.blog/changelog/2026-10-02-stateless-github-app-installation-tokens-rolled-out",
           "source": "GitHub Changelog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-10-02T19:13:50Z"
+          "published_at": "2026-10-02T22:18:23Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8001,
-      "importance": 0.8001,
-      "importance_score": 0.8001,
+      "score": 0.796,
+      "importance": 0.796,
+      "importance_score": 0.796,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
-        "ai_relevance": 0.91,
-        "recency": 0.7116,
+        "ai_relevance": 0.87,
+        "recency": 0.7333,
         "story_heat": 0.0
       },
       "category": "official",
@@ -65,17 +65,17 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-10-02T19:13:50Z",
-      "latest_at": "2026-10-02T19:13:50Z",
+      "earliest_at": "2026-10-02T22:18:23Z",
+      "latest_at": "2026-10-02T22:18:23Z",
       "primary_item": {
-        "id": "4c4bee02b6e6e7d087938a89098b4ad2a2e9898c",
-        "title": "Copilot 代码审查：API 支持和新的默认工作级别 / Copilot code review: API support and new default effort level",
-        "title_zh": "Copilot 代码审查：API 支持和新的默认工作级别",
-        "title_en": "Copilot code review: API support and new default effort level",
-        "title_original": "Copilot code review: API support and new default effort level",
+        "id": "b5bf08461ba8b82a49c1d56e22877e860c5093ab",
+        "title": "无状态 GitHub 应用程序安装令牌推出 / Stateless GitHub App installation tokens rolled out",
+        "title_zh": "无状态 GitHub 应用程序安装令牌推出",
+        "title_en": "Stateless GitHub App installation tokens rolled out",
+        "title_original": "Stateless GitHub App installation tokens rolled out",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://github.blog/changelog/2026-10-02-copilot-code-review-api-support-and-new-default-effort-level",
+        "url": "https://github.blog/changelog/2026-10-02-stateless-github-app-installation-tokens-rolled-out",
         "source": "GitHub Changelog",
         "source_name": "Official AI Updates"
       },
@@ -83,7 +83,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-03T18:48:08.510871Z"
+        "scored_at": "2026-10-03T19:48:00.435555Z"
       }
     },
     {
@@ -131,15 +131,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7835,
-      "importance": 0.7835,
-      "importance_score": 0.7835,
+      "score": 0.781,
+      "importance": 0.781,
+      "importance_score": 0.781,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.79,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9715,
+        "recency": 0.9576,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -165,90 +165,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-03T18:48:08.510871Z"
-      }
-    },
-    {
-      "story_id": "story_3f3282702712",
-      "title": "无状态 GitHub 应用程序安装令牌推出 / Stateless GitHub App installation tokens rolled out",
-      "url": "https://github.blog/changelog/2026-10-02-stateless-github-app-installation-tokens-rolled-out",
-      "primary_url": "https://github.blog/changelog/2026-10-02-stateless-github-app-installation-tokens-rolled-out",
-      "source": "GitHub Changelog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "b5bf08461ba8b82a49c1d56e22877e860c5093ab",
-          "title": "无状态 GitHub 应用程序安装令牌推出 / Stateless GitHub App installation tokens rolled out",
-          "title_zh": "无状态 GitHub 应用程序安装令牌推出",
-          "title_en": "Stateless GitHub App installation tokens rolled out",
-          "title_original": "Stateless GitHub App installation tokens rolled out",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-10-02-stateless-github-app-installation-tokens-rolled-out",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-10-02T22:18:23Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "GitHub Changelog"
-      ],
-      "items": [
-        {
-          "id": "b5bf08461ba8b82a49c1d56e22877e860c5093ab",
-          "title": "无状态 GitHub 应用程序安装令牌推出 / Stateless GitHub App installation tokens rolled out",
-          "title_zh": "无状态 GitHub 应用程序安装令牌推出",
-          "title_en": "Stateless GitHub App installation tokens rolled out",
-          "title_original": "Stateless GitHub App installation tokens rolled out",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-10-02-stateless-github-app-installation-tokens-rolled-out",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-10-02T22:18:23Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7979,
-      "importance": 0.7979,
-      "importance_score": 0.7979,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.87,
-        "recency": 0.744,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-10-02T22:18:23Z",
-      "latest_at": "2026-10-02T22:18:23Z",
-      "primary_item": {
-        "id": "b5bf08461ba8b82a49c1d56e22877e860c5093ab",
-        "title": "无状态 GitHub 应用程序安装令牌推出 / Stateless GitHub App installation tokens rolled out",
-        "title_zh": "无状态 GitHub 应用程序安装令牌推出",
-        "title_en": "Stateless GitHub App installation tokens rolled out",
-        "title_original": "Stateless GitHub App installation tokens rolled out",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://github.blog/changelog/2026-10-02-stateless-github-app-installation-tokens-rolled-out",
-        "source": "GitHub Changelog",
-        "source_name": "Official AI Updates"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-10-03T18:48:08.510871Z"
+        "scored_at": "2026-10-03T19:48:00.435555Z"
       }
     },
     {
@@ -296,15 +213,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7589,
-      "importance": 0.7589,
-      "importance_score": 0.7589,
+      "score": 0.7568,
+      "importance": 0.7568,
+      "importance_score": 0.7568,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.79,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8351,
+        "recency": 0.8231,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -330,88 +247,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-03T18:48:08.510871Z"
-      }
-    },
-    {
-      "story_id": "story_6ea06168ae24",
-      "title": "Meta 公布数学家与 Muse Spark 1.1/1.2 协作完成的六篇论文 / Following gold-medal-level performance from our AI models across five competitions in mathematics, physics, and chemistry, we asked a har...",
-      "url": "https://x.com/AIatMeta/status/2106099776035152231",
-      "primary_url": "https://x.com/AIatMeta/status/2106099776035152231",
-      "source": "X：AI at Meta (@AIatMeta)",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "98326a84abc998ad07be5df305fe1acfe2ad1af4",
-          "title": "Meta 公布数学家与 Muse Spark 1.1/1.2 协作完成的六篇论文 / Following gold-medal-level performance from our AI models across five competitions in mathematics, physics, and chemistry, we asked a har...",
-          "title_zh": "Meta 公布数学家与 Muse Spark 1.1/1.2 协作完成的六篇论文",
-          "title_en": "Following gold-medal-level performance from our AI models across five competitions in mathematics, physics, and chemistry, we asked a har...",
-          "title_original": "Following gold-medal-level performance from our AI models across five competitions in mathematics, physics, and chemistry, we asked a har...",
-          "summary": "Meta 分享数学家与 Muse Spark 1.1 和 Muse Spark 1.2（Thinking Mode）在 meta.ai 普通聊天界面下协作完成的六篇论文，面向无现成解法的开放数学问题，未使用定制研究脚手架。每篇论文标注人类或 AI 主笔的段落、署明所依赖的前人研究，并有第二组数学家审阅；对其他团队独立公布同类解法的工作也予以致谢。",
-          "recommend_reason_zh": null,
-          "url": "https://x.com/AIatMeta/status/2106099776035152231",
-          "source": "X：AI at Meta (@AIatMeta)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-02T19:11:30Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "X：AI at Meta (@AIatMeta)"
-      ],
-      "items": [
-        {
-          "id": "98326a84abc998ad07be5df305fe1acfe2ad1af4",
-          "title": "Meta 公布数学家与 Muse Spark 1.1/1.2 协作完成的六篇论文 / Following gold-medal-level performance from our AI models across five competitions in mathematics, physics, and chemistry, we asked a har...",
-          "title_zh": "Meta 公布数学家与 Muse Spark 1.1/1.2 协作完成的六篇论文",
-          "title_en": "Following gold-medal-level performance from our AI models across five competitions in mathematics, physics, and chemistry, we asked a har...",
-          "title_original": "Following gold-medal-level performance from our AI models across five competitions in mathematics, physics, and chemistry, we asked a har...",
-          "summary": "Meta 分享数学家与 Muse Spark 1.1 和 Muse Spark 1.2（Thinking Mode）在 meta.ai 普通聊天界面下协作完成的六篇论文，面向无现成解法的开放数学问题，未使用定制研究脚手架。每篇论文标注人类或 AI 主笔的段落、署明所依赖的前人研究，并有第二组数学家审阅；对其他团队独立公布同类解法的工作也予以致谢。",
-          "recommend_reason_zh": null,
-          "url": "https://x.com/AIatMeta/status/2106099776035152231",
-          "source": "X：AI at Meta (@AIatMeta)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-02T19:11:30Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.743,
-      "importance": 0.743,
-      "importance_score": 0.743,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.65,
-        "source_tier": 1.0,
-        "ai_relevance": 1.0,
-        "recency": 0.7112,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-10-02T19:11:30Z",
-      "latest_at": "2026-10-02T19:11:30Z",
-      "primary_item": {
-        "id": "98326a84abc998ad07be5df305fe1acfe2ad1af4",
-        "title": "Meta 公布数学家与 Muse Spark 1.1/1.2 协作完成的六篇论文 / Following gold-medal-level performance from our AI models across five competitions in mathematics, physics, and chemistry, we asked a har...",
-        "title_zh": "Meta 公布数学家与 Muse Spark 1.1/1.2 协作完成的六篇论文",
-        "title_en": "Following gold-medal-level performance from our AI models across five competitions in mathematics, physics, and chemistry, we asked a har...",
-        "title_original": "Following gold-medal-level performance from our AI models across five competitions in mathematics, physics, and chemistry, we asked a har...",
-        "summary": "Meta 分享数学家与 Muse Spark 1.1 和 Muse Spark 1.2（Thinking Mode）在 meta.ai 普通聊天界面下协作完成的六篇论文，面向无现成解法的开放数学问题，未使用定制研究脚手架。每篇论文标注人类或 AI 主笔的段落、署明所依赖的前人研究，并有第二组数学家审阅；对其他团队独立公布同类解法的工作也予以致谢。",
-        "recommend_reason_zh": null,
-        "url": "https://x.com/AIatMeta/status/2106099776035152231",
-        "source": "X：AI at Meta (@AIatMeta)",
-        "source_name": "AI HOT"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-10-03T18:48:08.510871Z"
+        "scored_at": "2026-10-03T19:48:00.435555Z"
       }
     },
     {
@@ -516,15 +352,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.551,
-      "importance": 0.551,
-      "importance_score": 0.551,
+      "score": 0.5487,
+      "importance": 0.5487,
+      "importance_score": 0.5487,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8902,
+        "recency": 0.8774,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -549,7 +385,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-03T18:48:08.510871Z"
+        "scored_at": "2026-10-03T19:48:00.435555Z"
       }
     },
     {
@@ -655,15 +491,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5419,
-      "importance": 0.5419,
-      "importance_score": 0.5419,
+      "score": 0.5397,
+      "importance": 0.5397,
+      "importance_score": 0.5397,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8394,
+        "recency": 0.8273,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -688,7 +524,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-03T18:48:08.510871Z"
+        "scored_at": "2026-10-03T19:48:00.435555Z"
       }
     },
     {
@@ -765,15 +601,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5356,
-      "importance": 0.5356,
-      "importance_score": 0.5356,
+      "score": 0.5331,
+      "importance": 0.5331,
+      "importance_score": 0.5331,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9431,
+        "recency": 0.9296,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -798,117 +634,117 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-03T18:48:08.510871Z"
+        "scored_at": "2026-10-03T19:48:00.435555Z"
       }
     },
     {
-      "story_id": "story_71cae9cfd0ac",
-      "title": "Muse 智能设备",
-      "url": "https://gadgets.muse.ai",
-      "primary_url": "https://gadgets.muse.ai",
-      "source": "gadgets.muse.ai",
-      "source_name": "Buzzing",
+      "story_id": "story_79411f0d75c6",
+      "title": "Pop!_OS 禁止其大部分代码库中人工智能生成的代码 / Pop!_OS bans AI-generated code from much of its codebase",
+      "url": "https://www.neowin.net/news/system76-bans-ai-generated-code-across-many-of-its-cosmic-codebases",
+      "primary_url": "https://www.neowin.net/news/system76-bans-ai-generated-code-across-many-of-its-cosmic-codebases",
+      "source": "Hacker News · 24h最热",
+      "source_name": "Zeli",
       "sources": [
         {
-          "id": "7afa1f7d417940bf1407bb69f3099a9f6eeaca20",
-          "title": "Muse 智能设备",
-          "title_zh": "Muse 智能设备",
-          "title_en": null,
-          "title_original": "Muse 智能设备",
+          "id": "6dffe42889a2eda58e4889c9d9fb9a3ba3ed6413",
+          "title": "Pop!_OS 禁止其大部分代码库中人工智能生成的代码 / Pop!_OS bans AI-generated code from much of its codebase",
+          "title_zh": "Pop!_OS 禁止其大部分代码库中人工智能生成的代码",
+          "title_en": "Pop!_OS bans AI-generated code from much of its codebase",
+          "title_original": "Pop!_OS bans AI-generated code from much of its codebase",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://gadgets.muse.ai",
-          "source": "gadgets.muse.ai",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-10-03T00:08:54.342000Z"
-        },
-        {
-          "id": "3a02e275df0561b880a8616ca526012e10f24a23",
-          "title": "Muse 智能设备 / Muse Gadgets",
-          "title_zh": "Muse 智能设备",
-          "title_en": "Muse Gadgets",
-          "title_original": "Muse Gadgets",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://gadgets.muse.ai",
+          "url": "https://www.neowin.net/news/system76-bans-ai-generated-code-across-many-of-its-cosmic-codebases",
           "source": "Hacker News · 24h最热",
           "source_name": "Zeli",
           "site_id": "zeli",
-          "published_at": "2026-10-02T19:26:54Z"
+          "published_at": "2026-10-03T17:57:03Z"
+        },
+        {
+          "id": "a9e7db9e2cedf54adec39982995ed421f86a43cb",
+          "title": "Pop!_OS 禁止其大部分代码库中人工智能生成的代码 / Pop!_OS bans AI-generated code from much of its codebase",
+          "title_zh": "Pop!_OS 禁止其大部分代码库中人工智能生成的代码",
+          "title_en": "Pop!_OS bans AI-generated code from much of its codebase",
+          "title_original": "Pop!_OS bans AI-generated code from much of its codebase",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=49946321",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-10-03T17:57:03Z"
         }
       ],
       "source_count": 2,
       "source_names": [
         "Hacker News · 24h最热",
-        "gadgets.muse.ai"
+        "hackernews"
       ],
       "items": [
         {
-          "id": "7afa1f7d417940bf1407bb69f3099a9f6eeaca20",
-          "title": "Muse 智能设备",
-          "title_zh": "Muse 智能设备",
-          "title_en": null,
-          "title_original": "Muse 智能设备",
+          "id": "6dffe42889a2eda58e4889c9d9fb9a3ba3ed6413",
+          "title": "Pop!_OS 禁止其大部分代码库中人工智能生成的代码 / Pop!_OS bans AI-generated code from much of its codebase",
+          "title_zh": "Pop!_OS 禁止其大部分代码库中人工智能生成的代码",
+          "title_en": "Pop!_OS bans AI-generated code from much of its codebase",
+          "title_original": "Pop!_OS bans AI-generated code from much of its codebase",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://gadgets.muse.ai",
-          "source": "gadgets.muse.ai",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-10-03T00:08:54.342000Z"
-        },
-        {
-          "id": "3a02e275df0561b880a8616ca526012e10f24a23",
-          "title": "Muse 智能设备 / Muse Gadgets",
-          "title_zh": "Muse 智能设备",
-          "title_en": "Muse Gadgets",
-          "title_original": "Muse Gadgets",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://gadgets.muse.ai",
+          "url": "https://www.neowin.net/news/system76-bans-ai-generated-code-across-many-of-its-cosmic-codebases",
           "source": "Hacker News · 24h最热",
           "source_name": "Zeli",
           "site_id": "zeli",
-          "published_at": "2026-10-02T19:26:54Z"
+          "published_at": "2026-10-03T17:57:03Z"
+        },
+        {
+          "id": "a9e7db9e2cedf54adec39982995ed421f86a43cb",
+          "title": "Pop!_OS 禁止其大部分代码库中人工智能生成的代码 / Pop!_OS bans AI-generated code from much of its codebase",
+          "title_zh": "Pop!_OS 禁止其大部分代码库中人工智能生成的代码",
+          "title_en": "Pop!_OS bans AI-generated code from much of its codebase",
+          "title_original": "Pop!_OS bans AI-generated code from much of its codebase",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=49946321",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-10-03T17:57:03Z"
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5033,
-      "importance": 0.5033,
-      "importance_score": 0.5033,
+      "score": 0.5411,
+      "importance": 0.5411,
+      "importance_score": 0.5411,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.764,
+        "recency": 0.9738,
         "story_heat": 0.25
       },
       "category": "watch",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-10-02T19:26:54Z",
-      "latest_at": "2026-10-03T00:08:54.342000Z",
+      "earliest_at": "2026-10-03T17:57:03Z",
+      "latest_at": "2026-10-03T17:57:03Z",
       "primary_item": {
-        "id": "7afa1f7d417940bf1407bb69f3099a9f6eeaca20",
-        "title": "Muse 智能设备",
-        "title_zh": "Muse 智能设备",
-        "title_en": null,
-        "title_original": "Muse 智能设备",
+        "id": "6dffe42889a2eda58e4889c9d9fb9a3ba3ed6413",
+        "title": "Pop!_OS 禁止其大部分代码库中人工智能生成的代码 / Pop!_OS bans AI-generated code from much of its codebase",
+        "title_zh": "Pop!_OS 禁止其大部分代码库中人工智能生成的代码",
+        "title_en": "Pop!_OS bans AI-generated code from much of its codebase",
+        "title_original": "Pop!_OS bans AI-generated code from much of its codebase",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://gadgets.muse.ai",
-        "source": "gadgets.muse.ai",
-        "source_name": "Buzzing"
+        "url": "https://www.neowin.net/news/system76-bans-ai-generated-code-across-many-of-its-cosmic-codebases",
+        "source": "Hacker News · 24h最热",
+        "source_name": "Zeli"
       },
       "persona_id": "pragmatic",
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-03T18:48:08.510871Z"
+        "scored_at": "2026-10-03T19:48:00.435555Z"
       }
     },
     {
@@ -985,15 +821,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5332,
-      "importance": 0.5332,
-      "importance_score": 0.5332,
+      "score": 0.5308,
+      "importance": 0.5308,
+      "importance_score": 0.5308,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9302,
+        "recency": 0.9168,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1018,7 +854,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-03T18:48:08.510871Z"
+        "scored_at": "2026-10-03T19:48:00.435555Z"
       }
     },
     {
@@ -1095,15 +931,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5327,
-      "importance": 0.5327,
-      "importance_score": 0.5327,
+      "score": 0.5303,
+      "importance": 0.5303,
+      "importance_score": 0.5303,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9274,
+        "recency": 0.9141,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1128,7 +964,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-03T18:48:08.510871Z"
+        "scored_at": "2026-10-03T19:48:00.435555Z"
       }
     },
     {
@@ -1205,15 +1041,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5226,
-      "importance": 0.5226,
-      "importance_score": 0.5226,
+      "score": 0.5203,
+      "importance": 0.5203,
+      "importance_score": 0.5203,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.871,
+        "recency": 0.8585,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1238,7 +1074,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-03T18:48:08.510871Z"
+        "scored_at": "2026-10-03T19:48:00.435555Z"
       }
     },
     {
@@ -1315,15 +1151,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5178,
-      "importance": 0.5178,
-      "importance_score": 0.5178,
+      "score": 0.5157,
+      "importance": 0.5157,
+      "importance_score": 0.5157,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8447,
+        "recency": 0.8326,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1348,7 +1184,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-03T18:48:08.510871Z"
+        "scored_at": "2026-10-03T19:48:00.435555Z"
       }
     }
   ]
