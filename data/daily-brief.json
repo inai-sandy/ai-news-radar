@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-10-03T16:47:18.112453Z",
+  "generated_at": "2026-10-03T17:47:25.673206Z",
   "window_hours": 24,
-  "total_items": 17,
+  "total_items": 16,
   "items": [
     {
       "story_id": "story_cc4a44476dc4",
@@ -48,15 +48,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8038,
-      "importance": 0.8038,
-      "importance_score": 0.8038,
+      "score": 0.802,
+      "importance": 0.802,
+      "importance_score": 0.802,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.7325,
+        "recency": 0.722,
         "story_heat": 0.0
       },
       "category": "official",
@@ -83,7 +83,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-03T16:48:09.753286Z"
+        "scored_at": "2026-10-03T17:48:12.350729Z"
       }
     },
     {
@@ -131,15 +131,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7886,
-      "importance": 0.7886,
-      "importance_score": 0.7886,
+      "score": 0.786,
+      "importance": 0.786,
+      "importance_score": 0.786,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.79,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.9856,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -165,7 +165,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-03T16:48:09.753286Z"
+        "scored_at": "2026-10-03T17:48:12.350729Z"
       }
     },
     {
@@ -213,15 +213,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8023,
-      "importance": 0.8023,
-      "importance_score": 0.8023,
+      "score": 0.8004,
+      "importance": 0.8004,
+      "importance_score": 0.8004,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.7238,
+        "recency": 0.7134,
         "story_heat": 0.0
       },
       "category": "official",
@@ -248,7 +248,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-03T16:48:09.753286Z"
+        "scored_at": "2026-10-03T17:48:12.350729Z"
       }
     },
     {
@@ -296,15 +296,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7633,
-      "importance": 0.7633,
-      "importance_score": 0.7633,
+      "score": 0.7611,
+      "importance": 0.7611,
+      "importance_score": 0.7611,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.79,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8596,
+        "recency": 0.8472,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -330,7 +330,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-03T16:48:09.753286Z"
+        "scored_at": "2026-10-03T17:48:12.350729Z"
       }
     },
     {
@@ -378,15 +378,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7468,
-      "importance": 0.7468,
-      "importance_score": 0.7468,
+      "score": 0.7449,
+      "importance": 0.7449,
+      "importance_score": 0.7449,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.65,
         "source_tier": 1.0,
         "ai_relevance": 1.0,
-        "recency": 0.7321,
+        "recency": 0.7216,
         "story_heat": 0.0
       },
       "category": "official",
@@ -411,7 +411,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-03T16:48:09.753286Z"
+        "scored_at": "2026-10-03T17:48:12.350729Z"
       }
     },
     {
@@ -459,15 +459,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8018,
-      "importance": 0.8018,
-      "importance_score": 0.8018,
+      "score": 0.7999,
+      "importance": 0.7999,
+      "importance_score": 0.7999,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.7658,
+        "recency": 0.7548,
         "story_heat": 0.0
       },
       "category": "official",
@@ -494,88 +494,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-03T16:48:09.753286Z"
-      }
-    },
-    {
-      "story_id": "story_24541b2d70e1",
-      "title": "Google 发布基于 TEE 的下一代联邦学习系统，Gboard 已部署 / October 2, 2026 Toward provably private learning from federated data Mobile Systems · Security, Privacy and Abuse Prevention · Software Systems & Engineering",
-      "url": "https://research.google/blog/toward-provably-private-learning-from-federated-data",
-      "primary_url": "https://research.google/blog/toward-provably-private-learning-from-federated-data",
-      "source": "Google Research：Blog（网页）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "6ef8375a03bcd0470f588b951f303a5ec9025b17",
-          "title": "Google 发布基于 TEE 的下一代联邦学习系统，Gboard 已部署 / October 2, 2026 Toward provably private learning from federated data Mobile Systems · Security, Privacy and Abuse Prevention · Software Systems & Engineering",
-          "title_zh": "Google 发布基于 TEE 的下一代联邦学习系统，Gboard 已部署",
-          "title_en": "October 2, 2026 Toward provably private learning from federated data Mobile Systems · Security, Privacy and Abuse Prevention · Software Systems & Engineering",
-          "title_original": "October 2, 2026 Toward provably private learning from federated data Mobile Systems · Security, Privacy and Abuse Prevention · Software Systems & Engineering",
-          "summary": "Google 宣布下一代联邦学习系统，利用可信执行环境（TEE）提供完全可验证、可审计的数据匿名化保证，访问策略发布至公共透明日志 Rekor，二进制可从开源代码可复现构建。Gboard 已部署该系统，用于英语和日语下一词预测模型，训练时间从过去的每次 1-2 个月显著缩短，并带来更强的隐私保证和更高的准确率。",
-          "recommend_reason_zh": null,
-          "url": "https://research.google/blog/toward-provably-private-learning-from-federated-data",
-          "source": "Google Research：Blog（网页）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": null
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Google Research：Blog（网页）"
-      ],
-      "items": [
-        {
-          "id": "6ef8375a03bcd0470f588b951f303a5ec9025b17",
-          "title": "Google 发布基于 TEE 的下一代联邦学习系统，Gboard 已部署 / October 2, 2026 Toward provably private learning from federated data Mobile Systems · Security, Privacy and Abuse Prevention · Software Systems & Engineering",
-          "title_zh": "Google 发布基于 TEE 的下一代联邦学习系统，Gboard 已部署",
-          "title_en": "October 2, 2026 Toward provably private learning from federated data Mobile Systems · Security, Privacy and Abuse Prevention · Software Systems & Engineering",
-          "title_original": "October 2, 2026 Toward provably private learning from federated data Mobile Systems · Security, Privacy and Abuse Prevention · Software Systems & Engineering",
-          "summary": "Google 宣布下一代联邦学习系统，利用可信执行环境（TEE）提供完全可验证、可审计的数据匿名化保证，访问策略发布至公共透明日志 Rekor，二进制可从开源代码可复现构建。Gboard 已部署该系统，用于英语和日语下一词预测模型，训练时间从过去的每次 1-2 个月显著缩短，并带来更强的隐私保证和更高的准确率。",
-          "recommend_reason_zh": null,
-          "url": "https://research.google/blog/toward-provably-private-learning-from-federated-data",
-          "source": "Google Research：Blog（网页）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": null
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7273,
-      "importance": 0.7273,
-      "importance_score": 0.7273,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.6,
-        "source_tier": 1.0,
-        "ai_relevance": 1.0,
-        "recency": 0.7071,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-10-02T16:47:21.969092Z",
-      "latest_at": "2026-10-02T16:47:21.969092Z",
-      "primary_item": {
-        "id": "6ef8375a03bcd0470f588b951f303a5ec9025b17",
-        "title": "Google 发布基于 TEE 的下一代联邦学习系统，Gboard 已部署 / October 2, 2026 Toward provably private learning from federated data Mobile Systems · Security, Privacy and Abuse Prevention · Software Systems & Engineering",
-        "title_zh": "Google 发布基于 TEE 的下一代联邦学习系统，Gboard 已部署",
-        "title_en": "October 2, 2026 Toward provably private learning from federated data Mobile Systems · Security, Privacy and Abuse Prevention · Software Systems & Engineering",
-        "title_original": "October 2, 2026 Toward provably private learning from federated data Mobile Systems · Security, Privacy and Abuse Prevention · Software Systems & Engineering",
-        "summary": "Google 宣布下一代联邦学习系统，利用可信执行环境（TEE）提供完全可验证、可审计的数据匿名化保证，访问策略发布至公共透明日志 Rekor，二进制可从开源代码可复现构建。Gboard 已部署该系统，用于英语和日语下一词预测模型，训练时间从过去的每次 1-2 个月显著缩短，并带来更强的隐私保证和更高的准确率。",
-        "recommend_reason_zh": null,
-        "url": "https://research.google/blog/toward-provably-private-learning-from-federated-data",
-        "source": "Google Research：Blog（网页）",
-        "source_name": "AI HOT"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-10-03T16:48:09.753286Z"
+        "scored_at": "2026-10-03T17:48:12.350729Z"
       }
     },
     {
@@ -623,15 +542,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7235,
-      "importance": 0.7235,
-      "importance_score": 0.7235,
+      "score": 0.7216,
+      "importance": 0.7216,
+      "importance_score": 0.7216,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.73,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7386,
+        "recency": 0.728,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -656,7 +575,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-03T16:48:09.753286Z"
+        "scored_at": "2026-10-03T17:48:12.350729Z"
       }
     },
     {
@@ -733,15 +652,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5986,
-      "importance": 0.5986,
-      "importance_score": 0.5986,
+      "score": 0.5968,
+      "importance": 0.5968,
+      "importance_score": 0.5968,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.5472,
         "source_tier": 0.58,
         "ai_relevance": 0.76,
-        "recency": 0.7216,
+        "recency": 0.7112,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -766,7 +685,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-03T16:48:09.753286Z"
+        "scored_at": "2026-10-03T17:48:12.350729Z"
       }
     },
     {
@@ -900,15 +819,15 @@
       ],
       "item_count": 4,
       "duplicate_count": 4,
-      "score": 0.5905,
-      "importance": 0.5905,
-      "importance_score": 0.5905,
+      "score": 0.588,
+      "importance": 0.588,
+      "importance_score": 0.588,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9708,
+        "recency": 0.9568,
         "story_heat": 0.75
       },
       "category": "multi_source",
@@ -933,7 +852,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-03T16:48:09.753286Z"
+        "scored_at": "2026-10-03T17:48:12.350729Z"
       }
     },
     {
@@ -1039,15 +958,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5463,
-      "importance": 0.5463,
-      "importance_score": 0.5463,
+      "score": 0.5441,
+      "importance": 0.5441,
+      "importance_score": 0.5441,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.864,
+        "recency": 0.8516,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1072,7 +991,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-03T16:48:09.753286Z"
+        "scored_at": "2026-10-03T17:48:12.350729Z"
       }
     },
     {
@@ -1149,15 +1068,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5381,
-      "importance": 0.5381,
-      "importance_score": 0.5381,
+      "score": 0.5357,
+      "importance": 0.5357,
+      "importance_score": 0.5357,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9574,
+        "recency": 0.9437,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1182,7 +1101,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-03T16:48:09.753286Z"
+        "scored_at": "2026-10-03T17:48:12.350729Z"
       }
     },
     {
@@ -1288,15 +1207,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5297,
-      "importance": 0.5297,
-      "importance_score": 0.5297,
+      "score": 0.5277,
+      "importance": 0.5277,
+      "importance_score": 0.5277,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7716,
+        "recency": 0.7605,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1321,117 +1240,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-03T16:48:09.753286Z"
-      }
-    },
-    {
-      "story_id": "story_829989373765",
-      "title": "美国杀手因法庭上播放受害人的人工智能视频而被撤销判决 / US killer's sentence quashed because of AI video of victim shown in court",
-      "url": "https://www.bbc.com/news/articles/cwgkvygg5nzvo",
-      "primary_url": "https://www.bbc.com/news/articles/cwgkvygg5nzvo",
-      "source": "Hacker News · 24h最热",
-      "source_name": "Zeli",
-      "sources": [
-        {
-          "id": "a06c7cd83d7de2cc04c34c6d12f609139a203daf",
-          "title": "美国杀手因法庭上播放受害人的人工智能视频而被撤销判决 / US killer's sentence quashed because of AI video of victim shown in court",
-          "title_zh": "美国杀手因法庭上播放受害人的人工智能视频而被撤销判决",
-          "title_en": "US killer's sentence quashed because of AI video of victim shown in court",
-          "title_original": "US killer's sentence quashed because of AI video of victim shown in court",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.bbc.com/news/articles/cwgkvygg5nzvo",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-10-03T13:34:18Z"
-        },
-        {
-          "id": "167cd7a9553b822d0cc1d2f52b95cf788f294181",
-          "title": "美国杀手因法庭上播放受害人的人工智能视频而被撤销判决 / US killer's sentence quashed because of AI video of victim shown in court",
-          "title_zh": "美国杀手因法庭上播放受害人的人工智能视频而被撤销判决",
-          "title_en": "US killer's sentence quashed because of AI video of victim shown in court",
-          "title_original": "US killer's sentence quashed because of AI video of victim shown in court",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=49944127",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-10-03T13:34:18Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News · 24h最热",
-        "hackernews"
-      ],
-      "items": [
-        {
-          "id": "a06c7cd83d7de2cc04c34c6d12f609139a203daf",
-          "title": "美国杀手因法庭上播放受害人的人工智能视频而被撤销判决 / US killer's sentence quashed because of AI video of victim shown in court",
-          "title_zh": "美国杀手因法庭上播放受害人的人工智能视频而被撤销判决",
-          "title_en": "US killer's sentence quashed because of AI video of victim shown in court",
-          "title_original": "US killer's sentence quashed because of AI video of victim shown in court",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.bbc.com/news/articles/cwgkvygg5nzvo",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-10-03T13:34:18Z"
-        },
-        {
-          "id": "167cd7a9553b822d0cc1d2f52b95cf788f294181",
-          "title": "美国杀手因法庭上播放受害人的人工智能视频而被撤销判决 / US killer's sentence quashed because of AI video of victim shown in court",
-          "title_zh": "美国杀手因法庭上播放受害人的人工智能视频而被撤销判决",
-          "title_en": "US killer's sentence quashed because of AI video of victim shown in court",
-          "title_original": "US killer's sentence quashed because of AI video of victim shown in court",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=49944127",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-10-03T13:34:18Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5376,
-      "importance": 0.5376,
-      "importance_score": 0.5376,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.9546,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-10-03T13:34:18Z",
-      "latest_at": "2026-10-03T13:34:18Z",
-      "primary_item": {
-        "id": "a06c7cd83d7de2cc04c34c6d12f609139a203daf",
-        "title": "美国杀手因法庭上播放受害人的人工智能视频而被撤销判决 / US killer's sentence quashed because of AI video of victim shown in court",
-        "title_zh": "美国杀手因法庭上播放受害人的人工智能视频而被撤销判决",
-        "title_en": "US killer's sentence quashed because of AI video of victim shown in court",
-        "title_original": "US killer's sentence quashed because of AI video of victim shown in court",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://www.bbc.com/news/articles/cwgkvygg5nzvo",
-        "source": "Hacker News · 24h最热",
-        "source_name": "Zeli"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-10-03T16:48:09.753286Z"
+        "scored_at": "2026-10-03T17:48:12.350729Z"
       }
     },
     {
@@ -1508,15 +1317,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5074,
-      "importance": 0.5074,
-      "importance_score": 0.5074,
+      "score": 0.5053,
+      "importance": 0.5053,
+      "importance_score": 0.5053,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7864,
+        "recency": 0.7751,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1541,7 +1350,117 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-03T16:48:09.753286Z"
+        "scored_at": "2026-10-03T17:48:12.350729Z"
+      }
+    },
+    {
+      "story_id": "story_829989373765",
+      "title": "美国杀手因法庭上播放受害人的人工智能视频而被撤销判决 / US killer's sentence quashed because of AI video of victim shown in court",
+      "url": "https://www.bbc.com/news/articles/cwgkvygg5nzvo",
+      "primary_url": "https://www.bbc.com/news/articles/cwgkvygg5nzvo",
+      "source": "Hacker News · 24h最热",
+      "source_name": "Zeli",
+      "sources": [
+        {
+          "id": "a06c7cd83d7de2cc04c34c6d12f609139a203daf",
+          "title": "美国杀手因法庭上播放受害人的人工智能视频而被撤销判决 / US killer's sentence quashed because of AI video of victim shown in court",
+          "title_zh": "美国杀手因法庭上播放受害人的人工智能视频而被撤销判决",
+          "title_en": "US killer's sentence quashed because of AI video of victim shown in court",
+          "title_original": "US killer's sentence quashed because of AI video of victim shown in court",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.bbc.com/news/articles/cwgkvygg5nzvo",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-10-03T13:34:18Z"
+        },
+        {
+          "id": "167cd7a9553b822d0cc1d2f52b95cf788f294181",
+          "title": "美国杀手因法庭上播放受害人的人工智能视频而被撤销判决 / US killer's sentence quashed because of AI video of victim shown in court",
+          "title_zh": "美国杀手因法庭上播放受害人的人工智能视频而被撤销判决",
+          "title_en": "US killer's sentence quashed because of AI video of victim shown in court",
+          "title_original": "US killer's sentence quashed because of AI video of victim shown in court",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=49944127",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-10-03T13:34:18Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News · 24h最热",
+        "hackernews"
+      ],
+      "items": [
+        {
+          "id": "a06c7cd83d7de2cc04c34c6d12f609139a203daf",
+          "title": "美国杀手因法庭上播放受害人的人工智能视频而被撤销判决 / US killer's sentence quashed because of AI video of victim shown in court",
+          "title_zh": "美国杀手因法庭上播放受害人的人工智能视频而被撤销判决",
+          "title_en": "US killer's sentence quashed because of AI video of victim shown in court",
+          "title_original": "US killer's sentence quashed because of AI video of victim shown in court",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.bbc.com/news/articles/cwgkvygg5nzvo",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-10-03T13:34:18Z"
+        },
+        {
+          "id": "167cd7a9553b822d0cc1d2f52b95cf788f294181",
+          "title": "美国杀手因法庭上播放受害人的人工智能视频而被撤销判决 / US killer's sentence quashed because of AI video of victim shown in court",
+          "title_zh": "美国杀手因法庭上播放受害人的人工智能视频而被撤销判决",
+          "title_en": "US killer's sentence quashed because of AI video of victim shown in court",
+          "title_original": "US killer's sentence quashed because of AI video of victim shown in court",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=49944127",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-10-03T13:34:18Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5352,
+      "importance": 0.5352,
+      "importance_score": 0.5352,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9409,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-10-03T13:34:18Z",
+      "latest_at": "2026-10-03T13:34:18Z",
+      "primary_item": {
+        "id": "a06c7cd83d7de2cc04c34c6d12f609139a203daf",
+        "title": "美国杀手因法庭上播放受害人的人工智能视频而被撤销判决 / US killer's sentence quashed because of AI video of victim shown in court",
+        "title_zh": "美国杀手因法庭上播放受害人的人工智能视频而被撤销判决",
+        "title_en": "US killer's sentence quashed because of AI video of victim shown in court",
+        "title_original": "US killer's sentence quashed because of AI video of victim shown in court",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://www.bbc.com/news/articles/cwgkvygg5nzvo",
+        "source": "Hacker News · 24h最热",
+        "source_name": "Zeli"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-10-03T17:48:12.350729Z"
       }
     },
     {
@@ -1618,15 +1537,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5272,
-      "importance": 0.5272,
-      "importance_score": 0.5272,
+      "score": 0.5249,
+      "importance": 0.5249,
+      "importance_score": 0.5249,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8965,
+        "recency": 0.8836,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1651,7 +1570,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-03T16:48:09.753286Z"
+        "scored_at": "2026-10-03T17:48:12.350729Z"
       }
     },
     {
@@ -1728,15 +1647,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5223,
-      "importance": 0.5223,
-      "importance_score": 0.5223,
+      "score": 0.5201,
+      "importance": 0.5201,
+      "importance_score": 0.5201,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8694,
+        "recency": 0.857,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1761,7 +1680,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-03T16:48:09.753286Z"
+        "scored_at": "2026-10-03T17:48:12.350729Z"
       }
     }
   ]
