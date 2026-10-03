@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-03T03:47:20.118593Z",
+  "generated_at": "2026-10-03T04:47:21.875899Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -48,15 +48,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8324,
-      "importance": 0.8324,
-      "importance_score": 0.8324,
+      "score": 0.8302,
+      "importance": 0.8302,
+      "importance_score": 0.8302,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.8465,
+        "recency": 0.8344,
         "story_heat": 0.0
       },
       "category": "official",
@@ -83,7 +83,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-03T03:48:02.961211Z"
+        "scored_at": "2026-10-03T04:49:37.344829Z"
       }
     },
     {
@@ -131,15 +131,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8311,
-      "importance": 0.8311,
-      "importance_score": 0.8311,
+      "score": 0.8288,
+      "importance": 0.8288,
+      "importance_score": 0.8288,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.8837,
+        "recency": 0.8711,
         "story_heat": 0.0
       },
       "category": "official",
@@ -166,7 +166,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-03T03:48:02.961211Z"
+        "scored_at": "2026-10-03T04:49:37.344829Z"
       }
     },
     {
@@ -214,15 +214,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8304,
-      "importance": 0.8304,
-      "importance_score": 0.8304,
+      "score": 0.8282,
+      "importance": 0.8282,
+      "importance_score": 0.8282,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.8353,
+        "recency": 0.8234,
         "story_heat": 0.0
       },
       "category": "official",
@@ -249,7 +249,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-03T03:48:02.961211Z"
+        "scored_at": "2026-10-03T04:49:37.344829Z"
       }
     },
     {
@@ -297,15 +297,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8196,
-      "importance": 0.8196,
-      "importance_score": 0.8196,
+      "score": 0.8175,
+      "importance": 0.8175,
+      "importance_score": 0.8175,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.9,
-        "recency": 0.8314,
+        "recency": 0.8194,
         "story_heat": 0.0
       },
       "category": "official",
@@ -332,7 +332,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-03T03:48:02.961211Z"
+        "scored_at": "2026-10-03T04:49:37.344829Z"
       }
     },
     {
@@ -380,15 +380,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8136,
-      "importance": 0.8136,
-      "importance_score": 0.8136,
+      "score": 0.8115,
+      "importance": 0.8115,
+      "importance_score": 0.8115,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.8314,
+        "recency": 0.8194,
         "story_heat": 0.0
       },
       "category": "official",
@@ -415,7 +415,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-03T03:48:02.961211Z"
+        "scored_at": "2026-10-03T04:49:37.344829Z"
       }
     },
     {
@@ -463,15 +463,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8303,
-      "importance": 0.8303,
-      "importance_score": 0.8303,
+      "score": 0.8279,
+      "importance": 0.8279,
+      "importance_score": 0.8279,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.9239,
+        "recency": 0.9106,
         "story_heat": 0.0
       },
       "category": "official",
@@ -498,7 +498,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-03T03:48:02.961211Z"
+        "scored_at": "2026-10-03T04:49:37.344829Z"
       }
     },
     {
@@ -546,15 +546,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8196,
-      "importance": 0.8196,
-      "importance_score": 0.8196,
+      "score": 0.8175,
+      "importance": 0.8175,
+      "importance_score": 0.8175,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.9,
-        "recency": 0.8314,
+        "recency": 0.8194,
         "story_heat": 0.0
       },
       "category": "official",
@@ -581,90 +581,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-03T03:48:02.961211Z"
-      }
-    },
-    {
-      "story_id": "story_7d80f29039e4",
-      "title": "AutoSynthData：为企业代理生成训练数据 / AutoSynthData: Generating Training Data for Enterprise Agents",
-      "url": "https://huggingface.co/blog/ServiceNow-AI/autosynthdata",
-      "primary_url": "https://huggingface.co/blog/ServiceNow-AI/autosynthdata",
-      "source": "Hugging Face Blog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "f965b0fded7b0c67cd412c42d0d656eb2a5c29bd",
-          "title": "AutoSynthData：为企业代理生成训练数据 / AutoSynthData: Generating Training Data for Enterprise Agents",
-          "title_zh": "AutoSynthData：为企业代理生成训练数据",
-          "title_en": "AutoSynthData: Generating Training Data for Enterprise Agents",
-          "title_original": "AutoSynthData: Generating Training Data for Enterprise Agents",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://huggingface.co/blog/ServiceNow-AI/autosynthdata",
-          "source": "Hugging Face Blog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-10-02T04:01:31Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Hugging Face Blog"
-      ],
-      "items": [
-        {
-          "id": "f965b0fded7b0c67cd412c42d0d656eb2a5c29bd",
-          "title": "AutoSynthData：为企业代理生成训练数据 / AutoSynthData: Generating Training Data for Enterprise Agents",
-          "title_zh": "AutoSynthData：为企业代理生成训练数据",
-          "title_en": "AutoSynthData: Generating Training Data for Enterprise Agents",
-          "title_original": "AutoSynthData: Generating Training Data for Enterprise Agents",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://huggingface.co/blog/ServiceNow-AI/autosynthdata",
-          "source": "Hugging Face Blog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-10-02T04:01:31Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8077,
-      "importance": 0.8077,
-      "importance_score": 0.8077,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.95,
-        "recency": 0.7095,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-10-02T04:01:31Z",
-      "latest_at": "2026-10-02T04:01:31Z",
-      "primary_item": {
-        "id": "f965b0fded7b0c67cd412c42d0d656eb2a5c29bd",
-        "title": "AutoSynthData：为企业代理生成训练数据 / AutoSynthData: Generating Training Data for Enterprise Agents",
-        "title_zh": "AutoSynthData：为企业代理生成训练数据",
-        "title_en": "AutoSynthData: Generating Training Data for Enterprise Agents",
-        "title_original": "AutoSynthData: Generating Training Data for Enterprise Agents",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://huggingface.co/blog/ServiceNow-AI/autosynthdata",
-        "source": "Hugging Face Blog",
-        "source_name": "Official AI Updates"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-10-03T03:48:02.961211Z"
+        "scored_at": "2026-10-03T04:49:37.344829Z"
       }
     },
     {
@@ -712,15 +629,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.774,
-      "importance": 0.774,
-      "importance_score": 0.774,
+      "score": 0.7717,
+      "importance": 0.7717,
+      "importance_score": 0.7717,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.65,
         "source_tier": 1.0,
         "ai_relevance": 1.0,
-        "recency": 0.8832,
+        "recency": 0.8706,
         "story_heat": 0.0
       },
       "category": "official",
@@ -746,7 +663,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-03T03:48:02.961211Z"
+        "scored_at": "2026-10-03T04:49:37.344829Z"
       }
     },
     {
@@ -794,15 +711,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8292,
-      "importance": 0.8292,
-      "importance_score": 0.8292,
+      "score": 0.8269,
+      "importance": 0.8269,
+      "importance_score": 0.8269,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.8733,
+        "recency": 0.8607,
         "story_heat": 0.0
       },
       "category": "official",
@@ -829,7 +746,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-03T03:48:02.961211Z"
+        "scored_at": "2026-10-03T04:49:37.344829Z"
       }
     },
     {
@@ -877,15 +794,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7536,
-      "importance": 0.7536,
-      "importance_score": 0.7536,
+      "score": 0.7514,
+      "importance": 0.7514,
+      "importance_score": 0.7514,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.6,
         "source_tier": 1.0,
         "ai_relevance": 1.0,
-        "recency": 0.8531,
+        "recency": 0.8409,
         "story_heat": 0.0
       },
       "category": "official",
@@ -911,7 +828,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-03T03:48:02.961211Z"
+        "scored_at": "2026-10-03T04:49:37.344829Z"
       }
     },
     {
@@ -959,21 +876,20 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.751,
-      "importance": 0.751,
-      "importance_score": 0.751,
+      "score": 0.7487,
+      "importance": 0.7487,
+      "importance_score": 0.7487,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.73,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8911,
+        "recency": 0.8783,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-10-02T19:48:16Z",
       "latest_at": "2026-10-02T19:48:16Z",
@@ -993,7 +909,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-03T03:48:02.961211Z"
+        "scored_at": "2026-10-03T04:49:37.344829Z"
       }
     },
     {
@@ -1041,15 +957,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7411,
-      "importance": 0.7411,
-      "importance_score": 0.7411,
+      "score": 0.7389,
+      "importance": 0.7389,
+      "importance_score": 0.7389,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.71,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8697,
+        "recency": 0.8572,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1074,7 +990,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-03T03:48:02.961211Z"
+        "scored_at": "2026-10-03T04:49:37.344829Z"
       }
     },
     {
@@ -1122,15 +1038,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7337,
-      "importance": 0.7337,
-      "importance_score": 0.7337,
+      "score": 0.7317,
+      "importance": 0.7317,
+      "importance_score": 0.7317,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.76,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7448,
+        "recency": 0.7341,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1155,7 +1071,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-03T03:48:02.961211Z"
+        "scored_at": "2026-10-03T04:49:37.344829Z"
       }
     },
     {
@@ -1203,15 +1119,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7272,
-      "importance": 0.7272,
-      "importance_score": 0.7272,
+      "score": 0.7248,
+      "importance": 0.7248,
+      "importance_score": 0.7248,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.64,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9087,
+        "recency": 0.8957,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1236,88 +1152,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-03T03:48:02.961211Z"
-      }
-    },
-    {
-      "story_id": "story_fb1107e372ac",
-      "title": "Google Project Suncatcher 首颗原型卫星发射入轨 / Project Suncatcher has liftoff! ☀️🚀",
-      "url": "https://x.com/GoogleAI/status/2106049984164463069",
-      "primary_url": "https://x.com/GoogleAI/status/2106049984164463069",
-      "source": "X：Google AI (@GoogleAI)",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "85a23bfcf12c8943396e2a3e845d81e8ef1a63d0",
-          "title": "Google Project Suncatcher 首颗原型卫星发射入轨 / Project Suncatcher has liftoff! ☀️🚀",
-          "title_zh": "Google Project Suncatcher 首颗原型卫星发射入轨",
-          "title_en": "Project Suncatcher has liftoff! ☀️🚀",
-          "title_original": "Project Suncatcher has liftoff! ☀️🚀",
-          "summary": "Google 宣布其探索在太空托管机器学习基础设施的 Project Suncatcher 已将一颗与 Planet 合作建造的原型卫星送入轨道，搭乘 SpaceX Transporter-18 拼车任务。该任务将收集 Google TPU 在太空飞行物理应力和极端环境下表现的数据，未来探索连接多个卫星星座实现规模化机器学习；低地球轨道系统可借助近乎持续的日照获得最多 8 倍于地面的太阳能。",
-          "recommend_reason_zh": null,
-          "url": "https://x.com/GoogleAI/status/2106049984164463069",
-          "source": "X：Google AI (@GoogleAI)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-02T15:53:39Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "X：Google AI (@GoogleAI)"
-      ],
-      "items": [
-        {
-          "id": "85a23bfcf12c8943396e2a3e845d81e8ef1a63d0",
-          "title": "Google Project Suncatcher 首颗原型卫星发射入轨 / Project Suncatcher has liftoff! ☀️🚀",
-          "title_zh": "Google Project Suncatcher 首颗原型卫星发射入轨",
-          "title_en": "Project Suncatcher has liftoff! ☀️🚀",
-          "title_original": "Project Suncatcher has liftoff! ☀️🚀",
-          "summary": "Google 宣布其探索在太空托管机器学习基础设施的 Project Suncatcher 已将一颗与 Planet 合作建造的原型卫星送入轨道，搭乘 SpaceX Transporter-18 拼车任务。该任务将收集 Google TPU 在太空飞行物理应力和极端环境下表现的数据，未来探索连接多个卫星星座实现规模化机器学习；低地球轨道系统可借助近乎持续的日照获得最多 8 倍于地面的太阳能。",
-          "recommend_reason_zh": null,
-          "url": "https://x.com/GoogleAI/status/2106049984164463069",
-          "source": "X：Google AI (@GoogleAI)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-02T15:53:39Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7212,
-      "importance": 0.7212,
-      "importance_score": 0.7212,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.66,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.8422,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-10-02T15:53:39Z",
-      "latest_at": "2026-10-02T15:53:39Z",
-      "primary_item": {
-        "id": "85a23bfcf12c8943396e2a3e845d81e8ef1a63d0",
-        "title": "Google Project Suncatcher 首颗原型卫星发射入轨 / Project Suncatcher has liftoff! ☀️🚀",
-        "title_zh": "Google Project Suncatcher 首颗原型卫星发射入轨",
-        "title_en": "Project Suncatcher has liftoff! ☀️🚀",
-        "title_original": "Project Suncatcher has liftoff! ☀️🚀",
-        "summary": "Google 宣布其探索在太空托管机器学习基础设施的 Project Suncatcher 已将一颗与 Planet 合作建造的原型卫星送入轨道，搭乘 SpaceX Transporter-18 拼车任务。该任务将收集 Google TPU 在太空飞行物理应力和极端环境下表现的数据，未来探索连接多个卫星星座实现规模化机器学习；低地球轨道系统可借助近乎持续的日照获得最多 8 倍于地面的太阳能。",
-        "recommend_reason_zh": null,
-        "url": "https://x.com/GoogleAI/status/2106049984164463069",
-        "source": "X：Google AI (@GoogleAI)",
-        "source_name": "AI HOT"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-10-03T03:48:02.961211Z"
+        "scored_at": "2026-10-03T04:49:37.344829Z"
       }
     },
     {
@@ -1365,15 +1200,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.81,
-      "importance": 0.81,
-      "importance_score": 0.81,
+      "score": 0.8079,
+      "importance": 0.8079,
+      "importance_score": 0.8079,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.8112,
+        "recency": 0.7996,
         "story_heat": 0.0
       },
       "category": "official",
@@ -1400,7 +1235,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-03T03:48:02.961211Z"
+        "scored_at": "2026-10-03T04:49:37.344829Z"
       }
     },
     {
@@ -1448,15 +1283,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7384,
-      "importance": 0.7384,
-      "importance_score": 0.7384,
+      "score": 0.7361,
+      "importance": 0.7361,
+      "importance_score": 0.7361,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.69,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.888,
+        "recency": 0.8753,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1481,7 +1316,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-03T03:48:02.961211Z"
+        "scored_at": "2026-10-03T04:49:37.344829Z"
       }
     },
     {
@@ -1529,15 +1364,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8099,
-      "importance": 0.8099,
-      "importance_score": 0.8099,
+      "score": 0.8078,
+      "importance": 0.8078,
+      "importance_score": 0.8078,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.8107,
+        "recency": 0.7991,
         "story_heat": 0.0
       },
       "category": "official",
@@ -1564,7 +1399,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-03T03:48:02.961211Z"
+        "scored_at": "2026-10-03T04:49:37.344829Z"
       }
     },
     {
@@ -1612,15 +1447,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8099,
-      "importance": 0.8099,
-      "importance_score": 0.8099,
+      "score": 0.8078,
+      "importance": 0.8078,
+      "importance_score": 0.8078,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.8108,
+        "recency": 0.7991,
         "story_heat": 0.0
       },
       "category": "official",
@@ -1647,7 +1482,256 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-03T03:48:02.961211Z"
+        "scored_at": "2026-10-03T04:49:37.344829Z"
+      }
+    },
+    {
+      "story_id": "story_2b013d60b571",
+      "title": "苹果表示，由于人工智能代理带来的新风险，它正在加强 macOS 的“全磁盘访问”控制 / Apple says it’s tightening macOS ‘Full Disk Access’ controls due to new risks from AI agents",
+      "url": "https://techcrunch.com/2026/10/02/apple-says-its-tightening-macos-full-disk-access-controls-due-to-new-risks-from-ai-agents",
+      "primary_url": "https://techcrunch.com/2026/10/02/apple-says-its-tightening-macos-full-disk-access-controls-due-to-new-risks-from-ai-agents",
+      "source": "TechCrunch AI",
+      "source_name": "Curated Media",
+      "sources": [
+        {
+          "id": "b618ad79058d803c6eb57daa4b7ccdb616c49d12",
+          "title": "苹果表示，由于人工智能代理带来的新风险，它正在加强 macOS 的“全磁盘访问”控制 / Apple says it’s tightening macOS ‘Full Disk Access’ controls due to new risks from AI agents",
+          "title_zh": "苹果表示，由于人工智能代理带来的新风险，它正在加强 macOS 的“全磁盘访问”控制",
+          "title_en": "Apple says it’s tightening macOS ‘Full Disk Access’ controls due to new risks from AI agents",
+          "title_original": "Apple says it’s tightening macOS ‘Full Disk Access’ controls due to new risks from AI agents",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://techcrunch.com/2026/10/02/apple-says-its-tightening-macos-full-disk-access-controls-due-to-new-risks-from-ai-agents",
+          "source": "TechCrunch AI",
+          "source_name": "Curated Media",
+          "site_id": "curated_media",
+          "published_at": "2026-10-02T18:11:27Z"
+        },
+        {
+          "id": "85dc2e2dec29d02989dff69bd8a07f196f5b249e",
+          "title": "由于人工智能代理带来的新风险，苹果正在收紧 macOS 的“全磁盘访问” / Apple is tightening macOS 'Full Disk Access' due to new risks from AI agents",
+          "title_zh": "由于人工智能代理带来的新风险，苹果正在收紧 macOS 的“全磁盘访问”",
+          "title_en": "Apple is tightening macOS 'Full Disk Access' due to new risks from AI agents",
+          "title_original": "Apple is tightening macOS 'Full Disk Access' due to new risks from AI agents",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://techcrunch.com/2026/10/02/apple-says-its-tightening-macos-full-disk-access-controls-due-to-new-risks-from-ai-agents",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-10-02T19:03:03Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News · 24h最热",
+        "TechCrunch AI"
+      ],
+      "items": [
+        {
+          "id": "b618ad79058d803c6eb57daa4b7ccdb616c49d12",
+          "title": "苹果表示，由于人工智能代理带来的新风险，它正在加强 macOS 的“全磁盘访问”控制 / Apple says it’s tightening macOS ‘Full Disk Access’ controls due to new risks from AI agents",
+          "title_zh": "苹果表示，由于人工智能代理带来的新风险，它正在加强 macOS 的“全磁盘访问”控制",
+          "title_en": "Apple says it’s tightening macOS ‘Full Disk Access’ controls due to new risks from AI agents",
+          "title_original": "Apple says it’s tightening macOS ‘Full Disk Access’ controls due to new risks from AI agents",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://techcrunch.com/2026/10/02/apple-says-its-tightening-macos-full-disk-access-controls-due-to-new-risks-from-ai-agents",
+          "source": "TechCrunch AI",
+          "source_name": "Curated Media",
+          "site_id": "curated_media",
+          "published_at": "2026-10-02T18:11:27Z"
+        },
+        {
+          "id": "85dc2e2dec29d02989dff69bd8a07f196f5b249e",
+          "title": "由于人工智能代理带来的新风险，苹果正在收紧 macOS 的“全磁盘访问” / Apple is tightening macOS 'Full Disk Access' due to new risks from AI agents",
+          "title_zh": "由于人工智能代理带来的新风险，苹果正在收紧 macOS 的“全磁盘访问”",
+          "title_en": "Apple is tightening macOS 'Full Disk Access' due to new risks from AI agents",
+          "title_original": "Apple is tightening macOS 'Full Disk Access' due to new risks from AI agents",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://techcrunch.com/2026/10/02/apple-says-its-tightening-macos-full-disk-access-controls-due-to-new-risks-from-ai-agents",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-10-02T19:03:03Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.6232,
+      "importance": 0.6232,
+      "importance_score": 0.6232,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.5472,
+        "source_tier": 0.58,
+        "ai_relevance": 0.76,
+        "recency": 0.8581,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-10-02T18:11:27Z",
+      "latest_at": "2026-10-02T19:03:03Z",
+      "primary_item": {
+        "id": "b618ad79058d803c6eb57daa4b7ccdb616c49d12",
+        "title": "苹果表示，由于人工智能代理带来的新风险，它正在加强 macOS 的“全磁盘访问”控制 / Apple says it’s tightening macOS ‘Full Disk Access’ controls due to new risks from AI agents",
+        "title_zh": "苹果表示，由于人工智能代理带来的新风险，它正在加强 macOS 的“全磁盘访问”控制",
+        "title_en": "Apple says it’s tightening macOS ‘Full Disk Access’ controls due to new risks from AI agents",
+        "title_original": "Apple says it’s tightening macOS ‘Full Disk Access’ controls due to new risks from AI agents",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://techcrunch.com/2026/10/02/apple-says-its-tightening-macos-full-disk-access-controls-due-to-new-risks-from-ai-agents",
+        "source": "TechCrunch AI",
+        "source_name": "Curated Media"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-10-03T04:49:37.344829Z"
+      }
+    },
+    {
+      "story_id": "story_bc103aa8fb47",
+      "title": "来自 Redis 创建者的作品；使用 ds4 在本地运行 LLM",
+      "url": "https://dwarfstar.sh",
+      "primary_url": "https://dwarfstar.sh",
+      "source": "dwarfstar.sh",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "7b7a31ed4993ecc973e4f341a5ee01b63b703e93",
+          "title": "来自 Redis 创建者的作品；使用 ds4 在本地运行 LLM",
+          "title_zh": "来自 Redis 创建者的作品；使用 ds4 在本地运行 LLM",
+          "title_en": null,
+          "title_original": "来自 Redis 创建者的作品；使用 ds4 在本地运行 LLM",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://dwarfstar.sh",
+          "source": "dwarfstar.sh",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-10-02T22:49:45.900000Z"
+        },
+        {
+          "id": "e182e6b34aa4a4a559c65ef452609c18fae4463b",
+          "title": "来自 Redis 创建者的作品；使用 ds4 在本地运行 LLM / From the creator of Redis; run LLM locally with ds4",
+          "title_zh": "来自 Redis 创建者的作品；使用 ds4 在本地运行 LLM",
+          "title_en": "From the creator of Redis; run LLM locally with ds4",
+          "title_original": "From the creator of Redis; run LLM locally with ds4",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://dwarfstar.sh",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-10-02T18:01:16Z"
+        },
+        {
+          "id": "9858d29843a45db6ecc1abb1df646663ba9e8898",
+          "title": "来自Redis的创建者；使用 ds4 在本地运行 LLM / From the creator of Redis; run LLM locally with ds4",
+          "title_zh": "来自Redis的创建者；使用 ds4 在本地运行 LLM",
+          "title_en": "From the creator of Redis; run LLM locally with ds4",
+          "title_original": "From the creator of Redis; run LLM locally with ds4",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=49936575",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-10-02T18:01:16Z"
+        }
+      ],
+      "source_count": 3,
+      "source_names": [
+        "Hacker News · 24h最热",
+        "dwarfstar.sh",
+        "hackernews"
+      ],
+      "items": [
+        {
+          "id": "7b7a31ed4993ecc973e4f341a5ee01b63b703e93",
+          "title": "来自 Redis 创建者的作品；使用 ds4 在本地运行 LLM",
+          "title_zh": "来自 Redis 创建者的作品；使用 ds4 在本地运行 LLM",
+          "title_en": null,
+          "title_original": "来自 Redis 创建者的作品；使用 ds4 在本地运行 LLM",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://dwarfstar.sh",
+          "source": "dwarfstar.sh",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-10-02T22:49:45.900000Z"
+        },
+        {
+          "id": "e182e6b34aa4a4a559c65ef452609c18fae4463b",
+          "title": "来自 Redis 创建者的作品；使用 ds4 在本地运行 LLM / From the creator of Redis; run LLM locally with ds4",
+          "title_zh": "来自 Redis 创建者的作品；使用 ds4 在本地运行 LLM",
+          "title_en": "From the creator of Redis; run LLM locally with ds4",
+          "title_original": "From the creator of Redis; run LLM locally with ds4",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://dwarfstar.sh",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-10-02T18:01:16Z"
+        },
+        {
+          "id": "9858d29843a45db6ecc1abb1df646663ba9e8898",
+          "title": "来自Redis的创建者；使用 ds4 在本地运行 LLM / From the creator of Redis; run LLM locally with ds4",
+          "title_zh": "来自Redis的创建者；使用 ds4 在本地运行 LLM",
+          "title_en": "From the creator of Redis; run LLM locally with ds4",
+          "title_original": "From the creator of Redis; run LLM locally with ds4",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=49936575",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-10-02T18:01:16Z"
+        }
+      ],
+      "item_count": 3,
+      "duplicate_count": 3,
+      "score": 0.556,
+      "importance": 0.556,
+      "importance_score": 0.556,
+      "importance_label": "多源热议",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9175,
+        "story_heat": 0.5
+      },
+      "category": "multi_source",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-10-02T18:01:16Z",
+      "latest_at": "2026-10-02T22:49:45.900000Z",
+      "primary_item": {
+        "id": "7b7a31ed4993ecc973e4f341a5ee01b63b703e93",
+        "title": "来自 Redis 创建者的作品；使用 ds4 在本地运行 LLM",
+        "title_zh": "来自 Redis 创建者的作品；使用 ds4 在本地运行 LLM",
+        "title_en": null,
+        "title_original": "来自 Redis 创建者的作品；使用 ds4 在本地运行 LLM",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://dwarfstar.sh",
+        "source": "dwarfstar.sh",
+        "source_name": "Buzzing"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-10-03T04:49:37.344829Z"
       }
     }
   ]
