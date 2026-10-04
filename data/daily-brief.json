@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-10-04T06:47:18.698244Z",
+  "generated_at": "2026-10-04T07:47:20.016070Z",
   "window_hours": 24,
-  "total_items": 14,
+  "total_items": 13,
   "items": [
     {
       "story_id": "story_1be63ddb3fed",
@@ -48,15 +48,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8403,
-      "importance": 0.8403,
-      "importance_score": 0.8403,
+      "score": 0.838,
+      "importance": 0.838,
+      "importance_score": 0.838,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.8908,
+        "recency": 0.878,
         "story_heat": 0.0
       },
       "category": "official",
@@ -83,7 +83,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-04T06:47:59.857813Z"
+        "scored_at": "2026-10-04T07:48:05.200475Z"
       }
     },
     {
@@ -131,15 +131,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7608,
-      "importance": 0.7608,
-      "importance_score": 0.7608,
+      "score": 0.7586,
+      "importance": 0.7586,
+      "importance_score": 0.7586,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.77,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8792,
+        "recency": 0.8665,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -165,7 +165,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-04T06:47:59.857813Z"
+        "scored_at": "2026-10-04T07:48:05.200475Z"
       }
     },
     {
@@ -213,15 +213,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7557,
-      "importance": 0.7557,
-      "importance_score": 0.7557,
+      "score": 0.7535,
+      "importance": 0.7535,
+      "importance_score": 0.7535,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.79,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.817,
+        "recency": 0.8052,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -247,7 +247,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-04T06:47:59.857813Z"
+        "scored_at": "2026-10-04T07:48:05.200475Z"
       }
     },
     {
@@ -353,15 +353,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5567,
-      "importance": 0.5567,
-      "importance_score": 0.5567,
+      "score": 0.5543,
+      "importance": 0.5543,
+      "importance_score": 0.5543,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9218,
+        "recency": 0.9086,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -386,7 +386,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-04T06:47:59.857813Z"
+        "scored_at": "2026-10-04T07:48:05.200475Z"
       }
     },
     {
@@ -492,15 +492,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5506,
-      "importance": 0.5506,
-      "importance_score": 0.5506,
+      "score": 0.5483,
+      "importance": 0.5483,
+      "importance_score": 0.5483,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8876,
+        "recency": 0.8749,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -525,7 +525,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-04T06:47:59.857813Z"
+        "scored_at": "2026-10-04T07:48:05.200475Z"
       }
     },
     {
@@ -631,15 +631,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5488,
-      "importance": 0.5488,
-      "importance_score": 0.5488,
+      "score": 0.5465,
+      "importance": 0.5465,
+      "importance_score": 0.5465,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8778,
+        "recency": 0.8652,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -664,7 +664,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-04T06:47:59.857813Z"
+        "scored_at": "2026-10-04T07:48:05.200475Z"
       }
     },
     {
@@ -769,15 +769,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5255,
-      "importance": 0.5255,
-      "importance_score": 0.5255,
+      "score": 0.5236,
+      "importance": 0.5236,
+      "importance_score": 0.5236,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7485,
+        "recency": 0.7378,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -802,7 +802,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-04T06:47:59.857813Z"
+        "scored_at": "2026-10-04T07:48:05.200475Z"
       }
     },
     {
@@ -879,15 +879,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5086,
-      "importance": 0.5086,
-      "importance_score": 0.5086,
+      "score": 0.5065,
+      "importance": 0.5065,
+      "importance_score": 0.5065,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7931,
+        "recency": 0.7817,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -912,7 +912,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-04T06:47:59.857813Z"
+        "scored_at": "2026-10-04T07:48:05.200475Z"
       }
     },
     {
@@ -989,15 +989,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5188,
-      "importance": 0.5188,
-      "importance_score": 0.5188,
+      "score": 0.5166,
+      "importance": 0.5166,
+      "importance_score": 0.5166,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8502,
+        "recency": 0.838,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1022,7 +1022,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-04T06:47:59.857813Z"
+        "scored_at": "2026-10-04T07:48:05.200475Z"
       }
     },
     {
@@ -1099,15 +1099,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5153,
-      "importance": 0.5153,
-      "importance_score": 0.5153,
+      "score": 0.5132,
+      "importance": 0.5132,
+      "importance_score": 0.5132,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8308,
+        "recency": 0.8189,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1132,7 +1132,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-04T06:47:59.857813Z"
+        "scored_at": "2026-10-04T07:48:05.200475Z"
       }
     },
     {
@@ -1209,15 +1209,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5149,
-      "importance": 0.5149,
-      "importance_score": 0.5149,
+      "score": 0.5128,
+      "importance": 0.5128,
+      "importance_score": 0.5128,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8283,
+        "recency": 0.8164,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1242,7 +1242,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-04T06:47:59.857813Z"
+        "scored_at": "2026-10-04T07:48:05.200475Z"
       }
     },
     {
@@ -1319,15 +1319,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5062,
-      "importance": 0.5062,
-      "importance_score": 0.5062,
+      "score": 0.5042,
+      "importance": 0.5042,
+      "importance_score": 0.5042,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7799,
+        "recency": 0.7687,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1352,7 +1352,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-04T06:47:59.857813Z"
+        "scored_at": "2026-10-04T07:48:05.200475Z"
       }
     },
     {
@@ -1429,15 +1429,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4976,
-      "importance": 0.4976,
-      "importance_score": 0.4976,
+      "score": 0.4957,
+      "importance": 0.4957,
+      "importance_score": 0.4957,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7324,
+        "recency": 0.7219,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1462,117 +1462,7 @@
       "persona_score": 0,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-04T06:47:59.857813Z"
-      }
-    },
-    {
-      "story_id": "story_047bfe54a498",
-      "title": "了解前沿人工智能 / Understanding Frontier Artificial Intelligence",
-      "url": "https://casp.ac/reports/intelligence-explosion",
-      "primary_url": "https://casp.ac/reports/intelligence-explosion",
-      "source": "Hacker News · 24h最热",
-      "source_name": "Zeli",
-      "sources": [
-        {
-          "id": "cdab341a767b6bd073d950398865017a43cc9890",
-          "title": "了解前沿人工智能 / Understanding Frontier Artificial Intelligence",
-          "title_zh": "了解前沿人工智能",
-          "title_en": "Understanding Frontier Artificial Intelligence",
-          "title_original": "Understanding Frontier Artificial Intelligence",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://casp.ac/reports/intelligence-explosion",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-10-03T07:06:02Z"
-        },
-        {
-          "id": "50b030484c651d6ced0bb71ba09c85f2a7e79070",
-          "title": "了解前沿人工智能 / Understanding Frontier Artificial Intelligence",
-          "title_zh": "了解前沿人工智能",
-          "title_en": "Understanding Frontier Artificial Intelligence",
-          "title_original": "Understanding Frontier Artificial Intelligence",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=49942002",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-10-03T07:06:02Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News · 24h最热",
-        "hackernews"
-      ],
-      "items": [
-        {
-          "id": "cdab341a767b6bd073d950398865017a43cc9890",
-          "title": "了解前沿人工智能 / Understanding Frontier Artificial Intelligence",
-          "title_zh": "了解前沿人工智能",
-          "title_en": "Understanding Frontier Artificial Intelligence",
-          "title_original": "Understanding Frontier Artificial Intelligence",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://casp.ac/reports/intelligence-explosion",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-10-03T07:06:02Z"
-        },
-        {
-          "id": "50b030484c651d6ced0bb71ba09c85f2a7e79070",
-          "title": "了解前沿人工智能 / Understanding Frontier Artificial Intelligence",
-          "title_zh": "了解前沿人工智能",
-          "title_en": "Understanding Frontier Artificial Intelligence",
-          "title_original": "Understanding Frontier Artificial Intelligence",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=49942002",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-10-03T07:06:02Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.4937,
-      "importance": 0.4937,
-      "importance_score": 0.4937,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.7103,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-10-03T07:06:02Z",
-      "latest_at": "2026-10-03T07:06:02Z",
-      "primary_item": {
-        "id": "cdab341a767b6bd073d950398865017a43cc9890",
-        "title": "了解前沿人工智能 / Understanding Frontier Artificial Intelligence",
-        "title_zh": "了解前沿人工智能",
-        "title_en": "Understanding Frontier Artificial Intelligence",
-        "title_original": "Understanding Frontier Artificial Intelligence",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://casp.ac/reports/intelligence-explosion",
-        "source": "Hacker News · 24h最热",
-        "source_name": "Zeli"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 0,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-10-04T06:47:59.857813Z"
+        "scored_at": "2026-10-04T07:48:05.200475Z"
       }
     }
   ]
