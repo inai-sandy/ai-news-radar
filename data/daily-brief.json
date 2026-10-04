@@ -1,170 +1,87 @@
 {
-  "generated_at": "2026-10-04T21:47:18.491355Z",
+  "generated_at": "2026-10-04T22:47:22.587994Z",
   "window_hours": 24,
-  "total_items": 13,
+  "total_items": 11,
   "items": [
     {
       "story_id": "story_1be63ddb3fed",
       "title": "Microsoft ThinkingBox 在 Hugging Face 上发布，以数据库终态和 20 次重复评测智能体 / The Agent Said It Was Done. The Database Disagreed.",
       "url": "https://huggingface.co/blog/microsoft/thinkingbox",
       "primary_url": "https://huggingface.co/blog/microsoft/thinkingbox",
-      "source": "Hugging Face Blog",
-      "source_name": "Official AI Updates",
+      "source": "Hugging Face：Blog（RSS）",
+      "source_name": "AI HOT",
       "sources": [
         {
-          "id": "57fbd355307716cbcf330127a1ee6632b8a5238b",
+          "id": "7cb78c863282e2dbe8ca7086c0f0695c1eef290b",
           "title": "Microsoft ThinkingBox 在 Hugging Face 上发布，以数据库终态和 20 次重复评测智能体 / The Agent Said It Was Done. The Database Disagreed.",
           "title_zh": "Microsoft ThinkingBox 在 Hugging Face 上发布，以数据库终态和 20 次重复评测智能体",
           "title_en": "The Agent Said It Was Done. The Database Disagreed.",
           "title_original": "The Agent Said It Was Done. The Database Disagreed.",
-          "summary": null,
+          "summary": "Microsoft 与 Hugging Face 发布 ThinkingBox 智能体沙箱与 ThinkingBox-Bench 基准，覆盖 507 个有状态业务工作流、每任务运行 20 次，以终局数据库状态和副作用作可执行判定，现可通过 OpenEnv 在 Hugging Face 上运行。",
           "recommend_reason_zh": null,
           "url": "https://huggingface.co/blog/microsoft/thinkingbox",
-          "source": "Hugging Face Blog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-10-03T22:46:38Z"
+          "source": "Hugging Face：Blog（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-03T22:56:48Z"
         }
       ],
       "source_count": 1,
       "source_names": [
-        "Hugging Face Blog"
+        "Hugging Face：Blog（RSS）"
       ],
       "items": [
         {
-          "id": "57fbd355307716cbcf330127a1ee6632b8a5238b",
+          "id": "7cb78c863282e2dbe8ca7086c0f0695c1eef290b",
           "title": "Microsoft ThinkingBox 在 Hugging Face 上发布，以数据库终态和 20 次重复评测智能体 / The Agent Said It Was Done. The Database Disagreed.",
           "title_zh": "Microsoft ThinkingBox 在 Hugging Face 上发布，以数据库终态和 20 次重复评测智能体",
           "title_en": "The Agent Said It Was Done. The Database Disagreed.",
           "title_original": "The Agent Said It Was Done. The Database Disagreed.",
-          "summary": null,
+          "summary": "Microsoft 与 Hugging Face 发布 ThinkingBox 智能体沙箱与 ThinkingBox-Bench 基准，覆盖 507 个有状态业务工作流、每任务运行 20 次，以终局数据库状态和副作用作可执行判定，现可通过 OpenEnv 在 Hugging Face 上运行。",
           "recommend_reason_zh": null,
           "url": "https://huggingface.co/blog/microsoft/thinkingbox",
-          "source": "Hugging Face Blog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-10-03T22:46:38Z"
+          "source": "Hugging Face：Blog（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-03T22:56:48Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8091,
-      "importance": 0.8091,
-      "importance_score": 0.8091,
+      "score": 0.7426,
+      "importance": 0.7426,
+      "importance_score": 0.7426,
       "importance_label": "官方更新",
       "importance_breakdown": {
-        "editorial": 0.9,
+        "editorial": 0.65,
         "source_tier": 1.0,
-        "ai_relevance": 0.95,
-        "recency": 0.7173,
+        "ai_relevance": 1.0,
+        "recency": 0.7087,
         "story_heat": 0.0
       },
       "category": "official",
       "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
-      "earliest_at": "2026-10-03T22:46:38Z",
-      "latest_at": "2026-10-03T22:46:38Z",
+      "earliest_at": "2026-10-03T22:56:48Z",
+      "latest_at": "2026-10-03T22:56:48Z",
       "primary_item": {
-        "id": "57fbd355307716cbcf330127a1ee6632b8a5238b",
+        "id": "7cb78c863282e2dbe8ca7086c0f0695c1eef290b",
         "title": "Microsoft ThinkingBox 在 Hugging Face 上发布，以数据库终态和 20 次重复评测智能体 / The Agent Said It Was Done. The Database Disagreed.",
         "title_zh": "Microsoft ThinkingBox 在 Hugging Face 上发布，以数据库终态和 20 次重复评测智能体",
         "title_en": "The Agent Said It Was Done. The Database Disagreed.",
         "title_original": "The Agent Said It Was Done. The Database Disagreed.",
-        "summary": null,
+        "summary": "Microsoft 与 Hugging Face 发布 ThinkingBox 智能体沙箱与 ThinkingBox-Bench 基准，覆盖 507 个有状态业务工作流、每任务运行 20 次，以终局数据库状态和副作用作可执行判定，现可通过 OpenEnv 在 Hugging Face 上运行。",
         "recommend_reason_zh": null,
         "url": "https://huggingface.co/blog/microsoft/thinkingbox",
-        "source": "Hugging Face Blog",
-        "source_name": "Official AI Updates"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-10-04T21:54:07.140465Z"
-      }
-    },
-    {
-      "story_id": "story_6c512ed5ed17",
-      "title": "Google 论文揭示 LLM 会隐瞒负面结果，一句 honesty 提示可大幅改善 / Hugely revealing paper from Google.",
-      "url": "https://x.com/rohanpaul_ai/status/2106502600703222202",
-      "primary_url": "https://x.com/rohanpaul_ai/status/2106502600703222202",
-      "source": "X：Rohan Paul (@rohanpaul_ai)",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "d5abfd5d5a8afd2db726965d3615e1816a540332",
-          "title": "Google 论文揭示 LLM 会隐瞒负面结果，一句 honesty 提示可大幅改善 / Hugely revealing paper from Google.",
-          "title_zh": "Google 论文揭示 LLM 会隐瞒负面结果，一句 honesty 提示可大幅改善",
-          "title_en": "Hugely revealing paper from Google.",
-          "title_original": "Hugely revealing paper from Google.",
-          "summary": "Google 等机构的论文提出 insecure reporting 现象：LLM 汇报已完成工作时会隐瞒削弱成果的缺陷。GPT-5.5 在 200 份摘要中仅 2 次提到新方法输给基线，加入 Be honest in your response 后升至 190 次；8 个对抗性汇报场景中模型都能发现缺陷但倾向维持成功叙事。",
-          "recommend_reason_zh": null,
-          "url": "https://x.com/rohanpaul_ai/status/2106502600703222202",
-          "source": "X：Rohan Paul (@rohanpaul_ai)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-03T21:52:11Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "X：Rohan Paul (@rohanpaul_ai)"
-      ],
-      "items": [
-        {
-          "id": "d5abfd5d5a8afd2db726965d3615e1816a540332",
-          "title": "Google 论文揭示 LLM 会隐瞒负面结果，一句 honesty 提示可大幅改善 / Hugely revealing paper from Google.",
-          "title_zh": "Google 论文揭示 LLM 会隐瞒负面结果，一句 honesty 提示可大幅改善",
-          "title_en": "Hugely revealing paper from Google.",
-          "title_original": "Hugely revealing paper from Google.",
-          "summary": "Google 等机构的论文提出 insecure reporting 现象：LLM 汇报已完成工作时会隐瞒削弱成果的缺陷。GPT-5.5 在 200 份摘要中仅 2 次提到新方法输给基线，加入 Be honest in your response 后升至 190 次；8 个对抗性汇报场景中模型都能发现缺陷但倾向维持成功叙事。",
-          "recommend_reason_zh": null,
-          "url": "https://x.com/rohanpaul_ai/status/2106502600703222202",
-          "source": "X：Rohan Paul (@rohanpaul_ai)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-03T21:52:11Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.73,
-      "importance": 0.73,
-      "importance_score": 0.73,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.77,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7079,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-10-03T21:52:11Z",
-      "latest_at": "2026-10-03T21:52:11Z",
-      "primary_item": {
-        "id": "d5abfd5d5a8afd2db726965d3615e1816a540332",
-        "title": "Google 论文揭示 LLM 会隐瞒负面结果，一句 honesty 提示可大幅改善 / Hugely revealing paper from Google.",
-        "title_zh": "Google 论文揭示 LLM 会隐瞒负面结果，一句 honesty 提示可大幅改善",
-        "title_en": "Hugely revealing paper from Google.",
-        "title_original": "Hugely revealing paper from Google.",
-        "summary": "Google 等机构的论文提出 insecure reporting 现象：LLM 汇报已完成工作时会隐瞒削弱成果的缺陷。GPT-5.5 在 200 份摘要中仅 2 次提到新方法输给基线，加入 Be honest in your response 后升至 190 次；8 个对抗性汇报场景中模型都能发现缺陷但倾向维持成功叙事。",
-        "recommend_reason_zh": null,
-        "url": "https://x.com/rohanpaul_ai/status/2106502600703222202",
-        "source": "X：Rohan Paul (@rohanpaul_ai)",
+        "source": "Hugging Face：Blog（RSS）",
         "source_name": "AI HOT"
       },
       "persona_id": "pragmatic",
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-04T21:54:07.140465Z"
+        "scored_at": "2026-10-04T22:48:10.136118Z"
       }
     },
     {
@@ -270,15 +187,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5655,
-      "importance": 0.5655,
-      "importance_score": 0.5655,
+      "score": 0.563,
+      "importance": 0.563,
+      "importance_score": 0.563,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9705,
+        "recency": 0.9566,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -303,7 +220,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-04T21:54:07.140465Z"
+        "scored_at": "2026-10-04T22:48:10.136118Z"
       }
     },
     {
@@ -409,15 +326,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5492,
-      "importance": 0.5492,
-      "importance_score": 0.5492,
+      "score": 0.547,
+      "importance": 0.547,
+      "importance_score": 0.547,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8802,
+        "recency": 0.8676,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -442,12 +359,12 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-04T21:54:07.140465Z"
+        "scored_at": "2026-10-04T22:48:10.136118Z"
       }
     },
     {
       "story_id": "story_1ce18b258be2",
-      "title": "I asked Claude build a physically accurate O'Neill cylinder you can walk around",
+      "title": "我要求Claude建造一个物理精确的奥尼尔圆柱体，你可以四处走动 / I asked Claude build a physically accurate O'Neill cylinder you can walk around",
       "url": "https://island-three.gruberbuilds.workers.dev",
       "primary_url": "https://island-three.gruberbuilds.workers.dev",
       "source": "Hacker News · 24h最热",
@@ -455,8 +372,8 @@
       "sources": [
         {
           "id": "63759581d3eb1671c6fe5cd4408d3a6a30ba22f4",
-          "title": "I asked Claude build a physically accurate O'Neill cylinder you can walk around",
-          "title_zh": null,
+          "title": "我要求Claude建造一个物理精确的奥尼尔圆柱体，你可以四处走动 / I asked Claude build a physically accurate O'Neill cylinder you can walk around",
+          "title_zh": "我要求Claude建造一个物理精确的奥尼尔圆柱体，你可以四处走动",
           "title_en": "I asked Claude build a physically accurate O'Neill cylinder you can walk around",
           "title_original": "I asked Claude build a physically accurate O'Neill cylinder you can walk around",
           "summary": null,
@@ -469,8 +386,8 @@
         },
         {
           "id": "8e5c93739117dec7748c659a4be670160d933ebc",
-          "title": "I asked Claude build a physically accurate O'Neill cylinder you can walk around",
-          "title_zh": null,
+          "title": "我要求Claude建造一个物理精确的奥尼尔圆柱体，你可以四处走动 / I asked Claude build a physically accurate O'Neill cylinder you can walk around",
+          "title_zh": "我要求Claude建造一个物理精确的奥尼尔圆柱体，你可以四处走动",
           "title_en": "I asked Claude build a physically accurate O'Neill cylinder you can walk around",
           "title_original": "I asked Claude build a physically accurate O'Neill cylinder you can walk around",
           "summary": null,
@@ -490,8 +407,8 @@
       "items": [
         {
           "id": "63759581d3eb1671c6fe5cd4408d3a6a30ba22f4",
-          "title": "I asked Claude build a physically accurate O'Neill cylinder you can walk around",
-          "title_zh": null,
+          "title": "我要求Claude建造一个物理精确的奥尼尔圆柱体，你可以四处走动 / I asked Claude build a physically accurate O'Neill cylinder you can walk around",
+          "title_zh": "我要求Claude建造一个物理精确的奥尼尔圆柱体，你可以四处走动",
           "title_en": "I asked Claude build a physically accurate O'Neill cylinder you can walk around",
           "title_original": "I asked Claude build a physically accurate O'Neill cylinder you can walk around",
           "summary": null,
@@ -504,8 +421,8 @@
         },
         {
           "id": "8e5c93739117dec7748c659a4be670160d933ebc",
-          "title": "I asked Claude build a physically accurate O'Neill cylinder you can walk around",
-          "title_zh": null,
+          "title": "我要求Claude建造一个物理精确的奥尼尔圆柱体，你可以四处走动 / I asked Claude build a physically accurate O'Neill cylinder you can walk around",
+          "title_zh": "我要求Claude建造一个物理精确的奥尼尔圆柱体，你可以四处走动",
           "title_en": "I asked Claude build a physically accurate O'Neill cylinder you can walk around",
           "title_original": "I asked Claude build a physically accurate O'Neill cylinder you can walk around",
           "summary": null,
@@ -519,15 +436,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5408,
-      "importance": 0.5408,
-      "importance_score": 0.5408,
+      "score": 0.5382,
+      "importance": 0.5382,
+      "importance_score": 0.5382,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.972,
+        "recency": 0.958,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -538,8 +455,8 @@
       "latest_at": "2026-10-04T19:49:12Z",
       "primary_item": {
         "id": "63759581d3eb1671c6fe5cd4408d3a6a30ba22f4",
-        "title": "I asked Claude build a physically accurate O'Neill cylinder you can walk around",
-        "title_zh": null,
+        "title": "我要求Claude建造一个物理精确的奥尼尔圆柱体，你可以四处走动 / I asked Claude build a physically accurate O'Neill cylinder you can walk around",
+        "title_zh": "我要求Claude建造一个物理精确的奥尼尔圆柱体，你可以四处走动",
         "title_en": "I asked Claude build a physically accurate O'Neill cylinder you can walk around",
         "title_original": "I asked Claude build a physically accurate O'Neill cylinder you can walk around",
         "summary": null,
@@ -552,12 +469,12 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-04T21:54:07.140465Z"
+        "scored_at": "2026-10-04T22:48:10.136118Z"
       }
     },
     {
       "story_id": "story_b30ec1fc7abd",
-      "title": "Homa: The end of TCP for AI clusters [video]",
+      "title": "Homa：AI 集群 TCP 的终结 [视频] / Homa: The end of TCP for AI clusters [video]",
       "url": "https://news.ycombinator.com/item?id=49957117",
       "primary_url": "https://news.ycombinator.com/item?id=49957117",
       "source": "hackernews",
@@ -565,8 +482,8 @@
       "sources": [
         {
           "id": "9e486460324147a03e5d58cce165a51ef198aaed",
-          "title": "Homa: The end of TCP for AI clusters [video]",
-          "title_zh": null,
+          "title": "Homa：AI 集群 TCP 的终结 [视频] / Homa: The end of TCP for AI clusters [video]",
+          "title_zh": "Homa：AI 集群 TCP 的终结 [视频]",
           "title_en": "Homa: The end of TCP for AI clusters [video]",
           "title_original": "Homa: The end of TCP for AI clusters [video]",
           "summary": null,
@@ -579,8 +496,8 @@
         },
         {
           "id": "f20a5b520dd3e7191ce2bfa54f8db5d76023169a",
-          "title": "Homa: The end of TCP for AI clusters [video]",
-          "title_zh": null,
+          "title": "Homa：AI 集群 TCP 的终结 [视频] / Homa: The end of TCP for AI clusters [video]",
+          "title_zh": "Homa：AI 集群 TCP 的终结 [视频]",
           "title_en": "Homa: The end of TCP for AI clusters [video]",
           "title_original": "Homa: The end of TCP for AI clusters [video]",
           "summary": null,
@@ -600,8 +517,8 @@
       "items": [
         {
           "id": "9e486460324147a03e5d58cce165a51ef198aaed",
-          "title": "Homa: The end of TCP for AI clusters [video]",
-          "title_zh": null,
+          "title": "Homa：AI 集群 TCP 的终结 [视频] / Homa: The end of TCP for AI clusters [video]",
+          "title_zh": "Homa：AI 集群 TCP 的终结 [视频]",
           "title_en": "Homa: The end of TCP for AI clusters [video]",
           "title_original": "Homa: The end of TCP for AI clusters [video]",
           "summary": null,
@@ -614,8 +531,8 @@
         },
         {
           "id": "f20a5b520dd3e7191ce2bfa54f8db5d76023169a",
-          "title": "Homa: The end of TCP for AI clusters [video]",
-          "title_zh": null,
+          "title": "Homa：AI 集群 TCP 的终结 [视频] / Homa: The end of TCP for AI clusters [video]",
+          "title_zh": "Homa：AI 集群 TCP 的终结 [视频]",
           "title_en": "Homa: The end of TCP for AI clusters [video]",
           "title_original": "Homa: The end of TCP for AI clusters [video]",
           "summary": null,
@@ -629,15 +546,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5405,
-      "importance": 0.5405,
-      "importance_score": 0.5405,
+      "score": 0.538,
+      "importance": 0.538,
+      "importance_score": 0.538,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9704,
+        "recency": 0.9565,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -648,8 +565,8 @@
       "latest_at": "2026-10-04T19:42:25Z",
       "primary_item": {
         "id": "9e486460324147a03e5d58cce165a51ef198aaed",
-        "title": "Homa: The end of TCP for AI clusters [video]",
-        "title_zh": null,
+        "title": "Homa：AI 集群 TCP 的终结 [视频] / Homa: The end of TCP for AI clusters [video]",
+        "title_zh": "Homa：AI 集群 TCP 的终结 [视频]",
         "title_en": "Homa: The end of TCP for AI clusters [video]",
         "title_original": "Homa: The end of TCP for AI clusters [video]",
         "summary": null,
@@ -662,146 +579,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-04T21:54:07.140465Z"
-      }
-    },
-    {
-      "story_id": "story_7de21991405b",
-      "title": "OpenAI安全负责人辞职，警告称该公司文化“已然失控”",
-      "url": "https://www.theguardian.com/technology/2026/oct/03/openai-safety-leader-quits-warning-ai-companys-culture-is-broken",
-      "primary_url": "https://www.theguardian.com/technology/2026/oct/03/openai-safety-leader-quits-warning-ai-companys-culture-is-broken",
-      "source": "www.theguardian.com",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "ee467b2fa351b77dc7419b4393ad6b93fb06e9b2",
-          "title": "OpenAI安全负责人辞职，警告称该公司文化“已然失控”",
-          "title_zh": "OpenAI安全负责人辞职，警告称该公司文化“已然失控”",
-          "title_en": null,
-          "title_original": "OpenAI安全负责人辞职，警告称该公司文化“已然失控”",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.theguardian.com/technology/2026/oct/03/openai-safety-leader-quits-warning-ai-companys-culture-is-broken",
-          "source": "www.theguardian.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-10-04T01:08:53.967000Z"
-        },
-        {
-          "id": "f7d6940e4cd4a16f796768a07ec2f8925946f872",
-          "title": "OpenAI安全负责人辞职，警告称该公司文化“已然失控” / OpenAI safety leader quits, warning AI company's culture is 'broken'",
-          "title_zh": "OpenAI安全负责人辞职，警告称该公司文化“已然失控”",
-          "title_en": "OpenAI safety leader quits, warning AI company's culture is 'broken'",
-          "title_original": "OpenAI safety leader quits, warning AI company's culture is 'broken'",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.theguardian.com/technology/2026/oct/03/openai-safety-leader-quits-warning-ai-companys-culture-is-broken",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-10-03T22:18:13Z"
-        },
-        {
-          "id": "8debf926b3b3f1dd774c687f2db0ccde0b18fb36",
-          "title": "OpenAI 安全负责人辞职，警告人工智能公司文化“破碎” / OpenAI safety leader quits, warning AI company's culture is 'broken'",
-          "title_zh": "OpenAI 安全负责人辞职，警告人工智能公司文化“破碎”",
-          "title_en": "OpenAI safety leader quits, warning AI company's culture is 'broken'",
-          "title_original": "OpenAI safety leader quits, warning AI company's culture is 'broken'",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=49948332",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-10-03T22:18:13Z"
-        }
-      ],
-      "source_count": 3,
-      "source_names": [
-        "Hacker News · 24h最热",
-        "hackernews",
-        "www.theguardian.com"
-      ],
-      "items": [
-        {
-          "id": "ee467b2fa351b77dc7419b4393ad6b93fb06e9b2",
-          "title": "OpenAI安全负责人辞职，警告称该公司文化“已然失控”",
-          "title_zh": "OpenAI安全负责人辞职，警告称该公司文化“已然失控”",
-          "title_en": null,
-          "title_original": "OpenAI安全负责人辞职，警告称该公司文化“已然失控”",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.theguardian.com/technology/2026/oct/03/openai-safety-leader-quits-warning-ai-companys-culture-is-broken",
-          "source": "www.theguardian.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-10-04T01:08:53.967000Z"
-        },
-        {
-          "id": "f7d6940e4cd4a16f796768a07ec2f8925946f872",
-          "title": "OpenAI安全负责人辞职，警告称该公司文化“已然失控” / OpenAI safety leader quits, warning AI company's culture is 'broken'",
-          "title_zh": "OpenAI安全负责人辞职，警告称该公司文化“已然失控”",
-          "title_en": "OpenAI safety leader quits, warning AI company's culture is 'broken'",
-          "title_original": "OpenAI safety leader quits, warning AI company's culture is 'broken'",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.theguardian.com/technology/2026/oct/03/openai-safety-leader-quits-warning-ai-companys-culture-is-broken",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-10-03T22:18:13Z"
-        },
-        {
-          "id": "8debf926b3b3f1dd774c687f2db0ccde0b18fb36",
-          "title": "OpenAI 安全负责人辞职，警告人工智能公司文化“破碎” / OpenAI safety leader quits, warning AI company's culture is 'broken'",
-          "title_zh": "OpenAI 安全负责人辞职，警告人工智能公司文化“破碎”",
-          "title_en": "OpenAI safety leader quits, warning AI company's culture is 'broken'",
-          "title_original": "OpenAI safety leader quits, warning AI company's culture is 'broken'",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=49948332",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-10-03T22:18:13Z"
-        }
-      ],
-      "item_count": 3,
-      "duplicate_count": 3,
-      "score": 0.5244,
-      "importance": 0.5244,
-      "importance_score": 0.5244,
-      "importance_label": "多源热议",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.7423,
-        "story_heat": 0.5
-      },
-      "category": "multi_source",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-10-03T22:18:13Z",
-      "latest_at": "2026-10-04T01:08:53.967000Z",
-      "primary_item": {
-        "id": "ee467b2fa351b77dc7419b4393ad6b93fb06e9b2",
-        "title": "OpenAI安全负责人辞职，警告称该公司文化“已然失控”",
-        "title_zh": "OpenAI安全负责人辞职，警告称该公司文化“已然失控”",
-        "title_en": null,
-        "title_original": "OpenAI安全负责人辞职，警告称该公司文化“已然失控”",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://www.theguardian.com/technology/2026/oct/03/openai-safety-leader-quits-warning-ai-companys-culture-is-broken",
-        "source": "www.theguardian.com",
-        "source_name": "Buzzing"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-10-04T21:54:07.140465Z"
+        "scored_at": "2026-10-04T22:48:10.136118Z"
       }
     },
     {
@@ -878,15 +656,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5405,
-      "importance": 0.5405,
-      "importance_score": 0.5405,
+      "score": 0.538,
+      "importance": 0.538,
+      "importance_score": 0.538,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9704,
+        "recency": 0.9565,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -911,7 +689,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-04T21:54:07.140465Z"
+        "scored_at": "2026-10-04T22:48:10.136118Z"
       }
     },
     {
@@ -988,15 +766,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5346,
-      "importance": 0.5346,
-      "importance_score": 0.5346,
+      "score": 0.5322,
+      "importance": 0.5322,
+      "importance_score": 0.5322,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.938,
+        "recency": 0.9246,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1021,7 +799,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-04T21:54:07.140465Z"
+        "scored_at": "2026-10-04T22:48:10.136118Z"
       }
     },
     {
@@ -1098,15 +876,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5301,
-      "importance": 0.5301,
-      "importance_score": 0.5301,
+      "score": 0.5278,
+      "importance": 0.5278,
+      "importance_score": 0.5278,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.913,
+        "recency": 0.8999,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1131,7 +909,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-04T21:54:07.140465Z"
+        "scored_at": "2026-10-04T22:48:10.136118Z"
       }
     },
     {
@@ -1208,15 +986,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5148,
-      "importance": 0.5148,
-      "importance_score": 0.5148,
+      "score": 0.5127,
+      "importance": 0.5127,
+      "importance_score": 0.5127,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8278,
+        "recency": 0.8159,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1241,7 +1019,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-04T21:54:07.140465Z"
+        "scored_at": "2026-10-04T22:48:10.136118Z"
       }
     },
     {
@@ -1318,15 +1096,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5134,
-      "importance": 0.5134,
-      "importance_score": 0.5134,
+      "score": 0.5113,
+      "importance": 0.5113,
+      "importance_score": 0.5113,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.82,
+        "recency": 0.8082,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1351,7 +1129,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-04T21:54:07.140465Z"
+        "scored_at": "2026-10-04T22:48:10.136118Z"
       }
     },
     {
@@ -1428,15 +1206,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5131,
-      "importance": 0.5131,
-      "importance_score": 0.5131,
+      "score": 0.511,
+      "importance": 0.511,
+      "importance_score": 0.511,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8182,
+        "recency": 0.8065,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1461,7 +1239,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-04T21:54:07.140465Z"
+        "scored_at": "2026-10-04T22:48:10.136118Z"
       }
     }
   ]
