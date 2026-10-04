@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-10-04T14:47:21.405779Z",
+  "generated_at": "2026-10-04T15:47:21.543837Z",
   "window_hours": 24,
-  "total_items": 11,
+  "total_items": 12,
   "items": [
     {
       "story_id": "story_1be63ddb3fed",
@@ -48,15 +48,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8228,
-      "importance": 0.8228,
-      "importance_score": 0.8228,
+      "score": 0.8208,
+      "importance": 0.8208,
+      "importance_score": 0.8208,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.7936,
+        "recency": 0.7822,
         "story_heat": 0.0
       },
       "category": "official",
@@ -83,7 +83,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-04T14:53:40.763588Z"
+        "scored_at": "2026-10-04T15:48:24.240049Z"
       }
     },
     {
@@ -131,15 +131,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7436,
-      "importance": 0.7436,
-      "importance_score": 0.7436,
+      "score": 0.7416,
+      "importance": 0.7416,
+      "importance_score": 0.7416,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.77,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7832,
+        "recency": 0.772,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -164,7 +164,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-04T14:53:40.763588Z"
+        "scored_at": "2026-10-04T15:48:24.240049Z"
       }
     },
     {
@@ -212,15 +212,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7396,
-      "importance": 0.7396,
-      "importance_score": 0.7396,
+      "score": 0.7377,
+      "importance": 0.7377,
+      "importance_score": 0.7377,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.79,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7278,
+        "recency": 0.7174,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -245,7 +245,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-04T14:53:40.763588Z"
+        "scored_at": "2026-10-04T15:48:24.240049Z"
       }
     },
     {
@@ -351,15 +351,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5661,
-      "importance": 0.5661,
-      "importance_score": 0.5661,
+      "score": 0.5636,
+      "importance": 0.5636,
+      "importance_score": 0.5636,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9738,
+        "recency": 0.9599,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -384,7 +384,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-04T14:53:40.763588Z"
+        "scored_at": "2026-10-04T15:48:24.240049Z"
       }
     },
     {
@@ -490,15 +490,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5582,
-      "importance": 0.5582,
-      "importance_score": 0.5582,
+      "score": 0.5558,
+      "importance": 0.5558,
+      "importance_score": 0.5558,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9301,
+        "recency": 0.9167,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -523,7 +523,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-04T14:53:40.763588Z"
+        "scored_at": "2026-10-04T15:48:24.240049Z"
       }
     },
     {
@@ -629,15 +629,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5582,
-      "importance": 0.5582,
-      "importance_score": 0.5582,
+      "score": 0.5558,
+      "importance": 0.5558,
+      "importance_score": 0.5558,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9301,
+        "recency": 0.9167,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -662,7 +662,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-04T14:53:40.763588Z"
+        "scored_at": "2026-10-04T15:48:24.240049Z"
       }
     },
     {
@@ -768,15 +768,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5386,
-      "importance": 0.5386,
-      "importance_score": 0.5386,
+      "score": 0.5365,
+      "importance": 0.5365,
+      "importance_score": 0.5365,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8212,
+        "recency": 0.8094,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -801,7 +801,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-04T14:53:40.763588Z"
+        "scored_at": "2026-10-04T15:48:24.240049Z"
       }
     },
     {
@@ -907,15 +907,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5331,
-      "importance": 0.5331,
-      "importance_score": 0.5331,
+      "score": 0.5311,
+      "importance": 0.5311,
+      "importance_score": 0.5311,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7908,
+        "recency": 0.7794,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -940,7 +940,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-04T14:53:40.763588Z"
+        "scored_at": "2026-10-04T15:48:24.240049Z"
       }
     },
     {
@@ -1017,15 +1017,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5324,
-      "importance": 0.5324,
-      "importance_score": 0.5324,
+      "score": 0.53,
+      "importance": 0.53,
+      "importance_score": 0.53,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9253,
+        "recency": 0.9121,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1050,7 +1050,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-04T14:53:40.763588Z"
+        "scored_at": "2026-10-04T15:48:24.240049Z"
       }
     },
     {
@@ -1127,15 +1127,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5291,
-      "importance": 0.5291,
-      "importance_score": 0.5291,
+      "score": 0.5267,
+      "importance": 0.5267,
+      "importance_score": 0.5267,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9072,
+        "recency": 0.8942,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1160,7 +1160,117 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-04T14:53:40.763588Z"
+        "scored_at": "2026-10-04T15:48:24.240049Z"
+      }
+    },
+    {
+      "story_id": "story_e2e9012cd33f",
+      "title": "人工智能时代纯数学研究的未来是什么？ / What's the Future for Pure Math Research in the Age of AI?",
+      "url": "https://news.ycombinator.com/item?id=49951641",
+      "primary_url": "https://news.ycombinator.com/item?id=49951641",
+      "source": "hackernews",
+      "source_name": "NewsNow",
+      "sources": [
+        {
+          "id": "e0107a07192b52e623f73e779a90b98fe272f119",
+          "title": "人工智能时代纯数学研究的未来是什么？ / What's the Future for Pure Math Research in the Age of AI?",
+          "title_zh": "人工智能时代纯数学研究的未来是什么？",
+          "title_en": "What's the Future for Pure Math Research in the Age of AI?",
+          "title_original": "What's the Future for Pure Math Research in the Age of AI?",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=49951641",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-10-04T07:53:45Z"
+        },
+        {
+          "id": "7fdda745d47b3a3603395b623b51468705002d09",
+          "title": "人工智能时代纯数学研究的未来是什么？ / What's the Future for Pure Math Research in the Age of AI?",
+          "title_zh": "人工智能时代纯数学研究的未来是什么？",
+          "title_en": "What's the Future for Pure Math Research in the Age of AI?",
+          "title_original": "What's the Future for Pure Math Research in the Age of AI?",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://writings.stephenwolfram.com/2026/09/whats-the-future-for-pure-math-research-in-the-age-of-ai",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-10-04T07:53:45Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News · 24h最热",
+        "hackernews"
+      ],
+      "items": [
+        {
+          "id": "e0107a07192b52e623f73e779a90b98fe272f119",
+          "title": "人工智能时代纯数学研究的未来是什么？ / What's the Future for Pure Math Research in the Age of AI?",
+          "title_zh": "人工智能时代纯数学研究的未来是什么？",
+          "title_en": "What's the Future for Pure Math Research in the Age of AI?",
+          "title_original": "What's the Future for Pure Math Research in the Age of AI?",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=49951641",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-10-04T07:53:45Z"
+        },
+        {
+          "id": "7fdda745d47b3a3603395b623b51468705002d09",
+          "title": "人工智能时代纯数学研究的未来是什么？ / What's the Future for Pure Math Research in the Age of AI?",
+          "title_zh": "人工智能时代纯数学研究的未来是什么？",
+          "title_en": "What's the Future for Pure Math Research in the Age of AI?",
+          "title_original": "What's the Future for Pure Math Research in the Age of AI?",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://writings.stephenwolfram.com/2026/09/whats-the-future-for-pure-math-research-in-the-age-of-ai",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-10-04T07:53:45Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5264,
+      "importance": 0.5264,
+      "importance_score": 0.5264,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.8923,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-10-04T07:53:45Z",
+      "latest_at": "2026-10-04T07:53:45Z",
+      "primary_item": {
+        "id": "e0107a07192b52e623f73e779a90b98fe272f119",
+        "title": "人工智能时代纯数学研究的未来是什么？ / What's the Future for Pure Math Research in the Age of AI?",
+        "title_zh": "人工智能时代纯数学研究的未来是什么？",
+        "title_en": "What's the Future for Pure Math Research in the Age of AI?",
+        "title_original": "What's the Future for Pure Math Research in the Age of AI?",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://news.ycombinator.com/item?id=49951641",
+        "source": "hackernews",
+        "source_name": "NewsNow"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-10-04T15:48:24.240049Z"
       }
     },
     {
@@ -1237,15 +1347,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5021,
-      "importance": 0.5021,
-      "importance_score": 0.5021,
+      "score": 0.5002,
+      "importance": 0.5002,
+      "importance_score": 0.5002,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7575,
+        "recency": 0.7466,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1270,7 +1380,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-04T14:53:40.763588Z"
+        "scored_at": "2026-10-04T15:48:24.240049Z"
       }
     }
   ]
