@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-10-05T19:53:12.044190Z",
+  "generated_at": "2026-10-05T21:47:27.933231Z",
   "window_hours": 24,
-  "total_items": 17,
+  "total_items": 19,
   "items": [
     {
       "story_id": "story_b4c0a1b83afc",
@@ -48,15 +48,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8402,
-      "importance": 0.8402,
-      "importance_score": 0.8402,
+      "score": 0.8355,
+      "importance": 0.8355,
+      "importance_score": 0.8355,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.9,
-        "recency": 0.9453,
+        "recency": 0.9197,
         "story_heat": 0.0
       },
       "category": "official",
@@ -83,7 +83,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-05T19:54:05.536850Z"
+        "scored_at": "2026-10-05T21:58:46.180374Z"
       }
     },
     {
@@ -131,15 +131,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8397,
-      "importance": 0.8397,
-      "importance_score": 0.8397,
+      "score": 0.8352,
+      "importance": 0.8352,
+      "importance_score": 0.8352,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.9319,
+        "recency": 0.9066,
         "story_heat": 0.0
       },
       "category": "official",
@@ -166,7 +166,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-05T19:54:05.536850Z"
+        "scored_at": "2026-10-05T21:58:46.180374Z"
       }
     },
     {
@@ -272,15 +272,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.8305,
-      "importance": 0.8305,
-      "importance_score": 0.8305,
+      "score": 0.8257,
+      "importance": 0.8257,
+      "importance_score": 0.8257,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.78,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9716,
+        "recency": 0.9453,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -307,7 +307,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-05T19:54:05.536850Z"
+        "scored_at": "2026-10-05T21:58:46.180374Z"
       }
     },
     {
@@ -355,15 +355,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8211,
-      "importance": 0.8211,
-      "importance_score": 0.8211,
+      "score": 0.8174,
+      "importance": 0.8174,
+      "importance_score": 0.8174,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.98,
-        "recency": 0.7504,
+        "recency": 0.73,
         "story_heat": 0.0
       },
       "category": "official",
@@ -390,7 +390,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-05T19:54:05.536850Z"
+        "scored_at": "2026-10-05T21:58:46.180374Z"
       }
     },
     {
@@ -438,15 +438,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8281,
-      "importance": 0.8281,
-      "importance_score": 0.8281,
+      "score": 0.8238,
+      "importance": 0.8238,
+      "importance_score": 0.8238,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.867,
+        "recency": 0.8434,
         "story_heat": 0.0
       },
       "category": "official",
@@ -473,7 +473,89 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-05T19:54:05.536850Z"
+        "scored_at": "2026-10-05T21:58:46.180374Z"
+      }
+    },
+    {
+      "story_id": "story_651dc5458423",
+      "title": "SemiAnalysis 测算：Anthropic 订阅的 API 等价价值约为 OpenAI 的 5 倍以上 / Anthropic Subscriptions Offer 5x+ More Value Than OpenAI",
+      "url": "https://newsletter.semianalysis.com/p/anthropic-subscriptions-offer-5x",
+      "primary_url": "https://newsletter.semianalysis.com/p/anthropic-subscriptions-offer-5x",
+      "source": "SemiAnalysis 长文 RSS（RSS）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "b906c87e1be812fa3e77f08e9b3992962674d815",
+          "title": "SemiAnalysis 测算：Anthropic 订阅的 API 等价价值约为 OpenAI 的 5 倍以上 / Anthropic Subscriptions Offer 5x+ More Value Than OpenAI",
+          "title_zh": "SemiAnalysis 测算：Anthropic 订阅的 API 等价价值约为 OpenAI 的 5 倍以上",
+          "title_en": "Anthropic Subscriptions Offer 5x+ More Value Than OpenAI",
+          "title_original": "Anthropic Subscriptions Offer 5x+ More Value Than OpenAI",
+          "summary": "SemiAnalysis 通过逐项测量用量表变化，估算各订阅计划的 API 等价价值，结论是在中端模型档位 Anthropic 订阅的价值约为 OpenAI 的 5 倍。",
+          "recommend_reason_zh": null,
+          "url": "https://newsletter.semianalysis.com/p/anthropic-subscriptions-offer-5x",
+          "source": "SemiAnalysis 长文 RSS（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-05T20:01:09Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "SemiAnalysis 长文 RSS（RSS）"
+      ],
+      "items": [
+        {
+          "id": "b906c87e1be812fa3e77f08e9b3992962674d815",
+          "title": "SemiAnalysis 测算：Anthropic 订阅的 API 等价价值约为 OpenAI 的 5 倍以上 / Anthropic Subscriptions Offer 5x+ More Value Than OpenAI",
+          "title_zh": "SemiAnalysis 测算：Anthropic 订阅的 API 等价价值约为 OpenAI 的 5 倍以上",
+          "title_en": "Anthropic Subscriptions Offer 5x+ More Value Than OpenAI",
+          "title_original": "Anthropic Subscriptions Offer 5x+ More Value Than OpenAI",
+          "summary": "SemiAnalysis 通过逐项测量用量表变化，估算各订阅计划的 API 等价价值，结论是在中端模型档位 Anthropic 订阅的价值约为 OpenAI 的 5 倍。",
+          "recommend_reason_zh": null,
+          "url": "https://newsletter.semianalysis.com/p/anthropic-subscriptions-offer-5x",
+          "source": "SemiAnalysis 长文 RSS（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-05T20:01:09Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7601,
+      "importance": 0.7601,
+      "importance_score": 0.7601,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.71,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9747,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-10-05T20:01:09Z",
+      "latest_at": "2026-10-05T20:01:09Z",
+      "primary_item": {
+        "id": "b906c87e1be812fa3e77f08e9b3992962674d815",
+        "title": "SemiAnalysis 测算：Anthropic 订阅的 API 等价价值约为 OpenAI 的 5 倍以上 / Anthropic Subscriptions Offer 5x+ More Value Than OpenAI",
+        "title_zh": "SemiAnalysis 测算：Anthropic 订阅的 API 等价价值约为 OpenAI 的 5 倍以上",
+        "title_en": "Anthropic Subscriptions Offer 5x+ More Value Than OpenAI",
+        "title_original": "Anthropic Subscriptions Offer 5x+ More Value Than OpenAI",
+        "summary": "SemiAnalysis 通过逐项测量用量表变化，估算各订阅计划的 API 等价价值，结论是在中端模型档位 Anthropic 订阅的价值约为 OpenAI 的 5 倍。",
+        "recommend_reason_zh": null,
+        "url": "https://newsletter.semianalysis.com/p/anthropic-subscriptions-offer-5x",
+        "source": "SemiAnalysis 长文 RSS（RSS）",
+        "source_name": "AI HOT"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-10-05T21:58:46.180374Z"
       }
     },
     {
@@ -550,15 +632,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.6238,
-      "importance": 0.6238,
-      "importance_score": 0.6238,
+      "score": 0.6194,
+      "importance": 0.6194,
+      "importance_score": 0.6194,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.5328,
         "source_tier": 0.58,
         "ai_relevance": 0.74,
-        "recency": 0.9075,
+        "recency": 0.8829,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -583,11 +665,11 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-05T19:54:05.536850Z"
+        "scored_at": "2026-10-05T21:58:46.180374Z"
       }
     },
     {
-      "story_id": "story_f351af2349a9",
+      "story_id": "story_a0cf0e1c0e34",
       "title": "Anthropic向警方报案称发现日记条目，一名女子面临重罪指控",
       "url": "https://www.techspot.com/news/114091-florida-woman-used-claude-diary-anthropic-reported-shoot.html",
       "primary_url": "https://www.techspot.com/news/114091-florida-woman-used-claude-diary-anthropic-reported-shoot.html",
@@ -623,24 +705,24 @@
           "published_at": "2026-10-05T05:37:40Z"
         },
         {
-          "id": "98349c6ea43267e114ded8e9b87049f68c14c21b",
-          "title": "Anthropic向警方报案称发现日记条目，一名女子面临重罪指控 / Florida woman used Claude as a diary, then Anthropic reported an entry to police",
-          "title_zh": "Anthropic向警方报案称发现日记条目，一名女子面临重罪指控",
-          "title_en": "Florida woman used Claude as a diary, then Anthropic reported an entry to police",
-          "title_original": "Florida woman used Claude as a diary, then Anthropic reported an entry to police",
+          "id": "089b77b1224aad2ab4c95eba86c6c0b58b9ca2a6",
+          "title": "人类向警方报告日记条目，女子面临重罪指控 / Anthropic reported diary entry to police, woman faces felony charge",
+          "title_zh": "人类向警方报告日记条目，女子面临重罪指控",
+          "title_en": "Anthropic reported diary entry to police, woman faces felony charge",
+          "title_original": "Anthropic reported diary entry to police, woman faces felony charge",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.techspot.com/news/114091-florida-woman-used-claude-diary-anthropic-reported-shoot.html",
-          "source": "HN Algolia · AI 24h",
-          "source_name": "Hacker News",
-          "site_id": "hackernews",
-          "published_at": "2026-10-04T21:29:59Z"
+          "url": "https://news.ycombinator.com/item?id=49961057",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-10-05T05:37:40Z"
         }
       ],
       "source_count": 3,
       "source_names": [
-        "HN Algolia · AI 24h",
         "Hacker News · 24h最热",
+        "hackernews",
         "www.techspot.com"
       ],
       "items": [
@@ -673,38 +755,38 @@
           "published_at": "2026-10-05T05:37:40Z"
         },
         {
-          "id": "98349c6ea43267e114ded8e9b87049f68c14c21b",
-          "title": "Anthropic向警方报案称发现日记条目，一名女子面临重罪指控 / Florida woman used Claude as a diary, then Anthropic reported an entry to police",
-          "title_zh": "Anthropic向警方报案称发现日记条目，一名女子面临重罪指控",
-          "title_en": "Florida woman used Claude as a diary, then Anthropic reported an entry to police",
-          "title_original": "Florida woman used Claude as a diary, then Anthropic reported an entry to police",
+          "id": "089b77b1224aad2ab4c95eba86c6c0b58b9ca2a6",
+          "title": "人类向警方报告日记条目，女子面临重罪指控 / Anthropic reported diary entry to police, woman faces felony charge",
+          "title_zh": "人类向警方报告日记条目，女子面临重罪指控",
+          "title_en": "Anthropic reported diary entry to police, woman faces felony charge",
+          "title_original": "Anthropic reported diary entry to police, woman faces felony charge",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.techspot.com/news/114091-florida-woman-used-claude-diary-anthropic-reported-shoot.html",
-          "source": "HN Algolia · AI 24h",
-          "source_name": "Hacker News",
-          "site_id": "hackernews",
-          "published_at": "2026-10-04T21:29:59Z"
+          "url": "https://news.ycombinator.com/item?id=49961057",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-10-05T05:37:40Z"
         }
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5635,
-      "importance": 0.5635,
-      "importance_score": 0.5635,
+      "score": 0.5588,
+      "importance": 0.5588,
+      "importance_score": 0.5588,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9592,
+        "recency": 0.9332,
         "story_heat": 0.5
       },
       "category": "multi_source",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-10-04T21:29:59Z",
+      "earliest_at": "2026-10-05T05:37:40Z",
       "latest_at": "2026-10-05T17:00:08.955000Z",
       "primary_item": {
         "id": "2a664ca57a6c127500df16b03bdde45f21880b08",
@@ -722,7 +804,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-05T19:54:05.536850Z"
+        "scored_at": "2026-10-05T21:58:46.180374Z"
       }
     },
     {
@@ -828,15 +910,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.561,
-      "importance": 0.561,
-      "importance_score": 0.561,
+      "score": 0.5564,
+      "importance": 0.5564,
+      "importance_score": 0.5564,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9454,
+        "recency": 0.9198,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -861,7 +943,446 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-05T19:54:05.536850Z"
+        "scored_at": "2026-10-05T21:58:46.180374Z"
+      }
+    },
+    {
+      "story_id": "story_47d885071ad3",
+      "title": "Opus 5.5 agents discover two room-temperature magnetic semiconductor candidates",
+      "url": "https://www.vals.ai/blogs/room-temperature-magnetic-semiconductors",
+      "primary_url": "https://www.vals.ai/blogs/room-temperature-magnetic-semiconductors",
+      "source": "Hacker News · 24h最热",
+      "source_name": "Zeli",
+      "sources": [
+        {
+          "id": "d35c740c144293b45c6e2e98a537c705c97da26c",
+          "title": "Opus 5.5 agents discover two room-temperature magnetic semiconductor candidates",
+          "title_zh": null,
+          "title_en": "Opus 5.5 agents discover two room-temperature magnetic semiconductor candidates",
+          "title_original": "Opus 5.5 agents discover two room-temperature magnetic semiconductor candidates",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.vals.ai/blogs/room-temperature-magnetic-semiconductors",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-10-05T21:00:21Z"
+        },
+        {
+          "id": "c0407e92a3d6ccaf35a78647a157f61f833b3f23",
+          "title": "Opus 5.5 agents discover two room-temperature magnetic semiconductor candidates",
+          "title_zh": null,
+          "title_en": "Opus 5.5 agents discover two room-temperature magnetic semiconductor candidates",
+          "title_original": "Opus 5.5 agents discover two room-temperature magnetic semiconductor candidates",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=49970667",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-10-05T21:00:21Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News · 24h最热",
+        "hackernews"
+      ],
+      "items": [
+        {
+          "id": "d35c740c144293b45c6e2e98a537c705c97da26c",
+          "title": "Opus 5.5 agents discover two room-temperature magnetic semiconductor candidates",
+          "title_zh": null,
+          "title_en": "Opus 5.5 agents discover two room-temperature magnetic semiconductor candidates",
+          "title_original": "Opus 5.5 agents discover two room-temperature magnetic semiconductor candidates",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.vals.ai/blogs/room-temperature-magnetic-semiconductors",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-10-05T21:00:21Z"
+        },
+        {
+          "id": "c0407e92a3d6ccaf35a78647a157f61f833b3f23",
+          "title": "Opus 5.5 agents discover two room-temperature magnetic semiconductor candidates",
+          "title_zh": null,
+          "title_en": "Opus 5.5 agents discover two room-temperature magnetic semiconductor candidates",
+          "title_original": "Opus 5.5 agents discover two room-temperature magnetic semiconductor candidates",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=49970667",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-10-05T21:00:21Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5438,
+      "importance": 0.5438,
+      "importance_score": 0.5438,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9887,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-10-05T21:00:21Z",
+      "latest_at": "2026-10-05T21:00:21Z",
+      "primary_item": {
+        "id": "d35c740c144293b45c6e2e98a537c705c97da26c",
+        "title": "Opus 5.5 agents discover two room-temperature magnetic semiconductor candidates",
+        "title_zh": null,
+        "title_en": "Opus 5.5 agents discover two room-temperature magnetic semiconductor candidates",
+        "title_original": "Opus 5.5 agents discover two room-temperature magnetic semiconductor candidates",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://www.vals.ai/blogs/room-temperature-magnetic-semiconductors",
+        "source": "Hacker News · 24h最热",
+        "source_name": "Zeli"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-10-05T21:58:46.180374Z"
+      }
+    },
+    {
+      "story_id": "story_06387bb39276",
+      "title": "Beam：Reflection 501B 无重量限制款",
+      "url": "https://reflection.ai/blog/introducing-beam",
+      "primary_url": "https://reflection.ai/blog/introducing-beam",
+      "source": "reflection.ai",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "44cfb7cdf0cf1cc77a8cef468aec8a4f59c86ca1",
+          "title": "Beam：Reflection 501B 无重量限制款",
+          "title_zh": "Beam：Reflection 501B 无重量限制款",
+          "title_en": null,
+          "title_original": "Beam：Reflection 501B 无重量限制款",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://reflection.ai/blog/introducing-beam",
+          "source": "reflection.ai",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-10-05T20:22:29.758000Z"
+        },
+        {
+          "id": "89e05b42306fc1a51620a395e5209fc3db4bb969",
+          "title": "Beam：Reflection 501B 无重量限制款 / Beam: Reflection's 501B open-weight model",
+          "title_zh": "Beam：Reflection 501B 无重量限制款",
+          "title_en": "Beam: Reflection's 501B open-weight model",
+          "title_original": "Beam: Reflection's 501B open-weight model",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://reflection.ai/blog/introducing-beam",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-10-05T19:16:35Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News · 24h最热",
+        "reflection.ai"
+      ],
+      "items": [
+        {
+          "id": "44cfb7cdf0cf1cc77a8cef468aec8a4f59c86ca1",
+          "title": "Beam：Reflection 501B 无重量限制款",
+          "title_zh": "Beam：Reflection 501B 无重量限制款",
+          "title_en": null,
+          "title_original": "Beam：Reflection 501B 无重量限制款",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://reflection.ai/blog/introducing-beam",
+          "source": "reflection.ai",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-10-05T20:22:29.758000Z"
+        },
+        {
+          "id": "89e05b42306fc1a51620a395e5209fc3db4bb969",
+          "title": "Beam：Reflection 501B 无重量限制款 / Beam: Reflection's 501B open-weight model",
+          "title_zh": "Beam：Reflection 501B 无重量限制款",
+          "title_en": "Beam: Reflection's 501B open-weight model",
+          "title_original": "Beam: Reflection's 501B open-weight model",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://reflection.ai/blog/introducing-beam",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-10-05T19:16:35Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5422,
+      "importance": 0.5422,
+      "importance_score": 0.5422,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9798,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-10-05T19:16:35Z",
+      "latest_at": "2026-10-05T20:22:29.758000Z",
+      "primary_item": {
+        "id": "44cfb7cdf0cf1cc77a8cef468aec8a4f59c86ca1",
+        "title": "Beam：Reflection 501B 无重量限制款",
+        "title_zh": "Beam：Reflection 501B 无重量限制款",
+        "title_en": null,
+        "title_original": "Beam：Reflection 501B 无重量限制款",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://reflection.ai/blog/introducing-beam",
+        "source": "reflection.ai",
+        "source_name": "Buzzing"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-10-05T21:58:46.180374Z"
+      }
+    },
+    {
+      "story_id": "story_8f7697047b31",
+      "title": "企业在人工智能上的支出几乎无法预算 / Spending on AI Is Becoming Almost Impossible for Businesses to Budget",
+      "url": "https://news.ycombinator.com/item?id=49964537",
+      "primary_url": "https://news.ycombinator.com/item?id=49964537",
+      "source": "hackernews",
+      "source_name": "NewsNow",
+      "sources": [
+        {
+          "id": "d1c7d5c5ad5b9565c338d373bc2beae153655f75",
+          "title": "企业在人工智能上的支出几乎无法预算 / Spending on AI Is Becoming Almost Impossible for Businesses to Budget",
+          "title_zh": "企业在人工智能上的支出几乎无法预算",
+          "title_en": "Spending on AI Is Becoming Almost Impossible for Businesses to Budget",
+          "title_original": "Spending on AI Is Becoming Almost Impossible for Businesses to Budget",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=49964537",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-10-05T13:22:31Z"
+        },
+        {
+          "id": "ed63dbcc60c78ade06c4870636f0dc71f15c073d",
+          "title": "Spending on AI is becoming almost impossible for businesses to budget",
+          "title_zh": null,
+          "title_en": "Spending on AI is becoming almost impossible for businesses to budget",
+          "title_original": "Spending on AI is becoming almost impossible for businesses to budget",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.wsj.com/tech/personal-tech/ai-token-spending-businesses-431ee94a",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-10-05T13:22:31Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News · 24h最热",
+        "hackernews"
+      ],
+      "items": [
+        {
+          "id": "d1c7d5c5ad5b9565c338d373bc2beae153655f75",
+          "title": "企业在人工智能上的支出几乎无法预算 / Spending on AI Is Becoming Almost Impossible for Businesses to Budget",
+          "title_zh": "企业在人工智能上的支出几乎无法预算",
+          "title_en": "Spending on AI Is Becoming Almost Impossible for Businesses to Budget",
+          "title_original": "Spending on AI Is Becoming Almost Impossible for Businesses to Budget",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=49964537",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-10-05T13:22:31Z"
+        },
+        {
+          "id": "ed63dbcc60c78ade06c4870636f0dc71f15c073d",
+          "title": "Spending on AI is becoming almost impossible for businesses to budget",
+          "title_zh": null,
+          "title_en": "Spending on AI is becoming almost impossible for businesses to budget",
+          "title_original": "Spending on AI is becoming almost impossible for businesses to budget",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.wsj.com/tech/personal-tech/ai-token-spending-businesses-431ee94a",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-10-05T13:22:31Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5252,
+      "importance": 0.5252,
+      "importance_score": 0.5252,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.8856,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-10-05T13:22:31Z",
+      "latest_at": "2026-10-05T13:22:31Z",
+      "primary_item": {
+        "id": "d1c7d5c5ad5b9565c338d373bc2beae153655f75",
+        "title": "企业在人工智能上的支出几乎无法预算 / Spending on AI Is Becoming Almost Impossible for Businesses to Budget",
+        "title_zh": "企业在人工智能上的支出几乎无法预算",
+        "title_en": "Spending on AI Is Becoming Almost Impossible for Businesses to Budget",
+        "title_original": "Spending on AI Is Becoming Almost Impossible for Businesses to Budget",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://news.ycombinator.com/item?id=49964537",
+        "source": "hackernews",
+        "source_name": "NewsNow"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-10-05T21:58:46.180374Z"
+      }
+    },
+    {
+      "story_id": "story_edb4a856a0da",
+      "title": "[Claude] 喵的，用了 2 年的 Claude 账号 10.5 凌晨 2 点被封了",
+      "url": "https://www.v2ex.com/t/1246477",
+      "primary_url": "https://www.v2ex.com/t/1246477",
+      "source": "V2EX (创意工作者社区)",
+      "source_name": "Info Flow",
+      "sources": [
+        {
+          "id": "7ce0cbe597c4517c3762667f68bca558ebda5f9a",
+          "title": "[Claude] 喵的，用了 2 年的 Claude 账号 10.5 凌晨 2 点被封了",
+          "title_zh": "[Claude] 喵的，用了 2 年的 Claude 账号 10.5 凌晨 2 点被封了",
+          "title_en": null,
+          "title_original": "[Claude] 喵的，用了 2 年的 Claude 账号 10.5 凌晨 2 点被封了",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.v2ex.com/t/1246477",
+          "source": "V2EX (创意工作者社区)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-10-05T03:36:22Z"
+        },
+        {
+          "id": "b81d9d08564ef32e7c3930c26e468663acdfec31",
+          "title": "[程序员] 喵的，用了 2 年的 Claude 账号 10.5 凌晨 2 点被封了",
+          "title_zh": "[程序员] 喵的，用了 2 年的 Claude 账号 10.5 凌晨 2 点被封了",
+          "title_en": null,
+          "title_original": "[程序员] 喵的，用了 2 年的 Claude 账号 10.5 凌晨 2 点被封了",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.v2ex.com/t/1246477",
+          "source": "V2EX (创意工作者社区)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-10-05T03:36:22Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "V2EX (创意工作者社区)"
+      ],
+      "items": [
+        {
+          "id": "7ce0cbe597c4517c3762667f68bca558ebda5f9a",
+          "title": "[Claude] 喵的，用了 2 年的 Claude 账号 10.5 凌晨 2 点被封了",
+          "title_zh": "[Claude] 喵的，用了 2 年的 Claude 账号 10.5 凌晨 2 点被封了",
+          "title_en": null,
+          "title_original": "[Claude] 喵的，用了 2 年的 Claude 账号 10.5 凌晨 2 点被封了",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.v2ex.com/t/1246477",
+          "source": "V2EX (创意工作者社区)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-10-05T03:36:22Z"
+        },
+        {
+          "id": "b81d9d08564ef32e7c3930c26e468663acdfec31",
+          "title": "[程序员] 喵的，用了 2 年的 Claude 账号 10.5 凌晨 2 点被封了",
+          "title_zh": "[程序员] 喵的，用了 2 年的 Claude 账号 10.5 凌晨 2 点被封了",
+          "title_en": null,
+          "title_original": "[程序员] 喵的，用了 2 年的 Claude 账号 10.5 凌晨 2 点被封了",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.v2ex.com/t/1246477",
+          "source": "V2EX (创意工作者社区)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-10-05T03:36:22Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5042,
+      "importance": 0.5042,
+      "importance_score": 0.5042,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.769,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-10-05T03:36:22Z",
+      "latest_at": "2026-10-05T03:36:22Z",
+      "primary_item": {
+        "id": "7ce0cbe597c4517c3762667f68bca558ebda5f9a",
+        "title": "[Claude] 喵的，用了 2 年的 Claude 账号 10.5 凌晨 2 点被封了",
+        "title_zh": "[Claude] 喵的，用了 2 年的 Claude 账号 10.5 凌晨 2 点被封了",
+        "title_en": null,
+        "title_original": "[Claude] 喵的，用了 2 年的 Claude 账号 10.5 凌晨 2 点被封了",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://www.v2ex.com/t/1246477",
+        "source": "V2EX (创意工作者社区)",
+        "source_name": "Info Flow"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-10-05T21:58:46.180374Z"
       }
     },
     {
@@ -938,15 +1459,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.534,
-      "importance": 0.534,
-      "importance_score": 0.534,
+      "score": 0.5294,
+      "importance": 0.5294,
+      "importance_score": 0.5294,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9345,
+        "recency": 0.9091,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -971,7 +1492,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-05T19:54:05.536850Z"
+        "scored_at": "2026-10-05T21:58:46.180374Z"
       }
     },
     {
@@ -1048,15 +1569,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5247,
-      "importance": 0.5247,
-      "importance_score": 0.5247,
+      "score": 0.5203,
+      "importance": 0.5203,
+      "importance_score": 0.5203,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8825,
+        "recency": 0.8586,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1081,225 +1602,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-05T19:54:05.536850Z"
-      }
-    },
-    {
-      "story_id": "story_d522c5cd6fae",
-      "title": "朝鲜发射中程导弹，称其具备规避飞行和人工智能功能 - Euronews",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNbzZyUFBOM0VjOXUwQXF3OEFfRzl5NFNSZ05GWnd4WGhuTDFlUHVkYlZkeFU1WE84NkpITXFlUVRPYWxUdTd5NkQ0RF9LaUhXbEs0bE4wQTNKc2NXYnE4ZW1zZnlnTkpBaV9RaFdCMFlxMGdXUUZhaFd4d1BUdFJrMDhsNUpQeXZfQ252VE1qNnhoZS0zWjhzdnREalNMYVNVV1oxOE5VcFVyMXJzQ21BNi1DbmtrVWhjWldRQw?oc=5&hl=en-CA&gl=CA&ceid=CA%3Aen",
-      "primary_url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNbzZyUFBOM0VjOXUwQXF3OEFfRzl5NFNSZ05GWnd4WGhuTDFlUHVkYlZkeFU1WE84NkpITXFlUVRPYWxUdTd5NkQ0RF9LaUhXbEs0bE4wQTNKc2NXYnE4ZW1zZnlnTkpBaV9RaFdCMFlxMGdXUUZhaFd4d1BUdFJrMDhsNUpQeXZfQ252VE1qNnhoZS0zWjhzdnREalNMYVNVV1oxOE5VcFVyMXJzQ21BNi1DbmtrVWhjWldRQw?oc=5&hl=en-CA&gl=CA&ceid=CA%3Aen",
-      "source": "news.google.com",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "c6d521702c64f92ae5c4a66b72b2e361a490b13d",
-          "title": "朝鲜发射中程导弹，称其具备规避飞行和人工智能功能 - Euronews",
-          "title_zh": "朝鲜发射中程导弹，称其具备规避飞行和人工智能功能 - Euronews",
-          "title_en": null,
-          "title_original": "朝鲜发射中程导弹，称其具备规避飞行和人工智能功能 - Euronews",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNbzZyUFBOM0VjOXUwQXF3OEFfRzl5NFNSZ05GWnd4WGhuTDFlUHVkYlZkeFU1WE84NkpITXFlUVRPYWxUdTd5NkQ0RF9LaUhXbEs0bE4wQTNKc2NXYnE4ZW1zZnlnTkpBaV9RaFdCMFlxMGdXUUZhaFd4d1BUdFJrMDhsNUpQeXZfQ252VE1qNnhoZS0zWjhzdnREalNMYVNVV1oxOE5VcFVyMXJzQ21BNi1DbmtrVWhjWldRQw?oc=5&hl=en-CA&gl=CA&ceid=CA%3Aen",
-          "source": "news.google.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-10-05T04:05:55.362000Z"
-        },
-        {
-          "id": "b86d05d8da844c2812b0ea307cd8086bab7554e9",
-          "title": "朝鲜发射中程导弹，称其具备规避飞行和人工智能功能 - Euronews.com",
-          "title_zh": "朝鲜发射中程导弹，称其具备规避飞行和人工智能功能 - Euronews.com",
-          "title_en": null,
-          "title_original": "朝鲜发射中程导弹，称其具备规避飞行和人工智能功能 - Euronews.com",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNbzZyUFBOM0VjOXUwQXF3OEFfRzl5NFNSZ05GWnd4WGhuTDFlUHVkYlZkeFU1WE84NkpITXFlUVRPYWxUdTd5NkQ0RF9LaUhXbEs0bE4wQTNKc2NXYnE4ZW1zZnlnTkpBaV9RaFdCMFlxMGdXUUZhaFd4d1BUdFJrMDhsNUpQeXZfQ252VE1qNnhoZS0zWjhzdnREalNMYVNVV1oxOE5VcFVyMXJzQ21BNi1DbmtrVWhjWldRQw?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-          "source": "news.google.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-10-04T19:58:49.689000Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "news.google.com"
-      ],
-      "items": [
-        {
-          "id": "c6d521702c64f92ae5c4a66b72b2e361a490b13d",
-          "title": "朝鲜发射中程导弹，称其具备规避飞行和人工智能功能 - Euronews",
-          "title_zh": "朝鲜发射中程导弹，称其具备规避飞行和人工智能功能 - Euronews",
-          "title_en": null,
-          "title_original": "朝鲜发射中程导弹，称其具备规避飞行和人工智能功能 - Euronews",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNbzZyUFBOM0VjOXUwQXF3OEFfRzl5NFNSZ05GWnd4WGhuTDFlUHVkYlZkeFU1WE84NkpITXFlUVRPYWxUdTd5NkQ0RF9LaUhXbEs0bE4wQTNKc2NXYnE4ZW1zZnlnTkpBaV9RaFdCMFlxMGdXUUZhaFd4d1BUdFJrMDhsNUpQeXZfQ252VE1qNnhoZS0zWjhzdnREalNMYVNVV1oxOE5VcFVyMXJzQ21BNi1DbmtrVWhjWldRQw?oc=5&hl=en-CA&gl=CA&ceid=CA%3Aen",
-          "source": "news.google.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-10-05T04:05:55.362000Z"
-        },
-        {
-          "id": "b86d05d8da844c2812b0ea307cd8086bab7554e9",
-          "title": "朝鲜发射中程导弹，称其具备规避飞行和人工智能功能 - Euronews.com",
-          "title_zh": "朝鲜发射中程导弹，称其具备规避飞行和人工智能功能 - Euronews.com",
-          "title_en": null,
-          "title_original": "朝鲜发射中程导弹，称其具备规避飞行和人工智能功能 - Euronews.com",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNbzZyUFBOM0VjOXUwQXF3OEFfRzl5NFNSZ05GWnd4WGhuTDFlUHVkYlZkeFU1WE84NkpITXFlUVRPYWxUdTd5NkQ0RF9LaUhXbEs0bE4wQTNKc2NXYnE4ZW1zZnlnTkpBaV9RaFdCMFlxMGdXUUZhaFd4d1BUdFJrMDhsNUpQeXZfQ252VE1qNnhoZS0zWjhzdnREalNMYVNVV1oxOE5VcFVyMXJzQ21BNi1DbmtrVWhjWldRQw?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-          "source": "news.google.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-10-04T19:58:49.689000Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5091,
-      "importance": 0.5091,
-      "importance_score": 0.5091,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.7961,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-10-04T19:58:49.689000Z",
-      "latest_at": "2026-10-05T04:05:55.362000Z",
-      "primary_item": {
-        "id": "c6d521702c64f92ae5c4a66b72b2e361a490b13d",
-        "title": "朝鲜发射中程导弹，称其具备规避飞行和人工智能功能 - Euronews",
-        "title_zh": "朝鲜发射中程导弹，称其具备规避飞行和人工智能功能 - Euronews",
-        "title_en": null,
-        "title_original": "朝鲜发射中程导弹，称其具备规避飞行和人工智能功能 - Euronews",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNbzZyUFBOM0VjOXUwQXF3OEFfRzl5NFNSZ05GWnd4WGhuTDFlUHVkYlZkeFU1WE84NkpITXFlUVRPYWxUdTd5NkQ0RF9LaUhXbEs0bE4wQTNKc2NXYnE4ZW1zZnlnTkpBaV9RaFdCMFlxMGdXUUZhaFd4d1BUdFJrMDhsNUpQeXZfQ252VE1qNnhoZS0zWjhzdnREalNMYVNVV1oxOE5VcFVyMXJzQ21BNi1DbmtrVWhjWldRQw?oc=5&hl=en-CA&gl=CA&ceid=CA%3Aen",
-        "source": "news.google.com",
-        "source_name": "Buzzing"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-10-05T19:54:05.536850Z"
-      }
-    },
-    {
-      "story_id": "story_edb4a856a0da",
-      "title": "[Claude] 喵的，用了 2 年的 Claude 账号 10.5 凌晨 2 点被封了",
-      "url": "https://www.v2ex.com/t/1246477",
-      "primary_url": "https://www.v2ex.com/t/1246477",
-      "source": "V2EX (创意工作者社区)",
-      "source_name": "Info Flow",
-      "sources": [
-        {
-          "id": "7ce0cbe597c4517c3762667f68bca558ebda5f9a",
-          "title": "[Claude] 喵的，用了 2 年的 Claude 账号 10.5 凌晨 2 点被封了",
-          "title_zh": "[Claude] 喵的，用了 2 年的 Claude 账号 10.5 凌晨 2 点被封了",
-          "title_en": null,
-          "title_original": "[Claude] 喵的，用了 2 年的 Claude 账号 10.5 凌晨 2 点被封了",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.v2ex.com/t/1246477",
-          "source": "V2EX (创意工作者社区)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-10-05T03:36:22Z"
-        },
-        {
-          "id": "b81d9d08564ef32e7c3930c26e468663acdfec31",
-          "title": "[程序员] 喵的，用了 2 年的 Claude 账号 10.5 凌晨 2 点被封了",
-          "title_zh": "[程序员] 喵的，用了 2 年的 Claude 账号 10.5 凌晨 2 点被封了",
-          "title_en": null,
-          "title_original": "[程序员] 喵的，用了 2 年的 Claude 账号 10.5 凌晨 2 点被封了",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.v2ex.com/t/1246477",
-          "source": "V2EX (创意工作者社区)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-10-05T03:36:22Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "V2EX (创意工作者社区)"
-      ],
-      "items": [
-        {
-          "id": "7ce0cbe597c4517c3762667f68bca558ebda5f9a",
-          "title": "[Claude] 喵的，用了 2 年的 Claude 账号 10.5 凌晨 2 点被封了",
-          "title_zh": "[Claude] 喵的，用了 2 年的 Claude 账号 10.5 凌晨 2 点被封了",
-          "title_en": null,
-          "title_original": "[Claude] 喵的，用了 2 年的 Claude 账号 10.5 凌晨 2 点被封了",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.v2ex.com/t/1246477",
-          "source": "V2EX (创意工作者社区)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-10-05T03:36:22Z"
-        },
-        {
-          "id": "b81d9d08564ef32e7c3930c26e468663acdfec31",
-          "title": "[程序员] 喵的，用了 2 年的 Claude 账号 10.5 凌晨 2 点被封了",
-          "title_zh": "[程序员] 喵的，用了 2 年的 Claude 账号 10.5 凌晨 2 点被封了",
-          "title_en": null,
-          "title_original": "[程序员] 喵的，用了 2 年的 Claude 账号 10.5 凌晨 2 点被封了",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.v2ex.com/t/1246477",
-          "source": "V2EX (创意工作者社区)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-10-05T03:36:22Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5081,
-      "importance": 0.5081,
-      "importance_score": 0.5081,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.7905,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-10-05T03:36:22Z",
-      "latest_at": "2026-10-05T03:36:22Z",
-      "primary_item": {
-        "id": "7ce0cbe597c4517c3762667f68bca558ebda5f9a",
-        "title": "[Claude] 喵的，用了 2 年的 Claude 账号 10.5 凌晨 2 点被封了",
-        "title_zh": "[Claude] 喵的，用了 2 年的 Claude 账号 10.5 凌晨 2 点被封了",
-        "title_en": null,
-        "title_original": "[Claude] 喵的，用了 2 年的 Claude 账号 10.5 凌晨 2 点被封了",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://www.v2ex.com/t/1246477",
-        "source": "V2EX (创意工作者社区)",
-        "source_name": "Info Flow"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-10-05T19:54:05.536850Z"
+        "scored_at": "2026-10-05T21:58:46.180374Z"
       }
     },
     {
@@ -1376,15 +1679,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5338,
-      "importance": 0.5338,
-      "importance_score": 0.5338,
+      "score": 0.5292,
+      "importance": 0.5292,
+      "importance_score": 0.5292,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9333,
+        "recency": 0.908,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1409,7 +1712,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-05T19:54:05.536850Z"
+        "scored_at": "2026-10-05T21:58:46.180374Z"
       }
     },
     {
@@ -1486,15 +1789,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5025,
-      "importance": 0.5025,
-      "importance_score": 0.5025,
+      "score": 0.4988,
+      "importance": 0.4988,
+      "importance_score": 0.4988,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7596,
+        "recency": 0.739,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1516,120 +1819,10 @@
         "source_name": "TechURLs"
       },
       "persona_id": "pragmatic",
-      "persona_score": 1,
+      "persona_score": 0,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-05T19:54:05.536850Z"
-      }
-    },
-    {
-      "story_id": "story_6e660e39c141",
-      "title": "企业在人工智能上的支出几乎无法预算 / Spending on AI Is Becoming Almost Impossible for Businesses to Budget",
-      "url": "https://www.wsj.com/tech/personal-tech/ai-token-spending-businesses-431ee94a",
-      "primary_url": "https://www.wsj.com/tech/personal-tech/ai-token-spending-businesses-431ee94a",
-      "source": "Hacker News · 24h最热",
-      "source_name": "Zeli",
-      "sources": [
-        {
-          "id": "ed63dbcc60c78ade06c4870636f0dc71f15c073d",
-          "title": "企业在人工智能上的支出几乎无法预算 / Spending on AI Is Becoming Almost Impossible for Businesses to Budget",
-          "title_zh": "企业在人工智能上的支出几乎无法预算",
-          "title_en": "Spending on AI Is Becoming Almost Impossible for Businesses to Budget",
-          "title_original": "Spending on AI Is Becoming Almost Impossible for Businesses to Budget",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.wsj.com/tech/personal-tech/ai-token-spending-businesses-431ee94a",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-10-05T13:22:31Z"
-        },
-        {
-          "id": "d1c7d5c5ad5b9565c338d373bc2beae153655f75",
-          "title": "企业在人工智能上的支出几乎无法预算 / Spending on AI Is Becoming Almost Impossible for Businesses to Budget",
-          "title_zh": "企业在人工智能上的支出几乎无法预算",
-          "title_en": "Spending on AI Is Becoming Almost Impossible for Businesses to Budget",
-          "title_original": "Spending on AI Is Becoming Almost Impossible for Businesses to Budget",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=49964537",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-10-05T13:22:31Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News · 24h最热",
-        "hackernews"
-      ],
-      "items": [
-        {
-          "id": "ed63dbcc60c78ade06c4870636f0dc71f15c073d",
-          "title": "企业在人工智能上的支出几乎无法预算 / Spending on AI Is Becoming Almost Impossible for Businesses to Budget",
-          "title_zh": "企业在人工智能上的支出几乎无法预算",
-          "title_en": "Spending on AI Is Becoming Almost Impossible for Businesses to Budget",
-          "title_original": "Spending on AI Is Becoming Almost Impossible for Businesses to Budget",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.wsj.com/tech/personal-tech/ai-token-spending-businesses-431ee94a",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-10-05T13:22:31Z"
-        },
-        {
-          "id": "d1c7d5c5ad5b9565c338d373bc2beae153655f75",
-          "title": "企业在人工智能上的支出几乎无法预算 / Spending on AI Is Becoming Almost Impossible for Businesses to Budget",
-          "title_zh": "企业在人工智能上的支出几乎无法预算",
-          "title_en": "Spending on AI Is Becoming Almost Impossible for Businesses to Budget",
-          "title_original": "Spending on AI Is Becoming Almost Impossible for Businesses to Budget",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=49964537",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-10-05T13:22:31Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5296,
-      "importance": 0.5296,
-      "importance_score": 0.5296,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.9103,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-10-05T13:22:31Z",
-      "latest_at": "2026-10-05T13:22:31Z",
-      "primary_item": {
-        "id": "ed63dbcc60c78ade06c4870636f0dc71f15c073d",
-        "title": "企业在人工智能上的支出几乎无法预算 / Spending on AI Is Becoming Almost Impossible for Businesses to Budget",
-        "title_zh": "企业在人工智能上的支出几乎无法预算",
-        "title_en": "Spending on AI Is Becoming Almost Impossible for Businesses to Budget",
-        "title_original": "Spending on AI Is Becoming Almost Impossible for Businesses to Budget",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://www.wsj.com/tech/personal-tech/ai-token-spending-businesses-431ee94a",
-        "source": "Hacker News · 24h最热",
-        "source_name": "Zeli"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-10-05T19:54:05.536850Z"
+        "scored_at": "2026-10-05T21:58:46.180374Z"
       }
     },
     {
@@ -1706,15 +1899,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5286,
-      "importance": 0.5286,
-      "importance_score": 0.5286,
+      "score": 0.5242,
+      "importance": 0.5242,
+      "importance_score": 0.5242,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9045,
+        "recency": 0.88,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1739,7 +1932,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-05T19:54:05.536850Z"
+        "scored_at": "2026-10-05T21:58:46.180374Z"
       }
     },
     {
@@ -1816,15 +2009,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4971,
-      "importance": 0.4971,
-      "importance_score": 0.4971,
+      "score": 0.4936,
+      "importance": 0.4936,
+      "importance_score": 0.4936,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7297,
+        "recency": 0.7099,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1849,7 +2042,7 @@
       "persona_score": 0,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-05T19:54:05.536850Z"
+        "scored_at": "2026-10-05T21:58:46.180374Z"
       }
     }
   ]
