@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-05T21:47:27.933231Z",
+  "generated_at": "2026-10-05T22:47:20.646973Z",
   "window_hours": 24,
   "total_items": 19,
   "items": [
@@ -48,15 +48,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8355,
-      "importance": 0.8355,
-      "importance_score": 0.8355,
+      "score": 0.8332,
+      "importance": 0.8332,
+      "importance_score": 0.8332,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.9,
-        "recency": 0.9197,
+        "recency": 0.9065,
         "story_heat": 0.0
       },
       "category": "official",
@@ -83,7 +83,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-05T21:58:46.180374Z"
+        "scored_at": "2026-10-05T22:48:06.744448Z"
       }
     },
     {
@@ -131,15 +131,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8352,
-      "importance": 0.8352,
-      "importance_score": 0.8352,
+      "score": 0.8329,
+      "importance": 0.8329,
+      "importance_score": 0.8329,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.9066,
+        "recency": 0.8936,
         "story_heat": 0.0
       },
       "category": "official",
@@ -166,7 +166,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-05T21:58:46.180374Z"
+        "scored_at": "2026-10-05T22:48:06.744448Z"
       }
     },
     {
@@ -272,15 +272,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.8257,
-      "importance": 0.8257,
-      "importance_score": 0.8257,
+      "score": 0.8233,
+      "importance": 0.8233,
+      "importance_score": 0.8233,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.78,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9453,
+        "recency": 0.9317,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -307,7 +307,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-05T21:58:46.180374Z"
+        "scored_at": "2026-10-05T22:48:06.744448Z"
       }
     },
     {
@@ -355,15 +355,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8174,
-      "importance": 0.8174,
-      "importance_score": 0.8174,
+      "score": 0.8155,
+      "importance": 0.8155,
+      "importance_score": 0.8155,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.98,
-        "recency": 0.73,
+        "recency": 0.7196,
         "story_heat": 0.0
       },
       "category": "official",
@@ -390,7 +390,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-05T21:58:46.180374Z"
+        "scored_at": "2026-10-05T22:48:06.744448Z"
       }
     },
     {
@@ -438,15 +438,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8238,
-      "importance": 0.8238,
-      "importance_score": 0.8238,
+      "score": 0.8216,
+      "importance": 0.8216,
+      "importance_score": 0.8216,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.8434,
+        "recency": 0.8314,
         "story_heat": 0.0
       },
       "category": "official",
@@ -473,7 +473,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-05T21:58:46.180374Z"
+        "scored_at": "2026-10-05T22:48:06.744448Z"
       }
     },
     {
@@ -521,15 +521,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7601,
-      "importance": 0.7601,
-      "importance_score": 0.7601,
+      "score": 0.7575,
+      "importance": 0.7575,
+      "importance_score": 0.7575,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.71,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9747,
+        "recency": 0.9608,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -555,7 +555,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-05T21:58:46.180374Z"
+        "scored_at": "2026-10-05T22:48:06.744448Z"
       }
     },
     {
@@ -632,15 +632,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.6194,
-      "importance": 0.6194,
-      "importance_score": 0.6194,
+      "score": 0.6171,
+      "importance": 0.6171,
+      "importance_score": 0.6171,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.5328,
         "source_tier": 0.58,
         "ai_relevance": 0.74,
-        "recency": 0.8829,
+        "recency": 0.8702,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -665,7 +665,146 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-05T21:58:46.180374Z"
+        "scored_at": "2026-10-05T22:48:06.744448Z"
+      }
+    },
+    {
+      "story_id": "story_47d885071ad3",
+      "title": "Opus 5.5的研究人员发现了两种室温磁性半导体候选材料",
+      "url": "https://www.vals.ai/blogs/room-temperature-magnetic-semiconductors",
+      "primary_url": "https://www.vals.ai/blogs/room-temperature-magnetic-semiconductors",
+      "source": "www.vals.ai",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "f3eac503aa67042b174a6f86849c1975352cea15",
+          "title": "Opus 5.5的研究人员发现了两种室温磁性半导体候选材料",
+          "title_zh": "Opus 5.5的研究人员发现了两种室温磁性半导体候选材料",
+          "title_en": null,
+          "title_original": "Opus 5.5的研究人员发现了两种室温磁性半导体候选材料",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.vals.ai/blogs/room-temperature-magnetic-semiconductors",
+          "source": "www.vals.ai",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-10-05T22:12:05.081000Z"
+        },
+        {
+          "id": "d35c740c144293b45c6e2e98a537c705c97da26c",
+          "title": "Opus 5.5的研究人员发现了两种室温磁性半导体候选材料 / Opus 5.5 agents discover two room-temperature magnetic semiconductor candidates",
+          "title_zh": "Opus 5.5的研究人员发现了两种室温磁性半导体候选材料",
+          "title_en": "Opus 5.5 agents discover two room-temperature magnetic semiconductor candidates",
+          "title_original": "Opus 5.5 agents discover two room-temperature magnetic semiconductor candidates",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.vals.ai/blogs/room-temperature-magnetic-semiconductors",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-10-05T21:00:21Z"
+        },
+        {
+          "id": "c0407e92a3d6ccaf35a78647a157f61f833b3f23",
+          "title": "Opus 5.5 特工发现两种室温磁性半导体候选物 / Opus 5.5 agents discover two room-temperature magnetic semiconductor candidates",
+          "title_zh": "Opus 5.5 特工发现两种室温磁性半导体候选物",
+          "title_en": "Opus 5.5 agents discover two room-temperature magnetic semiconductor candidates",
+          "title_original": "Opus 5.5 agents discover two room-temperature magnetic semiconductor candidates",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=49970667",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-10-05T21:00:21Z"
+        }
+      ],
+      "source_count": 3,
+      "source_names": [
+        "Hacker News · 24h最热",
+        "hackernews",
+        "www.vals.ai"
+      ],
+      "items": [
+        {
+          "id": "f3eac503aa67042b174a6f86849c1975352cea15",
+          "title": "Opus 5.5的研究人员发现了两种室温磁性半导体候选材料",
+          "title_zh": "Opus 5.5的研究人员发现了两种室温磁性半导体候选材料",
+          "title_en": null,
+          "title_original": "Opus 5.5的研究人员发现了两种室温磁性半导体候选材料",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.vals.ai/blogs/room-temperature-magnetic-semiconductors",
+          "source": "www.vals.ai",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-10-05T22:12:05.081000Z"
+        },
+        {
+          "id": "d35c740c144293b45c6e2e98a537c705c97da26c",
+          "title": "Opus 5.5的研究人员发现了两种室温磁性半导体候选材料 / Opus 5.5 agents discover two room-temperature magnetic semiconductor candidates",
+          "title_zh": "Opus 5.5的研究人员发现了两种室温磁性半导体候选材料",
+          "title_en": "Opus 5.5 agents discover two room-temperature magnetic semiconductor candidates",
+          "title_original": "Opus 5.5 agents discover two room-temperature magnetic semiconductor candidates",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.vals.ai/blogs/room-temperature-magnetic-semiconductors",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-10-05T21:00:21Z"
+        },
+        {
+          "id": "c0407e92a3d6ccaf35a78647a157f61f833b3f23",
+          "title": "Opus 5.5 特工发现两种室温磁性半导体候选物 / Opus 5.5 agents discover two room-temperature magnetic semiconductor candidates",
+          "title_zh": "Opus 5.5 特工发现两种室温磁性半导体候选物",
+          "title_en": "Opus 5.5 agents discover two room-temperature magnetic semiconductor candidates",
+          "title_original": "Opus 5.5 agents discover two room-temperature magnetic semiconductor candidates",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=49970667",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-10-05T21:00:21Z"
+        }
+      ],
+      "item_count": 3,
+      "duplicate_count": 3,
+      "score": 0.5693,
+      "importance": 0.5693,
+      "importance_score": 0.5693,
+      "importance_label": "多源热议",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9915,
+        "story_heat": 0.5
+      },
+      "category": "multi_source",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-10-05T21:00:21Z",
+      "latest_at": "2026-10-05T22:12:05.081000Z",
+      "primary_item": {
+        "id": "f3eac503aa67042b174a6f86849c1975352cea15",
+        "title": "Opus 5.5的研究人员发现了两种室温磁性半导体候选材料",
+        "title_zh": "Opus 5.5的研究人员发现了两种室温磁性半导体候选材料",
+        "title_en": null,
+        "title_original": "Opus 5.5的研究人员发现了两种室温磁性半导体候选材料",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://www.vals.ai/blogs/room-temperature-magnetic-semiconductors",
+        "source": "www.vals.ai",
+        "source_name": "Buzzing"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-10-05T22:48:06.744448Z"
       }
     },
     {
@@ -771,15 +910,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5588,
-      "importance": 0.5588,
-      "importance_score": 0.5588,
+      "score": 0.5564,
+      "importance": 0.5564,
+      "importance_score": 0.5564,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9332,
+        "recency": 0.9198,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -804,7 +943,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-05T21:58:46.180374Z"
+        "scored_at": "2026-10-05T22:48:06.744448Z"
       }
     },
     {
@@ -910,15 +1049,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5564,
-      "importance": 0.5564,
-      "importance_score": 0.5564,
+      "score": 0.554,
+      "importance": 0.554,
+      "importance_score": 0.554,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9198,
+        "recency": 0.9066,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -943,44 +1082,44 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-05T21:58:46.180374Z"
+        "scored_at": "2026-10-05T22:48:06.744448Z"
       }
     },
     {
-      "story_id": "story_47d885071ad3",
-      "title": "Opus 5.5 agents discover two room-temperature magnetic semiconductor candidates",
-      "url": "https://www.vals.ai/blogs/room-temperature-magnetic-semiconductors",
-      "primary_url": "https://www.vals.ai/blogs/room-temperature-magnetic-semiconductors",
+      "story_id": "story_28fb0368d56f",
+      "title": "Dust：在没有反向传播的情况下预训练 Transformer / Dust: Pretraining Transformers Without Backpropagation",
+      "url": "https://qlabs.sh/research/dust",
+      "primary_url": "https://qlabs.sh/research/dust",
       "source": "Hacker News · 24h最热",
       "source_name": "Zeli",
       "sources": [
         {
-          "id": "d35c740c144293b45c6e2e98a537c705c97da26c",
-          "title": "Opus 5.5 agents discover two room-temperature magnetic semiconductor candidates",
-          "title_zh": null,
-          "title_en": "Opus 5.5 agents discover two room-temperature magnetic semiconductor candidates",
-          "title_original": "Opus 5.5 agents discover two room-temperature magnetic semiconductor candidates",
+          "id": "f6de9d786acd54bba5133f7b491e15e12c2fe0c2",
+          "title": "Dust：在没有反向传播的情况下预训练 Transformer / Dust: Pretraining Transformers Without Backpropagation",
+          "title_zh": "Dust：在没有反向传播的情况下预训练 Transformer",
+          "title_en": "Dust: Pretraining Transformers Without Backpropagation",
+          "title_original": "Dust: Pretraining Transformers Without Backpropagation",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.vals.ai/blogs/room-temperature-magnetic-semiconductors",
+          "url": "https://qlabs.sh/research/dust",
           "source": "Hacker News · 24h最热",
           "source_name": "Zeli",
           "site_id": "zeli",
-          "published_at": "2026-10-05T21:00:21Z"
+          "published_at": "2026-10-05T21:15:07Z"
         },
         {
-          "id": "c0407e92a3d6ccaf35a78647a157f61f833b3f23",
-          "title": "Opus 5.5 agents discover two room-temperature magnetic semiconductor candidates",
-          "title_zh": null,
-          "title_en": "Opus 5.5 agents discover two room-temperature magnetic semiconductor candidates",
-          "title_original": "Opus 5.5 agents discover two room-temperature magnetic semiconductor candidates",
+          "id": "7389c431f138003ff1424c3abc0027a58665a484",
+          "title": "Dust：在没有反向传播的情况下预训练 Transformer / Dust: Pretraining Transformers Without Backpropagation",
+          "title_zh": "Dust：在没有反向传播的情况下预训练 Transformer",
+          "title_en": "Dust: Pretraining Transformers Without Backpropagation",
+          "title_original": "Dust: Pretraining Transformers Without Backpropagation",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=49970667",
+          "url": "https://news.ycombinator.com/item?id=49970871",
           "source": "hackernews",
           "source_name": "NewsNow",
           "site_id": "newsnow",
-          "published_at": "2026-10-05T21:00:21Z"
+          "published_at": "2026-10-05T21:15:07Z"
         }
       ],
       "source_count": 2,
@@ -990,62 +1129,62 @@
       ],
       "items": [
         {
-          "id": "d35c740c144293b45c6e2e98a537c705c97da26c",
-          "title": "Opus 5.5 agents discover two room-temperature magnetic semiconductor candidates",
-          "title_zh": null,
-          "title_en": "Opus 5.5 agents discover two room-temperature magnetic semiconductor candidates",
-          "title_original": "Opus 5.5 agents discover two room-temperature magnetic semiconductor candidates",
+          "id": "f6de9d786acd54bba5133f7b491e15e12c2fe0c2",
+          "title": "Dust：在没有反向传播的情况下预训练 Transformer / Dust: Pretraining Transformers Without Backpropagation",
+          "title_zh": "Dust：在没有反向传播的情况下预训练 Transformer",
+          "title_en": "Dust: Pretraining Transformers Without Backpropagation",
+          "title_original": "Dust: Pretraining Transformers Without Backpropagation",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.vals.ai/blogs/room-temperature-magnetic-semiconductors",
+          "url": "https://qlabs.sh/research/dust",
           "source": "Hacker News · 24h最热",
           "source_name": "Zeli",
           "site_id": "zeli",
-          "published_at": "2026-10-05T21:00:21Z"
+          "published_at": "2026-10-05T21:15:07Z"
         },
         {
-          "id": "c0407e92a3d6ccaf35a78647a157f61f833b3f23",
-          "title": "Opus 5.5 agents discover two room-temperature magnetic semiconductor candidates",
-          "title_zh": null,
-          "title_en": "Opus 5.5 agents discover two room-temperature magnetic semiconductor candidates",
-          "title_original": "Opus 5.5 agents discover two room-temperature magnetic semiconductor candidates",
+          "id": "7389c431f138003ff1424c3abc0027a58665a484",
+          "title": "Dust：在没有反向传播的情况下预训练 Transformer / Dust: Pretraining Transformers Without Backpropagation",
+          "title_zh": "Dust：在没有反向传播的情况下预训练 Transformer",
+          "title_en": "Dust: Pretraining Transformers Without Backpropagation",
+          "title_original": "Dust: Pretraining Transformers Without Backpropagation",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=49970667",
+          "url": "https://news.ycombinator.com/item?id=49970871",
           "source": "hackernews",
           "source_name": "NewsNow",
           "site_id": "newsnow",
-          "published_at": "2026-10-05T21:00:21Z"
+          "published_at": "2026-10-05T21:15:07Z"
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5438,
-      "importance": 0.5438,
-      "importance_score": 0.5438,
+      "score": 0.5418,
+      "importance": 0.5418,
+      "importance_score": 0.5418,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9887,
+        "recency": 0.978,
         "story_heat": 0.25
       },
       "category": "watch",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-10-05T21:00:21Z",
-      "latest_at": "2026-10-05T21:00:21Z",
+      "earliest_at": "2026-10-05T21:15:07Z",
+      "latest_at": "2026-10-05T21:15:07Z",
       "primary_item": {
-        "id": "d35c740c144293b45c6e2e98a537c705c97da26c",
-        "title": "Opus 5.5 agents discover two room-temperature magnetic semiconductor candidates",
-        "title_zh": null,
-        "title_en": "Opus 5.5 agents discover two room-temperature magnetic semiconductor candidates",
-        "title_original": "Opus 5.5 agents discover two room-temperature magnetic semiconductor candidates",
+        "id": "f6de9d786acd54bba5133f7b491e15e12c2fe0c2",
+        "title": "Dust：在没有反向传播的情况下预训练 Transformer / Dust: Pretraining Transformers Without Backpropagation",
+        "title_zh": "Dust：在没有反向传播的情况下预训练 Transformer",
+        "title_en": "Dust: Pretraining Transformers Without Backpropagation",
+        "title_original": "Dust: Pretraining Transformers Without Backpropagation",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://www.vals.ai/blogs/room-temperature-magnetic-semiconductors",
+        "url": "https://qlabs.sh/research/dust",
         "source": "Hacker News · 24h最热",
         "source_name": "Zeli"
       },
@@ -1053,7 +1192,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-05T21:58:46.180374Z"
+        "scored_at": "2026-10-05T22:48:06.744448Z"
       }
     },
     {
@@ -1130,15 +1269,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5422,
-      "importance": 0.5422,
-      "importance_score": 0.5422,
+      "score": 0.5396,
+      "importance": 0.5396,
+      "importance_score": 0.5396,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9798,
+        "recency": 0.9657,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1163,7 +1302,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-05T21:58:46.180374Z"
+        "scored_at": "2026-10-05T22:48:06.744448Z"
       }
     },
     {
@@ -1190,8 +1329,8 @@
         },
         {
           "id": "ed63dbcc60c78ade06c4870636f0dc71f15c073d",
-          "title": "Spending on AI is becoming almost impossible for businesses to budget",
-          "title_zh": null,
+          "title": "企业几乎无法在人工智能上进行预算 / Spending on AI is becoming almost impossible for businesses to budget",
+          "title_zh": "企业几乎无法在人工智能上进行预算",
           "title_en": "Spending on AI is becoming almost impossible for businesses to budget",
           "title_original": "Spending on AI is becoming almost impossible for businesses to budget",
           "summary": null,
@@ -1225,8 +1364,8 @@
         },
         {
           "id": "ed63dbcc60c78ade06c4870636f0dc71f15c073d",
-          "title": "Spending on AI is becoming almost impossible for businesses to budget",
-          "title_zh": null,
+          "title": "企业几乎无法在人工智能上进行预算 / Spending on AI is becoming almost impossible for businesses to budget",
+          "title_zh": "企业几乎无法在人工智能上进行预算",
           "title_en": "Spending on AI is becoming almost impossible for businesses to budget",
           "title_original": "Spending on AI is becoming almost impossible for businesses to budget",
           "summary": null,
@@ -1240,15 +1379,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5252,
-      "importance": 0.5252,
-      "importance_score": 0.5252,
+      "score": 0.5229,
+      "importance": 0.5229,
+      "importance_score": 0.5229,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8856,
+        "recency": 0.8729,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1273,7 +1412,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-05T21:58:46.180374Z"
+        "scored_at": "2026-10-05T22:48:06.744448Z"
       }
     },
     {
@@ -1349,15 +1488,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5042,
-      "importance": 0.5042,
-      "importance_score": 0.5042,
+      "score": 0.5022,
+      "importance": 0.5022,
+      "importance_score": 0.5022,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.769,
+        "recency": 0.758,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1382,7 +1521,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-05T21:58:46.180374Z"
+        "scored_at": "2026-10-05T22:48:06.744448Z"
       }
     },
     {
@@ -1459,15 +1598,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5294,
-      "importance": 0.5294,
-      "importance_score": 0.5294,
+      "score": 0.5271,
+      "importance": 0.5271,
+      "importance_score": 0.5271,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9091,
+        "recency": 0.8961,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1492,7 +1631,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-05T21:58:46.180374Z"
+        "scored_at": "2026-10-05T22:48:06.744448Z"
       }
     },
     {
@@ -1569,15 +1708,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5203,
-      "importance": 0.5203,
-      "importance_score": 0.5203,
+      "score": 0.5181,
+      "importance": 0.5181,
+      "importance_score": 0.5181,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8586,
+        "recency": 0.8463,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1602,7 +1741,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-05T21:58:46.180374Z"
+        "scored_at": "2026-10-05T22:48:06.744448Z"
       }
     },
     {
@@ -1679,15 +1818,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5292,
-      "importance": 0.5292,
-      "importance_score": 0.5292,
+      "score": 0.5269,
+      "importance": 0.5269,
+      "importance_score": 0.5269,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.908,
+        "recency": 0.895,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1712,7 +1851,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-05T21:58:46.180374Z"
+        "scored_at": "2026-10-05T22:48:06.744448Z"
       }
     },
     {
@@ -1789,15 +1928,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4988,
-      "importance": 0.4988,
-      "importance_score": 0.4988,
+      "score": 0.4969,
+      "importance": 0.4969,
+      "importance_score": 0.4969,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.739,
+        "recency": 0.7285,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1822,7 +1961,7 @@
       "persona_score": 0,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-05T21:58:46.180374Z"
+        "scored_at": "2026-10-05T22:48:06.744448Z"
       }
     },
     {
@@ -1899,15 +2038,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5242,
-      "importance": 0.5242,
-      "importance_score": 0.5242,
+      "score": 0.5219,
+      "importance": 0.5219,
+      "importance_score": 0.5219,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.88,
+        "recency": 0.8674,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1932,117 +2071,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-05T21:58:46.180374Z"
-      }
-    },
-    {
-      "story_id": "story_ee48ed0405d1",
-      "title": "人工智能不需要“超级智能”或邪恶意图来发动核战争 / AI doesn't need 'superintelligence' or evil intent to start a nuclear war",
-      "url": "https://thebulletin.org/2026/10/ai-doesnt-need-superintelligence-or-evil-intent-to-start-a-nuclear-war",
-      "primary_url": "https://thebulletin.org/2026/10/ai-doesnt-need-superintelligence-or-evil-intent-to-start-a-nuclear-war",
-      "source": "Hacker News · 24h最热",
-      "source_name": "Zeli",
-      "sources": [
-        {
-          "id": "223506810e63cc3d0fecd6e1eee51937d828e427",
-          "title": "人工智能不需要“超级智能”或邪恶意图来发动核战争 / AI doesn't need 'superintelligence' or evil intent to start a nuclear war",
-          "title_zh": "人工智能不需要“超级智能”或邪恶意图来发动核战争",
-          "title_en": "AI doesn't need 'superintelligence' or evil intent to start a nuclear war",
-          "title_original": "AI doesn't need 'superintelligence' or evil intent to start a nuclear war",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://thebulletin.org/2026/10/ai-doesnt-need-superintelligence-or-evil-intent-to-start-a-nuclear-war",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-10-04T22:03:41Z"
-        },
-        {
-          "id": "84bbf69700a369eaae5a25de909579f4547588f2",
-          "title": "人工智能不需要“超级智能”或邪恶意图来发动核战争 / AI doesn't need 'superintelligence' or evil intent to start a nuclear war",
-          "title_zh": "人工智能不需要“超级智能”或邪恶意图来发动核战争",
-          "title_en": "AI doesn't need 'superintelligence' or evil intent to start a nuclear war",
-          "title_original": "AI doesn't need 'superintelligence' or evil intent to start a nuclear war",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=49958358",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-10-04T22:03:41Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News · 24h最热",
-        "hackernews"
-      ],
-      "items": [
-        {
-          "id": "223506810e63cc3d0fecd6e1eee51937d828e427",
-          "title": "人工智能不需要“超级智能”或邪恶意图来发动核战争 / AI doesn't need 'superintelligence' or evil intent to start a nuclear war",
-          "title_zh": "人工智能不需要“超级智能”或邪恶意图来发动核战争",
-          "title_en": "AI doesn't need 'superintelligence' or evil intent to start a nuclear war",
-          "title_original": "AI doesn't need 'superintelligence' or evil intent to start a nuclear war",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://thebulletin.org/2026/10/ai-doesnt-need-superintelligence-or-evil-intent-to-start-a-nuclear-war",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-10-04T22:03:41Z"
-        },
-        {
-          "id": "84bbf69700a369eaae5a25de909579f4547588f2",
-          "title": "人工智能不需要“超级智能”或邪恶意图来发动核战争 / AI doesn't need 'superintelligence' or evil intent to start a nuclear war",
-          "title_zh": "人工智能不需要“超级智能”或邪恶意图来发动核战争",
-          "title_en": "AI doesn't need 'superintelligence' or evil intent to start a nuclear war",
-          "title_original": "AI doesn't need 'superintelligence' or evil intent to start a nuclear war",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=49958358",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-10-04T22:03:41Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.4936,
-      "importance": 0.4936,
-      "importance_score": 0.4936,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.7099,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-10-04T22:03:41Z",
-      "latest_at": "2026-10-04T22:03:41Z",
-      "primary_item": {
-        "id": "223506810e63cc3d0fecd6e1eee51937d828e427",
-        "title": "人工智能不需要“超级智能”或邪恶意图来发动核战争 / AI doesn't need 'superintelligence' or evil intent to start a nuclear war",
-        "title_zh": "人工智能不需要“超级智能”或邪恶意图来发动核战争",
-        "title_en": "AI doesn't need 'superintelligence' or evil intent to start a nuclear war",
-        "title_original": "AI doesn't need 'superintelligence' or evil intent to start a nuclear war",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://thebulletin.org/2026/10/ai-doesnt-need-superintelligence-or-evil-intent-to-start-a-nuclear-war",
-        "source": "Hacker News · 24h最热",
-        "source_name": "Zeli"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 0,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-10-05T21:58:46.180374Z"
+        "scored_at": "2026-10-05T22:48:06.744448Z"
       }
     }
   ]
