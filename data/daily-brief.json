@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-10-05T13:47:23.121723Z",
+  "generated_at": "2026-10-05T14:47:23.194363Z",
   "window_hours": 24,
-  "total_items": 13,
+  "total_items": 14,
   "items": [
     {
       "story_id": "story_aec85adef32a",
@@ -48,15 +48,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8424,
-      "importance": 0.8424,
-      "importance_score": 0.8424,
+      "score": 0.84,
+      "importance": 0.84,
+      "importance_score": 0.84,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.9467,
+        "recency": 0.9332,
         "story_heat": 0.0
       },
       "category": "official",
@@ -83,44 +83,44 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-05T13:48:28.720861Z"
+        "scored_at": "2026-10-05T14:48:15.048639Z"
       }
     },
     {
-      "story_id": "story_2207e0e64548",
-      "title": "山姆·奥尔特曼表示，接受“坏事”以换取人工智能的好处 / Accept 'bad things' in return for benefits of AI, says Sam Altman",
-      "url": "https://www.theguardian.com/technology/2026/oct/05/sam-altman-open-ai-chatgpt-benefits-risks",
-      "primary_url": "https://www.theguardian.com/technology/2026/oct/05/sam-altman-open-ai-chatgpt-benefits-risks",
+      "story_id": "story_6e660e39c141",
+      "title": "企业在人工智能上的支出几乎无法预算 / Spending on AI Is Becoming Almost Impossible for Businesses to Budget",
+      "url": "https://www.wsj.com/tech/personal-tech/ai-token-spending-businesses-431ee94a",
+      "primary_url": "https://www.wsj.com/tech/personal-tech/ai-token-spending-businesses-431ee94a",
       "source": "Hacker News · 24h最热",
       "source_name": "Zeli",
       "sources": [
         {
-          "id": "313441ca5855513a5033a46fa780b72ba31e092c",
-          "title": "山姆·奥尔特曼表示，接受“坏事”以换取人工智能的好处 / Accept 'bad things' in return for benefits of AI, says Sam Altman",
-          "title_zh": "山姆·奥尔特曼表示，接受“坏事”以换取人工智能的好处",
-          "title_en": "Accept 'bad things' in return for benefits of AI, says Sam Altman",
-          "title_original": "Accept 'bad things' in return for benefits of AI, says Sam Altman",
+          "id": "ed63dbcc60c78ade06c4870636f0dc71f15c073d",
+          "title": "企业在人工智能上的支出几乎无法预算 / Spending on AI Is Becoming Almost Impossible for Businesses to Budget",
+          "title_zh": "企业在人工智能上的支出几乎无法预算",
+          "title_en": "Spending on AI Is Becoming Almost Impossible for Businesses to Budget",
+          "title_original": "Spending on AI Is Becoming Almost Impossible for Businesses to Budget",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.theguardian.com/technology/2026/oct/05/sam-altman-open-ai-chatgpt-benefits-risks",
+          "url": "https://www.wsj.com/tech/personal-tech/ai-token-spending-businesses-431ee94a",
           "source": "Hacker News · 24h最热",
           "source_name": "Zeli",
           "site_id": "zeli",
-          "published_at": "2026-10-05T12:56:18Z"
+          "published_at": "2026-10-05T13:22:31Z"
         },
         {
-          "id": "e00066523d9d4c82b121d7adb81af77584db9e33",
-          "title": "山姆·奥尔特曼表示，接受“坏事”以换取人工智能的好处 / Accept 'bad things' in return for benefits of AI, says Sam Altman",
-          "title_zh": "山姆·奥尔特曼表示，接受“坏事”以换取人工智能的好处",
-          "title_en": "Accept 'bad things' in return for benefits of AI, says Sam Altman",
-          "title_original": "Accept 'bad things' in return for benefits of AI, says Sam Altman",
+          "id": "d1c7d5c5ad5b9565c338d373bc2beae153655f75",
+          "title": "企业在人工智能上的支出几乎无法预算 / Spending on AI Is Becoming Almost Impossible for Businesses to Budget",
+          "title_zh": "企业在人工智能上的支出几乎无法预算",
+          "title_en": "Spending on AI Is Becoming Almost Impossible for Businesses to Budget",
+          "title_original": "Spending on AI Is Becoming Almost Impossible for Businesses to Budget",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=49964248",
+          "url": "https://news.ycombinator.com/item?id=49964537",
           "source": "hackernews",
           "source_name": "NewsNow",
           "site_id": "newsnow",
-          "published_at": "2026-10-05T12:56:18Z"
+          "published_at": "2026-10-05T13:22:31Z"
         }
       ],
       "source_count": 2,
@@ -130,62 +130,62 @@
       ],
       "items": [
         {
-          "id": "313441ca5855513a5033a46fa780b72ba31e092c",
-          "title": "山姆·奥尔特曼表示，接受“坏事”以换取人工智能的好处 / Accept 'bad things' in return for benefits of AI, says Sam Altman",
-          "title_zh": "山姆·奥尔特曼表示，接受“坏事”以换取人工智能的好处",
-          "title_en": "Accept 'bad things' in return for benefits of AI, says Sam Altman",
-          "title_original": "Accept 'bad things' in return for benefits of AI, says Sam Altman",
+          "id": "ed63dbcc60c78ade06c4870636f0dc71f15c073d",
+          "title": "企业在人工智能上的支出几乎无法预算 / Spending on AI Is Becoming Almost Impossible for Businesses to Budget",
+          "title_zh": "企业在人工智能上的支出几乎无法预算",
+          "title_en": "Spending on AI Is Becoming Almost Impossible for Businesses to Budget",
+          "title_original": "Spending on AI Is Becoming Almost Impossible for Businesses to Budget",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.theguardian.com/technology/2026/oct/05/sam-altman-open-ai-chatgpt-benefits-risks",
+          "url": "https://www.wsj.com/tech/personal-tech/ai-token-spending-businesses-431ee94a",
           "source": "Hacker News · 24h最热",
           "source_name": "Zeli",
           "site_id": "zeli",
-          "published_at": "2026-10-05T12:56:18Z"
+          "published_at": "2026-10-05T13:22:31Z"
         },
         {
-          "id": "e00066523d9d4c82b121d7adb81af77584db9e33",
-          "title": "山姆·奥尔特曼表示，接受“坏事”以换取人工智能的好处 / Accept 'bad things' in return for benefits of AI, says Sam Altman",
-          "title_zh": "山姆·奥尔特曼表示，接受“坏事”以换取人工智能的好处",
-          "title_en": "Accept 'bad things' in return for benefits of AI, says Sam Altman",
-          "title_original": "Accept 'bad things' in return for benefits of AI, says Sam Altman",
+          "id": "d1c7d5c5ad5b9565c338d373bc2beae153655f75",
+          "title": "企业在人工智能上的支出几乎无法预算 / Spending on AI Is Becoming Almost Impossible for Businesses to Budget",
+          "title_zh": "企业在人工智能上的支出几乎无法预算",
+          "title_en": "Spending on AI Is Becoming Almost Impossible for Businesses to Budget",
+          "title_original": "Spending on AI Is Becoming Almost Impossible for Businesses to Budget",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=49964248",
+          "url": "https://news.ycombinator.com/item?id=49964537",
           "source": "hackernews",
           "source_name": "NewsNow",
           "site_id": "newsnow",
-          "published_at": "2026-10-05T12:56:18Z"
+          "published_at": "2026-10-05T13:22:31Z"
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5436,
-      "importance": 0.5436,
-      "importance_score": 0.5436,
+      "score": 0.5422,
+      "importance": 0.5422,
+      "importance_score": 0.5422,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9878,
+        "recency": 0.9798,
         "story_heat": 0.25
       },
       "category": "watch",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-10-05T12:56:18Z",
-      "latest_at": "2026-10-05T12:56:18Z",
+      "earliest_at": "2026-10-05T13:22:31Z",
+      "latest_at": "2026-10-05T13:22:31Z",
       "primary_item": {
-        "id": "313441ca5855513a5033a46fa780b72ba31e092c",
-        "title": "山姆·奥尔特曼表示，接受“坏事”以换取人工智能的好处 / Accept 'bad things' in return for benefits of AI, says Sam Altman",
-        "title_zh": "山姆·奥尔特曼表示，接受“坏事”以换取人工智能的好处",
-        "title_en": "Accept 'bad things' in return for benefits of AI, says Sam Altman",
-        "title_original": "Accept 'bad things' in return for benefits of AI, says Sam Altman",
+        "id": "ed63dbcc60c78ade06c4870636f0dc71f15c073d",
+        "title": "企业在人工智能上的支出几乎无法预算 / Spending on AI Is Becoming Almost Impossible for Businesses to Budget",
+        "title_zh": "企业在人工智能上的支出几乎无法预算",
+        "title_en": "Spending on AI Is Becoming Almost Impossible for Businesses to Budget",
+        "title_original": "Spending on AI Is Becoming Almost Impossible for Businesses to Budget",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://www.theguardian.com/technology/2026/oct/05/sam-altman-open-ai-chatgpt-benefits-risks",
+        "url": "https://www.wsj.com/tech/personal-tech/ai-token-spending-businesses-431ee94a",
         "source": "Hacker News · 24h最热",
         "source_name": "Zeli"
       },
@@ -193,7 +193,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-05T13:48:28.720861Z"
+        "scored_at": "2026-10-05T14:48:15.048639Z"
       }
     },
     {
@@ -269,15 +269,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5223,
-      "importance": 0.5223,
-      "importance_score": 0.5223,
+      "score": 0.52,
+      "importance": 0.52,
+      "importance_score": 0.52,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8694,
+        "recency": 0.8569,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -302,7 +302,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-05T13:48:28.720861Z"
+        "scored_at": "2026-10-05T14:48:15.048639Z"
       }
     },
     {
@@ -378,15 +378,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5212,
-      "importance": 0.5212,
-      "importance_score": 0.5212,
+      "score": 0.519,
+      "importance": 0.519,
+      "importance_score": 0.519,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8632,
+        "recency": 0.8509,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -411,7 +411,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-05T13:48:28.720861Z"
+        "scored_at": "2026-10-05T14:48:15.048639Z"
       }
     },
     {
@@ -488,15 +488,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5151,
-      "importance": 0.5151,
-      "importance_score": 0.5151,
+      "score": 0.513,
+      "importance": 0.513,
+      "importance_score": 0.513,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8296,
+        "recency": 0.8177,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -521,7 +521,117 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-05T13:48:28.720861Z"
+        "scored_at": "2026-10-05T14:48:15.048639Z"
+      }
+    },
+    {
+      "story_id": "story_2207e0e64548",
+      "title": "山姆·奥尔特曼表示，接受“坏事”以换取人工智能的好处 / Accept 'bad things' in return for benefits of AI, says Sam Altman",
+      "url": "https://www.theguardian.com/technology/2026/oct/05/sam-altman-open-ai-chatgpt-benefits-risks",
+      "primary_url": "https://www.theguardian.com/technology/2026/oct/05/sam-altman-open-ai-chatgpt-benefits-risks",
+      "source": "Hacker News · 24h最热",
+      "source_name": "Zeli",
+      "sources": [
+        {
+          "id": "313441ca5855513a5033a46fa780b72ba31e092c",
+          "title": "山姆·奥尔特曼表示，接受“坏事”以换取人工智能的好处 / Accept 'bad things' in return for benefits of AI, says Sam Altman",
+          "title_zh": "山姆·奥尔特曼表示，接受“坏事”以换取人工智能的好处",
+          "title_en": "Accept 'bad things' in return for benefits of AI, says Sam Altman",
+          "title_original": "Accept 'bad things' in return for benefits of AI, says Sam Altman",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.theguardian.com/technology/2026/oct/05/sam-altman-open-ai-chatgpt-benefits-risks",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-10-05T12:56:18Z"
+        },
+        {
+          "id": "e00066523d9d4c82b121d7adb81af77584db9e33",
+          "title": "山姆·奥尔特曼表示，接受“坏事”以换取人工智能的好处 / Accept 'bad things' in return for benefits of AI, says Sam Altman",
+          "title_zh": "山姆·奥尔特曼表示，接受“坏事”以换取人工智能的好处",
+          "title_en": "Accept 'bad things' in return for benefits of AI, says Sam Altman",
+          "title_original": "Accept 'bad things' in return for benefits of AI, says Sam Altman",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=49964248",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-10-05T12:56:18Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News · 24h最热",
+        "hackernews"
+      ],
+      "items": [
+        {
+          "id": "313441ca5855513a5033a46fa780b72ba31e092c",
+          "title": "山姆·奥尔特曼表示，接受“坏事”以换取人工智能的好处 / Accept 'bad things' in return for benefits of AI, says Sam Altman",
+          "title_zh": "山姆·奥尔特曼表示，接受“坏事”以换取人工智能的好处",
+          "title_en": "Accept 'bad things' in return for benefits of AI, says Sam Altman",
+          "title_original": "Accept 'bad things' in return for benefits of AI, says Sam Altman",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.theguardian.com/technology/2026/oct/05/sam-altman-open-ai-chatgpt-benefits-risks",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-10-05T12:56:18Z"
+        },
+        {
+          "id": "e00066523d9d4c82b121d7adb81af77584db9e33",
+          "title": "山姆·奥尔特曼表示，接受“坏事”以换取人工智能的好处 / Accept 'bad things' in return for benefits of AI, says Sam Altman",
+          "title_zh": "山姆·奥尔特曼表示，接受“坏事”以换取人工智能的好处",
+          "title_en": "Accept 'bad things' in return for benefits of AI, says Sam Altman",
+          "title_original": "Accept 'bad things' in return for benefits of AI, says Sam Altman",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=49964248",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-10-05T12:56:18Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5411,
+      "importance": 0.5411,
+      "importance_score": 0.5411,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9736,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-10-05T12:56:18Z",
+      "latest_at": "2026-10-05T12:56:18Z",
+      "primary_item": {
+        "id": "313441ca5855513a5033a46fa780b72ba31e092c",
+        "title": "山姆·奥尔特曼表示，接受“坏事”以换取人工智能的好处 / Accept 'bad things' in return for benefits of AI, says Sam Altman",
+        "title_zh": "山姆·奥尔特曼表示，接受“坏事”以换取人工智能的好处",
+        "title_en": "Accept 'bad things' in return for benefits of AI, says Sam Altman",
+        "title_original": "Accept 'bad things' in return for benefits of AI, says Sam Altman",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://www.theguardian.com/technology/2026/oct/05/sam-altman-open-ai-chatgpt-benefits-risks",
+        "source": "Hacker News · 24h最热",
+        "source_name": "Zeli"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-10-05T14:48:15.048639Z"
       }
     },
     {
@@ -598,15 +708,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5393,
-      "importance": 0.5393,
-      "importance_score": 0.5393,
+      "score": 0.5368,
+      "importance": 0.5368,
+      "importance_score": 0.5368,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9637,
+        "recency": 0.9499,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -631,7 +741,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-05T13:48:28.720861Z"
+        "scored_at": "2026-10-05T14:48:15.048639Z"
       }
     },
     {
@@ -708,15 +818,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5258,
-      "importance": 0.5258,
-      "importance_score": 0.5258,
+      "score": 0.5235,
+      "importance": 0.5235,
+      "importance_score": 0.5235,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8888,
+        "recency": 0.8761,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -741,7 +851,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-05T13:48:28.720861Z"
+        "scored_at": "2026-10-05T14:48:15.048639Z"
       }
     },
     {
@@ -818,15 +928,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5092,
-      "importance": 0.5092,
-      "importance_score": 0.5092,
+      "score": 0.5072,
+      "importance": 0.5072,
+      "importance_score": 0.5072,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7968,
+        "recency": 0.7854,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -851,7 +961,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-05T13:48:28.720861Z"
+        "scored_at": "2026-10-05T14:48:15.048639Z"
       }
     },
     {
@@ -928,15 +1038,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5047,
-      "importance": 0.5047,
-      "importance_score": 0.5047,
+      "score": 0.5027,
+      "importance": 0.5027,
+      "importance_score": 0.5027,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7714,
+        "recency": 0.7604,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -961,7 +1071,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-05T13:48:28.720861Z"
+        "scored_at": "2026-10-05T14:48:15.048639Z"
       }
     },
     {
@@ -1038,15 +1148,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5044,
-      "importance": 0.5044,
-      "importance_score": 0.5044,
+      "score": 0.5024,
+      "importance": 0.5024,
+      "importance_score": 0.5024,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7702,
+        "recency": 0.7591,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1071,7 +1181,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-05T13:48:28.720861Z"
+        "scored_at": "2026-10-05T14:48:15.048639Z"
       }
     },
     {
@@ -1148,15 +1258,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5044,
-      "importance": 0.5044,
-      "importance_score": 0.5044,
+      "score": 0.5024,
+      "importance": 0.5024,
+      "importance_score": 0.5024,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7702,
+        "recency": 0.7591,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1181,7 +1291,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-05T13:48:28.720861Z"
+        "scored_at": "2026-10-05T14:48:15.048639Z"
       }
     },
     {
@@ -1258,15 +1368,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4998,
-      "importance": 0.4998,
-      "importance_score": 0.4998,
+      "score": 0.4979,
+      "importance": 0.4979,
+      "importance_score": 0.4979,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7445,
+        "recency": 0.7338,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1291,7 +1401,7 @@
       "persona_score": 0,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-05T13:48:28.720861Z"
+        "scored_at": "2026-10-05T14:48:15.048639Z"
       }
     },
     {
@@ -1368,15 +1478,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4962,
-      "importance": 0.4962,
-      "importance_score": 0.4962,
+      "score": 0.4944,
+      "importance": 0.4944,
+      "importance_score": 0.4944,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7247,
+        "recency": 0.7143,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1401,7 +1511,7 @@
       "persona_score": 0,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-05T13:48:28.720861Z"
+        "scored_at": "2026-10-05T14:48:15.048639Z"
       }
     }
   ]
