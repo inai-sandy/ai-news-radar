@@ -1,8 +1,91 @@
 {
-  "generated_at": "2026-10-05T14:47:23.194363Z",
+  "generated_at": "2026-10-05T15:47:19.974613Z",
   "window_hours": 24,
-  "total_items": 14,
+  "total_items": 16,
   "items": [
+    {
+      "story_id": "story_6f6f6c4ad8fb",
+      "title": "我们对欧盟文本来源规则的处理方法 / Our approach to EU text provenance rules",
+      "url": "https://openai.com/index/eu-text-provenance",
+      "primary_url": "https://openai.com/index/eu-text-provenance",
+      "source": "OpenAI News",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "41383479c4a10511f043979bc4fd02e409189d41",
+          "title": "我们对欧盟文本来源规则的处理方法 / Our approach to EU text provenance rules",
+          "title_zh": "我们对欧盟文本来源规则的处理方法",
+          "title_en": "Our approach to EU text provenance rules",
+          "title_original": "Our approach to EU text provenance rules",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://openai.com/index/eu-text-provenance",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-10-05T15:00:00Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "OpenAI News"
+      ],
+      "items": [
+        {
+          "id": "41383479c4a10511f043979bc4fd02e409189d41",
+          "title": "我们对欧盟文本来源规则的处理方法 / Our approach to EU text provenance rules",
+          "title_zh": "我们对欧盟文本来源规则的处理方法",
+          "title_en": "Our approach to EU text provenance rules",
+          "title_original": "Our approach to EU text provenance rules",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://openai.com/index/eu-text-provenance",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-10-05T15:00:00Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.85,
+      "importance": 0.85,
+      "importance_score": 0.85,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.91,
+        "recency": 0.9887,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-10-05T15:00:00Z",
+      "latest_at": "2026-10-05T15:00:00Z",
+      "primary_item": {
+        "id": "41383479c4a10511f043979bc4fd02e409189d41",
+        "title": "我们对欧盟文本来源规则的处理方法 / Our approach to EU text provenance rules",
+        "title_zh": "我们对欧盟文本来源规则的处理方法",
+        "title_en": "Our approach to EU text provenance rules",
+        "title_original": "Our approach to EU text provenance rules",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://openai.com/index/eu-text-provenance",
+        "source": "OpenAI News",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-10-05T15:48:10.582140Z"
+      }
+    },
     {
       "story_id": "story_aec85adef32a",
       "title": "OpenAI 在 ChatGPT 推出全新视觉广告格式并扩展广告测量工具 / Building advertising for the way people use AI",
@@ -48,15 +131,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.84,
-      "importance": 0.84,
-      "importance_score": 0.84,
+      "score": 0.8376,
+      "importance": 0.8376,
+      "importance_score": 0.8376,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.9332,
+        "recency": 0.9198,
         "story_heat": 0.0
       },
       "category": "official",
@@ -83,44 +166,154 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-05T14:48:15.048639Z"
+        "scored_at": "2026-10-05T15:48:10.582140Z"
       }
     },
     {
-      "story_id": "story_6e660e39c141",
-      "title": "企业在人工智能上的支出几乎无法预算 / Spending on AI Is Becoming Almost Impossible for Businesses to Budget",
-      "url": "https://www.wsj.com/tech/personal-tech/ai-token-spending-businesses-431ee94a",
-      "primary_url": "https://www.wsj.com/tech/personal-tech/ai-token-spending-businesses-431ee94a",
+      "story_id": "story_f4763bfb35df",
+      "title": "OpenAI 将在 ChatGPT 中投放更多广告 / OpenAI is sticking more ads in ChatGPT",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1004655/openai-chatgpt-visual-ads",
+      "primary_url": "https://www.theverge.com/ai-artificial-intelligence/1004655/openai-chatgpt-visual-ads",
+      "source": "The Verge",
+      "source_name": "Curated Media",
+      "sources": [
+        {
+          "id": "683687f5488bf215a4ce2630c2b248d8543640fd",
+          "title": "OpenAI 将在 ChatGPT 中投放更多广告 / OpenAI is sticking more ads in ChatGPT",
+          "title_zh": "OpenAI 将在 ChatGPT 中投放更多广告",
+          "title_en": "OpenAI is sticking more ads in ChatGPT",
+          "title_original": "OpenAI is sticking more ads in ChatGPT",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1004655/openai-chatgpt-visual-ads",
+          "source": "The Verge",
+          "source_name": "Curated Media",
+          "site_id": "curated_media",
+          "published_at": "2026-10-05T13:09:48Z"
+        },
+        {
+          "id": "b4e193360f4f349951d9bd8fd059a31e76865917",
+          "title": "OpenAI 正在 ChatGPT 中测试更多广告 / OpenAI is testing more ads in ChatGPT",
+          "title_zh": "OpenAI 正在 ChatGPT 中测试更多广告",
+          "title_en": "OpenAI is testing more ads in ChatGPT",
+          "title_original": "OpenAI is testing more ads in ChatGPT",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.engadget.com/2277271/openai-is-testing-more-ads-in-chatgpt",
+          "source": "Engadget",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-10-05T14:38:31Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Engadget",
+        "The Verge"
+      ],
+      "items": [
+        {
+          "id": "683687f5488bf215a4ce2630c2b248d8543640fd",
+          "title": "OpenAI 将在 ChatGPT 中投放更多广告 / OpenAI is sticking more ads in ChatGPT",
+          "title_zh": "OpenAI 将在 ChatGPT 中投放更多广告",
+          "title_en": "OpenAI is sticking more ads in ChatGPT",
+          "title_original": "OpenAI is sticking more ads in ChatGPT",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1004655/openai-chatgpt-visual-ads",
+          "source": "The Verge",
+          "source_name": "Curated Media",
+          "site_id": "curated_media",
+          "published_at": "2026-10-05T13:09:48Z"
+        },
+        {
+          "id": "b4e193360f4f349951d9bd8fd059a31e76865917",
+          "title": "OpenAI 正在 ChatGPT 中测试更多广告 / OpenAI is testing more ads in ChatGPT",
+          "title_zh": "OpenAI 正在 ChatGPT 中测试更多广告",
+          "title_en": "OpenAI is testing more ads in ChatGPT",
+          "title_original": "OpenAI is testing more ads in ChatGPT",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.engadget.com/2277271/openai-is-testing-more-ads-in-chatgpt",
+          "source": "Engadget",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-10-05T14:38:31Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.6337,
+      "importance": 0.6337,
+      "importance_score": 0.6337,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.5328,
+        "source_tier": 0.58,
+        "ai_relevance": 0.74,
+        "recency": 0.9628,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-10-05T13:09:48Z",
+      "latest_at": "2026-10-05T14:38:31Z",
+      "primary_item": {
+        "id": "683687f5488bf215a4ce2630c2b248d8543640fd",
+        "title": "OpenAI 将在 ChatGPT 中投放更多广告 / OpenAI is sticking more ads in ChatGPT",
+        "title_zh": "OpenAI 将在 ChatGPT 中投放更多广告",
+        "title_en": "OpenAI is sticking more ads in ChatGPT",
+        "title_original": "OpenAI is sticking more ads in ChatGPT",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://www.theverge.com/ai-artificial-intelligence/1004655/openai-chatgpt-visual-ads",
+        "source": "The Verge",
+        "source_name": "Curated Media"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-10-05T15:48:10.582140Z"
+      }
+    },
+    {
+      "story_id": "story_6d84f167e6c4",
+      "title": "奥特曼：世界应该接受一些坏事的发生，让人工智能受益 / Altman: The world should accept some bad things happening for the benefits of AI",
+      "url": "https://www.politico.com/news/2026/10/04/sam-altman-decoded-interview-ai-01106217",
+      "primary_url": "https://www.politico.com/news/2026/10/04/sam-altman-decoded-interview-ai-01106217",
       "source": "Hacker News · 24h最热",
       "source_name": "Zeli",
       "sources": [
         {
-          "id": "ed63dbcc60c78ade06c4870636f0dc71f15c073d",
-          "title": "企业在人工智能上的支出几乎无法预算 / Spending on AI Is Becoming Almost Impossible for Businesses to Budget",
-          "title_zh": "企业在人工智能上的支出几乎无法预算",
-          "title_en": "Spending on AI Is Becoming Almost Impossible for Businesses to Budget",
-          "title_original": "Spending on AI Is Becoming Almost Impossible for Businesses to Budget",
+          "id": "f52c52878ab3528d3684df7354ef92e484e72fdb",
+          "title": "奥特曼：世界应该接受一些坏事的发生，让人工智能受益 / Altman: The world should accept some bad things happening for the benefits of AI",
+          "title_zh": "奥特曼：世界应该接受一些坏事的发生，让人工智能受益",
+          "title_en": "Altman: The world should accept some bad things happening for the benefits of AI",
+          "title_original": "Altman: The world should accept some bad things happening for the benefits of AI",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.wsj.com/tech/personal-tech/ai-token-spending-businesses-431ee94a",
+          "url": "https://www.politico.com/news/2026/10/04/sam-altman-decoded-interview-ai-01106217",
           "source": "Hacker News · 24h最热",
           "source_name": "Zeli",
           "site_id": "zeli",
-          "published_at": "2026-10-05T13:22:31Z"
+          "published_at": "2026-10-05T15:03:32Z"
         },
         {
-          "id": "d1c7d5c5ad5b9565c338d373bc2beae153655f75",
-          "title": "企业在人工智能上的支出几乎无法预算 / Spending on AI Is Becoming Almost Impossible for Businesses to Budget",
-          "title_zh": "企业在人工智能上的支出几乎无法预算",
-          "title_en": "Spending on AI Is Becoming Almost Impossible for Businesses to Budget",
-          "title_original": "Spending on AI Is Becoming Almost Impossible for Businesses to Budget",
+          "id": "5a1831d6cb36560bec99b0c2378326fe74fc9a2f",
+          "title": "奥特曼：世界应该接受一些坏事的发生，让人工智能受益 / Altman: The world should accept some bad things happening for the benefits of AI",
+          "title_zh": "奥特曼：世界应该接受一些坏事的发生，让人工智能受益",
+          "title_en": "Altman: The world should accept some bad things happening for the benefits of AI",
+          "title_original": "Altman: The world should accept some bad things happening for the benefits of AI",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=49964537",
+          "url": "https://news.ycombinator.com/item?id=49965786",
           "source": "hackernews",
           "source_name": "NewsNow",
           "site_id": "newsnow",
-          "published_at": "2026-10-05T13:22:31Z"
+          "published_at": "2026-10-05T15:03:32Z"
         }
       ],
       "source_count": 2,
@@ -130,62 +323,62 @@
       ],
       "items": [
         {
-          "id": "ed63dbcc60c78ade06c4870636f0dc71f15c073d",
-          "title": "企业在人工智能上的支出几乎无法预算 / Spending on AI Is Becoming Almost Impossible for Businesses to Budget",
-          "title_zh": "企业在人工智能上的支出几乎无法预算",
-          "title_en": "Spending on AI Is Becoming Almost Impossible for Businesses to Budget",
-          "title_original": "Spending on AI Is Becoming Almost Impossible for Businesses to Budget",
+          "id": "f52c52878ab3528d3684df7354ef92e484e72fdb",
+          "title": "奥特曼：世界应该接受一些坏事的发生，让人工智能受益 / Altman: The world should accept some bad things happening for the benefits of AI",
+          "title_zh": "奥特曼：世界应该接受一些坏事的发生，让人工智能受益",
+          "title_en": "Altman: The world should accept some bad things happening for the benefits of AI",
+          "title_original": "Altman: The world should accept some bad things happening for the benefits of AI",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.wsj.com/tech/personal-tech/ai-token-spending-businesses-431ee94a",
+          "url": "https://www.politico.com/news/2026/10/04/sam-altman-decoded-interview-ai-01106217",
           "source": "Hacker News · 24h最热",
           "source_name": "Zeli",
           "site_id": "zeli",
-          "published_at": "2026-10-05T13:22:31Z"
+          "published_at": "2026-10-05T15:03:32Z"
         },
         {
-          "id": "d1c7d5c5ad5b9565c338d373bc2beae153655f75",
-          "title": "企业在人工智能上的支出几乎无法预算 / Spending on AI Is Becoming Almost Impossible for Businesses to Budget",
-          "title_zh": "企业在人工智能上的支出几乎无法预算",
-          "title_en": "Spending on AI Is Becoming Almost Impossible for Businesses to Budget",
-          "title_original": "Spending on AI Is Becoming Almost Impossible for Businesses to Budget",
+          "id": "5a1831d6cb36560bec99b0c2378326fe74fc9a2f",
+          "title": "奥特曼：世界应该接受一些坏事的发生，让人工智能受益 / Altman: The world should accept some bad things happening for the benefits of AI",
+          "title_zh": "奥特曼：世界应该接受一些坏事的发生，让人工智能受益",
+          "title_en": "Altman: The world should accept some bad things happening for the benefits of AI",
+          "title_original": "Altman: The world should accept some bad things happening for the benefits of AI",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=49964537",
+          "url": "https://news.ycombinator.com/item?id=49965786",
           "source": "hackernews",
           "source_name": "NewsNow",
           "site_id": "newsnow",
-          "published_at": "2026-10-05T13:22:31Z"
+          "published_at": "2026-10-05T15:03:32Z"
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5422,
-      "importance": 0.5422,
-      "importance_score": 0.5422,
+      "score": 0.5439,
+      "importance": 0.5439,
+      "importance_score": 0.5439,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9798,
+        "recency": 0.9895,
         "story_heat": 0.25
       },
       "category": "watch",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-10-05T13:22:31Z",
-      "latest_at": "2026-10-05T13:22:31Z",
+      "earliest_at": "2026-10-05T15:03:32Z",
+      "latest_at": "2026-10-05T15:03:32Z",
       "primary_item": {
-        "id": "ed63dbcc60c78ade06c4870636f0dc71f15c073d",
-        "title": "企业在人工智能上的支出几乎无法预算 / Spending on AI Is Becoming Almost Impossible for Businesses to Budget",
-        "title_zh": "企业在人工智能上的支出几乎无法预算",
-        "title_en": "Spending on AI Is Becoming Almost Impossible for Businesses to Budget",
-        "title_original": "Spending on AI Is Becoming Almost Impossible for Businesses to Budget",
+        "id": "f52c52878ab3528d3684df7354ef92e484e72fdb",
+        "title": "奥特曼：世界应该接受一些坏事的发生，让人工智能受益 / Altman: The world should accept some bad things happening for the benefits of AI",
+        "title_zh": "奥特曼：世界应该接受一些坏事的发生，让人工智能受益",
+        "title_en": "Altman: The world should accept some bad things happening for the benefits of AI",
+        "title_original": "Altman: The world should accept some bad things happening for the benefits of AI",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://www.wsj.com/tech/personal-tech/ai-token-spending-businesses-431ee94a",
+        "url": "https://www.politico.com/news/2026/10/04/sam-altman-decoded-interview-ai-01106217",
         "source": "Hacker News · 24h最热",
         "source_name": "Zeli"
       },
@@ -193,7 +386,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-05T14:48:15.048639Z"
+        "scored_at": "2026-10-05T15:48:10.582140Z"
       }
     },
     {
@@ -269,15 +462,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.52,
-      "importance": 0.52,
-      "importance_score": 0.52,
+      "score": 0.5178,
+      "importance": 0.5178,
+      "importance_score": 0.5178,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8569,
+        "recency": 0.8447,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -302,7 +495,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-05T14:48:15.048639Z"
+        "scored_at": "2026-10-05T15:48:10.582140Z"
       }
     },
     {
@@ -378,15 +571,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.519,
-      "importance": 0.519,
-      "importance_score": 0.519,
+      "score": 0.5168,
+      "importance": 0.5168,
+      "importance_score": 0.5168,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8509,
+        "recency": 0.8387,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -411,7 +604,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-05T14:48:15.048639Z"
+        "scored_at": "2026-10-05T15:48:10.582140Z"
       }
     },
     {
@@ -488,15 +681,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.513,
-      "importance": 0.513,
-      "importance_score": 0.513,
+      "score": 0.5109,
+      "importance": 0.5109,
+      "importance_score": 0.5109,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8177,
+        "recency": 0.806,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -521,7 +714,117 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-05T14:48:15.048639Z"
+        "scored_at": "2026-10-05T15:48:10.582140Z"
+      }
+    },
+    {
+      "story_id": "story_6e660e39c141",
+      "title": "企业在人工智能上的支出几乎无法预算 / Spending on AI Is Becoming Almost Impossible for Businesses to Budget",
+      "url": "https://www.wsj.com/tech/personal-tech/ai-token-spending-businesses-431ee94a",
+      "primary_url": "https://www.wsj.com/tech/personal-tech/ai-token-spending-businesses-431ee94a",
+      "source": "Hacker News · 24h最热",
+      "source_name": "Zeli",
+      "sources": [
+        {
+          "id": "ed63dbcc60c78ade06c4870636f0dc71f15c073d",
+          "title": "企业在人工智能上的支出几乎无法预算 / Spending on AI Is Becoming Almost Impossible for Businesses to Budget",
+          "title_zh": "企业在人工智能上的支出几乎无法预算",
+          "title_en": "Spending on AI Is Becoming Almost Impossible for Businesses to Budget",
+          "title_original": "Spending on AI Is Becoming Almost Impossible for Businesses to Budget",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.wsj.com/tech/personal-tech/ai-token-spending-businesses-431ee94a",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-10-05T13:22:31Z"
+        },
+        {
+          "id": "d1c7d5c5ad5b9565c338d373bc2beae153655f75",
+          "title": "企业在人工智能上的支出几乎无法预算 / Spending on AI Is Becoming Almost Impossible for Businesses to Budget",
+          "title_zh": "企业在人工智能上的支出几乎无法预算",
+          "title_en": "Spending on AI Is Becoming Almost Impossible for Businesses to Budget",
+          "title_original": "Spending on AI Is Becoming Almost Impossible for Businesses to Budget",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=49964537",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-10-05T13:22:31Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News · 24h最热",
+        "hackernews"
+      ],
+      "items": [
+        {
+          "id": "ed63dbcc60c78ade06c4870636f0dc71f15c073d",
+          "title": "企业在人工智能上的支出几乎无法预算 / Spending on AI Is Becoming Almost Impossible for Businesses to Budget",
+          "title_zh": "企业在人工智能上的支出几乎无法预算",
+          "title_en": "Spending on AI Is Becoming Almost Impossible for Businesses to Budget",
+          "title_original": "Spending on AI Is Becoming Almost Impossible for Businesses to Budget",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.wsj.com/tech/personal-tech/ai-token-spending-businesses-431ee94a",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-10-05T13:22:31Z"
+        },
+        {
+          "id": "d1c7d5c5ad5b9565c338d373bc2beae153655f75",
+          "title": "企业在人工智能上的支出几乎无法预算 / Spending on AI Is Becoming Almost Impossible for Businesses to Budget",
+          "title_zh": "企业在人工智能上的支出几乎无法预算",
+          "title_en": "Spending on AI Is Becoming Almost Impossible for Businesses to Budget",
+          "title_original": "Spending on AI Is Becoming Almost Impossible for Businesses to Budget",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=49964537",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-10-05T13:22:31Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5396,
+      "importance": 0.5396,
+      "importance_score": 0.5396,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9657,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-10-05T13:22:31Z",
+      "latest_at": "2026-10-05T13:22:31Z",
+      "primary_item": {
+        "id": "ed63dbcc60c78ade06c4870636f0dc71f15c073d",
+        "title": "企业在人工智能上的支出几乎无法预算 / Spending on AI Is Becoming Almost Impossible for Businesses to Budget",
+        "title_zh": "企业在人工智能上的支出几乎无法预算",
+        "title_en": "Spending on AI Is Becoming Almost Impossible for Businesses to Budget",
+        "title_original": "Spending on AI Is Becoming Almost Impossible for Businesses to Budget",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://www.wsj.com/tech/personal-tech/ai-token-spending-businesses-431ee94a",
+        "source": "Hacker News · 24h最热",
+        "source_name": "Zeli"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-10-05T15:48:10.582140Z"
       }
     },
     {
@@ -598,15 +901,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5411,
-      "importance": 0.5411,
-      "importance_score": 0.5411,
+      "score": 0.5385,
+      "importance": 0.5385,
+      "importance_score": 0.5385,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9736,
+        "recency": 0.9597,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -631,7 +934,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-05T14:48:15.048639Z"
+        "scored_at": "2026-10-05T15:48:10.582140Z"
       }
     },
     {
@@ -708,15 +1011,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5368,
-      "importance": 0.5368,
-      "importance_score": 0.5368,
+      "score": 0.5343,
+      "importance": 0.5343,
+      "importance_score": 0.5343,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9499,
+        "recency": 0.9363,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -741,7 +1044,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-05T14:48:15.048639Z"
+        "scored_at": "2026-10-05T15:48:10.582140Z"
       }
     },
     {
@@ -818,15 +1121,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5235,
-      "importance": 0.5235,
-      "importance_score": 0.5235,
+      "score": 0.5212,
+      "importance": 0.5212,
+      "importance_score": 0.5212,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8761,
+        "recency": 0.8635,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -851,7 +1154,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-05T14:48:15.048639Z"
+        "scored_at": "2026-10-05T15:48:10.582140Z"
       }
     },
     {
@@ -928,15 +1231,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5072,
-      "importance": 0.5072,
-      "importance_score": 0.5072,
+      "score": 0.5051,
+      "importance": 0.5051,
+      "importance_score": 0.5051,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7854,
+        "recency": 0.7741,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -961,7 +1264,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-05T14:48:15.048639Z"
+        "scored_at": "2026-10-05T15:48:10.582140Z"
       }
     },
     {
@@ -1038,15 +1341,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5027,
-      "importance": 0.5027,
-      "importance_score": 0.5027,
+      "score": 0.5007,
+      "importance": 0.5007,
+      "importance_score": 0.5007,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7604,
+        "recency": 0.7495,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1071,7 +1374,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-05T14:48:15.048639Z"
+        "scored_at": "2026-10-05T15:48:10.582140Z"
       }
     },
     {
@@ -1148,15 +1451,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5024,
-      "importance": 0.5024,
-      "importance_score": 0.5024,
+      "score": 0.5005,
+      "importance": 0.5005,
+      "importance_score": 0.5005,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7591,
+        "recency": 0.7483,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1181,7 +1484,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-05T14:48:15.048639Z"
+        "scored_at": "2026-10-05T15:48:10.582140Z"
       }
     },
     {
@@ -1258,15 +1561,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5024,
-      "importance": 0.5024,
-      "importance_score": 0.5024,
+      "score": 0.5005,
+      "importance": 0.5005,
+      "importance_score": 0.5005,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7591,
+        "recency": 0.7483,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1291,7 +1594,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-05T14:48:15.048639Z"
+        "scored_at": "2026-10-05T15:48:10.582140Z"
       }
     },
     {
@@ -1368,15 +1671,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4979,
-      "importance": 0.4979,
-      "importance_score": 0.4979,
+      "score": 0.496,
+      "importance": 0.496,
+      "importance_score": 0.496,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7338,
+        "recency": 0.7233,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1401,117 +1704,7 @@
       "persona_score": 0,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-05T14:48:15.048639Z"
-      }
-    },
-    {
-      "story_id": "story_d2546b0f4996",
-      "title": "RuneScape 对 Gen AI 的定位 / RuneScape's Position on Gen AI",
-      "url": "https://www.reddit.com/r/2007scape/comments/1wxfyzp/runescapes_position_on_gen_ai",
-      "primary_url": "https://www.reddit.com/r/2007scape/comments/1wxfyzp/runescapes_position_on_gen_ai",
-      "source": "Hacker News · 24h最热",
-      "source_name": "Zeli",
-      "sources": [
-        {
-          "id": "34d0099668cd86a3f449ef1617247a9c8e9bcb5a",
-          "title": "RuneScape 对 Gen AI 的定位 / RuneScape's Position on Gen AI",
-          "title_zh": "RuneScape 对 Gen AI 的定位",
-          "title_en": "RuneScape's Position on Gen AI",
-          "title_original": "RuneScape's Position on Gen AI",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.reddit.com/r/2007scape/comments/1wxfyzp/runescapes_position_on_gen_ai",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-10-04T15:29:14Z"
-        },
-        {
-          "id": "f6a9b2dd9fad9da596e7cfd90e5639b430bc3daf",
-          "title": "RuneScape 对 Gen AI 的定位 / RuneScape's Position on Gen AI",
-          "title_zh": "RuneScape 对 Gen AI 的定位",
-          "title_en": "RuneScape's Position on Gen AI",
-          "title_original": "RuneScape's Position on Gen AI",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=49954745",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-10-04T15:29:14Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News · 24h最热",
-        "hackernews"
-      ],
-      "items": [
-        {
-          "id": "34d0099668cd86a3f449ef1617247a9c8e9bcb5a",
-          "title": "RuneScape 对 Gen AI 的定位 / RuneScape's Position on Gen AI",
-          "title_zh": "RuneScape 对 Gen AI 的定位",
-          "title_en": "RuneScape's Position on Gen AI",
-          "title_original": "RuneScape's Position on Gen AI",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.reddit.com/r/2007scape/comments/1wxfyzp/runescapes_position_on_gen_ai",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-10-04T15:29:14Z"
-        },
-        {
-          "id": "f6a9b2dd9fad9da596e7cfd90e5639b430bc3daf",
-          "title": "RuneScape 对 Gen AI 的定位 / RuneScape's Position on Gen AI",
-          "title_zh": "RuneScape 对 Gen AI 的定位",
-          "title_en": "RuneScape's Position on Gen AI",
-          "title_original": "RuneScape's Position on Gen AI",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=49954745",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-10-04T15:29:14Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.4944,
-      "importance": 0.4944,
-      "importance_score": 0.4944,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.7143,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-10-04T15:29:14Z",
-      "latest_at": "2026-10-04T15:29:14Z",
-      "primary_item": {
-        "id": "34d0099668cd86a3f449ef1617247a9c8e9bcb5a",
-        "title": "RuneScape 对 Gen AI 的定位 / RuneScape's Position on Gen AI",
-        "title_zh": "RuneScape 对 Gen AI 的定位",
-        "title_en": "RuneScape's Position on Gen AI",
-        "title_original": "RuneScape's Position on Gen AI",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://www.reddit.com/r/2007scape/comments/1wxfyzp/runescapes_position_on_gen_ai",
-        "source": "Hacker News · 24h最热",
-        "source_name": "Zeli"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 0,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-10-05T14:48:15.048639Z"
+        "scored_at": "2026-10-05T15:48:10.582140Z"
       }
     }
   ]
