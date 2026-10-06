@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-06T09:47:26.465749Z",
+  "generated_at": "2026-10-06T10:47:20.282586Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -48,15 +48,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8603,
-      "importance": 0.8603,
-      "importance_score": 0.8603,
+      "score": 0.8578,
+      "importance": 0.8578,
+      "importance_score": 0.8578,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.99,
-        "recency": 0.957,
+        "recency": 0.9433,
         "story_heat": 0.0
       },
       "category": "official",
@@ -83,30 +83,30 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-06T09:48:16.331656Z"
+        "scored_at": "2026-10-06T10:59:55.768806Z"
       }
     },
     {
-      "story_id": "story_45464a737294",
-      "title": "秘密扫描添加了 Lovable、Supabase 等探测器 / Secret scanning adds detectors for Lovable, Supabase, and more",
-      "url": "https://github.blog/changelog/2026-10-05-secret-scanning-adds-detectors-for-lovable-supabase-and-more",
-      "primary_url": "https://github.blog/changelog/2026-10-05-secret-scanning-adds-detectors-for-lovable-supabase-and-more",
+      "story_id": "story_ae3c4f5c0420",
+      "title": "Code scanning AI Scan enablement status in security overview",
+      "url": "https://github.blog/changelog/2026-10-06-code-scanning-ai-scan-enablement-status-in-security-overview",
+      "primary_url": "https://github.blog/changelog/2026-10-06-code-scanning-ai-scan-enablement-status-in-security-overview",
       "source": "GitHub Changelog",
       "source_name": "Official AI Updates",
       "sources": [
         {
-          "id": "63b1b612bfba39b214b5ffc13153f4dbf893d546",
-          "title": "秘密扫描添加了 Lovable、Supabase 等探测器 / Secret scanning adds detectors for Lovable, Supabase, and more",
-          "title_zh": "秘密扫描添加了 Lovable、Supabase 等探测器",
-          "title_en": "Secret scanning adds detectors for Lovable, Supabase, and more",
-          "title_original": "Secret scanning adds detectors for Lovable, Supabase, and more",
+          "id": "c8e4300aea8b0cb54166d991296e299188b4aa01",
+          "title": "Code scanning AI Scan enablement status in security overview",
+          "title_zh": null,
+          "title_en": "Code scanning AI Scan enablement status in security overview",
+          "title_original": "Code scanning AI Scan enablement status in security overview",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-10-05-secret-scanning-adds-detectors-for-lovable-supabase-and-more",
+          "url": "https://github.blog/changelog/2026-10-06-code-scanning-ai-scan-enablement-status-in-security-overview",
           "source": "GitHub Changelog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-10-05T22:42:14Z"
+          "published_at": "2026-10-06T10:23:38Z"
         }
       ],
       "source_count": 1,
@@ -115,31 +115,31 @@
       ],
       "items": [
         {
-          "id": "63b1b612bfba39b214b5ffc13153f4dbf893d546",
-          "title": "秘密扫描添加了 Lovable、Supabase 等探测器 / Secret scanning adds detectors for Lovable, Supabase, and more",
-          "title_zh": "秘密扫描添加了 Lovable、Supabase 等探测器",
-          "title_en": "Secret scanning adds detectors for Lovable, Supabase, and more",
-          "title_original": "Secret scanning adds detectors for Lovable, Supabase, and more",
+          "id": "c8e4300aea8b0cb54166d991296e299188b4aa01",
+          "title": "Code scanning AI Scan enablement status in security overview",
+          "title_zh": null,
+          "title_en": "Code scanning AI Scan enablement status in security overview",
+          "title_original": "Code scanning AI Scan enablement status in security overview",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-10-05-secret-scanning-adds-detectors-for-lovable-supabase-and-more",
+          "url": "https://github.blog/changelog/2026-10-06-code-scanning-ai-scan-enablement-status-in-security-overview",
           "source": "GitHub Changelog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-10-05T22:42:14Z"
+          "published_at": "2026-10-06T10:23:38Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8174,
-      "importance": 0.8174,
-      "importance_score": 0.8174,
+      "score": 0.843,
+      "importance": 0.843,
+      "importance_score": 0.843,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.8521,
+        "recency": 0.9943,
         "story_heat": 0.0
       },
       "category": "official",
@@ -148,17 +148,17 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-10-05T22:42:14Z",
-      "latest_at": "2026-10-05T22:42:14Z",
+      "earliest_at": "2026-10-06T10:23:38Z",
+      "latest_at": "2026-10-06T10:23:38Z",
       "primary_item": {
-        "id": "63b1b612bfba39b214b5ffc13153f4dbf893d546",
-        "title": "秘密扫描添加了 Lovable、Supabase 等探测器 / Secret scanning adds detectors for Lovable, Supabase, and more",
-        "title_zh": "秘密扫描添加了 Lovable、Supabase 等探测器",
-        "title_en": "Secret scanning adds detectors for Lovable, Supabase, and more",
-        "title_original": "Secret scanning adds detectors for Lovable, Supabase, and more",
+        "id": "c8e4300aea8b0cb54166d991296e299188b4aa01",
+        "title": "Code scanning AI Scan enablement status in security overview",
+        "title_zh": null,
+        "title_en": "Code scanning AI Scan enablement status in security overview",
+        "title_original": "Code scanning AI Scan enablement status in security overview",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://github.blog/changelog/2026-10-05-secret-scanning-adds-detectors-for-lovable-supabase-and-more",
+        "url": "https://github.blog/changelog/2026-10-06-code-scanning-ai-scan-enablement-status-in-security-overview",
         "source": "GitHub Changelog",
         "source_name": "Official AI Updates"
       },
@@ -166,7 +166,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-06T09:48:16.331656Z"
+        "scored_at": "2026-10-06T10:59:55.768806Z"
       }
     },
     {
@@ -214,15 +214,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8092,
-      "importance": 0.8092,
-      "importance_score": 0.8092,
+      "score": 0.8073,
+      "importance": 0.8073,
+      "importance_score": 0.8073,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.7624,
+        "recency": 0.7514,
         "story_heat": 0.0
       },
       "category": "official",
@@ -249,7 +249,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-06T09:48:16.331656Z"
+        "scored_at": "2026-10-06T10:59:55.768806Z"
       }
     },
     {
@@ -297,15 +297,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8092,
-      "importance": 0.8092,
-      "importance_score": 0.8092,
+      "score": 0.8072,
+      "importance": 0.8072,
+      "importance_score": 0.8072,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.9,
-        "recency": 0.7734,
+        "recency": 0.7623,
         "story_heat": 0.0
       },
       "category": "official",
@@ -332,7 +332,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-06T09:48:16.331656Z"
+        "scored_at": "2026-10-06T10:59:55.768806Z"
       }
     },
     {
@@ -438,15 +438,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.7987,
-      "importance": 0.7987,
-      "importance_score": 0.7987,
+      "score": 0.7966,
+      "importance": 0.7966,
+      "importance_score": 0.7966,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.78,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7949,
+        "recency": 0.7835,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -473,7 +473,90 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-06T09:48:16.331656Z"
+        "scored_at": "2026-10-06T10:59:55.768806Z"
+      }
+    },
+    {
+      "story_id": "story_45464a737294",
+      "title": "秘密扫描添加了 Lovable、Supabase 等探测器 / Secret scanning adds detectors for Lovable, Supabase, and more",
+      "url": "https://github.blog/changelog/2026-10-05-secret-scanning-adds-detectors-for-lovable-supabase-and-more",
+      "primary_url": "https://github.blog/changelog/2026-10-05-secret-scanning-adds-detectors-for-lovable-supabase-and-more",
+      "source": "GitHub Changelog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "63b1b612bfba39b214b5ffc13153f4dbf893d546",
+          "title": "秘密扫描添加了 Lovable、Supabase 等探测器 / Secret scanning adds detectors for Lovable, Supabase, and more",
+          "title_zh": "秘密扫描添加了 Lovable、Supabase 等探测器",
+          "title_en": "Secret scanning adds detectors for Lovable, Supabase, and more",
+          "title_original": "Secret scanning adds detectors for Lovable, Supabase, and more",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://github.blog/changelog/2026-10-05-secret-scanning-adds-detectors-for-lovable-supabase-and-more",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-10-05T22:42:14Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "GitHub Changelog"
+      ],
+      "items": [
+        {
+          "id": "63b1b612bfba39b214b5ffc13153f4dbf893d546",
+          "title": "秘密扫描添加了 Lovable、Supabase 等探测器 / Secret scanning adds detectors for Lovable, Supabase, and more",
+          "title_zh": "秘密扫描添加了 Lovable、Supabase 等探测器",
+          "title_en": "Secret scanning adds detectors for Lovable, Supabase, and more",
+          "title_original": "Secret scanning adds detectors for Lovable, Supabase, and more",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://github.blog/changelog/2026-10-05-secret-scanning-adds-detectors-for-lovable-supabase-and-more",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-10-05T22:42:14Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8152,
+      "importance": 0.8152,
+      "importance_score": 0.8152,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.87,
+        "recency": 0.8399,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-10-05T22:42:14Z",
+      "latest_at": "2026-10-05T22:42:14Z",
+      "primary_item": {
+        "id": "63b1b612bfba39b214b5ffc13153f4dbf893d546",
+        "title": "秘密扫描添加了 Lovable、Supabase 等探测器 / Secret scanning adds detectors for Lovable, Supabase, and more",
+        "title_zh": "秘密扫描添加了 Lovable、Supabase 等探测器",
+        "title_en": "Secret scanning adds detectors for Lovable, Supabase, and more",
+        "title_original": "Secret scanning adds detectors for Lovable, Supabase, and more",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://github.blog/changelog/2026-10-05-secret-scanning-adds-detectors-for-lovable-supabase-and-more",
+        "source": "GitHub Changelog",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-10-06T10:59:55.768806Z"
       }
     },
     {
@@ -521,15 +604,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7831,
-      "importance": 0.7831,
-      "importance_score": 0.7831,
+      "score": 0.7806,
+      "importance": 0.7806,
+      "importance_score": 0.7806,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.8,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9525,
+        "recency": 0.9389,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -555,7 +638,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-06T09:48:16.331656Z"
+        "scored_at": "2026-10-06T10:59:55.768806Z"
       }
     },
     {
@@ -603,15 +686,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7725,
-      "importance": 0.7725,
-      "importance_score": 0.7725,
+      "score": 0.7701,
+      "importance": 0.7701,
+      "importance_score": 0.7701,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.77,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9438,
+        "recency": 0.9303,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -637,90 +720,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-06T09:48:16.331656Z"
-      }
-    },
-    {
-      "story_id": "story_aec85adef32a",
-      "title": "OpenAI 在 ChatGPT 推出全新视觉广告格式并扩展广告测量工具 / Building advertising for the way people use AI",
-      "url": "https://openai.com/index/new-chatgpt-ads-format-and-measurement",
-      "primary_url": "https://openai.com/index/new-chatgpt-ads-format-and-measurement",
-      "source": "OpenAI News",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "45fb4b2a7cbdba9b5e57a8e18c394834d442c661",
-          "title": "OpenAI 在 ChatGPT 推出全新视觉广告格式并扩展广告测量工具 / Building advertising for the way people use AI",
-          "title_zh": "OpenAI 在 ChatGPT 推出全新视觉广告格式并扩展广告测量工具",
-          "title_en": "Building advertising for the way people use AI",
-          "title_original": "Building advertising for the way people use AI",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://openai.com/index/new-chatgpt-ads-format-and-measurement",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-10-05T10:00:00Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "OpenAI News"
-      ],
-      "items": [
-        {
-          "id": "45fb4b2a7cbdba9b5e57a8e18c394834d442c661",
-          "title": "OpenAI 在 ChatGPT 推出全新视觉广告格式并扩展广告测量工具 / Building advertising for the way people use AI",
-          "title_zh": "OpenAI 在 ChatGPT 推出全新视觉广告格式并扩展广告测量工具",
-          "title_en": "Building advertising for the way people use AI",
-          "title_original": "Building advertising for the way people use AI",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://openai.com/index/new-chatgpt-ads-format-and-measurement",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-10-05T10:00:00Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7997,
-      "importance": 0.7997,
-      "importance_score": 0.7997,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.91,
-        "recency": 0.7092,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-10-05T10:00:00Z",
-      "latest_at": "2026-10-05T10:00:00Z",
-      "primary_item": {
-        "id": "45fb4b2a7cbdba9b5e57a8e18c394834d442c661",
-        "title": "OpenAI 在 ChatGPT 推出全新视觉广告格式并扩展广告测量工具 / Building advertising for the way people use AI",
-        "title_zh": "OpenAI 在 ChatGPT 推出全新视觉广告格式并扩展广告测量工具",
-        "title_en": "Building advertising for the way people use AI",
-        "title_original": "Building advertising for the way people use AI",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://openai.com/index/new-chatgpt-ads-format-and-measurement",
-        "source": "OpenAI News",
-        "source_name": "Official AI Updates"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-10-06T09:48:16.331656Z"
+        "scored_at": "2026-10-06T10:59:55.768806Z"
       }
     },
     {
@@ -768,15 +768,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7497,
-      "importance": 0.7497,
-      "importance_score": 0.7497,
+      "score": 0.7474,
+      "importance": 0.7474,
+      "importance_score": 0.7474,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9005,
+        "recency": 0.8876,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -801,7 +801,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-06T09:48:16.331656Z"
+        "scored_at": "2026-10-06T10:59:55.768806Z"
       }
     },
     {
@@ -849,15 +849,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7415,
-      "importance": 0.7415,
-      "importance_score": 0.7415,
+      "score": 0.7393,
+      "importance": 0.7393,
+      "importance_score": 0.7393,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.71,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8719,
+        "recency": 0.8594,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -882,7 +882,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-06T09:48:16.331656Z"
+        "scored_at": "2026-10-06T10:59:55.768806Z"
       }
     },
     {
@@ -930,15 +930,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7412,
-      "importance": 0.7412,
-      "importance_score": 0.7412,
+      "score": 0.7387,
+      "importance": 0.7387,
+      "importance_score": 0.7387,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.66,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9533,
+        "recency": 0.9397,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -963,7 +963,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-06T09:48:16.331656Z"
+        "scored_at": "2026-10-06T10:59:55.768806Z"
       }
     },
     {
@@ -1011,15 +1011,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7321,
-      "importance": 0.7321,
-      "importance_score": 0.7321,
+      "score": 0.73,
+      "importance": 0.73,
+      "importance_score": 0.73,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.71,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8197,
+        "recency": 0.8079,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1044,7 +1044,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-06T09:48:16.331656Z"
+        "scored_at": "2026-10-06T10:59:55.768806Z"
       }
     },
     {
@@ -1120,15 +1120,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.6024,
-      "importance": 0.6024,
-      "importance_score": 0.6024,
+      "score": 0.6001,
+      "importance": 0.6001,
+      "importance_score": 0.6001,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.5112,
         "source_tier": 0.58,
         "ai_relevance": 0.71,
-        "recency": 0.8578,
+        "recency": 0.8455,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1153,7 +1153,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-06T09:48:16.331656Z"
+        "scored_at": "2026-10-06T10:59:55.768806Z"
       }
     },
     {
@@ -1230,15 +1230,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5941,
-      "importance": 0.5941,
-      "importance_score": 0.5941,
+      "score": 0.5922,
+      "importance": 0.5922,
+      "importance_score": 0.5922,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.5328,
         "source_tier": 0.58,
         "ai_relevance": 0.74,
-        "recency": 0.7424,
+        "recency": 0.7318,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1263,7 +1263,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-06T09:48:16.331656Z"
+        "scored_at": "2026-10-06T10:59:55.768806Z"
       }
     },
     {
@@ -1369,15 +1369,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.552,
-      "importance": 0.552,
-      "importance_score": 0.552,
+      "score": 0.5496,
+      "importance": 0.5496,
+      "importance_score": 0.5496,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8953,
+        "recency": 0.8825,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1402,7 +1402,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-06T09:48:16.331656Z"
+        "scored_at": "2026-10-06T10:59:55.768806Z"
       }
     },
     {
@@ -1508,15 +1508,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5478,
-      "importance": 0.5478,
-      "importance_score": 0.5478,
+      "score": 0.5456,
+      "importance": 0.5456,
+      "importance_score": 0.5456,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8723,
+        "recency": 0.8598,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1541,7 +1541,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-06T09:48:16.331656Z"
+        "scored_at": "2026-10-06T10:59:55.768806Z"
       }
     },
     {
@@ -1647,15 +1647,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5431,
-      "importance": 0.5431,
-      "importance_score": 0.5431,
+      "score": 0.5409,
+      "importance": 0.5409,
+      "importance_score": 0.5409,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8459,
+        "recency": 0.8338,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1680,7 +1680,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-06T09:48:16.331656Z"
+        "scored_at": "2026-10-06T10:59:55.768806Z"
       }
     },
     {
@@ -1786,15 +1786,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.53,
-      "importance": 0.53,
-      "importance_score": 0.53,
+      "score": 0.528,
+      "importance": 0.528,
+      "importance_score": 0.528,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7734,
+        "recency": 0.7624,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1819,7 +1819,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-06T09:48:16.331656Z"
+        "scored_at": "2026-10-06T10:59:55.768806Z"
       }
     },
     {
@@ -1896,15 +1896,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5221,
-      "importance": 0.5221,
-      "importance_score": 0.5221,
+      "score": 0.5199,
+      "importance": 0.5199,
+      "importance_score": 0.5199,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8683,
+        "recency": 0.8559,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1929,7 +1929,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-06T09:48:16.331656Z"
+        "scored_at": "2026-10-06T10:59:55.768806Z"
       }
     },
     {
@@ -2006,15 +2006,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5141,
-      "importance": 0.5141,
-      "importance_score": 0.5141,
+      "score": 0.512,
+      "importance": 0.512,
+      "importance_score": 0.512,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8239,
+        "recency": 0.8121,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -2039,7 +2039,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-06T09:48:16.331656Z"
+        "scored_at": "2026-10-06T10:59:55.768806Z"
       }
     }
   ]
