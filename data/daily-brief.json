@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-06T13:47:26.387998Z",
+  "generated_at": "2026-10-06T14:47:24.577882Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -48,15 +48,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8506,
-      "importance": 0.8506,
-      "importance_score": 0.8506,
+      "score": 0.8483,
+      "importance": 0.8483,
+      "importance_score": 0.8483,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.99,
-        "recency": 0.9033,
+        "recency": 0.8903,
         "story_heat": 0.0
       },
       "category": "official",
@@ -83,7 +83,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-06T13:48:15.698795Z"
+        "scored_at": "2026-10-06T14:48:17.290599Z"
       }
     },
     {
@@ -131,15 +131,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8354,
-      "importance": 0.8354,
-      "importance_score": 0.8354,
+      "score": 0.8329,
+      "importance": 0.8329,
+      "importance_score": 0.8329,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.9521,
+        "recency": 0.9385,
         "story_heat": 0.0
       },
       "category": "official",
@@ -166,7 +166,119 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-06T13:48:15.698795Z"
+        "scored_at": "2026-10-06T14:48:17.290599Z"
+      }
+    },
+    {
+      "story_id": "story_19005dd16bea",
+      "title": "Mistral 发布 Large 4 公开预览版，1 万亿参数将开放权重 / Mistral Large 4: \"Le Chonk\"",
+      "url": "https://mistral.ai/news/mistral-large-4",
+      "primary_url": "https://mistral.ai/news/mistral-large-4",
+      "source": "Hacker News：AI 热帖",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "6c25b6630b5c4256ac31216f468f913d6b760714",
+          "title": "Mistral 发布 Large 4 公开预览版，1 万亿参数将开放权重 / Mistral Large 4: \"Le Chonk\"",
+          "title_zh": "Mistral 发布 Large 4 公开预览版，1 万亿参数将开放权重",
+          "title_en": "Mistral Large 4: \"Le Chonk\"",
+          "title_original": "Mistral Large 4: \"Le Chonk\"",
+          "summary": "Mistral 发布 Mistral Large 4（代号 le Chonk）公开预览版，为 1 万亿参数、490 亿激活参数的原生多模态模型，可试用于 Mistral Studio，权重将于本月底开放。",
+          "recommend_reason_zh": null,
+          "url": "https://mistral.ai/news/mistral-large-4",
+          "source": "Hacker News：AI 热帖",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-06T13:25:50Z"
+        },
+        {
+          "id": "ba946f5e6f5310fd7ec7e7cc0db1471f401f243f",
+          "title": "Mistral 发布 Large 4 公开预览版，1 万亿参数将开放权重 / Mistral Large 4：“Le Chonk”",
+          "title_zh": "Mistral 发布 Large 4 公开预览版，1 万亿参数将开放权重",
+          "title_en": "Mistral Large 4：“Le Chonk”",
+          "title_original": "Mistral Large 4：“Le Chonk”",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://mistral.ai/news/mistral-large-4",
+          "source": "mistral.ai",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-10-06T14:19:10.507000Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News：AI 热帖",
+        "mistral.ai"
+      ],
+      "items": [
+        {
+          "id": "6c25b6630b5c4256ac31216f468f913d6b760714",
+          "title": "Mistral 发布 Large 4 公开预览版，1 万亿参数将开放权重 / Mistral Large 4: \"Le Chonk\"",
+          "title_zh": "Mistral 发布 Large 4 公开预览版，1 万亿参数将开放权重",
+          "title_en": "Mistral Large 4: \"Le Chonk\"",
+          "title_original": "Mistral Large 4: \"Le Chonk\"",
+          "summary": "Mistral 发布 Mistral Large 4（代号 le Chonk）公开预览版，为 1 万亿参数、490 亿激活参数的原生多模态模型，可试用于 Mistral Studio，权重将于本月底开放。",
+          "recommend_reason_zh": null,
+          "url": "https://mistral.ai/news/mistral-large-4",
+          "source": "Hacker News：AI 热帖",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-06T13:25:50Z"
+        },
+        {
+          "id": "ba946f5e6f5310fd7ec7e7cc0db1471f401f243f",
+          "title": "Mistral 发布 Large 4 公开预览版，1 万亿参数将开放权重 / Mistral Large 4：“Le Chonk”",
+          "title_zh": "Mistral 发布 Large 4 公开预览版，1 万亿参数将开放权重",
+          "title_en": "Mistral Large 4：“Le Chonk”",
+          "title_original": "Mistral Large 4：“Le Chonk”",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://mistral.ai/news/mistral-large-4",
+          "source": "mistral.ai",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-10-06T14:19:10.507000Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.8041,
+      "importance": 0.8041,
+      "importance_score": 0.8041,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.77,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9806,
+        "story_heat": 0.25
+      },
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-10-06T13:25:50Z",
+      "latest_at": "2026-10-06T14:19:10.507000Z",
+      "primary_item": {
+        "id": "6c25b6630b5c4256ac31216f468f913d6b760714",
+        "title": "Mistral 发布 Large 4 公开预览版，1 万亿参数将开放权重 / Mistral Large 4: \"Le Chonk\"",
+        "title_zh": "Mistral 发布 Large 4 公开预览版，1 万亿参数将开放权重",
+        "title_en": "Mistral Large 4: \"Le Chonk\"",
+        "title_original": "Mistral Large 4: \"Le Chonk\"",
+        "summary": "Mistral 发布 Mistral Large 4（代号 le Chonk）公开预览版，为 1 万亿参数、490 亿激活参数的原生多模态模型，可试用于 Mistral Studio，权重将于本月底开放。",
+        "recommend_reason_zh": null,
+        "url": "https://mistral.ai/news/mistral-large-4",
+        "source": "Hacker News：AI 热帖",
+        "source_name": "AI HOT"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-10-06T14:48:17.290599Z"
       }
     },
     {
@@ -214,15 +326,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8015,
-      "importance": 0.8015,
-      "importance_score": 0.8015,
+      "score": 0.7997,
+      "importance": 0.7997,
+      "importance_score": 0.7997,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.7196,
+        "recency": 0.7093,
         "story_heat": 0.0
       },
       "category": "official",
@@ -249,7 +361,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-06T13:48:15.698795Z"
+        "scored_at": "2026-10-06T14:48:17.290599Z"
       }
     },
     {
@@ -297,15 +409,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8014,
-      "importance": 0.8014,
-      "importance_score": 0.8014,
+      "score": 0.7995,
+      "importance": 0.7995,
+      "importance_score": 0.7995,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.9,
-        "recency": 0.73,
+        "recency": 0.7195,
         "story_heat": 0.0
       },
       "category": "official",
@@ -332,7 +444,336 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-06T13:48:15.698795Z"
+        "scored_at": "2026-10-06T14:48:17.290599Z"
+      }
+    },
+    {
+      "story_id": "story_45464a737294",
+      "title": "秘密扫描添加了 Lovable、Supabase 等探测器 / Secret scanning adds detectors for Lovable, Supabase, and more",
+      "url": "https://github.blog/changelog/2026-10-05-secret-scanning-adds-detectors-for-lovable-supabase-and-more",
+      "primary_url": "https://github.blog/changelog/2026-10-05-secret-scanning-adds-detectors-for-lovable-supabase-and-more",
+      "source": "GitHub Changelog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "63b1b612bfba39b214b5ffc13153f4dbf893d546",
+          "title": "秘密扫描添加了 Lovable、Supabase 等探测器 / Secret scanning adds detectors for Lovable, Supabase, and more",
+          "title_zh": "秘密扫描添加了 Lovable、Supabase 等探测器",
+          "title_en": "Secret scanning adds detectors for Lovable, Supabase, and more",
+          "title_original": "Secret scanning adds detectors for Lovable, Supabase, and more",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://github.blog/changelog/2026-10-05-secret-scanning-adds-detectors-for-lovable-supabase-and-more",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-10-05T22:42:14Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "GitHub Changelog"
+      ],
+      "items": [
+        {
+          "id": "63b1b612bfba39b214b5ffc13153f4dbf893d546",
+          "title": "秘密扫描添加了 Lovable、Supabase 等探测器 / Secret scanning adds detectors for Lovable, Supabase, and more",
+          "title_zh": "秘密扫描添加了 Lovable、Supabase 等探测器",
+          "title_en": "Secret scanning adds detectors for Lovable, Supabase, and more",
+          "title_original": "Secret scanning adds detectors for Lovable, Supabase, and more",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://github.blog/changelog/2026-10-05-secret-scanning-adds-detectors-for-lovable-supabase-and-more",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-10-05T22:42:14Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8067,
+      "importance": 0.8067,
+      "importance_score": 0.8067,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.87,
+        "recency": 0.7927,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-10-05T22:42:14Z",
+      "latest_at": "2026-10-05T22:42:14Z",
+      "primary_item": {
+        "id": "63b1b612bfba39b214b5ffc13153f4dbf893d546",
+        "title": "秘密扫描添加了 Lovable、Supabase 等探测器 / Secret scanning adds detectors for Lovable, Supabase, and more",
+        "title_zh": "秘密扫描添加了 Lovable、Supabase 等探测器",
+        "title_en": "Secret scanning adds detectors for Lovable, Supabase, and more",
+        "title_original": "Secret scanning adds detectors for Lovable, Supabase, and more",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://github.blog/changelog/2026-10-05-secret-scanning-adds-detectors-for-lovable-supabase-and-more",
+        "source": "GitHub Changelog",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-10-06T14:48:17.290599Z"
+      }
+    },
+    {
+      "story_id": "story_ddb0edeec9f2",
+      "title": "消息称 DeepSeek 接近完成至少 800 亿元融资，腾讯、宁德时代重金参与",
+      "url": "https://www.ithome.com/1/009/990.htm",
+      "primary_url": "https://www.ithome.com/1/009/990.htm",
+      "source": "IT之家（RSS）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "59e9dae79a50a0d38aa18f7cb7d8590f95b9cdf8",
+          "title": "消息称 DeepSeek 接近完成至少 800 亿元融资，腾讯、宁德时代重金参与",
+          "title_zh": "消息称 DeepSeek 接近完成至少 800 亿元融资，腾讯、宁德时代重金参与",
+          "title_en": null,
+          "title_original": "消息称 DeepSeek 接近完成至少 800 亿元融资，腾讯、宁德时代重金参与",
+          "summary": "据彭博社报道，DeepSeek 新一轮融资接近敲定，规模至少 800 亿元，超出原定约 500 亿元目标，最终总额可能逼近 1000 亿元，腾讯和宁德时代是出资规模最大的投资方之一。",
+          "recommend_reason_zh": null,
+          "url": "https://www.ithome.com/1/009/990.htm",
+          "source": "IT之家（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-06T06:25:15Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "IT之家（RSS）"
+      ],
+      "items": [
+        {
+          "id": "59e9dae79a50a0d38aa18f7cb7d8590f95b9cdf8",
+          "title": "消息称 DeepSeek 接近完成至少 800 亿元融资，腾讯、宁德时代重金参与",
+          "title_zh": "消息称 DeepSeek 接近完成至少 800 亿元融资，腾讯、宁德时代重金参与",
+          "title_en": null,
+          "title_original": "消息称 DeepSeek 接近完成至少 800 亿元融资，腾讯、宁德时代重金参与",
+          "summary": "据彭博社报道，DeepSeek 新一轮融资接近敲定，规模至少 800 亿元，超出原定约 500 亿元目标，最终总额可能逼近 1000 亿元，腾讯和宁德时代是出资规模最大的投资方之一。",
+          "recommend_reason_zh": null,
+          "url": "https://www.ithome.com/1/009/990.htm",
+          "source": "IT之家（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-06T06:25:15Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7711,
+      "importance": 0.7711,
+      "importance_score": 0.7711,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.8,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.8862,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-10-06T06:25:15Z",
+      "latest_at": "2026-10-06T06:25:15Z",
+      "primary_item": {
+        "id": "59e9dae79a50a0d38aa18f7cb7d8590f95b9cdf8",
+        "title": "消息称 DeepSeek 接近完成至少 800 亿元融资，腾讯、宁德时代重金参与",
+        "title_zh": "消息称 DeepSeek 接近完成至少 800 亿元融资，腾讯、宁德时代重金参与",
+        "title_en": null,
+        "title_original": "消息称 DeepSeek 接近完成至少 800 亿元融资，腾讯、宁德时代重金参与",
+        "summary": "据彭博社报道，DeepSeek 新一轮融资接近敲定，规模至少 800 亿元，超出原定约 500 亿元目标，最终总额可能逼近 1000 亿元，腾讯和宁德时代是出资规模最大的投资方之一。",
+        "recommend_reason_zh": null,
+        "url": "https://www.ithome.com/1/009/990.htm",
+        "source": "IT之家（RSS）",
+        "source_name": "AI HOT"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-10-06T14:48:17.290599Z"
+      }
+    },
+    {
+      "story_id": "story_34879e2db3e2",
+      "title": "Mistral Large 4 上线 OpenRouter 公测：1T 参数、512K 上下文 / Le Chonk has arrived 🐈",
+      "url": "https://x.com/OpenRouter/status/2107471559040635360",
+      "primary_url": "https://x.com/OpenRouter/status/2107471559040635360",
+      "source": "X：OpenRouter (@OpenRouter)",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "cc19177e6fbdf4a67d8007b928e7224f686d8878",
+          "title": "Mistral Large 4 上线 OpenRouter 公测：1T 参数、512K 上下文 / Le Chonk has arrived 🐈",
+          "title_zh": "Mistral Large 4 上线 OpenRouter 公测：1T 参数、512K 上下文",
+          "title_en": "Le Chonk has arrived 🐈",
+          "title_original": "Le Chonk has arrived 🐈",
+          "summary": "Mistral Large 4 现已在 OpenRouter 开放公测，规格为 1T 参数（49B 激活）、原生多模态、512K 上下文、最高 256K 输出。前两周五折：每 1M tokens 输入 $0.68、输出 $2.09，缓存 $0.07。",
+          "recommend_reason_zh": null,
+          "url": "https://x.com/OpenRouter/status/2107471559040635360",
+          "source": "X：OpenRouter (@OpenRouter)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-06T14:02:29Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "X：OpenRouter (@OpenRouter)"
+      ],
+      "items": [
+        {
+          "id": "cc19177e6fbdf4a67d8007b928e7224f686d8878",
+          "title": "Mistral Large 4 上线 OpenRouter 公测：1T 参数、512K 上下文 / Le Chonk has arrived 🐈",
+          "title_zh": "Mistral Large 4 上线 OpenRouter 公测：1T 参数、512K 上下文",
+          "title_en": "Le Chonk has arrived 🐈",
+          "title_original": "Le Chonk has arrived 🐈",
+          "summary": "Mistral Large 4 现已在 OpenRouter 开放公测，规格为 1T 参数（49B 激活）、原生多模态、512K 上下文、最高 256K 输出。前两周五折：每 1M tokens 输入 $0.68、输出 $2.09，缓存 $0.07。",
+          "recommend_reason_zh": null,
+          "url": "https://x.com/OpenRouter/status/2107471559040635360",
+          "source": "X：OpenRouter (@OpenRouter)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-06T14:02:29Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7627,
+      "importance": 0.7627,
+      "importance_score": 0.7627,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.71,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9892,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-10-06T14:02:29Z",
+      "latest_at": "2026-10-06T14:02:29Z",
+      "primary_item": {
+        "id": "cc19177e6fbdf4a67d8007b928e7224f686d8878",
+        "title": "Mistral Large 4 上线 OpenRouter 公测：1T 参数、512K 上下文 / Le Chonk has arrived 🐈",
+        "title_zh": "Mistral Large 4 上线 OpenRouter 公测：1T 参数、512K 上下文",
+        "title_en": "Le Chonk has arrived 🐈",
+        "title_original": "Le Chonk has arrived 🐈",
+        "summary": "Mistral Large 4 现已在 OpenRouter 开放公测，规格为 1T 参数（49B 激活）、原生多模态、512K 上下文、最高 256K 输出。前两周五折：每 1M tokens 输入 $0.68、输出 $2.09，缓存 $0.07。",
+        "recommend_reason_zh": null,
+        "url": "https://x.com/OpenRouter/status/2107471559040635360",
+        "source": "X：OpenRouter (@OpenRouter)",
+        "source_name": "AI HOT"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-10-06T14:48:17.290599Z"
+      }
+    },
+    {
+      "story_id": "story_e50a0152bcff",
+      "title": "Anthropic 5180亿美元计算力支出中约4137亿美元无论使用与否都需支付 / About 80% of Anthropic's $518B compute plan is owed even if the capacity sits idle.",
+      "url": "https://x.com/rohanpaul_ai/status/2107346890648076595",
+      "primary_url": "https://x.com/rohanpaul_ai/status/2107346890648076595",
+      "source": "X：Rohan Paul (@rohanpaul_ai)",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "2747ef6e2e2821cdefdec11753d479ccf1559a95",
+          "title": "Anthropic 5180亿美元计算力支出中约4137亿美元无论使用与否都需支付 / About 80% of Anthropic's $518B compute plan is owed even if the capacity sits idle.",
+          "title_zh": "Anthropic 5180亿美元计算力支出中约4137亿美元无论使用与否都需支付",
+          "title_en": "About 80% of Anthropic's $518B compute plan is owed even if the capacity sits idle.",
+          "title_original": "About 80% of Anthropic's $518B compute plan is owed even if the capacity sits idle.",
+          "summary": "Anthropic 计划未来数年在云计算和计算力上支出 5180 亿美元，其中约 4137 亿美元为不可撤销承诺，即使容量闲置也需支付，平均每年约 410 亿美元。",
+          "recommend_reason_zh": null,
+          "url": "https://x.com/rohanpaul_ai/status/2107346890648076595",
+          "source": "X：Rohan Paul (@rohanpaul_ai)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-06T05:47:05Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "X：Rohan Paul (@rohanpaul_ai)"
+      ],
+      "items": [
+        {
+          "id": "2747ef6e2e2821cdefdec11753d479ccf1559a95",
+          "title": "Anthropic 5180亿美元计算力支出中约4137亿美元无论使用与否都需支付 / About 80% of Anthropic's $518B compute plan is owed even if the capacity sits idle.",
+          "title_zh": "Anthropic 5180亿美元计算力支出中约4137亿美元无论使用与否都需支付",
+          "title_en": "About 80% of Anthropic's $518B compute plan is owed even if the capacity sits idle.",
+          "title_original": "About 80% of Anthropic's $518B compute plan is owed even if the capacity sits idle.",
+          "summary": "Anthropic 计划未来数年在云计算和计算力上支出 5180 亿美元，其中约 4137 亿美元为不可撤销承诺，即使容量闲置也需支付，平均每年约 410 亿美元。",
+          "recommend_reason_zh": null,
+          "url": "https://x.com/rohanpaul_ai/status/2107346890648076595",
+          "source": "X：Rohan Paul (@rohanpaul_ai)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-06T05:47:05Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7607,
+      "importance": 0.7607,
+      "importance_score": 0.7607,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.77,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.8781,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-10-06T05:47:05Z",
+      "latest_at": "2026-10-06T05:47:05Z",
+      "primary_item": {
+        "id": "2747ef6e2e2821cdefdec11753d479ccf1559a95",
+        "title": "Anthropic 5180亿美元计算力支出中约4137亿美元无论使用与否都需支付 / About 80% of Anthropic's $518B compute plan is owed even if the capacity sits idle.",
+        "title_zh": "Anthropic 5180亿美元计算力支出中约4137亿美元无论使用与否都需支付",
+        "title_en": "About 80% of Anthropic's $518B compute plan is owed even if the capacity sits idle.",
+        "title_original": "About 80% of Anthropic's $518B compute plan is owed even if the capacity sits idle.",
+        "summary": "Anthropic 计划未来数年在云计算和计算力上支出 5180 亿美元，其中约 4137 亿美元为不可撤销承诺，即使容量闲置也需支付，平均每年约 410 亿美元。",
+        "recommend_reason_zh": null,
+        "url": "https://x.com/rohanpaul_ai/status/2107346890648076595",
+        "source": "X：Rohan Paul (@rohanpaul_ai)",
+        "source_name": "AI HOT"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-10-06T14:48:17.290599Z"
       }
     },
     {
@@ -438,15 +879,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.7906,
-      "importance": 0.7906,
-      "importance_score": 0.7906,
+      "score": 0.7887,
+      "importance": 0.7887,
+      "importance_score": 0.7887,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.78,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7503,
+        "recency": 0.7395,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -473,254 +914,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-06T13:48:15.698795Z"
-      }
-    },
-    {
-      "story_id": "story_45464a737294",
-      "title": "秘密扫描添加了 Lovable、Supabase 等探测器 / Secret scanning adds detectors for Lovable, Supabase, and more",
-      "url": "https://github.blog/changelog/2026-10-05-secret-scanning-adds-detectors-for-lovable-supabase-and-more",
-      "primary_url": "https://github.blog/changelog/2026-10-05-secret-scanning-adds-detectors-for-lovable-supabase-and-more",
-      "source": "GitHub Changelog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "63b1b612bfba39b214b5ffc13153f4dbf893d546",
-          "title": "秘密扫描添加了 Lovable、Supabase 等探测器 / Secret scanning adds detectors for Lovable, Supabase, and more",
-          "title_zh": "秘密扫描添加了 Lovable、Supabase 等探测器",
-          "title_en": "Secret scanning adds detectors for Lovable, Supabase, and more",
-          "title_original": "Secret scanning adds detectors for Lovable, Supabase, and more",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-10-05-secret-scanning-adds-detectors-for-lovable-supabase-and-more",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-10-05T22:42:14Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "GitHub Changelog"
-      ],
-      "items": [
-        {
-          "id": "63b1b612bfba39b214b5ffc13153f4dbf893d546",
-          "title": "秘密扫描添加了 Lovable、Supabase 等探测器 / Secret scanning adds detectors for Lovable, Supabase, and more",
-          "title_zh": "秘密扫描添加了 Lovable、Supabase 等探测器",
-          "title_en": "Secret scanning adds detectors for Lovable, Supabase, and more",
-          "title_original": "Secret scanning adds detectors for Lovable, Supabase, and more",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-10-05-secret-scanning-adds-detectors-for-lovable-supabase-and-more",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-10-05T22:42:14Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8088,
-      "importance": 0.8088,
-      "importance_score": 0.8088,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.87,
-        "recency": 0.8042,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-10-05T22:42:14Z",
-      "latest_at": "2026-10-05T22:42:14Z",
-      "primary_item": {
-        "id": "63b1b612bfba39b214b5ffc13153f4dbf893d546",
-        "title": "秘密扫描添加了 Lovable、Supabase 等探测器 / Secret scanning adds detectors for Lovable, Supabase, and more",
-        "title_zh": "秘密扫描添加了 Lovable、Supabase 等探测器",
-        "title_en": "Secret scanning adds detectors for Lovable, Supabase, and more",
-        "title_original": "Secret scanning adds detectors for Lovable, Supabase, and more",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://github.blog/changelog/2026-10-05-secret-scanning-adds-detectors-for-lovable-supabase-and-more",
-        "source": "GitHub Changelog",
-        "source_name": "Official AI Updates"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-10-06T13:48:15.698795Z"
-      }
-    },
-    {
-      "story_id": "story_ddb0edeec9f2",
-      "title": "消息称 DeepSeek 接近完成至少 800 亿元融资，腾讯、宁德时代重金参与",
-      "url": "https://www.ithome.com/1/009/990.htm",
-      "primary_url": "https://www.ithome.com/1/009/990.htm",
-      "source": "IT之家（RSS）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "59e9dae79a50a0d38aa18f7cb7d8590f95b9cdf8",
-          "title": "消息称 DeepSeek 接近完成至少 800 亿元融资，腾讯、宁德时代重金参与",
-          "title_zh": "消息称 DeepSeek 接近完成至少 800 亿元融资，腾讯、宁德时代重金参与",
-          "title_en": null,
-          "title_original": "消息称 DeepSeek 接近完成至少 800 亿元融资，腾讯、宁德时代重金参与",
-          "summary": "据彭博社报道，DeepSeek 新一轮融资接近敲定，规模至少 800 亿元，超出原定约 500 亿元目标，最终总额可能逼近 1000 亿元，腾讯和宁德时代是出资规模最大的投资方之一。",
-          "recommend_reason_zh": null,
-          "url": "https://www.ithome.com/1/009/990.htm",
-          "source": "IT之家（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-06T06:25:15Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "IT之家（RSS）"
-      ],
-      "items": [
-        {
-          "id": "59e9dae79a50a0d38aa18f7cb7d8590f95b9cdf8",
-          "title": "消息称 DeepSeek 接近完成至少 800 亿元融资，腾讯、宁德时代重金参与",
-          "title_zh": "消息称 DeepSeek 接近完成至少 800 亿元融资，腾讯、宁德时代重金参与",
-          "title_en": null,
-          "title_original": "消息称 DeepSeek 接近完成至少 800 亿元融资，腾讯、宁德时代重金参与",
-          "summary": "据彭博社报道，DeepSeek 新一轮融资接近敲定，规模至少 800 亿元，超出原定约 500 亿元目标，最终总额可能逼近 1000 亿元，腾讯和宁德时代是出资规模最大的投资方之一。",
-          "recommend_reason_zh": null,
-          "url": "https://www.ithome.com/1/009/990.htm",
-          "source": "IT之家（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-06T06:25:15Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7734,
-      "importance": 0.7734,
-      "importance_score": 0.7734,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.8,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.899,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-10-06T06:25:15Z",
-      "latest_at": "2026-10-06T06:25:15Z",
-      "primary_item": {
-        "id": "59e9dae79a50a0d38aa18f7cb7d8590f95b9cdf8",
-        "title": "消息称 DeepSeek 接近完成至少 800 亿元融资，腾讯、宁德时代重金参与",
-        "title_zh": "消息称 DeepSeek 接近完成至少 800 亿元融资，腾讯、宁德时代重金参与",
-        "title_en": null,
-        "title_original": "消息称 DeepSeek 接近完成至少 800 亿元融资，腾讯、宁德时代重金参与",
-        "summary": "据彭博社报道，DeepSeek 新一轮融资接近敲定，规模至少 800 亿元，超出原定约 500 亿元目标，最终总额可能逼近 1000 亿元，腾讯和宁德时代是出资规模最大的投资方之一。",
-        "recommend_reason_zh": null,
-        "url": "https://www.ithome.com/1/009/990.htm",
-        "source": "IT之家（RSS）",
-        "source_name": "AI HOT"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-10-06T13:48:15.698795Z"
-      }
-    },
-    {
-      "story_id": "story_e50a0152bcff",
-      "title": "Anthropic 5180亿美元计算力支出中约4137亿美元无论使用与否都需支付 / About 80% of Anthropic's $518B compute plan is owed even if the capacity sits idle.",
-      "url": "https://x.com/rohanpaul_ai/status/2107346890648076595",
-      "primary_url": "https://x.com/rohanpaul_ai/status/2107346890648076595",
-      "source": "X：Rohan Paul (@rohanpaul_ai)",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "2747ef6e2e2821cdefdec11753d479ccf1559a95",
-          "title": "Anthropic 5180亿美元计算力支出中约4137亿美元无论使用与否都需支付 / About 80% of Anthropic's $518B compute plan is owed even if the capacity sits idle.",
-          "title_zh": "Anthropic 5180亿美元计算力支出中约4137亿美元无论使用与否都需支付",
-          "title_en": "About 80% of Anthropic's $518B compute plan is owed even if the capacity sits idle.",
-          "title_original": "About 80% of Anthropic's $518B compute plan is owed even if the capacity sits idle.",
-          "summary": "Anthropic 计划未来数年在云计算和计算力上支出 5180 亿美元，其中约 4137 亿美元为不可撤销承诺，即使容量闲置也需支付，平均每年约 410 亿美元。",
-          "recommend_reason_zh": null,
-          "url": "https://x.com/rohanpaul_ai/status/2107346890648076595",
-          "source": "X：Rohan Paul (@rohanpaul_ai)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-06T05:47:05Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "X：Rohan Paul (@rohanpaul_ai)"
-      ],
-      "items": [
-        {
-          "id": "2747ef6e2e2821cdefdec11753d479ccf1559a95",
-          "title": "Anthropic 5180亿美元计算力支出中约4137亿美元无论使用与否都需支付 / About 80% of Anthropic's $518B compute plan is owed even if the capacity sits idle.",
-          "title_zh": "Anthropic 5180亿美元计算力支出中约4137亿美元无论使用与否都需支付",
-          "title_en": "About 80% of Anthropic's $518B compute plan is owed even if the capacity sits idle.",
-          "title_original": "About 80% of Anthropic's $518B compute plan is owed even if the capacity sits idle.",
-          "summary": "Anthropic 计划未来数年在云计算和计算力上支出 5180 亿美元，其中约 4137 亿美元为不可撤销承诺，即使容量闲置也需支付，平均每年约 410 亿美元。",
-          "recommend_reason_zh": null,
-          "url": "https://x.com/rohanpaul_ai/status/2107346890648076595",
-          "source": "X：Rohan Paul (@rohanpaul_ai)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-06T05:47:05Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7629,
-      "importance": 0.7629,
-      "importance_score": 0.7629,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.77,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.8908,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-10-06T05:47:05Z",
-      "latest_at": "2026-10-06T05:47:05Z",
-      "primary_item": {
-        "id": "2747ef6e2e2821cdefdec11753d479ccf1559a95",
-        "title": "Anthropic 5180亿美元计算力支出中约4137亿美元无论使用与否都需支付 / About 80% of Anthropic's $518B compute plan is owed even if the capacity sits idle.",
-        "title_zh": "Anthropic 5180亿美元计算力支出中约4137亿美元无论使用与否都需支付",
-        "title_en": "About 80% of Anthropic's $518B compute plan is owed even if the capacity sits idle.",
-        "title_original": "About 80% of Anthropic's $518B compute plan is owed even if the capacity sits idle.",
-        "summary": "Anthropic 计划未来数年在云计算和计算力上支出 5180 亿美元，其中约 4137 亿美元为不可撤销承诺，即使容量闲置也需支付，平均每年约 410 亿美元。",
-        "recommend_reason_zh": null,
-        "url": "https://x.com/rohanpaul_ai/status/2107346890648076595",
-        "source": "X：Rohan Paul (@rohanpaul_ai)",
-        "source_name": "AI HOT"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-10-06T13:48:15.698795Z"
+        "scored_at": "2026-10-06T14:48:17.290599Z"
       }
     },
     {
@@ -768,15 +962,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7598,
-      "importance": 0.7598,
-      "importance_score": 0.7598,
+      "score": 0.7573,
+      "importance": 0.7573,
+      "importance_score": 0.7573,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.7,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9901,
+        "recency": 0.976,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -802,7 +996,89 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-06T13:48:15.698795Z"
+        "scored_at": "2026-10-06T14:48:17.290599Z"
+      }
+    },
+    {
+      "story_id": "story_9019cb276f9d",
+      "title": "Mistral Large 4 上线 Arena 的 Agent Arena 与 Code Arena 评测 / Mistral Large 4 by @MistralAI is now in the Arena!",
+      "url": "https://x.com/arena/status/2107476436223504484",
+      "primary_url": "https://x.com/arena/status/2107476436223504484",
+      "source": "X：Arena (@arena)",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "bff3f1ce265e017e2e8c5d6372d84e46c5213079",
+          "title": "Mistral Large 4 上线 Arena 的 Agent Arena 与 Code Arena 评测 / Mistral Large 4 by @MistralAI is now in the Arena!",
+          "title_zh": "Mistral Large 4 上线 Arena 的 Agent Arena 与 Code Arena 评测",
+          "title_en": "Mistral Large 4 by @MistralAI is now in the Arena!",
+          "title_original": "Mistral Large 4 by @MistralAI is now in the Arena!",
+          "summary": "Arena 宣布 Mistral 的 Mistral Large 4 现已进入 Agent Arena，用户可前往测试投票，分数稍后公布。该模型为 1T 参数、49B 激活的原生多模态开放权重模型，也已在 Code Arena 的 WebDev、Text 和 Vision 中可用。",
+          "recommend_reason_zh": null,
+          "url": "https://x.com/arena/status/2107476436223504484",
+          "source": "X：Arena (@arena)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-06T14:21:52Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "X：Arena (@arena)"
+      ],
+      "items": [
+        {
+          "id": "bff3f1ce265e017e2e8c5d6372d84e46c5213079",
+          "title": "Mistral Large 4 上线 Arena 的 Agent Arena 与 Code Arena 评测 / Mistral Large 4 by @MistralAI is now in the Arena!",
+          "title_zh": "Mistral Large 4 上线 Arena 的 Agent Arena 与 Code Arena 评测",
+          "title_en": "Mistral Large 4 by @MistralAI is now in the Arena!",
+          "title_original": "Mistral Large 4 by @MistralAI is now in the Arena!",
+          "summary": "Arena 宣布 Mistral 的 Mistral Large 4 现已进入 Agent Arena，用户可前往测试投票，分数稍后公布。该模型为 1T 参数、49B 激活的原生多模态开放权重模型，也已在 Code Arena 的 WebDev、Text 和 Vision 中可用。",
+          "recommend_reason_zh": null,
+          "url": "https://x.com/arena/status/2107476436223504484",
+          "source": "X：Arena (@arena)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-06T14:21:52Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7515,
+      "importance": 0.7515,
+      "importance_score": 0.7515,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.67,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9939,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-10-06T14:21:52Z",
+      "latest_at": "2026-10-06T14:21:52Z",
+      "primary_item": {
+        "id": "bff3f1ce265e017e2e8c5d6372d84e46c5213079",
+        "title": "Mistral Large 4 上线 Arena 的 Agent Arena 与 Code Arena 评测 / Mistral Large 4 by @MistralAI is now in the Arena!",
+        "title_zh": "Mistral Large 4 上线 Arena 的 Agent Arena 与 Code Arena 评测",
+        "title_en": "Mistral Large 4 by @MistralAI is now in the Arena!",
+        "title_original": "Mistral Large 4 by @MistralAI is now in the Arena!",
+        "summary": "Arena 宣布 Mistral 的 Mistral Large 4 现已进入 Agent Arena，用户可前往测试投票，分数稍后公布。该模型为 1T 参数、49B 激活的原生多模态开放权重模型，也已在 Code Arena 的 WebDev、Text 和 Vision 中可用。",
+        "recommend_reason_zh": null,
+        "url": "https://x.com/arena/status/2107476436223504484",
+        "source": "X：Arena (@arena)",
+        "source_name": "AI HOT"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-10-06T14:48:17.290599Z"
       }
     },
     {
@@ -850,15 +1126,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7406,
-      "importance": 0.7406,
-      "importance_score": 0.7406,
+      "score": 0.7384,
+      "importance": 0.7384,
+      "importance_score": 0.7384,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8499,
+        "recency": 0.8378,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -883,7 +1159,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-06T13:48:15.698795Z"
+        "scored_at": "2026-10-06T14:48:17.290599Z"
       }
     },
     {
@@ -931,15 +1207,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7327,
-      "importance": 0.7327,
-      "importance_score": 0.7327,
+      "score": 0.7306,
+      "importance": 0.7306,
+      "importance_score": 0.7306,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.71,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.823,
+        "recency": 0.8112,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -964,7 +1240,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-06T13:48:15.698795Z"
+        "scored_at": "2026-10-06T14:48:17.290599Z"
       }
     },
     {
@@ -1012,15 +1288,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7316,
-      "importance": 0.7316,
-      "importance_score": 0.7316,
+      "score": 0.7292,
+      "importance": 0.7292,
+      "importance_score": 0.7292,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.66,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8998,
+        "recency": 0.8869,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1045,7 +1321,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-06T13:48:15.698795Z"
+        "scored_at": "2026-10-06T14:48:17.290599Z"
       }
     },
     {
@@ -1093,15 +1369,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7239,
-      "importance": 0.7239,
-      "importance_score": 0.7239,
+      "score": 0.7219,
+      "importance": 0.7219,
+      "importance_score": 0.7219,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.71,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7737,
+        "recency": 0.7626,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1126,7 +1402,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-06T13:48:15.698795Z"
+        "scored_at": "2026-10-06T14:48:17.290599Z"
       }
     },
     {
@@ -1202,15 +1478,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5937,
-      "importance": 0.5937,
-      "importance_score": 0.5937,
+      "score": 0.5916,
+      "importance": 0.5916,
+      "importance_score": 0.5916,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.5112,
         "source_tier": 0.58,
         "ai_relevance": 0.71,
-        "recency": 0.8096,
+        "recency": 0.798,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1235,7 +1511,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-06T13:48:15.698795Z"
+        "scored_at": "2026-10-06T14:48:17.290599Z"
       }
     },
     {
@@ -1312,15 +1588,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5451,
-      "importance": 0.5451,
-      "importance_score": 0.5451,
+      "score": 0.5426,
+      "importance": 0.5426,
+      "importance_score": 0.5426,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9964,
+        "recency": 0.9821,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1345,7 +1621,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-06T13:48:15.698795Z"
+        "scored_at": "2026-10-06T14:48:17.290599Z"
       }
     },
     {
@@ -1451,15 +1727,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5429,
-      "importance": 0.5429,
-      "importance_score": 0.5429,
+      "score": 0.5407,
+      "importance": 0.5407,
+      "importance_score": 0.5407,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.845,
+        "recency": 0.8329,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1484,7 +1760,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-06T13:48:15.698795Z"
+        "scored_at": "2026-10-06T14:48:17.290599Z"
       }
     },
     {
@@ -1590,15 +1866,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.539,
-      "importance": 0.539,
-      "importance_score": 0.539,
+      "score": 0.5369,
+      "importance": 0.5369,
+      "importance_score": 0.5369,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8233,
+        "recency": 0.8115,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1623,395 +1899,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-06T13:48:15.698795Z"
-      }
-    },
-    {
-      "story_id": "story_47d885071ad3",
-      "title": "Opus 5.5的研究人员发现了两种室温磁性半导体候选材料",
-      "url": "https://www.vals.ai/blogs/room-temperature-magnetic-semiconductors",
-      "primary_url": "https://www.vals.ai/blogs/room-temperature-magnetic-semiconductors",
-      "source": "www.vals.ai",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "f3eac503aa67042b174a6f86849c1975352cea15",
-          "title": "Opus 5.5的研究人员发现了两种室温磁性半导体候选材料",
-          "title_zh": "Opus 5.5的研究人员发现了两种室温磁性半导体候选材料",
-          "title_en": null,
-          "title_original": "Opus 5.5的研究人员发现了两种室温磁性半导体候选材料",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.vals.ai/blogs/room-temperature-magnetic-semiconductors",
-          "source": "www.vals.ai",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-10-05T22:12:05.081000Z"
-        },
-        {
-          "id": "d35c740c144293b45c6e2e98a537c705c97da26c",
-          "title": "Opus 5.5的研究人员发现了两种室温磁性半导体候选材料 / Opus 5.5 agents discover two room-temperature magnetic semiconductor candidates",
-          "title_zh": "Opus 5.5的研究人员发现了两种室温磁性半导体候选材料",
-          "title_en": "Opus 5.5 agents discover two room-temperature magnetic semiconductor candidates",
-          "title_original": "Opus 5.5 agents discover two room-temperature magnetic semiconductor candidates",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.vals.ai/blogs/room-temperature-magnetic-semiconductors",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-10-05T21:00:21Z"
-        },
-        {
-          "id": "c0407e92a3d6ccaf35a78647a157f61f833b3f23",
-          "title": "Opus 5.5 特工发现两种室温磁性半导体候选物 / Opus 5.5 agents discover two room-temperature magnetic semiconductor candidates",
-          "title_zh": "Opus 5.5 特工发现两种室温磁性半导体候选物",
-          "title_en": "Opus 5.5 agents discover two room-temperature magnetic semiconductor candidates",
-          "title_original": "Opus 5.5 agents discover two room-temperature magnetic semiconductor candidates",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=49970667",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-10-05T21:00:21Z"
-        }
-      ],
-      "source_count": 3,
-      "source_names": [
-        "Hacker News · 24h最热",
-        "hackernews",
-        "www.vals.ai"
-      ],
-      "items": [
-        {
-          "id": "f3eac503aa67042b174a6f86849c1975352cea15",
-          "title": "Opus 5.5的研究人员发现了两种室温磁性半导体候选材料",
-          "title_zh": "Opus 5.5的研究人员发现了两种室温磁性半导体候选材料",
-          "title_en": null,
-          "title_original": "Opus 5.5的研究人员发现了两种室温磁性半导体候选材料",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.vals.ai/blogs/room-temperature-magnetic-semiconductors",
-          "source": "www.vals.ai",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-10-05T22:12:05.081000Z"
-        },
-        {
-          "id": "d35c740c144293b45c6e2e98a537c705c97da26c",
-          "title": "Opus 5.5的研究人员发现了两种室温磁性半导体候选材料 / Opus 5.5 agents discover two room-temperature magnetic semiconductor candidates",
-          "title_zh": "Opus 5.5的研究人员发现了两种室温磁性半导体候选材料",
-          "title_en": "Opus 5.5 agents discover two room-temperature magnetic semiconductor candidates",
-          "title_original": "Opus 5.5 agents discover two room-temperature magnetic semiconductor candidates",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.vals.ai/blogs/room-temperature-magnetic-semiconductors",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-10-05T21:00:21Z"
-        },
-        {
-          "id": "c0407e92a3d6ccaf35a78647a157f61f833b3f23",
-          "title": "Opus 5.5 特工发现两种室温磁性半导体候选物 / Opus 5.5 agents discover two room-temperature magnetic semiconductor candidates",
-          "title_zh": "Opus 5.5 特工发现两种室温磁性半导体候选物",
-          "title_en": "Opus 5.5 agents discover two room-temperature magnetic semiconductor candidates",
-          "title_original": "Opus 5.5 agents discover two room-temperature magnetic semiconductor candidates",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=49970667",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-10-05T21:00:21Z"
-        }
-      ],
-      "item_count": 3,
-      "duplicate_count": 3,
-      "score": 0.5345,
-      "importance": 0.5345,
-      "importance_score": 0.5345,
-      "importance_label": "多源热议",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.7984,
-        "story_heat": 0.5
-      },
-      "category": "multi_source",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-10-05T21:00:21Z",
-      "latest_at": "2026-10-05T22:12:05.081000Z",
-      "primary_item": {
-        "id": "f3eac503aa67042b174a6f86849c1975352cea15",
-        "title": "Opus 5.5的研究人员发现了两种室温磁性半导体候选材料",
-        "title_zh": "Opus 5.5的研究人员发现了两种室温磁性半导体候选材料",
-        "title_en": null,
-        "title_original": "Opus 5.5的研究人员发现了两种室温磁性半导体候选材料",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://www.vals.ai/blogs/room-temperature-magnetic-semiconductors",
-        "source": "www.vals.ai",
-        "source_name": "Buzzing"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-10-06T13:48:15.698795Z"
-      }
-    },
-    {
-      "story_id": "story_6d84f167e6c4",
-      "title": "Sam Altman：为了人工智能的利益，“世界应该接受一些坏事的发生” / Sam Altman: 'The World Should Accept Some Bad Things Happening' For the Benefits of AI",
-      "url": "https://slashdot.org/story/26/10/05/1525207/sam-altman-the-world-should-accept-some-bad-things-happening-for-the-benefits-of-ai",
-      "primary_url": "https://slashdot.org/story/26/10/05/1525207/sam-altman-the-world-should-accept-some-bad-things-happening-for-the-benefits-of-ai",
-      "source": "Slashdot",
-      "source_name": "TechURLs",
-      "sources": [
-        {
-          "id": "a80790ec32c8d283b04d3b91ef9bbe8c1950678b",
-          "title": "Sam Altman：为了人工智能的利益，“世界应该接受一些坏事的发生” / Sam Altman: 'The World Should Accept Some Bad Things Happening' For the Benefits of AI",
-          "title_zh": "Sam Altman：为了人工智能的利益，“世界应该接受一些坏事的发生”",
-          "title_en": "Sam Altman: 'The World Should Accept Some Bad Things Happening' For the Benefits of AI",
-          "title_original": "Sam Altman: 'The World Should Accept Some Bad Things Happening' For the Benefits of AI",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://slashdot.org/story/26/10/05/1525207/sam-altman-the-world-should-accept-some-bad-things-happening-for-the-benefits-of-ai",
-          "source": "Slashdot",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-10-05T16:00:00Z"
-        },
-        {
-          "id": "f52c52878ab3528d3684df7354ef92e484e72fdb",
-          "title": "奥特曼：世界应该接受一些坏事的发生，让人工智能受益 / Altman: The world should accept some bad things happening for the benefits of AI",
-          "title_zh": "奥特曼：世界应该接受一些坏事的发生，让人工智能受益",
-          "title_en": "Altman: The world should accept some bad things happening for the benefits of AI",
-          "title_original": "Altman: The world should accept some bad things happening for the benefits of AI",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.politico.com/news/2026/10/04/sam-altman-decoded-interview-ai-01106217",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-10-05T15:03:32Z"
-        },
-        {
-          "id": "5a1831d6cb36560bec99b0c2378326fe74fc9a2f",
-          "title": "奥特曼：世界应该接受一些坏事的发生，让人工智能受益 / Altman: The world should accept some bad things happening for the benefits of AI",
-          "title_zh": "奥特曼：世界应该接受一些坏事的发生，让人工智能受益",
-          "title_en": "Altman: The world should accept some bad things happening for the benefits of AI",
-          "title_original": "Altman: The world should accept some bad things happening for the benefits of AI",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=49965786",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-10-05T15:03:32Z"
-        }
-      ],
-      "source_count": 3,
-      "source_names": [
-        "Hacker News · 24h最热",
-        "Slashdot",
-        "hackernews"
-      ],
-      "items": [
-        {
-          "id": "a80790ec32c8d283b04d3b91ef9bbe8c1950678b",
-          "title": "Sam Altman：为了人工智能的利益，“世界应该接受一些坏事的发生” / Sam Altman: 'The World Should Accept Some Bad Things Happening' For the Benefits of AI",
-          "title_zh": "Sam Altman：为了人工智能的利益，“世界应该接受一些坏事的发生”",
-          "title_en": "Sam Altman: 'The World Should Accept Some Bad Things Happening' For the Benefits of AI",
-          "title_original": "Sam Altman: 'The World Should Accept Some Bad Things Happening' For the Benefits of AI",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://slashdot.org/story/26/10/05/1525207/sam-altman-the-world-should-accept-some-bad-things-happening-for-the-benefits-of-ai",
-          "source": "Slashdot",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-10-05T16:00:00Z"
-        },
-        {
-          "id": "f52c52878ab3528d3684df7354ef92e484e72fdb",
-          "title": "奥特曼：世界应该接受一些坏事的发生，让人工智能受益 / Altman: The world should accept some bad things happening for the benefits of AI",
-          "title_zh": "奥特曼：世界应该接受一些坏事的发生，让人工智能受益",
-          "title_en": "Altman: The world should accept some bad things happening for the benefits of AI",
-          "title_original": "Altman: The world should accept some bad things happening for the benefits of AI",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.politico.com/news/2026/10/04/sam-altman-decoded-interview-ai-01106217",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-10-05T15:03:32Z"
-        },
-        {
-          "id": "5a1831d6cb36560bec99b0c2378326fe74fc9a2f",
-          "title": "奥特曼：世界应该接受一些坏事的发生，让人工智能受益 / Altman: The world should accept some bad things happening for the benefits of AI",
-          "title_zh": "奥特曼：世界应该接受一些坏事的发生，让人工智能受益",
-          "title_en": "Altman: The world should accept some bad things happening for the benefits of AI",
-          "title_original": "Altman: The world should accept some bad things happening for the benefits of AI",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=49965786",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-10-05T15:03:32Z"
-        }
-      ],
-      "item_count": 3,
-      "duplicate_count": 3,
-      "score": 0.5222,
-      "importance": 0.5222,
-      "importance_score": 0.5222,
-      "importance_label": "多源热议",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.73,
-        "story_heat": 0.5
-      },
-      "category": "multi_source",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-10-05T15:03:32Z",
-      "latest_at": "2026-10-05T16:00:00Z",
-      "primary_item": {
-        "id": "a80790ec32c8d283b04d3b91ef9bbe8c1950678b",
-        "title": "Sam Altman：为了人工智能的利益，“世界应该接受一些坏事的发生” / Sam Altman: 'The World Should Accept Some Bad Things Happening' For the Benefits of AI",
-        "title_zh": "Sam Altman：为了人工智能的利益，“世界应该接受一些坏事的发生”",
-        "title_en": "Sam Altman: 'The World Should Accept Some Bad Things Happening' For the Benefits of AI",
-        "title_original": "Sam Altman: 'The World Should Accept Some Bad Things Happening' For the Benefits of AI",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://slashdot.org/story/26/10/05/1525207/sam-altman-the-world-should-accept-some-bad-things-happening-for-the-benefits-of-ai",
-        "source": "Slashdot",
-        "source_name": "TechURLs"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-10-06T13:48:15.698795Z"
-      }
-    },
-    {
-      "story_id": "story_8da758bc25b8",
-      "title": "Khanmigo 在为期两年的学校实验中进行人工智能辅导 / AI tutoring with Khanmigo in a two-year school experiment",
-      "url": "https://edworkingpapers.com/ai26-1551",
-      "primary_url": "https://edworkingpapers.com/ai26-1551",
-      "source": "Hacker News · 24h最热",
-      "source_name": "Zeli",
-      "sources": [
-        {
-          "id": "ba50e748d2535143754fb0271be5c10431b91c0e",
-          "title": "Khanmigo 在为期两年的学校实验中进行人工智能辅导 / AI tutoring with Khanmigo in a two-year school experiment",
-          "title_zh": "Khanmigo 在为期两年的学校实验中进行人工智能辅导",
-          "title_en": "AI tutoring with Khanmigo in a two-year school experiment",
-          "title_original": "AI tutoring with Khanmigo in a two-year school experiment",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://edworkingpapers.com/ai26-1551",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-10-06T00:00:45Z"
-        },
-        {
-          "id": "524dc7139f27489f87eb2f98f304fb9e3e0e35d4",
-          "title": "Khanmigo 在为期两年的学校实验中进行人工智能辅导 / AI tutoring with Khanmigo in a two-year school experiment",
-          "title_zh": "Khanmigo 在为期两年的学校实验中进行人工智能辅导",
-          "title_en": "AI tutoring with Khanmigo in a two-year school experiment",
-          "title_original": "AI tutoring with Khanmigo in a two-year school experiment",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=49972419",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-10-06T00:00:45Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News · 24h最热",
-        "hackernews"
-      ],
-      "items": [
-        {
-          "id": "ba50e748d2535143754fb0271be5c10431b91c0e",
-          "title": "Khanmigo 在为期两年的学校实验中进行人工智能辅导 / AI tutoring with Khanmigo in a two-year school experiment",
-          "title_zh": "Khanmigo 在为期两年的学校实验中进行人工智能辅导",
-          "title_en": "AI tutoring with Khanmigo in a two-year school experiment",
-          "title_original": "AI tutoring with Khanmigo in a two-year school experiment",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://edworkingpapers.com/ai26-1551",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-10-06T00:00:45Z"
-        },
-        {
-          "id": "524dc7139f27489f87eb2f98f304fb9e3e0e35d4",
-          "title": "Khanmigo 在为期两年的学校实验中进行人工智能辅导 / AI tutoring with Khanmigo in a two-year school experiment",
-          "title_zh": "Khanmigo 在为期两年的学校实验中进行人工智能辅导",
-          "title_en": "AI tutoring with Khanmigo in a two-year school experiment",
-          "title_original": "AI tutoring with Khanmigo in a two-year school experiment",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=49972419",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-10-06T00:00:45Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5133,
-      "importance": 0.5133,
-      "importance_score": 0.5133,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.8196,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-10-06T00:00:45Z",
-      "latest_at": "2026-10-06T00:00:45Z",
-      "primary_item": {
-        "id": "ba50e748d2535143754fb0271be5c10431b91c0e",
-        "title": "Khanmigo 在为期两年的学校实验中进行人工智能辅导 / AI tutoring with Khanmigo in a two-year school experiment",
-        "title_zh": "Khanmigo 在为期两年的学校实验中进行人工智能辅导",
-        "title_en": "AI tutoring with Khanmigo in a two-year school experiment",
-        "title_original": "AI tutoring with Khanmigo in a two-year school experiment",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://edworkingpapers.com/ai26-1551",
-        "source": "Hacker News · 24h最热",
-        "source_name": "Zeli"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-10-06T13:48:15.698795Z"
+        "scored_at": "2026-10-06T14:48:17.290599Z"
       }
     }
   ]
