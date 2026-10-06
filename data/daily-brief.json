@@ -1,8 +1,91 @@
 {
-  "generated_at": "2026-10-06T16:47:24.585393Z",
+  "generated_at": "2026-10-06T17:47:20.336240Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
+    {
+      "story_id": "story_dbe192624685",
+      "title": "Atlassian and OpenAI expand partnership to turn enterprise knowledge into action",
+      "url": "https://openai.com/index/atlassian-partnership",
+      "primary_url": "https://openai.com/index/atlassian-partnership",
+      "source": "OpenAI News",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "99d5ded8f540738aaccaa110db1eedf356ac7ebf",
+          "title": "Atlassian and OpenAI expand partnership to turn enterprise knowledge into action",
+          "title_zh": null,
+          "title_en": "Atlassian and OpenAI expand partnership to turn enterprise knowledge into action",
+          "title_original": "Atlassian and OpenAI expand partnership to turn enterprise knowledge into action",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://openai.com/index/atlassian-partnership",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-10-06T16:00:00Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "OpenAI News"
+      ],
+      "items": [
+        {
+          "id": "99d5ded8f540738aaccaa110db1eedf356ac7ebf",
+          "title": "Atlassian and OpenAI expand partnership to turn enterprise knowledge into action",
+          "title_zh": null,
+          "title_en": "Atlassian and OpenAI expand partnership to turn enterprise knowledge into action",
+          "title_original": "Atlassian and OpenAI expand partnership to turn enterprise knowledge into action",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://openai.com/index/atlassian-partnership",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-10-06T16:00:00Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8474,
+      "importance": 0.8474,
+      "importance_score": 0.8474,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.91,
+        "recency": 0.9745,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-10-06T16:00:00Z",
+      "latest_at": "2026-10-06T16:00:00Z",
+      "primary_item": {
+        "id": "99d5ded8f540738aaccaa110db1eedf356ac7ebf",
+        "title": "Atlassian and OpenAI expand partnership to turn enterprise knowledge into action",
+        "title_zh": null,
+        "title_en": "Atlassian and OpenAI expand partnership to turn enterprise knowledge into action",
+        "title_original": "Atlassian and OpenAI expand partnership to turn enterprise knowledge into action",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://openai.com/index/atlassian-partnership",
+        "source": "OpenAI News",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-10-06T18:02:30.455946Z"
+      }
+    },
     {
       "story_id": "story_2f21e7c25d8c",
       "title": "猎鹰阿联酋：当LLM学习方言、文化和细微差别时 / Falcon-Emirati: When an LLM Learns the Dialect, the Culture, and the Nuance",
@@ -48,15 +131,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8437,
-      "importance": 0.8437,
-      "importance_score": 0.8437,
+      "score": 0.8415,
+      "importance": 0.8415,
+      "importance_score": 0.8415,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.99,
-        "recency": 0.865,
+        "recency": 0.8526,
         "story_heat": 0.0
       },
       "category": "official",
@@ -83,7 +166,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-06T16:59:39.204182Z"
+        "scored_at": "2026-10-06T18:02:30.455946Z"
       }
     },
     {
@@ -131,15 +214,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8281,
-      "importance": 0.8281,
-      "importance_score": 0.8281,
+      "score": 0.8258,
+      "importance": 0.8258,
+      "importance_score": 0.8258,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.9118,
+        "recency": 0.8987,
         "story_heat": 0.0
       },
       "category": "official",
@@ -166,7 +249,89 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-06T16:59:39.204182Z"
+        "scored_at": "2026-10-06T18:02:30.455946Z"
+      }
+    },
+    {
+      "story_id": "story_499c135d2740",
+      "title": "DeepSeek 据报道接近完成至少 800 亿元融资，腾讯与宁德时代参与 / DeepSeek is close to raising at least 80 billion yuan ($12 billion), up from its original target of about 50 billion yuan, Bloomberg repo...",
+      "url": "https://x.com/thexpin/status/2107524306058289533",
+      "primary_url": "https://x.com/thexpin/status/2107524306058289533",
+      "source": "X：X.PIN (@thexpin)",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "94c5884fa3bb345a8c1f794d8e09a67a9485ffcd",
+          "title": "DeepSeek 据报道接近完成至少 800 亿元融资，腾讯与宁德时代参与 / DeepSeek is close to raising at least 80 billion yuan ($12 billion), up from its original target of about 50 billion yuan, Bloomberg repo...",
+          "title_zh": "DeepSeek 据报道接近完成至少 800 亿元融资，腾讯与宁德时代参与",
+          "title_en": "DeepSeek is close to raising at least 80 billion yuan ($12 billion), up from its original target of about 50 billion yuan, Bloomberg repo...",
+          "title_original": "DeepSeek is close to raising at least 80 billion yuan ($12 billion), up from its original target of about 50 billion yuan, Bloomberg repo...",
+          "summary": "据 Bloomberg 援引知情人士报道，DeepSeek 接近完成至少 800 亿元（约 120 亿美元）融资，高于原定约 500 亿元的目标。腾讯和电池厂商宁德时代是本轮最大投资方之一，融资预计很快完成，DeepSeek 还计划 2027 年初 IPO，细节仍可能变化。",
+          "recommend_reason_zh": null,
+          "url": "https://x.com/thexpin/status/2107524306058289533",
+          "source": "X：X.PIN (@thexpin)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-06T17:32:05Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "X：X.PIN (@thexpin)"
+      ],
+      "items": [
+        {
+          "id": "94c5884fa3bb345a8c1f794d8e09a67a9485ffcd",
+          "title": "DeepSeek 据报道接近完成至少 800 亿元融资，腾讯与宁德时代参与 / DeepSeek is close to raising at least 80 billion yuan ($12 billion), up from its original target of about 50 billion yuan, Bloomberg repo...",
+          "title_zh": "DeepSeek 据报道接近完成至少 800 亿元融资，腾讯与宁德时代参与",
+          "title_en": "DeepSeek is close to raising at least 80 billion yuan ($12 billion), up from its original target of about 50 billion yuan, Bloomberg repo...",
+          "title_original": "DeepSeek is close to raising at least 80 billion yuan ($12 billion), up from its original target of about 50 billion yuan, Bloomberg repo...",
+          "summary": "据 Bloomberg 援引知情人士报道，DeepSeek 接近完成至少 800 亿元（约 120 亿美元）融资，高于原定约 500 亿元的目标。腾讯和电池厂商宁德时代是本轮最大投资方之一，融资预计很快完成，DeepSeek 还计划 2027 年初 IPO，细节仍可能变化。",
+          "recommend_reason_zh": null,
+          "url": "https://x.com/thexpin/status/2107524306058289533",
+          "source": "X：X.PIN (@thexpin)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-06T17:32:05Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7969,
+      "importance": 0.7969,
+      "importance_score": 0.7969,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.82,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9963,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-10-06T17:32:05Z",
+      "latest_at": "2026-10-06T17:32:05Z",
+      "primary_item": {
+        "id": "94c5884fa3bb345a8c1f794d8e09a67a9485ffcd",
+        "title": "DeepSeek 据报道接近完成至少 800 亿元融资，腾讯与宁德时代参与 / DeepSeek is close to raising at least 80 billion yuan ($12 billion), up from its original target of about 50 billion yuan, Bloomberg repo...",
+        "title_zh": "DeepSeek 据报道接近完成至少 800 亿元融资，腾讯与宁德时代参与",
+        "title_en": "DeepSeek is close to raising at least 80 billion yuan ($12 billion), up from its original target of about 50 billion yuan, Bloomberg repo...",
+        "title_original": "DeepSeek is close to raising at least 80 billion yuan ($12 billion), up from its original target of about 50 billion yuan, Bloomberg repo...",
+        "summary": "据 Bloomberg 援引知情人士报道，DeepSeek 接近完成至少 800 亿元（约 120 亿美元）融资，高于原定约 500 亿元的目标。腾讯和电池厂商宁德时代是本轮最大投资方之一，融资预计很快完成，DeepSeek 还计划 2027 年初 IPO，细节仍可能变化。",
+        "recommend_reason_zh": null,
+        "url": "https://x.com/thexpin/status/2107524306058289533",
+        "source": "X：X.PIN (@thexpin)",
+        "source_name": "AI HOT"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-10-06T18:02:30.455946Z"
       }
     },
     {
@@ -243,15 +408,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7991,
-      "importance": 0.7991,
-      "importance_score": 0.7991,
+      "score": 0.7966,
+      "importance": 0.7966,
+      "importance_score": 0.7966,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.77,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9526,
+        "recency": 0.939,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -278,7 +443,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-06T16:59:39.204182Z"
+        "scored_at": "2026-10-06T18:02:30.455946Z"
       }
     },
     {
@@ -326,15 +491,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7856,
-      "importance": 0.7856,
-      "importance_score": 0.7856,
+      "score": 0.7832,
+      "importance": 0.7832,
+      "importance_score": 0.7832,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.82,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9332,
+        "recency": 0.9198,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -360,7 +525,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-06T16:59:39.204182Z"
+        "scored_at": "2026-10-06T18:02:30.455946Z"
       }
     },
     {
@@ -408,15 +573,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8026,
-      "importance": 0.8026,
-      "importance_score": 0.8026,
+      "score": 0.8006,
+      "importance": 0.8006,
+      "importance_score": 0.8006,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.7701,
+        "recency": 0.7591,
         "story_heat": 0.0
       },
       "category": "official",
@@ -443,7 +608,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-06T16:59:39.204182Z"
+        "scored_at": "2026-10-06T18:02:30.455946Z"
       }
     },
     {
@@ -491,15 +656,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7666,
-      "importance": 0.7666,
-      "importance_score": 0.7666,
+      "score": 0.7643,
+      "importance": 0.7643,
+      "importance_score": 0.7643,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.8,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8609,
+        "recency": 0.8486,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -525,7 +690,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-06T16:59:39.204182Z"
+        "scored_at": "2026-10-06T18:02:30.455946Z"
       }
     },
     {
@@ -573,15 +738,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7652,
-      "importance": 0.7652,
-      "importance_score": 0.7652,
+      "score": 0.7632,
+      "importance": 0.7632,
+      "importance_score": 0.7632,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.68,
         "source_tier": 1.0,
         "ai_relevance": 1.0,
-        "recency": 0.7847,
+        "recency": 0.7735,
         "story_heat": 0.0
       },
       "category": "official",
@@ -607,7 +772,89 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-06T16:59:39.204182Z"
+        "scored_at": "2026-10-06T18:02:30.455946Z"
+      }
+    },
+    {
+      "story_id": "story_e9d3a05e928a",
+      "title": "Claude 接入 Google Docs、Sheets 和 Slides，支持侧边栏就地编辑 / Claude now works inside Google Docs, Sheets, and Slides, and those files also open inside Claude.",
+      "url": "https://x.com/claudeai/status/2107522596845822135",
+      "primary_url": "https://x.com/claudeai/status/2107522596845822135",
+      "source": "X：Claude (@claudeai)",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "269bcb21c4221f207b8b5d49e626bb3dc4eb1e2b",
+          "title": "Claude 接入 Google Docs、Sheets 和 Slides，支持侧边栏就地编辑 / Claude now works inside Google Docs, Sheets, and Slides, and those files also open inside Claude.",
+          "title_zh": "Claude 接入 Google Docs、Sheets 和 Slides，支持侧边栏就地编辑",
+          "title_en": "Claude now works inside Google Docs, Sheets, and Slides, and those files also open inside Claude.",
+          "title_original": "Claude now works inside Google Docs, Sheets, and Slides, and those files also open inside Claude.",
+          "summary": "Anthropic 宣布 Claude 现在可以在 Google Docs、Sheets 和 Slides 中工作，这些文件也能在 Claude 中打开。在 Google Workspace 中，Claude 以侧边栏形式出现在文件旁，读取当前打开的内容并就地编辑，用户可在每次编辑生效前逐项确认。",
+          "recommend_reason_zh": null,
+          "url": "https://x.com/claudeai/status/2107522596845822135",
+          "source": "X：Claude (@claudeai)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-06T17:25:17Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "X：Claude (@claudeai)"
+      ],
+      "items": [
+        {
+          "id": "269bcb21c4221f207b8b5d49e626bb3dc4eb1e2b",
+          "title": "Claude 接入 Google Docs、Sheets 和 Slides，支持侧边栏就地编辑 / Claude now works inside Google Docs, Sheets, and Slides, and those files also open inside Claude.",
+          "title_zh": "Claude 接入 Google Docs、Sheets 和 Slides，支持侧边栏就地编辑",
+          "title_en": "Claude now works inside Google Docs, Sheets, and Slides, and those files also open inside Claude.",
+          "title_original": "Claude now works inside Google Docs, Sheets, and Slides, and those files also open inside Claude.",
+          "summary": "Anthropic 宣布 Claude 现在可以在 Google Docs、Sheets 和 Slides 中工作，这些文件也能在 Claude 中打开。在 Google Workspace 中，Claude 以侧边栏形式出现在文件旁，读取当前打开的内容并就地编辑，用户可在每次编辑生效前逐项确认。",
+          "recommend_reason_zh": null,
+          "url": "https://x.com/claudeai/status/2107522596845822135",
+          "source": "X：Claude (@claudeai)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-06T17:25:17Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7606,
+      "importance": 0.7606,
+      "importance_score": 0.7606,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.7,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9947,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-10-06T17:25:17Z",
+      "latest_at": "2026-10-06T17:25:17Z",
+      "primary_item": {
+        "id": "269bcb21c4221f207b8b5d49e626bb3dc4eb1e2b",
+        "title": "Claude 接入 Google Docs、Sheets 和 Slides，支持侧边栏就地编辑 / Claude now works inside Google Docs, Sheets, and Slides, and those files also open inside Claude.",
+        "title_zh": "Claude 接入 Google Docs、Sheets 和 Slides，支持侧边栏就地编辑",
+        "title_en": "Claude now works inside Google Docs, Sheets, and Slides, and those files also open inside Claude.",
+        "title_original": "Claude now works inside Google Docs, Sheets, and Slides, and those files also open inside Claude.",
+        "summary": "Anthropic 宣布 Claude 现在可以在 Google Docs、Sheets 和 Slides 中工作，这些文件也能在 Claude 中打开。在 Google Workspace 中，Claude 以侧边栏形式出现在文件旁，读取当前打开的内容并就地编辑，用户可在每次编辑生效前逐项确认。",
+        "recommend_reason_zh": null,
+        "url": "https://x.com/claudeai/status/2107522596845822135",
+        "source": "X：Claude (@claudeai)",
+        "source_name": "AI HOT"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-10-06T18:02:30.455946Z"
       }
     },
     {
@@ -655,15 +902,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7576,
-      "importance": 0.7576,
-      "importance_score": 0.7576,
+      "score": 0.7551,
+      "importance": 0.7551,
+      "importance_score": 0.7551,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.71,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9611,
+        "recency": 0.9473,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -689,7 +936,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-06T16:59:39.204182Z"
+        "scored_at": "2026-10-06T18:02:30.455946Z"
       }
     },
     {
@@ -737,15 +984,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7562,
-      "importance": 0.7562,
-      "importance_score": 0.7562,
+      "score": 0.754,
+      "importance": 0.754,
+      "importance_score": 0.754,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.77,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8531,
+        "recency": 0.8408,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -771,7 +1018,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-06T16:59:39.204182Z"
+        "scored_at": "2026-10-06T18:02:30.455946Z"
       }
     },
     {
@@ -877,15 +1124,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.7849,
-      "importance": 0.7849,
-      "importance_score": 0.7849,
+      "score": 0.7831,
+      "importance": 0.7831,
+      "importance_score": 0.7831,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.78,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7185,
+        "recency": 0.7082,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -912,7 +1159,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-06T16:59:39.204182Z"
+        "scored_at": "2026-10-06T18:02:30.455946Z"
       }
     },
     {
@@ -960,21 +1207,20 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7523,
-      "importance": 0.7523,
-      "importance_score": 0.7523,
+      "score": 0.7498,
+      "importance": 0.7498,
+      "importance_score": 0.7498,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.7,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9482,
+        "recency": 0.9346,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-10-06T13:06:16Z",
       "latest_at": "2026-10-06T13:06:16Z",
@@ -994,7 +1240,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-06T16:59:39.204182Z"
+        "scored_at": "2026-10-06T18:02:30.455946Z"
       }
     },
     {
@@ -1042,15 +1288,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7489,
-      "importance": 0.7489,
-      "importance_score": 0.7489,
+      "score": 0.7463,
+      "importance": 0.7463,
+      "importance_score": 0.7463,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.67,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9793,
+        "recency": 0.9653,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1075,7 +1321,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-06T16:59:39.204182Z"
+        "scored_at": "2026-10-06T18:02:30.455946Z"
       }
     },
     {
@@ -1123,15 +1369,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7464,
-      "importance": 0.7464,
-      "importance_score": 0.7464,
+      "score": 0.7439,
+      "importance": 0.7439,
+      "importance_score": 0.7439,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.67,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9656,
+        "recency": 0.9518,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1156,7 +1402,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-06T16:59:39.204182Z"
+        "scored_at": "2026-10-06T18:02:30.455946Z"
       }
     },
     {
@@ -1204,15 +1450,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7341,
-      "importance": 0.7341,
-      "importance_score": 0.7341,
+      "score": 0.732,
+      "importance": 0.732,
+      "importance_score": 0.732,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8139,
+        "recency": 0.8023,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1237,7 +1483,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-06T16:59:39.204182Z"
+        "scored_at": "2026-10-06T18:02:30.455946Z"
       }
     },
     {
@@ -1285,15 +1531,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7592,
-      "importance": 0.7592,
-      "importance_score": 0.7592,
+      "score": 0.7572,
+      "importance": 0.7572,
+      "importance_score": 0.7572,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.66,
         "source_tier": 1.0,
         "ai_relevance": 1.0,
-        "recency": 0.7847,
+        "recency": 0.7735,
         "story_heat": 0.0
       },
       "category": "official",
@@ -1319,7 +1565,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-06T16:59:39.204182Z"
+        "scored_at": "2026-10-06T18:02:30.455946Z"
       }
     },
     {
@@ -1367,15 +1613,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7265,
-      "importance": 0.7265,
-      "importance_score": 0.7265,
+      "score": 0.7244,
+      "importance": 0.7244,
+      "importance_score": 0.7244,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.71,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7881,
+        "recency": 0.7768,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1400,7 +1646,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-06T16:59:39.204182Z"
+        "scored_at": "2026-10-06T18:02:30.455946Z"
       }
     },
     {
@@ -1448,15 +1694,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7247,
-      "importance": 0.7247,
-      "importance_score": 0.7247,
+      "score": 0.7225,
+      "importance": 0.7225,
+      "importance_score": 0.7225,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.66,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8617,
+        "recency": 0.8493,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1481,365 +1727,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-06T16:59:39.204182Z"
-      }
-    },
-    {
-      "story_id": "story_a886b790c2de",
-      "title": "Gemini打电话给我可能会告诉你妈妈你迟到了 / Gemini Call for Me might tell your mom you&#8217;re running late",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1005177/google-gemini-call-for-me-expansion-rumors",
-      "primary_url": "https://www.theverge.com/ai-artificial-intelligence/1005177/google-gemini-call-for-me-expansion-rumors",
-      "source": "The Verge",
-      "source_name": "Curated Media",
-      "sources": [
-        {
-          "id": "9f50ea291113227861db0a922f6ccf9a1d899eae",
-          "title": "Gemini打电话给我可能会告诉你妈妈你迟到了 / Gemini Call for Me might tell your mom you&#8217;re running late",
-          "title_zh": "Gemini打电话给我可能会告诉你妈妈你迟到了",
-          "title_en": "Gemini Call for Me might tell your mom you&#8217;re running late",
-          "title_original": "Gemini Call for Me might tell your mom you&#8217;re running late",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.theverge.com/ai-artificial-intelligence/1005177/google-gemini-call-for-me-expansion-rumors",
-          "source": "The Verge",
-          "source_name": "Curated Media",
-          "site_id": "curated_media",
-          "published_at": "2026-10-05T23:09:55Z"
-        },
-        {
-          "id": "afc87f46d15bdc51d47afd10a55a7d6d683340fd",
-          "title": "Gemini打电话给我可能会告诉你妈妈你迟到了 / Gemini Call for Me might tell your mom you’re running late",
-          "title_zh": "Gemini打电话给我可能会告诉你妈妈你迟到了",
-          "title_en": "Gemini Call for Me might tell your mom you’re running late",
-          "title_original": "Gemini Call for Me might tell your mom you’re running late",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.theverge.com/ai-artificial-intelligence/1005177/google-gemini-call-for-me-expansion-rumors",
-          "source": "The Verge",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-10-05T23:09:55Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "The Verge"
-      ],
-      "items": [
-        {
-          "id": "9f50ea291113227861db0a922f6ccf9a1d899eae",
-          "title": "Gemini打电话给我可能会告诉你妈妈你迟到了 / Gemini Call for Me might tell your mom you&#8217;re running late",
-          "title_zh": "Gemini打电话给我可能会告诉你妈妈你迟到了",
-          "title_en": "Gemini Call for Me might tell your mom you&#8217;re running late",
-          "title_original": "Gemini Call for Me might tell your mom you&#8217;re running late",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.theverge.com/ai-artificial-intelligence/1005177/google-gemini-call-for-me-expansion-rumors",
-          "source": "The Verge",
-          "source_name": "Curated Media",
-          "site_id": "curated_media",
-          "published_at": "2026-10-05T23:09:55Z"
-        },
-        {
-          "id": "afc87f46d15bdc51d47afd10a55a7d6d683340fd",
-          "title": "Gemini打电话给我可能会告诉你妈妈你迟到了 / Gemini Call for Me might tell your mom you’re running late",
-          "title_zh": "Gemini打电话给我可能会告诉你妈妈你迟到了",
-          "title_en": "Gemini Call for Me might tell your mom you’re running late",
-          "title_original": "Gemini Call for Me might tell your mom you’re running late",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.theverge.com/ai-artificial-intelligence/1005177/google-gemini-call-for-me-expansion-rumors",
-          "source": "The Verge",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-10-05T23:09:55Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5875,
-      "importance": 0.5875,
-      "importance_score": 0.5875,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.5112,
-        "source_tier": 0.58,
-        "ai_relevance": 0.71,
-        "recency": 0.7753,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-10-05T23:09:55Z",
-      "latest_at": "2026-10-05T23:09:55Z",
-      "primary_item": {
-        "id": "9f50ea291113227861db0a922f6ccf9a1d899eae",
-        "title": "Gemini打电话给我可能会告诉你妈妈你迟到了 / Gemini Call for Me might tell your mom you&#8217;re running late",
-        "title_zh": "Gemini打电话给我可能会告诉你妈妈你迟到了",
-        "title_en": "Gemini Call for Me might tell your mom you&#8217;re running late",
-        "title_original": "Gemini Call for Me might tell your mom you&#8217;re running late",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://www.theverge.com/ai-artificial-intelligence/1005177/google-gemini-call-for-me-expansion-rumors",
-        "source": "The Verge",
-        "source_name": "Curated Media"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-10-06T16:59:39.204182Z"
-      }
-    },
-    {
-      "story_id": "story_fb5f7ff4ac54",
-      "title": "米斯特拉尔 大号 4",
-      "url": "https://docs.mistral.ai/models/mistral-large-4-0",
-      "primary_url": "https://docs.mistral.ai/models/mistral-large-4-0",
-      "source": "docs.mistral.ai",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "dbdb4937d5f8c1e956634626c8da8bfc0f1ee446",
-          "title": "米斯特拉尔 大号 4",
-          "title_zh": "米斯特拉尔 大号 4",
-          "title_en": null,
-          "title_original": "米斯特拉尔 大号 4",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://docs.mistral.ai/models/mistral-large-4-0",
-          "source": "docs.mistral.ai",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-10-06T13:32:16.752000Z"
-        },
-        {
-          "id": "1658be895e9ad055e6b0c161b0ce1649cd9f163d",
-          "title": "米斯特拉尔 大号 4 / Mistral Large 4",
-          "title_zh": "米斯特拉尔 大号 4",
-          "title_en": "Mistral Large 4",
-          "title_original": "Mistral Large 4",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://docs.mistral.ai/models/mistral-large-4-0",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-10-06T13:15:49Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News · 24h最热",
-        "docs.mistral.ai"
-      ],
-      "items": [
-        {
-          "id": "dbdb4937d5f8c1e956634626c8da8bfc0f1ee446",
-          "title": "米斯特拉尔 大号 4",
-          "title_zh": "米斯特拉尔 大号 4",
-          "title_en": null,
-          "title_original": "米斯特拉尔 大号 4",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://docs.mistral.ai/models/mistral-large-4-0",
-          "source": "docs.mistral.ai",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-10-06T13:32:16.752000Z"
-        },
-        {
-          "id": "1658be895e9ad055e6b0c161b0ce1649cd9f163d",
-          "title": "米斯特拉尔 大号 4 / Mistral Large 4",
-          "title_zh": "米斯特拉尔 大号 4",
-          "title_en": "Mistral Large 4",
-          "title_original": "Mistral Large 4",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://docs.mistral.ai/models/mistral-large-4-0",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-10-06T13:15:49Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5375,
-      "importance": 0.5375,
-      "importance_score": 0.5375,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.9541,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-10-06T13:15:49Z",
-      "latest_at": "2026-10-06T13:32:16.752000Z",
-      "primary_item": {
-        "id": "dbdb4937d5f8c1e956634626c8da8bfc0f1ee446",
-        "title": "米斯特拉尔 大号 4",
-        "title_zh": "米斯特拉尔 大号 4",
-        "title_en": null,
-        "title_original": "米斯特拉尔 大号 4",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://docs.mistral.ai/models/mistral-large-4-0",
-        "source": "docs.mistral.ai",
-        "source_name": "Buzzing"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-10-06T16:59:39.204182Z"
-      }
-    },
-    {
-      "story_id": "story_28fb0368d56f",
-      "title": "Dust：无需反向传播的Transformer预训练",
-      "url": "https://qlabs.sh/research/dust",
-      "primary_url": "https://qlabs.sh/research/dust",
-      "source": "qlabs.sh",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "6abc950411f12d66528f0bb68255022157286bbb",
-          "title": "Dust：无需反向传播的Transformer预训练",
-          "title_zh": "Dust：无需反向传播的Transformer预训练",
-          "title_en": null,
-          "title_original": "Dust：无需反向传播的Transformer预训练",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://qlabs.sh/research/dust",
-          "source": "qlabs.sh",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-10-06T02:07:52.842000Z"
-        },
-        {
-          "id": "f6de9d786acd54bba5133f7b491e15e12c2fe0c2",
-          "title": "Dust：无需反向传播的Transformer预训练 / Dust: Pretraining Transformers Without Backpropagation",
-          "title_zh": "Dust：无需反向传播的Transformer预训练",
-          "title_en": "Dust: Pretraining Transformers Without Backpropagation",
-          "title_original": "Dust: Pretraining Transformers Without Backpropagation",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://qlabs.sh/research/dust",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-10-05T21:15:07Z"
-        },
-        {
-          "id": "7389c431f138003ff1424c3abc0027a58665a484",
-          "title": "Dust：在没有反向传播的情况下预训练 Transformer / Dust: Pretraining Transformers Without Backpropagation",
-          "title_zh": "Dust：在没有反向传播的情况下预训练 Transformer",
-          "title_en": "Dust: Pretraining Transformers Without Backpropagation",
-          "title_original": "Dust: Pretraining Transformers Without Backpropagation",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=49970871",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-10-05T21:15:07Z"
-        }
-      ],
-      "source_count": 3,
-      "source_names": [
-        "Hacker News · 24h最热",
-        "hackernews",
-        "qlabs.sh"
-      ],
-      "items": [
-        {
-          "id": "6abc950411f12d66528f0bb68255022157286bbb",
-          "title": "Dust：无需反向传播的Transformer预训练",
-          "title_zh": "Dust：无需反向传播的Transformer预训练",
-          "title_en": null,
-          "title_original": "Dust：无需反向传播的Transformer预训练",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://qlabs.sh/research/dust",
-          "source": "qlabs.sh",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-10-06T02:07:52.842000Z"
-        },
-        {
-          "id": "f6de9d786acd54bba5133f7b491e15e12c2fe0c2",
-          "title": "Dust：无需反向传播的Transformer预训练 / Dust: Pretraining Transformers Without Backpropagation",
-          "title_zh": "Dust：无需反向传播的Transformer预训练",
-          "title_en": "Dust: Pretraining Transformers Without Backpropagation",
-          "title_original": "Dust: Pretraining Transformers Without Backpropagation",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://qlabs.sh/research/dust",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-10-05T21:15:07Z"
-        },
-        {
-          "id": "7389c431f138003ff1424c3abc0027a58665a484",
-          "title": "Dust：在没有反向传播的情况下预训练 Transformer / Dust: Pretraining Transformers Without Backpropagation",
-          "title_zh": "Dust：在没有反向传播的情况下预训练 Transformer",
-          "title_en": "Dust: Pretraining Transformers Without Backpropagation",
-          "title_original": "Dust: Pretraining Transformers Without Backpropagation",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=49970871",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-10-05T21:15:07Z"
-        }
-      ],
-      "item_count": 3,
-      "duplicate_count": 3,
-      "score": 0.5365,
-      "importance": 0.5365,
-      "importance_score": 0.5365,
-      "importance_label": "多源热议",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.8092,
-        "story_heat": 0.5
-      },
-      "category": "multi_source",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-10-05T21:15:07Z",
-      "latest_at": "2026-10-06T02:07:52.842000Z",
-      "primary_item": {
-        "id": "6abc950411f12d66528f0bb68255022157286bbb",
-        "title": "Dust：无需反向传播的Transformer预训练",
-        "title_zh": "Dust：无需反向传播的Transformer预训练",
-        "title_en": null,
-        "title_original": "Dust：无需反向传播的Transformer预训练",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://qlabs.sh/research/dust",
-        "source": "qlabs.sh",
-        "source_name": "Buzzing"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-10-06T16:59:39.204182Z"
+        "scored_at": "2026-10-06T18:02:30.455946Z"
       }
     }
   ]
