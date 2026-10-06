@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-06T00:47:22.774601Z",
+  "generated_at": "2026-10-06T01:47:18.810691Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -48,15 +48,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8387,
-      "importance": 0.8387,
-      "importance_score": 0.8387,
+      "score": 0.8362,
+      "importance": 0.8362,
+      "importance_score": 0.8362,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.9703,
+        "recency": 0.9564,
         "story_heat": 0.0
       },
       "category": "official",
@@ -83,7 +83,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-06T00:59:37.578187Z"
+        "scored_at": "2026-10-06T02:00:24.724336Z"
       }
     },
     {
@@ -131,15 +131,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8285,
-      "importance": 0.8285,
-      "importance_score": 0.8285,
+      "score": 0.8263,
+      "importance": 0.8263,
+      "importance_score": 0.8263,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.9,
-        "recency": 0.8807,
+        "recency": 0.8681,
         "story_heat": 0.0
       },
       "category": "official",
@@ -166,7 +166,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-06T00:59:37.578187Z"
+        "scored_at": "2026-10-06T02:00:24.724336Z"
       }
     },
     {
@@ -214,15 +214,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8283,
-      "importance": 0.8283,
-      "importance_score": 0.8283,
+      "score": 0.826,
+      "importance": 0.826,
+      "importance_score": 0.826,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.8682,
+        "recency": 0.8557,
         "story_heat": 0.0
       },
       "category": "official",
@@ -249,7 +249,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-06T00:59:37.578187Z"
+        "scored_at": "2026-10-06T02:00:24.724336Z"
       }
     },
     {
@@ -355,15 +355,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.8185,
-      "importance": 0.8185,
-      "importance_score": 0.8185,
+      "score": 0.8162,
+      "importance": 0.8162,
+      "importance_score": 0.8162,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.78,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9052,
+        "recency": 0.8922,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -390,7 +390,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-06T00:59:37.578187Z"
+        "scored_at": "2026-10-06T02:00:24.724336Z"
       }
     },
     {
@@ -438,15 +438,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8174,
-      "importance": 0.8174,
-      "importance_score": 0.8174,
+      "score": 0.8153,
+      "importance": 0.8153,
+      "importance_score": 0.8153,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.8077,
+        "recency": 0.7961,
         "story_heat": 0.0
       },
       "category": "official",
@@ -473,7 +473,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-06T00:59:37.578187Z"
+        "scored_at": "2026-10-06T02:00:24.724336Z"
       }
     },
     {
@@ -521,15 +521,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7633,
-      "importance": 0.7633,
-      "importance_score": 0.7633,
+      "score": 0.7608,
+      "importance": 0.7608,
+      "importance_score": 0.7608,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.71,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.993,
+        "recency": 0.9787,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -555,7 +555,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-06T00:59:37.578187Z"
+        "scored_at": "2026-10-06T02:00:24.724336Z"
       }
     },
     {
@@ -603,15 +603,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7526,
-      "importance": 0.7526,
-      "importance_score": 0.7526,
+      "score": 0.7502,
+      "importance": 0.7502,
+      "importance_score": 0.7502,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.71,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9334,
+        "recency": 0.9201,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -637,7 +637,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-06T00:59:37.578187Z"
+        "scored_at": "2026-10-06T02:00:24.724336Z"
       }
     },
     {
@@ -685,15 +685,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7324,
-      "importance": 0.7324,
-      "importance_score": 0.7324,
+      "score": 0.7299,
+      "importance": 0.7299,
+      "importance_score": 0.7299,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.61,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9879,
+        "recency": 0.9737,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -718,7 +718,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-06T00:59:37.578187Z"
+        "scored_at": "2026-10-06T02:00:24.724336Z"
       }
     },
     {
@@ -794,15 +794,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.6238,
-      "importance": 0.6238,
-      "importance_score": 0.6238,
+      "score": 0.6213,
+      "importance": 0.6213,
+      "importance_score": 0.6213,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.5112,
         "source_tier": 0.58,
         "ai_relevance": 0.71,
-        "recency": 0.9768,
+        "recency": 0.9628,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -827,7 +827,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-06T00:59:37.578187Z"
+        "scored_at": "2026-10-06T02:00:24.724336Z"
       }
     },
     {
@@ -904,15 +904,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.6126,
-      "importance": 0.6126,
-      "importance_score": 0.6126,
+      "score": 0.6104,
+      "importance": 0.6104,
+      "importance_score": 0.6104,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.5328,
         "source_tier": 0.58,
         "ai_relevance": 0.74,
-        "recency": 0.8454,
+        "recency": 0.8333,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -937,7 +937,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-06T00:59:37.578187Z"
+        "scored_at": "2026-10-06T02:00:24.724336Z"
       }
     },
     {
@@ -1043,15 +1043,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5696,
-      "importance": 0.5696,
-      "importance_score": 0.5696,
+      "score": 0.567,
+      "importance": 0.567,
+      "importance_score": 0.567,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9934,
+        "recency": 0.9791,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1076,7 +1076,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-06T00:59:37.578187Z"
+        "scored_at": "2026-10-06T02:00:24.724336Z"
       }
     },
     {
@@ -1182,15 +1182,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5642,
-      "importance": 0.5642,
-      "importance_score": 0.5642,
+      "score": 0.5617,
+      "importance": 0.5617,
+      "importance_score": 0.5617,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9633,
+        "recency": 0.9495,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1215,7 +1215,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-06T00:59:37.578187Z"
+        "scored_at": "2026-10-06T02:00:24.724336Z"
       }
     },
     {
@@ -1321,15 +1321,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5517,
-      "importance": 0.5517,
-      "importance_score": 0.5517,
+      "score": 0.5494,
+      "importance": 0.5494,
+      "importance_score": 0.5494,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8936,
+        "recency": 0.8808,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1354,7 +1354,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-06T00:59:37.578187Z"
+        "scored_at": "2026-10-06T02:00:24.724336Z"
       }
     },
     {
@@ -1460,15 +1460,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5493,
-      "importance": 0.5493,
-      "importance_score": 0.5493,
+      "score": 0.5471,
+      "importance": 0.5471,
+      "importance_score": 0.5471,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8808,
+        "recency": 0.8682,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1493,7 +1493,117 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-06T00:59:37.578187Z"
+        "scored_at": "2026-10-06T02:00:24.724336Z"
+      }
+    },
+    {
+      "story_id": "story_4130ba1b9a2d",
+      "title": "AI Tutoring with Khanmigo in a Two-Year School Experiment",
+      "url": "https://news.ycombinator.com/item?id=49972419",
+      "primary_url": "https://news.ycombinator.com/item?id=49972419",
+      "source": "hackernews",
+      "source_name": "NewsNow",
+      "sources": [
+        {
+          "id": "524dc7139f27489f87eb2f98f304fb9e3e0e35d4",
+          "title": "AI Tutoring with Khanmigo in a Two-Year School Experiment",
+          "title_zh": null,
+          "title_en": "AI Tutoring with Khanmigo in a Two-Year School Experiment",
+          "title_original": "AI Tutoring with Khanmigo in a Two-Year School Experiment",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=49972419",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-10-06T00:00:45Z"
+        },
+        {
+          "id": "ba50e748d2535143754fb0271be5c10431b91c0e",
+          "title": "AI Tutoring with Khanmigo in a Two-Year School Experiment",
+          "title_zh": null,
+          "title_en": "AI Tutoring with Khanmigo in a Two-Year School Experiment",
+          "title_original": "AI Tutoring with Khanmigo in a Two-Year School Experiment",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://edworkingpapers.com/ai26-1551",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-10-06T00:00:45Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News · 24h最热",
+        "hackernews"
+      ],
+      "items": [
+        {
+          "id": "524dc7139f27489f87eb2f98f304fb9e3e0e35d4",
+          "title": "AI Tutoring with Khanmigo in a Two-Year School Experiment",
+          "title_zh": null,
+          "title_en": "AI Tutoring with Khanmigo in a Two-Year School Experiment",
+          "title_original": "AI Tutoring with Khanmigo in a Two-Year School Experiment",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=49972419",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-10-06T00:00:45Z"
+        },
+        {
+          "id": "ba50e748d2535143754fb0271be5c10431b91c0e",
+          "title": "AI Tutoring with Khanmigo in a Two-Year School Experiment",
+          "title_zh": null,
+          "title_en": "AI Tutoring with Khanmigo in a Two-Year School Experiment",
+          "title_original": "AI Tutoring with Khanmigo in a Two-Year School Experiment",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://edworkingpapers.com/ai26-1551",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-10-06T00:00:45Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5412,
+      "importance": 0.5412,
+      "importance_score": 0.5412,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9747,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-10-06T00:00:45Z",
+      "latest_at": "2026-10-06T00:00:45Z",
+      "primary_item": {
+        "id": "524dc7139f27489f87eb2f98f304fb9e3e0e35d4",
+        "title": "AI Tutoring with Khanmigo in a Two-Year School Experiment",
+        "title_zh": null,
+        "title_en": "AI Tutoring with Khanmigo in a Two-Year School Experiment",
+        "title_original": "AI Tutoring with Khanmigo in a Two-Year School Experiment",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://news.ycombinator.com/item?id=49972419",
+        "source": "hackernews",
+        "source_name": "NewsNow"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-10-06T02:00:24.724336Z"
       }
     },
     {
@@ -1570,15 +1680,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5368,
-      "importance": 0.5368,
-      "importance_score": 0.5368,
+      "score": 0.5344,
+      "importance": 0.5344,
+      "importance_score": 0.5344,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9502,
+        "recency": 0.9366,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1603,7 +1713,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-06T00:59:37.578187Z"
+        "scored_at": "2026-10-06T02:00:24.724336Z"
       }
     },
     {
@@ -1680,15 +1790,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5347,
-      "importance": 0.5347,
-      "importance_score": 0.5347,
+      "score": 0.5323,
+      "importance": 0.5323,
+      "importance_score": 0.5323,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9382,
+        "recency": 0.9248,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1713,117 +1823,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-06T00:59:37.578187Z"
-      }
-    },
-    {
-      "story_id": "story_8f7697047b31",
-      "title": "企业在人工智能上的支出几乎无法预算 / Spending on AI Is Becoming Almost Impossible for Businesses to Budget",
-      "url": "https://news.ycombinator.com/item?id=49964537",
-      "primary_url": "https://news.ycombinator.com/item?id=49964537",
-      "source": "hackernews",
-      "source_name": "NewsNow",
-      "sources": [
-        {
-          "id": "d1c7d5c5ad5b9565c338d373bc2beae153655f75",
-          "title": "企业在人工智能上的支出几乎无法预算 / Spending on AI Is Becoming Almost Impossible for Businesses to Budget",
-          "title_zh": "企业在人工智能上的支出几乎无法预算",
-          "title_en": "Spending on AI Is Becoming Almost Impossible for Businesses to Budget",
-          "title_original": "Spending on AI Is Becoming Almost Impossible for Businesses to Budget",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=49964537",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-10-05T13:22:31Z"
-        },
-        {
-          "id": "ed63dbcc60c78ade06c4870636f0dc71f15c073d",
-          "title": "企业几乎无法在人工智能上进行预算 / Spending on AI is becoming almost impossible for businesses to budget",
-          "title_zh": "企业几乎无法在人工智能上进行预算",
-          "title_en": "Spending on AI is becoming almost impossible for businesses to budget",
-          "title_original": "Spending on AI is becoming almost impossible for businesses to budget",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.wsj.com/tech/personal-tech/ai-token-spending-businesses-431ee94a",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-10-05T13:22:31Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News · 24h最热",
-        "hackernews"
-      ],
-      "items": [
-        {
-          "id": "d1c7d5c5ad5b9565c338d373bc2beae153655f75",
-          "title": "企业在人工智能上的支出几乎无法预算 / Spending on AI Is Becoming Almost Impossible for Businesses to Budget",
-          "title_zh": "企业在人工智能上的支出几乎无法预算",
-          "title_en": "Spending on AI Is Becoming Almost Impossible for Businesses to Budget",
-          "title_original": "Spending on AI Is Becoming Almost Impossible for Businesses to Budget",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=49964537",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-10-05T13:22:31Z"
-        },
-        {
-          "id": "ed63dbcc60c78ade06c4870636f0dc71f15c073d",
-          "title": "企业几乎无法在人工智能上进行预算 / Spending on AI is becoming almost impossible for businesses to budget",
-          "title_zh": "企业几乎无法在人工智能上进行预算",
-          "title_en": "Spending on AI is becoming almost impossible for businesses to budget",
-          "title_original": "Spending on AI is becoming almost impossible for businesses to budget",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.wsj.com/tech/personal-tech/ai-token-spending-businesses-431ee94a",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-10-05T13:22:31Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5184,
-      "importance": 0.5184,
-      "importance_score": 0.5184,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.848,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-10-05T13:22:31Z",
-      "latest_at": "2026-10-05T13:22:31Z",
-      "primary_item": {
-        "id": "d1c7d5c5ad5b9565c338d373bc2beae153655f75",
-        "title": "企业在人工智能上的支出几乎无法预算 / Spending on AI Is Becoming Almost Impossible for Businesses to Budget",
-        "title_zh": "企业在人工智能上的支出几乎无法预算",
-        "title_en": "Spending on AI Is Becoming Almost Impossible for Businesses to Budget",
-        "title_original": "Spending on AI Is Becoming Almost Impossible for Businesses to Budget",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://news.ycombinator.com/item?id=49964537",
-        "source": "hackernews",
-        "source_name": "NewsNow"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-10-06T00:59:37.578187Z"
+        "scored_at": "2026-10-06T02:00:24.724336Z"
       }
     },
     {
@@ -1899,15 +1899,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4984,
-      "importance": 0.4984,
-      "importance_score": 0.4984,
+      "score": 0.4965,
+      "importance": 0.4965,
+      "importance_score": 0.4965,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7365,
+        "recency": 0.7259,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1932,7 +1932,7 @@
       "persona_score": 0,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-06T00:59:37.578187Z"
+        "scored_at": "2026-10-06T02:00:24.724336Z"
       }
     },
     {
@@ -2009,15 +2009,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5225,
-      "importance": 0.5225,
-      "importance_score": 0.5225,
+      "score": 0.5203,
+      "importance": 0.5203,
+      "importance_score": 0.5203,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8706,
+        "recency": 0.8581,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -2042,44 +2042,44 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-06T00:59:37.578187Z"
+        "scored_at": "2026-10-06T02:00:24.724336Z"
       }
     },
     {
-      "story_id": "story_2f5f390cb6d5",
-      "title": "欧洲新的机器人独角兽：德国RobCo估值达到10亿美元 / Europe's new robotics unicorn: Germany's RobCo hits $1B valuation",
-      "url": "https://news.ycombinator.com/item?id=49963366",
-      "primary_url": "https://news.ycombinator.com/item?id=49963366",
+      "story_id": "story_8f7697047b31",
+      "title": "企业在人工智能上的支出几乎无法预算 / Spending on AI Is Becoming Almost Impossible for Businesses to Budget",
+      "url": "https://news.ycombinator.com/item?id=49964537",
+      "primary_url": "https://news.ycombinator.com/item?id=49964537",
       "source": "hackernews",
       "source_name": "NewsNow",
       "sources": [
         {
-          "id": "734f4d6c940895063ba652a764e19dd600662efb",
-          "title": "欧洲新的机器人独角兽：德国RobCo估值达到10亿美元 / Europe's new robotics unicorn: Germany's RobCo hits $1B valuation",
-          "title_zh": "欧洲新的机器人独角兽：德国RobCo估值达到10亿美元",
-          "title_en": "Europe's new robotics unicorn: Germany's RobCo hits $1B valuation",
-          "title_original": "Europe's new robotics unicorn: Germany's RobCo hits $1B valuation",
+          "id": "d1c7d5c5ad5b9565c338d373bc2beae153655f75",
+          "title": "企业在人工智能上的支出几乎无法预算 / Spending on AI Is Becoming Almost Impossible for Businesses to Budget",
+          "title_zh": "企业在人工智能上的支出几乎无法预算",
+          "title_en": "Spending on AI Is Becoming Almost Impossible for Businesses to Budget",
+          "title_original": "Spending on AI Is Becoming Almost Impossible for Businesses to Budget",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=49963366",
+          "url": "https://news.ycombinator.com/item?id=49964537",
           "source": "hackernews",
           "source_name": "NewsNow",
           "site_id": "newsnow",
-          "published_at": "2026-10-05T11:13:51Z"
+          "published_at": "2026-10-05T13:22:31Z"
         },
         {
-          "id": "a73d174f2954df4d28642abd3efd5303c8f0c346",
-          "title": "欧洲新的机器人独角兽：德国RobCo估值达到10亿美元 / Europe's new robotics unicorn: Germany's RobCo hits $1B valuation",
-          "title_zh": "欧洲新的机器人独角兽：德国RobCo估值达到10亿美元",
-          "title_en": "Europe's new robotics unicorn: Germany's RobCo hits $1B valuation",
-          "title_original": "Europe's new robotics unicorn: Germany's RobCo hits $1B valuation",
+          "id": "ed63dbcc60c78ade06c4870636f0dc71f15c073d",
+          "title": "企业几乎无法在人工智能上进行预算 / Spending on AI is becoming almost impossible for businesses to budget",
+          "title_zh": "企业几乎无法在人工智能上进行预算",
+          "title_en": "Spending on AI is becoming almost impossible for businesses to budget",
+          "title_original": "Spending on AI is becoming almost impossible for businesses to budget",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://techfundingnews.com/europes-new-robotics-unicorn-germanys-robco-hits-1b-valuation",
+          "url": "https://www.wsj.com/tech/personal-tech/ai-token-spending-businesses-431ee94a",
           "source": "Hacker News · 24h最热",
           "source_name": "Zeli",
           "site_id": "zeli",
-          "published_at": "2026-10-05T11:13:51Z"
+          "published_at": "2026-10-05T13:22:31Z"
         }
       ],
       "source_count": 2,
@@ -2089,62 +2089,62 @@
       ],
       "items": [
         {
-          "id": "734f4d6c940895063ba652a764e19dd600662efb",
-          "title": "欧洲新的机器人独角兽：德国RobCo估值达到10亿美元 / Europe's new robotics unicorn: Germany's RobCo hits $1B valuation",
-          "title_zh": "欧洲新的机器人独角兽：德国RobCo估值达到10亿美元",
-          "title_en": "Europe's new robotics unicorn: Germany's RobCo hits $1B valuation",
-          "title_original": "Europe's new robotics unicorn: Germany's RobCo hits $1B valuation",
+          "id": "d1c7d5c5ad5b9565c338d373bc2beae153655f75",
+          "title": "企业在人工智能上的支出几乎无法预算 / Spending on AI Is Becoming Almost Impossible for Businesses to Budget",
+          "title_zh": "企业在人工智能上的支出几乎无法预算",
+          "title_en": "Spending on AI Is Becoming Almost Impossible for Businesses to Budget",
+          "title_original": "Spending on AI Is Becoming Almost Impossible for Businesses to Budget",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=49963366",
+          "url": "https://news.ycombinator.com/item?id=49964537",
           "source": "hackernews",
           "source_name": "NewsNow",
           "site_id": "newsnow",
-          "published_at": "2026-10-05T11:13:51Z"
+          "published_at": "2026-10-05T13:22:31Z"
         },
         {
-          "id": "a73d174f2954df4d28642abd3efd5303c8f0c346",
-          "title": "欧洲新的机器人独角兽：德国RobCo估值达到10亿美元 / Europe's new robotics unicorn: Germany's RobCo hits $1B valuation",
-          "title_zh": "欧洲新的机器人独角兽：德国RobCo估值达到10亿美元",
-          "title_en": "Europe's new robotics unicorn: Germany's RobCo hits $1B valuation",
-          "title_original": "Europe's new robotics unicorn: Germany's RobCo hits $1B valuation",
+          "id": "ed63dbcc60c78ade06c4870636f0dc71f15c073d",
+          "title": "企业几乎无法在人工智能上进行预算 / Spending on AI is becoming almost impossible for businesses to budget",
+          "title_zh": "企业几乎无法在人工智能上进行预算",
+          "title_en": "Spending on AI is becoming almost impossible for businesses to budget",
+          "title_original": "Spending on AI is becoming almost impossible for businesses to budget",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://techfundingnews.com/europes-new-robotics-unicorn-germanys-robco-hits-1b-valuation",
+          "url": "https://www.wsj.com/tech/personal-tech/ai-token-spending-businesses-431ee94a",
           "source": "Hacker News · 24h最热",
           "source_name": "Zeli",
           "site_id": "zeli",
-          "published_at": "2026-10-05T11:13:51Z"
+          "published_at": "2026-10-05T13:22:31Z"
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5138,
-      "importance": 0.5138,
-      "importance_score": 0.5138,
+      "score": 0.5163,
+      "importance": 0.5163,
+      "importance_score": 0.5163,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8222,
+        "recency": 0.8359,
         "story_heat": 0.25
       },
       "category": "watch",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-10-05T11:13:51Z",
-      "latest_at": "2026-10-05T11:13:51Z",
+      "earliest_at": "2026-10-05T13:22:31Z",
+      "latest_at": "2026-10-05T13:22:31Z",
       "primary_item": {
-        "id": "734f4d6c940895063ba652a764e19dd600662efb",
-        "title": "欧洲新的机器人独角兽：德国RobCo估值达到10亿美元 / Europe's new robotics unicorn: Germany's RobCo hits $1B valuation",
-        "title_zh": "欧洲新的机器人独角兽：德国RobCo估值达到10亿美元",
-        "title_en": "Europe's new robotics unicorn: Germany's RobCo hits $1B valuation",
-        "title_original": "Europe's new robotics unicorn: Germany's RobCo hits $1B valuation",
+        "id": "d1c7d5c5ad5b9565c338d373bc2beae153655f75",
+        "title": "企业在人工智能上的支出几乎无法预算 / Spending on AI Is Becoming Almost Impossible for Businesses to Budget",
+        "title_zh": "企业在人工智能上的支出几乎无法预算",
+        "title_en": "Spending on AI Is Becoming Almost Impossible for Businesses to Budget",
+        "title_original": "Spending on AI Is Becoming Almost Impossible for Businesses to Budget",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://news.ycombinator.com/item?id=49963366",
+        "url": "https://news.ycombinator.com/item?id=49964537",
         "source": "hackernews",
         "source_name": "NewsNow"
       },
@@ -2152,7 +2152,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-06T00:59:37.578187Z"
+        "scored_at": "2026-10-06T02:00:24.724336Z"
       }
     }
   ]
