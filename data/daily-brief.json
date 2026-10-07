@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-07T05:47:27.032762Z",
+  "generated_at": "2026-10-07T06:47:22.283889Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -48,15 +48,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8369,
-      "importance": 0.8369,
-      "importance_score": 0.8369,
+      "score": 0.8345,
+      "importance": 0.8345,
+      "importance_score": 0.8345,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.916,
+        "recency": 0.9029,
         "story_heat": 0.0
       },
       "category": "official",
@@ -83,7 +83,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-07T05:48:16.167898Z"
+        "scored_at": "2026-10-07T06:48:25.211483Z"
       }
     },
     {
@@ -160,15 +160,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.8362,
-      "importance": 0.8362,
-      "importance_score": 0.8362,
+      "score": 0.8342,
+      "importance": 0.8342,
+      "importance_score": 0.8342,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.7734,
+        "recency": 0.7624,
         "story_heat": 0.25
       },
       "category": "official",
@@ -196,7 +196,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-07T05:48:16.167898Z"
+        "scored_at": "2026-10-07T06:48:25.211483Z"
       }
     },
     {
@@ -244,15 +244,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8202,
-      "importance": 0.8202,
-      "importance_score": 0.8202,
+      "score": 0.8179,
+      "importance": 0.8179,
+      "importance_score": 0.8179,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.8675,
+        "recency": 0.8551,
         "story_heat": 0.0
       },
       "category": "official",
@@ -279,90 +279,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-07T05:48:16.167898Z"
-      }
-    },
-    {
-      "story_id": "story_2f21e7c25d8c",
-      "title": "猎鹰阿联酋：当LLM学习方言、文化和细微差别时 / Falcon-Emirati: When an LLM Learns the Dialect, the Culture, and the Nuance",
-      "url": "https://huggingface.co/blog/tiiuae/falcon-emirati",
-      "primary_url": "https://huggingface.co/blog/tiiuae/falcon-emirati",
-      "source": "Hugging Face Blog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "03f053f578c9bfdad44131e1587b66ce636bcc64",
-          "title": "猎鹰阿联酋：当LLM学习方言、文化和细微差别时 / Falcon-Emirati: When an LLM Learns the Dialect, the Culture, and the Nuance",
-          "title_zh": "猎鹰阿联酋：当LLM学习方言、文化和细微差别时",
-          "title_en": "Falcon-Emirati: When an LLM Learns the Dialect, the Culture, and the Nuance",
-          "title_original": "Falcon-Emirati: When an LLM Learns the Dialect, the Culture, and the Nuance",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://huggingface.co/blog/tiiuae/falcon-emirati",
-          "source": "Hugging Face Blog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-10-06T06:44:39Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Hugging Face Blog"
-      ],
-      "items": [
-        {
-          "id": "03f053f578c9bfdad44131e1587b66ce636bcc64",
-          "title": "猎鹰阿联酋：当LLM学习方言、文化和细微差别时 / Falcon-Emirati: When an LLM Learns the Dialect, the Culture, and the Nuance",
-          "title_zh": "猎鹰阿联酋：当LLM学习方言、文化和细微差别时",
-          "title_en": "Falcon-Emirati: When an LLM Learns the Dialect, the Culture, and the Nuance",
-          "title_original": "Falcon-Emirati: When an LLM Learns the Dialect, the Culture, and the Nuance",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://huggingface.co/blog/tiiuae/falcon-emirati",
-          "source": "Hugging Face Blog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-10-06T06:44:39Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.817,
-      "importance": 0.817,
-      "importance_score": 0.817,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.99,
-        "recency": 0.7169,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-10-06T06:44:39Z",
-      "latest_at": "2026-10-06T06:44:39Z",
-      "primary_item": {
-        "id": "03f053f578c9bfdad44131e1587b66ce636bcc64",
-        "title": "猎鹰阿联酋：当LLM学习方言、文化和细微差别时 / Falcon-Emirati: When an LLM Learns the Dialect, the Culture, and the Nuance",
-        "title_zh": "猎鹰阿联酋：当LLM学习方言、文化和细微差别时",
-        "title_en": "Falcon-Emirati: When an LLM Learns the Dialect, the Culture, and the Nuance",
-        "title_original": "Falcon-Emirati: When an LLM Learns the Dialect, the Culture, and the Nuance",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://huggingface.co/blog/tiiuae/falcon-emirati",
-        "source": "Hugging Face Blog",
-        "source_name": "Official AI Updates"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-10-07T05:48:16.167898Z"
+        "scored_at": "2026-10-07T06:48:25.211483Z"
       }
     },
     {
@@ -410,15 +327,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8209,
-      "importance": 0.8209,
-      "importance_score": 0.8209,
+      "score": 0.8187,
+      "importance": 0.8187,
+      "importance_score": 0.8187,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.8716,
+        "recency": 0.8592,
         "story_heat": 0.0
       },
       "category": "official",
@@ -445,7 +362,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-07T05:48:16.167898Z"
+        "scored_at": "2026-10-07T06:48:25.211483Z"
       }
     },
     {
@@ -493,15 +410,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8195,
-      "importance": 0.8195,
-      "importance_score": 0.8195,
+      "score": 0.8174,
+      "importance": 0.8174,
+      "importance_score": 0.8174,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.8194,
+        "recency": 0.8077,
         "story_heat": 0.0
       },
       "category": "official",
@@ -528,7 +445,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-07T05:48:16.167898Z"
+        "scored_at": "2026-10-07T06:48:25.211483Z"
       }
     },
     {
@@ -576,15 +493,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7786,
-      "importance": 0.7786,
-      "importance_score": 0.7786,
+      "score": 0.7764,
+      "importance": 0.7764,
+      "importance_score": 0.7764,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.84,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8611,
+        "recency": 0.8488,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -610,7 +527,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-07T05:48:16.167898Z"
+        "scored_at": "2026-10-07T06:48:25.211483Z"
       }
     },
     {
@@ -687,15 +604,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7697,
-      "importance": 0.7697,
-      "importance_score": 0.7697,
+      "score": 0.7677,
+      "importance": 0.7677,
+      "importance_score": 0.7677,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.77,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7896,
+        "recency": 0.7783,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -722,7 +639,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-07T05:48:16.167898Z"
+        "scored_at": "2026-10-07T06:48:25.211483Z"
       }
     },
     {
@@ -770,15 +687,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7684,
-      "importance": 0.7684,
-      "importance_score": 0.7684,
+      "score": 0.7662,
+      "importance": 0.7662,
+      "importance_score": 0.7662,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.82,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8378,
+        "recency": 0.8258,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -804,7 +721,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-07T05:48:16.167898Z"
+        "scored_at": "2026-10-07T06:48:25.211483Z"
       }
     },
     {
@@ -852,15 +769,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8192,
-      "importance": 0.8192,
-      "importance_score": 0.8192,
+      "score": 0.8172,
+      "importance": 0.8172,
+      "importance_score": 0.8172,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.7734,
+        "recency": 0.7624,
         "story_heat": 0.0
       },
       "category": "official",
@@ -887,7 +804,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-07T05:48:16.167898Z"
+        "scored_at": "2026-10-07T06:48:25.211483Z"
       }
     },
     {
@@ -935,15 +852,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7568,
-      "importance": 0.7568,
-      "importance_score": 0.7568,
+      "score": 0.7548,
+      "importance": 0.7548,
+      "importance_score": 0.7548,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.82,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7734,
+        "recency": 0.7624,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -969,7 +886,89 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-07T05:48:16.167898Z"
+        "scored_at": "2026-10-07T06:48:25.211483Z"
+      }
+    },
+    {
+      "story_id": "story_0f2de19abf40",
+      "title": "Mistral Large 4 进入 Code Arena: WebDev 排名第45，得分1534 / Mistral Large 4 by @MistralAI just landed in the Code Arena: WebDev at #45. With 1534 pts, this is a +304 pt improvement from Mistral Lar...",
+      "url": "https://x.com/arena/status/2107717155374727602",
+      "primary_url": "https://x.com/arena/status/2107717155374727602",
+      "source": "X：Arena (@arena)",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "98a54ceab16397206eb29f21fd3ba89a3afaad15",
+          "title": "Mistral Large 4 进入 Code Arena: WebDev 排名第45，得分1534 / Mistral Large 4 by @MistralAI just landed in the Code Arena: WebDev at #45. With 1534 pts, this is a +304 pt improvement from Mistral Lar...",
+          "title_zh": "Mistral Large 4 进入 Code Arena: WebDev 排名第45，得分1534",
+          "title_en": "Mistral Large 4 by @MistralAI just landed in the Code Arena: WebDev at #45. With 1534 pts, this is a +304 pt improvement from Mistral Lar...",
+          "title_original": "Mistral Large 4 by @MistralAI just landed in the Code Arena: WebDev at #45. With 1534 pts, this is a +304 pt improvement from Mistral Lar...",
+          "summary": "Arena 宣布 Mistral Large 4 登陆 Code Arena: WebDev，以 1534 分排名第 45，比 Mistral Large 3（第130名）高 304 分，比 Mistral Medium 3.5 高 271 分。",
+          "recommend_reason_zh": null,
+          "url": "https://x.com/arena/status/2107717155374727602",
+          "source": "X：Arena (@arena)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-07T06:18:23Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "X：Arena (@arena)"
+      ],
+      "items": [
+        {
+          "id": "98a54ceab16397206eb29f21fd3ba89a3afaad15",
+          "title": "Mistral Large 4 进入 Code Arena: WebDev 排名第45，得分1534 / Mistral Large 4 by @MistralAI just landed in the Code Arena: WebDev at #45. With 1534 pts, this is a +304 pt improvement from Mistral Lar...",
+          "title_zh": "Mistral Large 4 进入 Code Arena: WebDev 排名第45，得分1534",
+          "title_en": "Mistral Large 4 by @MistralAI just landed in the Code Arena: WebDev at #45. With 1534 pts, this is a +304 pt improvement from Mistral Lar...",
+          "title_original": "Mistral Large 4 by @MistralAI just landed in the Code Arena: WebDev at #45. With 1534 pts, this is a +304 pt improvement from Mistral Lar...",
+          "summary": "Arena 宣布 Mistral Large 4 登陆 Code Arena: WebDev，以 1534 分排名第 45，比 Mistral Large 3（第130名）高 304 分，比 Mistral Medium 3.5 高 271 分。",
+          "recommend_reason_zh": null,
+          "url": "https://x.com/arena/status/2107717155374727602",
+          "source": "X：Arena (@arena)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-07T06:18:23Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7543,
+      "importance": 0.7543,
+      "importance_score": 0.7543,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.68,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.993,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-10-07T06:18:23Z",
+      "latest_at": "2026-10-07T06:18:23Z",
+      "primary_item": {
+        "id": "98a54ceab16397206eb29f21fd3ba89a3afaad15",
+        "title": "Mistral Large 4 进入 Code Arena: WebDev 排名第45，得分1534 / Mistral Large 4 by @MistralAI just landed in the Code Arena: WebDev at #45. With 1534 pts, this is a +304 pt improvement from Mistral Lar...",
+        "title_zh": "Mistral Large 4 进入 Code Arena: WebDev 排名第45，得分1534",
+        "title_en": "Mistral Large 4 by @MistralAI just landed in the Code Arena: WebDev at #45. With 1534 pts, this is a +304 pt improvement from Mistral Lar...",
+        "title_original": "Mistral Large 4 by @MistralAI just landed in the Code Arena: WebDev at #45. With 1534 pts, this is a +304 pt improvement from Mistral Lar...",
+        "summary": "Arena 宣布 Mistral Large 4 登陆 Code Arena: WebDev，以 1534 分排名第 45，比 Mistral Large 3（第130名）高 304 分，比 Mistral Medium 3.5 高 271 分。",
+        "recommend_reason_zh": null,
+        "url": "https://x.com/arena/status/2107717155374727602",
+        "source": "X：Arena (@arena)",
+        "source_name": "AI HOT"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-10-07T06:48:25.211483Z"
       }
     },
     {
@@ -1017,15 +1016,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7492,
-      "importance": 0.7492,
-      "importance_score": 0.7492,
+      "score": 0.7469,
+      "importance": 0.7469,
+      "importance_score": 0.7469,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8979,
+        "recency": 0.885,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1050,7 +1049,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-07T05:48:16.167898Z"
+        "scored_at": "2026-10-07T06:48:25.211483Z"
       }
     },
     {
@@ -1098,15 +1097,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8,
-      "importance": 0.8,
-      "importance_score": 0.8,
+      "score": 0.7981,
+      "importance": 0.7981,
+      "importance_score": 0.7981,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.7557,
+        "recency": 0.7449,
         "story_heat": 0.0
       },
       "category": "official",
@@ -1133,88 +1132,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-07T05:48:16.167898Z"
-      }
-    },
-    {
-      "story_id": "story_ddb0edeec9f2",
-      "title": "消息称 DeepSeek 接近完成至少 800 亿元融资，腾讯、宁德时代重金参与",
-      "url": "https://www.ithome.com/1/009/990.htm",
-      "primary_url": "https://www.ithome.com/1/009/990.htm",
-      "source": "IT之家（RSS）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "59e9dae79a50a0d38aa18f7cb7d8590f95b9cdf8",
-          "title": "消息称 DeepSeek 接近完成至少 800 亿元融资，腾讯、宁德时代重金参与",
-          "title_zh": "消息称 DeepSeek 接近完成至少 800 亿元融资，腾讯、宁德时代重金参与",
-          "title_en": null,
-          "title_original": "消息称 DeepSeek 接近完成至少 800 亿元融资，腾讯、宁德时代重金参与",
-          "summary": "据彭博社报道，DeepSeek 新一轮融资接近敲定，规模至少 800 亿元，超出原定约 500 亿元目标，最终总额可能逼近 1000 亿元，腾讯和宁德时代是出资规模最大的投资方之一。",
-          "recommend_reason_zh": null,
-          "url": "https://www.ithome.com/1/009/990.htm",
-          "source": "IT之家（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-06T06:25:15Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "IT之家（RSS）"
-      ],
-      "items": [
-        {
-          "id": "59e9dae79a50a0d38aa18f7cb7d8590f95b9cdf8",
-          "title": "消息称 DeepSeek 接近完成至少 800 亿元融资，腾讯、宁德时代重金参与",
-          "title_zh": "消息称 DeepSeek 接近完成至少 800 亿元融资，腾讯、宁德时代重金参与",
-          "title_en": null,
-          "title_original": "消息称 DeepSeek 接近完成至少 800 亿元融资，腾讯、宁德时代重金参与",
-          "summary": "据彭博社报道，DeepSeek 新一轮融资接近敲定，规模至少 800 亿元，超出原定约 500 亿元目标，最终总额可能逼近 1000 亿元，腾讯和宁德时代是出资规模最大的投资方之一。",
-          "recommend_reason_zh": null,
-          "url": "https://www.ithome.com/1/009/990.htm",
-          "source": "IT之家（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-06T06:25:15Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.74,
-      "importance": 0.74,
-      "importance_score": 0.74,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.8,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7136,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-10-06T06:25:15Z",
-      "latest_at": "2026-10-06T06:25:15Z",
-      "primary_item": {
-        "id": "59e9dae79a50a0d38aa18f7cb7d8590f95b9cdf8",
-        "title": "消息称 DeepSeek 接近完成至少 800 亿元融资，腾讯、宁德时代重金参与",
-        "title_zh": "消息称 DeepSeek 接近完成至少 800 亿元融资，腾讯、宁德时代重金参与",
-        "title_en": null,
-        "title_original": "消息称 DeepSeek 接近完成至少 800 亿元融资，腾讯、宁德时代重金参与",
-        "summary": "据彭博社报道，DeepSeek 新一轮融资接近敲定，规模至少 800 亿元，超出原定约 500 亿元目标，最终总额可能逼近 1000 亿元，腾讯和宁德时代是出资规模最大的投资方之一。",
-        "recommend_reason_zh": null,
-        "url": "https://www.ithome.com/1/009/990.htm",
-        "source": "IT之家（RSS）",
-        "source_name": "AI HOT"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-10-07T05:48:16.167898Z"
+        "scored_at": "2026-10-07T06:48:25.211483Z"
       }
     },
     {
@@ -1262,15 +1180,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7322,
-      "importance": 0.7322,
-      "importance_score": 0.7322,
+      "score": 0.73,
+      "importance": 0.73,
+      "importance_score": 0.73,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.7,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8364,
+        "recency": 0.8244,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1295,7 +1213,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-07T05:48:16.167898Z"
+        "scored_at": "2026-10-07T06:48:25.211483Z"
       }
     },
     {
@@ -1343,15 +1261,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7313,
-      "importance": 0.7313,
-      "importance_score": 0.7313,
+      "score": 0.7292,
+      "importance": 0.7292,
+      "importance_score": 0.7292,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.7,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8319,
+        "recency": 0.82,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1376,7 +1294,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-07T05:48:16.167898Z"
+        "scored_at": "2026-10-07T06:48:25.211483Z"
       }
     },
     {
@@ -1424,15 +1342,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7311,
-      "importance": 0.7311,
-      "importance_score": 0.7311,
+      "score": 0.7288,
+      "importance": 0.7288,
+      "importance_score": 0.7288,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.67,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8803,
+        "recency": 0.8677,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1457,7 +1375,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-07T05:48:16.167898Z"
+        "scored_at": "2026-10-07T06:48:25.211483Z"
       }
     },
     {
@@ -1505,15 +1423,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.728,
-      "importance": 0.728,
-      "importance_score": 0.728,
+      "score": 0.7259,
+      "importance": 0.7259,
+      "importance_score": 0.7259,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.71,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7966,
+        "recency": 0.7852,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1538,7 +1456,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-07T05:48:16.167898Z"
+        "scored_at": "2026-10-07T06:48:25.211483Z"
       }
     },
     {
@@ -1586,15 +1504,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7231,
-      "importance": 0.7231,
-      "importance_score": 0.7231,
+      "score": 0.721,
+      "importance": 0.721,
+      "importance_score": 0.721,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.7,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7859,
+        "recency": 0.7746,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1619,7 +1537,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-07T05:48:16.167898Z"
+        "scored_at": "2026-10-07T06:48:25.211483Z"
       }
     },
     {
@@ -1667,15 +1585,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8073,
-      "importance": 0.8073,
-      "importance_score": 0.8073,
+      "score": 0.8053,
+      "importance": 0.8053,
+      "importance_score": 0.8053,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.7514,
+        "recency": 0.7407,
         "story_heat": 0.0
       },
       "category": "official",
@@ -1702,7 +1620,117 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-07T05:48:16.167898Z"
+        "scored_at": "2026-10-07T06:48:25.211483Z"
+      }
+    },
+    {
+      "story_id": "story_806d4d2fd204",
+      "title": "LibreOffice 称“无人工智能”现已成为一项软件功能 / LibreOffice says ‘no AI’ is now a software feature",
+      "url": "https://techcrunch.com/2026/10/06/libreoffice-says-no-ai-is-now-a-software-feature",
+      "primary_url": "https://techcrunch.com/2026/10/06/libreoffice-says-no-ai-is-now-a-software-feature",
+      "source": "TechCrunch AI",
+      "source_name": "Curated Media",
+      "sources": [
+        {
+          "id": "476e6b2de47c3ca196f15a5ee3c4d8c835d0fbea",
+          "title": "LibreOffice 称“无人工智能”现已成为一项软件功能 / LibreOffice says ‘no AI’ is now a software feature",
+          "title_zh": "LibreOffice 称“无人工智能”现已成为一项软件功能",
+          "title_en": "LibreOffice says ‘no AI’ is now a software feature",
+          "title_original": "LibreOffice says ‘no AI’ is now a software feature",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://techcrunch.com/2026/10/06/libreoffice-says-no-ai-is-now-a-software-feature",
+          "source": "TechCrunch AI",
+          "source_name": "Curated Media",
+          "site_id": "curated_media",
+          "published_at": "2026-10-06T15:25:00Z"
+        },
+        {
+          "id": "04042a191b2faf900e3cde9dd7325262638f7c38",
+          "title": "LibreOffice 称“无人工智能”现已成为一项软件功能 / LibreOffice says 'no AI' is now a software feature",
+          "title_zh": "LibreOffice 称“无人工智能”现已成为一项软件功能",
+          "title_en": "LibreOffice says 'no AI' is now a software feature",
+          "title_original": "LibreOffice says 'no AI' is now a software feature",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://techcrunch.com/2026/10/06/libreoffice-says-no-ai-is-now-a-software-feature",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-10-06T16:40:58Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News · 24h最热",
+        "TechCrunch AI"
+      ],
+      "items": [
+        {
+          "id": "476e6b2de47c3ca196f15a5ee3c4d8c835d0fbea",
+          "title": "LibreOffice 称“无人工智能”现已成为一项软件功能 / LibreOffice says ‘no AI’ is now a software feature",
+          "title_zh": "LibreOffice 称“无人工智能”现已成为一项软件功能",
+          "title_en": "LibreOffice says ‘no AI’ is now a software feature",
+          "title_original": "LibreOffice says ‘no AI’ is now a software feature",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://techcrunch.com/2026/10/06/libreoffice-says-no-ai-is-now-a-software-feature",
+          "source": "TechCrunch AI",
+          "source_name": "Curated Media",
+          "site_id": "curated_media",
+          "published_at": "2026-10-06T15:25:00Z"
+        },
+        {
+          "id": "04042a191b2faf900e3cde9dd7325262638f7c38",
+          "title": "LibreOffice 称“无人工智能”现已成为一项软件功能 / LibreOffice says 'no AI' is now a software feature",
+          "title_zh": "LibreOffice 称“无人工智能”现已成为一项软件功能",
+          "title_en": "LibreOffice says 'no AI' is now a software feature",
+          "title_original": "LibreOffice says 'no AI' is now a software feature",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://techcrunch.com/2026/10/06/libreoffice-says-no-ai-is-now-a-software-feature",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-10-06T16:40:58Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.6129,
+      "importance": 0.6129,
+      "importance_score": 0.6129,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.5472,
+        "source_tier": 0.58,
+        "ai_relevance": 0.76,
+        "recency": 0.8009,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-10-06T15:25:00Z",
+      "latest_at": "2026-10-06T16:40:58Z",
+      "primary_item": {
+        "id": "476e6b2de47c3ca196f15a5ee3c4d8c835d0fbea",
+        "title": "LibreOffice 称“无人工智能”现已成为一项软件功能 / LibreOffice says ‘no AI’ is now a software feature",
+        "title_zh": "LibreOffice 称“无人工智能”现已成为一项软件功能",
+        "title_en": "LibreOffice says ‘no AI’ is now a software feature",
+        "title_original": "LibreOffice says ‘no AI’ is now a software feature",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://techcrunch.com/2026/10/06/libreoffice-says-no-ai-is-now-a-software-feature",
+        "source": "TechCrunch AI",
+        "source_name": "Curated Media"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-10-07T06:48:25.211483Z"
       }
     }
   ]
