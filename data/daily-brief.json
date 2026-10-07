@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-10-07T12:47:27.911087Z",
+  "generated_at": "2026-10-07T13:47:19.598064Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
     {
       "story_id": "story_856527284047",
-      "title": "一个模型系列，两项黄金级成果：针对 IOI 和 IMO 微调 Nemotron / One Model Family, Two Gold-Level Results: Fine-Tuning Nemotron for IOI and IMO",
+      "title": "Nemotron 系列微调后达到 IOI 2026 与 IMO 2026 金牌水平 / One Model Family, Two Gold-Level Results: Fine-Tuning Nemotron for IOI and IMO",
       "url": "https://huggingface.co/blog/nvidia/nemotron-ioi-and-imo-2026",
       "primary_url": "https://huggingface.co/blog/nvidia/nemotron-ioi-and-imo-2026",
       "source": "Hugging Face Blog",
@@ -13,8 +13,8 @@
       "sources": [
         {
           "id": "d9cda66c440e460d39f69205bed1c9ae08d814f0",
-          "title": "一个模型系列，两项黄金级成果：针对 IOI 和 IMO 微调 Nemotron / One Model Family, Two Gold-Level Results: Fine-Tuning Nemotron for IOI and IMO",
-          "title_zh": "一个模型系列，两项黄金级成果：针对 IOI 和 IMO 微调 Nemotron",
+          "title": "Nemotron 系列微调后达到 IOI 2026 与 IMO 2026 金牌水平 / One Model Family, Two Gold-Level Results: Fine-Tuning Nemotron for IOI and IMO",
+          "title_zh": "Nemotron 系列微调后达到 IOI 2026 与 IMO 2026 金牌水平",
           "title_en": "One Model Family, Two Gold-Level Results: Fine-Tuning Nemotron for IOI and IMO",
           "title_original": "One Model Family, Two Gold-Level Results: Fine-Tuning Nemotron for IOI and IMO",
           "summary": null,
@@ -33,8 +33,8 @@
       "items": [
         {
           "id": "d9cda66c440e460d39f69205bed1c9ae08d814f0",
-          "title": "一个模型系列，两项黄金级成果：针对 IOI 和 IMO 微调 Nemotron / One Model Family, Two Gold-Level Results: Fine-Tuning Nemotron for IOI and IMO",
-          "title_zh": "一个模型系列，两项黄金级成果：针对 IOI 和 IMO 微调 Nemotron",
+          "title": "Nemotron 系列微调后达到 IOI 2026 与 IMO 2026 金牌水平 / One Model Family, Two Gold-Level Results: Fine-Tuning Nemotron for IOI and IMO",
+          "title_zh": "Nemotron 系列微调后达到 IOI 2026 与 IMO 2026 金牌水平",
           "title_en": "One Model Family, Two Gold-Level Results: Fine-Tuning Nemotron for IOI and IMO",
           "title_original": "One Model Family, Two Gold-Level Results: Fine-Tuning Nemotron for IOI and IMO",
           "summary": null,
@@ -48,15 +48,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8599,
-      "importance": 0.8599,
-      "importance_score": 0.8599,
+      "score": 0.8573,
+      "importance": 0.8573,
+      "importance_score": 0.8573,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.9995,
+        "recency": 0.9852,
         "story_heat": 0.0
       },
       "category": "official",
@@ -69,8 +69,8 @@
       "latest_at": "2026-10-07T12:45:31Z",
       "primary_item": {
         "id": "d9cda66c440e460d39f69205bed1c9ae08d814f0",
-        "title": "一个模型系列，两项黄金级成果：针对 IOI 和 IMO 微调 Nemotron / One Model Family, Two Gold-Level Results: Fine-Tuning Nemotron for IOI and IMO",
-        "title_zh": "一个模型系列，两项黄金级成果：针对 IOI 和 IMO 微调 Nemotron",
+        "title": "Nemotron 系列微调后达到 IOI 2026 与 IMO 2026 金牌水平 / One Model Family, Two Gold-Level Results: Fine-Tuning Nemotron for IOI and IMO",
+        "title_zh": "Nemotron 系列微调后达到 IOI 2026 与 IMO 2026 金牌水平",
         "title_en": "One Model Family, Two Gold-Level Results: Fine-Tuning Nemotron for IOI and IMO",
         "title_original": "One Model Family, Two Gold-Level Results: Fine-Tuning Nemotron for IOI and IMO",
         "summary": null,
@@ -83,7 +83,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-07T12:48:22.014355Z"
+        "scored_at": "2026-10-07T13:48:11.589475Z"
       }
     },
     {
@@ -131,15 +131,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.842,
-      "importance": 0.842,
-      "importance_score": 0.842,
+      "score": 0.8394,
+      "importance": 0.8394,
+      "importance_score": 0.8394,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.9886,
+        "recency": 0.9745,
         "story_heat": 0.0
       },
       "category": "official",
@@ -166,7 +166,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-07T12:48:22.014355Z"
+        "scored_at": "2026-10-07T13:48:11.589475Z"
       }
     },
     {
@@ -214,15 +214,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8396,
-      "importance": 0.8396,
-      "importance_score": 0.8396,
+      "score": 0.8375,
+      "importance": 0.8375,
+      "importance_score": 0.8375,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 1.0,
-        "recency": 0.8313,
+        "recency": 0.8195,
         "story_heat": 0.0
       },
       "category": "official",
@@ -249,7 +249,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-07T12:48:22.014355Z"
+        "scored_at": "2026-10-07T13:48:11.589475Z"
       }
     },
     {
@@ -355,15 +355,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.8305,
-      "importance": 0.8305,
-      "importance_score": 0.8305,
+      "score": 0.8284,
+      "importance": 0.8284,
+      "importance_score": 0.8284,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.71,
         "source_tier": 1.0,
         "ai_relevance": 1.0,
-        "recency": 0.8197,
+        "recency": 0.8079,
         "story_heat": 0.5
       },
       "category": "official",
@@ -390,7 +390,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-07T12:48:22.014355Z"
+        "scored_at": "2026-10-07T13:48:11.589475Z"
       }
     },
     {
@@ -438,15 +438,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.821,
-      "importance": 0.821,
-      "importance_score": 0.821,
+      "score": 0.8189,
+      "importance": 0.8189,
+      "importance_score": 0.8189,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.828,
+        "recency": 0.8161,
         "story_heat": 0.0
       },
       "category": "official",
@@ -473,7 +473,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-07T12:48:22.014355Z"
+        "scored_at": "2026-10-07T13:48:11.589475Z"
       }
     },
     {
@@ -521,15 +521,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8053,
-      "importance": 0.8053,
-      "importance_score": 0.8053,
+      "score": 0.8034,
+      "importance": 0.8034,
+      "importance_score": 0.8034,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.7406,
+        "recency": 0.73,
         "story_heat": 0.0
       },
       "category": "official",
@@ -556,7 +556,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-07T12:48:22.014355Z"
+        "scored_at": "2026-10-07T13:48:11.589475Z"
       }
     },
     {
@@ -604,15 +604,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8051,
-      "importance": 0.8051,
-      "importance_score": 0.8051,
+      "score": 0.8031,
+      "importance": 0.8031,
+      "importance_score": 0.8031,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.7841,
+        "recency": 0.7729,
         "story_heat": 0.0
       },
       "category": "official",
@@ -639,7 +639,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-07T12:48:22.014355Z"
+        "scored_at": "2026-10-07T13:48:11.589475Z"
       }
     },
     {
@@ -687,15 +687,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8058,
-      "importance": 0.8058,
-      "importance_score": 0.8058,
+      "score": 0.8038,
+      "importance": 0.8038,
+      "importance_score": 0.8038,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.7878,
+        "recency": 0.7766,
         "story_heat": 0.0
       },
       "category": "official",
@@ -722,7 +722,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-07T12:48:22.014355Z"
+        "scored_at": "2026-10-07T13:48:11.589475Z"
       }
     },
     {
@@ -770,15 +770,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7637,
-      "importance": 0.7637,
-      "importance_score": 0.7637,
+      "score": 0.7617,
+      "importance": 0.7617,
+      "importance_score": 0.7617,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.84,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7783,
+        "recency": 0.7672,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -804,119 +804,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-07T12:48:22.014355Z"
-      }
-    },
-    {
-      "story_id": "story_19005dd16bea",
-      "title": "Mistral 发布 Large 4 公开预览版，1 万亿参数将开放权重 / Mistral Large 4: \"Le Chonk\"",
-      "url": "https://mistral.ai/news/mistral-large-4",
-      "primary_url": "https://mistral.ai/news/mistral-large-4",
-      "source": "Hacker News：AI 热帖",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "6c25b6630b5c4256ac31216f468f913d6b760714",
-          "title": "Mistral 发布 Large 4 公开预览版，1 万亿参数将开放权重 / Mistral Large 4: \"Le Chonk\"",
-          "title_zh": "Mistral 发布 Large 4 公开预览版，1 万亿参数将开放权重",
-          "title_en": "Mistral Large 4: \"Le Chonk\"",
-          "title_original": "Mistral Large 4: \"Le Chonk\"",
-          "summary": "Mistral 发布 Mistral Large 4（代号 le Chonk）公开预览版，为 1 万亿参数、490 亿激活参数的原生多模态模型，可试用于 Mistral Studio，权重将于本月底开放。",
-          "recommend_reason_zh": null,
-          "url": "https://mistral.ai/news/mistral-large-4",
-          "source": "Hacker News：AI 热帖",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-06T13:25:50Z"
-        },
-        {
-          "id": "ba946f5e6f5310fd7ec7e7cc0db1471f401f243f",
-          "title": "Mistral 发布 Large 4 公开预览版，1 万亿参数将开放权重 / Mistral Large 4：“Le Chonk”",
-          "title_zh": "Mistral 发布 Large 4 公开预览版，1 万亿参数将开放权重",
-          "title_en": "Mistral Large 4：“Le Chonk”",
-          "title_original": "Mistral Large 4：“Le Chonk”",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://mistral.ai/news/mistral-large-4",
-          "source": "mistral.ai",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-10-06T14:19:10.507000Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News：AI 热帖",
-        "mistral.ai"
-      ],
-      "items": [
-        {
-          "id": "6c25b6630b5c4256ac31216f468f913d6b760714",
-          "title": "Mistral 发布 Large 4 公开预览版，1 万亿参数将开放权重 / Mistral Large 4: \"Le Chonk\"",
-          "title_zh": "Mistral 发布 Large 4 公开预览版，1 万亿参数将开放权重",
-          "title_en": "Mistral Large 4: \"Le Chonk\"",
-          "title_original": "Mistral Large 4: \"Le Chonk\"",
-          "summary": "Mistral 发布 Mistral Large 4（代号 le Chonk）公开预览版，为 1 万亿参数、490 亿激活参数的原生多模态模型，可试用于 Mistral Studio，权重将于本月底开放。",
-          "recommend_reason_zh": null,
-          "url": "https://mistral.ai/news/mistral-large-4",
-          "source": "Hacker News：AI 热帖",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-06T13:25:50Z"
-        },
-        {
-          "id": "ba946f5e6f5310fd7ec7e7cc0db1471f401f243f",
-          "title": "Mistral 发布 Large 4 公开预览版，1 万亿参数将开放权重 / Mistral Large 4：“Le Chonk”",
-          "title_zh": "Mistral 发布 Large 4 公开预览版，1 万亿参数将开放权重",
-          "title_en": "Mistral Large 4：“Le Chonk”",
-          "title_original": "Mistral Large 4：“Le Chonk”",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://mistral.ai/news/mistral-large-4",
-          "source": "mistral.ai",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-10-06T14:19:10.507000Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.7561,
-      "importance": 0.7561,
-      "importance_score": 0.7561,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.77,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7137,
-        "story_heat": 0.25
-      },
-      "category": "industry",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-10-06T13:25:50Z",
-      "latest_at": "2026-10-06T14:19:10.507000Z",
-      "primary_item": {
-        "id": "6c25b6630b5c4256ac31216f468f913d6b760714",
-        "title": "Mistral 发布 Large 4 公开预览版，1 万亿参数将开放权重 / Mistral Large 4: \"Le Chonk\"",
-        "title_zh": "Mistral 发布 Large 4 公开预览版，1 万亿参数将开放权重",
-        "title_en": "Mistral Large 4: \"Le Chonk\"",
-        "title_original": "Mistral Large 4: \"Le Chonk\"",
-        "summary": "Mistral 发布 Mistral Large 4（代号 le Chonk）公开预览版，为 1 万亿参数、490 亿激活参数的原生多模态模型，可试用于 Mistral Studio，权重将于本月底开放。",
-        "recommend_reason_zh": null,
-        "url": "https://mistral.ai/news/mistral-large-4",
-        "source": "Hacker News：AI 热帖",
-        "source_name": "AI HOT"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-10-07T12:48:22.014355Z"
+        "scored_at": "2026-10-07T13:48:11.589475Z"
       }
     },
     {
@@ -964,15 +852,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7539,
-      "importance": 0.7539,
-      "importance_score": 0.7539,
+      "score": 0.752,
+      "importance": 0.752,
+      "importance_score": 0.752,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.82,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7572,
+        "recency": 0.7464,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -998,7 +886,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-07T12:48:22.014355Z"
+        "scored_at": "2026-10-07T13:48:11.589475Z"
       }
     },
     {
@@ -1046,15 +934,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7395,
-      "importance": 0.7395,
-      "importance_score": 0.7395,
+      "score": 0.7372,
+      "importance": 0.7372,
+      "importance_score": 0.7372,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.68,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9106,
+        "recency": 0.8976,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1079,7 +967,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-07T12:48:22.014355Z"
+        "scored_at": "2026-10-07T13:48:11.589475Z"
       }
     },
     {
@@ -1127,15 +1015,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7337,
-      "importance": 0.7337,
-      "importance_score": 0.7337,
+      "score": 0.7316,
+      "importance": 0.7316,
+      "importance_score": 0.7316,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8115,
+        "recency": 0.7999,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1160,7 +1048,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-07T12:48:22.014355Z"
+        "scored_at": "2026-10-07T13:48:11.589475Z"
       }
     },
     {
@@ -1237,15 +1125,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.601,
-      "importance": 0.601,
-      "importance_score": 0.601,
+      "score": 0.5991,
+      "importance": 0.5991,
+      "importance_score": 0.5991,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.5472,
         "source_tier": 0.58,
         "ai_relevance": 0.76,
-        "recency": 0.7344,
+        "recency": 0.7239,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1270,146 +1158,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-07T12:48:22.014355Z"
-      }
-    },
-    {
-      "story_id": "story_dc2cc145bf8f",
-      "title": "Erdosproblems.com 难敌人工智能的猛攻",
-      "url": "https://www.erdosproblems.com/forum/thread/blog:9",
-      "primary_url": "https://www.erdosproblems.com/forum/thread/blog:9",
-      "source": "www.erdosproblems.com",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "2ab60b9f427bfd62f143facdbb386807c7c1fe57",
-          "title": "Erdosproblems.com 难敌人工智能的猛攻",
-          "title_zh": "Erdosproblems.com 难敌人工智能的猛攻",
-          "title_en": null,
-          "title_original": "Erdosproblems.com 难敌人工智能的猛攻",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.erdosproblems.com/forum/thread/blog:9",
-          "source": "www.erdosproblems.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-10-07T07:26:00.436000Z"
-        },
-        {
-          "id": "b4583ae5ea2f87b762ed259d4873e4e3faf186ed",
-          "title": "Erdosproblems.com 难敌人工智能的猛攻 / Erdosproblems.com Succumbs to the AI Onslaught",
-          "title_zh": "Erdosproblems.com 难敌人工智能的猛攻",
-          "title_en": "Erdosproblems.com Succumbs to the AI Onslaught",
-          "title_original": "Erdosproblems.com Succumbs to the AI Onslaught",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.erdosproblems.com/forum/thread/blog:9",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-10-06T12:53:58Z"
-        },
-        {
-          "id": "ebb58990df77031c3411dcf4cd4c7744e101ef3a",
-          "title": "Erdosproblems.com 屈服于人工智能的攻击 / Erdosproblems.com Succumbs to the AI Onslaught",
-          "title_zh": "Erdosproblems.com 屈服于人工智能的攻击",
-          "title_en": "Erdosproblems.com Succumbs to the AI Onslaught",
-          "title_original": "Erdosproblems.com Succumbs to the AI Onslaught",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=49977689",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-10-06T12:53:58Z"
-        }
-      ],
-      "source_count": 3,
-      "source_names": [
-        "Hacker News · 24h最热",
-        "hackernews",
-        "www.erdosproblems.com"
-      ],
-      "items": [
-        {
-          "id": "2ab60b9f427bfd62f143facdbb386807c7c1fe57",
-          "title": "Erdosproblems.com 难敌人工智能的猛攻",
-          "title_zh": "Erdosproblems.com 难敌人工智能的猛攻",
-          "title_en": null,
-          "title_original": "Erdosproblems.com 难敌人工智能的猛攻",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.erdosproblems.com/forum/thread/blog:9",
-          "source": "www.erdosproblems.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-10-07T07:26:00.436000Z"
-        },
-        {
-          "id": "b4583ae5ea2f87b762ed259d4873e4e3faf186ed",
-          "title": "Erdosproblems.com 难敌人工智能的猛攻 / Erdosproblems.com Succumbs to the AI Onslaught",
-          "title_zh": "Erdosproblems.com 难敌人工智能的猛攻",
-          "title_en": "Erdosproblems.com Succumbs to the AI Onslaught",
-          "title_original": "Erdosproblems.com Succumbs to the AI Onslaught",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.erdosproblems.com/forum/thread/blog:9",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-10-06T12:53:58Z"
-        },
-        {
-          "id": "ebb58990df77031c3411dcf4cd4c7744e101ef3a",
-          "title": "Erdosproblems.com 屈服于人工智能的攻击 / Erdosproblems.com Succumbs to the AI Onslaught",
-          "title_zh": "Erdosproblems.com 屈服于人工智能的攻击",
-          "title_en": "Erdosproblems.com Succumbs to the AI Onslaught",
-          "title_original": "Erdosproblems.com Succumbs to the AI Onslaught",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=49977689",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-10-06T12:53:58Z"
-        }
-      ],
-      "item_count": 3,
-      "duplicate_count": 3,
-      "score": 0.5574,
-      "importance": 0.5574,
-      "importance_score": 0.5574,
-      "importance_label": "多源热议",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.9255,
-        "story_heat": 0.5
-      },
-      "category": "multi_source",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-10-06T12:53:58Z",
-      "latest_at": "2026-10-07T07:26:00.436000Z",
-      "primary_item": {
-        "id": "2ab60b9f427bfd62f143facdbb386807c7c1fe57",
-        "title": "Erdosproblems.com 难敌人工智能的猛攻",
-        "title_zh": "Erdosproblems.com 难敌人工智能的猛攻",
-        "title_en": null,
-        "title_original": "Erdosproblems.com 难敌人工智能的猛攻",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://www.erdosproblems.com/forum/thread/blog:9",
-        "source": "www.erdosproblems.com",
-        "source_name": "Buzzing"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-10-07T12:48:22.014355Z"
+        "scored_at": "2026-10-07T13:48:11.589475Z"
       }
     },
     {
@@ -1543,15 +1292,15 @@
       ],
       "item_count": 4,
       "duplicate_count": 4,
-      "score": 0.5531,
-      "importance": 0.5531,
-      "importance_score": 0.5531,
+      "score": 0.5511,
+      "importance": 0.5511,
+      "importance_score": 0.5511,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7627,
+        "recency": 0.7517,
         "story_heat": 0.75
       },
       "category": "multi_source",
@@ -1576,7 +1325,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-07T12:48:22.014355Z"
+        "scored_at": "2026-10-07T13:48:11.589475Z"
       }
     },
     {
@@ -1682,15 +1431,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5506,
-      "importance": 0.5506,
-      "importance_score": 0.5506,
+      "score": 0.5483,
+      "importance": 0.5483,
+      "importance_score": 0.5483,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8878,
+        "recency": 0.8751,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1715,7 +1464,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-07T12:48:22.014355Z"
+        "scored_at": "2026-10-07T13:48:11.589475Z"
       }
     },
     {
@@ -1821,15 +1570,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5493,
-      "importance": 0.5493,
-      "importance_score": 0.5493,
+      "score": 0.5471,
+      "importance": 0.5471,
+      "importance_score": 0.5471,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8808,
+        "recency": 0.8682,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1854,7 +1603,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-07T12:48:22.014355Z"
+        "scored_at": "2026-10-07T13:48:11.589475Z"
       }
     },
     {
@@ -1960,15 +1709,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5482,
-      "importance": 0.5482,
-      "importance_score": 0.5482,
+      "score": 0.5459,
+      "importance": 0.5459,
+      "importance_score": 0.5459,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8744,
+        "recency": 0.8619,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1993,7 +1742,117 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-07T12:48:22.014355Z"
+        "scored_at": "2026-10-07T13:48:11.589475Z"
+      }
+    },
+    {
+      "story_id": "story_1fecbcee2c8e",
+      "title": "像 1866 年一样写作：LLM重新学习电报语 / Write Like It's 1866: LLMs Relearn Telegraphese",
+      "url": "https://news.ycombinator.com/item?id=49991580",
+      "primary_url": "https://news.ycombinator.com/item?id=49991580",
+      "source": "hackernews",
+      "source_name": "NewsNow",
+      "sources": [
+        {
+          "id": "116436c2d524d67fcea0ffee6e1bf5ada49774c0",
+          "title": "像 1866 年一样写作：LLM重新学习电报语 / Write Like It's 1866: LLMs Relearn Telegraphese",
+          "title_zh": "像 1866 年一样写作：LLM重新学习电报语",
+          "title_en": "Write Like It's 1866: LLMs Relearn Telegraphese",
+          "title_original": "Write Like It's 1866: LLMs Relearn Telegraphese",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=49991580",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-10-07T12:04:36Z"
+        },
+        {
+          "id": "4de0abdc730abbd3a2aa8255b4fd2b007039c02c",
+          "title": "像 1866 年一样写作：LLM重新学习电报语 / Write Like It's 1866: LLMs Relearn Telegraphese",
+          "title_zh": "像 1866 年一样写作：LLM重新学习电报语",
+          "title_en": "Write Like It's 1866: LLMs Relearn Telegraphese",
+          "title_original": "Write Like It's 1866: LLMs Relearn Telegraphese",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://fiveminutesforward.com/post/2026-10-04-telegraph-test",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-10-07T12:04:36Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News · 24h最热",
+        "hackernews"
+      ],
+      "items": [
+        {
+          "id": "116436c2d524d67fcea0ffee6e1bf5ada49774c0",
+          "title": "像 1866 年一样写作：LLM重新学习电报语 / Write Like It's 1866: LLMs Relearn Telegraphese",
+          "title_zh": "像 1866 年一样写作：LLM重新学习电报语",
+          "title_en": "Write Like It's 1866: LLMs Relearn Telegraphese",
+          "title_original": "Write Like It's 1866: LLMs Relearn Telegraphese",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=49991580",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-10-07T12:04:36Z"
+        },
+        {
+          "id": "4de0abdc730abbd3a2aa8255b4fd2b007039c02c",
+          "title": "像 1866 年一样写作：LLM重新学习电报语 / Write Like It's 1866: LLMs Relearn Telegraphese",
+          "title_zh": "像 1866 年一样写作：LLM重新学习电报语",
+          "title_en": "Write Like It's 1866: LLMs Relearn Telegraphese",
+          "title_original": "Write Like It's 1866: LLMs Relearn Telegraphese",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://fiveminutesforward.com/post/2026-10-04-telegraph-test",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-10-07T12:04:36Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5414,
+      "importance": 0.5414,
+      "importance_score": 0.5414,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9756,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-10-07T12:04:36Z",
+      "latest_at": "2026-10-07T12:04:36Z",
+      "primary_item": {
+        "id": "116436c2d524d67fcea0ffee6e1bf5ada49774c0",
+        "title": "像 1866 年一样写作：LLM重新学习电报语 / Write Like It's 1866: LLMs Relearn Telegraphese",
+        "title_zh": "像 1866 年一样写作：LLM重新学习电报语",
+        "title_en": "Write Like It's 1866: LLMs Relearn Telegraphese",
+        "title_original": "Write Like It's 1866: LLMs Relearn Telegraphese",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://news.ycombinator.com/item?id=49991580",
+        "source": "hackernews",
+        "source_name": "NewsNow"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-10-07T13:48:11.589475Z"
       }
     },
     {
@@ -2099,15 +1958,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.528,
-      "importance": 0.528,
-      "importance_score": 0.528,
+      "score": 0.5261,
+      "importance": 0.5261,
+      "importance_score": 0.5261,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7625,
+        "recency": 0.7515,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -2132,7 +1991,117 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-07T12:48:22.014355Z"
+        "scored_at": "2026-10-07T13:48:11.589475Z"
+      }
+    },
+    {
+      "story_id": "story_20180e64f056",
+      "title": "Decisions API 已进入公开测试阶段",
+      "url": "https://developers.openai.com/api/docs/guides/decisions",
+      "primary_url": "https://developers.openai.com/api/docs/guides/decisions",
+      "source": "developers.openai.com",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "9d17a498c21d855deed5021f5008204aca912cc5",
+          "title": "Decisions API 已进入公开测试阶段",
+          "title_zh": "Decisions API 已进入公开测试阶段",
+          "title_en": null,
+          "title_original": "Decisions API 已进入公开测试阶段",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://developers.openai.com/api/docs/guides/decisions",
+          "source": "developers.openai.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-10-07T00:03:31.762000Z"
+        },
+        {
+          "id": "5245d1df10641e432e30a36eb4f7abb07515b378",
+          "title": "Decisions API 已进入公开测试阶段 / Decisions API is in public beta",
+          "title_zh": "Decisions API 已进入公开测试阶段",
+          "title_en": "Decisions API is in public beta",
+          "title_original": "Decisions API is in public beta",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://developers.openai.com/api/docs/guides/decisions",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-10-06T20:57:25Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News · 24h最热",
+        "developers.openai.com"
+      ],
+      "items": [
+        {
+          "id": "9d17a498c21d855deed5021f5008204aca912cc5",
+          "title": "Decisions API 已进入公开测试阶段",
+          "title_zh": "Decisions API 已进入公开测试阶段",
+          "title_en": null,
+          "title_original": "Decisions API 已进入公开测试阶段",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://developers.openai.com/api/docs/guides/decisions",
+          "source": "developers.openai.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-10-07T00:03:31.762000Z"
+        },
+        {
+          "id": "5245d1df10641e432e30a36eb4f7abb07515b378",
+          "title": "Decisions API 已进入公开测试阶段 / Decisions API is in public beta",
+          "title_zh": "Decisions API 已进入公开测试阶段",
+          "title_en": "Decisions API is in public beta",
+          "title_original": "Decisions API is in public beta",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://developers.openai.com/api/docs/guides/decisions",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-10-06T20:57:25Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5134,
+      "importance": 0.5134,
+      "importance_score": 0.5134,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.8201,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-10-06T20:57:25Z",
+      "latest_at": "2026-10-07T00:03:31.762000Z",
+      "primary_item": {
+        "id": "9d17a498c21d855deed5021f5008204aca912cc5",
+        "title": "Decisions API 已进入公开测试阶段",
+        "title_zh": "Decisions API 已进入公开测试阶段",
+        "title_en": null,
+        "title_original": "Decisions API 已进入公开测试阶段",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://developers.openai.com/api/docs/guides/decisions",
+        "source": "developers.openai.com",
+        "source_name": "Buzzing"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-10-07T13:48:11.589475Z"
       }
     }
   ]
