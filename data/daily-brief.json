@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-07T14:47:19.424147Z",
+  "generated_at": "2026-10-07T15:47:23.260974Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -48,15 +48,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8548,
-      "importance": 0.8548,
-      "importance_score": 0.8548,
+      "score": 0.8523,
+      "importance": 0.8523,
+      "importance_score": 0.8523,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.9711,
+        "recency": 0.9572,
         "story_heat": 0.0
       },
       "category": "official",
@@ -83,7 +83,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-07T14:48:07.739831Z"
+        "scored_at": "2026-10-07T15:48:10.271265Z"
       }
     },
     {
@@ -131,15 +131,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8369,
-      "importance": 0.8369,
-      "importance_score": 0.8369,
+      "score": 0.8344,
+      "importance": 0.8344,
+      "importance_score": 0.8344,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.9605,
+        "recency": 0.9467,
         "story_heat": 0.0
       },
       "category": "official",
@@ -166,7 +166,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-07T14:48:07.739831Z"
+        "scored_at": "2026-10-07T15:48:10.271265Z"
       }
     },
     {
@@ -214,15 +214,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8354,
-      "importance": 0.8354,
-      "importance_score": 0.8354,
+      "score": 0.8333,
+      "importance": 0.8333,
+      "importance_score": 0.8333,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 1.0,
-        "recency": 0.8077,
+        "recency": 0.7961,
         "story_heat": 0.0
       },
       "category": "official",
@@ -249,7 +249,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-07T14:48:07.739831Z"
+        "scored_at": "2026-10-07T15:48:10.271265Z"
       }
     },
     {
@@ -355,15 +355,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.8263,
-      "importance": 0.8263,
-      "importance_score": 0.8263,
+      "score": 0.8243,
+      "importance": 0.8243,
+      "importance_score": 0.8243,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.71,
         "source_tier": 1.0,
         "ai_relevance": 1.0,
-        "recency": 0.7963,
+        "recency": 0.7849,
         "story_heat": 0.5
       },
       "category": "official",
@@ -390,7 +390,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-07T14:48:07.739831Z"
+        "scored_at": "2026-10-07T15:48:10.271265Z"
       }
     },
     {
@@ -438,15 +438,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8168,
-      "importance": 0.8168,
-      "importance_score": 0.8168,
+      "score": 0.8147,
+      "importance": 0.8147,
+      "importance_score": 0.8147,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.8044,
+        "recency": 0.7929,
         "story_heat": 0.0
       },
       "category": "official",
@@ -473,7 +473,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-07T14:48:07.739831Z"
+        "scored_at": "2026-10-07T15:48:10.271265Z"
       }
     },
     {
@@ -521,15 +521,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8015,
-      "importance": 0.8015,
-      "importance_score": 0.8015,
+      "score": 0.7997,
+      "importance": 0.7997,
+      "importance_score": 0.7997,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.7196,
+        "recency": 0.7093,
         "story_heat": 0.0
       },
       "category": "official",
@@ -556,7 +556,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-07T14:48:07.739831Z"
+        "scored_at": "2026-10-07T15:48:10.271265Z"
       }
     },
     {
@@ -604,15 +604,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8011,
-      "importance": 0.8011,
-      "importance_score": 0.8011,
+      "score": 0.7992,
+      "importance": 0.7992,
+      "importance_score": 0.7992,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.7618,
+        "recency": 0.7509,
         "story_heat": 0.0
       },
       "category": "official",
@@ -639,7 +639,89 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-07T14:48:07.739831Z"
+        "scored_at": "2026-10-07T15:48:10.271265Z"
+      }
+    },
+    {
+      "story_id": "story_e7c3293152eb",
+      "title": "亚利桑那州法院裁定 AI 生成受害者视频带有不当情感分量 将重新量刑 / 'Undue emotional weight'",
+      "url": "https://www.404media.co/undue-emotional-weight",
+      "primary_url": "https://www.404media.co/undue-emotional-weight",
+      "source": "404 Media（RSS）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "03ecaddb9ea7906c1f5f4c067391fc1423327117",
+          "title": "亚利桑那州法院裁定 AI 生成受害者视频带有不当情感分量 将重新量刑 / 'Undue emotional weight'",
+          "title_zh": "亚利桑那州法院裁定 AI 生成受害者视频带有不当情感分量 将重新量刑",
+          "title_en": "'Undue emotional weight'",
+          "title_original": "'Undue emotional weight'",
+          "summary": "亚利桑那州上诉法院裁定，Gabriel Horcasitas 2021 年路怒枪杀 Christopher Pelkey 一案维持过失杀人定罪，但因量刑听证中播放的 AI 生成受害者视频带有不当情感分量，法官须重新考虑刑期。",
+          "recommend_reason_zh": null,
+          "url": "https://www.404media.co/undue-emotional-weight",
+          "source": "404 Media（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-07T14:46:15Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "404 Media（RSS）"
+      ],
+      "items": [
+        {
+          "id": "03ecaddb9ea7906c1f5f4c067391fc1423327117",
+          "title": "亚利桑那州法院裁定 AI 生成受害者视频带有不当情感分量 将重新量刑 / 'Undue emotional weight'",
+          "title_zh": "亚利桑那州法院裁定 AI 生成受害者视频带有不当情感分量 将重新量刑",
+          "title_en": "'Undue emotional weight'",
+          "title_original": "'Undue emotional weight'",
+          "summary": "亚利桑那州上诉法院裁定，Gabriel Horcasitas 2021 年路怒枪杀 Christopher Pelkey 一案维持过失杀人定罪，但因量刑听证中播放的 AI 生成受害者视频带有不当情感分量，法官须重新考虑刑期。",
+          "recommend_reason_zh": null,
+          "url": "https://www.404media.co/undue-emotional-weight",
+          "source": "404 Media（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-07T14:46:15Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.783,
+      "importance": 0.783,
+      "importance_score": 0.783,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.78,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9854,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-10-07T14:46:15Z",
+      "latest_at": "2026-10-07T14:46:15Z",
+      "primary_item": {
+        "id": "03ecaddb9ea7906c1f5f4c067391fc1423327117",
+        "title": "亚利桑那州法院裁定 AI 生成受害者视频带有不当情感分量 将重新量刑 / 'Undue emotional weight'",
+        "title_zh": "亚利桑那州法院裁定 AI 生成受害者视频带有不当情感分量 将重新量刑",
+        "title_en": "'Undue emotional weight'",
+        "title_original": "'Undue emotional weight'",
+        "summary": "亚利桑那州上诉法院裁定，Gabriel Horcasitas 2021 年路怒枪杀 Christopher Pelkey 一案维持过失杀人定罪，但因量刑听证中播放的 AI 生成受害者视频带有不当情感分量，法官须重新考虑刑期。",
+        "recommend_reason_zh": null,
+        "url": "https://www.404media.co/undue-emotional-weight",
+        "source": "404 Media（RSS）",
+        "source_name": "AI HOT"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-10-07T15:48:10.271265Z"
       }
     },
     {
@@ -687,15 +769,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8018,
-      "importance": 0.8018,
-      "importance_score": 0.8018,
+      "score": 0.7998,
+      "importance": 0.7998,
+      "importance_score": 0.7998,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.7654,
+        "recency": 0.7545,
         "story_heat": 0.0
       },
       "category": "official",
@@ -722,7 +804,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-07T14:48:07.739831Z"
+        "scored_at": "2026-10-07T15:48:10.271265Z"
       }
     },
     {
@@ -770,15 +852,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7686,
-      "importance": 0.7686,
-      "importance_score": 0.7686,
+      "score": 0.7661,
+      "importance": 0.7661,
+      "importance_score": 0.7661,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.73,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9891,
+        "recency": 0.9749,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -804,89 +886,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-07T14:48:07.739831Z"
-      }
-    },
-    {
-      "story_id": "story_0366a3557ad7",
-      "title": "亚利桑那州法院裁定AI生成受害者视频带有不当情感分量，凶手须重新量刑 / Her AI-Generated Video Swayed the Judge. The Court Said it Carried 'Undue Emotional Weight'",
-      "url": "https://www.404media.co/her-ai-generated-video-swayed-the-judge-the-court-said-it-carried-undue-emotional-weight",
-      "primary_url": "https://www.404media.co/her-ai-generated-video-swayed-the-judge-the-court-said-it-carried-undue-emotional-weight",
-      "source": "404 Media（RSS）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "6d37fe2fb1db87f8e31fd7ae89bc86b0e459e4ac",
-          "title": "亚利桑那州法院裁定AI生成受害者视频带有不当情感分量，凶手须重新量刑 / Her AI-Generated Video Swayed the Judge. The Court Said it Carried 'Undue Emotional Weight'",
-          "title_zh": "亚利桑那州法院裁定AI生成受害者视频带有不当情感分量，凶手须重新量刑",
-          "title_en": "Her AI-Generated Video Swayed the Judge. The Court Said it Carried 'Undue Emotional Weight'",
-          "title_original": "Her AI-Generated Video Swayed the Judge. The Court Said it Carried 'Undue Emotional Weight'",
-          "summary": "亚利桑那州上诉法院裁定，Gabriel Horcasitas过失杀人案量刑中使用的受害者Christopher Pelkey AI生成视频带有不当情感重量，罪名维持但刑期须重新考虑。",
-          "recommend_reason_zh": null,
-          "url": "https://www.404media.co/her-ai-generated-video-swayed-the-judge-the-court-said-it-carried-undue-emotional-weight",
-          "source": "404 Media（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-06T19:26:09Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "404 Media（RSS）"
-      ],
-      "items": [
-        {
-          "id": "6d37fe2fb1db87f8e31fd7ae89bc86b0e459e4ac",
-          "title": "亚利桑那州法院裁定AI生成受害者视频带有不当情感分量，凶手须重新量刑 / Her AI-Generated Video Swayed the Judge. The Court Said it Carried 'Undue Emotional Weight'",
-          "title_zh": "亚利桑那州法院裁定AI生成受害者视频带有不当情感分量，凶手须重新量刑",
-          "title_en": "Her AI-Generated Video Swayed the Judge. The Court Said it Carried 'Undue Emotional Weight'",
-          "title_original": "Her AI-Generated Video Swayed the Judge. The Court Said it Carried 'Undue Emotional Weight'",
-          "summary": "亚利桑那州上诉法院裁定，Gabriel Horcasitas过失杀人案量刑中使用的受害者Christopher Pelkey AI生成视频带有不当情感重量，罪名维持但刑期须重新考虑。",
-          "recommend_reason_zh": null,
-          "url": "https://www.404media.co/her-ai-generated-video-swayed-the-judge-the-court-said-it-carried-undue-emotional-weight",
-          "source": "404 Media（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-06T19:26:09Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7597,
-      "importance": 0.7597,
-      "importance_score": 0.7597,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.84,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7562,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-10-06T19:26:09Z",
-      "latest_at": "2026-10-06T19:26:09Z",
-      "primary_item": {
-        "id": "6d37fe2fb1db87f8e31fd7ae89bc86b0e459e4ac",
-        "title": "亚利桑那州法院裁定AI生成受害者视频带有不当情感分量，凶手须重新量刑 / Her AI-Generated Video Swayed the Judge. The Court Said it Carried 'Undue Emotional Weight'",
-        "title_zh": "亚利桑那州法院裁定AI生成受害者视频带有不当情感分量，凶手须重新量刑",
-        "title_en": "Her AI-Generated Video Swayed the Judge. The Court Said it Carried 'Undue Emotional Weight'",
-        "title_original": "Her AI-Generated Video Swayed the Judge. The Court Said it Carried 'Undue Emotional Weight'",
-        "summary": "亚利桑那州上诉法院裁定，Gabriel Horcasitas过失杀人案量刑中使用的受害者Christopher Pelkey AI生成视频带有不当情感重量，罪名维持但刑期须重新考虑。",
-        "recommend_reason_zh": null,
-        "url": "https://www.404media.co/her-ai-generated-video-swayed-the-judge-the-court-said-it-carried-undue-emotional-weight",
-        "source": "404 Media（RSS）",
-        "source_name": "AI HOT"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-10-07T14:48:07.739831Z"
+        "scored_at": "2026-10-07T15:48:10.271265Z"
       }
     },
     {
@@ -934,15 +934,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7541,
-      "importance": 0.7541,
-      "importance_score": 0.7541,
+      "score": 0.7515,
+      "importance": 0.7515,
+      "importance_score": 0.7515,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.68,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9916,
+        "recency": 0.9774,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -968,7 +968,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-07T14:48:07.739831Z"
+        "scored_at": "2026-10-07T15:48:10.271265Z"
       }
     },
     {
@@ -1016,21 +1016,20 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.75,
-      "importance": 0.75,
-      "importance_score": 0.75,
+      "score": 0.7481,
+      "importance": 0.7481,
+      "importance_score": 0.7481,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.82,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7357,
+        "recency": 0.7252,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-10-06T17:32:05Z",
       "latest_at": "2026-10-06T17:32:05Z",
@@ -1050,7 +1049,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-07T14:48:07.739831Z"
+        "scored_at": "2026-10-07T15:48:10.271265Z"
       }
     },
     {
@@ -1098,15 +1097,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7348,
-      "importance": 0.7348,
-      "importance_score": 0.7348,
+      "score": 0.7326,
+      "importance": 0.7326,
+      "importance_score": 0.7326,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.68,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8847,
+        "recency": 0.872,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1131,7 +1130,89 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-07T14:48:07.739831Z"
+        "scored_at": "2026-10-07T15:48:10.271265Z"
+      }
+    },
+    {
+      "story_id": "story_0366a3557ad7",
+      "title": "亚利桑那州法院裁定AI生成受害者视频带有不当情感分量，凶手须重新量刑 / Her AI-Generated Video Swayed the Judge. The Court Said it Carried 'Undue Emotional Weight'",
+      "url": "https://www.404media.co/her-ai-generated-video-swayed-the-judge-the-court-said-it-carried-undue-emotional-weight",
+      "primary_url": "https://www.404media.co/her-ai-generated-video-swayed-the-judge-the-court-said-it-carried-undue-emotional-weight",
+      "source": "404 Media（RSS）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "6d37fe2fb1db87f8e31fd7ae89bc86b0e459e4ac",
+          "title": "亚利桑那州法院裁定AI生成受害者视频带有不当情感分量，凶手须重新量刑 / Her AI-Generated Video Swayed the Judge. The Court Said it Carried 'Undue Emotional Weight'",
+          "title_zh": "亚利桑那州法院裁定AI生成受害者视频带有不当情感分量，凶手须重新量刑",
+          "title_en": "Her AI-Generated Video Swayed the Judge. The Court Said it Carried 'Undue Emotional Weight'",
+          "title_original": "Her AI-Generated Video Swayed the Judge. The Court Said it Carried 'Undue Emotional Weight'",
+          "summary": "亚利桑那州上诉法院裁定，Gabriel Horcasitas过失杀人案量刑中使用的受害者Christopher Pelkey AI生成视频带有不当情感重量，罪名维持但刑期须重新考虑。",
+          "recommend_reason_zh": null,
+          "url": "https://www.404media.co/her-ai-generated-video-swayed-the-judge-the-court-said-it-carried-undue-emotional-weight",
+          "source": "404 Media（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-06T19:26:09Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "404 Media（RSS）"
+      ],
+      "items": [
+        {
+          "id": "6d37fe2fb1db87f8e31fd7ae89bc86b0e459e4ac",
+          "title": "亚利桑那州法院裁定AI生成受害者视频带有不当情感分量，凶手须重新量刑 / Her AI-Generated Video Swayed the Judge. The Court Said it Carried 'Undue Emotional Weight'",
+          "title_zh": "亚利桑那州法院裁定AI生成受害者视频带有不当情感分量，凶手须重新量刑",
+          "title_en": "Her AI-Generated Video Swayed the Judge. The Court Said it Carried 'Undue Emotional Weight'",
+          "title_original": "Her AI-Generated Video Swayed the Judge. The Court Said it Carried 'Undue Emotional Weight'",
+          "summary": "亚利桑那州上诉法院裁定，Gabriel Horcasitas过失杀人案量刑中使用的受害者Christopher Pelkey AI生成视频带有不当情感重量，罪名维持但刑期须重新考虑。",
+          "recommend_reason_zh": null,
+          "url": "https://www.404media.co/her-ai-generated-video-swayed-the-judge-the-court-said-it-carried-undue-emotional-weight",
+          "source": "404 Media（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-06T19:26:09Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7578,
+      "importance": 0.7578,
+      "importance_score": 0.7578,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.84,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.7453,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-10-06T19:26:09Z",
+      "latest_at": "2026-10-06T19:26:09Z",
+      "primary_item": {
+        "id": "6d37fe2fb1db87f8e31fd7ae89bc86b0e459e4ac",
+        "title": "亚利桑那州法院裁定AI生成受害者视频带有不当情感分量，凶手须重新量刑 / Her AI-Generated Video Swayed the Judge. The Court Said it Carried 'Undue Emotional Weight'",
+        "title_zh": "亚利桑那州法院裁定AI生成受害者视频带有不当情感分量，凶手须重新量刑",
+        "title_en": "Her AI-Generated Video Swayed the Judge. The Court Said it Carried 'Undue Emotional Weight'",
+        "title_original": "Her AI-Generated Video Swayed the Judge. The Court Said it Carried 'Undue Emotional Weight'",
+        "summary": "亚利桑那州上诉法院裁定，Gabriel Horcasitas过失杀人案量刑中使用的受害者Christopher Pelkey AI生成视频带有不当情感重量，罪名维持但刑期须重新考虑。",
+        "recommend_reason_zh": null,
+        "url": "https://www.404media.co/her-ai-generated-video-swayed-the-judge-the-court-said-it-carried-undue-emotional-weight",
+        "source": "404 Media（RSS）",
+        "source_name": "AI HOT"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-10-07T15:48:10.271265Z"
       }
     },
     {
@@ -1179,15 +1260,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7295,
-      "importance": 0.7295,
-      "importance_score": 0.7295,
+      "score": 0.7275,
+      "importance": 0.7275,
+      "importance_score": 0.7275,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7885,
+        "recency": 0.7771,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1212,117 +1293,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-07T14:48:07.739831Z"
-      }
-    },
-    {
-      "story_id": "story_806d4d2fd204",
-      "title": "LibreOffice 称“无人工智能”现已成为一项软件功能 / LibreOffice says ‘no AI’ is now a software feature",
-      "url": "https://techcrunch.com/2026/10/06/libreoffice-says-no-ai-is-now-a-software-feature",
-      "primary_url": "https://techcrunch.com/2026/10/06/libreoffice-says-no-ai-is-now-a-software-feature",
-      "source": "TechCrunch AI",
-      "source_name": "Curated Media",
-      "sources": [
-        {
-          "id": "476e6b2de47c3ca196f15a5ee3c4d8c835d0fbea",
-          "title": "LibreOffice 称“无人工智能”现已成为一项软件功能 / LibreOffice says ‘no AI’ is now a software feature",
-          "title_zh": "LibreOffice 称“无人工智能”现已成为一项软件功能",
-          "title_en": "LibreOffice says ‘no AI’ is now a software feature",
-          "title_original": "LibreOffice says ‘no AI’ is now a software feature",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://techcrunch.com/2026/10/06/libreoffice-says-no-ai-is-now-a-software-feature",
-          "source": "TechCrunch AI",
-          "source_name": "Curated Media",
-          "site_id": "curated_media",
-          "published_at": "2026-10-06T15:25:00Z"
-        },
-        {
-          "id": "04042a191b2faf900e3cde9dd7325262638f7c38",
-          "title": "LibreOffice 称“无人工智能”现已成为一项软件功能 / LibreOffice says 'no AI' is now a software feature",
-          "title_zh": "LibreOffice 称“无人工智能”现已成为一项软件功能",
-          "title_en": "LibreOffice says 'no AI' is now a software feature",
-          "title_original": "LibreOffice says 'no AI' is now a software feature",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://techcrunch.com/2026/10/06/libreoffice-says-no-ai-is-now-a-software-feature",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-10-06T16:40:58Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News · 24h最热",
-        "TechCrunch AI"
-      ],
-      "items": [
-        {
-          "id": "476e6b2de47c3ca196f15a5ee3c4d8c835d0fbea",
-          "title": "LibreOffice 称“无人工智能”现已成为一项软件功能 / LibreOffice says ‘no AI’ is now a software feature",
-          "title_zh": "LibreOffice 称“无人工智能”现已成为一项软件功能",
-          "title_en": "LibreOffice says ‘no AI’ is now a software feature",
-          "title_original": "LibreOffice says ‘no AI’ is now a software feature",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://techcrunch.com/2026/10/06/libreoffice-says-no-ai-is-now-a-software-feature",
-          "source": "TechCrunch AI",
-          "source_name": "Curated Media",
-          "site_id": "curated_media",
-          "published_at": "2026-10-06T15:25:00Z"
-        },
-        {
-          "id": "04042a191b2faf900e3cde9dd7325262638f7c38",
-          "title": "LibreOffice 称“无人工智能”现已成为一项软件功能 / LibreOffice says 'no AI' is now a software feature",
-          "title_zh": "LibreOffice 称“无人工智能”现已成为一项软件功能",
-          "title_en": "LibreOffice says 'no AI' is now a software feature",
-          "title_original": "LibreOffice says 'no AI' is now a software feature",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://techcrunch.com/2026/10/06/libreoffice-says-no-ai-is-now-a-software-feature",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-10-06T16:40:58Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5972,
-      "importance": 0.5972,
-      "importance_score": 0.5972,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.5472,
-        "source_tier": 0.58,
-        "ai_relevance": 0.76,
-        "recency": 0.7135,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-10-06T15:25:00Z",
-      "latest_at": "2026-10-06T16:40:58Z",
-      "primary_item": {
-        "id": "476e6b2de47c3ca196f15a5ee3c4d8c835d0fbea",
-        "title": "LibreOffice 称“无人工智能”现已成为一项软件功能 / LibreOffice says ‘no AI’ is now a software feature",
-        "title_zh": "LibreOffice 称“无人工智能”现已成为一项软件功能",
-        "title_en": "LibreOffice says ‘no AI’ is now a software feature",
-        "title_original": "LibreOffice says ‘no AI’ is now a software feature",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://techcrunch.com/2026/10/06/libreoffice-says-no-ai-is-now-a-software-feature",
-        "source": "TechCrunch AI",
-        "source_name": "Curated Media"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-10-07T14:48:07.739831Z"
+        "scored_at": "2026-10-07T15:48:10.271265Z"
       }
     },
     {
@@ -1456,15 +1427,15 @@
       ],
       "item_count": 4,
       "duplicate_count": 4,
-      "score": 0.5492,
-      "importance": 0.5492,
-      "importance_score": 0.5492,
+      "score": 0.5473,
+      "importance": 0.5473,
+      "importance_score": 0.5473,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.741,
+        "recency": 0.7303,
         "story_heat": 0.75
       },
       "category": "multi_source",
@@ -1489,7 +1460,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-07T14:48:07.739831Z"
+        "scored_at": "2026-10-07T15:48:10.271265Z"
       }
     },
     {
@@ -1595,15 +1566,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5461,
-      "importance": 0.5461,
-      "importance_score": 0.5461,
+      "score": 0.5438,
+      "importance": 0.5438,
+      "importance_score": 0.5438,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8625,
+        "recency": 0.8501,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1628,7 +1599,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-07T14:48:07.739831Z"
+        "scored_at": "2026-10-07T15:48:10.271265Z"
       }
     },
     {
@@ -1734,15 +1705,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5448,
-      "importance": 0.5448,
-      "importance_score": 0.5448,
+      "score": 0.5426,
+      "importance": 0.5426,
+      "importance_score": 0.5426,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8557,
+        "recency": 0.8434,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1767,7 +1738,117 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-07T14:48:07.739831Z"
+        "scored_at": "2026-10-07T15:48:10.271265Z"
+      }
+    },
+    {
+      "story_id": "story_411cc3d7e3ed",
+      "title": "AI 辅助证明 11 个方格的最佳包装 / AI-assisted proof of optimal packing for 11 squares",
+      "url": "https://news.ycombinator.com/item?id=49993121",
+      "primary_url": "https://news.ycombinator.com/item?id=49993121",
+      "source": "hackernews",
+      "source_name": "NewsNow",
+      "sources": [
+        {
+          "id": "f76a10761234b3a6b860c48699606d504c64b34c",
+          "title": "AI 辅助证明 11 个方格的最佳包装 / AI-assisted proof of optimal packing for 11 squares",
+          "title_zh": "AI 辅助证明 11 个方格的最佳包装",
+          "title_en": "AI-assisted proof of optimal packing for 11 squares",
+          "title_original": "AI-assisted proof of optimal packing for 11 squares",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=49993121",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-10-07T14:10:55Z"
+        },
+        {
+          "id": "71ba088340d0e805b18aa91bce3e63b5d5bd5c12",
+          "title": "AI 辅助证明 11 个方格的最佳包装 / AI-assisted proof of optimal packing for 11 squares",
+          "title_zh": "AI 辅助证明 11 个方格的最佳包装",
+          "title_en": "AI-assisted proof of optimal packing for 11 squares",
+          "title_original": "AI-assisted proof of optimal packing for 11 squares",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://github.com/Queuingtheorydotcom/11SquaresFormalized",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-10-07T14:10:55Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News · 24h最热",
+        "hackernews"
+      ],
+      "items": [
+        {
+          "id": "f76a10761234b3a6b860c48699606d504c64b34c",
+          "title": "AI 辅助证明 11 个方格的最佳包装 / AI-assisted proof of optimal packing for 11 squares",
+          "title_zh": "AI 辅助证明 11 个方格的最佳包装",
+          "title_en": "AI-assisted proof of optimal packing for 11 squares",
+          "title_original": "AI-assisted proof of optimal packing for 11 squares",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=49993121",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-10-07T14:10:55Z"
+        },
+        {
+          "id": "71ba088340d0e805b18aa91bce3e63b5d5bd5c12",
+          "title": "AI 辅助证明 11 个方格的最佳包装 / AI-assisted proof of optimal packing for 11 squares",
+          "title_zh": "AI 辅助证明 11 个方格的最佳包装",
+          "title_en": "AI-assisted proof of optimal packing for 11 squares",
+          "title_original": "AI-assisted proof of optimal packing for 11 squares",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://github.com/Queuingtheorydotcom/11SquaresFormalized",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-10-07T14:10:55Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5417,
+      "importance": 0.5417,
+      "importance_score": 0.5417,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.977,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-10-07T14:10:55Z",
+      "latest_at": "2026-10-07T14:10:55Z",
+      "primary_item": {
+        "id": "f76a10761234b3a6b860c48699606d504c64b34c",
+        "title": "AI 辅助证明 11 个方格的最佳包装 / AI-assisted proof of optimal packing for 11 squares",
+        "title_zh": "AI 辅助证明 11 个方格的最佳包装",
+        "title_en": "AI-assisted proof of optimal packing for 11 squares",
+        "title_original": "AI-assisted proof of optimal packing for 11 squares",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://news.ycombinator.com/item?id=49993121",
+        "source": "hackernews",
+        "source_name": "NewsNow"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-10-07T15:48:10.271265Z"
       }
     },
     {
@@ -1873,15 +1954,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5437,
-      "importance": 0.5437,
-      "importance_score": 0.5437,
+      "score": 0.5415,
+      "importance": 0.5415,
+      "importance_score": 0.5415,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8496,
+        "recency": 0.8374,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1906,117 +1987,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-07T14:48:07.739831Z"
-      }
-    },
-    {
-      "story_id": "story_1fecbcee2c8e",
-      "title": "像 1866 年一样写作：LLM重新学习电报语 / Write Like It's 1866: LLMs Relearn Telegraphese",
-      "url": "https://news.ycombinator.com/item?id=49991580",
-      "primary_url": "https://news.ycombinator.com/item?id=49991580",
-      "source": "hackernews",
-      "source_name": "NewsNow",
-      "sources": [
-        {
-          "id": "116436c2d524d67fcea0ffee6e1bf5ada49774c0",
-          "title": "像 1866 年一样写作：LLM重新学习电报语 / Write Like It's 1866: LLMs Relearn Telegraphese",
-          "title_zh": "像 1866 年一样写作：LLM重新学习电报语",
-          "title_en": "Write Like It's 1866: LLMs Relearn Telegraphese",
-          "title_original": "Write Like It's 1866: LLMs Relearn Telegraphese",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=49991580",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-10-07T12:04:36Z"
-        },
-        {
-          "id": "4de0abdc730abbd3a2aa8255b4fd2b007039c02c",
-          "title": "像 1866 年一样写作：LLM重新学习电报语 / Write Like It's 1866: LLMs Relearn Telegraphese",
-          "title_zh": "像 1866 年一样写作：LLM重新学习电报语",
-          "title_en": "Write Like It's 1866: LLMs Relearn Telegraphese",
-          "title_original": "Write Like It's 1866: LLMs Relearn Telegraphese",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://fiveminutesforward.com/post/2026-10-04-telegraph-test",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-10-07T12:04:36Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News · 24h最热",
-        "hackernews"
-      ],
-      "items": [
-        {
-          "id": "116436c2d524d67fcea0ffee6e1bf5ada49774c0",
-          "title": "像 1866 年一样写作：LLM重新学习电报语 / Write Like It's 1866: LLMs Relearn Telegraphese",
-          "title_zh": "像 1866 年一样写作：LLM重新学习电报语",
-          "title_en": "Write Like It's 1866: LLMs Relearn Telegraphese",
-          "title_original": "Write Like It's 1866: LLMs Relearn Telegraphese",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=49991580",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-10-07T12:04:36Z"
-        },
-        {
-          "id": "4de0abdc730abbd3a2aa8255b4fd2b007039c02c",
-          "title": "像 1866 年一样写作：LLM重新学习电报语 / Write Like It's 1866: LLMs Relearn Telegraphese",
-          "title_zh": "像 1866 年一样写作：LLM重新学习电报语",
-          "title_en": "Write Like It's 1866: LLMs Relearn Telegraphese",
-          "title_original": "Write Like It's 1866: LLMs Relearn Telegraphese",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://fiveminutesforward.com/post/2026-10-04-telegraph-test",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-10-07T12:04:36Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5389,
-      "importance": 0.5389,
-      "importance_score": 0.5389,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.9616,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-10-07T12:04:36Z",
-      "latest_at": "2026-10-07T12:04:36Z",
-      "primary_item": {
-        "id": "116436c2d524d67fcea0ffee6e1bf5ada49774c0",
-        "title": "像 1866 年一样写作：LLM重新学习电报语 / Write Like It's 1866: LLMs Relearn Telegraphese",
-        "title_zh": "像 1866 年一样写作：LLM重新学习电报语",
-        "title_en": "Write Like It's 1866: LLMs Relearn Telegraphese",
-        "title_original": "Write Like It's 1866: LLMs Relearn Telegraphese",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://news.ycombinator.com/item?id=49991580",
-        "source": "hackernews",
-        "source_name": "NewsNow"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-10-07T14:48:07.739831Z"
+        "scored_at": "2026-10-07T15:48:10.271265Z"
       }
     }
   ]
