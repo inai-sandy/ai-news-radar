@@ -1,8 +1,91 @@
 {
-  "generated_at": "2026-10-07T09:47:24.461251Z",
+  "generated_at": "2026-10-07T10:47:24.148165Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
+    {
+      "story_id": "story_b297de01ee31",
+      "title": "适用于 iOS 的 ChatGPT 1.2026.272 / ChatGPT for iOS 1.2026.272",
+      "url": "https://developers.openai.com/codex/changelog",
+      "primary_url": "https://developers.openai.com/codex/changelog",
+      "source": "OpenAI Codex Changelog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "970507defeb4fc629819eea2649547e925fc190b",
+          "title": "适用于 iOS 的 ChatGPT 1.2026.272 / ChatGPT for iOS 1.2026.272",
+          "title_zh": "适用于 iOS 的 ChatGPT 1.2026.272",
+          "title_en": "ChatGPT for iOS 1.2026.272",
+          "title_original": "ChatGPT for iOS 1.2026.272",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://developers.openai.com/codex/changelog",
+          "source": "OpenAI Codex Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-10-07T00:00:00Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "OpenAI Codex Changelog"
+      ],
+      "items": [
+        {
+          "id": "970507defeb4fc629819eea2649547e925fc190b",
+          "title": "适用于 iOS 的 ChatGPT 1.2026.272 / ChatGPT for iOS 1.2026.272",
+          "title_zh": "适用于 iOS 的 ChatGPT 1.2026.272",
+          "title_en": "ChatGPT for iOS 1.2026.272",
+          "title_original": "ChatGPT for iOS 1.2026.272",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://developers.openai.com/codex/changelog",
+          "source": "OpenAI Codex Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-10-07T00:00:00Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.844,
+      "importance": 0.844,
+      "importance_score": 0.844,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 1.0,
+        "recency": 0.8557,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-10-07T00:00:00Z",
+      "latest_at": "2026-10-07T00:00:00Z",
+      "primary_item": {
+        "id": "970507defeb4fc629819eea2649547e925fc190b",
+        "title": "适用于 iOS 的 ChatGPT 1.2026.272 / ChatGPT for iOS 1.2026.272",
+        "title_zh": "适用于 iOS 的 ChatGPT 1.2026.272",
+        "title_en": "ChatGPT for iOS 1.2026.272",
+        "title_original": "ChatGPT for iOS 1.2026.272",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://developers.openai.com/codex/changelog",
+        "source": "OpenAI Codex Changelog",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-10-07T10:48:08.810332Z"
+      }
+    },
     {
       "story_id": "story_11f226560af5",
       "title": "OpenAI 发布内部前沿模型产出的数学研究成果 / Sharing AI progress in mathematics",
@@ -77,15 +160,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.8284,
-      "importance": 0.8284,
-      "importance_score": 0.8284,
+      "score": 0.8265,
+      "importance": 0.8265,
+      "importance_score": 0.8265,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.73,
+        "recency": 0.7196,
         "story_heat": 0.25
       },
       "category": "official",
@@ -113,7 +196,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-07T09:48:13.468891Z"
+        "scored_at": "2026-10-07T10:48:08.810332Z"
       }
     },
     {
@@ -161,15 +244,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8276,
-      "importance": 0.8276,
-      "importance_score": 0.8276,
+      "score": 0.8254,
+      "importance": 0.8254,
+      "importance_score": 0.8254,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.8646,
+        "recency": 0.8522,
         "story_heat": 0.0
       },
       "category": "official",
@@ -196,7 +279,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-07T09:48:13.468891Z"
+        "scored_at": "2026-10-07T10:48:08.810332Z"
       }
     },
     {
@@ -244,15 +327,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8114,
-      "importance": 0.8114,
-      "importance_score": 0.8114,
+      "score": 0.8093,
+      "importance": 0.8093,
+      "importance_score": 0.8093,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.8189,
+        "recency": 0.8071,
         "story_heat": 0.0
       },
       "category": "official",
@@ -279,7 +362,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-07T09:48:13.468891Z"
+        "scored_at": "2026-10-07T10:48:08.810332Z"
       }
     },
     {
@@ -327,15 +410,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8121,
-      "importance": 0.8121,
-      "importance_score": 0.8121,
+      "score": 0.81,
+      "importance": 0.81,
+      "importance_score": 0.81,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.8227,
+        "recency": 0.8109,
         "story_heat": 0.0
       },
       "category": "official",
@@ -362,7 +445,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-07T09:48:13.468891Z"
+        "scored_at": "2026-10-07T10:48:08.810332Z"
       }
     },
     {
@@ -410,15 +493,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8114,
-      "importance": 0.8114,
-      "importance_score": 0.8114,
+      "score": 0.8095,
+      "importance": 0.8095,
+      "importance_score": 0.8095,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.73,
+        "recency": 0.7196,
         "story_heat": 0.0
       },
       "category": "official",
@@ -445,7 +528,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-07T09:48:13.468891Z"
+        "scored_at": "2026-10-07T10:48:08.810332Z"
       }
     },
     {
@@ -493,15 +576,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7699,
-      "importance": 0.7699,
-      "importance_score": 0.7699,
+      "score": 0.7678,
+      "importance": 0.7678,
+      "importance_score": 0.7678,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.84,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8128,
+        "recency": 0.8011,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -527,7 +610,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-07T09:48:13.468891Z"
+        "scored_at": "2026-10-07T10:48:08.810332Z"
       }
     },
     {
@@ -604,15 +687,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7617,
-      "importance": 0.7617,
-      "importance_score": 0.7617,
+      "score": 0.7598,
+      "importance": 0.7598,
+      "importance_score": 0.7598,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.77,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7453,
+        "recency": 0.7346,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -639,7 +722,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-07T09:48:13.468891Z"
+        "scored_at": "2026-10-07T10:48:08.810332Z"
       }
     },
     {
@@ -687,15 +770,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7599,
-      "importance": 0.7599,
-      "importance_score": 0.7599,
+      "score": 0.7579,
+      "importance": 0.7579,
+      "importance_score": 0.7579,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.82,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7908,
+        "recency": 0.7794,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -721,7 +804,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-07T09:48:13.468891Z"
+        "scored_at": "2026-10-07T10:48:08.810332Z"
       }
     },
     {
@@ -769,15 +852,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8112,
-      "importance": 0.8112,
-      "importance_score": 0.8112,
+      "score": 0.8092,
+      "importance": 0.8092,
+      "importance_score": 0.8092,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.7734,
+        "recency": 0.7624,
         "story_heat": 0.0
       },
       "category": "official",
@@ -804,7 +887,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-07T09:48:13.468891Z"
+        "scored_at": "2026-10-07T10:48:08.810332Z"
       }
     },
     {
@@ -852,15 +935,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.749,
-      "importance": 0.749,
-      "importance_score": 0.749,
+      "score": 0.7471,
+      "importance": 0.7471,
+      "importance_score": 0.7471,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.82,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.73,
+        "recency": 0.7196,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -885,7 +968,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-07T09:48:13.468891Z"
+        "scored_at": "2026-10-07T10:48:08.810332Z"
       }
     },
     {
@@ -933,15 +1016,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7468,
-      "importance": 0.7468,
-      "importance_score": 0.7468,
+      "score": 0.7443,
+      "importance": 0.7443,
+      "importance_score": 0.7443,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.68,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9509,
+        "recency": 0.9373,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -966,7 +1049,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-07T09:48:13.468891Z"
+        "scored_at": "2026-10-07T10:48:08.810332Z"
       }
     },
     {
@@ -1014,15 +1097,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7401,
-      "importance": 0.7401,
-      "importance_score": 0.7401,
+      "score": 0.738,
+      "importance": 0.738,
+      "importance_score": 0.738,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8475,
+        "recency": 0.8353,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1047,90 +1130,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-07T09:48:13.468891Z"
-      }
-    },
-    {
-      "story_id": "story_ae3c4f5c0420",
-      "title": "安全概览中的代码扫描 AI Scan 启用状态 / Code scanning AI Scan enablement status in security overview",
-      "url": "https://github.blog/changelog/2026-10-06-code-scanning-ai-scan-enablement-status-in-security-overview",
-      "primary_url": "https://github.blog/changelog/2026-10-06-code-scanning-ai-scan-enablement-status-in-security-overview",
-      "source": "GitHub Changelog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "c8e4300aea8b0cb54166d991296e299188b4aa01",
-          "title": "安全概览中的代码扫描 AI Scan 启用状态 / Code scanning AI Scan enablement status in security overview",
-          "title_zh": "安全概览中的代码扫描 AI Scan 启用状态",
-          "title_en": "Code scanning AI Scan enablement status in security overview",
-          "title_original": "Code scanning AI Scan enablement status in security overview",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-10-06-code-scanning-ai-scan-enablement-status-in-security-overview",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-10-06T10:23:38Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "GitHub Changelog"
-      ],
-      "items": [
-        {
-          "id": "c8e4300aea8b0cb54166d991296e299188b4aa01",
-          "title": "安全概览中的代码扫描 AI Scan 启用状态 / Code scanning AI Scan enablement status in security overview",
-          "title_zh": "安全概览中的代码扫描 AI Scan 启用状态",
-          "title_en": "Code scanning AI Scan enablement status in security overview",
-          "title_original": "Code scanning AI Scan enablement status in security overview",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-10-06-code-scanning-ai-scan-enablement-status-in-security-overview",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-10-06T10:23:38Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7924,
-      "importance": 0.7924,
-      "importance_score": 0.7924,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.87,
-        "recency": 0.7133,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-10-06T10:23:38Z",
-      "latest_at": "2026-10-06T10:23:38Z",
-      "primary_item": {
-        "id": "c8e4300aea8b0cb54166d991296e299188b4aa01",
-        "title": "安全概览中的代码扫描 AI Scan 启用状态 / Code scanning AI Scan enablement status in security overview",
-        "title_zh": "安全概览中的代码扫描 AI Scan 启用状态",
-        "title_en": "Code scanning AI Scan enablement status in security overview",
-        "title_original": "Code scanning AI Scan enablement status in security overview",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://github.blog/changelog/2026-10-06-code-scanning-ai-scan-enablement-status-in-security-overview",
-        "source": "GitHub Changelog",
-        "source_name": "Official AI Updates"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-10-07T09:48:13.468891Z"
+        "scored_at": "2026-10-07T10:48:08.810332Z"
       }
     },
     {
@@ -1178,15 +1178,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7237,
-      "importance": 0.7237,
-      "importance_score": 0.7237,
+      "score": 0.7217,
+      "importance": 0.7217,
+      "importance_score": 0.7217,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.7,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7895,
+        "recency": 0.7782,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1211,7 +1211,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-07T09:48:13.468891Z"
+        "scored_at": "2026-10-07T10:48:08.810332Z"
       }
     },
     {
@@ -1259,15 +1259,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7229,
-      "importance": 0.7229,
-      "importance_score": 0.7229,
+      "score": 0.7209,
+      "importance": 0.7209,
+      "importance_score": 0.7209,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.7,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7852,
+        "recency": 0.7739,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1292,7 +1292,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-07T09:48:13.468891Z"
+        "scored_at": "2026-10-07T10:48:08.810332Z"
       }
     },
     {
@@ -1340,15 +1340,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7222,
-      "importance": 0.7222,
-      "importance_score": 0.7222,
+      "score": 0.72,
+      "importance": 0.72,
+      "importance_score": 0.72,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.67,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8309,
+        "recency": 0.819,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1373,90 +1373,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-07T09:48:13.468891Z"
-      }
-    },
-    {
-      "story_id": "story_17625524f250",
-      "title": "通过 Ironclad 促进计算机的使用 / Advancing computer use with Ironclad",
-      "url": "https://openai.com/index/advancing-computer-use-with-ironclad",
-      "primary_url": "https://openai.com/index/advancing-computer-use-with-ironclad",
-      "source": "OpenAI News",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "4cdb05f359822803b33d7deedddf87e38d2593ed",
-          "title": "通过 Ironclad 促进计算机的使用 / Advancing computer use with Ironclad",
-          "title_zh": "通过 Ironclad 促进计算机的使用",
-          "title_en": "Advancing computer use with Ironclad",
-          "title_original": "Advancing computer use with Ironclad",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://openai.com/index/advancing-computer-use-with-ironclad",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-10-06T10:00:00Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "OpenAI News"
-      ],
-      "items": [
-        {
-          "id": "4cdb05f359822803b33d7deedddf87e38d2593ed",
-          "title": "通过 Ironclad 促进计算机的使用 / Advancing computer use with Ironclad",
-          "title_zh": "通过 Ironclad 促进计算机的使用",
-          "title_en": "Advancing computer use with Ironclad",
-          "title_original": "Advancing computer use with Ironclad",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://openai.com/index/advancing-computer-use-with-ironclad",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-10-06T10:00:00Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7997,
-      "importance": 0.7997,
-      "importance_score": 0.7997,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.91,
-        "recency": 0.7093,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-10-06T10:00:00Z",
-      "latest_at": "2026-10-06T10:00:00Z",
-      "primary_item": {
-        "id": "4cdb05f359822803b33d7deedddf87e38d2593ed",
-        "title": "通过 Ironclad 促进计算机的使用 / Advancing computer use with Ironclad",
-        "title_zh": "通过 Ironclad 促进计算机的使用",
-        "title_en": "Advancing computer use with Ironclad",
-        "title_original": "Advancing computer use with Ironclad",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://openai.com/index/advancing-computer-use-with-ironclad",
-        "source": "OpenAI News",
-        "source_name": "Official AI Updates"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-10-07T09:48:13.468891Z"
+        "scored_at": "2026-10-07T10:48:08.810332Z"
       }
     },
     {
@@ -1533,15 +1450,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.6068,
-      "importance": 0.6068,
-      "importance_score": 0.6068,
+      "score": 0.6048,
+      "importance": 0.6048,
+      "importance_score": 0.6048,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.5472,
         "source_tier": 0.58,
         "ai_relevance": 0.76,
-        "recency": 0.767,
+        "recency": 0.756,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1566,7 +1483,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-07T09:48:13.468891Z"
+        "scored_at": "2026-10-07T10:48:08.810332Z"
       }
     },
     {
@@ -1672,15 +1589,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5648,
-      "importance": 0.5648,
-      "importance_score": 0.5648,
+      "score": 0.5623,
+      "importance": 0.5623,
+      "importance_score": 0.5623,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9665,
+        "recency": 0.9527,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1705,7 +1622,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-07T09:48:13.468891Z"
+        "scored_at": "2026-10-07T10:48:08.810332Z"
       }
     },
     {
@@ -1839,15 +1756,15 @@
       ],
       "item_count": 4,
       "duplicate_count": 4,
-      "score": 0.5592,
-      "importance": 0.5592,
-      "importance_score": 0.5592,
+      "score": 0.5571,
+      "importance": 0.5571,
+      "importance_score": 0.5571,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7964,
+        "recency": 0.785,
         "story_heat": 0.75
       },
       "category": "multi_source",
@@ -1872,7 +1789,146 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-07T09:48:13.468891Z"
+        "scored_at": "2026-10-07T10:48:08.810332Z"
+      }
+    },
+    {
+      "story_id": "story_174ae4583e10",
+      "title": "犹他州将允许人工智能在无人监督的情况下为患者进行检查并开具处方",
+      "url": "https://www.techspot.com/news/114111-utah-become-first-state-ai-examine-patients-prescribe.html",
+      "primary_url": "https://www.techspot.com/news/114111-utah-become-first-state-ai-examine-patients-prescribe.html",
+      "source": "www.techspot.com",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "1d2a7b0e3e2023eee125cf494cac68ad4947c114",
+          "title": "犹他州将允许人工智能在无人监督的情况下为患者进行检查并开具处方",
+          "title_zh": "犹他州将允许人工智能在无人监督的情况下为患者进行检查并开具处方",
+          "title_en": null,
+          "title_original": "犹他州将允许人工智能在无人监督的情况下为患者进行检查并开具处方",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.techspot.com/news/114111-utah-become-first-state-ai-examine-patients-prescribe.html",
+          "source": "www.techspot.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-10-07T04:32:45.585000Z"
+        },
+        {
+          "id": "f5e61414f93e1de3c2ac654b9a30b9e298370985",
+          "title": "犹他州将允许人工智能在无人监督的情况下为患者进行检查并开具处方 / Utah to let AI examine patients and prescribe medication without human oversight",
+          "title_zh": "犹他州将允许人工智能在无人监督的情况下为患者进行检查并开具处方",
+          "title_en": "Utah to let AI examine patients and prescribe medication without human oversight",
+          "title_original": "Utah to let AI examine patients and prescribe medication without human oversight",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.techspot.com/news/114111-utah-become-first-state-ai-examine-patients-prescribe.html",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-10-06T17:01:52Z"
+        },
+        {
+          "id": "479ddf296f35835bfe75204a609e1fde35fbd22e",
+          "title": "犹他州将让人工智能在无人监督的情况下检查患者并开药 / Utah to let AI examine patients and prescribe medication without human oversight",
+          "title_zh": "犹他州将让人工智能在无人监督的情况下检查患者并开药",
+          "title_en": "Utah to let AI examine patients and prescribe medication without human oversight",
+          "title_original": "Utah to let AI examine patients and prescribe medication without human oversight",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=49981197",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-10-06T17:01:52Z"
+        }
+      ],
+      "source_count": 3,
+      "source_names": [
+        "Hacker News · 24h最热",
+        "hackernews",
+        "www.techspot.com"
+      ],
+      "items": [
+        {
+          "id": "1d2a7b0e3e2023eee125cf494cac68ad4947c114",
+          "title": "犹他州将允许人工智能在无人监督的情况下为患者进行检查并开具处方",
+          "title_zh": "犹他州将允许人工智能在无人监督的情况下为患者进行检查并开具处方",
+          "title_en": null,
+          "title_original": "犹他州将允许人工智能在无人监督的情况下为患者进行检查并开具处方",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.techspot.com/news/114111-utah-become-first-state-ai-examine-patients-prescribe.html",
+          "source": "www.techspot.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-10-07T04:32:45.585000Z"
+        },
+        {
+          "id": "f5e61414f93e1de3c2ac654b9a30b9e298370985",
+          "title": "犹他州将允许人工智能在无人监督的情况下为患者进行检查并开具处方 / Utah to let AI examine patients and prescribe medication without human oversight",
+          "title_zh": "犹他州将允许人工智能在无人监督的情况下为患者进行检查并开具处方",
+          "title_en": "Utah to let AI examine patients and prescribe medication without human oversight",
+          "title_original": "Utah to let AI examine patients and prescribe medication without human oversight",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.techspot.com/news/114111-utah-become-first-state-ai-examine-patients-prescribe.html",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-10-06T17:01:52Z"
+        },
+        {
+          "id": "479ddf296f35835bfe75204a609e1fde35fbd22e",
+          "title": "犹他州将让人工智能在无人监督的情况下检查患者并开药 / Utah to let AI examine patients and prescribe medication without human oversight",
+          "title_zh": "犹他州将让人工智能在无人监督的情况下检查患者并开药",
+          "title_en": "Utah to let AI examine patients and prescribe medication without human oversight",
+          "title_original": "Utah to let AI examine patients and prescribe medication without human oversight",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=49981197",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-10-06T17:01:52Z"
+        }
+      ],
+      "item_count": 3,
+      "duplicate_count": 3,
+      "score": 0.5553,
+      "importance": 0.5553,
+      "importance_score": 0.5553,
+      "importance_label": "多源热议",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9138,
+        "story_heat": 0.5
+      },
+      "category": "multi_source",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-10-06T17:01:52Z",
+      "latest_at": "2026-10-07T04:32:45.585000Z",
+      "primary_item": {
+        "id": "1d2a7b0e3e2023eee125cf494cac68ad4947c114",
+        "title": "犹他州将允许人工智能在无人监督的情况下为患者进行检查并开具处方",
+        "title_zh": "犹他州将允许人工智能在无人监督的情况下为患者进行检查并开具处方",
+        "title_en": null,
+        "title_original": "犹他州将允许人工智能在无人监督的情况下为患者进行检查并开具处方",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://www.techspot.com/news/114111-utah-become-first-state-ai-examine-patients-prescribe.html",
+        "source": "www.techspot.com",
+        "source_name": "Buzzing"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-10-07T10:48:08.810332Z"
       }
     }
   ]
