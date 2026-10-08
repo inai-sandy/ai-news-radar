@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-08T20:47:20.233472Z",
+  "generated_at": "2026-10-08T21:47:23.563625Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -48,15 +48,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.856,
-      "importance": 0.856,
-      "importance_score": 0.856,
+      "score": 0.8536,
+      "importance": 0.8536,
+      "importance_score": 0.8536,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.99,
-        "recency": 0.9332,
+        "recency": 0.9198,
         "story_heat": 0.0
       },
       "category": "official",
@@ -83,30 +83,30 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-08T20:48:03.786072Z"
+        "scored_at": "2026-10-08T22:01:14.757356Z"
       }
     },
     {
-      "story_id": "story_68365110a7bb",
-      "title": "屏幕阅读器可以以列表的形式浏览时间线 / Screen readers can navigate timelines as lists",
-      "url": "https://github.blog/changelog/2026-10-08-screen-readers-can-navigate-timelines-as-lists",
-      "primary_url": "https://github.blog/changelog/2026-10-08-screen-readers-can-navigate-timelines-as-lists",
+      "story_id": "story_02d66470e18a",
+      "title": "Triage role users or higher can now archive pull requests",
+      "url": "https://github.blog/changelog/2026-10-08-triage-role-users-or-higher-can-now-archive-pull-requests",
+      "primary_url": "https://github.blog/changelog/2026-10-08-triage-role-users-or-higher-can-now-archive-pull-requests",
       "source": "GitHub Changelog",
       "source_name": "Official AI Updates",
       "sources": [
         {
-          "id": "cd8f8fb984076cfd31fce125baf23c1db553b830",
-          "title": "屏幕阅读器可以以列表的形式浏览时间线 / Screen readers can navigate timelines as lists",
-          "title_zh": "屏幕阅读器可以以列表的形式浏览时间线",
-          "title_en": "Screen readers can navigate timelines as lists",
-          "title_original": "Screen readers can navigate timelines as lists",
+          "id": "e790d6f1f2dfa3f47f2dbe0473f2c63181e17290",
+          "title": "Triage role users or higher can now archive pull requests",
+          "title_zh": null,
+          "title_en": "Triage role users or higher can now archive pull requests",
+          "title_original": "Triage role users or higher can now archive pull requests",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-10-08-screen-readers-can-navigate-timelines-as-lists",
+          "url": "https://github.blog/changelog/2026-10-08-triage-role-users-or-higher-can-now-archive-pull-requests",
           "source": "GitHub Changelog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-10-08T16:00:56Z"
+          "published_at": "2026-10-08T19:01:42Z"
         }
       ],
       "source_count": 1,
@@ -115,31 +115,31 @@
       ],
       "items": [
         {
-          "id": "cd8f8fb984076cfd31fce125baf23c1db553b830",
-          "title": "屏幕阅读器可以以列表的形式浏览时间线 / Screen readers can navigate timelines as lists",
-          "title_zh": "屏幕阅读器可以以列表的形式浏览时间线",
-          "title_en": "Screen readers can navigate timelines as lists",
-          "title_original": "Screen readers can navigate timelines as lists",
+          "id": "e790d6f1f2dfa3f47f2dbe0473f2c63181e17290",
+          "title": "Triage role users or higher can now archive pull requests",
+          "title_zh": null,
+          "title_en": "Triage role users or higher can now archive pull requests",
+          "title_original": "Triage role users or higher can now archive pull requests",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-10-08-screen-readers-can-navigate-timelines-as-lists",
+          "url": "https://github.blog/changelog/2026-10-08-triage-role-users-or-higher-can-now-archive-pull-requests",
           "source": "GitHub Changelog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-10-08T16:00:56Z"
+          "published_at": "2026-10-08T19:01:42Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.832,
-      "importance": 0.832,
-      "importance_score": 0.832,
+      "score": 0.837,
+      "importance": 0.837,
+      "importance_score": 0.837,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.9334,
+        "recency": 0.9609,
         "story_heat": 0.0
       },
       "category": "official",
@@ -148,17 +148,17 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-10-08T16:00:56Z",
-      "latest_at": "2026-10-08T16:00:56Z",
+      "earliest_at": "2026-10-08T19:01:42Z",
+      "latest_at": "2026-10-08T19:01:42Z",
       "primary_item": {
-        "id": "cd8f8fb984076cfd31fce125baf23c1db553b830",
-        "title": "屏幕阅读器可以以列表的形式浏览时间线 / Screen readers can navigate timelines as lists",
-        "title_zh": "屏幕阅读器可以以列表的形式浏览时间线",
-        "title_en": "Screen readers can navigate timelines as lists",
-        "title_original": "Screen readers can navigate timelines as lists",
+        "id": "e790d6f1f2dfa3f47f2dbe0473f2c63181e17290",
+        "title": "Triage role users or higher can now archive pull requests",
+        "title_zh": null,
+        "title_en": "Triage role users or higher can now archive pull requests",
+        "title_original": "Triage role users or higher can now archive pull requests",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://github.blog/changelog/2026-10-08-screen-readers-can-navigate-timelines-as-lists",
+        "url": "https://github.blog/changelog/2026-10-08-triage-role-users-or-higher-can-now-archive-pull-requests",
         "source": "GitHub Changelog",
         "source_name": "Official AI Updates"
       },
@@ -166,7 +166,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-08T20:48:03.786072Z"
+        "scored_at": "2026-10-08T22:01:14.757356Z"
       }
     },
     {
@@ -214,15 +214,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8233,
-      "importance": 0.8233,
-      "importance_score": 0.8233,
+      "score": 0.8214,
+      "importance": 0.8214,
+      "importance_score": 0.8214,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 1.0,
-        "recency": 0.7407,
+        "recency": 0.73,
         "story_heat": 0.0
       },
       "category": "official",
@@ -249,7 +249,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-08T20:48:03.786072Z"
+        "scored_at": "2026-10-08T22:01:14.757356Z"
       }
     },
     {
@@ -297,15 +297,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8088,
-      "importance": 0.8088,
-      "importance_score": 0.8088,
+      "score": 0.8069,
+      "importance": 0.8069,
+      "importance_score": 0.8069,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 1.0,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7624,
+        "recency": 0.7514,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -331,7 +331,90 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-08T20:48:03.786072Z"
+        "scored_at": "2026-10-08T22:01:14.757356Z"
+      }
+    },
+    {
+      "story_id": "story_68365110a7bb",
+      "title": "屏幕阅读器可以以列表的形式浏览时间线 / Screen readers can navigate timelines as lists",
+      "url": "https://github.blog/changelog/2026-10-08-screen-readers-can-navigate-timelines-as-lists",
+      "primary_url": "https://github.blog/changelog/2026-10-08-screen-readers-can-navigate-timelines-as-lists",
+      "source": "GitHub Changelog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "cd8f8fb984076cfd31fce125baf23c1db553b830",
+          "title": "屏幕阅读器可以以列表的形式浏览时间线 / Screen readers can navigate timelines as lists",
+          "title_zh": "屏幕阅读器可以以列表的形式浏览时间线",
+          "title_en": "Screen readers can navigate timelines as lists",
+          "title_original": "Screen readers can navigate timelines as lists",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://github.blog/changelog/2026-10-08-screen-readers-can-navigate-timelines-as-lists",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-10-08T16:00:56Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "GitHub Changelog"
+      ],
+      "items": [
+        {
+          "id": "cd8f8fb984076cfd31fce125baf23c1db553b830",
+          "title": "屏幕阅读器可以以列表的形式浏览时间线 / Screen readers can navigate timelines as lists",
+          "title_zh": "屏幕阅读器可以以列表的形式浏览时间线",
+          "title_en": "Screen readers can navigate timelines as lists",
+          "title_original": "Screen readers can navigate timelines as lists",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://github.blog/changelog/2026-10-08-screen-readers-can-navigate-timelines-as-lists",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-10-08T16:00:56Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8296,
+      "importance": 0.8296,
+      "importance_score": 0.8296,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.87,
+        "recency": 0.92,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-10-08T16:00:56Z",
+      "latest_at": "2026-10-08T16:00:56Z",
+      "primary_item": {
+        "id": "cd8f8fb984076cfd31fce125baf23c1db553b830",
+        "title": "屏幕阅读器可以以列表的形式浏览时间线 / Screen readers can navigate timelines as lists",
+        "title_zh": "屏幕阅读器可以以列表的形式浏览时间线",
+        "title_en": "Screen readers can navigate timelines as lists",
+        "title_original": "Screen readers can navigate timelines as lists",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://github.blog/changelog/2026-10-08-screen-readers-can-navigate-timelines-as-lists",
+        "source": "GitHub Changelog",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-10-08T22:01:14.757356Z"
       }
     },
     {
@@ -379,15 +462,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8305,
-      "importance": 0.8305,
-      "importance_score": 0.8305,
+      "score": 0.8283,
+      "importance": 0.8283,
+      "importance_score": 0.8283,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.8808,
+        "recency": 0.8682,
         "story_heat": 0.0
       },
       "category": "official",
@@ -414,90 +497,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-08T20:48:03.786072Z"
-      }
-    },
-    {
-      "story_id": "story_8cec8cc46a95",
-      "title": "草稿拉取请求计入拉取请求限制 / Draft pull requests count toward pull request limits",
-      "url": "https://github.blog/changelog/2026-10-08-draft-pull-requests-count-toward-pull-request-limits",
-      "primary_url": "https://github.blog/changelog/2026-10-08-draft-pull-requests-count-toward-pull-request-limits",
-      "source": "GitHub Changelog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "367c2d3069e0a7aa53005a90af5bf895d1e1f373",
-          "title": "草稿拉取请求计入拉取请求限制 / Draft pull requests count toward pull request limits",
-          "title_zh": "草稿拉取请求计入拉取请求限制",
-          "title_en": "Draft pull requests count toward pull request limits",
-          "title_original": "Draft pull requests count toward pull request limits",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-10-08-draft-pull-requests-count-toward-pull-request-limits",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-10-08T14:25:53Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "GitHub Changelog"
-      ],
-      "items": [
-        {
-          "id": "367c2d3069e0a7aa53005a90af5bf895d1e1f373",
-          "title": "草稿拉取请求计入拉取请求限制 / Draft pull requests count toward pull request limits",
-          "title_zh": "草稿拉取请求计入拉取请求限制",
-          "title_en": "Draft pull requests count toward pull request limits",
-          "title_original": "Draft pull requests count toward pull request limits",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-10-08-draft-pull-requests-count-toward-pull-request-limits",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-10-08T14:25:53Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8282,
-      "importance": 0.8282,
-      "importance_score": 0.8282,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.87,
-        "recency": 0.9123,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-10-08T14:25:53Z",
-      "latest_at": "2026-10-08T14:25:53Z",
-      "primary_item": {
-        "id": "367c2d3069e0a7aa53005a90af5bf895d1e1f373",
-        "title": "草稿拉取请求计入拉取请求限制 / Draft pull requests count toward pull request limits",
-        "title_zh": "草稿拉取请求计入拉取请求限制",
-        "title_en": "Draft pull requests count toward pull request limits",
-        "title_original": "Draft pull requests count toward pull request limits",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://github.blog/changelog/2026-10-08-draft-pull-requests-count-toward-pull-request-limits",
-        "source": "GitHub Changelog",
-        "source_name": "Official AI Updates"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-10-08T20:48:03.786072Z"
+        "scored_at": "2026-10-08T22:01:14.757356Z"
       }
     },
     {
@@ -545,15 +545,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8193,
-      "importance": 0.8193,
-      "importance_score": 0.8193,
+      "score": 0.8174,
+      "importance": 0.8174,
+      "importance_score": 0.8174,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.98,
-        "recency": 0.7407,
+        "recency": 0.73,
         "story_heat": 0.0
       },
       "category": "official",
@@ -580,7 +580,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-08T20:48:03.786072Z"
+        "scored_at": "2026-10-08T22:01:14.757356Z"
       }
     },
     {
@@ -628,15 +628,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7882,
-      "importance": 0.7882,
-      "importance_score": 0.7882,
+      "score": 0.7857,
+      "importance": 0.7857,
+      "importance_score": 0.7857,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.81,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9645,
+        "recency": 0.9507,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -662,7 +662,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-08T20:48:03.786072Z"
+        "scored_at": "2026-10-08T22:01:14.757356Z"
       }
     },
     {
@@ -768,15 +768,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.7844,
-      "importance": 0.7844,
-      "importance_score": 0.7844,
+      "score": 0.7825,
+      "importance": 0.7825,
+      "importance_score": 0.7825,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.76,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7489,
+        "recency": 0.7382,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -803,7 +803,90 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-08T20:48:03.786072Z"
+        "scored_at": "2026-10-08T22:01:14.757356Z"
+      }
+    },
+    {
+      "story_id": "story_8cec8cc46a95",
+      "title": "草稿拉取请求计入拉取请求限制 / Draft pull requests count toward pull request limits",
+      "url": "https://github.blog/changelog/2026-10-08-draft-pull-requests-count-toward-pull-request-limits",
+      "primary_url": "https://github.blog/changelog/2026-10-08-draft-pull-requests-count-toward-pull-request-limits",
+      "source": "GitHub Changelog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "367c2d3069e0a7aa53005a90af5bf895d1e1f373",
+          "title": "草稿拉取请求计入拉取请求限制 / Draft pull requests count toward pull request limits",
+          "title_zh": "草稿拉取请求计入拉取请求限制",
+          "title_en": "Draft pull requests count toward pull request limits",
+          "title_original": "Draft pull requests count toward pull request limits",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://github.blog/changelog/2026-10-08-draft-pull-requests-count-toward-pull-request-limits",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-10-08T14:25:53Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "GitHub Changelog"
+      ],
+      "items": [
+        {
+          "id": "367c2d3069e0a7aa53005a90af5bf895d1e1f373",
+          "title": "草稿拉取请求计入拉取请求限制 / Draft pull requests count toward pull request limits",
+          "title_zh": "草稿拉取请求计入拉取请求限制",
+          "title_en": "Draft pull requests count toward pull request limits",
+          "title_original": "Draft pull requests count toward pull request limits",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://github.blog/changelog/2026-10-08-draft-pull-requests-count-toward-pull-request-limits",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-10-08T14:25:53Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8259,
+      "importance": 0.8259,
+      "importance_score": 0.8259,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.87,
+        "recency": 0.8992,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-10-08T14:25:53Z",
+      "latest_at": "2026-10-08T14:25:53Z",
+      "primary_item": {
+        "id": "367c2d3069e0a7aa53005a90af5bf895d1e1f373",
+        "title": "草稿拉取请求计入拉取请求限制 / Draft pull requests count toward pull request limits",
+        "title_zh": "草稿拉取请求计入拉取请求限制",
+        "title_en": "Draft pull requests count toward pull request limits",
+        "title_original": "Draft pull requests count toward pull request limits",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://github.blog/changelog/2026-10-08-draft-pull-requests-count-toward-pull-request-limits",
+        "source": "GitHub Changelog",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-10-08T22:01:14.757356Z"
       }
     },
     {
@@ -851,15 +934,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7663,
-      "importance": 0.7663,
-      "importance_score": 0.7663,
+      "score": 0.7639,
+      "importance": 0.7639,
+      "importance_score": 0.7639,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.75,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9428,
+        "recency": 0.9293,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -885,7 +968,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-08T20:48:03.786072Z"
+        "scored_at": "2026-10-08T22:01:14.757356Z"
       }
     },
     {
@@ -933,15 +1016,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7633,
-      "importance": 0.7633,
-      "importance_score": 0.7633,
+      "score": 0.7614,
+      "importance": 0.7614,
+      "importance_score": 0.7614,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.7,
         "source_tier": 1.0,
         "ai_relevance": 1.0,
-        "recency": 0.7407,
+        "recency": 0.73,
         "story_heat": 0.0
       },
       "category": "official",
@@ -967,7 +1050,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-08T20:48:03.786072Z"
+        "scored_at": "2026-10-08T22:01:14.757356Z"
       }
     },
     {
@@ -1015,15 +1098,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7627,
-      "importance": 0.7627,
-      "importance_score": 0.7627,
+      "score": 0.7601,
+      "importance": 0.7601,
+      "importance_score": 0.7601,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.71,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9893,
+        "recency": 0.9751,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1049,7 +1132,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-08T20:48:03.786072Z"
+        "scored_at": "2026-10-08T22:01:14.757356Z"
       }
     },
     {
@@ -1097,15 +1180,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7491,
-      "importance": 0.7491,
-      "importance_score": 0.7491,
+      "score": 0.7472,
+      "importance": 0.7472,
+      "importance_score": 0.7472,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.81,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7471,
+        "recency": 0.7364,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1130,7 +1213,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-08T20:48:03.786072Z"
+        "scored_at": "2026-10-08T22:01:14.757356Z"
       }
     },
     {
@@ -1178,15 +1261,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8053,
-      "importance": 0.8053,
-      "importance_score": 0.8053,
+      "score": 0.8034,
+      "importance": 0.8034,
+      "importance_score": 0.8034,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.7407,
+        "recency": 0.73,
         "story_heat": 0.0
       },
       "category": "official",
@@ -1213,7 +1296,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-08T20:48:03.786072Z"
+        "scored_at": "2026-10-08T22:01:14.757356Z"
       }
     },
     {
@@ -1261,15 +1344,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7451,
-      "importance": 0.7451,
-      "importance_score": 0.7451,
+      "score": 0.7425,
+      "importance": 0.7425,
+      "importance_score": 0.7425,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.66,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9748,
+        "recency": 0.9608,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1294,7 +1377,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-08T20:48:03.786072Z"
+        "scored_at": "2026-10-08T22:01:14.757356Z"
       }
     },
     {
@@ -1342,15 +1425,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7434,
-      "importance": 0.7434,
-      "importance_score": 0.7434,
+      "score": 0.7412,
+      "importance": 0.7412,
+      "importance_score": 0.7412,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8655,
+        "recency": 0.8531,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1375,7 +1458,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-08T20:48:03.786072Z"
+        "scored_at": "2026-10-08T22:01:14.757356Z"
       }
     },
     {
@@ -1423,15 +1506,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7725,
-      "importance": 0.7725,
-      "importance_score": 0.7725,
+      "score": 0.7702,
+      "importance": 0.7702,
+      "importance_score": 0.7702,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.8,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8938,
+        "recency": 0.881,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1457,7 +1540,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-08T20:48:03.786072Z"
+        "scored_at": "2026-10-08T22:01:14.757356Z"
       }
     },
     {
@@ -1505,15 +1588,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7373,
-      "importance": 0.7373,
-      "importance_score": 0.7373,
+      "score": 0.7349,
+      "importance": 0.7349,
+      "importance_score": 0.7349,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.66,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9317,
+        "recency": 0.9183,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1538,7 +1621,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-08T20:48:03.786072Z"
+        "scored_at": "2026-10-08T22:01:14.757356Z"
       }
     },
     {
@@ -1586,15 +1669,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7343,
-      "importance": 0.7343,
-      "importance_score": 0.7343,
+      "score": 0.7323,
+      "importance": 0.7323,
+      "importance_score": 0.7323,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.74,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7819,
+        "recency": 0.7706,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1619,88 +1702,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-08T20:48:03.786072Z"
-      }
-    },
-    {
-      "story_id": "story_69693d25de16",
-      "title": "Anthropic 用 Claude Managed Agents 构建定时智能体自动化的实践指南 / Building effective agent automations",
-      "url": "https://claude.dev/blog/building-effective-agent-automations",
-      "primary_url": "https://claude.dev/blog/building-effective-agent-automations",
-      "source": "Anthropic：Claude.dev 开发者博客（RSS）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "2684cbbd08e99b581673bf3478183d6f077bcf3e",
-          "title": "Anthropic 用 Claude Managed Agents 构建定时智能体自动化的实践指南 / Building effective agent automations",
-          "title_zh": "Anthropic 用 Claude Managed Agents 构建定时智能体自动化的实践指南",
-          "title_en": "Building effective agent automations",
-          "title_original": "Building effective agent automations",
-          "summary": "Anthropic 发布基于 Claude Managed Agents（beta）的每日简报参考实现，按计划读取 Slack 和 GitHub 来源并向 Slack 发布简报。",
-          "recommend_reason_zh": null,
-          "url": "https://claude.dev/blog/building-effective-agent-automations",
-          "source": "Anthropic：Claude.dev 开发者博客（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-08T12:00:00Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Anthropic：Claude.dev 开发者博客（RSS）"
-      ],
-      "items": [
-        {
-          "id": "2684cbbd08e99b581673bf3478183d6f077bcf3e",
-          "title": "Anthropic 用 Claude Managed Agents 构建定时智能体自动化的实践指南 / Building effective agent automations",
-          "title_zh": "Anthropic 用 Claude Managed Agents 构建定时智能体自动化的实践指南",
-          "title_en": "Building effective agent automations",
-          "title_original": "Building effective agent automations",
-          "summary": "Anthropic 发布基于 Claude Managed Agents（beta）的每日简报参考实现，按计划读取 Slack 和 GitHub 来源并向 Slack 发布简报。",
-          "recommend_reason_zh": null,
-          "url": "https://claude.dev/blog/building-effective-agent-automations",
-          "source": "Anthropic：Claude.dev 开发者博客（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-08T12:00:00Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7341,
-      "importance": 0.7341,
-      "importance_score": 0.7341,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.68,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.8808,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-10-08T12:00:00Z",
-      "latest_at": "2026-10-08T12:00:00Z",
-      "primary_item": {
-        "id": "2684cbbd08e99b581673bf3478183d6f077bcf3e",
-        "title": "Anthropic 用 Claude Managed Agents 构建定时智能体自动化的实践指南 / Building effective agent automations",
-        "title_zh": "Anthropic 用 Claude Managed Agents 构建定时智能体自动化的实践指南",
-        "title_en": "Building effective agent automations",
-        "title_original": "Building effective agent automations",
-        "summary": "Anthropic 发布基于 Claude Managed Agents（beta）的每日简报参考实现，按计划读取 Slack 和 GitHub 来源并向 Slack 发布简报。",
-        "recommend_reason_zh": null,
-        "url": "https://claude.dev/blog/building-effective-agent-automations",
-        "source": "Anthropic：Claude.dev 开发者博客（RSS）",
-        "source_name": "AI HOT"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-10-08T20:48:03.786072Z"
+        "scored_at": "2026-10-08T22:01:14.757356Z"
       }
     }
   ]
