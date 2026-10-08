@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-08T00:47:30.347942Z",
+  "generated_at": "2026-10-08T01:47:23.462123Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -106,15 +106,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.8942,
-      "importance": 0.8942,
-      "importance_score": 0.8942,
+      "score": 0.8919,
+      "importance": 0.8919,
+      "importance_score": 0.8919,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.87,
         "source_tier": 1.0,
         "ai_relevance": 1.0,
-        "recency": 0.9068,
+        "recency": 0.8938,
         "story_heat": 0.5
       },
       "category": "official",
@@ -141,7 +141,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-08T00:48:24.307401Z"
+        "scored_at": "2026-10-08T01:48:14.790255Z"
       }
     },
     {
@@ -189,15 +189,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8485,
-      "importance": 0.8485,
-      "importance_score": 0.8485,
+      "score": 0.8461,
+      "importance": 0.8461,
+      "importance_score": 0.8461,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.9359,
+        "recency": 0.9225,
         "story_heat": 0.0
       },
       "category": "official",
@@ -224,7 +224,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-08T00:48:24.307401Z"
+        "scored_at": "2026-10-08T01:48:14.790255Z"
       }
     },
     {
@@ -272,15 +272,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8406,
-      "importance": 0.8406,
-      "importance_score": 0.8406,
+      "score": 0.8383,
+      "importance": 0.8383,
+      "importance_score": 0.8383,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.8924,
+        "recency": 0.8796,
         "story_heat": 0.0
       },
       "category": "official",
@@ -307,7 +307,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-08T00:48:24.307401Z"
+        "scored_at": "2026-10-08T01:48:14.790255Z"
       }
     },
     {
@@ -355,15 +355,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8266,
-      "importance": 0.8266,
-      "importance_score": 0.8266,
+      "score": 0.8243,
+      "importance": 0.8243,
+      "importance_score": 0.8243,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.9034,
+        "recency": 0.8905,
         "story_heat": 0.0
       },
       "category": "official",
@@ -390,7 +390,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-08T00:48:24.307401Z"
+        "scored_at": "2026-10-08T01:48:14.790255Z"
       }
     },
     {
@@ -438,15 +438,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8216,
-      "importance": 0.8216,
-      "importance_score": 0.8216,
+      "score": 0.8195,
+      "importance": 0.8195,
+      "importance_score": 0.8195,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.8313,
+        "recency": 0.8194,
         "story_heat": 0.0
       },
       "category": "official",
@@ -473,7 +473,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-08T00:48:24.307401Z"
+        "scored_at": "2026-10-08T01:48:14.790255Z"
       }
     },
     {
@@ -521,15 +521,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8136,
-      "importance": 0.8136,
-      "importance_score": 0.8136,
+      "score": 0.8115,
+      "importance": 0.8115,
+      "importance_score": 0.8115,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.8313,
+        "recency": 0.8194,
         "story_heat": 0.0
       },
       "category": "official",
@@ -556,7 +556,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-08T00:48:24.307401Z"
+        "scored_at": "2026-10-08T01:48:14.790255Z"
       }
     },
     {
@@ -604,15 +604,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.836,
-      "importance": 0.836,
-      "importance_score": 0.836,
+      "score": 0.8338,
+      "importance": 0.8338,
+      "importance_score": 0.8338,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.94,
-        "recency": 0.8779,
+        "recency": 0.8653,
         "story_heat": 0.0
       },
       "category": "official",
@@ -639,7 +639,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-08T00:48:24.307401Z"
+        "scored_at": "2026-10-08T01:48:14.790255Z"
       }
     },
     {
@@ -687,15 +687,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8313,
-      "importance": 0.8313,
-      "importance_score": 0.8313,
+      "score": 0.8291,
+      "importance": 0.8291,
+      "importance_score": 0.8291,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.8405,
+        "recency": 0.8285,
         "story_heat": 0.0
       },
       "category": "official",
@@ -722,7 +722,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-08T00:48:24.307401Z"
+        "scored_at": "2026-10-08T01:48:14.790255Z"
       }
     },
     {
@@ -770,15 +770,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7935,
-      "importance": 0.7935,
-      "importance_score": 0.7935,
+      "score": 0.7912,
+      "importance": 0.7912,
+      "importance_score": 0.7912,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.7,
         "source_tier": 1.0,
         "ai_relevance": 1.0,
-        "recency": 0.9085,
+        "recency": 0.8955,
         "story_heat": 0.0
       },
       "category": "official",
@@ -804,7 +804,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-08T00:48:24.307401Z"
+        "scored_at": "2026-10-08T01:48:14.790255Z"
       }
     },
     {
@@ -852,15 +852,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8192,
-      "importance": 0.8192,
-      "importance_score": 0.8192,
+      "score": 0.8172,
+      "importance": 0.8172,
+      "importance_score": 0.8172,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.7734,
+        "recency": 0.7624,
         "story_heat": 0.0
       },
       "category": "official",
@@ -887,7 +887,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-08T00:48:24.307401Z"
+        "scored_at": "2026-10-08T01:48:14.790255Z"
       }
     },
     {
@@ -964,15 +964,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7886,
-      "importance": 0.7886,
-      "importance_score": 0.7886,
+      "score": 0.7862,
+      "importance": 0.7862,
+      "importance_score": 0.7862,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.6,
         "source_tier": 1.0,
         "ai_relevance": 1.0,
-        "recency": 0.9088,
+        "recency": 0.8958,
         "story_heat": 0.25
       },
       "category": "official",
@@ -999,7 +999,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-08T00:48:24.307401Z"
+        "scored_at": "2026-10-08T01:48:14.790255Z"
       }
     },
     {
@@ -1047,15 +1047,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.83,
-      "importance": 0.83,
-      "importance_score": 0.83,
+      "score": 0.8278,
+      "importance": 0.8278,
+      "importance_score": 0.8278,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.8779,
+        "recency": 0.8653,
         "story_heat": 0.0
       },
       "category": "official",
@@ -1082,7 +1082,89 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-08T00:48:24.307401Z"
+        "scored_at": "2026-10-08T01:48:14.790255Z"
+      }
+    },
+    {
+      "story_id": "story_29c83815cbb5",
+      "title": "Anthropic甩出Claude Haiku 5.5：小模型成本砍掉75%，推理强度也能自己调了",
+      "url": "https://www.aibase.com/news/31452",
+      "primary_url": "https://www.aibase.com/news/31452",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "10034be272aa8f2894aad69634d8e7f4128f1019",
+          "title": "Anthropic甩出Claude Haiku 5.5：小模型成本砍掉75%，推理强度也能自己调了",
+          "title_zh": "Anthropic甩出Claude Haiku 5.5：小模型成本砍掉75%，推理强度也能自己调了",
+          "title_en": null,
+          "title_original": "Anthropic甩出Claude Haiku 5.5：小模型成本砍掉75%，推理强度也能自己调了",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/31452",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-10-08T01:47:23.462123Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "10034be272aa8f2894aad69634d8e7f4128f1019",
+          "title": "Anthropic甩出Claude Haiku 5.5：小模型成本砍掉75%，推理强度也能自己调了",
+          "title_zh": "Anthropic甩出Claude Haiku 5.5：小模型成本砍掉75%，推理强度也能自己调了",
+          "title_en": null,
+          "title_original": "Anthropic甩出Claude Haiku 5.5：小模型成本砍掉75%，推理强度也能自己调了",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/31452",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-10-08T01:47:23.462123Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7676,
+      "importance": 0.7676,
+      "importance_score": 0.7676,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-10-08T01:47:23.462123Z",
+      "latest_at": "2026-10-08T01:47:23.462123Z",
+      "primary_item": {
+        "id": "10034be272aa8f2894aad69634d8e7f4128f1019",
+        "title": "Anthropic甩出Claude Haiku 5.5：小模型成本砍掉75%，推理强度也能自己调了",
+        "title_zh": "Anthropic甩出Claude Haiku 5.5：小模型成本砍掉75%，推理强度也能自己调了",
+        "title_en": null,
+        "title_original": "Anthropic甩出Claude Haiku 5.5：小模型成本砍掉75%，推理强度也能自己调了",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://www.aibase.com/news/31452",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-10-08T01:48:14.790255Z"
       }
     },
     {
@@ -1130,15 +1212,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7616,
-      "importance": 0.7616,
-      "importance_score": 0.7616,
+      "score": 0.7592,
+      "importance": 0.7592,
+      "importance_score": 0.7592,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.75,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9166,
+        "recency": 0.9034,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1164,7 +1246,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-08T00:48:24.307401Z"
+        "scored_at": "2026-10-08T01:48:14.790255Z"
       }
     },
     {
@@ -1212,15 +1294,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7613,
-      "importance": 0.7613,
-      "importance_score": 0.7613,
+      "score": 0.7591,
+      "importance": 0.7591,
+      "importance_score": 0.7591,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.78,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8653,
+        "recency": 0.8529,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1246,7 +1328,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-08T00:48:24.307401Z"
+        "scored_at": "2026-10-08T01:48:14.790255Z"
       }
     },
     {
@@ -1294,15 +1376,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7596,
-      "importance": 0.7596,
-      "importance_score": 0.7596,
+      "score": 0.7573,
+      "importance": 0.7573,
+      "importance_score": 0.7573,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.74,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9225,
+        "recency": 0.9093,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1328,7 +1410,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-08T00:48:24.307401Z"
+        "scored_at": "2026-10-08T01:48:14.790255Z"
       }
     },
     {
@@ -1376,15 +1458,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7483,
-      "importance": 0.7483,
-      "importance_score": 0.7483,
+      "score": 0.746,
+      "importance": 0.746,
+      "importance_score": 0.746,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.71,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9096,
+        "recency": 0.8966,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1409,7 +1491,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-08T00:48:24.307401Z"
+        "scored_at": "2026-10-08T01:48:14.790255Z"
       }
     },
     {
@@ -1457,15 +1539,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7447,
-      "importance": 0.7447,
-      "importance_score": 0.7447,
+      "score": 0.7425,
+      "importance": 0.7425,
+      "importance_score": 0.7425,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.73,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8561,
+        "recency": 0.8438,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1490,7 +1572,89 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-08T00:48:24.307401Z"
+        "scored_at": "2026-10-08T01:48:14.790255Z"
+      }
+    },
+    {
+      "story_id": "story_60cf01f4c8d6",
+      "title": "Meta 旗下 AI 助手 Muse 登录 iPad 平台，上线仅一月下载量超660万次",
+      "url": "https://www.aibase.com/news/31448",
+      "primary_url": "https://www.aibase.com/news/31448",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "709add3cf994b2b37f43e02ea0a8be46de11c76b",
+          "title": "Meta 旗下 AI 助手 Muse 登录 iPad 平台，上线仅一月下载量超660万次",
+          "title_zh": "Meta 旗下 AI 助手 Muse 登录 iPad 平台，上线仅一月下载量超660万次",
+          "title_en": null,
+          "title_original": "Meta 旗下 AI 助手 Muse 登录 iPad 平台，上线仅一月下载量超660万次",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/31448",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-10-08T01:47:23.462123Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "709add3cf994b2b37f43e02ea0a8be46de11c76b",
+          "title": "Meta 旗下 AI 助手 Muse 登录 iPad 平台，上线仅一月下载量超660万次",
+          "title_zh": "Meta 旗下 AI 助手 Muse 登录 iPad 平台，上线仅一月下载量超660万次",
+          "title_en": null,
+          "title_original": "Meta 旗下 AI 助手 Muse 登录 iPad 平台，上线仅一月下载量超660万次",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/31448",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-10-08T01:47:23.462123Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7676,
+      "importance": 0.7676,
+      "importance_score": 0.7676,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-10-08T01:47:23.462123Z",
+      "latest_at": "2026-10-08T01:47:23.462123Z",
+      "primary_item": {
+        "id": "709add3cf994b2b37f43e02ea0a8be46de11c76b",
+        "title": "Meta 旗下 AI 助手 Muse 登录 iPad 平台，上线仅一月下载量超660万次",
+        "title_zh": "Meta 旗下 AI 助手 Muse 登录 iPad 平台，上线仅一月下载量超660万次",
+        "title_en": null,
+        "title_original": "Meta 旗下 AI 助手 Muse 登录 iPad 平台，上线仅一月下载量超660万次",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://www.aibase.com/news/31448",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-10-08T01:48:14.790255Z"
       }
     },
     {
@@ -1538,15 +1702,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7384,
-      "importance": 0.7384,
-      "importance_score": 0.7384,
+      "score": 0.736,
+      "importance": 0.736,
+      "importance_score": 0.736,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.66,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9379,
+        "recency": 0.9245,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1571,171 +1735,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-08T00:48:24.307401Z"
-      }
-    },
-    {
-      "story_id": "story_63ffa7f8acf5",
-      "title": "Microsoft Research Asia 开源 Agent Lightning v1.0：3,500 行代码的真实 harness 智能体 RL 训练框架 / Agent Lightning v1.0: A 3,500-Line Lightweight Agentic RL Framework for Training Agents with Real Harnesses",
-      "url": "https://www.microsoft.com/en-us/research/blog/agent-lightning-v1-0-a-3500-line-lightweight-agentic-rl-framework-for-training-agents-with-real-harnesses",
-      "primary_url": "https://www.microsoft.com/en-us/research/blog/agent-lightning-v1-0-a-3500-line-lightweight-agentic-rl-framework-for-training-agents-with-real-harnesses",
-      "source": "Microsoft Research 博客（RSS）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "74ccba7acc445f10a7295fa2758bf445780c47b6",
-          "title": "Microsoft Research Asia 开源 Agent Lightning v1.0：3,500 行代码的真实 harness 智能体 RL 训练框架 / Agent Lightning v1.0: A 3,500-Line Lightweight Agentic RL Framework for Training Agents with Real Harnesses",
-          "title_zh": "Microsoft Research Asia 开源 Agent Lightning v1.0：3,500 行代码的真实 harness 智能体 RL 训练框架",
-          "title_en": "Agent Lightning v1.0: A 3,500-Line Lightweight Agentic RL Framework for Training Agents with Real Harnesses",
-          "title_original": "Agent Lightning v1.0: A 3,500-Line Lightweight Agentic RL Framework for Training Agents with Real Harnesses",
-          "summary": "Microsoft Research Asia 提出 Harnessed Agentic RL 训练范式并开源重建的 Agent Lightning v1.0，让部署时使用的同一 agent harness 直接参与强化学习，无需在训练框架内重写 agent。",
-          "recommend_reason_zh": null,
-          "url": "https://www.microsoft.com/en-us/research/blog/agent-lightning-v1-0-a-3500-line-lightweight-agentic-rl-framework-for-training-agents-with-real-harnesses",
-          "source": "Microsoft Research 博客（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-07T16:00:00Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Microsoft Research 博客（RSS）"
-      ],
-      "items": [
-        {
-          "id": "74ccba7acc445f10a7295fa2758bf445780c47b6",
-          "title": "Microsoft Research Asia 开源 Agent Lightning v1.0：3,500 行代码的真实 harness 智能体 RL 训练框架 / Agent Lightning v1.0: A 3,500-Line Lightweight Agentic RL Framework for Training Agents with Real Harnesses",
-          "title_zh": "Microsoft Research Asia 开源 Agent Lightning v1.0：3,500 行代码的真实 harness 智能体 RL 训练框架",
-          "title_en": "Agent Lightning v1.0: A 3,500-Line Lightweight Agentic RL Framework for Training Agents with Real Harnesses",
-          "title_original": "Agent Lightning v1.0: A 3,500-Line Lightweight Agentic RL Framework for Training Agents with Real Harnesses",
-          "summary": "Microsoft Research Asia 提出 Harnessed Agentic RL 训练范式并开源重建的 Agent Lightning v1.0，让部署时使用的同一 agent harness 直接参与强化学习，无需在训练框架内重写 agent。",
-          "recommend_reason_zh": null,
-          "url": "https://www.microsoft.com/en-us/research/blog/agent-lightning-v1-0-a-3500-line-lightweight-agentic-rl-framework-for-training-agents-with-real-harnesses",
-          "source": "Microsoft Research 博客（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-07T16:00:00Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7371,
-      "importance": 0.7371,
-      "importance_score": 0.7371,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.69,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.8808,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-10-07T16:00:00Z",
-      "latest_at": "2026-10-07T16:00:00Z",
-      "primary_item": {
-        "id": "74ccba7acc445f10a7295fa2758bf445780c47b6",
-        "title": "Microsoft Research Asia 开源 Agent Lightning v1.0：3,500 行代码的真实 harness 智能体 RL 训练框架 / Agent Lightning v1.0: A 3,500-Line Lightweight Agentic RL Framework for Training Agents with Real Harnesses",
-        "title_zh": "Microsoft Research Asia 开源 Agent Lightning v1.0：3,500 行代码的真实 harness 智能体 RL 训练框架",
-        "title_en": "Agent Lightning v1.0: A 3,500-Line Lightweight Agentic RL Framework for Training Agents with Real Harnesses",
-        "title_original": "Agent Lightning v1.0: A 3,500-Line Lightweight Agentic RL Framework for Training Agents with Real Harnesses",
-        "summary": "Microsoft Research Asia 提出 Harnessed Agentic RL 训练范式并开源重建的 Agent Lightning v1.0，让部署时使用的同一 agent harness 直接参与强化学习，无需在训练框架内重写 agent。",
-        "recommend_reason_zh": null,
-        "url": "https://www.microsoft.com/en-us/research/blog/agent-lightning-v1-0-a-3500-line-lightweight-agentic-rl-framework-for-training-agents-with-real-harnesses",
-        "source": "Microsoft Research 博客（RSS）",
-        "source_name": "AI HOT"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-10-08T00:48:24.307401Z"
-      }
-    },
-    {
-      "story_id": "story_a5dc5a4d2dcb",
-      "title": "用于泄露秘密检测的专用模型 / Purpose-built model for leaked secret detection",
-      "url": "https://github.blog/changelog/2026-10-07-purpose-built-model-for-leaked-secret-detection",
-      "primary_url": "https://github.blog/changelog/2026-10-07-purpose-built-model-for-leaked-secret-detection",
-      "source": "GitHub Changelog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "6ee63ce2297e3b1235a0088ed54c15b30891ac18",
-          "title": "用于泄露秘密检测的专用模型 / Purpose-built model for leaked secret detection",
-          "title_zh": "用于泄露秘密检测的专用模型",
-          "title_en": "Purpose-built model for leaked secret detection",
-          "title_original": "Purpose-built model for leaked secret detection",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-10-07-purpose-built-model-for-leaked-secret-detection",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-10-07T16:13:56Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "GitHub Changelog"
-      ],
-      "items": [
-        {
-          "id": "6ee63ce2297e3b1235a0088ed54c15b30891ac18",
-          "title": "用于泄露秘密检测的专用模型 / Purpose-built model for leaked secret detection",
-          "title_zh": "用于泄露秘密检测的专用模型",
-          "title_en": "Purpose-built model for leaked secret detection",
-          "title_original": "Purpose-built model for leaked secret detection",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-10-07-purpose-built-model-for-leaked-secret-detection",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-10-07T16:13:56Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8231,
-      "importance": 0.8231,
-      "importance_score": 0.8231,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.87,
-        "recency": 0.8837,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-10-07T16:13:56Z",
-      "latest_at": "2026-10-07T16:13:56Z",
-      "primary_item": {
-        "id": "6ee63ce2297e3b1235a0088ed54c15b30891ac18",
-        "title": "用于泄露秘密检测的专用模型 / Purpose-built model for leaked secret detection",
-        "title_zh": "用于泄露秘密检测的专用模型",
-        "title_en": "Purpose-built model for leaked secret detection",
-        "title_original": "Purpose-built model for leaked secret detection",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://github.blog/changelog/2026-10-07-purpose-built-model-for-leaked-secret-detection",
-        "source": "GitHub Changelog",
-        "source_name": "Official AI Updates"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-10-08T00:48:24.307401Z"
+        "scored_at": "2026-10-08T01:48:14.790255Z"
       }
     }
   ]
