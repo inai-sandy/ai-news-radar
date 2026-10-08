@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-08T12:47:20.372626Z",
+  "generated_at": "2026-10-08T13:47:24.784915Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -106,15 +106,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.8683,
-      "importance": 0.8683,
-      "importance_score": 0.8683,
+      "score": 0.8663,
+      "importance": 0.8663,
+      "importance_score": 0.8663,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.87,
         "source_tier": 1.0,
         "ai_relevance": 1.0,
-        "recency": 0.7625,
+        "recency": 0.7516,
         "story_heat": 0.5
       },
       "category": "official",
@@ -141,7 +141,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-08T12:49:36.325115Z"
+        "scored_at": "2026-10-08T13:48:23.970479Z"
       }
     },
     {
@@ -189,15 +189,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8256,
-      "importance": 0.8256,
-      "importance_score": 0.8256,
+      "score": 0.8234,
+      "importance": 0.8234,
+      "importance_score": 0.8234,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 1.0,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8557,
+        "recency": 0.8434,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -223,7 +223,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-08T12:49:36.325115Z"
+        "scored_at": "2026-10-08T13:48:23.970479Z"
       }
     },
     {
@@ -271,15 +271,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8217,
-      "importance": 0.8217,
-      "importance_score": 0.8217,
+      "score": 0.8196,
+      "importance": 0.8196,
+      "importance_score": 0.8196,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.787,
+        "recency": 0.7757,
         "story_heat": 0.0
       },
       "category": "official",
@@ -306,7 +306,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-08T12:49:36.325115Z"
+        "scored_at": "2026-10-08T13:48:23.970479Z"
       }
     },
     {
@@ -354,15 +354,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8151,
-      "importance": 0.8151,
-      "importance_score": 0.8151,
+      "score": 0.8131,
+      "importance": 0.8131,
+      "importance_score": 0.8131,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.7505,
+        "recency": 0.7397,
         "story_heat": 0.0
       },
       "category": "official",
@@ -389,7 +389,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-08T12:49:36.325115Z"
+        "scored_at": "2026-10-08T13:48:23.970479Z"
       }
     },
     {
@@ -437,15 +437,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8008,
-      "importance": 0.8008,
-      "importance_score": 0.8008,
+      "score": 0.7988,
+      "importance": 0.7988,
+      "importance_score": 0.7988,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.7597,
+        "recency": 0.7488,
         "story_heat": 0.0
       },
       "category": "official",
@@ -472,30 +472,30 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-08T12:49:36.325115Z"
+        "scored_at": "2026-10-08T13:48:23.970479Z"
       }
     },
     {
-      "story_id": "story_8b891e5bed56",
-      "title": "Crowdstrike 报告疑似单人使用 AI 渗透工具攻击多家韩国银行 / AI-powered hacking tools enabled a likely single attacker to breach multiple South Korean banks",
-      "url": "https://the-decoder.com/ai-powered-hacking-tools-enabled-a-likely-single-attacker-to-breach-multiple-south-korean-banks",
-      "primary_url": "https://the-decoder.com/ai-powered-hacking-tools-enabled-a-likely-single-attacker-to-breach-multiple-south-korean-banks",
+      "story_id": "story_e42c7cb753df",
+      "title": "Zenity 研究人员发现一条提示词即可劫持 AWS 账户内全部 AgentCore 智能体 / A single prompt was enough to hijack every AI agent in an AWS account, Zenity researchers found",
+      "url": "https://the-decoder.com/a-single-prompt-was-enough-to-hijack-every-ai-agent-in-an-aws-account-zenity-researchers-found",
+      "primary_url": "https://the-decoder.com/a-single-prompt-was-enough-to-hijack-every-ai-agent-in-an-aws-account-zenity-researchers-found",
       "source": "The Decoder：AI News（RSS）",
       "source_name": "AI HOT",
       "sources": [
         {
-          "id": "96cef21a5d9693679c7089b34bd71f25214088e0",
-          "title": "Crowdstrike 报告疑似单人使用 AI 渗透工具攻击多家韩国银行 / AI-powered hacking tools enabled a likely single attacker to breach multiple South Korean banks",
-          "title_zh": "Crowdstrike 报告疑似单人使用 AI 渗透工具攻击多家韩国银行",
-          "title_en": "AI-powered hacking tools enabled a likely single attacker to breach multiple South Korean banks",
-          "title_original": "AI-powered hacking tools enabled a likely single attacker to breach multiple South Korean banks",
-          "summary": "Crowdstrike 报告称，一名疑似中文使用者于2026年9月底至10月初利用 AI 驱动的开源渗透测试工具 ARTEX 攻击多家韩国金融机构，窃取大量数据，其中 Shinhan Bank 超过 25,000 条包含姓名、联系方式、收入和信用额度的记录泄露。",
+          "id": "53da602216c4fe60a67d386a9ccbd530bab544a0",
+          "title": "Zenity 研究人员发现一条提示词即可劫持 AWS 账户内全部 AgentCore 智能体 / A single prompt was enough to hijack every AI agent in an AWS account, Zenity researchers found",
+          "title_zh": "Zenity 研究人员发现一条提示词即可劫持 AWS 账户内全部 AgentCore 智能体",
+          "title_en": "A single prompt was enough to hijack every AI agent in an AWS account, Zenity researchers found",
+          "title_original": "A single prompt was enough to hijack every AI agent in an AWS account, Zenity researchers found",
+          "summary": "Zenity Labs 研究人员披露名为 AgentCorruption 的漏洞链，只需对一个公开的 Amazon Bedrock AgentCore 智能体发送一条提示词，即可通过元数据服务 169.254.169.254 窃取其 AWS 凭据，进而控制同账户同区域内的所有 AgentCore 智能体，读取私人对话、源代码和存储的凭据，还能篡改长期记忆。",
           "recommend_reason_zh": null,
-          "url": "https://the-decoder.com/ai-powered-hacking-tools-enabled-a-likely-single-attacker-to-breach-multiple-south-korean-banks",
+          "url": "https://the-decoder.com/a-single-prompt-was-enough-to-hijack-every-ai-agent-in-an-aws-account-zenity-researchers-found",
           "source": "The Decoder：AI News（RSS）",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-10-08T09:24:17Z"
+          "published_at": "2026-10-08T13:01:01Z"
         }
       ],
       "source_count": 1,
@@ -504,31 +504,31 @@
       ],
       "items": [
         {
-          "id": "96cef21a5d9693679c7089b34bd71f25214088e0",
-          "title": "Crowdstrike 报告疑似单人使用 AI 渗透工具攻击多家韩国银行 / AI-powered hacking tools enabled a likely single attacker to breach multiple South Korean banks",
-          "title_zh": "Crowdstrike 报告疑似单人使用 AI 渗透工具攻击多家韩国银行",
-          "title_en": "AI-powered hacking tools enabled a likely single attacker to breach multiple South Korean banks",
-          "title_original": "AI-powered hacking tools enabled a likely single attacker to breach multiple South Korean banks",
-          "summary": "Crowdstrike 报告称，一名疑似中文使用者于2026年9月底至10月初利用 AI 驱动的开源渗透测试工具 ARTEX 攻击多家韩国金融机构，窃取大量数据，其中 Shinhan Bank 超过 25,000 条包含姓名、联系方式、收入和信用额度的记录泄露。",
+          "id": "53da602216c4fe60a67d386a9ccbd530bab544a0",
+          "title": "Zenity 研究人员发现一条提示词即可劫持 AWS 账户内全部 AgentCore 智能体 / A single prompt was enough to hijack every AI agent in an AWS account, Zenity researchers found",
+          "title_zh": "Zenity 研究人员发现一条提示词即可劫持 AWS 账户内全部 AgentCore 智能体",
+          "title_en": "A single prompt was enough to hijack every AI agent in an AWS account, Zenity researchers found",
+          "title_original": "A single prompt was enough to hijack every AI agent in an AWS account, Zenity researchers found",
+          "summary": "Zenity Labs 研究人员披露名为 AgentCorruption 的漏洞链，只需对一个公开的 Amazon Bedrock AgentCore 智能体发送一条提示词，即可通过元数据服务 169.254.169.254 窃取其 AWS 凭据，进而控制同账户同区域内的所有 AgentCore 智能体，读取私人对话、源代码和存储的凭据，还能篡改长期记忆。",
           "recommend_reason_zh": null,
-          "url": "https://the-decoder.com/ai-powered-hacking-tools-enabled-a-likely-single-attacker-to-breach-multiple-south-korean-banks",
+          "url": "https://the-decoder.com/a-single-prompt-was-enough-to-hijack-every-ai-agent-in-an-aws-account-zenity-researchers-found",
           "source": "The Decoder：AI News（RSS）",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-10-08T09:24:17Z"
+          "published_at": "2026-10-08T13:01:01Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.789,
-      "importance": 0.789,
-      "importance_score": 0.789,
+      "score": 0.7896,
+      "importance": 0.7896,
+      "importance_score": 0.7896,
       "importance_label": "行业动态",
       "importance_breakdown": {
-        "editorial": 0.82,
+        "editorial": 0.8,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9523,
+        "recency": 0.9889,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -536,17 +536,17 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-10-08T09:24:17Z",
-      "latest_at": "2026-10-08T09:24:17Z",
+      "earliest_at": "2026-10-08T13:01:01Z",
+      "latest_at": "2026-10-08T13:01:01Z",
       "primary_item": {
-        "id": "96cef21a5d9693679c7089b34bd71f25214088e0",
-        "title": "Crowdstrike 报告疑似单人使用 AI 渗透工具攻击多家韩国银行 / AI-powered hacking tools enabled a likely single attacker to breach multiple South Korean banks",
-        "title_zh": "Crowdstrike 报告疑似单人使用 AI 渗透工具攻击多家韩国银行",
-        "title_en": "AI-powered hacking tools enabled a likely single attacker to breach multiple South Korean banks",
-        "title_original": "AI-powered hacking tools enabled a likely single attacker to breach multiple South Korean banks",
-        "summary": "Crowdstrike 报告称，一名疑似中文使用者于2026年9月底至10月初利用 AI 驱动的开源渗透测试工具 ARTEX 攻击多家韩国金融机构，窃取大量数据，其中 Shinhan Bank 超过 25,000 条包含姓名、联系方式、收入和信用额度的记录泄露。",
+        "id": "53da602216c4fe60a67d386a9ccbd530bab544a0",
+        "title": "Zenity 研究人员发现一条提示词即可劫持 AWS 账户内全部 AgentCore 智能体 / A single prompt was enough to hijack every AI agent in an AWS account, Zenity researchers found",
+        "title_zh": "Zenity 研究人员发现一条提示词即可劫持 AWS 账户内全部 AgentCore 智能体",
+        "title_en": "A single prompt was enough to hijack every AI agent in an AWS account, Zenity researchers found",
+        "title_original": "A single prompt was enough to hijack every AI agent in an AWS account, Zenity researchers found",
+        "summary": "Zenity Labs 研究人员披露名为 AgentCorruption 的漏洞链，只需对一个公开的 Amazon Bedrock AgentCore 智能体发送一条提示词，即可通过元数据服务 169.254.169.254 窃取其 AWS 凭据，进而控制同账户同区域内的所有 AgentCore 智能体，读取私人对话、源代码和存储的凭据，还能篡改长期记忆。",
         "recommend_reason_zh": null,
-        "url": "https://the-decoder.com/ai-powered-hacking-tools-enabled-a-likely-single-attacker-to-breach-multiple-south-korean-banks",
+        "url": "https://the-decoder.com/a-single-prompt-was-enough-to-hijack-every-ai-agent-in-an-aws-account-zenity-researchers-found",
         "source": "The Decoder：AI News（RSS）",
         "source_name": "AI HOT"
       },
@@ -554,7 +554,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-08T12:49:36.325115Z"
+        "scored_at": "2026-10-08T13:48:23.970479Z"
       }
     },
     {
@@ -602,15 +602,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8109,
-      "importance": 0.8109,
-      "importance_score": 0.8109,
+      "score": 0.809,
+      "importance": 0.809,
+      "importance_score": 0.809,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.94,
-        "recency": 0.7382,
+        "recency": 0.7276,
         "story_heat": 0.0
       },
       "category": "official",
@@ -637,7 +637,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-08T12:49:36.325115Z"
+        "scored_at": "2026-10-08T13:48:23.970479Z"
       }
     },
     {
@@ -714,15 +714,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7759,
-      "importance": 0.7759,
-      "importance_score": 0.7759,
+      "score": 0.7737,
+      "importance": 0.7737,
+      "importance_score": 0.7737,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.76,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8406,
+        "recency": 0.8286,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -749,7 +749,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-08T12:49:36.325115Z"
+        "scored_at": "2026-10-08T13:48:23.970479Z"
       }
     },
     {
@@ -797,15 +797,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7675,
-      "importance": 0.7675,
-      "importance_score": 0.7675,
+      "score": 0.7655,
+      "importance": 0.7655,
+      "importance_score": 0.7655,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.7,
         "source_tier": 1.0,
         "ai_relevance": 1.0,
-        "recency": 0.764,
+        "recency": 0.753,
         "story_heat": 0.0
       },
       "category": "official",
@@ -831,7 +831,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-08T12:49:36.325115Z"
+        "scored_at": "2026-10-08T13:48:23.970479Z"
       }
     },
     {
@@ -908,15 +908,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7626,
-      "importance": 0.7626,
-      "importance_score": 0.7626,
+      "score": 0.7606,
+      "importance": 0.7606,
+      "importance_score": 0.7606,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.6,
         "source_tier": 1.0,
         "ai_relevance": 1.0,
-        "recency": 0.7643,
+        "recency": 0.7533,
         "story_heat": 0.25
       },
       "category": "official",
@@ -943,7 +943,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-08T12:49:36.325115Z"
+        "scored_at": "2026-10-08T13:48:23.970479Z"
       }
     },
     {
@@ -991,15 +991,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7625,
-      "importance": 0.7625,
-      "importance_score": 0.7625,
+      "score": 0.76,
+      "importance": 0.76,
+      "importance_score": 0.76,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9715,
+        "recency": 0.9576,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1025,7 +1025,89 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-08T12:49:36.325115Z"
+        "scored_at": "2026-10-08T13:48:23.970479Z"
+      }
+    },
+    {
+      "story_id": "story_8b891e5bed56",
+      "title": "Crowdstrike 报告疑似单人使用 AI 渗透工具攻击多家韩国银行 / AI-powered hacking tools enabled a likely single attacker to breach multiple South Korean banks",
+      "url": "https://the-decoder.com/ai-powered-hacking-tools-enabled-a-likely-single-attacker-to-breach-multiple-south-korean-banks",
+      "primary_url": "https://the-decoder.com/ai-powered-hacking-tools-enabled-a-likely-single-attacker-to-breach-multiple-south-korean-banks",
+      "source": "The Decoder：AI News（RSS）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "96cef21a5d9693679c7089b34bd71f25214088e0",
+          "title": "Crowdstrike 报告疑似单人使用 AI 渗透工具攻击多家韩国银行 / AI-powered hacking tools enabled a likely single attacker to breach multiple South Korean banks",
+          "title_zh": "Crowdstrike 报告疑似单人使用 AI 渗透工具攻击多家韩国银行",
+          "title_en": "AI-powered hacking tools enabled a likely single attacker to breach multiple South Korean banks",
+          "title_original": "AI-powered hacking tools enabled a likely single attacker to breach multiple South Korean banks",
+          "summary": "Crowdstrike 报告称，一名疑似中文使用者于2026年9月底至10月初利用 AI 驱动的开源渗透测试工具 ARTEX 攻击多家韩国金融机构，窃取大量数据，其中 Shinhan Bank 超过 25,000 条包含姓名、联系方式、收入和信用额度的记录泄露。",
+          "recommend_reason_zh": null,
+          "url": "https://the-decoder.com/ai-powered-hacking-tools-enabled-a-likely-single-attacker-to-breach-multiple-south-korean-banks",
+          "source": "The Decoder：AI News（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-08T09:24:17Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "The Decoder：AI News（RSS）"
+      ],
+      "items": [
+        {
+          "id": "96cef21a5d9693679c7089b34bd71f25214088e0",
+          "title": "Crowdstrike 报告疑似单人使用 AI 渗透工具攻击多家韩国银行 / AI-powered hacking tools enabled a likely single attacker to breach multiple South Korean banks",
+          "title_zh": "Crowdstrike 报告疑似单人使用 AI 渗透工具攻击多家韩国银行",
+          "title_en": "AI-powered hacking tools enabled a likely single attacker to breach multiple South Korean banks",
+          "title_original": "AI-powered hacking tools enabled a likely single attacker to breach multiple South Korean banks",
+          "summary": "Crowdstrike 报告称，一名疑似中文使用者于2026年9月底至10月初利用 AI 驱动的开源渗透测试工具 ARTEX 攻击多家韩国金融机构，窃取大量数据，其中 Shinhan Bank 超过 25,000 条包含姓名、联系方式、收入和信用额度的记录泄露。",
+          "recommend_reason_zh": null,
+          "url": "https://the-decoder.com/ai-powered-hacking-tools-enabled-a-likely-single-attacker-to-breach-multiple-south-korean-banks",
+          "source": "The Decoder：AI News（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-08T09:24:17Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7866,
+      "importance": 0.7866,
+      "importance_score": 0.7866,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.82,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9386,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-10-08T09:24:17Z",
+      "latest_at": "2026-10-08T09:24:17Z",
+      "primary_item": {
+        "id": "96cef21a5d9693679c7089b34bd71f25214088e0",
+        "title": "Crowdstrike 报告疑似单人使用 AI 渗透工具攻击多家韩国银行 / AI-powered hacking tools enabled a likely single attacker to breach multiple South Korean banks",
+        "title_zh": "Crowdstrike 报告疑似单人使用 AI 渗透工具攻击多家韩国银行",
+        "title_en": "AI-powered hacking tools enabled a likely single attacker to breach multiple South Korean banks",
+        "title_original": "AI-powered hacking tools enabled a likely single attacker to breach multiple South Korean banks",
+        "summary": "Crowdstrike 报告称，一名疑似中文使用者于2026年9月底至10月初利用 AI 驱动的开源渗透测试工具 ARTEX 攻击多家韩国金融机构，窃取大量数据，其中 Shinhan Bank 超过 25,000 条包含姓名、联系方式、收入和信用额度的记录泄露。",
+        "recommend_reason_zh": null,
+        "url": "https://the-decoder.com/ai-powered-hacking-tools-enabled-a-likely-single-attacker-to-breach-multiple-south-korean-banks",
+        "source": "The Decoder：AI News（RSS）",
+        "source_name": "AI HOT"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-10-08T13:48:23.970479Z"
       }
     },
     {
@@ -1073,21 +1155,20 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7516,
-      "importance": 0.7516,
-      "importance_score": 0.7516,
+      "score": 0.7493,
+      "importance": 0.7493,
+      "importance_score": 0.7493,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.74,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8776,
+        "recency": 0.865,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-10-08T03:44:55Z",
       "latest_at": "2026-10-08T03:44:55Z",
@@ -1107,7 +1188,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-08T12:49:36.325115Z"
+        "scored_at": "2026-10-08T13:48:23.970479Z"
       }
     },
     {
@@ -1155,15 +1236,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8049,
-      "importance": 0.8049,
-      "importance_score": 0.8049,
+      "score": 0.803,
+      "importance": 0.803,
+      "importance_score": 0.803,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.7382,
+        "recency": 0.7276,
         "story_heat": 0.0
       },
       "category": "official",
@@ -1190,7 +1271,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-08T12:49:36.325115Z"
+        "scored_at": "2026-10-08T13:48:23.970479Z"
       }
     },
     {
@@ -1238,15 +1319,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7366,
-      "importance": 0.7366,
-      "importance_score": 0.7366,
+      "score": 0.7347,
+      "importance": 0.7347,
+      "importance_score": 0.7347,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.78,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7276,
+        "recency": 0.7172,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1271,7 +1352,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-08T12:49:36.325115Z"
+        "scored_at": "2026-10-08T13:48:23.970479Z"
       }
     },
     {
@@ -1319,15 +1400,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7353,
-      "importance": 0.7353,
-      "importance_score": 0.7353,
+      "score": 0.7333,
+      "importance": 0.7333,
+      "importance_score": 0.7333,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.75,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7708,
+        "recency": 0.7597,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1352,7 +1433,88 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-08T12:49:36.325115Z"
+        "scored_at": "2026-10-08T13:48:23.970479Z"
+      }
+    },
+    {
+      "story_id": "story_ef96bd3c8eb8",
+      "title": "Waymo 完成 50 亿美元债务融资，加速业务扩张 / Waymo Closes $5 Billion Debt Financing to Accelerate Business Expansion",
+      "url": "https://waymo.com/blog/2026/10/waymo-closes-5-billion-debt-financing",
+      "primary_url": "https://waymo.com/blog/2026/10/waymo-closes-5-billion-debt-financing",
+      "source": "Waymo：Blog（网页）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "c8a30281b81dd2999625160b015534ef14988904",
+          "title": "Waymo 完成 50 亿美元债务融资，加速业务扩张 / Waymo Closes $5 Billion Debt Financing to Accelerate Business Expansion",
+          "title_zh": "Waymo 完成 50 亿美元债务融资，加速业务扩张",
+          "title_en": "Waymo Closes $5 Billion Debt Financing to Accelerate Business Expansion",
+          "title_original": "Waymo Closes $5 Billion Debt Financing to Accelerate Business Expansion",
+          "summary": "Waymo 宣布完成 50 亿美元定期贷款，这是其首次债务融资。PIMCO、Blackstone 和 Sixth Street 担任牵头银团贷方，Goldman Sachs 担任独家主账簿管理人；资金将用于加速其全自动驾驶打车服务在美国及国际市场的扩张。此前今年早些时候 Waymo 完成了 160 亿美元股权融资，上个月刚在第十五个美国城市启动服务。",
+          "recommend_reason_zh": null,
+          "url": "https://waymo.com/blog/2026/10/waymo-closes-5-billion-debt-financing",
+          "source": "Waymo：Blog（网页）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-08T07:00:00Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Waymo：Blog（网页）"
+      ],
+      "items": [
+        {
+          "id": "c8a30281b81dd2999625160b015534ef14988904",
+          "title": "Waymo 完成 50 亿美元债务融资，加速业务扩张 / Waymo Closes $5 Billion Debt Financing to Accelerate Business Expansion",
+          "title_zh": "Waymo 完成 50 亿美元债务融资，加速业务扩张",
+          "title_en": "Waymo Closes $5 Billion Debt Financing to Accelerate Business Expansion",
+          "title_original": "Waymo Closes $5 Billion Debt Financing to Accelerate Business Expansion",
+          "summary": "Waymo 宣布完成 50 亿美元定期贷款，这是其首次债务融资。PIMCO、Blackstone 和 Sixth Street 担任牵头银团贷方，Goldman Sachs 担任独家主账簿管理人；资金将用于加速其全自动驾驶打车服务在美国及国际市场的扩张。此前今年早些时候 Waymo 完成了 160 亿美元股权融资，上个月刚在第十五个美国城市启动服务。",
+          "recommend_reason_zh": null,
+          "url": "https://waymo.com/blog/2026/10/waymo-closes-5-billion-debt-financing",
+          "source": "Waymo：Blog（网页）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-08T07:00:00Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7328,
+      "importance": 0.7328,
+      "importance_score": 0.7328,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.66,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9066,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-10-08T07:00:00Z",
+      "latest_at": "2026-10-08T07:00:00Z",
+      "primary_item": {
+        "id": "c8a30281b81dd2999625160b015534ef14988904",
+        "title": "Waymo 完成 50 亿美元债务融资，加速业务扩张 / Waymo Closes $5 Billion Debt Financing to Accelerate Business Expansion",
+        "title_zh": "Waymo 完成 50 亿美元债务融资，加速业务扩张",
+        "title_en": "Waymo Closes $5 Billion Debt Financing to Accelerate Business Expansion",
+        "title_original": "Waymo Closes $5 Billion Debt Financing to Accelerate Business Expansion",
+        "summary": "Waymo 宣布完成 50 亿美元定期贷款，这是其首次债务融资。PIMCO、Blackstone 和 Sixth Street 担任牵头银团贷方，Goldman Sachs 担任独家主账簿管理人；资金将用于加速其全自动驾驶打车服务在美国及国际市场的扩张。此前今年早些时候 Waymo 完成了 160 亿美元股权融资，上个月刚在第十五个美国城市启动服务。",
+        "recommend_reason_zh": null,
+        "url": "https://waymo.com/blog/2026/10/waymo-closes-5-billion-debt-financing",
+        "source": "Waymo：Blog（网页）",
+        "source_name": "AI HOT"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-10-08T13:48:23.970479Z"
       }
     },
     {
@@ -1400,15 +1562,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7332,
-      "importance": 0.7332,
-      "importance_score": 0.7332,
+      "score": 0.7312,
+      "importance": 0.7312,
+      "importance_score": 0.7312,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.74,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7757,
+        "recency": 0.7646,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1433,7 +1595,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-08T12:49:36.325115Z"
+        "scored_at": "2026-10-08T13:48:23.970479Z"
       }
     },
     {
@@ -1481,15 +1643,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.76,
-      "importance": 0.76,
-      "importance_score": 0.76,
+      "score": 0.7575,
+      "importance": 0.7575,
+      "importance_score": 0.7575,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9576,
+        "recency": 0.9439,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1515,7 +1677,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-08T12:49:36.325115Z"
+        "scored_at": "2026-10-08T13:48:23.970479Z"
       }
     },
     {
@@ -1592,15 +1754,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7289,
-      "importance": 0.7289,
-      "importance_score": 0.7289,
+      "score": 0.7269,
+      "importance": 0.7269,
+      "importance_score": 0.7269,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.65,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7626,
+        "recency": 0.7517,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -1626,169 +1788,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-08T12:49:36.325115Z"
-      }
-    },
-    {
-      "story_id": "story_e4350e8ce423",
-      "title": "Cursor 公布 Claude Haiku 5.5 定价并下调 Claude Sonnet 5.5 缓存读取价格 / Claude Haiku 5.5 is priced at $0.10/M input and $0.50/M output tokens, or $0.50/M and $2.50/M above 100k input tokens.",
-      "url": "https://x.com/cursor_ai/status/2107897257651769464",
-      "primary_url": "https://x.com/cursor_ai/status/2107897257651769464",
-      "source": "X：Cursor (@cursor_ai)",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "53355e489f229621f1e8889e7bc47861aa900a2a",
-          "title": "Cursor 公布 Claude Haiku 5.5 定价并下调 Claude Sonnet 5.5 缓存读取价格 / Claude Haiku 5.5 is priced at $0.10/M input and $0.50/M output tokens, or $0.50/M and $2.50/M above 100k input tokens.",
-          "title_zh": "Cursor 公布 Claude Haiku 5.5 定价并下调 Claude Sonnet 5.5 缓存读取价格",
-          "title_en": "Claude Haiku 5.5 is priced at $0.10/M input and $0.50/M output tokens, or $0.50/M and $2.50/M above 100k input tokens.",
-          "title_original": "Claude Haiku 5.5 is priced at $0.10/M input and $0.50/M output tokens, or $0.50/M and $2.50/M above 100k input tokens.",
-          "summary": "Cursor 公布 Claude Haiku 5.5 定价为每 M 输入 token $0.10、输出 token $0.50，输入超过 100k token 时为 $0.50/M 和 $2.50/M。Claude Sonnet 5.5 缓存读取价格也从 $0.20/M 降至 $0.10/M，用户可在 cursor.com/evals 上通过 CursorBench 对比 Haiku 5.5 的表现。",
-          "recommend_reason_zh": null,
-          "url": "https://x.com/cursor_ai/status/2107897257651769464",
-          "source": "X：Cursor (@cursor_ai)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-07T18:14:03Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "X：Cursor (@cursor_ai)"
-      ],
-      "items": [
-        {
-          "id": "53355e489f229621f1e8889e7bc47861aa900a2a",
-          "title": "Cursor 公布 Claude Haiku 5.5 定价并下调 Claude Sonnet 5.5 缓存读取价格 / Claude Haiku 5.5 is priced at $0.10/M input and $0.50/M output tokens, or $0.50/M and $2.50/M above 100k input tokens.",
-          "title_zh": "Cursor 公布 Claude Haiku 5.5 定价并下调 Claude Sonnet 5.5 缓存读取价格",
-          "title_en": "Claude Haiku 5.5 is priced at $0.10/M input and $0.50/M output tokens, or $0.50/M and $2.50/M above 100k input tokens.",
-          "title_original": "Claude Haiku 5.5 is priced at $0.10/M input and $0.50/M output tokens, or $0.50/M and $2.50/M above 100k input tokens.",
-          "summary": "Cursor 公布 Claude Haiku 5.5 定价为每 M 输入 token $0.10、输出 token $0.50，输入超过 100k token 时为 $0.50/M 和 $2.50/M。Claude Sonnet 5.5 缓存读取价格也从 $0.20/M 降至 $0.10/M，用户可在 cursor.com/evals 上通过 CursorBench 对比 Haiku 5.5 的表现。",
-          "recommend_reason_zh": null,
-          "url": "https://x.com/cursor_ai/status/2107897257651769464",
-          "source": "X：Cursor (@cursor_ai)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-07T18:14:03Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7223,
-      "importance": 0.7223,
-      "importance_score": 0.7223,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.71,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.765,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-10-07T18:14:03Z",
-      "latest_at": "2026-10-07T18:14:03Z",
-      "primary_item": {
-        "id": "53355e489f229621f1e8889e7bc47861aa900a2a",
-        "title": "Cursor 公布 Claude Haiku 5.5 定价并下调 Claude Sonnet 5.5 缓存读取价格 / Claude Haiku 5.5 is priced at $0.10/M input and $0.50/M output tokens, or $0.50/M and $2.50/M above 100k input tokens.",
-        "title_zh": "Cursor 公布 Claude Haiku 5.5 定价并下调 Claude Sonnet 5.5 缓存读取价格",
-        "title_en": "Claude Haiku 5.5 is priced at $0.10/M input and $0.50/M output tokens, or $0.50/M and $2.50/M above 100k input tokens.",
-        "title_original": "Claude Haiku 5.5 is priced at $0.10/M input and $0.50/M output tokens, or $0.50/M and $2.50/M above 100k input tokens.",
-        "summary": "Cursor 公布 Claude Haiku 5.5 定价为每 M 输入 token $0.10、输出 token $0.50，输入超过 100k token 时为 $0.50/M 和 $2.50/M。Claude Sonnet 5.5 缓存读取价格也从 $0.20/M 降至 $0.10/M，用户可在 cursor.com/evals 上通过 CursorBench 对比 Haiku 5.5 的表现。",
-        "recommend_reason_zh": null,
-        "url": "https://x.com/cursor_ai/status/2107897257651769464",
-        "source": "X：Cursor (@cursor_ai)",
-        "source_name": "AI HOT"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-10-08T12:49:36.325115Z"
-      }
-    },
-    {
-      "story_id": "story_77612876f6aa",
-      "title": "a16z 解析 Texas 为何让数据中心排队等待并网 / Why Texas Is Making Data Centers Wait",
-      "url": "https://www.a16z.news/p/why-texas-is-making-data-centers",
-      "primary_url": "https://www.a16z.news/p/why-texas-is-making-data-centers",
-      "source": "a16z：News（RSS）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "f2859699c58c0213601b34c1a089417db1504845",
-          "title": "a16z 解析 Texas 为何让数据中心排队等待并网 / Why Texas Is Making Data Centers Wait",
-          "title_zh": "a16z 解析 Texas 为何让数据中心排队等待并网",
-          "title_en": "Why Texas Is Making Data Centers Wait",
-          "title_original": "Why Texas Is Making Data Centers Wait",
-          "summary": "a16z 的 Ryan McEntush 撰文分析 Texas 电网对数据中心按下暂停键的能源原因。",
-          "recommend_reason_zh": null,
-          "url": "https://www.a16z.news/p/why-texas-is-making-data-centers",
-          "source": "a16z：News（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-07T14:01:44Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "a16z：News（RSS）"
-      ],
-      "items": [
-        {
-          "id": "f2859699c58c0213601b34c1a089417db1504845",
-          "title": "a16z 解析 Texas 为何让数据中心排队等待并网 / Why Texas Is Making Data Centers Wait",
-          "title_zh": "a16z 解析 Texas 为何让数据中心排队等待并网",
-          "title_en": "Why Texas Is Making Data Centers Wait",
-          "title_original": "Why Texas Is Making Data Centers Wait",
-          "summary": "a16z 的 Ryan McEntush 撰文分析 Texas 电网对数据中心按下暂停键的能源原因。",
-          "recommend_reason_zh": null,
-          "url": "https://www.a16z.news/p/why-texas-is-making-data-centers",
-          "source": "a16z：News（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-07T14:01:44Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7202,
-      "importance": 0.7202,
-      "importance_score": 0.7202,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.73,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7199,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-10-07T14:01:44Z",
-      "latest_at": "2026-10-07T14:01:44Z",
-      "primary_item": {
-        "id": "f2859699c58c0213601b34c1a089417db1504845",
-        "title": "a16z 解析 Texas 为何让数据中心排队等待并网 / Why Texas Is Making Data Centers Wait",
-        "title_zh": "a16z 解析 Texas 为何让数据中心排队等待并网",
-        "title_en": "Why Texas Is Making Data Centers Wait",
-        "title_original": "Why Texas Is Making Data Centers Wait",
-        "summary": "a16z 的 Ryan McEntush 撰文分析 Texas 电网对数据中心按下暂停键的能源原因。",
-        "recommend_reason_zh": null,
-        "url": "https://www.a16z.news/p/why-texas-is-making-data-centers",
-        "source": "a16z：News（RSS）",
-        "source_name": "AI HOT"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-10-08T12:49:36.325115Z"
+        "scored_at": "2026-10-08T13:48:23.970479Z"
       }
     }
   ]
